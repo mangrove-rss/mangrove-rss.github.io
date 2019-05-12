@@ -10,6 +10,12 @@
 			<showrss:showname>코미디 빅리그.E311.190512.720p-NEXT</showrss:showname>
 		</item>
 		<item>
+			<title>쇼 오디오자키.E09.190512.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:db41b7f24f9089d1cff70a8b1eb10fca72e1020e</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>쇼 오디오자키.E09.190512.720p-NEXT</showrss:showname>
+		</item>
+		<item>
 			<title>집사부일체.E69.190512.720p-NEXT</title>
 			<link>magnet:?xt=urn:btih:a0f90d2e81a0ce396f9a16193199bb2a453ec660</link>
 			<showrss:showid></showrss:showid>
@@ -136,30 +142,6 @@
 			<showrss:showname>강적들.E280.190511.720p NEXT</showrss:showname>
 		</item>
 		<item>
-			<title>아는 형님.E179.190511.720p NEXT</title>
-			<link>magnet:?xt=urn:btih:8ed0ae9ebec9562802af86e759d312f39d090928</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>아는 형님.E179.190511.720p NEXT</showrss:showname>
-		</item>
-		<item>
-			<title>방영중 배틀 트립.E141.190511.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:fd9b52315cdccffe17401d68b2b52496cdee59b3</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>방영중 배틀 트립.E141.190511.720p-NEXT</showrss:showname>
-		</item>
-		<item>
-			<title>방영중 정글의 법칙.E363.190511.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:0f36086c3732a46ee14b91c6cc2bf5d29ec5a508</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>방영중 정글의 법칙.E363.190511.720p-NEXT</showrss:showname>
-		</item>
-		<item>
-			<title>방영중 훈맨정음.E03.190511.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:b9c7bfeb5bbfabd0d13bff070a364509259b9136</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>방영중 훈맨정음.E03.190511.720p-NEXT</showrss:showname>
-		</item>
-		<item>
 			<title>방영중 놀라운 토요일 2부 도레미 마켓.E58.190511.720p-NEXT</title>
 			<link>magnet:?xt=urn:btih:1b67ee5d5257efa138c85557234e9f4698ff4e96</link>
 			<showrss:showid></showrss:showid>
@@ -170,12 +152,6 @@
 			<link>magnet:?xt=urn:btih:c35b93d97484e083ed5bee18b534de86b33ca424</link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname>방영중 불후의 명곡 전설을 노래하다.E403.190511.720p-NEXT</showrss:showname>
-		</item>
-		<item>
-			<title>방영중 놀라운 토요일 1부 호구들의 감빵생활.E09.190511.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:b858751340c7596a040dbb3f5c929c7e3a650a01</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>방영중 놀라운 토요일 1부 호구들의 감빵생활.E09.190511.720p-NEXT</showrss:showname>
 		</item>
 	</channel>
 </rss>
