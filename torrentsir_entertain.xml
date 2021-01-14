@@ -129,5 +129,11 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ [방영중] 싱어게인.E08.210111.720p-NEXT ]]></showrss:showname>
 		</item>
+		<item>
+			<title><![CDATA[ [방영중] 우리 이혼했어요.E08.210111.720p-NEXT ]]></title>
+			<link>magnet:?xt=urn:btih:0cb639a6daaf269b790d9f7bbba8724ab93781dd</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ [방영중] 우리 이혼했어요.E08.210111.720p-NEXT ]]></showrss:showname>
+		</item>
 	</channel>
 </rss>
