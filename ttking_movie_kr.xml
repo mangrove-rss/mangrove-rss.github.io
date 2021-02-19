@@ -94,12 +94,6 @@
 			<showrss:showname><![CDATA[ 사이 여우비 내리다 2014.1080p.HEVC.AAC ]]></showrss:showname>
 		</item>
 		<item>
-			<title><![CDATA[ 모든 걸 걸었어 2020.1080p.FHDRip.H264.AAC.mkv ]]></title>
-			<link>magnet:?xt=urn:btih:4B3998FB36EB6C14EB3EF8E2BEB085FEA8E28767</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ 모든 걸 걸었어 2020.1080p.FHDRip.H264.AAC.mkv ]]></showrss:showname>
-		</item>
-		<item>
 			<title><![CDATA[ 괴물 The.Host.2006.KOREAN.1080p.BluRay.x265-VXT ]]></title>
 			<link>magnet:?xt=urn:btih:876CF913EDB9CB4E5E6D69CEBA77230027D7B42C</link>
 			<showrss:showid></showrss:showid>
@@ -110,6 +104,12 @@
 			<link>magnet:?xt=urn:btih:8C160E0889D0686BC85DFB6970BE32F3E193C31F</link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ 오케이 마담 OK! MADAM.2019.1080p.HEVC.AAC.mp4 ]]></showrss:showname>
+		</item>
+		<item>
+			<title><![CDATA[ 모든 걸 걸었어 2020.1080p.FHDRip.H264.AAC.mkv ]]></title>
+			<link>magnet:?xt=urn:btih:4B3998FB36EB6C14EB3EF8E2BEB085FEA8E28767</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ 모든 걸 걸었어 2020.1080p.FHDRip.H264.AAC.mkv ]]></showrss:showname>
 		</item>
 		<item>
 			<title><![CDATA[ 미나리 Minari.2020.1080p.FHDRip.H264.AAC.mkv ]]></title>
@@ -158,12 +158,6 @@
 			<link>magnet:?xt=urn:btih:C16388D762633888D7495727C811A4F902A7D5A1</link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ 못말리는 컬링부 The Unstoppable Curling Team.2018.1080p.FHDRip.H264.AAC.mp4 ]]></showrss:showname>
-		</item>
-		<item>
-			<title><![CDATA[ 위시유 WISH YOU.2020.1080p.FHDRip.H264.AAC-NonDRM ]]></title>
-			<link>magnet:?xt=urn:btih:02D848968C6FD10DB4328FB8A6860B778AF63D05</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ 위시유 WISH YOU.2020.1080p.FHDRip.H264.AAC-NonDRM ]]></showrss:showname>
 		</item>
 	</channel>
 </rss>
