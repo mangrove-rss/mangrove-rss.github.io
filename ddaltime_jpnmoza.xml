@@ -4,6 +4,36 @@
 		<link></link>
 		<description></description>
 		<item>
+			<title><![CDATA[ COM-164 2021-05-10 ]]></title>
+			<link>magnet:?xt=urn:btih:0068c17a6cdac89759ea77a8556cff547465bede</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ COM-164 2021-05-10 ]]></showrss:showname>
+		</item>
+		<item>
+			<title><![CDATA[ CHRV-132 2021-05-08 ]]></title>
+			<link>magnet:?xt=urn:btih:29a06f75416059589472836d09fe8f11a862c749</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ CHRV-132 2021-05-08 ]]></showrss:showname>
+		</item>
+		<item>
+			<title><![CDATA[ CHRV-131 2021-05-08 ]]></title>
+			<link>magnet:?xt=urn:btih:d4d5db1547257ec846baafe97c1e9ef50a8b7366</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ CHRV-131 2021-05-08 ]]></showrss:showname>
+		</item>
+		<item>
+			<title><![CDATA[ BAHP-076 2021-05-08 ]]></title>
+			<link>magnet:?xt=urn:btih:3f47ecfdb7ff0071cec617d48712a7565228d10b</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ BAHP-076 2021-05-08 ]]></showrss:showname>
+		</item>
+		<item>
+			<title><![CDATA[ APOD-049 2021-05-08 ]]></title>
+			<link>magnet:?xt=urn:btih:3e8ff26304566c1bb0280bd8b147b8c8f2df4dcf</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ APOD-049 2021-05-08 ]]></showrss:showname>
+		</item>
+		<item>
 			<title><![CDATA[ MDTM-726 2021-05-08 ]]></title>
 			<link>magnet:?xt=urn:btih:1771d4c16684a217ab4d7fccfe19c16e2864f30f</link>
 			<showrss:showid></showrss:showid>
@@ -92,36 +122,6 @@
 			<link>magnet:?xt=urn:btih:6f32c000b83f4eb830a5504ca568180a59bf3264</link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ KAM-083 2021-05-07 ]]></showrss:showname>
-		</item>
-		<item>
-			<title><![CDATA[ KAM-082 2021-05-07 ]]></title>
-			<link>magnet:?xt=urn:btih:db252c548caf67c72066e48492104f3e19e1b4a0</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ KAM-082 2021-05-07 ]]></showrss:showname>
-		</item>
-		<item>
-			<title><![CDATA[ HODV-21574 2021-05-07 ]]></title>
-			<link>magnet:?xt=urn:btih:eb5c0b1cb7fc43382ddf0c33c8fc633232504331</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ HODV-21574 2021-05-07 ]]></showrss:showname>
-		</item>
-		<item>
-			<title><![CDATA[ RCTD-400 2021-05-07 ]]></title>
-			<link>magnet:?xt=urn:btih:eb9baef728c0cd010ae3c354a9829b2e8065da42</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ RCTD-400 2021-05-07 ]]></showrss:showname>
-		</item>
-		<item>
-			<title><![CDATA[ NHDTB-529 2021-05-07 ]]></title>
-			<link>magnet:?xt=urn:btih:3efb079f2317fbe41497cd348b6b92b77d5a4d28</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ NHDTB-529 2021-05-07 ]]></showrss:showname>
-		</item>
-		<item>
-			<title><![CDATA[ NHDTB-527 2021-05-07 ]]></title>
-			<link>magnet:?xt=urn:btih:d652bec46262b58425edae7919b4742ff3b1135b</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ NHDTB-527 2021-05-07 ]]></showrss:showname>
 		</item>
 	</channel>
 </rss>
