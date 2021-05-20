@@ -4,6 +4,36 @@
 		<link></link>
 		<description></description>
 		<item>
+			<title><![CDATA[ GVH-235 2021-05-19 ]]></title>
+			<link>magnet:?xt=urn:btih:d2374ff8e66ebb1827c78f2c6d4aa9b4078c7b76</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ GVH-235 2021-05-19 ]]></showrss:showname>
+		</item>
+		<item>
+			<title><![CDATA[ GVH-236 2021-05-19 ]]></title>
+			<link>magnet:?xt=urn:btih:a772d7f5035b04dacf6ee8dcc47cb982d88971ee</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ GVH-236 2021-05-19 ]]></showrss:showname>
+		</item>
+		<item>
+			<title><![CDATA[ GVH-232 2021-05-19 ]]></title>
+			<link>magnet:?xt=urn:btih:e1457544b0ebcd78a15049bb803e6422b2dd00ab</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ GVH-232 2021-05-19 ]]></showrss:showname>
+		</item>
+		<item>
+			<title><![CDATA[ MMB-366 2021-05-14 ]]></title>
+			<link>magnet:?xt=urn:btih:38e3fc991995b166ffa6e561540c6ba39962b07b</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ MMB-366 2021-05-14 ]]></showrss:showname>
+		</item>
+		<item>
+			<title><![CDATA[ MMB-367 2021-05-14 ]]></title>
+			<link>magnet:?xt=urn:btih:864343f9aa95fa0b2fff19774889baf693007add</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ MMB-367 2021-05-14 ]]></showrss:showname>
+		</item>
+		<item>
 			<title><![CDATA[ GVH-233 2021-05-19 ]]></title>
 			<link>magnet:?xt=urn:btih:8d4b01f89fe5fbbc5c498a87e093140c0374e873</link>
 			<showrss:showid></showrss:showid>
@@ -116,48 +146,6 @@
 			<link>magnet:?xt=urn:btih:f33a050f866686fad67ed2774706e18472623f9f</link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ KIRE-039 2021-05-18 ]]></showrss:showname>
-		</item>
-		<item>
-			<title><![CDATA[ STARS-375 2021-05-18 ]]></title>
-			<link>magnet:?xt=urn:btih:0384c80f2e3a0d7ae3508685c871d4903c63bf73</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ STARS-375 2021-05-18 ]]></showrss:showname>
-		</item>
-		<item>
-			<title><![CDATA[ SDNM-283 2021-05-18 ]]></title>
-			<link>magnet:?xt=urn:btih:df7bfbc35b7b44603931fc6c9541fe7288140a6d</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ SDNM-283 2021-05-18 ]]></showrss:showname>
-		</item>
-		<item>
-			<title><![CDATA[ SDNM-283 2021-05-18 ]]></title>
-			<link>magnet:?xt=urn:btih:942861f57c8d9dc1f21a67868e305eddf63ba865</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ SDNM-283 2021-05-18 ]]></showrss:showname>
-		</item>
-		<item>
-			<title><![CDATA[ SDTH-005 2021-05-18 ]]></title>
-			<link>magnet:?xt=urn:btih:8287f69af7ace28b7cb292ac5fbb94bcad00a9d4</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ SDTH-005 2021-05-18 ]]></showrss:showname>
-		</item>
-		<item>
-			<title><![CDATA[ SDNM-282 2021-05-18 ]]></title>
-			<link>magnet:?xt=urn:btih:0c9489e83b72840827bab3b5e8725f2114f566ff</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ SDNM-282 2021-05-18 ]]></showrss:showname>
-		</item>
-		<item>
-			<title><![CDATA[ STARS-374 2021-05-18 ]]></title>
-			<link>magnet:?xt=urn:btih:ac233fe3137a3c0748ecff8c74e3af8f53aa4b7d</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ STARS-374 2021-05-18 ]]></showrss:showname>
-		</item>
-		<item>
-			<title><![CDATA[ STARS-374 2021-05-18 ]]></title>
-			<link>magnet:?xt=urn:btih:66e93ca0bbe5ae1656973b1637738ace098af203</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ STARS-374 2021-05-18 ]]></showrss:showname>
 		</item>
 	</channel>
 </rss>
