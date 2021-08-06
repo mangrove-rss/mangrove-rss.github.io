@@ -46,12 +46,6 @@
 			<showrss:showname><![CDATA[ 루카 Luca.2021.1080p.KORDUB.FHDRip.H264.AAC-JTC ]]></showrss:showname>
 		</item>
 		<item>
-			<title><![CDATA[ 루카 Luca.2021.KORDUB.WEBRip.1080p.x264.AAC ]]></title>
-			<link>magnet:?xt=urn:btih:31ef0662dc1f112a7fbb70f9c6f225b2544d809e</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ 루카 Luca.2021.KORDUB.WEBRip.1080p.x264.AAC ]]></showrss:showname>
-		</item>
-		<item>
 			<title><![CDATA[ 에일리언 워페어 AIen Warfare 2019.1080p.KOR.FHDRip.H264.AAC-JTC ]]></title>
 			<link>magnet:?xt=urn:btih:058f460aed8fda226451b054db9acbd2a90964f7</link>
 			<showrss:showid></showrss:showid>
@@ -62,12 +56,6 @@
 			<link>magnet:?xt=urn:btih:7e15568ac5fa68364d289850324f323d841afc60</link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ 인 더 다크 The Source of Shadows.2021.1080p.KOR.FHDRip.H264.AAC-… ]]></showrss:showname>
-		</item>
-		<item>
-			<title><![CDATA[ 고백 Go Back.2021.1080p.FHDRip.H264.AAC-NonDRM ]]></title>
-			<link>magnet:?xt=urn:btih:70fc9d1824e6558b3cf61632c34c6f967e0a9e65</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ 고백 Go Back.2021.1080p.FHDRip.H264.AAC-NonDRM ]]></showrss:showname>
 		</item>
 		<item>
 			<title><![CDATA[ 분노의 역류 2 Backdraft 2 2019.1080p.KOR.FHDRip.H264.AAC-JTC ]]></title>
@@ -92,6 +80,18 @@
 			<link>magnet:?xt=urn:btih:7e64bdd8d64aeb37efaa1f1c611c0a7da140eee6</link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ 런어웨이-72 AWOL-72.2015.1080p.KOR.FHDRip.H264.AAC-JTC ]]></showrss:showname>
+		</item>
+		<item>
+			<title><![CDATA[ 철의 여인 The Iron Lady.2011.720.KOR.HDRip.H264.AAC-JTC ]]></title>
+			<link>magnet:?xt=urn:btih:318843180487aabbd94bd0db961bce7c7f6aa5d9</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ 철의 여인 The Iron Lady.2011.720.KOR.HDRip.H264.AAC-JTC ]]></showrss:showname>
+		</item>
+		<item>
+			<title><![CDATA[ 피라냐 Piranha 3D.2010.1080p.KOR.HEVC.AAC-JTC ]]></title>
+			<link>magnet:?xt=urn:btih:fc13e0372df83f7abf82e689af3c02770d81ebbd</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ 피라냐 Piranha 3D.2010.1080p.KOR.HEVC.AAC-JTC ]]></showrss:showname>
 		</item>
 	</channel>
 </rss>
