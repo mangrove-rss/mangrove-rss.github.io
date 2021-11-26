@@ -4,19 +4,8 @@
 		<link></link>
 		<description></description>
 		<item>
-<<<<<<< HEAD
 			<title><![CDATA[ 채소가지구.E03.211125.720p-NEXT ]]></title>
 			<link><![CDATA[ magnet:?xt=urn:btih:e187e4f3d3a4cd909bdf3fc8a9ae8348a049868a ]]></link>
-=======
-			<title><![CDATA[ 인간극장.E5221.211124.720p-NEXT ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:e7ec0dd907f77e975df6830445ff7ca6fd0d171a ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ 인간극장.E5221.211124.720p-NEXT ]]></showrss:showname>
-		</item>
-		<item>
-			<title><![CDATA[ 더 라이브.E410.211123.720p-NEXT ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:4cfeabfc2189f292320942f80beeb6fb3137e02b ]]></link>
->>>>>>> 46721696660d0ae96fa762c43fa026cf0dc8ca65
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ 채소가지구.E03.211125.720p-NEXT ]]></showrss:showname>
 		</item>
@@ -98,14 +87,11 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ KBS 다큐 클래식.E10.211125.720p-NEXT ]]></showrss:showname>
 		</item>
-<<<<<<< HEAD
 		<item>
 			<title><![CDATA[ 인간극장.E5222.211125.720p-NEXT ]]></title>
 			<link><![CDATA[ magnet:?xt=urn:btih:db05c8e73c83f22e5ecff39efc5cdb28b3cbb648 ]]></link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ 인간극장.E5222.211125.720p-NEXT ]]></showrss:showname>
 		</item>
-=======
->>>>>>> 46721696660d0ae96fa762c43fa026cf0dc8ca65
 	</channel>
 </rss>
