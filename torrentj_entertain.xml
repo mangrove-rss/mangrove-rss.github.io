@@ -1,8 +1,14 @@
 <rss xmlns:showrss="http://showrss.info/" version="2.0">
 	<channel>
-		<title>ktxtorrent - entertain</title>
+		<title>torrentj - entertain</title>
 		<link></link>
 		<description></description>
+		<item>
+			<title><![CDATA[ [방영중] 싱어게인2.E07.220117.1080p-NEXT ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih:63a83ff3ef284bf3e2917b19318e92015d898b36 ]]></link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ [방영중] 싱어게인2.E07.220117.1080p-NEXT ]]></showrss:showname>
+		</item>
 		<item>
 			<title><![CDATA[ [방영중] 호적메이트.E03.220118.720p-NEXT ]]></title>
 			<link><![CDATA[ magnet:?xt=urn:btih:5985fe38556a8b94c829c19c1a05133a5c66d837 ]]></link>
@@ -122,12 +128,6 @@
 			<link><![CDATA[ magnet:?xt=urn:btih:c77ea9b2f35645910622f8b20059baecc8a1621a ]]></link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ [방영중] 노는 브로 2.E22.220117.720p-NEXT ]]></showrss:showname>
-		</item>
-		<item>
-			<title><![CDATA[ [방영중] 슈퍼 DNA 피는 못 속여.E02.220117.720p-NEXT ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:2cbc72983f12b6bf140e0fc7a0c52cf0c658d539 ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ [방영중] 슈퍼 DNA 피는 못 속여.E02.220117.720p-NEXT ]]></showrss:showname>
 		</item>
 	</channel>
 </rss>

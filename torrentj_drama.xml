@@ -1,8 +1,14 @@
 <rss xmlns:showrss="http://showrss.info/" version="2.0">
 	<channel>
-		<title>ktxtorrent - drama</title>
+		<title>torrentj - drama</title>
 		<link></link>
 		<description></description>
+		<item>
+			<title><![CDATA[ [방영중] 꽃 피면 달 생각하고.E10.220118.720p-NEXT ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih:e138d710d604bc48e89eebd259c38eac9f53baaf ]]></link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ [방영중] 꽃 피면 달 생각하고.E10.220118.720p-NEXT ]]></showrss:showname>
+		</item>
 		<item>
 			<title><![CDATA[ [방영중] 일일연속극 국가대표 와이프.E72.220118.720p-NEXT ]]></title>
 			<link><![CDATA[ magnet:?xt=urn:btih:a5e7dd2ce4d579a02ad8a1478768c44cb773b92d ]]></link>
@@ -112,16 +118,10 @@
 			<showrss:showname><![CDATA[ [방영중] [토일미니시리즈] 엉클.E12.220116.720p-NEXT ]]></showrss:showname>
 		</item>
 		<item>
-			<title><![CDATA[ [완결] 불가살.E10.220116.720p-NEXT ]]></title>
+			<title><![CDATA[ [방영중] 불가살.E10.220116.720p-NEXT ]]></title>
 			<link><![CDATA[ magnet:?xt=urn:btih:9dc18b693f1b9013edc05cbe31f7c46fb9cdcc7d ]]></link>
 			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ [완결] 불가살.E10.220116.720p-NEXT ]]></showrss:showname>
-		</item>
-		<item>
-			<title><![CDATA[ [방영중] 신사와 아가씨.E34.220116.720p-NEXT ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:b2f5ad41ba6116a45e8c10127a72f578bb3f14bb ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ [방영중] 신사와 아가씨.E34.220116.720p-NEXT ]]></showrss:showname>
+			<showrss:showname><![CDATA[ [방영중] 불가살.E10.220116.720p-NEXT ]]></showrss:showname>
 		</item>
 	</channel>
 </rss>
