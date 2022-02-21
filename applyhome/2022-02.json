@@ -806,7 +806,7 @@
 			"name": "오산세교 한양수자인",
 			"type": "APT 특별공급",
 			"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000029&pblancNo=2022000029&houseSecd=01",
-			"addr": "경기도 오산시 서동 39-1번지 일원",
+			"addr": "경기도 오산시 서동 7-5번지 일원(서1구역 A2블럭)",
 			"short_addr": "경기도 오산시",
 			"addr_lv1": "경기도",
 			"addr_lv2": "오산시",
@@ -933,6 +933,16 @@
 			"apply_nums": "28세대"
 		},
 		{
+			"name": "대전 씨엘리오 스위첸",
+			"type": "무순위/취소후재공급",
+			"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910047&pblancNo=2022910047&houseSecd=04",
+			"addr": "대전광역시 서구 용문동 593-11번지 외 6필지",
+			"short_addr": "대전광역시 서구",
+			"addr_lv1": "대전광역시",
+			"addr_lv2": "서구",
+			"apply_nums": "2세대"
+		},
+		{
 			"name": "부천 원종 길성그랑프리텔",
 			"type": "무순위/취소후재공급",
 			"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910031&pblancNo=2022910031&houseSecd=04",
@@ -951,6 +961,16 @@
 			"addr_lv1": "경기도",
 			"addr_lv2": "안성시",
 			"apply_nums": "2세대"
+		},
+		{
+			"name": "용문역 리체스트",
+			"type": "무순위/취소후재공급",
+			"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910028&pblancNo=2022910028&houseSecd=04",
+			"addr": "대전광역시 서구 용문동 589-14외 2필지",
+			"short_addr": "대전광역시 서구",
+			"addr_lv1": "대전광역시",
+			"addr_lv2": "서구",
+			"apply_nums": "69세대"
 		},
 		{
 			"name": "이안 더 센트로 의정부",
@@ -981,6 +1001,16 @@
 			"addr_lv1": "경기도",
 			"addr_lv2": "안성시",
 			"apply_nums": "263세대"
+		},
+		{
+			"name": "힐스테이트 앞산 센트럴",
+			"type": "무순위/취소후재공급",
+			"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910045&pblancNo=2022910045&houseSecd=04",
+			"addr": "대구광역시 남구 대덕로 166-4(봉덕동)",
+			"short_addr": "대구광역시 남구",
+			"addr_lv1": "대구광역시",
+			"addr_lv2": "남구",
+			"apply_nums": "3세대"
 		},
 		{
 			"name": "양주 회천지구 A-20BL 대광로제비앙 2차(사전청약)",
@@ -1038,7 +1068,7 @@
 			"name": "오산세교 한양수자인",
 			"type": "APT 1순위",
 			"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000029&pblancNo=2022000029&houseSecd=01",
-			"addr": "경기도 오산시 서동 39-1번지 일원",
+			"addr": "경기도 오산시 서동 7-5번지 일원(서1구역 A2블럭)",
 			"short_addr": "경기도 오산시",
 			"addr_lv1": "경기도",
 			"addr_lv2": "오산시",
@@ -1145,6 +1175,26 @@
 			"apply_nums": "213세대"
 		},
 		{
+			"name": "광주 방림 골드클래스",
+			"type": "무순위/취소후재공급",
+			"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910044&pblancNo=2022910044&houseSecd=04",
+			"addr": "광주광역시 남구 방림동 1-1번지 일원",
+			"short_addr": "광주광역시 남구",
+			"addr_lv1": "광주광역시",
+			"addr_lv2": "남구",
+			"apply_nums": "161세대"
+		},
+		{
+			"name": "엘리프세종",
+			"type": "무순위/취소후재공급",
+			"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910046&pblancNo=2022910046&houseSecd=04",
+			"addr": "세종특별자치시 조치원읍 봉산리379",
+			"short_addr": "세종특별자치시 조치원읍",
+			"addr_lv1": "세종특별자치시",
+			"addr_lv2": "조치원읍",
+			"apply_nums": "3세대"
+		},
+		{
 			"name": "양주 회천지구 A-20BL 대광로제비앙 2차(사전청약)",
 			"type": "민간사전청약 APT 2순위",
 			"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520002&pblancNo=2022520002&houseSecd=09",
@@ -1166,6 +1216,16 @@
 		}
 	],
 	"2022-02-23": [
+		{
+			"name": "장흥 줌파크 더 센트로",
+			"type": "APT 특별공급",
+			"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000065&pblancNo=2022000065&houseSecd=01",
+			"addr": "전라남도 장흥군 장흥읍 건산리 500-15번지 일원",
+			"short_addr": "전라남도 장흥군",
+			"addr_lv1": "전라남도",
+			"addr_lv2": "장흥군",
+			"apply_nums": "239세대"
+		},
 		{
 			"name": "내포신도시 모아미래도 메가시티 2차",
 			"type": "APT 1순위",
@@ -1200,7 +1260,7 @@
 			"name": "오산세교 한양수자인",
 			"type": "APT 1순위",
 			"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000029&pblancNo=2022000029&houseSecd=01",
-			"addr": "경기도 오산시 서동 39-1번지 일원",
+			"addr": "경기도 오산시 서동 7-5번지 일원(서1구역 A2블럭)",
 			"short_addr": "경기도 오산시",
 			"addr_lv1": "경기도",
 			"addr_lv2": "오산시",
@@ -1259,6 +1319,16 @@
 	],
 	"2022-02-24": [
 		{
+			"name": "장흥 줌파크 더 센트로",
+			"type": "APT 1순위",
+			"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000065&pblancNo=2022000065&houseSecd=01",
+			"addr": "전라남도 장흥군 장흥읍 건산리 500-15번지 일원",
+			"short_addr": "전라남도 장흥군",
+			"addr_lv1": "전라남도",
+			"addr_lv2": "장흥군",
+			"apply_nums": "239세대"
+		},
+		{
 			"name": "내포신도시 모아미래도 메가시티 2차",
 			"type": "APT 2순위",
 			"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000041&pblancNo=2022000041&houseSecd=01",
@@ -1292,7 +1362,7 @@
 			"name": "오산세교 한양수자인",
 			"type": "APT 2순위",
 			"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000029&pblancNo=2022000029&houseSecd=01",
-			"addr": "경기도 오산시 서동 39-1번지 일원",
+			"addr": "경기도 오산시 서동 7-5번지 일원(서1구역 A2블럭)",
 			"short_addr": "경기도 오산시",
 			"addr_lv1": "경기도",
 			"addr_lv2": "오산시",
@@ -1341,6 +1411,16 @@
 	],
 	"2022-02-25": [
 		{
+			"name": "장흥 줌파크 더 센트로",
+			"type": "APT 2순위",
+			"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000065&pblancNo=2022000065&houseSecd=01",
+			"addr": "전라남도 장흥군 장흥읍 건산리 500-15번지 일원",
+			"short_addr": "전라남도 장흥군",
+			"addr_lv1": "전라남도",
+			"addr_lv2": "장흥군",
+			"apply_nums": "239세대"
+		},
+		{
 			"name": "디케이밸리뷰 용산(2차)",
 			"type": "오피스텔/도시형생활주택/민간임대",
 			"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950011&pblancNo=2022950011&houseSecd=02",
@@ -1349,6 +1429,128 @@
 			"addr_lv1": "서울특별시",
 			"addr_lv2": "용산구",
 			"apply_nums": "20세대"
+		}
+	],
+	"2022-02-28": [
+		{
+			"name": "e편한세상 안성 그랑루체",
+			"type": "APT 특별공급",
+			"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000050&pblancNo=2022000050&houseSecd=01",
+			"addr": "경기도 안성시 당왕동 42번지 일원",
+			"short_addr": "경기도 안성시",
+			"addr_lv1": "경기도",
+			"addr_lv2": "안성시",
+			"apply_nums": "1370세대"
+		},
+		{
+			"name": "수성 센트레빌 어반포레",
+			"type": "APT 특별공급",
+			"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000091&pblancNo=2022000091&houseSecd=01",
+			"addr": "대구광역시 수성구 파동 328-1번지 일원",
+			"short_addr": "대구광역시 수성구",
+			"addr_lv1": "대구광역시",
+			"addr_lv2": "수성구",
+			"apply_nums": "310세대"
+		},
+		{
+			"name": "신양주 모아엘가 니케",
+			"type": "APT 특별공급",
+			"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000070&pblancNo=2022000070&houseSecd=01",
+			"addr": "경기도 양주시 백석읍 홍죽리 산1-12번지 외 2필지",
+			"short_addr": "경기도 양주시",
+			"addr_lv1": "경기도",
+			"addr_lv2": "양주시",
+			"apply_nums": "570세대"
+		},
+		{
+			"name": "신영지웰 에스테이트 개봉역",
+			"type": "APT 특별공급",
+			"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000051&pblancNo=2022000051&houseSecd=01",
+			"addr": "서울특별시 구로구 개봉동 171-2번지 일원",
+			"short_addr": "서울특별시 구로구",
+			"addr_lv1": "서울특별시",
+			"addr_lv2": "구로구",
+			"apply_nums": "101세대"
+		},
+		{
+			"name": "칸타빌 수유팰리스",
+			"type": "APT 특별공급",
+			"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000092&pblancNo=2022000092&houseSecd=01",
+			"addr": "서울특별시 강북구 수유동 179-2외 4필지",
+			"short_addr": "서울특별시 강북구",
+			"addr_lv1": "서울특별시",
+			"addr_lv2": "강북구",
+			"apply_nums": "216세대"
+		},
+		{
+			"name": "힐스테이트 구리역",
+			"type": "APT 특별공급",
+			"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000074&pblancNo=2022000074&houseSecd=01",
+			"addr": "경기도 구리시 수택동 532번지 일원",
+			"short_addr": "경기도 구리시",
+			"addr_lv1": "경기도",
+			"addr_lv2": "구리시",
+			"apply_nums": "250세대"
+		},
+		{
+			"name": "힐스테이트 통영",
+			"type": "APT 특별공급",
+			"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000045&pblancNo=2022000045&houseSecd=01",
+			"addr": "경상남도 통영시 광도면 죽림리 327번지 일원",
+			"short_addr": "경상남도 통영시",
+			"addr_lv1": "경상남도",
+			"addr_lv2": "통영시",
+			"apply_nums": "784세대"
+		},
+		{
+			"name": "더샵 노형포레",
+			"type": "APT 1순위",
+			"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000084&pblancNo=2022000084&houseSecd=01",
+			"addr": "제주특별자치도 제주시 노형동 460번지 외 5필지",
+			"short_addr": "제주특별자치도 제주시",
+			"addr_lv1": "제주특별자치도",
+			"addr_lv2": "제주시",
+			"apply_nums": "80세대"
+		},
+		{
+			"name": "더샵 연동포레",
+			"type": "APT 1순위",
+			"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000083&pblancNo=2022000083&houseSecd=01",
+			"addr": "제주특별자치도 제주시 연동1342번지 외6필지",
+			"short_addr": "제주특별자치도 제주시",
+			"addr_lv1": "제주특별자치도",
+			"addr_lv2": "제주시",
+			"apply_nums": "40세대"
+		},
+		{
+			"name": "의정부역 월드메르디앙 스마트시티",
+			"type": "APT 1순위",
+			"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000016&pblancNo=2022000016&houseSecd=01",
+			"addr": "경기도 의정부시 둔야로 19(의정부동)",
+			"short_addr": "경기도 의정부시",
+			"addr_lv1": "경기도",
+			"addr_lv2": "의정부시",
+			"apply_nums": "96세대"
+		},
+		{
+			"name": "지젤 라이프그라피 서초",
+			"type": "오피스텔/도시형생활주택/민간임대",
+			"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950012&pblancNo=2022950012&houseSecd=02",
+			"addr": "서울특별시 서초구 서초동 1593-13번지 외 6필지",
+			"short_addr": "서울특별시 서초구",
+			"addr_lv1": "서울특별시",
+			"addr_lv2": "서초구",
+			"apply_nums": "399세대"
+		},
+		{
+			"name": "동대구역 센텀 화성파크드림(111타입, 1-2층)",
+			"type": "무순위/취소후재공급",
+			"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910049&pblancNo=2022910049&houseSecd=04",
+			"addr": "대구광역시 동구 신암동 139-69번지 일원",
+			"short_addr": "대구광역시 동구",
+			"addr_lv1": "대구광역시",
+			"addr_lv2": "동구",
+			"apply_nums": "4세대"
 		}
 	]
 }
