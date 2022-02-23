@@ -988,6 +988,32 @@
 		"apply_nums": "399세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910048&pblancNo=2022910048&houseSecd=04",
+		"in_date": "20220228",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "검단신도시 푸르지오 더 베뉴",
+		"addr": "인천광역시 서구 원당동 1018",
+		"short_addr": "인천광역시 서구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910052&pblancNo=2022910052&houseSecd=04",
+		"in_date": "20220228",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "남천 세원 수",
+		"addr": "부산광역시 수영구 남천동 55-20",
+		"short_addr": "부산광역시 수영구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "수영구",
+		"apply_nums": "3세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910049&pblancNo=2022910049&houseSecd=04",
 		"in_date": "20220228",
 		"hsecd": "04",
@@ -1313,6 +1339,19 @@
 		"apply_nums": "258세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000054&pblancNo=2022000054&houseSecd=01",
+		"in_date": "20220304",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "엘리프세종6-3",
+		"addr": "세종특별자치시 산울동 일원(행정중심복합도시 6-3 M4블록)",
+		"short_addr": "세종특별자치시 산울동",
+		"addr_lv1": "세종특별자치시",
+		"addr_lv2": "산울동",
+		"apply_nums": "560세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000050&pblancNo=2022000050&houseSecd=01",
 		"in_date": "20220304",
 		"hsecd": "01",
@@ -1389,5 +1428,31 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "구리시",
 		"apply_nums": "250세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000054&pblancNo=2022000054&houseSecd=01",
+		"in_date": "20220307",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "엘리프세종6-3",
+		"addr": "세종특별자치시 산울동 일원(행정중심복합도시 6-3 M4블록)",
+		"short_addr": "세종특별자치시 산울동",
+		"addr_lv1": "세종특별자치시",
+		"addr_lv2": "산울동",
+		"apply_nums": "560세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000054&pblancNo=2022000054&houseSecd=01",
+		"in_date": "20220308",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "엘리프세종6-3",
+		"addr": "세종특별자치시 산울동 일원(행정중심복합도시 6-3 M4블록)",
+		"short_addr": "세종특별자치시 산울동",
+		"addr_lv1": "세종특별자치시",
+		"addr_lv2": "산울동",
+		"apply_nums": "560세대"
 	}
 ]
