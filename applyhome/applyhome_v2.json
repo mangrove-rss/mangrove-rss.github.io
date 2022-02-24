@@ -1196,6 +1196,32 @@
 		"apply_nums": "258세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910050&pblancNo=2022910050&houseSecd=04",
+		"in_date": "20220302",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "남악 오룡지구 39BL 오룡 푸르지오 파르세나",
+		"addr": "전라남도 무안군 일로읍 망월리 남악신도시 오룡택지지구 39BL",
+		"short_addr": "전라남도 무안군",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "무안군",
+		"apply_nums": "68세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910051&pblancNo=2022910051&houseSecd=04",
+		"in_date": "20220302",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "남악 오룡지구 40BL 오룡 푸르지오 파르세나",
+		"addr": "전라남도 무안군 일로읍 망월리 남악신도시 오룡택지지구 40BL",
+		"short_addr": "전라남도 무안군",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "무안군",
+		"apply_nums": "36세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000050&pblancNo=2022000050&houseSecd=01",
 		"in_date": "20220303",
 		"hsecd": "01",
@@ -1430,6 +1456,32 @@
 		"apply_nums": "250세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000090&pblancNo=2022000090&houseSecd=01",
+		"in_date": "20220307",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "KTX송도역 서해그랑블 더 파크",
+		"addr": "인천광역시 연수구 옥련동118-46번지 일원",
+		"short_addr": "인천광역시 연수구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "연수구",
+		"apply_nums": "348세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000096&pblancNo=2022000096&houseSecd=01",
+		"in_date": "20220307",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "라데사 포레 매곡",
+		"addr": "광주광역시 북구 하백로5번길 34(매곡동, 라데사 포레 매곡)",
+		"short_addr": "광주광역시 북구",
+		"addr_lv1": "광주광역시",
+		"addr_lv2": "북구",
+		"apply_nums": "44세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000054&pblancNo=2022000054&houseSecd=01",
 		"in_date": "20220307",
 		"hsecd": "01",
@@ -1443,6 +1495,32 @@
 		"apply_nums": "560세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000090&pblancNo=2022000090&houseSecd=01",
+		"in_date": "20220308",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "KTX송도역 서해그랑블 더 파크",
+		"addr": "인천광역시 연수구 옥련동118-46번지 일원",
+		"short_addr": "인천광역시 연수구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "연수구",
+		"apply_nums": "348세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000096&pblancNo=2022000096&houseSecd=01",
+		"in_date": "20220308",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "라데사 포레 매곡",
+		"addr": "광주광역시 북구 하백로5번길 34(매곡동, 라데사 포레 매곡)",
+		"short_addr": "광주광역시 북구",
+		"addr_lv1": "광주광역시",
+		"addr_lv2": "북구",
+		"apply_nums": "44세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000054&pblancNo=2022000054&houseSecd=01",
 		"in_date": "20220308",
 		"hsecd": "01",
@@ -1454,5 +1532,57 @@
 		"addr_lv1": "세종특별자치시",
 		"addr_lv2": "산울동",
 		"apply_nums": "560세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000090&pblancNo=2022000090&houseSecd=01",
+		"in_date": "20220310",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "KTX송도역 서해그랑블 더 파크",
+		"addr": "인천광역시 연수구 옥련동118-46번지 일원",
+		"short_addr": "인천광역시 연수구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "연수구",
+		"apply_nums": "348세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000096&pblancNo=2022000096&houseSecd=01",
+		"in_date": "20220310",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "라데사 포레 매곡",
+		"addr": "광주광역시 북구 하백로5번길 34(매곡동, 라데사 포레 매곡)",
+		"short_addr": "광주광역시 북구",
+		"addr_lv1": "광주광역시",
+		"addr_lv2": "북구",
+		"apply_nums": "44세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000090&pblancNo=2022000090&houseSecd=01",
+		"in_date": "20220311",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "KTX송도역 서해그랑블 더 파크",
+		"addr": "인천광역시 연수구 옥련동118-46번지 일원",
+		"short_addr": "인천광역시 연수구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "연수구",
+		"apply_nums": "348세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000096&pblancNo=2022000096&houseSecd=01",
+		"in_date": "20220311",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "라데사 포레 매곡",
+		"addr": "광주광역시 북구 하백로5번길 34(매곡동, 라데사 포레 매곡)",
+		"short_addr": "광주광역시 북구",
+		"addr_lv1": "광주광역시",
+		"addr_lv2": "북구",
+		"apply_nums": "44세대"
 	}
 ]
