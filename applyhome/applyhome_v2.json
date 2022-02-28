@@ -1,123 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000065&pblancNo=2022000065&houseSecd=01",
-		"in_date": "20220224",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "장흥 줌파크 더 센트로",
-		"addr": "전라남도 장흥군 장흥읍 건산리 500-15번지 일원",
-		"short_addr": "전라남도 장흥군",
-		"addr_lv1": "전라남도",
-		"addr_lv2": "장흥군",
-		"apply_nums": "239세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000041&pblancNo=2022000041&houseSecd=01",
-		"in_date": "20220224",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "내포신도시 모아미래도 메가시티 2차",
-		"addr": "충청남도 홍성군 홍북읍 신경리 947-1(내포신도시 RH5-3블럭)",
-		"short_addr": "충청남도 홍성군",
-		"addr_lv1": "충청남도",
-		"addr_lv2": "홍성군",
-		"apply_nums": "836세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000073&pblancNo=2022000073&houseSecd=01",
-		"in_date": "20220224",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "대전 도마·변동 11구역 호반써밋 그랜드 센트럴",
-		"addr": "대전광역시 서구 도마동 145-8번지 일원",
-		"short_addr": "대전광역시 서구",
-		"addr_lv1": "대전광역시",
-		"addr_lv2": "서구",
-		"apply_nums": "1017세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000031&pblancNo=2022000031&houseSecd=01",
-		"in_date": "20220224",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "센트레빌 아스테리움 영등포",
-		"addr": "서울특별시 영등포구 영등포동2가 439번지 일대",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "106세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000029&pblancNo=2022000029&houseSecd=01",
-		"in_date": "20220224",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "오산세교 한양수자인",
-		"addr": "경기도 오산시 서동 7-5번지 일원(서1구역 A2블럭)",
-		"short_addr": "경기도 오산시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "오산시",
-		"apply_nums": "127세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000032&pblancNo=2022000032&houseSecd=01",
-		"in_date": "20220224",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "지제역 푸르지오 엘리아츠",
-		"addr": "경기도 평택시 동삭세교지구 도시개발구역 공동1블록 ",
-		"short_addr": "경기도 평택시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "평택시",
-		"apply_nums": "812세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000047&pblancNo=2022000047&houseSecd=01",
-		"in_date": "20220224",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "평택화양 휴먼빌 퍼스트시티",
-		"addr": "경기도 평택시 현덕면 화양길 94-39(평택화양지구 7-1BL)",
-		"short_addr": "경기도 평택시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "평택시",
-		"apply_nums": "1468세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000001&pblancNo=2022000001&houseSecd=01",
-		"in_date": "20220224",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "해링턴 플레이스 휴리움",
-		"addr": "대전광역시 중구 선화동 339-55번지 일원",
-		"short_addr": "대전광역시 중구",
-		"addr_lv1": "대전광역시",
-		"addr_lv2": "중구",
-		"apply_nums": "744세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950011&pblancNo=2022950011&houseSecd=02",
-		"in_date": "20220224",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "디케이밸리뷰 용산(2차)",
-		"addr": "서울특별시 용산구 한강로3가 65-115, 65-231",
-		"short_addr": "서울특별시 용산구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "용산구",
-		"apply_nums": "20세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000065&pblancNo=2022000065&houseSecd=01",
 		"in_date": "20220225",
 		"hsecd": "01",
 		"rse": "03",
@@ -892,6 +775,32 @@
 		"apply_nums": "39세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950014&pblancNo=2022950014&houseSecd=02",
+		"in_date": "20220307",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "평촌자이아이파크(민간임대)",
+		"addr": "경기도 안양시 동안구 비산로 22(비산동)",
+		"short_addr": "경기도 안양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "안양시",
+		"apply_nums": "90세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910055&pblancNo=2022910055&houseSecd=04",
+		"in_date": "20220307",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "에비뉴 청계 I",
+		"addr": "서울특별시 종로구 숭인동 1419-2",
+		"short_addr": "서울특별시 종로구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "종로구",
+		"apply_nums": "1세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000090&pblancNo=2022000090&houseSecd=01",
 		"in_date": "20220308",
 		"hsecd": "01",
@@ -996,6 +905,19 @@
 		"apply_nums": "39세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950014&pblancNo=2022950014&houseSecd=02",
+		"in_date": "20220308",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "평촌자이아이파크(민간임대)",
+		"addr": "경기도 안양시 동안구 비산로 22(비산동)",
+		"short_addr": "경기도 안양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "안양시",
+		"apply_nums": "90세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000062&pblancNo=2022000062&houseSecd=01",
 		"in_date": "20220310",
 		"hsecd": "01",
@@ -1074,6 +996,19 @@
 		"apply_nums": "56세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520008&pblancNo=2022520008&houseSecd=09",
+		"in_date": "20220310",
+		"hsecd": "09",
+		"rse": "07",
+		"type": "민간사전청약 APT 특별공급",
+		"name": "제일풍경채 의왕고천(사전청약)",
+		"addr": "경기도 의왕시 고천공공주택지구 B-2블록",
+		"short_addr": "경기도 의왕시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "의왕시",
+		"apply_nums": "810세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000062&pblancNo=2022000062&houseSecd=01",
 		"in_date": "20220311",
 		"hsecd": "01",
@@ -1152,6 +1087,19 @@
 		"apply_nums": "56세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520008&pblancNo=2022520008&houseSecd=09",
+		"in_date": "20220311",
+		"hsecd": "09",
+		"rse": "08",
+		"type": "민간사전청약 APT 1순위",
+		"name": "제일풍경채 의왕고천(사전청약)",
+		"addr": "경기도 의왕시 고천공공주택지구 B-2블록",
+		"short_addr": "경기도 의왕시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "의왕시",
+		"apply_nums": "810세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000062&pblancNo=2022000062&houseSecd=01",
 		"in_date": "20220314",
 		"hsecd": "01",
@@ -1176,5 +1124,31 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "파주시",
 		"apply_nums": "606세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520008&pblancNo=2022520008&houseSecd=09",
+		"in_date": "20220314",
+		"hsecd": "09",
+		"rse": "08",
+		"type": "민간사전청약 APT 1순위",
+		"name": "제일풍경채 의왕고천(사전청약)",
+		"addr": "경기도 의왕시 고천공공주택지구 B-2블록",
+		"short_addr": "경기도 의왕시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "의왕시",
+		"apply_nums": "810세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520008&pblancNo=2022520008&houseSecd=09",
+		"in_date": "20220315",
+		"hsecd": "09",
+		"rse": "09",
+		"type": "민간사전청약 APT 2순위",
+		"name": "제일풍경채 의왕고천(사전청약)",
+		"addr": "경기도 의왕시 고천공공주택지구 B-2블록",
+		"short_addr": "경기도 의왕시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "의왕시",
+		"apply_nums": "810세대"
 	}
 ]
