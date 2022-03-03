@@ -710,6 +710,45 @@
 		"apply_nums": "90세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910056&pblancNo=2022910056&houseSecd=04",
+		"in_date": "20220308",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "사하 삼정그린코아 더시티(부산시 거주자, 재당첨제한적용)",
+		"addr": "부산광역시 사하구 하단동 510-27번지",
+		"short_addr": "부산광역시 사하구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "사하구",
+		"apply_nums": "14세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910057&pblancNo=2022910057&houseSecd=04",
+		"in_date": "20220308",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "송도 센트럴파크 리버리치",
+		"addr": "인천광역시 연수구 송도동 22-12번지 외 2필지",
+		"short_addr": "인천광역시 연수구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "연수구",
+		"apply_nums": "22세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910058&pblancNo=2022910058&houseSecd=04",
+		"in_date": "20220308",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "평촌자이아이파크",
+		"addr": "경기도 안양시 동안구 비산동 515-2번지 일원",
+		"short_addr": "경기도 안양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "안양시",
+		"apply_nums": "41세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000062&pblancNo=2022000062&houseSecd=01",
 		"in_date": "20220310",
 		"hsecd": "01",
@@ -994,6 +1033,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "의왕시",
 		"apply_nums": "810세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000075&pblancNo=2022000075&houseSecd=01",
+		"in_date": "20220314",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "제주시 신일 해피트리 더 힐",
+		"addr": "제주특별자치도 제주시 조천읍 신촌리 951번지 일원",
+		"short_addr": "제주특별자치도 제주시",
+		"addr_lv1": "제주특별자치도",
+		"addr_lv2": "제주시",
+		"apply_nums": "92세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000062&pblancNo=2022000062&houseSecd=01",
@@ -1098,6 +1150,19 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "서구",
 		"apply_nums": "815세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000075&pblancNo=2022000075&houseSecd=01",
+		"in_date": "20220315",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "제주시 신일 해피트리 더 힐",
+		"addr": "제주특별자치도 제주시 조천읍 신촌리 951번지 일원",
+		"short_addr": "제주특별자치도 제주시",
+		"addr_lv1": "제주특별자치도",
+		"addr_lv2": "제주시",
+		"apply_nums": "92세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520007&pblancNo=2022520007&houseSecd=09",
