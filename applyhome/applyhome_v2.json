@@ -827,6 +827,32 @@
 		"apply_nums": "56세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910061&pblancNo=2022910061&houseSecd=04",
+		"in_date": "20220310",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "순천 오네뜨센트럴",
+		"addr": "전라남도 순천시 덕연로 71(조례동)",
+		"short_addr": "전라남도 순천시",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "순천시",
+		"apply_nums": "113세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910059&pblancNo=2022910059&houseSecd=04",
+		"in_date": "20220310",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "우장산 한울에이치밸리움",
+		"addr": "서울특별시 강서구 공항대로 42길 11(내발산동 649-3)",
+		"short_addr": "서울특별시 강서구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강서구",
+		"apply_nums": "1세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520004&pblancNo=2022520004&houseSecd=09",
 		"in_date": "20220310",
 		"hsecd": "09",
@@ -1035,6 +1061,19 @@
 		"apply_nums": "810세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000088&pblancNo=2022000088&houseSecd=01",
+		"in_date": "20220314",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "당진 수청2지구 RH-3블록 호반써밋 시그니처 3차",
+		"addr": "충청남도 당진시 수청동 당진수청2지구 RH-3블럭",
+		"short_addr": "충청남도 당진시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "당진시",
+		"apply_nums": "853세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000075&pblancNo=2022000075&houseSecd=01",
 		"in_date": "20220314",
 		"hsecd": "01",
@@ -1152,6 +1191,19 @@
 		"apply_nums": "815세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000088&pblancNo=2022000088&houseSecd=01",
+		"in_date": "20220315",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "당진 수청2지구 RH-3블록 호반써밋 시그니처 3차",
+		"addr": "충청남도 당진시 수청동 당진수청2지구 RH-3블럭",
+		"short_addr": "충청남도 당진시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "당진시",
+		"apply_nums": "853세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000075&pblancNo=2022000075&houseSecd=01",
 		"in_date": "20220315",
 		"hsecd": "01",
@@ -1189,6 +1241,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "의왕시",
 		"apply_nums": "810세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000088&pblancNo=2022000088&houseSecd=01",
+		"in_date": "20220316",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "당진 수청2지구 RH-3블록 호반써밋 시그니처 3차",
+		"addr": "충청남도 당진시 수청동 당진수청2지구 RH-3블럭",
+		"short_addr": "충청남도 당진시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "당진시",
+		"apply_nums": "853세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520007&pblancNo=2022520007&houseSecd=09",
