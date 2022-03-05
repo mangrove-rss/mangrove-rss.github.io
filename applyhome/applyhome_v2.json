@@ -1074,6 +1074,19 @@
 		"apply_nums": "853세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000093&pblancNo=2022000093&houseSecd=01",
+		"in_date": "20220314",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "서대전 한국아델리움",
+		"addr": "대전광역시 중구 당디로124번길 13-1(유천동)",
+		"short_addr": "대전광역시 중구",
+		"addr_lv1": "대전광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "195세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000075&pblancNo=2022000075&houseSecd=01",
 		"in_date": "20220314",
 		"hsecd": "01",
@@ -1204,6 +1217,19 @@
 		"apply_nums": "853세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000093&pblancNo=2022000093&houseSecd=01",
+		"in_date": "20220315",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "서대전 한국아델리움",
+		"addr": "대전광역시 중구 당디로124번길 13-1(유천동)",
+		"short_addr": "대전광역시 중구",
+		"addr_lv1": "대전광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "195세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000075&pblancNo=2022000075&houseSecd=01",
 		"in_date": "20220315",
 		"hsecd": "01",
@@ -1243,6 +1269,19 @@
 		"apply_nums": "810세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000093&pblancNo=2022000093&houseSecd=01",
+		"in_date": "20220316",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "서대전 한국아델리움",
+		"addr": "대전광역시 중구 당디로124번길 13-1(유천동)",
+		"short_addr": "대전광역시 중구",
+		"addr_lv1": "대전광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "195세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000088&pblancNo=2022000088&houseSecd=01",
 		"in_date": "20220316",
 		"hsecd": "01",
@@ -1267,5 +1306,18 @@
 		"addr_lv1": "부산광역시",
 		"addr_lv2": "기장군",
 		"apply_nums": "410세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000093&pblancNo=2022000093&houseSecd=01",
+		"in_date": "20220317",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "서대전 한국아델리움",
+		"addr": "대전광역시 중구 당디로124번길 13-1(유천동)",
+		"short_addr": "대전광역시 중구",
+		"addr_lv1": "대전광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "195세대"
 	}
 ]
