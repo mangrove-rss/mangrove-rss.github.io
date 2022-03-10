@@ -832,6 +832,32 @@
 		"apply_nums": "92세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910066&pblancNo=2022910066&houseSecd=04",
+		"in_date": "20220315",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "부천 원종 길성그랑프리텔",
+		"addr": "경기도 부천시 소사로748번길 29(원종동, 길성그랑프리텔)",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "2세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910068&pblancNo=2022910068&houseSecd=04",
+		"in_date": "20220315",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "호반써밋 포레센트 천안 삼룡1지구",
+		"addr": "충청남도 천안시 동남구 삼룡동 218-33",
+		"short_addr": "충청남도 천안시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "천안시",
+		"apply_nums": "24세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520007&pblancNo=2022520007&houseSecd=09",
 		"in_date": "20220315",
 		"hsecd": "09",
