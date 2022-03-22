@@ -1,18 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2021000939&pblancNo=2021000939&houseSecd=01",
-		"in_date": "20220318",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "부천 원종 아이원시티",
-		"addr": "경기도 부천시 소사로748번길 57-14(원종동)",
-		"short_addr": "경기도 부천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "부천시",
-		"apply_nums": "132세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000120&pblancNo=2022000120&houseSecd=01",
 		"in_date": "20220321",
 		"hsecd": "01",
