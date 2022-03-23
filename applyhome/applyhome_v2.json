@@ -455,6 +455,19 @@
 		"apply_nums": "4세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910079&pblancNo=2022910079&houseSecd=04",
+		"in_date": "20220328",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "오산세교 한양수자인",
+		"addr": "경기도 오산시 서동 7-5번지 일원(서1구역 A2블럭)",
+		"short_addr": "경기도 오산시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "오산시",
+		"apply_nums": "4세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520010&pblancNo=2022520010&houseSecd=09",
 		"in_date": "20220328",
 		"hsecd": "09",
