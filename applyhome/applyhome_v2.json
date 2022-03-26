@@ -1,109 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000120&pblancNo=2022000120&houseSecd=01",
-		"in_date": "20220322",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "가락마을6단지 중흥S-클래스 프라디움",
-		"addr": "세종특별자치시 마음로 14(고운동, 가락마을6단지)",
-		"short_addr": "세종특별자치시 마음로",
-		"addr_lv1": "세종특별자치시",
-		"addr_lv2": "마음로",
-		"apply_nums": "143세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000121&pblancNo=2022000121&houseSecd=01",
-		"in_date": "20220322",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "가락마을7단지 중흥S-클래스 프라디움",
-		"addr": "세종특별자치시 마음안로 13(고운동, 가락마을7단지)",
-		"short_addr": "세종특별자치시 마음안로",
-		"addr_lv1": "세종특별자치시",
-		"addr_lv2": "마음안로",
-		"apply_nums": "56세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000124&pblancNo=2022000124&houseSecd=01",
-		"in_date": "20220322",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "가야 봄여름가을겨울",
-		"addr": "부산광역시 부산진구 가야동 585",
-		"short_addr": "부산광역시 부산진구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "부산진구",
-		"apply_nums": "90세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000063&pblancNo=2022000063&houseSecd=01",
-		"in_date": "20220322",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "서광교 파크뷰",
-		"addr": "수원시 장안구 연무동 18-2 외 2필지",
-		"short_addr": "수원시 장안구",
-		"addr_lv1": "수원시",
-		"addr_lv2": "장안구",
-		"apply_nums": "72세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000101&pblancNo=2022000101&houseSecd=01",
-		"in_date": "20220322",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "울산 베스티안",
-		"addr": "울산광역시 동구 전하동 681-1",
-		"short_addr": "울산광역시 동구",
-		"addr_lv1": "울산광역시",
-		"addr_lv2": "동구",
-		"apply_nums": "62세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2021000939&pblancNo=2021000939&houseSecd=01",
-		"in_date": "20220322",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "부천 원종 아이원시티",
-		"addr": "경기도 부천시 소사로748번길 57-14(원종동)",
-		"short_addr": "경기도 부천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "부천시",
-		"apply_nums": "132세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950017&pblancNo=2022950017&houseSecd=02",
-		"in_date": "20220322",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "오션퍼스트",
-		"addr": "부산광역시 강서구 명지동 3605-3",
-		"short_addr": "부산광역시 강서구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "강서구",
-		"apply_nums": "272세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910067&pblancNo=2022910067&houseSecd=04",
-		"in_date": "20220322",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "용문역 리체스트",
-		"addr": "대전광역시 서구 용문동 589-14외 2필지",
-		"short_addr": "대전광역시 서구",
-		"addr_lv1": "대전광역시",
-		"addr_lv2": "서구",
-		"apply_nums": "65세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000124&pblancNo=2022000124&houseSecd=01",
 		"in_date": "20220323",
 		"hsecd": "01",
@@ -637,6 +533,19 @@
 		"apply_nums": "687세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000095&pblancNo=2022000095&houseSecd=01",
+		"in_date": "20220404",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "구서 태성에버리치",
+		"addr": "부산광역시 금정구 구서동 162-9",
+		"short_addr": "부산광역시 금정구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "금정구",
+		"apply_nums": "57세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000177&pblancNo=2022000177&houseSecd=01",
 		"in_date": "20220404",
 		"hsecd": "01",
@@ -819,6 +728,19 @@
 		"apply_nums": "213세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000095&pblancNo=2022000095&houseSecd=01",
+		"in_date": "20220405",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "구서 태성에버리치",
+		"addr": "부산광역시 금정구 구서동 162-9",
+		"short_addr": "부산광역시 금정구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "금정구",
+		"apply_nums": "57세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000177&pblancNo=2022000177&houseSecd=01",
 		"in_date": "20220405",
 		"hsecd": "01",
@@ -1001,6 +923,32 @@
 		"apply_nums": "213세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000161&pblancNo=2022000161&houseSecd=01",
+		"in_date": "20220406",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "디엘본가평설악",
+		"addr": "경기도 가평군 설악면 신천리 산 45-27번지 일원",
+		"short_addr": "경기도 가평군",
+		"addr_lv1": "경기도",
+		"addr_lv2": "가평군",
+		"apply_nums": "107세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000095&pblancNo=2022000095&houseSecd=01",
+		"in_date": "20220406",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "구서 태성에버리치",
+		"addr": "부산광역시 금정구 구서동 162-9",
+		"short_addr": "부산광역시 금정구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "금정구",
+		"apply_nums": "57세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000177&pblancNo=2022000177&houseSecd=01",
 		"in_date": "20220406",
 		"hsecd": "01",
@@ -1170,6 +1118,32 @@
 		"apply_nums": "135세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000161&pblancNo=2022000161&houseSecd=01",
+		"in_date": "20220407",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "디엘본가평설악",
+		"addr": "경기도 가평군 설악면 신천리 산 45-27번지 일원",
+		"short_addr": "경기도 가평군",
+		"addr_lv1": "경기도",
+		"addr_lv2": "가평군",
+		"apply_nums": "107세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000095&pblancNo=2022000095&houseSecd=01",
+		"in_date": "20220407",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "구서 태성에버리치",
+		"addr": "부산광역시 금정구 구서동 162-9",
+		"short_addr": "부산광역시 금정구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "금정구",
+		"apply_nums": "57세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000177&pblancNo=2022000177&houseSecd=01",
 		"in_date": "20220407",
 		"hsecd": "01",
@@ -1233,6 +1207,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "강북구",
 		"apply_nums": "424세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000161&pblancNo=2022000161&houseSecd=01",
+		"in_date": "20220408",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "디엘본가평설악",
+		"addr": "경기도 가평군 설악면 신천리 산 45-27번지 일원",
+		"short_addr": "경기도 가평군",
+		"addr_lv1": "경기도",
+		"addr_lv2": "가평군",
+		"apply_nums": "107세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000138&pblancNo=2022000138&houseSecd=01",
