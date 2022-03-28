@@ -1,44 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000112&pblancNo=2022000112&houseSecd=01",
-		"in_date": "20220324",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "휴안 더갤러리 오라",
-		"addr": "제주특별자치도 제주시 오라이동 1364-1, 1364-3번지",
-		"short_addr": "제주특별자치도 제주시",
-		"addr_lv1": "제주특별자치도",
-		"addr_lv2": "제주시",
-		"apply_nums": "48세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000124&pblancNo=2022000124&houseSecd=01",
-		"in_date": "20220324",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "가야 봄여름가을겨울",
-		"addr": "부산광역시 부산진구 가야동 585",
-		"short_addr": "부산광역시 부산진구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "부산진구",
-		"apply_nums": "90세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000063&pblancNo=2022000063&houseSecd=01",
-		"in_date": "20220324",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "서광교 파크뷰",
-		"addr": "수원시 장안구 연무동 18-2 외 2필지",
-		"short_addr": "수원시 장안구",
-		"addr_lv1": "수원시",
-		"addr_lv2": "장안구",
-		"apply_nums": "72세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000127&pblancNo=2022000127&houseSecd=01",
 		"in_date": "20220325",
 		"hsecd": "01",
@@ -843,6 +804,19 @@
 		"addr_lv1": "제주특별자치도",
 		"addr_lv2": "제주시",
 		"apply_nums": "213세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910081&pblancNo=2022910081&houseSecd=04",
+		"in_date": "20220405",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "평택화양 휴먼빌 퍼스트시티",
+		"addr": "경기도 평택시 현덕면 화양길 94-39(평택화양지구 7-1BL)",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "30세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000161&pblancNo=2022000161&houseSecd=01",
