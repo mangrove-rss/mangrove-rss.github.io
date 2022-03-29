@@ -1,31 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000127&pblancNo=2022000127&houseSecd=01",
-		"in_date": "20220325",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "더 트루엘 포항",
-		"addr": "경상북도 포항시 남구 오천읍 구정리 528-9번지 일원",
-		"short_addr": "경상북도 포항시",
-		"addr_lv1": "경상북도",
-		"addr_lv2": "포항시",
-		"apply_nums": "255세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000112&pblancNo=2022000112&houseSecd=01",
-		"in_date": "20220325",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "휴안 더갤러리 오라",
-		"addr": "제주특별자치도 제주시 오라이동 1364-1, 1364-3번지",
-		"short_addr": "제주특별자치도 제주시",
-		"addr_lv1": "제주특별자치도",
-		"addr_lv2": "제주시",
-		"apply_nums": "48세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000141&pblancNo=2022000141&houseSecd=01",
 		"in_date": "20220328",
 		"hsecd": "01",
@@ -611,6 +585,19 @@
 		"apply_nums": "213세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910083&pblancNo=2022910083&houseSecd=04",
+		"in_date": "20220404",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "사하 삼정그린코아 더시티(부산시거주 무주택자, 재당첨제한적용)",
+		"addr": "부산광역시 사하구 하단동 510-27번지",
+		"short_addr": "부산광역시 사하구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "사하구",
+		"apply_nums": "11세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000095&pblancNo=2022000095&houseSecd=01",
 		"in_date": "20220405",
 		"hsecd": "01",
@@ -1014,6 +1001,19 @@
 		"apply_nums": "135세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000131&pblancNo=2022000131&houseSecd=01",
+		"in_date": "20220407",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "부암2차 비스타동원 아트포레",
+		"addr": "부산광역시 부산진구 부암동 298-163번지 일원",
+		"short_addr": "부산광역시 부산진구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "부산진구",
+		"apply_nums": "440세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000161&pblancNo=2022000161&houseSecd=01",
 		"in_date": "20220407",
 		"hsecd": "01",
@@ -1105,6 +1105,19 @@
 		"apply_nums": "424세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000131&pblancNo=2022000131&houseSecd=01",
+		"in_date": "20220408",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "부암2차 비스타동원 아트포레",
+		"addr": "부산광역시 부산진구 부암동 298-163번지 일원",
+		"short_addr": "부산광역시 부산진구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "부산진구",
+		"apply_nums": "440세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000161&pblancNo=2022000161&houseSecd=01",
 		"in_date": "20220408",
 		"hsecd": "01",
@@ -1118,6 +1131,32 @@
 		"apply_nums": "107세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520013&pblancNo=2022520013&houseSecd=09",
+		"in_date": "20220408",
+		"hsecd": "09",
+		"rse": "07",
+		"type": "민간사전청약 APT 특별공급",
+		"name": "광주 선운2지구 예다음(사전청약)",
+		"addr": "광주광역시 광산구 운수동 선운2지구 B-2BL",
+		"short_addr": "광주광역시 광산구",
+		"addr_lv1": "광주광역시",
+		"addr_lv2": "광산구",
+		"apply_nums": "505세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520009&pblancNo=2022520009&houseSecd=09",
+		"in_date": "20220408",
+		"hsecd": "09",
+		"rse": "07",
+		"type": "민간사전청약 APT 특별공급",
+		"name": "양주 회천지구 A-12BL 라온프라이빗(사전청약)",
+		"addr": "경기도 양주시 양주회천지구 A12BL",
+		"short_addr": "경기도 양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "양주시",
+		"apply_nums": "568세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000138&pblancNo=2022000138&houseSecd=01",
 		"in_date": "20220411",
 		"hsecd": "01",
@@ -1142,6 +1181,58 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "서구",
 		"apply_nums": "462세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000131&pblancNo=2022000131&houseSecd=01",
+		"in_date": "20220411",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "부암2차 비스타동원 아트포레",
+		"addr": "부산광역시 부산진구 부암동 298-163번지 일원",
+		"short_addr": "부산광역시 부산진구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "부산진구",
+		"apply_nums": "440세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520017&pblancNo=2022520017&houseSecd=09",
+		"in_date": "20220411",
+		"hsecd": "09",
+		"rse": "07",
+		"type": "민간사전청약 APT 특별공급",
+		"name": "김해 진례지구 C-2BL 디에트르(사전청약)",
+		"addr": "경상남도 김해시 진례면 송정리 513-2 일원",
+		"short_addr": "경상남도 김해시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "김해시",
+		"apply_nums": "502세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520013&pblancNo=2022520013&houseSecd=09",
+		"in_date": "20220411",
+		"hsecd": "09",
+		"rse": "08",
+		"type": "민간사전청약 APT 1순위",
+		"name": "광주 선운2지구 예다음(사전청약)",
+		"addr": "광주광역시 광산구 운수동 선운2지구 B-2BL",
+		"short_addr": "광주광역시 광산구",
+		"addr_lv1": "광주광역시",
+		"addr_lv2": "광산구",
+		"apply_nums": "505세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520009&pblancNo=2022520009&houseSecd=09",
+		"in_date": "20220411",
+		"hsecd": "09",
+		"rse": "08",
+		"type": "민간사전청약 APT 1순위",
+		"name": "양주 회천지구 A-12BL 라온프라이빗(사전청약)",
+		"addr": "경기도 양주시 양주회천지구 A12BL",
+		"short_addr": "경기도 양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "양주시",
+		"apply_nums": "568세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000138&pblancNo=2022000138&houseSecd=01",
@@ -1170,6 +1261,58 @@
 		"apply_nums": "462세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000131&pblancNo=2022000131&houseSecd=01",
+		"in_date": "20220412",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "부암2차 비스타동원 아트포레",
+		"addr": "부산광역시 부산진구 부암동 298-163번지 일원",
+		"short_addr": "부산광역시 부산진구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "부산진구",
+		"apply_nums": "440세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520013&pblancNo=2022520013&houseSecd=09",
+		"in_date": "20220412",
+		"hsecd": "09",
+		"rse": "08",
+		"type": "민간사전청약 APT 1순위",
+		"name": "광주 선운2지구 예다음(사전청약)",
+		"addr": "광주광역시 광산구 운수동 선운2지구 B-2BL",
+		"short_addr": "광주광역시 광산구",
+		"addr_lv1": "광주광역시",
+		"addr_lv2": "광산구",
+		"apply_nums": "505세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520017&pblancNo=2022520017&houseSecd=09",
+		"in_date": "20220412",
+		"hsecd": "09",
+		"rse": "08",
+		"type": "민간사전청약 APT 1순위",
+		"name": "김해 진례지구 C-2BL 디에트르(사전청약)",
+		"addr": "경상남도 김해시 진례면 송정리 513-2 일원",
+		"short_addr": "경상남도 김해시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "김해시",
+		"apply_nums": "502세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520009&pblancNo=2022520009&houseSecd=09",
+		"in_date": "20220412",
+		"hsecd": "09",
+		"rse": "09",
+		"type": "민간사전청약 APT 2순위",
+		"name": "양주 회천지구 A-12BL 라온프라이빗(사전청약)",
+		"addr": "경기도 양주시 양주회천지구 A12BL",
+		"short_addr": "경기도 양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "양주시",
+		"apply_nums": "568세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000138&pblancNo=2022000138&houseSecd=01",
 		"in_date": "20220413",
 		"hsecd": "01",
@@ -1194,5 +1337,31 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "서구",
 		"apply_nums": "462세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520013&pblancNo=2022520013&houseSecd=09",
+		"in_date": "20220413",
+		"hsecd": "09",
+		"rse": "09",
+		"type": "민간사전청약 APT 2순위",
+		"name": "광주 선운2지구 예다음(사전청약)",
+		"addr": "광주광역시 광산구 운수동 선운2지구 B-2BL",
+		"short_addr": "광주광역시 광산구",
+		"addr_lv1": "광주광역시",
+		"addr_lv2": "광산구",
+		"apply_nums": "505세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520017&pblancNo=2022520017&houseSecd=09",
+		"in_date": "20220413",
+		"hsecd": "09",
+		"rse": "09",
+		"type": "민간사전청약 APT 2순위",
+		"name": "김해 진례지구 C-2BL 디에트르(사전청약)",
+		"addr": "경상남도 김해시 진례면 송정리 513-2 일원",
+		"short_addr": "경상남도 김해시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "김해시",
+		"apply_nums": "502세대"
 	}
 ]
