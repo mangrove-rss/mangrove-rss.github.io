@@ -585,6 +585,19 @@
 		"apply_nums": "213세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910087&pblancNo=2022910087&houseSecd=04",
+		"in_date": "20220404",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "리버카운티(8회차, 의정부시 거주자 및 무주택세대구성원 대상)",
+		"addr": "경기도 의정부시 호국로1346번길 12(의정부동, 리버카운티)",
+		"short_addr": "경기도 의정부시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "의정부시",
+		"apply_nums": "2세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910083&pblancNo=2022910083&houseSecd=04",
 		"in_date": "20220404",
 		"hsecd": "04",
@@ -596,6 +609,19 @@
 		"addr_lv1": "부산광역시",
 		"addr_lv2": "사하구",
 		"apply_nums": "11세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910086&pblancNo=2022910086&houseSecd=04",
+		"in_date": "20220404",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "송도 센트럴파크 리버리치",
+		"addr": "인천광역시 연수구 송도동 22-12 외 2필지",
+		"short_addr": "인천광역시 연수구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "연수구",
+		"apply_nums": "22세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000095&pblancNo=2022000095&houseSecd=01",
@@ -1105,6 +1131,32 @@
 		"apply_nums": "424세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000140&pblancNo=2022000140&houseSecd=01",
+		"in_date": "20220408",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "제일풍경채 검단Ⅱ",
+		"addr": "인천광역시 서구 불로동 AB18BL",
+		"short_addr": "인천광역시 서구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "1734세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000163&pblancNo=2022000163&houseSecd=01",
+		"in_date": "20220408",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "창원현동 A-2BL 10년 분양전환 공공임대주택",
+		"addr": "경상남도 창원시 마산합포구 현동310",
+		"short_addr": "경상남도 창원시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "창원시",
+		"apply_nums": "809세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000131&pblancNo=2022000131&houseSecd=01",
 		"in_date": "20220408",
 		"hsecd": "01",
@@ -1157,6 +1209,45 @@
 		"apply_nums": "568세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520014&pblancNo=2022520014&houseSecd=09",
+		"in_date": "20220408",
+		"hsecd": "09",
+		"rse": "07",
+		"type": "민간사전청약 APT 특별공급",
+		"name": "인천 가정2지구 B2블록 우미 린(사전청약)",
+		"addr": "인천광역시 서구 가정동 인천가정2 공공주택지구 내 B-2BL",
+		"short_addr": "인천광역시 서구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "278세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520012&pblancNo=2022520012&houseSecd=09",
+		"in_date": "20220408",
+		"hsecd": "09",
+		"rse": "07",
+		"type": "민간사전청약 APT 특별공급",
+		"name": "파주 운정3지구 제일풍경채 A46BL(사전청약)",
+		"addr": "경기도 파주시 동패동 415(운정3지구 A46BL)일원",
+		"short_addr": "경기도 파주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "파주시",
+		"apply_nums": "345세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520015&pblancNo=2022520015&houseSecd=09",
+		"in_date": "20220408",
+		"hsecd": "09",
+		"rse": "07",
+		"type": "민간사전청약 APT 특별공급",
+		"name": "평택 고덕국제신도시 A-50블록(사전청약)",
+		"addr": "경기도 평택시 고덕택지개발지구 A-50BL",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "578세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000138&pblancNo=2022000138&houseSecd=01",
 		"in_date": "20220411",
 		"hsecd": "01",
@@ -1194,6 +1285,32 @@
 		"addr_lv1": "부산광역시",
 		"addr_lv2": "부산진구",
 		"apply_nums": "440세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000140&pblancNo=2022000140&houseSecd=01",
+		"in_date": "20220411",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "제일풍경채 검단Ⅱ",
+		"addr": "인천광역시 서구 불로동 AB18BL",
+		"short_addr": "인천광역시 서구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "1734세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000163&pblancNo=2022000163&houseSecd=01",
+		"in_date": "20220411",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "창원현동 A-2BL 10년 분양전환 공공임대주택",
+		"addr": "경상남도 창원시 마산합포구 현동310",
+		"short_addr": "경상남도 창원시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "창원시",
+		"apply_nums": "809세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520017&pblancNo=2022520017&houseSecd=09",
@@ -1209,6 +1326,19 @@
 		"apply_nums": "502세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520016&pblancNo=2022520016&houseSecd=09",
+		"in_date": "20220411",
+		"hsecd": "09",
+		"rse": "07",
+		"type": "민간사전청약 APT 특별공급",
+		"name": "파주 운정신도시 A49블록 시티프라디움 (사전청약)",
+		"addr": "경기도 파주시 운정신도시 A49블록",
+		"short_addr": "경기도 파주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "파주시",
+		"apply_nums": "438세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520013&pblancNo=2022520013&houseSecd=09",
 		"in_date": "20220411",
 		"hsecd": "09",
@@ -1233,6 +1363,45 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "양주시",
 		"apply_nums": "568세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520014&pblancNo=2022520014&houseSecd=09",
+		"in_date": "20220411",
+		"hsecd": "09",
+		"rse": "08",
+		"type": "민간사전청약 APT 1순위",
+		"name": "인천 가정2지구 B2블록 우미 린(사전청약)",
+		"addr": "인천광역시 서구 가정동 인천가정2 공공주택지구 내 B-2BL",
+		"short_addr": "인천광역시 서구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "278세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520012&pblancNo=2022520012&houseSecd=09",
+		"in_date": "20220411",
+		"hsecd": "09",
+		"rse": "08",
+		"type": "민간사전청약 APT 1순위",
+		"name": "파주 운정3지구 제일풍경채 A46BL(사전청약)",
+		"addr": "경기도 파주시 동패동 415(운정3지구 A46BL)일원",
+		"short_addr": "경기도 파주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "파주시",
+		"apply_nums": "345세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520015&pblancNo=2022520015&houseSecd=09",
+		"in_date": "20220411",
+		"hsecd": "09",
+		"rse": "08",
+		"type": "민간사전청약 APT 1순위",
+		"name": "평택 고덕국제신도시 A-50블록(사전청약)",
+		"addr": "경기도 평택시 고덕택지개발지구 A-50BL",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "578세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000138&pblancNo=2022000138&houseSecd=01",
@@ -1274,6 +1443,32 @@
 		"apply_nums": "440세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000140&pblancNo=2022000140&houseSecd=01",
+		"in_date": "20220412",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "제일풍경채 검단Ⅱ",
+		"addr": "인천광역시 서구 불로동 AB18BL",
+		"short_addr": "인천광역시 서구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "1734세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000163&pblancNo=2022000163&houseSecd=01",
+		"in_date": "20220412",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "창원현동 A-2BL 10년 분양전환 공공임대주택",
+		"addr": "경상남도 창원시 마산합포구 현동310",
+		"short_addr": "경상남도 창원시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "창원시",
+		"apply_nums": "809세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520013&pblancNo=2022520013&houseSecd=09",
 		"in_date": "20220412",
 		"hsecd": "09",
@@ -1300,6 +1495,32 @@
 		"apply_nums": "502세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520014&pblancNo=2022520014&houseSecd=09",
+		"in_date": "20220412",
+		"hsecd": "09",
+		"rse": "08",
+		"type": "민간사전청약 APT 1순위",
+		"name": "인천 가정2지구 B2블록 우미 린(사전청약)",
+		"addr": "인천광역시 서구 가정동 인천가정2 공공주택지구 내 B-2BL",
+		"short_addr": "인천광역시 서구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "278세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520016&pblancNo=2022520016&houseSecd=09",
+		"in_date": "20220412",
+		"hsecd": "09",
+		"rse": "08",
+		"type": "민간사전청약 APT 1순위",
+		"name": "파주 운정신도시 A49블록 시티프라디움 (사전청약)",
+		"addr": "경기도 파주시 운정신도시 A49블록",
+		"short_addr": "경기도 파주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "파주시",
+		"apply_nums": "438세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520009&pblancNo=2022520009&houseSecd=09",
 		"in_date": "20220412",
 		"hsecd": "09",
@@ -1311,6 +1532,32 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "양주시",
 		"apply_nums": "568세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520012&pblancNo=2022520012&houseSecd=09",
+		"in_date": "20220412",
+		"hsecd": "09",
+		"rse": "09",
+		"type": "민간사전청약 APT 2순위",
+		"name": "파주 운정3지구 제일풍경채 A46BL(사전청약)",
+		"addr": "경기도 파주시 동패동 415(운정3지구 A46BL)일원",
+		"short_addr": "경기도 파주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "파주시",
+		"apply_nums": "345세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520015&pblancNo=2022520015&houseSecd=09",
+		"in_date": "20220412",
+		"hsecd": "09",
+		"rse": "09",
+		"type": "민간사전청약 APT 2순위",
+		"name": "평택 고덕국제신도시 A-50블록(사전청약)",
+		"addr": "경기도 평택시 고덕택지개발지구 A-50BL",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "578세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000138&pblancNo=2022000138&houseSecd=01",
@@ -1363,5 +1610,31 @@
 		"addr_lv1": "경상남도",
 		"addr_lv2": "김해시",
 		"apply_nums": "502세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520014&pblancNo=2022520014&houseSecd=09",
+		"in_date": "20220413",
+		"hsecd": "09",
+		"rse": "09",
+		"type": "민간사전청약 APT 2순위",
+		"name": "인천 가정2지구 B2블록 우미 린(사전청약)",
+		"addr": "인천광역시 서구 가정동 인천가정2 공공주택지구 내 B-2BL",
+		"short_addr": "인천광역시 서구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "278세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520016&pblancNo=2022520016&houseSecd=09",
+		"in_date": "20220413",
+		"hsecd": "09",
+		"rse": "09",
+		"type": "민간사전청약 APT 2순위",
+		"name": "파주 운정신도시 A49블록 시티프라디움 (사전청약)",
+		"addr": "경기도 파주시 운정신도시 A49블록",
+		"short_addr": "경기도 파주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "파주시",
+		"apply_nums": "438세대"
 	}
 ]
