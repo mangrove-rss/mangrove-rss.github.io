@@ -403,6 +403,19 @@
 		"apply_nums": "57세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2021000968&pblancNo=2021000968&houseSecd=01",
+		"in_date": "20220404",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "나주 한국아델리움 더하이츠",
+		"addr": "전라남도 나주시 이창동 714번지 일원",
+		"short_addr": "전라남도 나주시",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "나주시",
+		"apply_nums": "140세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000177&pblancNo=2022000177&houseSecd=01",
 		"in_date": "20220404",
 		"hsecd": "01",
@@ -585,6 +598,19 @@
 		"apply_nums": "213세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910089&pblancNo=2022910089&houseSecd=04",
+		"in_date": "20220404",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "광주 방림 골드클래스",
+		"addr": "광주광역시 남구 방림동 1-1번지 일원",
+		"short_addr": "광주광역시 남구",
+		"addr_lv1": "광주광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "4세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910087&pblancNo=2022910087&houseSecd=04",
 		"in_date": "20220404",
 		"hsecd": "04",
@@ -624,6 +650,19 @@
 		"apply_nums": "22세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910084&pblancNo=2022910084&houseSecd=04",
+		"in_date": "20220404",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "천안 극동스타클래스 더퍼스트",
+		"addr": "충청남도 천안시 동남구 다가동 30번지 일원",
+		"short_addr": "충청남도 천안시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "천안시",
+		"apply_nums": "9세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000095&pblancNo=2022000095&houseSecd=01",
 		"in_date": "20220405",
 		"hsecd": "01",
@@ -635,6 +674,19 @@
 		"addr_lv1": "부산광역시",
 		"addr_lv2": "금정구",
 		"apply_nums": "57세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2021000968&pblancNo=2021000968&houseSecd=01",
+		"in_date": "20220405",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "나주 한국아델리움 더하이츠",
+		"addr": "전라남도 나주시 이창동 714번지 일원",
+		"short_addr": "전라남도 나주시",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "나주시",
+		"apply_nums": "140세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000177&pblancNo=2022000177&houseSecd=01",
@@ -832,6 +884,45 @@
 		"apply_nums": "30세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910094&pblancNo=2022910094&houseSecd=04",
+		"in_date": "20220405",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "한화 포레나 천안노태 1단지",
+		"addr": "충청남도 천안시 서북구 성성동 440-11일원",
+		"short_addr": "충청남도 천안시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "천안시",
+		"apply_nums": "40세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910095&pblancNo=2022910095&houseSecd=04",
+		"in_date": "20220405",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "한화 포레나 천안노태 2단지",
+		"addr": "충청남도 천안시 서북구 백석동 76-50일원",
+		"short_addr": "충청남도 천안시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "천안시",
+		"apply_nums": "2세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910080&pblancNo=2022910080&houseSecd=04",
+		"in_date": "20220405",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "힐스테이트 앞산 센트럴",
+		"addr": "대구광역시 남구 대덕로 166-4(봉덕동)",
+		"short_addr": "대구광역시 남구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "3세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000161&pblancNo=2022000161&houseSecd=01",
 		"in_date": "20220406",
 		"hsecd": "01",
@@ -921,6 +1012,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "강북구",
 		"apply_nums": "424세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2021000968&pblancNo=2021000968&houseSecd=01",
+		"in_date": "20220406",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "나주 한국아델리움 더하이츠",
+		"addr": "전라남도 나주시 이창동 714번지 일원",
+		"short_addr": "전라남도 나주시",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "나주시",
+		"apply_nums": "140세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000155&pblancNo=2022000155&houseSecd=01",
@@ -1248,6 +1352,32 @@
 		"apply_nums": "578세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000183&pblancNo=2022000183&houseSecd=01",
+		"in_date": "20220411",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "문수로 푸르지오 어반피스",
+		"addr": "울산광역시 남구 신정동 1266-6번지 일원",
+		"short_addr": "울산광역시 남구",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "339세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2021000996&pblancNo=2021000996&houseSecd=01",
+		"in_date": "20220411",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "인천 신흥동 3가 숭의역 엘크루",
+		"addr": "인천광역시 중구 신흥동3가 7-79 외 25필지",
+		"short_addr": "인천광역시 중구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "72세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000138&pblancNo=2022000138&houseSecd=01",
 		"in_date": "20220411",
 		"hsecd": "01",
@@ -1404,6 +1534,32 @@
 		"apply_nums": "578세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000183&pblancNo=2022000183&houseSecd=01",
+		"in_date": "20220412",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "문수로 푸르지오 어반피스",
+		"addr": "울산광역시 남구 신정동 1266-6번지 일원",
+		"short_addr": "울산광역시 남구",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "339세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2021000996&pblancNo=2021000996&houseSecd=01",
+		"in_date": "20220412",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "인천 신흥동 3가 숭의역 엘크루",
+		"addr": "인천광역시 중구 신흥동3가 7-79 외 25필지",
+		"short_addr": "인천광역시 중구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "72세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000138&pblancNo=2022000138&houseSecd=01",
 		"in_date": "20220412",
 		"hsecd": "01",
@@ -1560,6 +1716,32 @@
 		"apply_nums": "578세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000183&pblancNo=2022000183&houseSecd=01",
+		"in_date": "20220413",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "문수로 푸르지오 어반피스",
+		"addr": "울산광역시 남구 신정동 1266-6번지 일원",
+		"short_addr": "울산광역시 남구",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "339세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2021000996&pblancNo=2021000996&houseSecd=01",
+		"in_date": "20220413",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "인천 신흥동 3가 숭의역 엘크루",
+		"addr": "인천광역시 중구 신흥동3가 7-79 외 25필지",
+		"short_addr": "인천광역시 중구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "72세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000138&pblancNo=2022000138&houseSecd=01",
 		"in_date": "20220413",
 		"hsecd": "01",
@@ -1636,5 +1818,31 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "파주시",
 		"apply_nums": "438세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000183&pblancNo=2022000183&houseSecd=01",
+		"in_date": "20220414",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "문수로 푸르지오 어반피스",
+		"addr": "울산광역시 남구 신정동 1266-6번지 일원",
+		"short_addr": "울산광역시 남구",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "339세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2021000996&pblancNo=2021000996&houseSecd=01",
+		"in_date": "20220414",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "인천 신흥동 3가 숭의역 엘크루",
+		"addr": "인천광역시 중구 신흥동3가 7-79 외 25필지",
+		"short_addr": "인천광역시 중구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "72세대"
 	}
 ]
