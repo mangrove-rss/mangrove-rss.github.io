@@ -93,5 +93,29 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ 뭉쳐야 찬다 2.E35.220403.1080p.H264-F1RST ]]></showrss:showname>
 		</item>
+		<item>
+			<title><![CDATA[ 뭉쳐야 찬다2.E35.220403.720p-NEXT ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih: ]]></link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ 뭉쳐야 찬다2.E35.220403.720p-NEXT ]]></showrss:showname>
+		</item>
+		<item>
+			<title><![CDATA[ 전국노래자랑.E2103.220403.720p-NEXT ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih: ]]></link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ 전국노래자랑.E2103.220403.720p-NEXT ]]></showrss:showname>
+		</item>
+		<item>
+			<title><![CDATA[ 건강한 가출 동거인.E13.220403.720p-NEXT ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih: ]]></link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ 건강한 가출 동거인.E13.220403.720p-NEXT ]]></showrss:showname>
+		</item>
+		<item>
+			<title><![CDATA[ 맨 인 블랙박스.E473.220403.720p-NEXT ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih: ]]></link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ 맨 인 블랙박스.E473.220403.720p-NEXT ]]></showrss:showname>
+		</item>
 	</channel>
 </rss>
