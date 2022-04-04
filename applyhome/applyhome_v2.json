@@ -1152,6 +1152,45 @@
 		"apply_nums": "256세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910091&pblancNo=2022910091&houseSecd=04",
+		"in_date": "20220411",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "부천 원종 길성그랑프리텔",
+		"addr": "경기도 부천시 원종동 284-3번지 길성그랑프리텔",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "2세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910085&pblancNo=2022910085&houseSecd=04",
+		"in_date": "20220411",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "송도 Luxe Ocean SK VIEW",
+		"addr": "인천광역시 연수구 송도동 396-1(송도랜드마크시티 6, 8공구 A9블록)",
+		"short_addr": "인천광역시 연수구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "연수구",
+		"apply_nums": "129세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910082&pblancNo=2022910082&houseSecd=04",
+		"in_date": "20220411",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "수성 해모로 하이엔",
+		"addr": "대구광역시 수성구 파동로 43-9 (파동)",
+		"short_addr": "대구광역시 수성구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "수성구",
+		"apply_nums": "5세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520017&pblancNo=2022520017&houseSecd=09",
 		"in_date": "20220411",
 		"hsecd": "09",
@@ -1405,6 +1444,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "마포구",
 		"apply_nums": "256세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910090&pblancNo=2022910090&houseSecd=04",
+		"in_date": "20220412",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "의정부역 월드메르디앙 스마트시티",
+		"addr": "경기도 의정부시 의정부동 491-5",
+		"short_addr": "경기도 의정부시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "의정부시",
+		"apply_nums": "23세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520013&pblancNo=2022520013&houseSecd=09",
