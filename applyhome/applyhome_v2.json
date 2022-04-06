@@ -1165,6 +1165,19 @@
 		"apply_nums": "51세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950027&pblancNo=2022950027&houseSecd=02",
+		"in_date": "20220411",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "중흥동 제일풍경채(민간임대)",
+		"addr": "광주광역시 북구 서양로 125, 203동 (중흥동, 제일풍경채)",
+		"short_addr": "광주광역시 북구",
+		"addr_lv1": "광주광역시",
+		"addr_lv2": "북구",
+		"apply_nums": "65세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910091&pblancNo=2022910091&houseSecd=04",
 		"in_date": "20220411",
 		"hsecd": "04",
@@ -1782,6 +1795,19 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "중구",
 		"apply_nums": "72세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950016&pblancNo=2022950016&houseSecd=02",
+		"in_date": "20220415",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "여주 그랑시티 리버뷰",
+		"addr": "경기도 여주시 오학동 292-34번지 외 2필지",
+		"short_addr": "경기도 여주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "여주시",
+		"apply_nums": "168세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000165&pblancNo=2022000165&houseSecd=01",
