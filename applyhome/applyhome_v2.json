@@ -1498,6 +1498,32 @@
 		"apply_nums": "51세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910101&pblancNo=2022910101&houseSecd=04",
+		"in_date": "20220412",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "e편한세상 안성 그랑루체",
+		"addr": "경기도 안성시 당왕동 42번지 일원",
+		"short_addr": "경기도 안성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "안성시",
+		"apply_nums": "219세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910100&pblancNo=2022910100&houseSecd=04",
+		"in_date": "20220412",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "광주 화정 골드클래스 2차",
+		"addr": "광주광역시 서구 화정동 23-191번지 일원",
+		"short_addr": "광주광역시 서구",
+		"addr_lv1": "광주광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "60세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910093&pblancNo=2022910093&houseSecd=04",
 		"in_date": "20220412",
 		"hsecd": "04",
