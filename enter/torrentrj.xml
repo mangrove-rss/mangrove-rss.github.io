@@ -111,11 +111,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ 대한 외국인.E182.220406.720p-NEXT ]]></showrss:showname>
 		</item>
-		<item>
-			<title><![CDATA[ 안티에이짐.첫방송.E01.220406.720p.H264-F1RST.mp4 ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:b9bfbe079d8166f7c366d88872cac189c13013b5 ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ 안티에이짐.첫방송.E01.220406.720p.H264-F1RST.mp4 ]]></showrss:showname>
-		</item>
 	</channel>
 </rss>
