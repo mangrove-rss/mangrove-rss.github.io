@@ -1,122 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000140&pblancNo=2022000140&houseSecd=01",
-		"in_date": "20220408",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "제일풍경채 검단Ⅱ",
-		"addr": "인천광역시 서구 불로동 AB18BL",
-		"short_addr": "인천광역시 서구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "서구",
-		"apply_nums": "1734세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000163&pblancNo=2022000163&houseSecd=01",
-		"in_date": "20220408",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "창원현동 A-2BL 10년 분양전환 공공임대주택",
-		"addr": "경상남도 창원시 마산합포구 현동310",
-		"short_addr": "경상남도 창원시",
-		"addr_lv1": "경상남도",
-		"addr_lv2": "창원시",
-		"apply_nums": "809세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000131&pblancNo=2022000131&houseSecd=01",
-		"in_date": "20220408",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "부암2차 비스타동원 아트포레",
-		"addr": "부산광역시 부산진구 부암동 298-163번지 일원",
-		"short_addr": "부산광역시 부산진구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "부산진구",
-		"apply_nums": "440세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000161&pblancNo=2022000161&houseSecd=01",
-		"in_date": "20220408",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "디엘본가평설악",
-		"addr": "경기도 가평군 설악면 신천리 산 45-27번지 일원",
-		"short_addr": "경기도 가평군",
-		"addr_lv1": "경기도",
-		"addr_lv2": "가평군",
-		"apply_nums": "107세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520013&pblancNo=2022520013&houseSecd=09",
-		"in_date": "20220408",
-		"hsecd": "09",
-		"rse": "07",
-		"type": "민간사전청약 APT 특별공급",
-		"name": "광주 선운2지구 예다음(사전청약)",
-		"addr": "광주광역시 광산구 운수동 선운2지구 B-2BL",
-		"short_addr": "광주광역시 광산구",
-		"addr_lv1": "광주광역시",
-		"addr_lv2": "광산구",
-		"apply_nums": "505세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520009&pblancNo=2022520009&houseSecd=09",
-		"in_date": "20220408",
-		"hsecd": "09",
-		"rse": "07",
-		"type": "민간사전청약 APT 특별공급",
-		"name": "양주 회천지구 A-12BL 라온프라이빗(사전청약)",
-		"addr": "경기도 양주시 양주회천지구 A12BL",
-		"short_addr": "경기도 양주시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "양주시",
-		"apply_nums": "568세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520014&pblancNo=2022520014&houseSecd=09",
-		"in_date": "20220408",
-		"hsecd": "09",
-		"rse": "07",
-		"type": "민간사전청약 APT 특별공급",
-		"name": "인천 가정2지구 B2블록 우미 린(사전청약)",
-		"addr": "인천광역시 서구 가정동 인천가정2 공공주택지구 내 B-2BL",
-		"short_addr": "인천광역시 서구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "서구",
-		"apply_nums": "278세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520012&pblancNo=2022520012&houseSecd=09",
-		"in_date": "20220408",
-		"hsecd": "09",
-		"rse": "07",
-		"type": "민간사전청약 APT 특별공급",
-		"name": "파주 운정3지구 제일풍경채 A46BL(사전청약)",
-		"addr": "경기도 파주시 동패동 415(운정3지구 A46BL)일원",
-		"short_addr": "경기도 파주시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "파주시",
-		"apply_nums": "345세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520015&pblancNo=2022520015&houseSecd=09",
-		"in_date": "20220408",
-		"hsecd": "09",
-		"rse": "07",
-		"type": "민간사전청약 APT 특별공급",
-		"name": "평택 고덕국제신도시 A-50블록(사전청약)",
-		"addr": "경기도 평택시 고덕택지개발지구 A-50BL",
-		"short_addr": "경기도 평택시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "평택시",
-		"apply_nums": "578세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000136&pblancNo=2022000136&houseSecd=01",
 		"in_date": "20220411",
 		"hsecd": "01",
@@ -1095,6 +978,19 @@
 		"apply_nums": "1779세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910088&pblancNo=2022910088&houseSecd=04",
+		"in_date": "20220418",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "평택 동문 굿모닝힐 맘시티 2차",
+		"addr": "경기도 평택시 칠원동 613",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "1세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000209&pblancNo=2022000209&houseSecd=01",
 		"in_date": "20220419",
 		"hsecd": "01",
@@ -1316,6 +1212,19 @@
 		"apply_nums": "168세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000199&pblancNo=2022000199&houseSecd=01",
+		"in_date": "20220421",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "남양주 진접 부영 사랑으로 우선 분양전환 후 잔여세대",
+		"addr": "경기도 남양주시 진접읍 해밀예당3로 38(부영사랑으로)",
+		"short_addr": "경기도 남양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "남양주시",
+		"apply_nums": "95세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000209&pblancNo=2022000209&houseSecd=01",
 		"in_date": "20220421",
 		"hsecd": "01",
@@ -1418,6 +1327,19 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "중구",
 		"apply_nums": "168세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000199&pblancNo=2022000199&houseSecd=01",
+		"in_date": "20220422",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "남양주 진접 부영 사랑으로 우선 분양전환 후 잔여세대",
+		"addr": "경기도 남양주시 진접읍 해밀예당3로 38(부영사랑으로)",
+		"short_addr": "경기도 남양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "남양주시",
+		"apply_nums": "95세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000209&pblancNo=2022000209&houseSecd=01",
