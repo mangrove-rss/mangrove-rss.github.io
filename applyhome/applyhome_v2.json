@@ -978,6 +978,19 @@
 		"apply_nums": "1779세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910097&pblancNo=2022910097&houseSecd=04",
+		"in_date": "20220418",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "라데사 포레 매곡",
+		"addr": "광주광역시 북구 하백로5번길 34(매곡동, 라데사 포레 매곡)",
+		"short_addr": "광주광역시 북구",
+		"addr_lv1": "광주광역시",
+		"addr_lv2": "북구",
+		"apply_nums": "8세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910088&pblancNo=2022910088&houseSecd=04",
 		"in_date": "20220418",
 		"hsecd": "04",
