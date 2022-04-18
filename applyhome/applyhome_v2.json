@@ -1,31 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000183&pblancNo=2022000183&houseSecd=01",
-		"in_date": "20220414",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "문수로 푸르지오 어반피스",
-		"addr": "울산광역시 남구 신정동 1266-6번지 일원",
-		"short_addr": "울산광역시 남구",
-		"addr_lv1": "울산광역시",
-		"addr_lv2": "남구",
-		"apply_nums": "339세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2021000996&pblancNo=2021000996&houseSecd=01",
-		"in_date": "20220414",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "인천 신흥동 3가 숭의역 엘크루",
-		"addr": "인천광역시 중구 신흥동3가 7-79 외 25필지",
-		"short_addr": "인천광역시 중구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "중구",
-		"apply_nums": "72세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000197&pblancNo=2022000197&houseSecd=01",
 		"in_date": "20220418",
 		"hsecd": "01",
