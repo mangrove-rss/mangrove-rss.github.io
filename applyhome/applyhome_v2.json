@@ -559,6 +559,19 @@
 		"apply_nums": "43세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910108&pblancNo=2022910108&houseSecd=04",
+		"in_date": "20220425",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "가야 봄여름가을겨울",
+		"addr": "부산광역시 부산진구 가야동 585",
+		"short_addr": "부산광역시 부산진구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "부산진구",
+		"apply_nums": "86세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000165&pblancNo=2022000165&houseSecd=01",
 		"in_date": "20220426",
 		"hsecd": "01",
