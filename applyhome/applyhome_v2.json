@@ -546,6 +546,19 @@
 		"apply_nums": "84세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950023&pblancNo=2022950023&houseSecd=02",
+		"in_date": "20220425",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "여의도 현대마에스트로",
+		"addr": "서울특별시 영등포구 국회대로68길 18(여의도동)",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "162세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950026&pblancNo=2022950026&houseSecd=02",
 		"in_date": "20220425",
 		"hsecd": "02",
@@ -570,6 +583,32 @@
 		"addr_lv1": "부산광역시",
 		"addr_lv2": "부산진구",
 		"apply_nums": "86세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910106&pblancNo=2022910106&houseSecd=04",
+		"in_date": "20220425",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "신림스카이아파트",
+		"addr": "서울특별시 관악구 신림로 185(신림동, 신림 스카이 아파트)",
+		"short_addr": "서울특별시 관악구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "관악구",
+		"apply_nums": "9세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910105&pblancNo=2022910105&houseSecd=04",
+		"in_date": "20220425",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "지제역 푸르지오 엘리아츠",
+		"addr": "경기도 평택시 동삭세교지구 도시개발구역 공동1블록 ",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "13세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000165&pblancNo=2022000165&houseSecd=01",
@@ -648,5 +687,57 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "의정부시",
 		"apply_nums": "536세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000168&pblancNo=2022000168&houseSecd=01",
+		"in_date": "20220429",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "광안 스윗팰리스",
+		"addr": "부산광역시 수영구 광안동 74-5번지 외 2필지",
+		"short_addr": "부산광역시 수영구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "수영구",
+		"apply_nums": "71세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000168&pblancNo=2022000168&houseSecd=01",
+		"in_date": "20220502",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "광안 스윗팰리스",
+		"addr": "부산광역시 수영구 광안동 74-5번지 외 2필지",
+		"short_addr": "부산광역시 수영구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "수영구",
+		"apply_nums": "71세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000168&pblancNo=2022000168&houseSecd=01",
+		"in_date": "20220503",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "광안 스윗팰리스",
+		"addr": "부산광역시 수영구 광안동 74-5번지 외 2필지",
+		"short_addr": "부산광역시 수영구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "수영구",
+		"apply_nums": "71세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000168&pblancNo=2022000168&houseSecd=01",
+		"in_date": "20220504",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "광안 스윗팰리스",
+		"addr": "부산광역시 수영구 광안동 74-5번지 외 2필지",
+		"short_addr": "부산광역시 수영구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "수영구",
+		"apply_nums": "71세대"
 	}
 ]
