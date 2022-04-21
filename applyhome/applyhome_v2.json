@@ -702,6 +702,19 @@
 		"apply_nums": "71세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000230&pblancNo=2022000230&houseSecd=01",
+		"in_date": "20220502",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "센텀 아스트룸  SK VIEW",
+		"addr": "부산광역시 해운대구 반여동 1349번지 일원",
+		"short_addr": "부산광역시 해운대구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "해운대구",
+		"apply_nums": "544세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000168&pblancNo=2022000168&houseSecd=01",
 		"in_date": "20220502",
 		"hsecd": "01",
@@ -713,6 +726,19 @@
 		"addr_lv1": "부산광역시",
 		"addr_lv2": "수영구",
 		"apply_nums": "71세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000234&pblancNo=2022000234&houseSecd=01",
+		"in_date": "20220502",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "한일 베라체 인비디아",
+		"addr": "제주특별자치도 제주시 한경면 낙천리 927번지 외 8필지",
+		"short_addr": "제주특별자치도 제주시",
+		"addr_lv1": "제주특별자치도",
+		"addr_lv2": "제주시",
+		"apply_nums": "168세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000168&pblancNo=2022000168&houseSecd=01",
@@ -728,6 +754,45 @@
 		"apply_nums": "71세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000230&pblancNo=2022000230&houseSecd=01",
+		"in_date": "20220503",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "센텀 아스트룸  SK VIEW",
+		"addr": "부산광역시 해운대구 반여동 1349번지 일원",
+		"short_addr": "부산광역시 해운대구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "해운대구",
+		"apply_nums": "544세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000234&pblancNo=2022000234&houseSecd=01",
+		"in_date": "20220503",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "한일 베라체 인비디아",
+		"addr": "제주특별자치도 제주시 한경면 낙천리 927번지 외 8필지",
+		"short_addr": "제주특별자치도 제주시",
+		"addr_lv1": "제주특별자치도",
+		"addr_lv2": "제주시",
+		"apply_nums": "168세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000230&pblancNo=2022000230&houseSecd=01",
+		"in_date": "20220504",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "센텀 아스트룸  SK VIEW",
+		"addr": "부산광역시 해운대구 반여동 1349번지 일원",
+		"short_addr": "부산광역시 해운대구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "해운대구",
+		"apply_nums": "544세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000168&pblancNo=2022000168&houseSecd=01",
 		"in_date": "20220504",
 		"hsecd": "01",
@@ -739,5 +804,18 @@
 		"addr_lv1": "부산광역시",
 		"addr_lv2": "수영구",
 		"apply_nums": "71세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000230&pblancNo=2022000230&houseSecd=01",
+		"in_date": "20220506",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "센텀 아스트룸  SK VIEW",
+		"addr": "부산광역시 해운대구 반여동 1349번지 일원",
+		"short_addr": "부산광역시 해운대구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "해운대구",
+		"apply_nums": "544세대"
 	}
 ]
