@@ -1,31 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000199&pblancNo=2022000199&houseSecd=01",
-		"in_date": "20220422",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "남양주 진접 부영 사랑으로 우선 분양전환 후 잔여세대",
-		"addr": "경기도 남양주시 진접읍 해밀예당3로 38(부영사랑으로)",
-		"short_addr": "경기도 남양주시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "남양주시",
-		"apply_nums": "95세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000209&pblancNo=2022000209&houseSecd=01",
-		"in_date": "20220422",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "엘리프 송촌 더 파크",
-		"addr": "대전광역시 대덕구 송촌동 산25-6번지 일원",
-		"short_addr": "대전광역시 대덕구",
-		"addr_lv1": "대전광역시",
-		"addr_lv2": "대덕구",
-		"apply_nums": "799세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000165&pblancNo=2022000165&houseSecd=01",
 		"in_date": "20220425",
 		"hsecd": "01",
@@ -481,6 +455,19 @@
 		"apply_nums": "168세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910115&pblancNo=2022910115&houseSecd=04",
+		"in_date": "20220502",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "광주 방림 골드클래스",
+		"addr": "광주광역시 남구 방림동 1-1번지 일원",
+		"short_addr": "광주광역시 남구",
+		"addr_lv1": "광주광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "3세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910114&pblancNo=2022910114&houseSecd=04",
 		"in_date": "20220502",
 		"hsecd": "04",
@@ -492,6 +479,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "부천시",
 		"apply_nums": "106세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910117&pblancNo=2022910117&houseSecd=04",
+		"in_date": "20220502",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "송도 센트럴파크 리버리치",
+		"addr": "인천광역시 연수구 송도동 22-12 외 2필지",
+		"short_addr": "인천광역시 연수구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "연수구",
+		"apply_nums": "21세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910110&pblancNo=2022910110&houseSecd=04",
@@ -726,5 +726,31 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "남동구",
 		"apply_nums": "162세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950025&pblancNo=2022950025&houseSecd=02",
+		"in_date": "20220509",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "신설동역 자이르네 도시형생활주택",
+		"addr": "서울특별시 동대문구 신설동 96-48",
+		"short_addr": "서울특별시 동대문구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "동대문구",
+		"apply_nums": "143세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950025&pblancNo=2022950025&houseSecd=02",
+		"in_date": "20220510",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "신설동역 자이르네 도시형생활주택",
+		"addr": "서울특별시 동대문구 신설동 96-48",
+		"short_addr": "서울특별시 동대문구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "동대문구",
+		"apply_nums": "143세대"
 	}
 ]
