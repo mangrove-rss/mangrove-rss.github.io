@@ -234,6 +234,19 @@
 		"apply_nums": "45세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950032&pblancNo=2022950032&houseSecd=02",
+		"in_date": "20220427",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "송도 애니오션 빌딩",
+		"addr": "인천광역시 연수구 인천타워대로 99(송도동)",
+		"short_addr": "인천광역시 연수구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "연수구",
+		"apply_nums": "22세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950024&pblancNo=2022950024&houseSecd=02",
 		"in_date": "20220427",
 		"hsecd": "02",
@@ -245,19 +258,6 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "동대문구",
 		"apply_nums": "95세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950032&pblancNo=2022950032&houseSecd=02",
-		"in_date": "20220427",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "애니오션빌딩",
-		"addr": "인천광역시 연수구 인천타워대로 99(송도동)",
-		"short_addr": "인천광역시 연수구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "연수구",
-		"apply_nums": "22세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910111&pblancNo=2022910111&houseSecd=04",
@@ -429,6 +429,19 @@
 		"apply_nums": "162세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000252&pblancNo=2022000252&houseSecd=01",
+		"in_date": "20220502",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "휴온 아델리브 더 테라스",
+		"addr": "제주특별자치도 서귀포시 대정읍 구억리 863번지 일원",
+		"short_addr": "제주특별자치도 서귀포시",
+		"addr_lv1": "제주특별자치도",
+		"addr_lv2": "서귀포시",
+		"apply_nums": "68세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000168&pblancNo=2022000168&houseSecd=01",
 		"in_date": "20220502",
 		"hsecd": "01",
@@ -481,6 +494,19 @@
 		"apply_nums": "106세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910116&pblancNo=2022910116&houseSecd=04",
+		"in_date": "20220502",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "서광교 파크뷰",
+		"addr": "경기도 수원시 장안구 연무동 18-2 외 2필지",
+		"short_addr": "경기도 수원시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "수원시",
+		"apply_nums": "57세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910117&pblancNo=2022910117&houseSecd=04",
 		"in_date": "20220502",
 		"hsecd": "04",
@@ -494,6 +520,19 @@
 		"apply_nums": "21세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910120&pblancNo=2022910120&houseSecd=04",
+		"in_date": "20220502",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "의정부역 월드메르디앙 스마트시티(의정부시 거주자 및 무주택세대구성원 대상)",
+		"addr": "경기도 의정부시 의정부동 491-5",
+		"short_addr": "경기도 의정부시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "의정부시",
+		"apply_nums": "15세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910110&pblancNo=2022910110&houseSecd=04",
 		"in_date": "20220502",
 		"hsecd": "04",
@@ -505,6 +544,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "평택시",
 		"apply_nums": "16세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910118&pblancNo=2022910118&houseSecd=04",
+		"in_date": "20220502",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "호반써밋 포레센트 천안 삼룡1지구 (사후 3차)",
+		"addr": "충청남도 천안시 동남구 삼룡동 218-33",
+		"short_addr": "충청남도 천안시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "천안시",
+		"apply_nums": "2세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000235&pblancNo=2022000235&houseSecd=01",
@@ -596,6 +648,19 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "남동구",
 		"apply_nums": "162세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000252&pblancNo=2022000252&houseSecd=01",
+		"in_date": "20220503",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "휴온 아델리브 더 테라스",
+		"addr": "제주특별자치도 서귀포시 대정읍 구억리 863번지 일원",
+		"short_addr": "제주특별자치도 서귀포시",
+		"addr_lv1": "제주특별자치도",
+		"addr_lv2": "서귀포시",
+		"apply_nums": "68세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000234&pblancNo=2022000234&houseSecd=01",
@@ -702,6 +767,19 @@
 		"apply_nums": "330세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000252&pblancNo=2022000252&houseSecd=01",
+		"in_date": "20220504",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "휴온 아델리브 더 테라스",
+		"addr": "제주특별자치도 서귀포시 대정읍 구억리 863번지 일원",
+		"short_addr": "제주특별자치도 서귀포시",
+		"addr_lv1": "제주특별자치도",
+		"addr_lv2": "서귀포시",
+		"apply_nums": "68세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000230&pblancNo=2022000230&houseSecd=01",
 		"in_date": "20220506",
 		"hsecd": "01",
@@ -752,5 +830,31 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "동대문구",
 		"apply_nums": "143세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000226&pblancNo=2022000226&houseSecd=01",
+		"in_date": "20220512",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "정관풀리페",
+		"addr": "부산광역시 기장군 정관읍 정관5로 144(정관 풀리페)",
+		"short_addr": "부산광역시 기장군",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "기장군",
+		"apply_nums": "7세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000226&pblancNo=2022000226&houseSecd=01",
+		"in_date": "20220513",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "정관풀리페",
+		"addr": "부산광역시 기장군 정관읍 정관5로 144(정관 풀리페)",
+		"short_addr": "부산광역시 기장군",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "기장군",
+		"apply_nums": "7세대"
 	}
 ]
