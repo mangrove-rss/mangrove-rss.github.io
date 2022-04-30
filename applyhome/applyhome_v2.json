@@ -1,83 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000211&pblancNo=2022000211&houseSecd=01",
-		"in_date": "20220426",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "무안 승원팰리체 더클래스",
-		"addr": "전라남도 무안군 무안읍 성남리 327-1번지 외 5필지",
-		"short_addr": "전라남도 무안군",
-		"addr_lv1": "전라남도",
-		"addr_lv2": "무안군",
-		"apply_nums": "83세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000165&pblancNo=2022000165&houseSecd=01",
-		"in_date": "20220426",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "군산 신역세권 한라비발디 센트로",
-		"addr": "전라북도 군산시 내흥동 926",
-		"short_addr": "전라북도 군산시",
-		"addr_lv1": "전라북도",
-		"addr_lv2": "군산시",
-		"apply_nums": "878세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000200&pblancNo=2022000200&houseSecd=01",
-		"in_date": "20220426",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "더샵 리듬시티",
-		"addr": "경기도 의정부시 복합문화융합단지 내 공동 1블럭 (산곡동 399번지 일원)",
-		"short_addr": "경기도 의정부시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "의정부시",
-		"apply_nums": "536세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000178&pblancNo=2022000178&houseSecd=01",
-		"in_date": "20220426",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "제주 더 프리모84",
-		"addr": "제주특별자치도 제주시 조천읍 대흘리 1100번지 일원",
-		"short_addr": "제주특별자치도 제주시",
-		"addr_lv1": "제주특별자치도",
-		"addr_lv2": "제주시",
-		"apply_nums": "84세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950029&pblancNo=2022950029&houseSecd=02",
-		"in_date": "20220426",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "덕은 DMC 에일린의뜰 센트럴 10BL",
-		"addr": "경기도 고양시 덕양구 덕은동(고양덕은 도시개발사업지구 업무 10BL) 일원",
-		"short_addr": "경기도 고양시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "고양시",
-		"apply_nums": "66세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950028&pblancNo=2022950028&houseSecd=02",
-		"in_date": "20220426",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "덕은 DMC 에일린의뜰 센트럴 8,9BL",
-		"addr": "경기도 고양시 덕양구 덕은동(고양덕은 도시개발사업지구 업무8,9BL) 일원",
-		"short_addr": "경기도 고양시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "고양시",
-		"apply_nums": "144세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000200&pblancNo=2022000200&houseSecd=01",
 		"in_date": "20220427",
 		"hsecd": "01",
@@ -767,6 +689,19 @@
 		"apply_nums": "192세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000260&pblancNo=2022000260&houseSecd=01",
+		"in_date": "20220509",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "김해 구산 푸르지오 파르테르",
+		"addr": "경상남도 김해시 구산동 691번지 일원",
+		"short_addr": "경상남도 김해시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "김해시",
+		"apply_nums": "534세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000274&pblancNo=2022000274&houseSecd=01",
 		"in_date": "20220509",
 		"hsecd": "01",
@@ -791,6 +726,19 @@
 		"addr_lv1": "대구광역시",
 		"addr_lv2": "수성구",
 		"apply_nums": "607세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000247&pblancNo=2022000247&houseSecd=01",
+		"in_date": "20220509",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "제주 푸르지오 더 퍼스트",
+		"addr": "제주특별자치도 서귀포시 대정읍 구억리 34번지 외",
+		"short_addr": "제주특별자치도 서귀포시",
+		"addr_lv1": "제주특별자치도",
+		"addr_lv2": "서귀포시",
+		"apply_nums": "160세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950025&pblancNo=2022950025&houseSecd=02",
@@ -845,6 +793,19 @@
 		"apply_nums": "192세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000260&pblancNo=2022000260&houseSecd=01",
+		"in_date": "20220510",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "김해 구산 푸르지오 파르테르",
+		"addr": "경상남도 김해시 구산동 691번지 일원",
+		"short_addr": "경상남도 김해시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "김해시",
+		"apply_nums": "534세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000273&pblancNo=2022000273&houseSecd=01",
 		"in_date": "20220510",
 		"hsecd": "01",
@@ -869,6 +830,19 @@
 		"addr_lv1": "강원도",
 		"addr_lv2": "원주시",
 		"apply_nums": "476세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000247&pblancNo=2022000247&houseSecd=01",
+		"in_date": "20220510",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "제주 푸르지오 더 퍼스트",
+		"addr": "제주특별자치도 서귀포시 대정읍 구억리 34번지 외",
+		"short_addr": "제주특별자치도 서귀포시",
+		"addr_lv1": "제주특별자치도",
+		"addr_lv2": "서귀포시",
+		"apply_nums": "160세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950025&pblancNo=2022950025&houseSecd=02",
@@ -908,6 +882,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "연천군",
 		"apply_nums": "845세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000260&pblancNo=2022000260&houseSecd=01",
+		"in_date": "20220511",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "김해 구산 푸르지오 파르테르",
+		"addr": "경상남도 김해시 구산동 691번지 일원",
+		"short_addr": "경상남도 김해시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "김해시",
+		"apply_nums": "534세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000273&pblancNo=2022000273&houseSecd=01",
