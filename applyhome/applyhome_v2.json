@@ -585,6 +585,19 @@
 		"apply_nums": "143세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910121&pblancNo=2022910121&houseSecd=04",
+		"in_date": "20220509",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "부천 원종 길성그랑프리텔",
+		"addr": "경기도 부천시 소사로748번길 29(원종동, 길성그랑프리텔)",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "2세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022930006&pblancNo=2022930006&houseSecd=06",
 		"in_date": "20220509",
 		"hsecd": "06",
