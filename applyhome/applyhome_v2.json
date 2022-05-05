@@ -572,6 +572,14 @@
 		"apply_nums": "160세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022850007&pblancNo=2022850007&houseSecd=03",
+		"in_date": "20220509",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "진주의 봄 프리미엄"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950025&pblancNo=2022950025&houseSecd=02",
 		"in_date": "20220509",
 		"hsecd": "02",
@@ -583,6 +591,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "동대문구",
 		"apply_nums": "143세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910131&pblancNo=2022910131&houseSecd=04",
+		"in_date": "20220509",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "대구역자이 더 스타",
+		"addr": "대구광역시 북구 칠성동2가 500-2번지 일원",
+		"short_addr": "대구광역시 북구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "북구",
+		"apply_nums": "196세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910121&pblancNo=2022910121&houseSecd=04",
@@ -609,6 +630,19 @@
 		"addr_lv1": "부산광역시",
 		"addr_lv2": "사하구",
 		"apply_nums": "10세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910128&pblancNo=2022910128&houseSecd=04",
+		"in_date": "20220509",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "삼호 비스타동원",
+		"addr": "울산광역시 남구 삼호로 68(무거동, 삼호주공아파트)",
+		"short_addr": "울산광역시 남구",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "5세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910123&pblancNo=2022910123&houseSecd=04",
@@ -739,6 +773,14 @@
 		"addr_lv1": "제주특별자치도",
 		"addr_lv2": "서귀포시",
 		"apply_nums": "160세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022850007&pblancNo=2022850007&houseSecd=03",
+		"in_date": "20220510",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "진주의 봄 프리미엄"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950025&pblancNo=2022950025&houseSecd=02",
@@ -884,6 +926,19 @@
 		"apply_nums": "770세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000245&pblancNo=2022000245&houseSecd=01",
+		"in_date": "20220516",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "태왕아너스 더힐",
+		"addr": "대구광역시 달성군 유가읍 초곡리 426번지 일원",
+		"short_addr": "대구광역시 달성군",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "달성군",
+		"apply_nums": "69세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000243&pblancNo=2022000243&houseSecd=01",
 		"in_date": "20220517",
 		"hsecd": "01",
@@ -910,6 +965,19 @@
 		"apply_nums": "770세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000245&pblancNo=2022000245&houseSecd=01",
+		"in_date": "20220517",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "태왕아너스 더힐",
+		"addr": "대구광역시 달성군 유가읍 초곡리 426번지 일원",
+		"short_addr": "대구광역시 달성군",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "달성군",
+		"apply_nums": "69세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000243&pblancNo=2022000243&houseSecd=01",
 		"in_date": "20220518",
 		"hsecd": "01",
@@ -934,6 +1002,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "수원시",
 		"apply_nums": "770세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000245&pblancNo=2022000245&houseSecd=01",
+		"in_date": "20220518",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "태왕아너스 더힐",
+		"addr": "대구광역시 달성군 유가읍 초곡리 426번지 일원",
+		"short_addr": "대구광역시 달성군",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "달성군",
+		"apply_nums": "69세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000243&pblancNo=2022000243&houseSecd=01",
