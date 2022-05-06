@@ -117,11 +117,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ 1pondo  050122_001  등록일  2022.05.01 ]]></showrss:showname>
 		</item>
-		<item>
-			<title><![CDATA[ 1pondo  043022_001  등록일  2022.05.01 ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:e54da868d09d1d5fc2efbb1af843f44e01d1b199 ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ 1pondo  043022_001  등록일  2022.05.01 ]]></showrss:showname>
-		</item>
 	</channel>
 </rss>
