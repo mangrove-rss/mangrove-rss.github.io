@@ -1,148 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000235&pblancNo=2022000235&houseSecd=01",
-		"in_date": "20220503",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "e편한세상 시흥장현 퍼스트베뉴",
-		"addr": "경기도 시흥시 시흥장현공공주택지구 B-10블록",
-		"short_addr": "경기도 시흥시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "시흥시",
-		"apply_nums": "431세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000168&pblancNo=2022000168&houseSecd=01",
-		"in_date": "20220503",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "광안 스윗팰리스",
-		"addr": "부산광역시 수영구 광안동 74-5번지 외 2필지",
-		"short_addr": "부산광역시 수영구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "수영구",
-		"apply_nums": "71세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000224&pblancNo=2022000224&houseSecd=01",
-		"in_date": "20220503",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "남악 오룡지구 36BL 남악오룡 시티프라디움",
-		"addr": "전라남도 무안군 일로읍 남악신도시 오룡택지지구 36BL",
-		"short_addr": "전라남도 무안군",
-		"addr_lv1": "전라남도",
-		"addr_lv2": "무안군",
-		"apply_nums": "534세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000240&pblancNo=2022000240&houseSecd=01",
-		"in_date": "20220503",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "서충주 푸르지오 더 퍼스트",
-		"addr": "충청북도 충주시 주덕읍 화곡리 1111번지 일원(충주기업도시 주상1블록)",
-		"short_addr": "충청북도 충주시",
-		"addr_lv1": "충청북도",
-		"addr_lv2": "충주시",
-		"apply_nums": "1029세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000230&pblancNo=2022000230&houseSecd=01",
-		"in_date": "20220503",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "센텀 아스트룸  SK VIEW",
-		"addr": "부산광역시 해운대구 반여동 1349번지 일원",
-		"short_addr": "부산광역시 해운대구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "해운대구",
-		"apply_nums": "544세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000189&pblancNo=2022000189&houseSecd=01",
-		"in_date": "20220503",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "완주이서 신일 해피트리",
-		"addr": "전라북도 완주군 이서면 은교리 653-3 일원",
-		"short_addr": "전라북도 완주군",
-		"addr_lv1": "전라북도",
-		"addr_lv2": "완주군",
-		"apply_nums": "330세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000198&pblancNo=2022000198&houseSecd=01",
-		"in_date": "20220503",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "인천시청역 한신더휴",
-		"addr": "인천광역시 남동구 간석동 514번지 일원",
-		"short_addr": "인천광역시 남동구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "남동구",
-		"apply_nums": "162세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000252&pblancNo=2022000252&houseSecd=01",
-		"in_date": "20220503",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "휴온 아델리브 더 테라스",
-		"addr": "제주특별자치도 서귀포시 대정읍 구억리 863번지 일원",
-		"short_addr": "제주특별자치도 서귀포시",
-		"addr_lv1": "제주특별자치도",
-		"addr_lv2": "서귀포시",
-		"apply_nums": "68세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000234&pblancNo=2022000234&houseSecd=01",
-		"in_date": "20220503",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "한일 베라체 인비디아",
-		"addr": "제주특별자치도 제주시 한경면 낙천리 927번지 외 8필지",
-		"short_addr": "제주특별자치도 제주시",
-		"addr_lv1": "제주특별자치도",
-		"addr_lv2": "제주시",
-		"apply_nums": "168세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910122&pblancNo=2022910122&houseSecd=04",
-		"in_date": "20220503",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "광주 화정 골드클래스 2차",
-		"addr": "광주광역시 서구 화정동 23-191번지 일원",
-		"short_addr": "광주광역시 서구",
-		"addr_lv1": "광주광역시",
-		"addr_lv2": "서구",
-		"apply_nums": "31세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910113&pblancNo=2022910113&houseSecd=04",
-		"in_date": "20220503",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "송도 Luxe Ocean SK VIEW",
-		"addr": "인천광역시 연수구 송도동 396-1(송도랜드마크시티 6, 8공구 A9블록)",
-		"short_addr": "인천광역시 연수구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "연수구",
-		"apply_nums": "16세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000230&pblancNo=2022000230&houseSecd=01",
 		"in_date": "20220504",
 		"hsecd": "01",
@@ -731,6 +588,19 @@
 		"apply_nums": "7세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000123&pblancNo=2022000123&houseSecd=01",
+		"in_date": "20220516",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "마크원 순천",
+		"addr": "전라남도 순천시 강변로 893(석현동)",
+		"short_addr": "전라남도 순천시",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "순천시",
+		"apply_nums": "99세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000243&pblancNo=2022000243&houseSecd=01",
 		"in_date": "20220516",
 		"hsecd": "01",
@@ -755,6 +625,32 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "수원시",
 		"apply_nums": "770세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000254&pblancNo=2022000254&houseSecd=01",
+		"in_date": "20220516",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "장락동 세영리첼 에듀퍼스트",
+		"addr": "충청북도 제천시 장락동 622-2 일원",
+		"short_addr": "충청북도 제천시",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "제천시",
+		"apply_nums": "564세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000262&pblancNo=2022000262&houseSecd=01",
+		"in_date": "20220516",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "제천자이 더 스카이",
+		"addr": "충청북도 제천시 신월동 1474번지 (미니복합타운 D1블록)",
+		"short_addr": "충청북도 제천시",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "제천시",
+		"apply_nums": "713세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000245&pblancNo=2022000245&houseSecd=01",
@@ -770,6 +666,32 @@
 		"apply_nums": "69세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000262&pblancNo=2022000262&houseSecd=01",
+		"in_date": "20220517",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "제천자이 더 스카이",
+		"addr": "충청북도 제천시 신월동 1474번지 (미니복합타운 D1블록)",
+		"short_addr": "충청북도 제천시",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "제천시",
+		"apply_nums": "713세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000123&pblancNo=2022000123&houseSecd=01",
+		"in_date": "20220517",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "마크원 순천",
+		"addr": "전라남도 순천시 강변로 893(석현동)",
+		"short_addr": "전라남도 순천시",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "순천시",
+		"apply_nums": "99세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000243&pblancNo=2022000243&houseSecd=01",
 		"in_date": "20220517",
 		"hsecd": "01",
@@ -794,6 +716,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "수원시",
 		"apply_nums": "770세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000254&pblancNo=2022000254&houseSecd=01",
+		"in_date": "20220517",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "장락동 세영리첼 에듀퍼스트",
+		"addr": "충청북도 제천시 장락동 622-2 일원",
+		"short_addr": "충청북도 제천시",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "제천시",
+		"apply_nums": "564세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000245&pblancNo=2022000245&houseSecd=01",
@@ -822,6 +757,19 @@
 		"apply_nums": "4세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000123&pblancNo=2022000123&houseSecd=01",
+		"in_date": "20220518",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "마크원 순천",
+		"addr": "전라남도 순천시 강변로 893(석현동)",
+		"short_addr": "전라남도 순천시",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "순천시",
+		"apply_nums": "99세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000243&pblancNo=2022000243&houseSecd=01",
 		"in_date": "20220518",
 		"hsecd": "01",
@@ -846,6 +794,32 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "수원시",
 		"apply_nums": "770세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000262&pblancNo=2022000262&houseSecd=01",
+		"in_date": "20220518",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "제천자이 더 스카이",
+		"addr": "충청북도 제천시 신월동 1474번지 (미니복합타운 D1블록)",
+		"short_addr": "충청북도 제천시",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "제천시",
+		"apply_nums": "713세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000254&pblancNo=2022000254&houseSecd=01",
+		"in_date": "20220518",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "장락동 세영리첼 에듀퍼스트",
+		"addr": "충청북도 제천시 장락동 622-2 일원",
+		"short_addr": "충청북도 제천시",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "제천시",
+		"apply_nums": "564세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000245&pblancNo=2022000245&houseSecd=01",
@@ -861,6 +835,19 @@
 		"apply_nums": "69세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000123&pblancNo=2022000123&houseSecd=01",
+		"in_date": "20220519",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "마크원 순천",
+		"addr": "전라남도 순천시 강변로 893(석현동)",
+		"short_addr": "전라남도 순천시",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "순천시",
+		"apply_nums": "99세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000243&pblancNo=2022000243&houseSecd=01",
 		"in_date": "20220519",
 		"hsecd": "01",
@@ -885,5 +872,18 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "수원시",
 		"apply_nums": "770세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000262&pblancNo=2022000262&houseSecd=01",
+		"in_date": "20220519",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "제천자이 더 스카이",
+		"addr": "충청북도 제천시 신월동 1474번지 (미니복합타운 D1블록)",
+		"short_addr": "충청북도 제천시",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "제천시",
+		"apply_nums": "713세대"
 	}
 ]
