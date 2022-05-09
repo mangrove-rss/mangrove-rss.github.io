@@ -549,6 +549,19 @@
 		"apply_nums": "69세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910133&pblancNo=2022910133&houseSecd=04",
+		"in_date": "20220516",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "안양역 푸르지오 더샵",
+		"addr": "경기도 안양시 만안구 안양동 97-3번지 일원",
+		"short_addr": "경기도 안양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "안양시",
+		"apply_nums": "3세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000262&pblancNo=2022000262&houseSecd=01",
 		"in_date": "20220517",
 		"hsecd": "01",
