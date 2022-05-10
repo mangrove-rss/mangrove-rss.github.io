@@ -1,31 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000230&pblancNo=2022000230&houseSecd=01",
-		"in_date": "20220506",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "센텀 아스트룸  SK VIEW",
-		"addr": "부산광역시 해운대구 반여동 1349번지 일원",
-		"short_addr": "부산광역시 해운대구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "해운대구",
-		"apply_nums": "544세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000198&pblancNo=2022000198&houseSecd=01",
-		"in_date": "20220506",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "인천시청역 한신더휴",
-		"addr": "인천광역시 남동구 간석동 514번지 일원",
-		"short_addr": "인천광역시 남동구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "남동구",
-		"apply_nums": "162세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000246&pblancNo=2022000246&houseSecd=01",
 		"in_date": "20220509",
 		"hsecd": "01",
@@ -549,6 +523,19 @@
 		"apply_nums": "69세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910135&pblancNo=2022910135&houseSecd=04",
+		"in_date": "20220516",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "서대전 한국아델리움",
+		"addr": "유천동 328-50",
+		"short_addr": "유천동 328-50",
+		"addr_lv1": "유천동",
+		"addr_lv2": "328-50",
+		"apply_nums": "26세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910133&pblancNo=2022910133&houseSecd=04",
 		"in_date": "20220516",
 		"hsecd": "04",
@@ -781,5 +768,57 @@
 		"addr_lv1": "충청북도",
 		"addr_lv2": "제천시",
 		"apply_nums": "713세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000275&pblancNo=2022000275&houseSecd=01",
+		"in_date": "20220520",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "조례 한양수자인 디에디션",
+		"addr": "전라남도 순천시 조례동 1519-1번지 일원",
+		"short_addr": "전라남도 순천시",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "순천시",
+		"apply_nums": "340세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000275&pblancNo=2022000275&houseSecd=01",
+		"in_date": "20220523",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "조례 한양수자인 디에디션",
+		"addr": "전라남도 순천시 조례동 1519-1번지 일원",
+		"short_addr": "전라남도 순천시",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "순천시",
+		"apply_nums": "340세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000275&pblancNo=2022000275&houseSecd=01",
+		"in_date": "20220524",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "조례 한양수자인 디에디션",
+		"addr": "전라남도 순천시 조례동 1519-1번지 일원",
+		"short_addr": "전라남도 순천시",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "순천시",
+		"apply_nums": "340세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000275&pblancNo=2022000275&houseSecd=01",
+		"in_date": "20220525",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "조례 한양수자인 디에디션",
+		"addr": "전라남도 순천시 조례동 1519-1번지 일원",
+		"short_addr": "전라남도 순천시",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "순천시",
+		"apply_nums": "340세대"
 	}
 ]
