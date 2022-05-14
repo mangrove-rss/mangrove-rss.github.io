@@ -1,104 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000246&pblancNo=2022000246&houseSecd=01",
-		"in_date": "20220510",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "1호선 전곡역 제일풍경채 리버파크",
-		"addr": "경기도 연천군 전곡읍 전곡리 85-12번지 일원",
-		"short_addr": "경기도 연천군",
-		"addr_lv1": "경기도",
-		"addr_lv2": "연천군",
-		"apply_nums": "845세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000250&pblancNo=2022000250&houseSecd=01",
-		"in_date": "20220510",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "금곡역한신더휴",
-		"addr": "경기도 남양주시 금곡동 404-20번지 일원",
-		"short_addr": "경기도 남양주시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "남양주시",
-		"apply_nums": "192세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000260&pblancNo=2022000260&houseSecd=01",
-		"in_date": "20220510",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "김해 구산 푸르지오 파크테르",
-		"addr": "경상남도 김해시 구산동 691번지 일원",
-		"short_addr": "경상남도 김해시",
-		"addr_lv1": "경상남도",
-		"addr_lv2": "김해시",
-		"apply_nums": "534세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000273&pblancNo=2022000273&houseSecd=01",
-		"in_date": "20220510",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "만촌자이르네",
-		"addr": "대구광역시 수성구 만촌동 883-38번지 일원",
-		"short_addr": "대구광역시 수성구",
-		"addr_lv1": "대구광역시",
-		"addr_lv2": "수성구",
-		"apply_nums": "607세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000274&pblancNo=2022000274&houseSecd=01",
-		"in_date": "20220510",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "초혁신도시 반도유보라 마크브릿지",
-		"addr": "강원도 원주시 관설동 1426번지 외 4필지",
-		"short_addr": "강원도 원주시",
-		"addr_lv1": "강원도",
-		"addr_lv2": "원주시",
-		"apply_nums": "476세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000247&pblancNo=2022000247&houseSecd=01",
-		"in_date": "20220510",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "제주 푸르지오 더 퍼스트",
-		"addr": "제주특별자치도 서귀포시 대정읍 구억리 34번지 외",
-		"short_addr": "제주특별자치도 서귀포시",
-		"addr_lv1": "제주특별자치도",
-		"addr_lv2": "서귀포시",
-		"apply_nums": "160세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022850007&pblancNo=2022850007&houseSecd=03",
-		"in_date": "20220510",
-		"hsecd": "03",
-		"rse": "04",
-		"type": "",
-		"name": "진주의 봄 프리미엄"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950025&pblancNo=2022950025&houseSecd=02",
-		"in_date": "20220510",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "신설동역 자이르네 도시형생활주택",
-		"addr": "서울특별시 동대문구 신설동 96-48",
-		"short_addr": "서울특별시 동대문구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "동대문구",
-		"apply_nums": "143세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000250&pblancNo=2022000250&houseSecd=01",
 		"in_date": "20220511",
 		"hsecd": "01",
@@ -671,6 +572,45 @@
 		"apply_nums": "340세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000253&pblancNo=2022000253&houseSecd=01",
+		"in_date": "20220523",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "구서 남평 N-CITY",
+		"addr": "부산광역시 금정구 구서동 162-10번지",
+		"short_addr": "부산광역시 금정구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "금정구",
+		"apply_nums": "57세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000287&pblancNo=2022000287&houseSecd=01",
+		"in_date": "20220523",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "수성포레스트스위첸",
+		"addr": "대구광역시 수성구 파동로28길 11-9(파동)",
+		"short_addr": "대구광역시 수성구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "수성구",
+		"apply_nums": "755세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000286&pblancNo=2022000286&houseSecd=01",
+		"in_date": "20220523",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "이안 모란 센트럴파크",
+		"addr": "경기도 성남시 중원구 하대원동 147-5번지",
+		"short_addr": "경기도 성남시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "성남시",
+		"apply_nums": "74세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000222&pblancNo=2022000222&houseSecd=01",
 		"in_date": "20220523",
 		"hsecd": "01",
@@ -708,6 +648,19 @@
 		"addr_lv1": "부산광역시",
 		"addr_lv2": "부산진구",
 		"apply_nums": "96세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000242&pblancNo=2022000242&houseSecd=01",
+		"in_date": "20220523",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "평택청북 세종 헤르메스",
+		"addr": "경기도 평택시 청북읍 옥길리 1158-7",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "280세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000275&pblancNo=2022000275&houseSecd=01",
@@ -736,6 +689,45 @@
 		"apply_nums": "99세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000253&pblancNo=2022000253&houseSecd=01",
+		"in_date": "20220524",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "구서 남평 N-CITY",
+		"addr": "부산광역시 금정구 구서동 162-10번지",
+		"short_addr": "부산광역시 금정구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "금정구",
+		"apply_nums": "57세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000287&pblancNo=2022000287&houseSecd=01",
+		"in_date": "20220524",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "수성포레스트스위첸",
+		"addr": "대구광역시 수성구 파동로28길 11-9(파동)",
+		"short_addr": "대구광역시 수성구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "수성구",
+		"apply_nums": "755세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000286&pblancNo=2022000286&houseSecd=01",
+		"in_date": "20220524",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "이안 모란 센트럴파크",
+		"addr": "경기도 성남시 중원구 하대원동 147-5번지",
+		"short_addr": "경기도 성남시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "성남시",
+		"apply_nums": "74세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000275&pblancNo=2022000275&houseSecd=01",
 		"in_date": "20220524",
 		"hsecd": "01",
@@ -786,6 +778,32 @@
 		"addr_lv1": "부산광역시",
 		"addr_lv2": "부산진구",
 		"apply_nums": "96세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000242&pblancNo=2022000242&houseSecd=01",
+		"in_date": "20220524",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "평택청북 세종 헤르메스",
+		"addr": "경기도 평택시 청북읍 옥길리 1158-7",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "280세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000253&pblancNo=2022000253&houseSecd=01",
+		"in_date": "20220525",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "구서 남평 N-CITY",
+		"addr": "부산광역시 금정구 구서동 162-10번지",
+		"short_addr": "부산광역시 금정구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "금정구",
+		"apply_nums": "57세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000169&pblancNo=2022000169&houseSecd=01",
@@ -799,6 +817,32 @@
 		"addr_lv1": "광주광역시",
 		"addr_lv2": "동구",
 		"apply_nums": "99세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000287&pblancNo=2022000287&houseSecd=01",
+		"in_date": "20220525",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "수성포레스트스위첸",
+		"addr": "대구광역시 수성구 파동로28길 11-9(파동)",
+		"short_addr": "대구광역시 수성구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "수성구",
+		"apply_nums": "755세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000286&pblancNo=2022000286&houseSecd=01",
+		"in_date": "20220525",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "이안 모란 센트럴파크",
+		"addr": "경기도 성남시 중원구 하대원동 147-5번지",
+		"short_addr": "경기도 성남시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "성남시",
+		"apply_nums": "74세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000222&pblancNo=2022000222&houseSecd=01",
@@ -853,6 +897,19 @@
 		"apply_nums": "340세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000242&pblancNo=2022000242&houseSecd=01",
+		"in_date": "20220525",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "평택청북 세종 헤르메스",
+		"addr": "경기도 평택시 청북읍 옥길리 1158-7",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "280세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000169&pblancNo=2022000169&houseSecd=01",
 		"in_date": "20220526",
 		"hsecd": "01",
@@ -864,6 +921,45 @@
 		"addr_lv1": "광주광역시",
 		"addr_lv2": "동구",
 		"apply_nums": "99세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000253&pblancNo=2022000253&houseSecd=01",
+		"in_date": "20220526",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "구서 남평 N-CITY",
+		"addr": "부산광역시 금정구 구서동 162-10번지",
+		"short_addr": "부산광역시 금정구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "금정구",
+		"apply_nums": "57세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000287&pblancNo=2022000287&houseSecd=01",
+		"in_date": "20220526",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "수성포레스트스위첸",
+		"addr": "대구광역시 수성구 파동로28길 11-9(파동)",
+		"short_addr": "대구광역시 수성구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "수성구",
+		"apply_nums": "755세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000286&pblancNo=2022000286&houseSecd=01",
+		"in_date": "20220526",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "이안 모란 센트럴파크",
+		"addr": "경기도 성남시 중원구 하대원동 147-5번지",
+		"short_addr": "경기도 성남시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "성남시",
+		"apply_nums": "74세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000222&pblancNo=2022000222&houseSecd=01",
