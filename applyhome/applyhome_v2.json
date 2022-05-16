@@ -1,32 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000226&pblancNo=2022000226&houseSecd=01",
-		"in_date": "20220512",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "정관풀리페",
-		"addr": "부산광역시 기장군 정관읍 정관5로 144(정관 풀리페)",
-		"short_addr": "부산광역시 기장군",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "기장군",
-		"apply_nums": "7세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000250&pblancNo=2022000250&houseSecd=01",
-		"in_date": "20220512",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "금곡역한신더휴",
-		"addr": "경기도 남양주시 금곡동 404-20번지 일원",
-		"short_addr": "경기도 남양주시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "남양주시",
-		"apply_nums": "192세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000226&pblancNo=2022000226&houseSecd=01",
 		"in_date": "20220513",
 		"hsecd": "01",
 		"rse": "03",
@@ -572,6 +546,19 @@
 		"apply_nums": "340세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910140&pblancNo=2022910140&houseSecd=04",
+		"in_date": "20220523",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "e편한세상 안성 그랑루체",
+		"addr": "경기도 안성시 당왕동 42번지 일원",
+		"short_addr": "경기도 안성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "안성시",
+		"apply_nums": "2세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000169&pblancNo=2022000169&houseSecd=01",
 		"in_date": "20220524",
 		"hsecd": "01",
@@ -819,6 +806,19 @@
 		"apply_nums": "99세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000257&pblancNo=2022000257&houseSecd=01",
+		"in_date": "20220526",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "더샵 지제역 센트럴파크 1BL(조합분양 취소분)",
+		"addr": "경기도 평택시 지제동삭1로 163(동삭동, 더샵지제역센트럴파크1BL아파트)",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "9세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000253&pblancNo=2022000253&houseSecd=01",
 		"in_date": "20220526",
 		"hsecd": "01",
@@ -897,6 +897,19 @@
 		"apply_nums": "96세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000257&pblancNo=2022000257&houseSecd=01",
+		"in_date": "20220527",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "더샵 지제역 센트럴파크 1BL(조합분양 취소분)",
+		"addr": "경기도 평택시 지제동삭1로 163(동삭동, 더샵지제역센트럴파크1BL아파트)",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "9세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000169&pblancNo=2022000169&houseSecd=01",
 		"in_date": "20220527",
 		"hsecd": "01",
@@ -908,5 +921,18 @@
 		"addr_lv1": "광주광역시",
 		"addr_lv2": "동구",
 		"apply_nums": "99세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000257&pblancNo=2022000257&houseSecd=01",
+		"in_date": "20220530",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "더샵 지제역 센트럴파크 1BL(조합분양 취소분)",
+		"addr": "경기도 평택시 지제동삭1로 163(동삭동, 더샵지제역센트럴파크1BL아파트)",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "9세대"
 	}
 ]
