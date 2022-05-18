@@ -546,6 +546,45 @@
 		"apply_nums": "2세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910142&pblancNo=2022910142&houseSecd=04",
+		"in_date": "20220523",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "문수로 푸르지오 어반피스",
+		"addr": "울산광역시 남구 신정동 1266-6번지 일원",
+		"short_addr": "울산광역시 남구",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "75세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910148&pblancNo=2022910148&houseSecd=04",
+		"in_date": "20220523",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "의정부역 월드메르디앙 스마트시티",
+		"addr": "경기도 의정부시 둔야로 19(의정부동)",
+		"short_addr": "경기도 의정부시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "의정부시",
+		"apply_nums": "10세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910145&pblancNo=2022910145&houseSecd=04",
+		"in_date": "20220523",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "작전역 베네하임 더윈",
+		"addr": "인천광역시 계양구 작전동 415",
+		"short_addr": "인천광역시 계양구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "계양구",
+		"apply_nums": "13세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000169&pblancNo=2022000169&houseSecd=01",
 		"in_date": "20220524",
 		"hsecd": "01",
@@ -910,6 +949,19 @@
 		"apply_nums": "99세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000299&pblancNo=2022000299&houseSecd=01",
+		"in_date": "20220530",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "평촌 어바인퍼스트 더샵",
+		"addr": "경기도 안양시 동안구 호계동 954-20번지 일원",
+		"short_addr": "경기도 안양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "안양시",
+		"apply_nums": "164세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000257&pblancNo=2022000257&houseSecd=01",
 		"in_date": "20220530",
 		"hsecd": "01",
@@ -921,5 +973,44 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "평택시",
 		"apply_nums": "9세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000299&pblancNo=2022000299&houseSecd=01",
+		"in_date": "20220531",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "평촌 어바인퍼스트 더샵",
+		"addr": "경기도 안양시 동안구 호계동 954-20번지 일원",
+		"short_addr": "경기도 안양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "안양시",
+		"apply_nums": "164세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000299&pblancNo=2022000299&houseSecd=01",
+		"in_date": "20220602",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "평촌 어바인퍼스트 더샵",
+		"addr": "경기도 안양시 동안구 호계동 954-20번지 일원",
+		"short_addr": "경기도 안양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "안양시",
+		"apply_nums": "164세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000299&pblancNo=2022000299&houseSecd=01",
+		"in_date": "20220603",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "평촌 어바인퍼스트 더샵",
+		"addr": "경기도 안양시 동안구 호계동 954-20번지 일원",
+		"short_addr": "경기도 안양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "안양시",
+		"apply_nums": "164세대"
 	}
 ]
