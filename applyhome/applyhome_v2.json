@@ -559,6 +559,19 @@
 		"apply_nums": "75세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910143&pblancNo=2022910143&houseSecd=04",
+		"in_date": "20220523",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "부암2차 비스타동원 아트포레",
+		"addr": "부산광역시 부산진구 부암동 298-163번지 일원",
+		"short_addr": "부산광역시 부산진구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "부산진구",
+		"apply_nums": "7세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910148&pblancNo=2022910148&houseSecd=04",
 		"in_date": "20220523",
 		"hsecd": "04",
@@ -700,6 +713,45 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "평택시",
 		"apply_nums": "280세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950037&pblancNo=2022950037&houseSecd=02",
+		"in_date": "20220524",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "e편한세상 시티 항동 마리나",
+		"addr": "인천광역시 중구 항동7가 57-7",
+		"short_addr": "인천광역시 중구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "592세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910149&pblancNo=2022910149&houseSecd=04",
+		"in_date": "20220524",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "브라운스톤 인터포레",
+		"addr": "경기도 동두천시 생연동 284번지 일원",
+		"short_addr": "경기도 동두천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "동두천시",
+		"apply_nums": "29세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910146&pblancNo=2022910146&houseSecd=04",
+		"in_date": "20220524",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "송도 Luxe Ocean SK VIEW",
+		"addr": "인천광역시 연수구 송도동 396-1(송도랜드마크시티 6, 8공구 A9블록)",
+		"short_addr": "인천광역시 연수구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "연수구",
+		"apply_nums": "9세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000253&pblancNo=2022000253&houseSecd=01",
