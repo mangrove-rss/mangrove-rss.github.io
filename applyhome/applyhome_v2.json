@@ -1,57 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000123&pblancNo=2022000123&houseSecd=01",
-		"in_date": "20220519",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "마크원 순천",
-		"addr": "전라남도 순천시 강변로 893(석현동)",
-		"short_addr": "전라남도 순천시",
-		"addr_lv1": "전라남도",
-		"addr_lv2": "순천시",
-		"apply_nums": "99세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000243&pblancNo=2022000243&houseSecd=01",
-		"in_date": "20220519",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "영통 푸르지오 트레센츠(A1BL)",
-		"addr": "경기도 수원시 영통구 망포동 종전부동산 망포지구 A1블록 (망포동 234-7번지 일원)",
-		"short_addr": "경기도 수원시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "수원시",
-		"apply_nums": "796세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000244&pblancNo=2022000244&houseSecd=01",
-		"in_date": "20220519",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "영통 푸르지오 파인베르(A2BL)",
-		"addr": "경기도 수원시 영통구 망포동 종전부동산 망포지구 A2블록 (망포동 234-6번지 일원)",
-		"short_addr": "경기도 수원시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "수원시",
-		"apply_nums": "770세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000262&pblancNo=2022000262&houseSecd=01",
-		"in_date": "20220519",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "제천자이 더 스카이",
-		"addr": "충청북도 제천시 신월동 1474번지 (미니복합타운 D1블록)",
-		"short_addr": "충청북도 제천시",
-		"addr_lv1": "충청북도",
-		"addr_lv2": "제천시",
-		"apply_nums": "713세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000275&pblancNo=2022000275&houseSecd=01",
 		"in_date": "20220520",
 		"hsecd": "01",
@@ -817,6 +765,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "평택시",
 		"apply_nums": "9세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910144&pblancNo=2022910144&houseSecd=04",
+		"in_date": "20220530",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "신림스카이아파트",
+		"addr": "서울특별시 관악구 신림로 185(신림동, 신림 스카이 아파트)",
+		"short_addr": "서울특별시 관악구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "관악구",
+		"apply_nums": "6세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910150&pblancNo=2022910150&houseSecd=04",
