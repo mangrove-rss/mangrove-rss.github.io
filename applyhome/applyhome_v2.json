@@ -1,18 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000275&pblancNo=2022000275&houseSecd=01",
-		"in_date": "20220520",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "조례 한양수자인 디에디션",
-		"addr": "전라남도 순천시 조례동 1519-1번지 일원",
-		"short_addr": "전라남도 순천시",
-		"addr_lv1": "전라남도",
-		"addr_lv2": "순천시",
-		"apply_nums": "340세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000253&pblancNo=2022000253&houseSecd=01",
 		"in_date": "20220523",
 		"hsecd": "01",
@@ -767,6 +754,19 @@
 		"apply_nums": "9세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950042&pblancNo=2022950042&houseSecd=02",
+		"in_date": "20220530",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "송도 국제도시 애니오션",
+		"addr": "인천광역시 연수구 인천타워대로 99(송도동)",
+		"short_addr": "인천광역시 연수구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "연수구",
+		"apply_nums": "19세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910144&pblancNo=2022910144&houseSecd=04",
 		"in_date": "20220530",
 		"hsecd": "04",
@@ -921,6 +921,19 @@
 		"addr_lv1": "경상북도",
 		"addr_lv2": "포항시",
 		"apply_nums": "1404세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950042&pblancNo=2022950042&houseSecd=02",
+		"in_date": "20220531",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "송도 국제도시 애니오션",
+		"addr": "인천광역시 연수구 인천타워대로 99(송도동)",
+		"short_addr": "인천광역시 연수구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "연수구",
+		"apply_nums": "19세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910150&pblancNo=2022910150&houseSecd=04",
