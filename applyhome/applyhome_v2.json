@@ -780,6 +780,19 @@
 		"apply_nums": "6세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910154&pblancNo=2022910154&houseSecd=04",
+		"in_date": "20220530",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "신영지웰 에스테이트 개봉역",
+		"addr": "서울특별시 구로구 개봉동 171-2번지 일원",
+		"short_addr": "서울특별시 구로구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "구로구",
+		"apply_nums": "3세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910150&pblancNo=2022910150&houseSecd=04",
 		"in_date": "20220530",
 		"hsecd": "04",
