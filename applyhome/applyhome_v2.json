@@ -1,31 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000257&pblancNo=2022000257&houseSecd=01",
-		"in_date": "20220527",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "더샵 지제역 센트럴파크 1BL",
-		"addr": "경기도 평택시 지제동삭1로 163(동삭동, 더샵지제역센트럴파크1BL아파트)",
-		"short_addr": "경기도 평택시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "평택시",
-		"apply_nums": "9세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000169&pblancNo=2022000169&houseSecd=01",
-		"in_date": "20220527",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "금남로 한신더휴 펜트하우스",
-		"addr": "광주광역시 동구 금남로3가 1-3번지 일원",
-		"short_addr": "광주광역시 동구",
-		"addr_lv1": "광주광역시",
-		"addr_lv2": "동구",
-		"apply_nums": "99세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000251&pblancNo=2022000251&houseSecd=01",
 		"in_date": "20220530",
 		"hsecd": "01",
