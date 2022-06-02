@@ -325,6 +325,19 @@
 		"apply_nums": "63세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910163&pblancNo=2022910163&houseSecd=04",
+		"in_date": "20220607",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "부천 원종 길성그랑프리텔",
+		"addr": "경기도 부천시 소사로748번길 29(원종동, 길성그랑프리텔)",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "3세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000320&pblancNo=2022000320&houseSecd=01",
 		"in_date": "20220608",
 		"hsecd": "01",
@@ -518,6 +531,19 @@
 		"addr_lv1": "부산광역시",
 		"addr_lv2": "사하구",
 		"apply_nums": "185세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000304&pblancNo=2022000304&houseSecd=01",
+		"in_date": "20220613",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "현대 프라힐스 소사역 더프라임",
+		"addr": "경기도 부천시 소사본동 70-7외 6필지",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "160세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000312&pblancNo=2022000312&houseSecd=01",
@@ -559,6 +585,32 @@
 		"apply_nums": "57세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000304&pblancNo=2022000304&houseSecd=01",
+		"in_date": "20220614",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "현대 프라힐스 소사역 더프라임",
+		"addr": "경기도 부천시 소사본동 70-7외 6필지",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "160세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000304&pblancNo=2022000304&houseSecd=01",
+		"in_date": "20220615",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "현대 프라힐스 소사역 더프라임",
+		"addr": "경기도 부천시 소사본동 70-7외 6필지",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "160세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000312&pblancNo=2022000312&houseSecd=01",
 		"in_date": "20220615",
 		"hsecd": "01",
@@ -570,5 +622,18 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "서구",
 		"apply_nums": "57세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000304&pblancNo=2022000304&houseSecd=01",
+		"in_date": "20220616",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "현대 프라힐스 소사역 더프라임",
+		"addr": "경기도 부천시 소사본동 70-7외 6필지",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "160세대"
 	}
 ]
