@@ -403,6 +403,71 @@
 		"apply_nums": "608세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950043&pblancNo=2022950043&houseSecd=02",
+		"in_date": "20220608",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "e편한세상 시티 고색",
+		"addr": "경기도 수원시 권선구 고색동 894-125번지 외 6필지",
+		"short_addr": "경기도 수원시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "수원시",
+		"apply_nums": "430세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910162&pblancNo=2022910162&houseSecd=04",
+		"in_date": "20220608",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "광안 스윗팰리스",
+		"addr": "부산광역시 수영구 광안동 74-5번지 외 2필지",
+		"short_addr": "부산광역시 수영구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "수영구",
+		"apply_nums": "66세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910164&pblancNo=2022910164&houseSecd=04",
+		"in_date": "20220608",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "브이티스타일",
+		"addr": "서울특별시 동대문구 장한로28가길 17 (장안동, VT Style)",
+		"short_addr": "서울특별시 동대문구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "동대문구",
+		"apply_nums": "11세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910167&pblancNo=2022910167&houseSecd=04",
+		"in_date": "20220608",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "서대전 한국아델리움",
+		"addr": "유천동328-50",
+		"short_addr": "유천동328-50",
+		"addr_lv1": "유천동328-50",
+		"addr_lv2": "",
+		"apply_nums": "22세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910165&pblancNo=2022910165&houseSecd=04",
+		"in_date": "20220608",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "용문역 리체스트",
+		"addr": "대전광역시 서구 용문동 589-14,15,18",
+		"short_addr": "대전광역시 서구",
+		"addr_lv1": "대전광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "21세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000320&pblancNo=2022000320&houseSecd=01",
 		"in_date": "20220609",
 		"hsecd": "01",
@@ -572,6 +637,19 @@
 		"apply_nums": "856세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950044&pblancNo=2022950044&houseSecd=02",
+		"in_date": "20220613",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "기흥역 엘리시아 트윈 102동",
+		"addr": "경기도 용인시 기흥구 신갈동 69-10번지 외 1필지",
+		"short_addr": "경기도 용인시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "용인시",
+		"apply_nums": "107세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000312&pblancNo=2022000312&houseSecd=01",
 		"in_date": "20220614",
 		"hsecd": "01",
@@ -596,6 +674,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "부천시",
 		"apply_nums": "160세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950044&pblancNo=2022950044&houseSecd=02",
+		"in_date": "20220614",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "기흥역 엘리시아 트윈 102동",
+		"addr": "경기도 용인시 기흥구 신갈동 69-10번지 외 1필지",
+		"short_addr": "경기도 용인시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "용인시",
+		"apply_nums": "107세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000304&pblancNo=2022000304&houseSecd=01",
@@ -622,6 +713,19 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "서구",
 		"apply_nums": "57세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950044&pblancNo=2022950044&houseSecd=02",
+		"in_date": "20220615",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "기흥역 엘리시아 트윈 102동",
+		"addr": "경기도 용인시 기흥구 신갈동 69-10번지 외 1필지",
+		"short_addr": "경기도 용인시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "용인시",
+		"apply_nums": "107세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000304&pblancNo=2022000304&houseSecd=01",
@@ -635,5 +739,31 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "부천시",
 		"apply_nums": "160세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950044&pblancNo=2022950044&houseSecd=02",
+		"in_date": "20220616",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "기흥역 엘리시아 트윈 102동",
+		"addr": "경기도 용인시 기흥구 신갈동 69-10번지 외 1필지",
+		"short_addr": "경기도 용인시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "용인시",
+		"apply_nums": "107세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950044&pblancNo=2022950044&houseSecd=02",
+		"in_date": "20220617",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "기흥역 엘리시아 트윈 102동",
+		"addr": "경기도 용인시 기흥구 신갈동 69-10번지 외 1필지",
+		"short_addr": "경기도 용인시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "용인시",
+		"apply_nums": "107세대"
 	}
 ]
