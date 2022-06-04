@@ -351,6 +351,19 @@
 		"apply_nums": "856세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000343&pblancNo=2022000343&houseSecd=01",
+		"in_date": "20220608",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "고흥 승원팰리체 하이엔드",
+		"addr": "전라남도 고흥군 고흥읍 남계리 1043번지",
+		"short_addr": "전라남도 고흥군",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "고흥군",
+		"apply_nums": "183세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000324&pblancNo=2022000324&houseSecd=01",
 		"in_date": "20220608",
 		"hsecd": "01",
@@ -442,6 +455,19 @@
 		"apply_nums": "11세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910166&pblancNo=2022910166&houseSecd=04",
+		"in_date": "20220608",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "서광교 파크뷰",
+		"addr": "경기도 수원시 장안구 연무동 18-2 외 2필지",
+		"short_addr": "경기도 수원시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "수원시",
+		"apply_nums": "47세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910167&pblancNo=2022910167&houseSecd=04",
 		"in_date": "20220608",
 		"hsecd": "04",
@@ -468,6 +494,19 @@
 		"apply_nums": "21세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022930007&pblancNo=2022930007&houseSecd=06",
+		"in_date": "20220608",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "평촌 어바인퍼스트",
+		"addr": "경기도 안양시 동안구 호계동 956(호계동, 평촌 어바인 퍼스트)",
+		"short_addr": "경기도 안양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "안양시",
+		"apply_nums": "1세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000320&pblancNo=2022000320&houseSecd=01",
 		"in_date": "20220609",
 		"hsecd": "01",
@@ -479,6 +518,19 @@
 		"addr_lv1": "부산광역시",
 		"addr_lv2": "강서구",
 		"apply_nums": "856세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000343&pblancNo=2022000343&houseSecd=01",
+		"in_date": "20220609",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "고흥 승원팰리체 하이엔드",
+		"addr": "전라남도 고흥군 고흥읍 남계리 1043번지",
+		"short_addr": "전라남도 고흥군",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "고흥군",
+		"apply_nums": "183세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000324&pblancNo=2022000324&houseSecd=01",
@@ -559,6 +611,19 @@
 		"apply_nums": "856세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000343&pblancNo=2022000343&houseSecd=01",
+		"in_date": "20220610",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "고흥 승원팰리체 하이엔드",
+		"addr": "전라남도 고흥군 고흥읍 남계리 1043번지",
+		"short_addr": "전라남도 고흥군",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "고흥군",
+		"apply_nums": "183세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000324&pblancNo=2022000324&houseSecd=01",
 		"in_date": "20220610",
 		"hsecd": "01",
@@ -596,6 +661,19 @@
 		"addr_lv1": "부산광역시",
 		"addr_lv2": "사하구",
 		"apply_nums": "185세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000272&pblancNo=2022000272&houseSecd=01",
+		"in_date": "20220613",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "울진역 센트럴 두산위브",
+		"addr": "경상북도 울진군 울진읍 읍남리 산53-12일원",
+		"short_addr": "경상북도 울진군",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "울진군",
+		"apply_nums": "393세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000304&pblancNo=2022000304&houseSecd=01",
@@ -663,6 +741,19 @@
 		"apply_nums": "57세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000272&pblancNo=2022000272&houseSecd=01",
+		"in_date": "20220614",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "울진역 센트럴 두산위브",
+		"addr": "경상북도 울진군 울진읍 읍남리 산53-12일원",
+		"short_addr": "경상북도 울진군",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "울진군",
+		"apply_nums": "393세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000304&pblancNo=2022000304&houseSecd=01",
 		"in_date": "20220614",
 		"hsecd": "01",
@@ -687,6 +778,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "용인시",
 		"apply_nums": "107세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000344&pblancNo=2022000344&houseSecd=01",
+		"in_date": "20220615",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "주영 더 팰리스 지븐",
+		"addr": "경상남도 통영시 광도면 죽림리 263-1번지 일원",
+		"short_addr": "경상남도 통영시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "통영시",
+		"apply_nums": "322세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000304&pblancNo=2022000304&houseSecd=01",
@@ -715,6 +819,19 @@
 		"apply_nums": "57세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000272&pblancNo=2022000272&houseSecd=01",
+		"in_date": "20220615",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "울진역 센트럴 두산위브",
+		"addr": "경상북도 울진군 울진읍 읍남리 산53-12일원",
+		"short_addr": "경상북도 울진군",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "울진군",
+		"apply_nums": "393세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950044&pblancNo=2022950044&houseSecd=02",
 		"in_date": "20220615",
 		"hsecd": "02",
@@ -726,6 +843,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "용인시",
 		"apply_nums": "107세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000344&pblancNo=2022000344&houseSecd=01",
+		"in_date": "20220616",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "주영 더 팰리스 지븐",
+		"addr": "경상남도 통영시 광도면 죽림리 263-1번지 일원",
+		"short_addr": "경상남도 통영시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "통영시",
+		"apply_nums": "322세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000304&pblancNo=2022000304&houseSecd=01",
@@ -752,6 +882,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "용인시",
 		"apply_nums": "107세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000344&pblancNo=2022000344&houseSecd=01",
+		"in_date": "20220617",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "주영 더 팰리스 지븐",
+		"addr": "경상남도 통영시 광도면 죽림리 263-1번지 일원",
+		"short_addr": "경상남도 통영시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "통영시",
+		"apply_nums": "322세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950044&pblancNo=2022950044&houseSecd=02",
