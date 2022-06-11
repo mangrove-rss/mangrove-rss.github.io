@@ -1,109 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000324&pblancNo=2022000324&houseSecd=01",
-		"in_date": "20220607",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "소사역 한라비발디 프레스티지",
-		"addr": "경기도 부천시 소사본동 70-12",
-		"short_addr": "경기도 부천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "부천시",
-		"apply_nums": "166세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000321&pblancNo=2022000321&houseSecd=01",
-		"in_date": "20220607",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "장흥역 경남아너스빌 북한산뷰 B-1(5)블럭(2단지)",
-		"addr": "경기도 양주시 장흥면 일영리 377외 29필지",
-		"short_addr": "경기도 양주시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "양주시",
-		"apply_nums": "283세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000305&pblancNo=2022000305&houseSecd=01",
-		"in_date": "20220607",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "중앙하이츠 더힐",
-		"addr": "부산광역시 사하구 신평동 444-1번지 일원",
-		"short_addr": "부산광역시 사하구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "사하구",
-		"apply_nums": "185세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000341&pblancNo=2022000341&houseSecd=01",
-		"in_date": "20220607",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "힐스테이트 황성",
-		"addr": "경상북도 경주시 황성동 45번지 일원",
-		"short_addr": "경상북도 경주시",
-		"addr_lv1": "경상북도",
-		"addr_lv2": "경주시",
-		"apply_nums": "608세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000295&pblancNo=2022000295&houseSecd=01",
-		"in_date": "20220607",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "트리마제 순천 1단지",
-		"addr": "전라남도 순천시 조례동 168번지 외 91필지",
-		"short_addr": "전라남도 순천시",
-		"addr_lv1": "전라남도",
-		"addr_lv2": "순천시",
-		"apply_nums": "1172세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000296&pblancNo=2022000296&houseSecd=01",
-		"in_date": "20220607",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "트리마제 순천 2단지",
-		"addr": "전라남도 순천시 조례동 161-10번지 외 51필지",
-		"short_addr": "전라남도 순천시",
-		"addr_lv1": "전라남도",
-		"addr_lv2": "순천시",
-		"apply_nums": "633세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910157&pblancNo=2022910157&houseSecd=04",
-		"in_date": "20220607",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "남양주 진접 부영 사랑으로 우선 분양전환 후 잔여세대",
-		"addr": "경기도 남양주시 진접읍 해밀예당3로 38(부영사랑으로)",
-		"short_addr": "경기도 남양주시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "남양주시",
-		"apply_nums": "63세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910163&pblancNo=2022910163&houseSecd=04",
-		"in_date": "20220607",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "부천 원종 길성그랑프리텔",
-		"addr": "경기도 부천시 소사로748번길 29(원종동, 길성그랑프리텔)",
-		"short_addr": "경기도 부천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "부천시",
-		"apply_nums": "3세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000320&pblancNo=2022000320&houseSecd=01",
 		"in_date": "20220608",
 		"hsecd": "01",
@@ -689,6 +585,19 @@
 		"apply_nums": "107세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910170&pblancNo=2022910170&houseSecd=04",
+		"in_date": "20220615",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "남악 오룡지구 36BL 남악오룡 시티프라디움",
+		"addr": "전라남도 무안군 일로읍 남악신도시 오룡택지지구 36BL",
+		"short_addr": "전라남도 무안군",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "무안군",
+		"apply_nums": "178세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910161&pblancNo=2022910161&houseSecd=04",
 		"in_date": "20220615",
 		"hsecd": "04",
@@ -819,6 +728,32 @@
 		"apply_nums": "19세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000309&pblancNo=2022000309&houseSecd=01",
+		"in_date": "20220620",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "사직 하늘채 리센티아",
+		"addr": "부산광역시 동래구 사직동 566-3번지 일원",
+		"short_addr": "부산광역시 동래구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "동래구",
+		"apply_nums": "109세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000366&pblancNo=2022000366&houseSecd=01",
+		"in_date": "20220620",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "청주 SK VIEW 자이",
+		"addr": "충청북도 청주시 흥덕구 봉명동 193",
+		"short_addr": "충청북도 청주시",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "청주시",
+		"apply_nums": "1097세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000363&pblancNo=2022000363&houseSecd=01",
 		"in_date": "20220620",
 		"hsecd": "01",
@@ -923,6 +858,32 @@
 		"apply_nums": "340세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000309&pblancNo=2022000309&houseSecd=01",
+		"in_date": "20220621",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "사직 하늘채 리센티아",
+		"addr": "부산광역시 동래구 사직동 566-3번지 일원",
+		"short_addr": "부산광역시 동래구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "동래구",
+		"apply_nums": "109세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000366&pblancNo=2022000366&houseSecd=01",
+		"in_date": "20220621",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "청주 SK VIEW 자이",
+		"addr": "충청북도 청주시 흥덕구 봉명동 193",
+		"short_addr": "충청북도 청주시",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "청주시",
+		"apply_nums": "1097세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000363&pblancNo=2022000363&houseSecd=01",
 		"in_date": "20220621",
 		"hsecd": "01",
@@ -1027,6 +988,32 @@
 		"apply_nums": "340세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000309&pblancNo=2022000309&houseSecd=01",
+		"in_date": "20220622",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "사직 하늘채 리센티아",
+		"addr": "부산광역시 동래구 사직동 566-3번지 일원",
+		"short_addr": "부산광역시 동래구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "동래구",
+		"apply_nums": "109세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000366&pblancNo=2022000366&houseSecd=01",
+		"in_date": "20220622",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "청주 SK VIEW 자이",
+		"addr": "충청북도 청주시 흥덕구 봉명동 193",
+		"short_addr": "충청북도 청주시",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "청주시",
+		"apply_nums": "1097세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000363&pblancNo=2022000363&houseSecd=01",
 		"in_date": "20220622",
 		"hsecd": "01",
@@ -1129,6 +1116,32 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "파주시",
 		"apply_nums": "340세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000309&pblancNo=2022000309&houseSecd=01",
+		"in_date": "20220623",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "사직 하늘채 리센티아",
+		"addr": "부산광역시 동래구 사직동 566-3번지 일원",
+		"short_addr": "부산광역시 동래구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "동래구",
+		"apply_nums": "109세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000366&pblancNo=2022000366&houseSecd=01",
+		"in_date": "20220623",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "청주 SK VIEW 자이",
+		"addr": "충청북도 청주시 흥덕구 봉명동 193",
+		"short_addr": "충청북도 청주시",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "청주시",
+		"apply_nums": "1097세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000363&pblancNo=2022000363&houseSecd=01",
