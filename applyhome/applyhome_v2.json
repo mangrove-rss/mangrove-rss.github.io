@@ -1,83 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000320&pblancNo=2022000320&houseSecd=01",
-		"in_date": "20220609",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "강서자이 에코델타(20블록) 공공분양주택",
-		"addr": "부산광역시 강서구 강동동 공동 20BL",
-		"short_addr": "부산광역시 강서구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "강서구",
-		"apply_nums": "856세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000343&pblancNo=2022000343&houseSecd=01",
-		"in_date": "20220609",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "고흥 승원팰리체 하이엔드",
-		"addr": "전라남도 고흥군 고흥읍 남계리 1043번지",
-		"short_addr": "전라남도 고흥군",
-		"addr_lv1": "전라남도",
-		"addr_lv2": "고흥군",
-		"apply_nums": "183세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000324&pblancNo=2022000324&houseSecd=01",
-		"in_date": "20220609",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "소사역 한라비발디 프레스티지",
-		"addr": "경기도 부천시 소사본동 70-12",
-		"short_addr": "경기도 부천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "부천시",
-		"apply_nums": "166세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000321&pblancNo=2022000321&houseSecd=01",
-		"in_date": "20220609",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "장흥역 경남아너스빌 북한산뷰 B-1(5)블럭(2단지)",
-		"addr": "경기도 양주시 장흥면 일영리 377외 29필지",
-		"short_addr": "경기도 양주시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "양주시",
-		"apply_nums": "283세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000305&pblancNo=2022000305&houseSecd=01",
-		"in_date": "20220609",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "중앙하이츠 더힐",
-		"addr": "부산광역시 사하구 신평동 444-1번지 일원",
-		"short_addr": "부산광역시 사하구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "사하구",
-		"apply_nums": "185세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000341&pblancNo=2022000341&houseSecd=01",
-		"in_date": "20220609",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "힐스테이트 황성",
-		"addr": "경상북도 경주시 황성동 45번지 일원",
-		"short_addr": "경상북도 경주시",
-		"addr_lv1": "경상북도",
-		"addr_lv2": "경주시",
-		"apply_nums": "608세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000312&pblancNo=2022000312&houseSecd=01",
 		"in_date": "20220610",
 		"hsecd": "01",
@@ -949,6 +871,19 @@
 		"apply_nums": "340세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000239&pblancNo=2022000239&houseSecd=01",
+		"in_date": "20220623",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "e편한세상 지축 센텀가든",
+		"addr": "경기도 고양시 덕양구 지축동 510-1번지 일원",
+		"short_addr": "경기도 고양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "고양시",
+		"apply_nums": "278세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000309&pblancNo=2022000309&houseSecd=01",
 		"in_date": "20220623",
 		"hsecd": "01",
@@ -986,5 +921,31 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "서구",
 		"apply_nums": "736세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000239&pblancNo=2022000239&houseSecd=01",
+		"in_date": "20220624",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "e편한세상 지축 센텀가든",
+		"addr": "경기도 고양시 덕양구 지축동 510-1번지 일원",
+		"short_addr": "경기도 고양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "고양시",
+		"apply_nums": "278세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000239&pblancNo=2022000239&houseSecd=01",
+		"in_date": "20220627",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "e편한세상 지축 센텀가든",
+		"addr": "경기도 고양시 덕양구 지축동 510-1번지 일원",
+		"short_addr": "경기도 고양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "고양시",
+		"apply_nums": "278세대"
 	}
 ]
