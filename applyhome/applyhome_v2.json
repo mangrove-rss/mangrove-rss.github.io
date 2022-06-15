@@ -442,6 +442,32 @@
 		"apply_nums": "736세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950046&pblancNo=2022950046&houseSecd=02",
+		"in_date": "20220620",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "시흥시청역 루미니 1BL",
+		"addr": "경기도 시흥시 장현동 692번지",
+		"short_addr": "경기도 시흥시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "시흥시",
+		"apply_nums": "126세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950047&pblancNo=2022950047&houseSecd=02",
+		"in_date": "20220620",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "시흥시청역 루미니 2BL",
+		"addr": "경기도 시흥시 장현동 691번지",
+		"short_addr": "경기도 시흥시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "시흥시",
+		"apply_nums": "225세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950040&pblancNo=2022950040&houseSecd=02",
 		"in_date": "20220620",
 		"hsecd": "02",
@@ -453,6 +479,45 @@
 		"addr_lv1": "충청남도",
 		"addr_lv2": "천안시",
 		"apply_nums": "78세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910175&pblancNo=2022910175&houseSecd=04",
+		"in_date": "20220620",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "광주 화정 골드클래스 2차",
+		"addr": "광주광역시 서구 화정동 23-191번지 일원",
+		"short_addr": "광주광역시 서구",
+		"addr_lv1": "광주광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "8세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910173&pblancNo=2022910173&houseSecd=04",
+		"in_date": "20220620",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "금곡역한신더휴",
+		"addr": "경기도 남양주시 금곡동 404-20번지 일원",
+		"short_addr": "경기도 남양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "남양주시",
+		"apply_nums": "22세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910174&pblancNo=2022910174&houseSecd=04",
+		"in_date": "20220620",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "문수로 푸르지오 어반피스",
+		"addr": "울산광역시 남구 신정동 1266-6번지 일원",
+		"short_addr": "울산광역시 남구",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "21세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520020&pblancNo=2022520020&houseSecd=09",
@@ -858,6 +923,19 @@
 		"apply_nums": "278세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000388&pblancNo=2022000388&houseSecd=01",
+		"in_date": "20220624",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "외도일동 제이시티팰리스",
+		"addr": "제주특별자치도 제주시 외도일동 491-9",
+		"short_addr": "제주특별자치도 제주시",
+		"addr_lv1": "제주특별자치도",
+		"addr_lv2": "제주시",
+		"apply_nums": "36세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000239&pblancNo=2022000239&houseSecd=01",
 		"in_date": "20220627",
 		"hsecd": "01",
@@ -869,5 +947,18 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "고양시",
 		"apply_nums": "278세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000388&pblancNo=2022000388&houseSecd=01",
+		"in_date": "20220627",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "외도일동 제이시티팰리스",
+		"addr": "제주특별자치도 제주시 외도일동 491-9",
+		"short_addr": "제주특별자치도 제주시",
+		"addr_lv1": "제주특별자치도",
+		"addr_lv2": "제주시",
+		"apply_nums": "36세대"
 	}
 ]
