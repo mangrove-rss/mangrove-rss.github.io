@@ -111,11 +111,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ Pacopacomama  060922_658  등록일  2022.06.09 ]]></showrss:showname>
 		</item>
-		<item>
-			<title><![CDATA[ Caribbeancom  060922-001  등록일  2022.06.09 ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:35d2ef48ef3725e7cd0ca3f9b4759614c3bc88c8 ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ Caribbeancom  060922-001  등록일  2022.06.09 ]]></showrss:showname>
-		</item>
 	</channel>
 </rss>

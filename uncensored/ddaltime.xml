@@ -249,11 +249,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ Caribbeancom  060922-001 2022-06-09  등록일  2022.06.09 ]]></showrss:showname>
 		</item>
-		<item>
-			<title><![CDATA[ HEYZO  HEYZO-2796 2022-06-09  등록일  2022.06.09 ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:3a780ac28efa14362569f7fee598140d8b8e582d ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ HEYZO  HEYZO-2796 2022-06-09  등록일  2022.06.09 ]]></showrss:showname>
-		</item>
 	</channel>
 </rss>
