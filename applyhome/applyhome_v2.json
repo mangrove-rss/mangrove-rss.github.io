@@ -1,109 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000272&pblancNo=2022000272&houseSecd=01",
-		"in_date": "20220613",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "울진역 센트럴 두산위브",
-		"addr": "경상북도 울진군 울진읍 읍남리 산53-12일원",
-		"short_addr": "경상북도 울진군",
-		"addr_lv1": "경상북도",
-		"addr_lv2": "울진군",
-		"apply_nums": "393세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000304&pblancNo=2022000304&houseSecd=01",
-		"in_date": "20220613",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "현대 프라힐스 소사역 더프라임",
-		"addr": "경기도 부천시 소사본동 70-7외 6필지",
-		"short_addr": "경기도 부천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "부천시",
-		"apply_nums": "160세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000312&pblancNo=2022000312&houseSecd=01",
-		"in_date": "20220613",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "마전 양우 내안애 퍼스트힐",
-		"addr": "인천광역시 서구 마전동 1131-1",
-		"short_addr": "인천광역시 서구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "서구",
-		"apply_nums": "57세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000320&pblancNo=2022000320&houseSecd=01",
-		"in_date": "20220613",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "강서자이 에코델타(20블록) 공공분양주택",
-		"addr": "부산광역시 강서구 강동동 공동 20BL",
-		"short_addr": "부산광역시 강서구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "강서구",
-		"apply_nums": "856세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950044&pblancNo=2022950044&houseSecd=02",
-		"in_date": "20220613",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "기흥역 엘리시아 트윈 102동",
-		"addr": "경기도 용인시 기흥구 신갈동 69-10번지 외 1필지",
-		"short_addr": "경기도 용인시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "용인시",
-		"apply_nums": "107세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910168&pblancNo=2022910168&houseSecd=04",
-		"in_date": "20220613",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "만촌자이르네",
-		"addr": "대구광역시 수성구 만촌동 883-38번지 일원",
-		"short_addr": "대구광역시 수성구",
-		"addr_lv1": "대구광역시",
-		"addr_lv2": "수성구",
-		"apply_nums": "218세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910171&pblancNo=2022910171&houseSecd=04",
-		"in_date": "20220613",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "송도 Luxe Ocean SK VIEW",
-		"addr": "인천광역시 연수구 송도동 396-1(송도랜드마크시티 6, 8공구 A9블록)",
-		"short_addr": "인천광역시 연수구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "연수구",
-		"apply_nums": "5세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910153&pblancNo=2022910153&houseSecd=04",
-		"in_date": "20220613",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "칸타빌 수유팰리스",
-		"addr": "서울특별시 강북구 수유동 179-2외 4필지",
-		"short_addr": "서울특별시 강북구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강북구",
-		"apply_nums": "33세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000361&pblancNo=2022000361&houseSecd=01",
 		"in_date": "20220614",
 		"hsecd": "01",
@@ -832,6 +728,19 @@
 		"apply_nums": "78세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910160&pblancNo=2022910160&houseSecd=04",
+		"in_date": "20220622",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "평촌자이아이파크",
+		"addr": "경기도 안양시 동안구 비산동 515-2번지 일원",
+		"short_addr": "경기도 안양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "안양시",
+		"apply_nums": "36세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520020&pblancNo=2022520020&houseSecd=09",
 		"in_date": "20220622",
 		"hsecd": "09",
@@ -1040,6 +949,32 @@
 		"apply_nums": "39세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2021000906&pblancNo=2021000906&houseSecd=01",
+		"in_date": "20220627",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "더퍼스트시티 송도",
+		"addr": "인천광역시 연수구 해돋이로 160-15 더퍼스트시티 송도",
+		"short_addr": "인천광역시 연수구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "연수구",
+		"apply_nums": "144세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000381&pblancNo=2022000381&houseSecd=01",
+		"in_date": "20220627",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "삼구트리니엔 시그니처",
+		"addr": "경상북도 포항시 북구 득량동 산19-8번지 일원",
+		"short_addr": "경상북도 포항시",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "포항시",
+		"apply_nums": "547세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000364&pblancNo=2022000364&houseSecd=01",
 		"in_date": "20220627",
 		"hsecd": "01",
@@ -1064,6 +999,32 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "의정부시",
 		"apply_nums": "82세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000382&pblancNo=2022000382&houseSecd=01",
+		"in_date": "20220627",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "장흥역 경남아너스빌 북한산뷰 B-1(4)블럭(1단지)",
+		"addr": "경기도 양주시 장흥면 일영리 87-3외 26필지(일영지구 B-1(4)블럭)",
+		"short_addr": "경기도 양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "양주시",
+		"apply_nums": "458세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000362&pblancNo=2022000362&houseSecd=01",
+		"in_date": "20220627",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "힐스테이트 탑석",
+		"addr": "경기도 의정부시 용현동 산32번지 외 51필지",
+		"short_addr": "경기도 의정부시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "의정부시",
+		"apply_nums": "636세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000239&pblancNo=2022000239&houseSecd=01",
@@ -1118,6 +1079,32 @@
 		"apply_nums": "39세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2021000906&pblancNo=2021000906&houseSecd=01",
+		"in_date": "20220628",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "더퍼스트시티 송도",
+		"addr": "인천광역시 연수구 해돋이로 160-15 더퍼스트시티 송도",
+		"short_addr": "인천광역시 연수구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "연수구",
+		"apply_nums": "144세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000381&pblancNo=2022000381&houseSecd=01",
+		"in_date": "20220628",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "삼구트리니엔 시그니처",
+		"addr": "경상북도 포항시 북구 득량동 산19-8번지 일원",
+		"short_addr": "경상북도 포항시",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "포항시",
+		"apply_nums": "547세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000364&pblancNo=2022000364&houseSecd=01",
 		"in_date": "20220628",
 		"hsecd": "01",
@@ -1142,6 +1129,32 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "의정부시",
 		"apply_nums": "82세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000382&pblancNo=2022000382&houseSecd=01",
+		"in_date": "20220628",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "장흥역 경남아너스빌 북한산뷰 B-1(4)블럭(1단지)",
+		"addr": "경기도 양주시 장흥면 일영리 87-3외 26필지(일영지구 B-1(4)블럭)",
+		"short_addr": "경기도 양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "양주시",
+		"apply_nums": "458세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000362&pblancNo=2022000362&houseSecd=01",
+		"in_date": "20220628",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "힐스테이트 탑석",
+		"addr": "경기도 의정부시 용현동 산32번지 외 51필지",
+		"short_addr": "경기도 의정부시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "의정부시",
+		"apply_nums": "636세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000364&pblancNo=2022000364&houseSecd=01",
@@ -1170,6 +1183,58 @@
 		"apply_nums": "82세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000382&pblancNo=2022000382&houseSecd=01",
+		"in_date": "20220629",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "장흥역 경남아너스빌 북한산뷰 B-1(4)블럭(1단지)",
+		"addr": "경기도 양주시 장흥면 일영리 87-3외 26필지(일영지구 B-1(4)블럭)",
+		"short_addr": "경기도 양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "양주시",
+		"apply_nums": "458세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000362&pblancNo=2022000362&houseSecd=01",
+		"in_date": "20220629",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "힐스테이트 탑석",
+		"addr": "경기도 의정부시 용현동 산32번지 외 51필지",
+		"short_addr": "경기도 의정부시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "의정부시",
+		"apply_nums": "636세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2021000906&pblancNo=2021000906&houseSecd=01",
+		"in_date": "20220629",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "더퍼스트시티 송도",
+		"addr": "인천광역시 연수구 해돋이로 160-15 더퍼스트시티 송도",
+		"short_addr": "인천광역시 연수구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "연수구",
+		"apply_nums": "144세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000381&pblancNo=2022000381&houseSecd=01",
+		"in_date": "20220629",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "삼구트리니엔 시그니처",
+		"addr": "경상북도 포항시 북구 득량동 산19-8번지 일원",
+		"short_addr": "경상북도 포항시",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "포항시",
+		"apply_nums": "547세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000364&pblancNo=2022000364&houseSecd=01",
 		"in_date": "20220630",
 		"hsecd": "01",
@@ -1194,5 +1259,31 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "의정부시",
 		"apply_nums": "82세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000382&pblancNo=2022000382&houseSecd=01",
+		"in_date": "20220630",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "장흥역 경남아너스빌 북한산뷰 B-1(4)블럭(1단지)",
+		"addr": "경기도 양주시 장흥면 일영리 87-3외 26필지(일영지구 B-1(4)블럭)",
+		"short_addr": "경기도 양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "양주시",
+		"apply_nums": "458세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000362&pblancNo=2022000362&houseSecd=01",
+		"in_date": "20220630",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "힐스테이트 탑석",
+		"addr": "경기도 의정부시 용현동 산32번지 외 51필지",
+		"short_addr": "경기도 의정부시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "의정부시",
+		"apply_nums": "636세대"
 	}
 ]
