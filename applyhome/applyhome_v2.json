@@ -1,58 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000361&pblancNo=2022000361&houseSecd=01",
-		"in_date": "20220616",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "음성 푸르지오 센터피크",
-		"addr": "충청북도 음성군 대소면 성본산업단지 B2블럭",
-		"short_addr": "충청북도 음성군",
-		"addr_lv1": "충청북도",
-		"addr_lv2": "음성군",
-		"apply_nums": "875세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000344&pblancNo=2022000344&houseSecd=01",
-		"in_date": "20220616",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "주영 더 팰리스 지븐",
-		"addr": "경상남도 통영시 광도면 죽림리 263-1번지 일원",
-		"short_addr": "경상남도 통영시",
-		"addr_lv1": "경상남도",
-		"addr_lv2": "통영시",
-		"apply_nums": "322세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000304&pblancNo=2022000304&houseSecd=01",
-		"in_date": "20220616",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "현대 프라힐스 소사역 더프라임",
-		"addr": "경기도 부천시 소사본동 70-7외 6필지",
-		"short_addr": "경기도 부천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "부천시",
-		"apply_nums": "160세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950044&pblancNo=2022950044&houseSecd=02",
-		"in_date": "20220616",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "기흥역 엘리시아 트윈 102동",
-		"addr": "경기도 용인시 기흥구 신갈동 69-10번지 외 1필지",
-		"short_addr": "경기도 용인시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "용인시",
-		"apply_nums": "107세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000361&pblancNo=2022000361&houseSecd=01",
 		"in_date": "20220617",
 		"hsecd": "01",
 		"rse": "03",
@@ -934,6 +882,19 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "부평구",
 		"apply_nums": "39세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910177&pblancNo=2022910177&houseSecd=04",
+		"in_date": "20220627",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "신림스카이아파트",
+		"addr": "서울특별시 관악구 신림로 185(신림동, 신림 스카이 아파트)",
+		"short_addr": "서울특별시 관악구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "관악구",
+		"apply_nums": "5세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000315&pblancNo=2022000315&houseSecd=01",
