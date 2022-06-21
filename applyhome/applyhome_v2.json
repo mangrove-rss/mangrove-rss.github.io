@@ -1,57 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000361&pblancNo=2022000361&houseSecd=01",
-		"in_date": "20220617",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "음성 푸르지오 센터피크",
-		"addr": "충청북도 음성군 대소면 성본산업단지 B2블럭",
-		"short_addr": "충청북도 음성군",
-		"addr_lv1": "충청북도",
-		"addr_lv2": "음성군",
-		"apply_nums": "875세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000344&pblancNo=2022000344&houseSecd=01",
-		"in_date": "20220617",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "주영 더 팰리스 지븐",
-		"addr": "경상남도 통영시 광도면 죽림리 263-1번지 일원",
-		"short_addr": "경상남도 통영시",
-		"addr_lv1": "경상남도",
-		"addr_lv2": "통영시",
-		"apply_nums": "322세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950044&pblancNo=2022950044&houseSecd=02",
-		"in_date": "20220617",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "기흥역 엘리시아 트윈 102동",
-		"addr": "경기도 용인시 기흥구 신갈동 69-10번지 외 1필지",
-		"short_addr": "경기도 용인시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "용인시",
-		"apply_nums": "107세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950048&pblancNo=2022950048&houseSecd=02",
-		"in_date": "20220617",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "엘루크 방배 서리풀",
-		"addr": "서울특별시 서초구 방배동 911-22, 24, 25",
-		"short_addr": "서울특별시 서초구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "서초구",
-		"apply_nums": "19세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000309&pblancNo=2022000309&houseSecd=01",
 		"in_date": "20220620",
 		"hsecd": "01",
