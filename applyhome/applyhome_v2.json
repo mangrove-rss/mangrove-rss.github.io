@@ -832,6 +832,45 @@
 		"apply_nums": "39세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950054&pblancNo=2022950054&houseSecd=02",
+		"in_date": "20220627",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "한울 에이치밸리움 더하이클래스",
+		"addr": "서울특별시 강서구 화곡동 987-5,6,12,13,14",
+		"short_addr": "서울특별시 강서구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강서구",
+		"apply_nums": "128세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910183&pblancNo=2022910183&houseSecd=04",
+		"in_date": "20220627",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "금남로 한신더휴 펜트하우스",
+		"addr": "광주광역시 동구 금남로3가 1-3번지 일원",
+		"short_addr": "광주광역시 동구",
+		"addr_lv1": "광주광역시",
+		"addr_lv2": "동구",
+		"apply_nums": "36세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910179&pblancNo=2022910179&houseSecd=04",
+		"in_date": "20220627",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "사하 삼정그린코아 더시티",
+		"addr": "부산광역시 사하구 하단동 510-27번지",
+		"short_addr": "부산광역시 사하구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "사하구",
+		"apply_nums": "10세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910177&pblancNo=2022910177&houseSecd=04",
 		"in_date": "20220627",
 		"hsecd": "04",
