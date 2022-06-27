@@ -1,71 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000239&pblancNo=2022000239&houseSecd=01",
-		"in_date": "20220623",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "e편한세상 지축 센텀가든",
-		"addr": "경기도 고양시 덕양구 지축동 510-1번지 일원",
-		"short_addr": "경기도 고양시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "고양시",
-		"apply_nums": "278세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000309&pblancNo=2022000309&houseSecd=01",
-		"in_date": "20220623",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "사직 하늘채 리센티아",
-		"addr": "부산광역시 동래구 사직동 566-3번지 일원",
-		"short_addr": "부산광역시 동래구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "동래구",
-		"apply_nums": "109세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000366&pblancNo=2022000366&houseSecd=01",
-		"in_date": "20220623",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "청주 SK VIEW 자이",
-		"addr": "충청북도 청주시 흥덕구 봉명동 193",
-		"short_addr": "충청북도 청주시",
-		"addr_lv1": "충청북도",
-		"addr_lv2": "청주시",
-		"apply_nums": "1097세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000363&pblancNo=2022000363&houseSecd=01",
-		"in_date": "20220623",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "힐스테이트 불로 포레스트",
-		"addr": "인천광역시 서구 불로동 불로지구 9블록 1로트 및 2로트(불로동 82번지 일원)",
-		"short_addr": "인천광역시 서구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "서구",
-		"apply_nums": "736세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950051&pblancNo=2022950051&houseSecd=02",
-		"in_date": "20220623",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "쌍용 더 플레티넘 부평(민간임대)",
-		"addr": "인천광역시 부평구 원적로287번길 25(산곡동)",
-		"short_addr": "인천광역시 부평구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "부평구",
-		"apply_nums": "39세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000239&pblancNo=2022000239&houseSecd=01",
 		"in_date": "20220624",
 		"hsecd": "01",
 		"rse": "02",
@@ -447,12 +382,7 @@
 		"hsecd": "01",
 		"rse": "02",
 		"type": "APT 1순위",
-		"name": "의정부역 파밀리에Ⅰ",
-		"addr": "경기도 의정부시 의정부동 127-4",
-		"short_addr": "경기도 의정부시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "의정부시",
-		"apply_nums": "82세대"
+		"name": "의정부역 파밀리에Ⅰ"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000382&pblancNo=2022000382&houseSecd=01",
@@ -759,12 +689,7 @@
 		"hsecd": "01",
 		"rse": "03",
 		"type": "APT 2순위",
-		"name": "힐스테이트 탑석",
-		"addr": "경기도 의정부시 용현동 산32번지 외 51필지",
-		"short_addr": "경기도 의정부시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "의정부시",
-		"apply_nums": "636세대"
+		"name": "힐스테이트 탑석"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000398&pblancNo=2022000398&houseSecd=01",
@@ -811,12 +736,7 @@
 		"hsecd": "01",
 		"rse": "01",
 		"type": "APT 특별공급",
-		"name": "더샵 거창포르시엘 2차",
-		"addr": "경상남도 거창군 거창읍 가지리 1323-4번지 일원",
-		"short_addr": "경상남도 거창군",
-		"addr_lv1": "경상남도",
-		"addr_lv2": "거창군",
-		"apply_nums": "443세대"
+		"name": "더샵 거창포르시엘 2차"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000371&pblancNo=2022000371&houseSecd=01",
