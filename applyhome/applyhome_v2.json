@@ -1,44 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000239&pblancNo=2022000239&houseSecd=01",
-		"in_date": "20220624",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "e편한세상 지축 센텀가든",
-		"addr": "경기도 고양시 덕양구 지축동 510-1번지 일원",
-		"short_addr": "경기도 고양시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "고양시",
-		"apply_nums": "278세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000388&pblancNo=2022000388&houseSecd=01",
-		"in_date": "20220624",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "외도일동 제이시티팰리스",
-		"addr": "제주특별자치도 제주시 외도일동 491-9",
-		"short_addr": "제주특별자치도 제주시",
-		"addr_lv1": "제주특별자치도",
-		"addr_lv2": "제주시",
-		"apply_nums": "36세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950051&pblancNo=2022950051&houseSecd=02",
-		"in_date": "20220624",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "쌍용 더 플레티넘 부평(민간임대)",
-		"addr": "인천광역시 부평구 원적로287번길 25(산곡동)",
-		"short_addr": "인천광역시 부평구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "부평구",
-		"apply_nums": "39세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950051&pblancNo=2022950051&houseSecd=02",
 		"in_date": "20220625",
 		"hsecd": "02",
@@ -382,7 +343,12 @@
 		"hsecd": "01",
 		"rse": "02",
 		"type": "APT 1순위",
-		"name": "의정부역 파밀리에Ⅰ"
+		"name": "의정부역 파밀리에Ⅰ",
+		"addr": "경기도 의정부시 의정부동 127-4",
+		"short_addr": "경기도 의정부시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "의정부시",
+		"apply_nums": "82세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000382&pblancNo=2022000382&houseSecd=01",
@@ -689,7 +655,12 @@
 		"hsecd": "01",
 		"rse": "03",
 		"type": "APT 2순위",
-		"name": "힐스테이트 탑석"
+		"name": "힐스테이트 탑석",
+		"addr": "경기도 의정부시 용현동 산32번지 외 51필지",
+		"short_addr": "경기도 의정부시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "의정부시",
+		"apply_nums": "636세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000398&pblancNo=2022000398&houseSecd=01",
@@ -736,7 +707,12 @@
 		"hsecd": "01",
 		"rse": "01",
 		"type": "APT 특별공급",
-		"name": "더샵 거창포르시엘 2차"
+		"name": "더샵 거창포르시엘 2차",
+		"addr": "경상남도 거창군 거창읍 가지리 1323-4번지 일원",
+		"short_addr": "경상남도 거창군",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "거창군",
+		"apply_nums": "443세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000371&pblancNo=2022000371&houseSecd=01",
@@ -776,6 +752,32 @@
 		"addr_lv1": "대구광역시",
 		"addr_lv2": "수성구",
 		"apply_nums": "399세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910186&pblancNo=2022910186&houseSecd=04",
+		"in_date": "20220704",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "서광교 파크뷰",
+		"addr": "경기도 수원시 장안구 연무동 18-2 외 2필지",
+		"short_addr": "경기도 수원시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "수원시",
+		"apply_nums": "29세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910187&pblancNo=2022910187&houseSecd=04",
+		"in_date": "20220704",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "인천 신흥동 3가 숭의역 엘크루",
+		"addr": "인천광역시 중구 신흥동3가 7-79 외 25필지",
+		"short_addr": "인천광역시 중구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "8세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000398&pblancNo=2022000398&houseSecd=01",
@@ -869,6 +871,19 @@
 		"apply_nums": "70세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910187&pblancNo=2022910187&houseSecd=04",
+		"in_date": "20220705",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "인천 신흥동 3가 숭의역 엘크루",
+		"addr": "인천광역시 중구 신흥동3가 7-79 외 25필지",
+		"short_addr": "인천광역시 중구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "8세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000398&pblancNo=2022000398&houseSecd=01",
 		"in_date": "20220706",
 		"hsecd": "01",
@@ -960,6 +975,19 @@
 		"apply_nums": "399세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000130&pblancNo=2022000130&houseSecd=01",
+		"in_date": "20220707",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "전주 효자 엘르디움 에듀파크 아파트",
+		"addr": "전라북도 전주시 완산구 효자동2가 1117-146번지 일원",
+		"short_addr": "전라북도 전주시",
+		"addr_lv1": "전라북도",
+		"addr_lv2": "전주시",
+		"apply_nums": "64세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000398&pblancNo=2022000398&houseSecd=01",
 		"in_date": "20220707",
 		"hsecd": "01",
@@ -1023,5 +1051,44 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "시흥시",
 		"apply_nums": "70세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000130&pblancNo=2022000130&houseSecd=01",
+		"in_date": "20220708",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "전주 효자 엘르디움 에듀파크 아파트",
+		"addr": "전라북도 전주시 완산구 효자동2가 1117-146번지 일원",
+		"short_addr": "전라북도 전주시",
+		"addr_lv1": "전라북도",
+		"addr_lv2": "전주시",
+		"apply_nums": "64세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000130&pblancNo=2022000130&houseSecd=01",
+		"in_date": "20220711",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "전주 효자 엘르디움 에듀파크 아파트",
+		"addr": "전라북도 전주시 완산구 효자동2가 1117-146번지 일원",
+		"short_addr": "전라북도 전주시",
+		"addr_lv1": "전라북도",
+		"addr_lv2": "전주시",
+		"apply_nums": "64세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000130&pblancNo=2022000130&houseSecd=01",
+		"in_date": "20220712",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "전주 효자 엘르디움 에듀파크 아파트",
+		"addr": "전라북도 전주시 완산구 효자동2가 1117-146번지 일원",
+		"short_addr": "전라북도 전주시",
+		"addr_lv1": "전라북도",
+		"addr_lv2": "전주시",
+		"apply_nums": "64세대"
 	}
 ]
