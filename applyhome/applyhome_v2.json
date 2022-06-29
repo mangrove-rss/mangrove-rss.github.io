@@ -1,19 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950051&pblancNo=2022950051&houseSecd=02",
-		"in_date": "20220625",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "쌍용 더 플레티넘 부평(민간임대)",
-		"addr": "인천광역시 부평구 원적로287번길 25(산곡동)",
-		"short_addr": "인천광역시 부평구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "부평구",
-		"apply_nums": "39세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950051&pblancNo=2022950051&houseSecd=02",
 		"in_date": "20220626",
 		"hsecd": "02",
 		"rse": "05",
@@ -754,6 +741,19 @@
 		"apply_nums": "399세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910189&pblancNo=2022910189&houseSecd=04",
+		"in_date": "20220704",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "부천 원종 아이원시티",
+		"addr": "경기도 부천시 소사로748번길 57-14(원종동)",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "8세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910186&pblancNo=2022910186&houseSecd=04",
 		"in_date": "20220704",
 		"hsecd": "04",
@@ -1066,6 +1066,19 @@
 		"apply_nums": "64세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000102&pblancNo=2022000102&houseSecd=01",
+		"in_date": "20220711",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "엘크루 가우디움 만촌",
+		"addr": "대구광역시 수성구 만촌동 849-6번지 및 849-14번지",
+		"short_addr": "대구광역시 수성구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "수성구",
+		"apply_nums": "41세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000130&pblancNo=2022000130&houseSecd=01",
 		"in_date": "20220711",
 		"hsecd": "01",
@@ -1079,6 +1092,19 @@
 		"apply_nums": "64세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000102&pblancNo=2022000102&houseSecd=01",
+		"in_date": "20220712",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "엘크루 가우디움 만촌",
+		"addr": "대구광역시 수성구 만촌동 849-6번지 및 849-14번지",
+		"short_addr": "대구광역시 수성구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "수성구",
+		"apply_nums": "41세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000130&pblancNo=2022000130&houseSecd=01",
 		"in_date": "20220712",
 		"hsecd": "01",
@@ -1090,5 +1116,31 @@
 		"addr_lv1": "전라북도",
 		"addr_lv2": "전주시",
 		"apply_nums": "64세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000102&pblancNo=2022000102&houseSecd=01",
+		"in_date": "20220713",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "엘크루 가우디움 만촌",
+		"addr": "대구광역시 수성구 만촌동 849-6번지 및 849-14번지",
+		"short_addr": "대구광역시 수성구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "수성구",
+		"apply_nums": "41세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000102&pblancNo=2022000102&houseSecd=01",
+		"in_date": "20220714",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "엘크루 가우디움 만촌",
+		"addr": "대구광역시 수성구 만촌동 849-6번지 및 849-14번지",
+		"short_addr": "대구광역시 수성구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "수성구",
+		"apply_nums": "41세대"
 	}
 ]
