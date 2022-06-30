@@ -1,18 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950051&pblancNo=2022950051&houseSecd=02",
-		"in_date": "20220626",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "쌍용 더 플레티넘 부평(민간임대)",
-		"addr": "인천광역시 부평구 원적로287번길 25(산곡동)",
-		"short_addr": "인천광역시 부평구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "부평구",
-		"apply_nums": "39세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000315&pblancNo=2022000315&houseSecd=01",
 		"in_date": "20220627",
 		"hsecd": "01",
@@ -871,6 +858,32 @@
 		"apply_nums": "70세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910190&pblancNo=2022910190&houseSecd=04",
+		"in_date": "20220705",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "용문역 리체스트",
+		"addr": "대전광역시 서구 용문동 589-14,15,18",
+		"short_addr": "대전광역시 서구",
+		"addr_lv1": "대전광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "21세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910194&pblancNo=2022910194&houseSecd=04",
+		"in_date": "20220705",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "의정부역 월드메르디앙 스마트시티",
+		"addr": "경기도 의정부시 둔야로 19(의정부동)",
+		"short_addr": "경기도 의정부시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "의정부시",
+		"apply_nums": "4세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910187&pblancNo=2022910187&houseSecd=04",
 		"in_date": "20220705",
 		"hsecd": "04",
@@ -882,6 +895,19 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "중구",
 		"apply_nums": "8세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910193&pblancNo=2022910193&houseSecd=04",
+		"in_date": "20220705",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "칸타빌 수유팰리스",
+		"addr": "서울특별시 강북구 수유동 179-2외 4필지",
+		"short_addr": "서울특별시 강북구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강북구",
+		"apply_nums": "29세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000398&pblancNo=2022000398&houseSecd=01",
@@ -1079,6 +1105,32 @@
 		"apply_nums": "41세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000301&pblancNo=2022000301&houseSecd=01",
+		"in_date": "20220711",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "춘천 삼부르네상스 더테라스",
+		"addr": "강원도 춘천시 온의동 산5-1번지 일원",
+		"short_addr": "강원도 춘천시",
+		"addr_lv1": "강원도",
+		"addr_lv2": "춘천시",
+		"apply_nums": "99세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000389&pblancNo=2022000389&houseSecd=01",
+		"in_date": "20220711",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "춘천시 효자동 하우스디 시그니처 98",
+		"addr": "강원도 춘천시 효자동 302-14번지 일원",
+		"short_addr": "강원도 춘천시",
+		"addr_lv1": "강원도",
+		"addr_lv2": "춘천시",
+		"apply_nums": "98세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000130&pblancNo=2022000130&houseSecd=01",
 		"in_date": "20220711",
 		"hsecd": "01",
@@ -1092,6 +1144,19 @@
 		"apply_nums": "64세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910185&pblancNo=2022910185&houseSecd=04",
+		"in_date": "20220711",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "다산신도시　자연앤푸르지오　(공공분양)",
+		"addr": "경기도 남양주시 다산동 일원 다산지금공공주택지구 A-4블럭 (경기도 남양주시 다산중앙로82번안길 74)",
+		"short_addr": "경기도 남양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "남양주시",
+		"apply_nums": "1세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000102&pblancNo=2022000102&houseSecd=01",
 		"in_date": "20220712",
 		"hsecd": "01",
@@ -1103,6 +1168,32 @@
 		"addr_lv1": "대구광역시",
 		"addr_lv2": "수성구",
 		"apply_nums": "41세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000301&pblancNo=2022000301&houseSecd=01",
+		"in_date": "20220712",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "춘천 삼부르네상스 더테라스",
+		"addr": "강원도 춘천시 온의동 산5-1번지 일원",
+		"short_addr": "강원도 춘천시",
+		"addr_lv1": "강원도",
+		"addr_lv2": "춘천시",
+		"apply_nums": "99세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000389&pblancNo=2022000389&houseSecd=01",
+		"in_date": "20220712",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "춘천시 효자동 하우스디 시그니처 98",
+		"addr": "강원도 춘천시 효자동 302-14번지 일원",
+		"short_addr": "강원도 춘천시",
+		"addr_lv1": "강원도",
+		"addr_lv2": "춘천시",
+		"apply_nums": "98세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000130&pblancNo=2022000130&houseSecd=01",
@@ -1129,6 +1220,32 @@
 		"addr_lv1": "대구광역시",
 		"addr_lv2": "수성구",
 		"apply_nums": "41세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000301&pblancNo=2022000301&houseSecd=01",
+		"in_date": "20220713",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "춘천 삼부르네상스 더테라스",
+		"addr": "강원도 춘천시 온의동 산5-1번지 일원",
+		"short_addr": "강원도 춘천시",
+		"addr_lv1": "강원도",
+		"addr_lv2": "춘천시",
+		"apply_nums": "99세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000389&pblancNo=2022000389&houseSecd=01",
+		"in_date": "20220713",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "춘천시 효자동 하우스디 시그니처 98",
+		"addr": "강원도 춘천시 효자동 302-14번지 일원",
+		"short_addr": "강원도 춘천시",
+		"addr_lv1": "강원도",
+		"addr_lv2": "춘천시",
+		"apply_nums": "98세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000102&pblancNo=2022000102&houseSecd=01",
