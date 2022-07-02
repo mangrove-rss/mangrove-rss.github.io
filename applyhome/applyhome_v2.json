@@ -565,6 +565,19 @@
 		"apply_nums": "64세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000424&pblancNo=2022000424&houseSecd=01",
+		"in_date": "20220711",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": " e편한세상 서울산 파크그란데",
+		"addr": "울산광역시 울주군 상북면 상북(거리,양등)지구 도시개발사업구역 1블록 2로드 외 3필지",
+		"short_addr": "울산광역시 울주군",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "울주군",
+		"apply_nums": "607세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000431&pblancNo=2022000431&houseSecd=01",
 		"in_date": "20220711",
 		"hsecd": "01",
@@ -667,6 +680,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "남양주시",
 		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000424&pblancNo=2022000424&houseSecd=01",
+		"in_date": "20220712",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": " e편한세상 서울산 파크그란데",
+		"addr": "울산광역시 울주군 상북면 상북(거리,양등)지구 도시개발사업구역 1블록 2로드 외 3필지",
+		"short_addr": "울산광역시 울주군",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "울주군",
+		"apply_nums": "607세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000431&pblancNo=2022000431&houseSecd=01",
@@ -797,6 +823,19 @@
 		"addr_lv1": "제주특별자치도",
 		"addr_lv2": "제주시",
 		"apply_nums": "134세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000424&pblancNo=2022000424&houseSecd=01",
+		"in_date": "20220713",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": " e편한세상 서울산 파크그란데",
+		"addr": "울산광역시 울주군 상북면 상북(거리,양등)지구 도시개발사업구역 1블록 2로드 외 3필지",
+		"short_addr": "울산광역시 울주군",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "울주군",
+		"apply_nums": "607세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000431&pblancNo=2022000431&houseSecd=01",
