@@ -682,6 +682,32 @@
 		"apply_nums": "1세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910188&pblancNo=2022910188&houseSecd=04",
+		"in_date": "20220711",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "더샵 지제역 센트럴파크 1BL",
+		"addr": "경기도 평택시 지제동삭1로 163(동삭동, 더샵지제역센트럴파크1BL아파트)",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910196&pblancNo=2022910196&houseSecd=04",
+		"in_date": "20220711",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "봉담 파라곤",
+		"addr": "경기도 화성시 봉담읍 동화리 228번지 일원(동화3지구 지역주택조합 공동주택 건설사업) ",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "19세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000424&pblancNo=2022000424&houseSecd=01",
 		"in_date": "20220712",
 		"hsecd": "01",
