@@ -669,6 +669,19 @@
 		"apply_nums": "10세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950055&pblancNo=2022950055&houseSecd=02",
+		"in_date": "20220711",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "봄여름가을겨울 남천역 오피스텔",
+		"addr": "부산광역시 수영구 남천동 353-1",
+		"short_addr": "부산광역시 수영구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "수영구",
+		"apply_nums": "49세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910185&pblancNo=2022910185&houseSecd=04",
 		"in_date": "20220711",
 		"hsecd": "04",
@@ -810,6 +823,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "강서구",
 		"apply_nums": "10세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950055&pblancNo=2022950055&houseSecd=02",
+		"in_date": "20220712",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "봄여름가을겨울 남천역 오피스텔",
+		"addr": "부산광역시 수영구 남천동 353-1",
+		"short_addr": "부산광역시 수영구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "수영구",
+		"apply_nums": "49세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000102&pblancNo=2022000102&houseSecd=01",
