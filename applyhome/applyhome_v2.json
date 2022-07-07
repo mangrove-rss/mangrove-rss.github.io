@@ -682,6 +682,19 @@
 		"apply_nums": "49세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950065&pblancNo=2022950065&houseSecd=02",
+		"in_date": "20220711",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "우남퍼스트빌 더펜트",
+		"addr": "경기도 화성시 병점동 887-5",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "81세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910185&pblancNo=2022910185&houseSecd=04",
 		"in_date": "20220711",
 		"hsecd": "04",
@@ -838,6 +851,71 @@
 		"apply_nums": "49세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950064&pblancNo=2022950064&houseSecd=02",
+		"in_date": "20220712",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "해운대 한라비발디 펜트빌",
+		"addr": "부산광역시 해운대구 해운대로594번길 10(우동)",
+		"short_addr": "부산광역시 해운대구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "해운대구",
+		"apply_nums": "120세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910201&pblancNo=2022910201&houseSecd=04",
+		"in_date": "20220712",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "금곡역한신더휴",
+		"addr": "경기도 남양주시 금곡동 404-20번지 일원",
+		"short_addr": "경기도 남양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "남양주시",
+		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910191&pblancNo=2022910191&houseSecd=04",
+		"in_date": "20220712",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "부천 원종 길성그랑프리텔",
+		"addr": "경기도 부천시 소사로748번길 29(원종동, 길성그랑프리텔)",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "3세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910202&pblancNo=2022910202&houseSecd=04",
+		"in_date": "20220712",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "장흥역 경남아너스빌 북한산뷰 B-1(5)블럭(2단지)",
+		"addr": "경기도 양주시 장흥면 일영리 377외 29필지",
+		"short_addr": "경기도 양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "양주시",
+		"apply_nums": "116세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910197&pblancNo=2022910197&houseSecd=04",
+		"in_date": "20220712",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "창동 다우아트리체 주상복합 아파트",
+		"addr": "서울특별시 도봉구 창동 662-7번지 일원",
+		"short_addr": "서울특별시 도봉구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "도봉구",
+		"apply_nums": "63세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000102&pblancNo=2022000102&houseSecd=01",
 		"in_date": "20220713",
 		"hsecd": "01",
@@ -927,6 +1005,19 @@
 		"addr_lv1": "강원도",
 		"addr_lv2": "춘천시",
 		"apply_nums": "98세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950033&pblancNo=2022950033&houseSecd=02",
+		"in_date": "20220713",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "청라 더리브 티아모 까사",
+		"addr": "인천광역시 서구 청라동 157-11",
+		"short_addr": "인천광역시 서구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "523세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000102&pblancNo=2022000102&houseSecd=01",
