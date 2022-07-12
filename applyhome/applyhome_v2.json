@@ -1,18 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000130&pblancNo=2022000130&houseSecd=01",
-		"in_date": "20220708",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "전주 효자 엘르디움 에듀파크 아파트",
-		"addr": "전라북도 전주시 완산구 효자동2가 1117-146번지 일원",
-		"short_addr": "전라북도 전주시",
-		"addr_lv1": "전라북도",
-		"addr_lv2": "전주시",
-		"apply_nums": "64세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000424&pblancNo=2022000424&houseSecd=01",
 		"in_date": "20220711",
 		"hsecd": "01",
