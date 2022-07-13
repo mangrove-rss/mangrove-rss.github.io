@@ -689,6 +689,32 @@
 		"apply_nums": "977세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910207&pblancNo=2022910207&houseSecd=04",
+		"in_date": "20220718",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "소사역 한라비발디 프레스티지",
+		"addr": "경기도 부천시 소사본동 70-12 일원",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "63세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910208&pblancNo=2022910208&houseSecd=04",
+		"in_date": "20220718",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "신림스카이아파트",
+		"addr": "서울특별시 관악구 신림로 185(신림동, 신림 스카이 아파트)",
+		"short_addr": "서울특별시 관악구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "관악구",
+		"apply_nums": "4세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910204&pblancNo=2022910204&houseSecd=04",
 		"in_date": "20220718",
 		"hsecd": "04",
@@ -700,6 +726,19 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "미추홀구",
 		"apply_nums": "20세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910209&pblancNo=2022910209&houseSecd=04",
+		"in_date": "20220718",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "초읍 월드메르디앙 에듀포레",
+		"addr": "부산광역시 부산진구 초읍동 529-14번지 일원",
+		"short_addr": "부산광역시 부산진구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "부산진구",
+		"apply_nums": "54세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520029&pblancNo=2022520029&houseSecd=09",
@@ -884,6 +923,14 @@
 		"apply_nums": "977세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022850011&pblancNo=2022850011&houseSecd=03",
+		"in_date": "20220719",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "힐스테이트 관악 뉴포레"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520029&pblancNo=2022520029&houseSecd=09",
 		"in_date": "20220719",
 		"hsecd": "09",
@@ -1064,6 +1111,14 @@
 		"addr_lv1": "대구광역시",
 		"addr_lv2": "남구",
 		"apply_nums": "977세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022850011&pblancNo=2022850011&houseSecd=03",
+		"in_date": "20220720",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "힐스테이트 관악 뉴포레"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520029&pblancNo=2022520029&houseSecd=09",
@@ -1168,6 +1223,14 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "남동구",
 		"apply_nums": "434세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022850011&pblancNo=2022850011&houseSecd=03",
+		"in_date": "20220721",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "힐스테이트 관악 뉴포레"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000464&pblancNo=2022000464&houseSecd=01",
