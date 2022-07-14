@@ -689,6 +689,14 @@
 		"apply_nums": "977세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022850012&pblancNo=2022850012&houseSecd=03",
+		"in_date": "20220718",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "서울은평뉴타운 디에트르 더 퍼스트"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910207&pblancNo=2022910207&houseSecd=04",
 		"in_date": "20220718",
 		"hsecd": "04",
@@ -923,6 +931,14 @@
 		"apply_nums": "977세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022850012&pblancNo=2022850012&houseSecd=03",
+		"in_date": "20220719",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "서울은평뉴타운 디에트르 더 퍼스트"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022850011&pblancNo=2022850011&houseSecd=03",
 		"in_date": "20220719",
 		"hsecd": "03",
@@ -1259,6 +1275,45 @@
 		"apply_nums": "107세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000477&pblancNo=2022000477&houseSecd=01",
+		"in_date": "20220725",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "나운 금호어울림 센트럴 2차",
+		"addr": "전라북도 군산시 나운동 831번지 일원",
+		"short_addr": "전라북도 군산시",
+		"addr_lv1": "전라북도",
+		"addr_lv2": "군산시",
+		"apply_nums": "54세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000468&pblancNo=2022000468&houseSecd=01",
+		"in_date": "20220725",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "더샵 달서센트엘로",
+		"addr": "대구광역시 달서구 본동 888-2번지 일원",
+		"short_addr": "대구광역시 달서구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "달서구",
+		"apply_nums": "272세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000442&pblancNo=2022000442&houseSecd=01",
+		"in_date": "20220725",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "인천 두산위브 더센트럴",
+		"addr": "인천광역시 동구 송림동 42-215",
+		"short_addr": "인천광역시 동구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "동구",
+		"apply_nums": "785세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000464&pblancNo=2022000464&houseSecd=01",
 		"in_date": "20220725",
 		"hsecd": "01",
@@ -1270,5 +1325,96 @@
 		"addr_lv1": "강원도",
 		"addr_lv2": "원주시",
 		"apply_nums": "997세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000477&pblancNo=2022000477&houseSecd=01",
+		"in_date": "20220726",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "나운 금호어울림 센트럴 2차",
+		"addr": "전라북도 군산시 나운동 831번지 일원",
+		"short_addr": "전라북도 군산시",
+		"addr_lv1": "전라북도",
+		"addr_lv2": "군산시",
+		"apply_nums": "54세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000468&pblancNo=2022000468&houseSecd=01",
+		"in_date": "20220726",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "더샵 달서센트엘로",
+		"addr": "대구광역시 달서구 본동 888-2번지 일원",
+		"short_addr": "대구광역시 달서구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "달서구",
+		"apply_nums": "272세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000442&pblancNo=2022000442&houseSecd=01",
+		"in_date": "20220726",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "인천 두산위브 더센트럴",
+		"addr": "인천광역시 동구 송림동 42-215",
+		"short_addr": "인천광역시 동구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "동구",
+		"apply_nums": "785세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000442&pblancNo=2022000442&houseSecd=01",
+		"in_date": "20220727",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "인천 두산위브 더센트럴",
+		"addr": "인천광역시 동구 송림동 42-215",
+		"short_addr": "인천광역시 동구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "동구",
+		"apply_nums": "785세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000477&pblancNo=2022000477&houseSecd=01",
+		"in_date": "20220727",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "나운 금호어울림 센트럴 2차",
+		"addr": "전라북도 군산시 나운동 831번지 일원",
+		"short_addr": "전라북도 군산시",
+		"addr_lv1": "전라북도",
+		"addr_lv2": "군산시",
+		"apply_nums": "54세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000468&pblancNo=2022000468&houseSecd=01",
+		"in_date": "20220727",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "더샵 달서센트엘로",
+		"addr": "대구광역시 달서구 본동 888-2번지 일원",
+		"short_addr": "대구광역시 달서구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "달서구",
+		"apply_nums": "272세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000442&pblancNo=2022000442&houseSecd=01",
+		"in_date": "20220728",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "인천 두산위브 더센트럴",
+		"addr": "인천광역시 동구 송림동 42-215",
+		"short_addr": "인천광역시 동구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "동구",
+		"apply_nums": "785세대"
 	}
 ]
