@@ -1,44 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000102&pblancNo=2022000102&houseSecd=01",
-		"in_date": "20220714",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "엘크루 가우디움 만촌",
-		"addr": "대구광역시 수성구 만촌동 849-6번지 및 849-14번지",
-		"short_addr": "대구광역시 수성구",
-		"addr_lv1": "대구광역시",
-		"addr_lv2": "수성구",
-		"apply_nums": "41세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000416&pblancNo=2022000416&houseSecd=01",
-		"in_date": "20220714",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "원당역 롯데캐슬 스카이엘",
-		"addr": "경기도 고양시 덕양구 성사동 405-8번지 일원",
-		"short_addr": "경기도 고양시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "고양시",
-		"apply_nums": "629세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000430&pblancNo=2022000430&houseSecd=01",
-		"in_date": "20220714",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "제주시 엘크루 더 퍼스트",
-		"addr": "제주특별자치도 제주시 조천읍 함덕리 72-128번지",
-		"short_addr": "제주특별자치도 제주시",
-		"addr_lv1": "제주특별자치도",
-		"addr_lv2": "제주시",
-		"apply_nums": "134세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000369&pblancNo=2022000369&houseSecd=01",
 		"in_date": "20220718",
 		"hsecd": "01",
@@ -922,6 +883,19 @@
 		"addr_lv1": "강원도",
 		"addr_lv2": "원주시",
 		"apply_nums": "997세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910212&pblancNo=2022910212&houseSecd=04",
+		"in_date": "20220725",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "한화 포레나 미아",
+		"addr": "서울특별시 강북구 솔샘로 265일대(미아동 705-1일원)",
+		"short_addr": "서울특별시 강북구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강북구",
+		"apply_nums": "74세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000435&pblancNo=2022000435&houseSecd=01",
