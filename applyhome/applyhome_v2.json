@@ -885,6 +885,32 @@
 		"apply_nums": "997세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910210&pblancNo=2022910210&houseSecd=04",
+		"in_date": "20220725",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "마전 양우 내안애 퍼스트힐",
+		"addr": "인천광역시 서구 검단로609번길 23(마전동, 양우내안애 퍼스트힐)",
+		"short_addr": "인천광역시 서구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "28세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910213&pblancNo=2022910213&houseSecd=04",
+		"in_date": "20220725",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "의정부월드메르디앙 (청약접수전 반드시 대표전화 문의바람 재당첨제한 7년)",
+		"addr": "경기도 의정부시 둔야로 19(의정부동)",
+		"short_addr": "경기도 의정부시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "의정부시",
+		"apply_nums": "4세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910212&pblancNo=2022910212&houseSecd=04",
 		"in_date": "20220725",
 		"hsecd": "04",
@@ -989,6 +1015,19 @@
 		"apply_nums": "149세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950066&pblancNo=2022950066&houseSecd=02",
+		"in_date": "20220726",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "전주시 효자구역 힐스테이트어울림 105동 민간임대아파트",
+		"addr": "전라북도 전주시 완산구 효자동1가 166-1 일원 전주힐스테이트어울림 105동",
+		"short_addr": "전라북도 전주시",
+		"addr_lv1": "전라북도",
+		"addr_lv2": "전주시",
+		"apply_nums": "25세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000435&pblancNo=2022000435&houseSecd=01",
 		"in_date": "20220727",
 		"hsecd": "01",
@@ -1078,6 +1117,19 @@
 		"addr_lv1": "충청북도",
 		"addr_lv2": "청주시",
 		"apply_nums": "149세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950066&pblancNo=2022950066&houseSecd=02",
+		"in_date": "20220727",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "전주시 효자구역 힐스테이트어울림 105동 민간임대아파트",
+		"addr": "전라북도 전주시 완산구 효자동1가 166-1 일원 전주힐스테이트어울림 105동",
+		"short_addr": "전라북도 전주시",
+		"addr_lv1": "전라북도",
+		"addr_lv2": "전주시",
+		"apply_nums": "25세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000435&pblancNo=2022000435&houseSecd=01",
