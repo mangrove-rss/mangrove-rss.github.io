@@ -898,6 +898,19 @@
 		"apply_nums": "28세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910192&pblancNo=2022910192&houseSecd=04",
+		"in_date": "20220725",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "송도 Luxe Ocean SK VIEW",
+		"addr": "인천광역시 연수구 송도동 396-1(송도랜드마크시티 6, 8공구 A9블록)",
+		"short_addr": "인천광역시 연수구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "연수구",
+		"apply_nums": "3세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910213&pblancNo=2022910213&houseSecd=04",
 		"in_date": "20220725",
 		"hsecd": "04",
@@ -922,6 +935,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "강북구",
 		"apply_nums": "74세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910214&pblancNo=2022910214&houseSecd=04",
+		"in_date": "20220725",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "현대 프라힐스 소사역 더프라임",
+		"addr": "경기도 부천시 소사본동 70-7외 6필지",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "42세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000435&pblancNo=2022000435&houseSecd=01",
@@ -1026,6 +1052,19 @@
 		"addr_lv1": "전라북도",
 		"addr_lv2": "전주시",
 		"apply_nums": "25세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910214&pblancNo=2022910214&houseSecd=04",
+		"in_date": "20220726",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "현대 프라힐스 소사역 더프라임",
+		"addr": "경기도 부천시 소사본동 70-7외 6필지",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "42세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000435&pblancNo=2022000435&houseSecd=01",
