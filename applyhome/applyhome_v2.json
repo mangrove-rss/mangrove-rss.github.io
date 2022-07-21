@@ -1054,6 +1054,45 @@
 		"apply_nums": "25세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910219&pblancNo=2022910219&houseSecd=04",
+		"in_date": "20220726",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "광안 스윗팰리스",
+		"addr": "부산광역시 수영구 광안동 74-5번지 외 2필지",
+		"short_addr": "부산광역시 수영구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "수영구",
+		"apply_nums": "63세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910211&pblancNo=2022910211&houseSecd=04",
+		"in_date": "20220726",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "광주 방림 골드클래스",
+		"addr": "광주광역시 남구 방림동1-1번지 일원",
+		"short_addr": "광주광역시 남구",
+		"addr_lv1": "광주광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "3세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910220&pblancNo=2022910220&houseSecd=04",
+		"in_date": "20220726",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "사직 하늘채 리센티아",
+		"addr": "부산광역시 동래구 사직동 566-3번지 일원",
+		"short_addr": "부산광역시 동래구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "동래구",
+		"apply_nums": "1세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910214&pblancNo=2022910214&houseSecd=04",
 		"in_date": "20220726",
 		"hsecd": "04",
@@ -1208,5 +1247,44 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "미추홀구",
 		"apply_nums": "144세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000452&pblancNo=2022000452&houseSecd=01",
+		"in_date": "20220801",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "구미 해모로 리버시티",
+		"addr": "경상북도 구미시 공단동 108",
+		"short_addr": "경상북도 구미시",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "구미시",
+		"apply_nums": "424세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000452&pblancNo=2022000452&houseSecd=01",
+		"in_date": "20220802",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "구미 해모로 리버시티",
+		"addr": "경상북도 구미시 공단동 108",
+		"short_addr": "경상북도 구미시",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "구미시",
+		"apply_nums": "424세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000452&pblancNo=2022000452&houseSecd=01",
+		"in_date": "20220803",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "구미 해모로 리버시티",
+		"addr": "경상북도 구미시 공단동 108",
+		"short_addr": "경상북도 구미시",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "구미시",
+		"apply_nums": "424세대"
 	}
 ]
