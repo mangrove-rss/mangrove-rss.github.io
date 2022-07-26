@@ -1,31 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000464&pblancNo=2022000464&houseSecd=01",
-		"in_date": "20220722",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "제일풍경채 원주 무실",
-		"addr": "강원도 원주시 무실동 산23번지 외 18필지",
-		"short_addr": "강원도 원주시",
-		"addr_lv1": "강원도",
-		"addr_lv2": "원주시",
-		"apply_nums": "997세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000368&pblancNo=2022000368&houseSecd=01",
-		"in_date": "20220722",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "신화하니엘 에비뉴힐",
-		"addr": "부산광역시 북구 덕천동 573-3번지 일원",
-		"short_addr": "부산광역시 북구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "북구",
-		"apply_nums": "107세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000477&pblancNo=2022000477&houseSecd=01",
 		"in_date": "20220725",
 		"hsecd": "01",
@@ -650,6 +624,32 @@
 		"apply_nums": "762세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910227&pblancNo=2022910227&houseSecd=04",
+		"in_date": "20220801",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "대구역자이 더 스타",
+		"addr": "대구광역시 북구 칠성동2가 500-2번지 일원",
+		"short_addr": "대구광역시 북구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "북구",
+		"apply_nums": "3세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910225&pblancNo=2022910225&houseSecd=04",
+		"in_date": "20220801",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "더퍼스트시티 송도",
+		"addr": "인천광역시 연수구 해돋이로 160-15 더퍼스트시티 송도",
+		"short_addr": "인천광역시 연수구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "연수구",
+		"apply_nums": "129세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910226&pblancNo=2022910226&houseSecd=04",
 		"in_date": "20220801",
 		"hsecd": "04",
@@ -962,6 +962,19 @@
 		"apply_nums": "158세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000498&pblancNo=2022000498&houseSecd=01",
+		"in_date": "20220805",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "화성파크드림 구수산공원",
+		"addr": "대구광역시 북구 읍내동 1090번지 일원",
+		"short_addr": "대구광역시 북구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "북구",
+		"apply_nums": "520세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520031&pblancNo=2022520031&houseSecd=09",
 		"in_date": "20220805",
 		"hsecd": "09",
@@ -975,6 +988,19 @@
 		"apply_nums": "229세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000498&pblancNo=2022000498&houseSecd=01",
+		"in_date": "20220808",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "화성파크드림 구수산공원",
+		"addr": "대구광역시 북구 읍내동 1090번지 일원",
+		"short_addr": "대구광역시 북구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "북구",
+		"apply_nums": "520세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520031&pblancNo=2022520031&houseSecd=09",
 		"in_date": "20220808",
 		"hsecd": "09",
@@ -986,6 +1012,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "성남시",
 		"apply_nums": "229세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000498&pblancNo=2022000498&houseSecd=01",
+		"in_date": "20220809",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "화성파크드림 구수산공원",
+		"addr": "대구광역시 북구 읍내동 1090번지 일원",
+		"short_addr": "대구광역시 북구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "북구",
+		"apply_nums": "520세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520031&pblancNo=2022520031&houseSecd=09",
