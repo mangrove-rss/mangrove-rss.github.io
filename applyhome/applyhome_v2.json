@@ -624,6 +624,19 @@
 		"apply_nums": "762세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910222&pblancNo=2022910222&houseSecd=04",
+		"in_date": "20220801",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "e편한세상 옥정 리더스가든",
+		"addr": "경기도 양주시 옥정동 옥정택지개발지구 A-24BL",
+		"short_addr": "경기도 양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "양주시",
+		"apply_nums": "28세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910227&pblancNo=2022910227&houseSecd=04",
 		"in_date": "20220801",
 		"hsecd": "04",
@@ -661,6 +674,32 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "화성시",
 		"apply_nums": "5세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910215&pblancNo=2022910215&houseSecd=04",
+		"in_date": "20220801",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "영통 푸르지오 트레센츠(A1BL)",
+		"addr": "경기도 수원시 영통구 망포동 종전부동산 망포지구 A1블록 (망포동 234-7번지 일원)",
+		"short_addr": "경기도 수원시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "수원시",
+		"apply_nums": "98세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910216&pblancNo=2022910216&houseSecd=04",
+		"in_date": "20220801",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "영통 푸르지오 파인베르(A2BL)",
+		"addr": "경기도 수원시 영통구 망포동 종전부동산 망포지구 A2블록 (망포동 234-6번지 일원)",
+		"short_addr": "경기도 수원시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "수원시",
+		"apply_nums": "43세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910223&pblancNo=2022910223&houseSecd=04",
@@ -793,6 +832,19 @@
 		"apply_nums": "762세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950069&pblancNo=2022950069&houseSecd=02",
+		"in_date": "20220802",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "과천청사역 한양수자인",
+		"addr": "경기도 과천시 별양동 1-15",
+		"short_addr": "경기도 과천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "과천시",
+		"apply_nums": "254세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950068&pblancNo=2022950068&houseSecd=02",
 		"in_date": "20220802",
 		"hsecd": "02",
@@ -804,6 +856,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "하남시",
 		"apply_nums": "449세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910229&pblancNo=2022910229&houseSecd=04",
+		"in_date": "20220802",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "용문역 리체스트",
+		"addr": "대전광역시 서구 용문동 589-14,15,18",
+		"short_addr": "대전광역시 서구",
+		"addr_lv1": "대전광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "21세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000483&pblancNo=2022000483&houseSecd=01",
