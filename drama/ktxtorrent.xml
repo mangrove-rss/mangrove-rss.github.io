@@ -27,5 +27,17 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ 미남당.E09.220725.720p-NEXT ]]></showrss:showname>
 		</item>
+		<item>
+			<title><![CDATA[ 미남당.E09.220725.1080p.H264-F1RST ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih:8e8e85b1c74d5276112b23570fb04c9f6e9b8141 ]]></link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ 미남당.E09.220725.1080p.H264-F1RST ]]></showrss:showname>
+		</item>
+		<item>
+			<title><![CDATA[ 밀의 집.E74.220725.1080p.H264-F1RST ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih:9338fb3d9edd3fd7055f5995be24de652f0c2dfc ]]></link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ 밀의 집.E74.220725.1080p.H264-F1RST ]]></showrss:showname>
+		</item>
 	</channel>
 </rss>
