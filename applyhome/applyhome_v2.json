@@ -858,6 +858,32 @@
 		"apply_nums": "449세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950074&pblancNo=2022950074&houseSecd=02",
+		"in_date": "20220802",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "한울에이치밸리움 더하이클래스",
+		"addr": "서울특별시 강서구 화곡동 987-5,6,12,13,14",
+		"short_addr": "서울특별시 강서구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강서구",
+		"apply_nums": "63세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910228&pblancNo=2022910228&houseSecd=04",
+		"in_date": "20220802",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "수성포레스트스위첸",
+		"addr": "대구광역시 수성구 파동로28길 11-9(파동)",
+		"short_addr": "대구광역시 수성구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "수성구",
+		"apply_nums": "3세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910229&pblancNo=2022910229&houseSecd=04",
 		"in_date": "20220802",
 		"hsecd": "04",
@@ -869,6 +895,19 @@
 		"addr_lv1": "대전광역시",
 		"addr_lv2": "서구",
 		"apply_nums": "21세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910221&pblancNo=2022910221&houseSecd=04",
+		"in_date": "20220802",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "장흥역 경남아너스빌 북한산뷰 B-1(4)블럭(1단지)",
+		"addr": "경기도 양주시 장흥면 일영리 87-3외 26필지(일영지구 B-1(4)블럭)",
+		"short_addr": "경기도 양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "양주시",
+		"apply_nums": "250세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000483&pblancNo=2022000483&houseSecd=01",
@@ -1053,6 +1092,32 @@
 		"apply_nums": "229세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000510&pblancNo=2022000510&houseSecd=01",
+		"in_date": "20220808",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "e편한세상 부평역 센트럴파크",
+		"addr": "인천광역시 부평구 부평동 760-700번지 일원",
+		"short_addr": "인천광역시 부평구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "부평구",
+		"apply_nums": "457세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000426&pblancNo=2022000426&houseSecd=01",
+		"in_date": "20220808",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "대명 헤리티지",
+		"addr": "대구광역시 남구 대명동 1128번지외 1필지",
+		"short_addr": "대구광역시 남구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "31세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000498&pblancNo=2022000498&houseSecd=01",
 		"in_date": "20220808",
 		"hsecd": "01",
@@ -1077,6 +1142,32 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "성남시",
 		"apply_nums": "229세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000510&pblancNo=2022000510&houseSecd=01",
+		"in_date": "20220809",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "e편한세상 부평역 센트럴파크",
+		"addr": "인천광역시 부평구 부평동 760-700번지 일원",
+		"short_addr": "인천광역시 부평구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "부평구",
+		"apply_nums": "457세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000426&pblancNo=2022000426&houseSecd=01",
+		"in_date": "20220809",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "대명 헤리티지",
+		"addr": "대구광역시 남구 대명동 1128번지외 1필지",
+		"short_addr": "대구광역시 남구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "31세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000498&pblancNo=2022000498&houseSecd=01",
@@ -1105,6 +1196,32 @@
 		"apply_nums": "229세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000510&pblancNo=2022000510&houseSecd=01",
+		"in_date": "20220810",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "e편한세상 부평역 센트럴파크",
+		"addr": "인천광역시 부평구 부평동 760-700번지 일원",
+		"short_addr": "인천광역시 부평구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "부평구",
+		"apply_nums": "457세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000426&pblancNo=2022000426&houseSecd=01",
+		"in_date": "20220810",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "대명 헤리티지",
+		"addr": "대구광역시 남구 대명동 1128번지외 1필지",
+		"short_addr": "대구광역시 남구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "31세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520031&pblancNo=2022520031&houseSecd=09",
 		"in_date": "20220810",
 		"hsecd": "09",
@@ -1116,5 +1233,18 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "성남시",
 		"apply_nums": "229세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000510&pblancNo=2022000510&houseSecd=01",
+		"in_date": "20220811",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "e편한세상 부평역 센트럴파크",
+		"addr": "인천광역시 부평구 부평동 760-700번지 일원",
+		"short_addr": "인천광역시 부평구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "부평구",
+		"apply_nums": "457세대"
 	}
 ]
