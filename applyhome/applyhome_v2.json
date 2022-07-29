@@ -1,161 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000477&pblancNo=2022000477&houseSecd=01",
-		"in_date": "20220725",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "나운 금호어울림 센트럴",
-		"addr": "전라북도 군산시 나운동 831번지 일원",
-		"short_addr": "전라북도 군산시",
-		"addr_lv1": "전라북도",
-		"addr_lv2": "군산시",
-		"apply_nums": "54세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000468&pblancNo=2022000468&houseSecd=01",
-		"in_date": "20220725",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "더샵 달서센트엘로",
-		"addr": "대구광역시 달서구 본동 888-2번지 일원",
-		"short_addr": "대구광역시 달서구",
-		"addr_lv1": "대구광역시",
-		"addr_lv2": "달서구",
-		"apply_nums": "272세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000488&pblancNo=2022000488&houseSecd=01",
-		"in_date": "20220725",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "송도 하늘채 아이비원(M2-3-1,2BL)",
-		"addr": "인천광역시 연수구 송도동 20-4번지 외 7필지",
-		"short_addr": "인천광역시 연수구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "연수구",
-		"apply_nums": "119세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000442&pblancNo=2022000442&houseSecd=01",
-		"in_date": "20220725",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "인천 두산위브 더센트럴",
-		"addr": "인천광역시 동구 송림동 42-215",
-		"short_addr": "인천광역시 동구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "동구",
-		"apply_nums": "785세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000480&pblancNo=2022000480&houseSecd=01",
-		"in_date": "20220725",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "청주 흥덕 칸타빌 더뉴",
-		"addr": "충청북도 청주시 흥덕구 강내면 월곡리82-1",
-		"short_addr": "충청북도 청주시",
-		"addr_lv1": "충청북도",
-		"addr_lv2": "청주시",
-		"apply_nums": "149세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000473&pblancNo=2022000473&houseSecd=01",
-		"in_date": "20220725",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "사하코오롱하늘채",
-		"addr": "부산광역시 사하구 신평동 674번지",
-		"short_addr": "부산광역시 사하구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "사하구",
-		"apply_nums": "40세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000464&pblancNo=2022000464&houseSecd=01",
-		"in_date": "20220725",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "제일풍경채 원주 무실",
-		"addr": "강원도 원주시 무실동 산23번지 외 18필지",
-		"short_addr": "강원도 원주시",
-		"addr_lv1": "강원도",
-		"addr_lv2": "원주시",
-		"apply_nums": "997세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910210&pblancNo=2022910210&houseSecd=04",
-		"in_date": "20220725",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "마전 양우 내안애 퍼스트힐",
-		"addr": "인천광역시 서구 검단로609번길 23(마전동, 양우내안애 퍼스트힐)",
-		"short_addr": "인천광역시 서구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "서구",
-		"apply_nums": "28세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910192&pblancNo=2022910192&houseSecd=04",
-		"in_date": "20220725",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "송도 Luxe Ocean SK VIEW",
-		"addr": "인천광역시 연수구 송도동 396-1(송도랜드마크시티 6, 8공구 A9블록)",
-		"short_addr": "인천광역시 연수구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "연수구",
-		"apply_nums": "3세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910213&pblancNo=2022910213&houseSecd=04",
-		"in_date": "20220725",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "의정부월드메르디앙 (청약접수전 반드시 대표전화 문의바람 재당첨제한 7년)",
-		"addr": "경기도 의정부시 둔야로 19(의정부동)",
-		"short_addr": "경기도 의정부시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "의정부시",
-		"apply_nums": "4세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910212&pblancNo=2022910212&houseSecd=04",
-		"in_date": "20220725",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "한화 포레나 미아",
-		"addr": "서울특별시 강북구 솔샘로 265일대(미아동 705-1일원)",
-		"short_addr": "서울특별시 강북구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강북구",
-		"apply_nums": "74세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910214&pblancNo=2022910214&houseSecd=04",
-		"in_date": "20220725",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "현대 프라힐스 소사역 더프라임",
-		"addr": "경기도 부천시 소사본동 70-7외 6필지",
-		"short_addr": "경기도 부천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "부천시",
-		"apply_nums": "42세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000435&pblancNo=2022000435&houseSecd=01",
 		"in_date": "20220726",
 		"hsecd": "01",
@@ -858,6 +702,19 @@
 		"apply_nums": "449세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950056&pblancNo=2022950056&houseSecd=02",
+		"in_date": "20220802",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "원흥 힐사이드파크 더블",
+		"addr": "경기도 고양시 덕양구 도내동 955",
+		"short_addr": "경기도 고양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "고양시",
+		"apply_nums": "481세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950074&pblancNo=2022950074&houseSecd=02",
 		"in_date": "20220802",
 		"hsecd": "02",
@@ -1040,6 +897,45 @@
 		"apply_nums": "449세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910234&pblancNo=2022910234&houseSecd=04",
+		"in_date": "20220803",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "서광교 파크뷰",
+		"addr": "경기도 수원시 장안구 연무동 18-2 외 2필지",
+		"short_addr": "경기도 수원시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "수원시",
+		"apply_nums": "19세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910224&pblancNo=2022910224&houseSecd=04",
+		"in_date": "20220803",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "위례포레자이（하남）",
+		"addr": "경기도 하남시 위례대로6길 95(학암동, 위례포레자이)",
+		"short_addr": "경기도 하남시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "하남시",
+		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022930009&pblancNo=2022930009&houseSecd=06",
+		"in_date": "20220803",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "과천자이(취소후재공급)",
+		"addr": "경기도 과천시 별양로 110(별양동, 과천자이)",
+		"short_addr": "경기도 과천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "과천시",
+		"apply_nums": "12세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000483&pblancNo=2022000483&houseSecd=01",
 		"in_date": "20220804",
 		"hsecd": "01",
@@ -1064,6 +960,19 @@
 		"addr_lv1": "부산광역시",
 		"addr_lv2": "부산진구",
 		"apply_nums": "158세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022930009&pblancNo=2022930009&houseSecd=06",
+		"in_date": "20220804",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "과천자이(취소후재공급)",
+		"addr": "경기도 과천시 별양로 110(별양동, 과천자이)",
+		"short_addr": "경기도 과천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "과천시",
+		"apply_nums": "12세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000498&pblancNo=2022000498&houseSecd=01",
@@ -1105,6 +1014,19 @@
 		"apply_nums": "457세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000523&pblancNo=2022000523&houseSecd=01",
+		"in_date": "20220808",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "e편한세상 삼천포 오션프라임",
+		"addr": "경상남도 사천시 동금동 151-1번지 일원",
+		"short_addr": "경상남도 사천시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "사천시",
+		"apply_nums": "677세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000426&pblancNo=2022000426&houseSecd=01",
 		"in_date": "20220808",
 		"hsecd": "01",
@@ -1118,6 +1040,45 @@
 		"apply_nums": "31세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000501&pblancNo=2022000501&houseSecd=01",
+		"in_date": "20220808",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "서면4차 봄여름가을겨울",
+		"addr": "부산광역시 부산진구 당감동 866-1번지 일원",
+		"short_addr": "부산광역시 부산진구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "부산진구",
+		"apply_nums": "607세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000505&pblancNo=2022000505&houseSecd=01",
+		"in_date": "20220808",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "창원자이 시그니처",
+		"addr": "경상남도 창원시 성산구 원이대로878번길 16 일원",
+		"short_addr": "경상남도 창원시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "창원시",
+		"apply_nums": "453세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000514&pblancNo=2022000514&houseSecd=01",
+		"in_date": "20220808",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "힐스테이트 마크로엔",
+		"addr": "경상남도 창원시 성산구 대원동 37-1",
+		"short_addr": "경상남도 창원시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "창원시",
+		"apply_nums": "168세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000498&pblancNo=2022000498&houseSecd=01",
 		"in_date": "20220808",
 		"hsecd": "01",
@@ -1157,6 +1118,19 @@
 		"apply_nums": "457세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000523&pblancNo=2022000523&houseSecd=01",
+		"in_date": "20220809",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "e편한세상 삼천포 오션프라임",
+		"addr": "경상남도 사천시 동금동 151-1번지 일원",
+		"short_addr": "경상남도 사천시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "사천시",
+		"apply_nums": "677세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000426&pblancNo=2022000426&houseSecd=01",
 		"in_date": "20220809",
 		"hsecd": "01",
@@ -1168,6 +1142,45 @@
 		"addr_lv1": "대구광역시",
 		"addr_lv2": "남구",
 		"apply_nums": "31세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000501&pblancNo=2022000501&houseSecd=01",
+		"in_date": "20220809",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "서면4차 봄여름가을겨울",
+		"addr": "부산광역시 부산진구 당감동 866-1번지 일원",
+		"short_addr": "부산광역시 부산진구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "부산진구",
+		"apply_nums": "607세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000505&pblancNo=2022000505&houseSecd=01",
+		"in_date": "20220809",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "창원자이 시그니처",
+		"addr": "경상남도 창원시 성산구 원이대로878번길 16 일원",
+		"short_addr": "경상남도 창원시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "창원시",
+		"apply_nums": "453세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000514&pblancNo=2022000514&houseSecd=01",
+		"in_date": "20220809",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "힐스테이트 마크로엔",
+		"addr": "경상남도 창원시 성산구 대원동 37-1",
+		"short_addr": "경상남도 창원시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "창원시",
+		"apply_nums": "168세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000498&pblancNo=2022000498&houseSecd=01",
@@ -1209,6 +1222,45 @@
 		"apply_nums": "457세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000501&pblancNo=2022000501&houseSecd=01",
+		"in_date": "20220810",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "서면4차 봄여름가을겨울",
+		"addr": "부산광역시 부산진구 당감동 866-1번지 일원",
+		"short_addr": "부산광역시 부산진구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "부산진구",
+		"apply_nums": "607세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000505&pblancNo=2022000505&houseSecd=01",
+		"in_date": "20220810",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "창원자이 시그니처",
+		"addr": "경상남도 창원시 성산구 원이대로878번길 16 일원",
+		"short_addr": "경상남도 창원시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "창원시",
+		"apply_nums": "453세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000523&pblancNo=2022000523&houseSecd=01",
+		"in_date": "20220810",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "e편한세상 삼천포 오션프라임",
+		"addr": "경상남도 사천시 동금동 151-1번지 일원",
+		"short_addr": "경상남도 사천시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "사천시",
+		"apply_nums": "677세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000426&pblancNo=2022000426&houseSecd=01",
 		"in_date": "20220810",
 		"hsecd": "01",
@@ -1220,6 +1272,19 @@
 		"addr_lv1": "대구광역시",
 		"addr_lv2": "남구",
 		"apply_nums": "31세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000514&pblancNo=2022000514&houseSecd=01",
+		"in_date": "20220810",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "힐스테이트 마크로엔",
+		"addr": "경상남도 창원시 성산구 대원동 37-1",
+		"short_addr": "경상남도 창원시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "창원시",
+		"apply_nums": "168세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520031&pblancNo=2022520031&houseSecd=09",
@@ -1246,5 +1311,31 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "부평구",
 		"apply_nums": "457세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000501&pblancNo=2022000501&houseSecd=01",
+		"in_date": "20220811",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "서면4차 봄여름가을겨울",
+		"addr": "부산광역시 부산진구 당감동 866-1번지 일원",
+		"short_addr": "부산광역시 부산진구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "부산진구",
+		"apply_nums": "607세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000505&pblancNo=2022000505&houseSecd=01",
+		"in_date": "20220811",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "창원자이 시그니처",
+		"addr": "경상남도 창원시 성산구 원이대로878번길 16 일원",
+		"short_addr": "경상남도 창원시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "창원시",
+		"apply_nums": "453세대"
 	}
 ]
