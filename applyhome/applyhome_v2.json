@@ -1,57 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000435&pblancNo=2022000435&houseSecd=01",
-		"in_date": "20220728",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "서희스타힐스 더 도화",
-		"addr": "인천광역시 미추홀구 염전로202번길 74(도화동)",
-		"short_addr": "인천광역시 미추홀구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "미추홀구",
-		"apply_nums": "144세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000442&pblancNo=2022000442&houseSecd=01",
-		"in_date": "20220728",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "인천 두산위브 더센트럴",
-		"addr": "인천광역시 동구 송림동 42-215",
-		"short_addr": "인천광역시 동구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "동구",
-		"apply_nums": "785세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950067&pblancNo=2022950067&houseSecd=02",
-		"in_date": "20220728",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "힐스테이트푸르지오수원 재개발임대주택(민간임대)",
-		"addr": "경기도 수원시 팔달구 교동 155-41번지 일원",
-		"short_addr": "경기도 수원시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "수원시",
-		"apply_nums": "91세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000435&pblancNo=2022000435&houseSecd=01",
-		"in_date": "20220729",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "서희스타힐스 더 도화",
-		"addr": "인천광역시 미추홀구 염전로202번길 74(도화동)",
-		"short_addr": "인천광역시 미추홀구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "미추홀구",
-		"apply_nums": "144세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000452&pblancNo=2022000452&houseSecd=01",
 		"in_date": "20220801",
 		"hsecd": "01",
@@ -1506,6 +1454,19 @@
 		"addr_lv1": "경상남도",
 		"addr_lv2": "창원시",
 		"apply_nums": "168세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910233&pblancNo=2022910233&houseSecd=04",
+		"in_date": "20220810",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "수성알파시티청아람 공공분양주택",
+		"addr": "대구광역시 수성구 알파시티2로 96(노변동, 수성알파시티청아람)",
+		"short_addr": "대구광역시 수성구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "수성구",
+		"apply_nums": "2세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520033&pblancNo=2022520033&houseSecd=09",
