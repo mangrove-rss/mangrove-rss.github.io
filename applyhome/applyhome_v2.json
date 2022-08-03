@@ -910,6 +910,19 @@
 		"apply_nums": "1세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910238&pblancNo=2022910238&houseSecd=04",
+		"in_date": "20220808",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "문수로 푸르지오 어반피스",
+		"addr": "울산광역시 남구 신정동 1266-6번지 일원",
+		"short_addr": "울산광역시 남구",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "9세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910235&pblancNo=2022910235&houseSecd=04",
 		"in_date": "20220808",
 		"hsecd": "04",
