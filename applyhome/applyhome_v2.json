@@ -1222,6 +1222,45 @@
 		"apply_nums": "520세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910236&pblancNo=2022910236&houseSecd=04",
+		"in_date": "20220809",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "대전스카이자이르네",
+		"addr": "대전광역시 동구 인동 72-1 외 11필지",
+		"short_addr": "대전광역시 동구",
+		"addr_lv1": "대전광역시",
+		"addr_lv2": "동구",
+		"apply_nums": "129세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910242&pblancNo=2022910242&houseSecd=04",
+		"in_date": "20220809",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "시흥 센트럴 헤센",
+		"addr": "경기도 시흥시 월곶동 1064-1",
+		"short_addr": "경기도 시흥시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "시흥시",
+		"apply_nums": "69세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910244&pblancNo=2022910244&houseSecd=04",
+		"in_date": "20220809",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "초읍 월드메르디앙 에듀포레",
+		"addr": "부산광역시 부산진구 초읍동 529-14번지 일원",
+		"short_addr": "부산광역시 부산진구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "부산진구",
+		"apply_nums": "4세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520033&pblancNo=2022520033&houseSecd=09",
 		"in_date": "20220809",
 		"hsecd": "09",
@@ -1493,6 +1532,32 @@
 		"addr_lv1": "경상남도",
 		"addr_lv2": "창원시",
 		"apply_nums": "168세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950072&pblancNo=2022950072&houseSecd=02",
+		"in_date": "20220810",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "병점역 서해 스카이팰리스 2단지",
+		"addr": "경기도 화성시 병점동 884-5,6번지",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "153세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950073&pblancNo=2022950073&houseSecd=02",
+		"in_date": "20220810",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "병점역 서해 스카이팰리스 3단지",
+		"addr": "경기도 화성시 병점동 886-1번지",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "90세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910233&pblancNo=2022910233&houseSecd=04",
