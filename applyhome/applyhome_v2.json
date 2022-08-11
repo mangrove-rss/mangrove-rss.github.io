@@ -1334,6 +1334,19 @@
 		"apply_nums": "56세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910261&pblancNo=2022910261&houseSecd=04",
+		"in_date": "20220816",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "봉담 파라곤",
+		"addr": "경기도 화성시 봉담읍 동화리 228번지 일원(동화3지구 지역주택조합 공동주택 건설사업) ",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "2세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910247&pblancNo=2022910247&houseSecd=04",
 		"in_date": "20220816",
 		"hsecd": "04",
@@ -1680,6 +1693,19 @@
 		"apply_nums": "36세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000536&pblancNo=2022000536&houseSecd=01",
+		"in_date": "20220822",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "군산 경남아너스빌 디오션",
+		"addr": "전라북도 군산시 조촌동 739-70일원",
+		"short_addr": "전라북도 군산시",
+		"addr_lv1": "전라북도",
+		"addr_lv2": "군산시",
+		"apply_nums": "873세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950079&pblancNo=2022950079&houseSecd=02",
 		"in_date": "20220822",
 		"hsecd": "02",
@@ -1691,5 +1717,31 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "부평구",
 		"apply_nums": "36세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000536&pblancNo=2022000536&houseSecd=01",
+		"in_date": "20220823",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "군산 경남아너스빌 디오션",
+		"addr": "전라북도 군산시 조촌동 739-70일원",
+		"short_addr": "전라북도 군산시",
+		"addr_lv1": "전라북도",
+		"addr_lv2": "군산시",
+		"apply_nums": "873세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000536&pblancNo=2022000536&houseSecd=01",
+		"in_date": "20220824",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "군산 경남아너스빌 디오션",
+		"addr": "전라북도 군산시 조촌동 739-70일원",
+		"short_addr": "전라북도 군산시",
+		"addr_lv1": "전라북도",
+		"addr_lv2": "군산시",
+		"apply_nums": "873세대"
 	}
 ]
