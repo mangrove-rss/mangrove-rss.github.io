@@ -1,31 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000509&pblancNo=2022000509&houseSecd=01",
-		"in_date": "20220812",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "제주 다이아빌라스 1차",
-		"addr": "제주특별자치도 서귀포시 안덕면 서광리 2343번지 외 3필지",
-		"short_addr": "제주특별자치도 서귀포시",
-		"addr_lv1": "제주특별자치도",
-		"addr_lv2": "서귀포시",
-		"apply_nums": "75세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910237&pblancNo=2022910237&houseSecd=04",
-		"in_date": "20220812",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "힐스테이트 불로 포레스트",
-		"addr": "인천광역시 서구 불로동 불로지구 9블록 1로트 및 2로트(불로동 82번지 일원)",
-		"short_addr": "인천광역시 서구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "서구",
-		"apply_nums": "211세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000532&pblancNo=2022000532&houseSecd=01",
 		"in_date": "20220816",
 		"hsecd": "01",
@@ -810,6 +784,32 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "부평구",
 		"apply_nums": "36세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950081&pblancNo=2022950081&houseSecd=02",
+		"in_date": "20220822",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "아르테자이 민간임대주택",
+		"addr": "경기도 안양시 만안구 안양동18-1, 108동(아르테자이) ",
+		"short_addr": "경기도 안양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "안양시",
+		"apply_nums": "42세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910260&pblancNo=2022910260&houseSecd=04",
+		"in_date": "20220822",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "마전 양우 내안애 퍼스트힐 (재당첨제한10년)",
+		"addr": "인천광역시 서구 검단로609번길 23(마전동, 양우내안애 퍼스트힐)",
+		"short_addr": "인천광역시 서구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "27세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520035&pblancNo=2022520035&houseSecd=09",
