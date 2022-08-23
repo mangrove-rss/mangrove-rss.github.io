@@ -1,83 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000532&pblancNo=2022000532&houseSecd=01",
-		"in_date": "20220819",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "의정부역 브라운스톤 리버뷰",
-		"addr": "경기도 의정부시 신곡동 571-1번지 일원",
-		"short_addr": "경기도 의정부시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "의정부시",
-		"apply_nums": "584세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000515&pblancNo=2022000515&houseSecd=01",
-		"in_date": "20220819",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "주안 극동스타클래스 더 로얄",
-		"addr": "인천광역시 미추홀구 주안동 882-1번지",
-		"short_addr": "인천광역시 미추홀구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "미추홀구",
-		"apply_nums": "114세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000379&pblancNo=2022000379&houseSecd=01",
-		"in_date": "20220819",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "화성 봉담자이 라젠느",
-		"addr": "경기도 화성시 봉담읍 동화지구 A-1블록",
-		"short_addr": "경기도 화성시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "화성시",
-		"apply_nums": "862세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950080&pblancNo=2022950080&houseSecd=02",
-		"in_date": "20220819",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "부평 신일해피트리 더루츠",
-		"addr": "인천광역시 부평구 산곡로 31(산곡동)",
-		"short_addr": "인천광역시 부평구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "부평구",
-		"apply_nums": "43세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950079&pblancNo=2022950079&houseSecd=02",
-		"in_date": "20220819",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "쌍용 더 플레티넘 부평(민간임대)",
-		"addr": "인천광역시 부평구 원적로287번길 25(산곡동)",
-		"short_addr": "인천광역시 부평구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "부평구",
-		"apply_nums": "36세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950070&pblancNo=2022950070&houseSecd=02",
-		"in_date": "20220819",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "주안 극동스타클래스 더 로얄",
-		"addr": "인천광역시 미추홀구 주안동 882-1번지",
-		"short_addr": "인천광역시 미추홀구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "미추홀구",
-		"apply_nums": "108세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950080&pblancNo=2022950080&houseSecd=02",
 		"in_date": "20220820",
 		"hsecd": "02",
@@ -731,6 +653,19 @@
 		"apply_nums": "27세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910266&pblancNo=2022910266&houseSecd=04",
+		"in_date": "20220829",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "연산 하늘채 엘센트로",
+		"addr": "부산광역시 연제구 연산동 588-1",
+		"short_addr": "부산광역시 연제구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "연제구",
+		"apply_nums": "93세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910264&pblancNo=2022910264&houseSecd=04",
 		"in_date": "20220829",
 		"hsecd": "04",
@@ -1043,6 +978,19 @@
 		"apply_nums": "577세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000563&pblancNo=2022000563&houseSecd=01",
+		"in_date": "20220901",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "거제 한신더휴",
+		"addr": "경상남도 거제시 아주동 1540-1번지 일원",
+		"short_addr": "경상남도 거제시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "거제시",
+		"apply_nums": "547세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000562&pblancNo=2022000562&houseSecd=01",
 		"in_date": "20220901",
 		"hsecd": "01",
@@ -1134,6 +1082,19 @@
 		"apply_nums": "161세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000563&pblancNo=2022000563&houseSecd=01",
+		"in_date": "20220902",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "거제 한신더휴",
+		"addr": "경상남도 거제시 아주동 1540-1번지 일원",
+		"short_addr": "경상남도 거제시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "거제시",
+		"apply_nums": "547세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000562&pblancNo=2022000562&houseSecd=01",
 		"in_date": "20220902",
 		"hsecd": "01",
@@ -1145,5 +1106,18 @@
 		"addr_lv1": "충청북도",
 		"addr_lv2": "청주시",
 		"apply_nums": "1113세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000563&pblancNo=2022000563&houseSecd=01",
+		"in_date": "20220905",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "거제 한신더휴",
+		"addr": "경상남도 거제시 아주동 1540-1번지 일원",
+		"short_addr": "경상남도 거제시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "거제시",
+		"apply_nums": "547세대"
 	}
 ]
