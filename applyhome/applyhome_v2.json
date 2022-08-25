@@ -1,31 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950080&pblancNo=2022950080&houseSecd=02",
-		"in_date": "20220821",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "부평 신일해피트리 더루츠",
-		"addr": "인천광역시 부평구 산곡로 31(산곡동)",
-		"short_addr": "인천광역시 부평구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "부평구",
-		"apply_nums": "43세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950079&pblancNo=2022950079&houseSecd=02",
-		"in_date": "20220821",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "쌍용 더 플레티넘 부평(민간임대)",
-		"addr": "인천광역시 부평구 원적로287번길 25(산곡동)",
-		"short_addr": "인천광역시 부평구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "부평구",
-		"apply_nums": "36세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000536&pblancNo=2022000536&houseSecd=01",
 		"in_date": "20220822",
 		"hsecd": "01",
@@ -872,6 +846,19 @@
 		"addr_lv1": "강원도",
 		"addr_lv2": "춘천시",
 		"apply_nums": "28세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910267&pblancNo=2022910267&houseSecd=04",
+		"in_date": "20220830",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "서희스타힐스 더 도화",
+		"addr": "인천광역시 미추홀구 염전로202번길 74(도화동)",
+		"short_addr": "인천광역시 미추홀구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "미추홀구",
+		"apply_nums": "104세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000542&pblancNo=2022000542&houseSecd=01",
