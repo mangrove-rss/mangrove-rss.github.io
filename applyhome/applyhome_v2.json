@@ -1,26 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000236&pblancNo=2022000236&houseSecd=01",
-		"in_date": "20220825",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "라포르테 공도",
-		"addr": "경기도 안성시 공도읍 만정리 358-23",
-		"short_addr": "경기도 안성시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "안성시",
-		"apply_nums": "986세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022850015&pblancNo=2022850015&houseSecd=03",
-		"in_date": "20220825",
-		"hsecd": "03",
-		"rse": "04",
-		"type": "",
-		"name": "경산 하양지구 A-5BL 우미린 에코포레"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000561&pblancNo=2022000561&houseSecd=01",
 		"in_date": "20220829",
 		"hsecd": "01",
