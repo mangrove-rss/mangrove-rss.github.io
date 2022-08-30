@@ -1363,5 +1363,57 @@
 		"addr_lv1": "충청남도",
 		"addr_lv2": "천안시",
 		"apply_nums": "1199세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000557&pblancNo=2022000557&houseSecd=01",
+		"in_date": "20220913",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "평촌 두산위브 더 프라임",
+		"addr": "경기도 안양시 동안구 호계3동 651-1번지 일원",
+		"short_addr": "경기도 안양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "안양시",
+		"apply_nums": "178세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000557&pblancNo=2022000557&houseSecd=01",
+		"in_date": "20220914",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "평촌 두산위브 더 프라임",
+		"addr": "경기도 안양시 동안구 호계3동 651-1번지 일원",
+		"short_addr": "경기도 안양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "안양시",
+		"apply_nums": "178세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000557&pblancNo=2022000557&houseSecd=01",
+		"in_date": "20220915",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "평촌 두산위브 더 프라임",
+		"addr": "경기도 안양시 동안구 호계3동 651-1번지 일원",
+		"short_addr": "경기도 안양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "안양시",
+		"apply_nums": "178세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000557&pblancNo=2022000557&houseSecd=01",
+		"in_date": "20220916",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "평촌 두산위브 더 프라임",
+		"addr": "경기도 안양시 동안구 호계3동 651-1번지 일원",
+		"short_addr": "경기도 안양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "안양시",
+		"apply_nums": "178세대"
 	}
 ]
