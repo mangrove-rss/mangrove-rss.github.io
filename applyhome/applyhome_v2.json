@@ -653,6 +653,45 @@
 		"apply_nums": "178세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910285&pblancNo=2022910285&houseSecd=04",
+		"in_date": "20220913",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "문수로 푸르지오 어반피스(청약전 반드시 대표전화 문의 재당첨 제한 7년, 울산거주자,무주택자만 해당)",
+		"addr": "울산광역시 남구 신정동 1266-6번지 일원",
+		"short_addr": "울산광역시 남구",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "9세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910283&pblancNo=2022910283&houseSecd=04",
+		"in_date": "20220913",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "서면4차 봄여름가을겨울",
+		"addr": "부산광역시 부산진구 당감동 866-1번지 일원",
+		"short_addr": "부산광역시 부산진구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "부산진구",
+		"apply_nums": "183세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910294&pblancNo=2022910294&houseSecd=04",
+		"in_date": "20220913",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "선운 더브이 레브리티",
+		"addr": "광주광역시 광산구 선암동 358-5번지 일원",
+		"short_addr": "광주광역시 광산구",
+		"addr_lv1": "광주광역시",
+		"addr_lv2": "광산구",
+		"apply_nums": "66세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910288&pblancNo=2022910288&houseSecd=04",
 		"in_date": "20220913",
 		"hsecd": "04",
@@ -663,6 +702,19 @@
 		"short_addr": "경기도 부천시",
 		"addr_lv1": "경기도",
 		"addr_lv2": "부천시",
+		"apply_nums": "4세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910290&pblancNo=2022910290&houseSecd=04",
+		"in_date": "20220913",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "신림스카이아파트",
+		"addr": "서울특별시 관악구 신림로 185(신림동, 신림 스카이 아파트)",
+		"short_addr": "서울특별시 관악구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "관악구",
 		"apply_nums": "4세대"
 	},
 	{
@@ -690,6 +742,19 @@
 		"addr_lv1": "부산광역시",
 		"addr_lv2": "부산진구",
 		"apply_nums": "4세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910286&pblancNo=2022910286&houseSecd=04",
+		"in_date": "20220913",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "현대 프라힐스 소사역 더프라임",
+		"addr": "경기도 부천시 소사본동 70-7외 6필지",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "16세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000602&pblancNo=2022000602&houseSecd=01",
@@ -757,6 +822,19 @@
 		"apply_nums": "178세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910286&pblancNo=2022910286&houseSecd=04",
+		"in_date": "20220914",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "현대 프라힐스 소사역 더프라임",
+		"addr": "경기도 부천시 소사본동 70-7외 6필지",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "16세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000602&pblancNo=2022000602&houseSecd=01",
 		"in_date": "20220915",
 		"hsecd": "01",
@@ -859,5 +937,31 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "안양시",
 		"apply_nums": "178세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950088&pblancNo=2022950088&houseSecd=02",
+		"in_date": "20220919",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "백운호수 푸르지오 숲속의 아침 1단지",
+		"addr": "경기도 의왕시 학의동 661번지 일원",
+		"short_addr": "경기도 의왕시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "의왕시",
+		"apply_nums": "512세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950089&pblancNo=2022950089&houseSecd=02",
+		"in_date": "20220919",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "백운호수 푸르지오 숲속의 아침 2단지",
+		"addr": "경기도 의왕시 학의동 656-1번지 일원",
+		"short_addr": "경기도 의왕시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "의왕시",
+		"apply_nums": "330세대"
 	}
 ]
