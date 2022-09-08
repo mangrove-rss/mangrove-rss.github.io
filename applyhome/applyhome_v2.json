@@ -653,6 +653,19 @@
 		"apply_nums": "178세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910291&pblancNo=2022910291&houseSecd=04",
+		"in_date": "20220913",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "라펜트 힐",
+		"addr": "광주광역시 광산구 월계동 870-1번지 일원",
+		"short_addr": "광주광역시 광산구",
+		"addr_lv1": "광주광역시",
+		"addr_lv2": "광산구",
+		"apply_nums": "2세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910285&pblancNo=2022910285&houseSecd=04",
 		"in_date": "20220913",
 		"hsecd": "04",
@@ -705,6 +718,19 @@
 		"apply_nums": "4세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910296&pblancNo=2022910296&houseSecd=04",
+		"in_date": "20220913",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "송도 Luxe Ocean SK VIEW (청약접수전 반드시 대표전화 문의, 재당첨제한 10년, 인천시 거주자/무주택자만 해당)",
+		"addr": "인천광역시 연수구 송도동 396-1(송도랜드마크시티 6, 8공구 A9블록)",
+		"short_addr": "인천광역시 연수구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "연수구",
+		"apply_nums": "4세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910290&pblancNo=2022910290&houseSecd=04",
 		"in_date": "20220913",
 		"hsecd": "04",
@@ -716,6 +742,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "관악구",
 		"apply_nums": "4세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910292&pblancNo=2022910292&houseSecd=04",
+		"in_date": "20220913",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "유보라 천안 두정역",
+		"addr": "충청남도 천안시 서북구 두정동 393-21번지 일원",
+		"short_addr": "충청남도 천안시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "천안시",
+		"apply_nums": "280세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910284&pblancNo=2022910284&houseSecd=04",
@@ -900,6 +939,14 @@
 		"apply_nums": "209세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022850019&pblancNo=2022850019&houseSecd=03",
+		"in_date": "20220915",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "서울은평뉴타운 디에트르 더 퍼스트"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000602&pblancNo=2022000602&houseSecd=01",
 		"in_date": "20220916",
 		"hsecd": "01",
@@ -937,6 +984,14 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "안양시",
 		"apply_nums": "178세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022850019&pblancNo=2022850019&houseSecd=03",
+		"in_date": "20220916",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "서울은평뉴타운 디에트르 더 퍼스트"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950088&pblancNo=2022950088&houseSecd=02",
