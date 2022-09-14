@@ -445,6 +445,19 @@
 		"apply_nums": "87세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910289&pblancNo=2022910289&houseSecd=04",
+		"in_date": "20220919",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "가능역 하우스토리 리버블리스",
+		"addr": "경기도 의정부시 가능동 15-14(태평로214번길 29-9)",
+		"short_addr": "경기도 의정부시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "의정부시",
+		"apply_nums": "48세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910293&pblancNo=2022910293&houseSecd=04",
 		"in_date": "20220919",
 		"hsecd": "04",
