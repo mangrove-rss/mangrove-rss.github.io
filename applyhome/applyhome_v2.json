@@ -1,52 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000602&pblancNo=2022000602&houseSecd=01",
-		"in_date": "20220916",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "e편한세상 주촌 더프리미어",
-		"addr": "경상남도 김해시 주촌면 선지리213-2번지 일원",
-		"short_addr": "경상남도 김해시",
-		"addr_lv1": "경상남도",
-		"addr_lv2": "김해시",
-		"apply_nums": "992세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000490&pblancNo=2022000490&houseSecd=01",
-		"in_date": "20220916",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "구서다움파크",
-		"addr": "부산광역시 금정구 중앙대로1893번길 50(구서동)",
-		"short_addr": "부산광역시 금정구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "금정구",
-		"apply_nums": "84세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000557&pblancNo=2022000557&houseSecd=01",
-		"in_date": "20220916",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "평촌 두산위브 더 프라임",
-		"addr": "경기도 안양시 동안구 호계3동 651-1번지 일원",
-		"short_addr": "경기도 안양시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "안양시",
-		"apply_nums": "178세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022850019&pblancNo=2022850019&houseSecd=03",
-		"in_date": "20220916",
-		"hsecd": "03",
-		"rse": "04",
-		"type": "",
-		"name": "서울은평뉴타운 디에트르 더 퍼스트"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000582&pblancNo=2022000582&houseSecd=01",
 		"in_date": "20220919",
 		"hsecd": "01",
