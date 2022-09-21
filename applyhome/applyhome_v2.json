@@ -247,6 +247,19 @@
 		"apply_nums": "316세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950096&pblancNo=2022950096&houseSecd=02",
+		"in_date": "20220926",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "인천계양 유탑 유블레스",
+		"addr": "인천광역시 계양구 아나지로 56(효성동)",
+		"short_addr": "인천광역시 계양구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "계양구",
+		"apply_nums": "408세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000599&pblancNo=2022000599&houseSecd=01",
 		"in_date": "20220927",
 		"hsecd": "01",
