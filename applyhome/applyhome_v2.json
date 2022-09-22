@@ -299,6 +299,19 @@
 		"apply_nums": "316세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910305&pblancNo=2022910305&houseSecd=04",
+		"in_date": "20220927",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "e편한세상 부평역 센트럴파크",
+		"addr": "인천광역시 부평구 부평동 760-700번지 일원",
+		"short_addr": "인천광역시 부평구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "부평구",
+		"apply_nums": "115세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000640&pblancNo=2022000640&houseSecd=01",
 		"in_date": "20220928",
 		"hsecd": "01",
@@ -349,5 +362,44 @@
 		"addr_lv1": "충청남도",
 		"addr_lv2": "천안시",
 		"apply_nums": "316세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520036&pblancNo=2022520036&houseSecd=09",
+		"in_date": "20221005",
+		"hsecd": "09",
+		"rse": "08",
+		"type": "민간사전청약 APT 1순위",
+		"name": "밀양 부북지구 제일풍경채 S-1BL(사전청약)",
+		"addr": "경상남도 밀양시 부북지구내 S-1블록",
+		"short_addr": "경상남도 밀양시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "밀양시",
+		"apply_nums": "320세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520036&pblancNo=2022520036&houseSecd=09",
+		"in_date": "20221006",
+		"hsecd": "09",
+		"rse": "09",
+		"type": "민간사전청약 APT 2순위",
+		"name": "밀양 부북지구 제일풍경채 S-1BL(사전청약)",
+		"addr": "경상남도 밀양시 부북지구내 S-1블록",
+		"short_addr": "경상남도 밀양시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "밀양시",
+		"apply_nums": "320세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520036&pblancNo=2022520036&houseSecd=09",
+		"in_date": "20221007",
+		"hsecd": "09",
+		"rse": "10",
+		"type": "민간사전청약 APT",
+		"name": "밀양 부북지구 제일풍경채 S-1BL(사전청약)",
+		"addr": "경상남도 밀양시 부북지구내 S-1블록",
+		"short_addr": "경상남도 밀양시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "밀양시",
+		"apply_nums": "320세대"
 	}
 ]
