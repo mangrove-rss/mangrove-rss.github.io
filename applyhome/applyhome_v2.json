@@ -1,45 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000582&pblancNo=2022000582&houseSecd=01",
-		"in_date": "20220920",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "인덕원 자이 SK VIEW",
-		"addr": "경기도 의왕시 내손동 683번지 일원",
-		"short_addr": "경기도 의왕시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "의왕시",
-		"apply_nums": "899세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910300&pblancNo=2022910300&houseSecd=04",
-		"in_date": "20220920",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "사하코오롱하늘채",
-		"addr": "부산광역시 사하구 신평동 674번지",
-		"short_addr": "부산광역시 사하구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "사하구",
-		"apply_nums": "1세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910301&pblancNo=2022910301&houseSecd=04",
-		"in_date": "20220920",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "칸타빌 수유팰리스",
-		"addr": "서울특별시 강북구 수유동 179-2외 4필지",
-		"short_addr": "서울특별시 강북구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강북구",
-		"apply_nums": "23세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000582&pblancNo=2022000582&houseSecd=01",
 		"in_date": "20220921",
 		"hsecd": "01",
 		"rse": "02",
@@ -325,6 +286,32 @@
 		"apply_nums": "3세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000654&pblancNo=2022000654&houseSecd=01",
+		"in_date": "20221004",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "e편한세상 사천 스카이마리나",
+		"addr": "경상남도 사천시 용현면 선진리 1116,1117번지",
+		"short_addr": "경상남도 사천시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "사천시",
+		"apply_nums": "1047세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000655&pblancNo=2022000655&houseSecd=01",
+		"in_date": "20221004",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "거창 ES아뜨리움",
+		"addr": "경상남도 거창군 거창읍 대평리 1021-4 일원",
+		"short_addr": "경상남도 거창군",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "거창군",
+		"apply_nums": "76세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000656&pblancNo=2022000656&houseSecd=01",
 		"in_date": "20221004",
 		"hsecd": "01",
@@ -351,6 +338,58 @@
 		"apply_nums": "920세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000652&pblancNo=2022000652&houseSecd=01",
+		"in_date": "20221004",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "두류역자이",
+		"addr": "대구광역시 서구 내당동 220-1번지 일원",
+		"short_addr": "대구광역시 서구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "117세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000641&pblancNo=2022000641&houseSecd=01",
+		"in_date": "20221004",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "반월자이 더 파크",
+		"addr": "경기도 화성시 동탄지성로 394(반월동, 반월자이 더파크)",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "118세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000629&pblancNo=2022000629&houseSecd=01",
+		"in_date": "20221004",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "여수 원더라움 더힐",
+		"addr": "전라남도 여수시 학용동 산73-3 외 4필지",
+		"short_addr": "전라남도 여수시",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "여수시",
+		"apply_nums": "172세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000644&pblancNo=2022000644&houseSecd=01",
+		"in_date": "20221004",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "군산 한성필하우스",
+		"addr": "전라북도 군산시 요죽길76(오식도동806-3번지)",
+		"short_addr": "전라북도 군산시",
+		"addr_lv1": "전라북도",
+		"addr_lv2": "군산시",
+		"apply_nums": "66세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000664&pblancNo=2022000664&houseSecd=01",
 		"in_date": "20221004",
 		"hsecd": "01",
@@ -362,6 +401,32 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "수원시",
 		"apply_nums": "6세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000654&pblancNo=2022000654&houseSecd=01",
+		"in_date": "20221005",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "e편한세상 사천 스카이마리나",
+		"addr": "경상남도 사천시 용현면 선진리 1116,1117번지",
+		"short_addr": "경상남도 사천시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "사천시",
+		"apply_nums": "1047세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000655&pblancNo=2022000655&houseSecd=01",
+		"in_date": "20221005",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "거창 ES아뜨리움",
+		"addr": "경상남도 거창군 거창읍 대평리 1021-4 일원",
+		"short_addr": "경상남도 거창군",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "거창군",
+		"apply_nums": "76세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000656&pblancNo=2022000656&houseSecd=01",
@@ -390,6 +455,45 @@
 		"apply_nums": "920세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000652&pblancNo=2022000652&houseSecd=01",
+		"in_date": "20221005",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "두류역자이",
+		"addr": "대구광역시 서구 내당동 220-1번지 일원",
+		"short_addr": "대구광역시 서구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "117세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000641&pblancNo=2022000641&houseSecd=01",
+		"in_date": "20221005",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "반월자이 더 파크",
+		"addr": "경기도 화성시 동탄지성로 394(반월동, 반월자이 더파크)",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "118세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000629&pblancNo=2022000629&houseSecd=01",
+		"in_date": "20221005",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "여수 원더라움 더힐",
+		"addr": "전라남도 여수시 학용동 산73-3 외 4필지",
+		"short_addr": "전라남도 여수시",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "여수시",
+		"apply_nums": "172세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000664&pblancNo=2022000664&houseSecd=01",
 		"in_date": "20221005",
 		"hsecd": "01",
@@ -401,6 +505,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "수원시",
 		"apply_nums": "6세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000644&pblancNo=2022000644&houseSecd=01",
+		"in_date": "20221005",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "군산 한성필하우스",
+		"addr": "전라북도 군산시 요죽길76(오식도동806-3번지)",
+		"short_addr": "전라북도 군산시",
+		"addr_lv1": "전라북도",
+		"addr_lv2": "군산시",
+		"apply_nums": "66세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520036&pblancNo=2022520036&houseSecd=09",
@@ -416,6 +533,45 @@
 		"apply_nums": "320세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000641&pblancNo=2022000641&houseSecd=01",
+		"in_date": "20221006",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "반월자이 더 파크",
+		"addr": "경기도 화성시 동탄지성로 394(반월동, 반월자이 더파크)",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "118세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000654&pblancNo=2022000654&houseSecd=01",
+		"in_date": "20221006",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "e편한세상 사천 스카이마리나",
+		"addr": "경상남도 사천시 용현면 선진리 1116,1117번지",
+		"short_addr": "경상남도 사천시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "사천시",
+		"apply_nums": "1047세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000655&pblancNo=2022000655&houseSecd=01",
+		"in_date": "20221006",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "거창 ES아뜨리움",
+		"addr": "경상남도 거창군 거창읍 대평리 1021-4 일원",
+		"short_addr": "경상남도 거창군",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "거창군",
+		"apply_nums": "76세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000656&pblancNo=2022000656&houseSecd=01",
 		"in_date": "20221006",
 		"hsecd": "01",
@@ -440,6 +596,32 @@
 		"addr_lv1": "전라남도",
 		"addr_lv2": "광양시",
 		"apply_nums": "920세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000652&pblancNo=2022000652&houseSecd=01",
+		"in_date": "20221006",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "두류역자이",
+		"addr": "대구광역시 서구 내당동 220-1번지 일원",
+		"short_addr": "대구광역시 서구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "117세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000629&pblancNo=2022000629&houseSecd=01",
+		"in_date": "20221006",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "여수 원더라움 더힐",
+		"addr": "전라남도 여수시 학용동 산73-3 외 4필지",
+		"short_addr": "전라남도 여수시",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "여수시",
+		"apply_nums": "172세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000664&pblancNo=2022000664&houseSecd=01",
@@ -466,6 +648,19 @@
 		"addr_lv1": "경상남도",
 		"addr_lv2": "밀양시",
 		"apply_nums": "320세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000641&pblancNo=2022000641&houseSecd=01",
+		"in_date": "20221007",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "반월자이 더 파크",
+		"addr": "경기도 화성시 동탄지성로 394(반월동, 반월자이 더파크)",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "118세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520036&pblancNo=2022520036&houseSecd=09",
