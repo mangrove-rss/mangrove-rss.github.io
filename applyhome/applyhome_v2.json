@@ -1,58 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000582&pblancNo=2022000582&houseSecd=01",
-		"in_date": "20220921",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "인덕원 자이 SK VIEW",
-		"addr": "경기도 의왕시 내손동 683번지 일원",
-		"short_addr": "경기도 의왕시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "의왕시",
-		"apply_nums": "899세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910297&pblancNo=2022910297&houseSecd=04",
-		"in_date": "20220921",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "e편한세상 옥정 리더스가든(양주시거주자/무주택세대구성원만 해당/재당첨제한 10년)",
-		"addr": "경기도 양주시 옥정동 옥정택지개발지구 A-24BL",
-		"short_addr": "경기도 양주시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "양주시",
-		"apply_nums": "3세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910298&pblancNo=2022910298&houseSecd=04",
-		"in_date": "20220921",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "주안 극동스타클래스 더 로얄",
-		"addr": "인천광역시 미추홀구 주안동 882-1번지",
-		"short_addr": "인천광역시 미추홀구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "미추홀구",
-		"apply_nums": "18세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910304&pblancNo=2022910304&houseSecd=04",
-		"in_date": "20220921",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "한화 포레나 대전월평공원 2단지(무주택자만가능,재당첨제한7년)",
-		"addr": "대전광역시 서구 도마동 산39-1번지 일원",
-		"short_addr": "대전광역시 서구",
-		"addr_lv1": "대전광역시",
-		"addr_lv2": "서구",
-		"apply_nums": "397세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000582&pblancNo=2022000582&houseSecd=01",
 		"in_date": "20220922",
 		"hsecd": "01",
 		"rse": "03",
