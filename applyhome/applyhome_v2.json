@@ -1,18 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000582&pblancNo=2022000582&houseSecd=01",
-		"in_date": "20220922",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "인덕원 자이 SK VIEW",
-		"addr": "경기도 의왕시 내손동 683번지 일원",
-		"short_addr": "경기도 의왕시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "의왕시",
-		"apply_nums": "899세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950094&pblancNo=2022950094&houseSecd=02",
 		"in_date": "20220923",
 		"hsecd": "02",
