@@ -338,6 +338,79 @@
 		"apply_nums": "6세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022850020&pblancNo=2022850020&houseSecd=03",
+		"in_date": "20221004",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "하나스테이 광안"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950097&pblancNo=2022950097&houseSecd=02",
+		"in_date": "20221004",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "e편한세상 시티 청라(151-1)",
+		"addr": "인천광역시 서구 청라동 151-1(A블록)",
+		"short_addr": "인천광역시 서구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "120세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950098&pblancNo=2022950098&houseSecd=02",
+		"in_date": "20221004",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "e편한세상 시티 청라(151-2)",
+		"addr": "인천광역시 서구 청라동 151-2",
+		"short_addr": "인천광역시 서구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "120세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950102&pblancNo=2022950102&houseSecd=02",
+		"in_date": "20221004",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "교대역 하늘채 뉴센트원",
+		"addr": "대구광역시 남구 중앙대로 187, 108동(대명동, 교대역하늘채뉴센트원)",
+		"short_addr": "대구광역시 남구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "28세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910310&pblancNo=2022910310&houseSecd=04",
+		"in_date": "20221004",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "송도 Luxe Ocean SK VIEW(인천시 거주자,세대 전원 무주택자, 계약금20프로/전매제한,재당첨제한7년,청약접수 전 반드시 대표전화 문의)",
+		"addr": "인천광역시 연수구 송도동 396-1(송도랜드마크시티 6, 8공구 A9블록)",
+		"short_addr": "인천광역시 연수구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "연수구",
+		"apply_nums": "2세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910313&pblancNo=2022910313&houseSecd=04",
+		"in_date": "20221004",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "천왕역 모아엘가 트레뷰(청약전 반드시 대표전화 문의, 재당첨제한 10년, 서울거주자/무주택세대구성원만 해당)",
+		"addr": "서울특별시 구로구 오리로7길 4(오류동)",
+		"short_addr": "서울특별시 구로구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "구로구",
+		"apply_nums": "129세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910308&pblancNo=2022910308&houseSecd=04",
 		"in_date": "20221004",
 		"hsecd": "04",
@@ -676,6 +749,19 @@
 		"apply_nums": "1162세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000586&pblancNo=2022000586&houseSecd=01",
+		"in_date": "20221011",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "화성 조암 스위트엠",
+		"addr": "경기도 화성시 우정읍 조암리 453-2번지 일원",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "224세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000533&pblancNo=2022000533&houseSecd=01",
 		"in_date": "20221012",
 		"hsecd": "01",
@@ -702,6 +788,19 @@
 		"apply_nums": "1162세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000586&pblancNo=2022000586&houseSecd=01",
+		"in_date": "20221012",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "화성 조암 스위트엠",
+		"addr": "경기도 화성시 우정읍 조암리 453-2번지 일원",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "224세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000533&pblancNo=2022000533&houseSecd=01",
 		"in_date": "20221013",
 		"hsecd": "01",
@@ -713,6 +812,19 @@
 		"addr_lv1": "대구광역시",
 		"addr_lv2": "서구",
 		"apply_nums": "201세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000586&pblancNo=2022000586&houseSecd=01",
+		"in_date": "20221013",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "화성 조암 스위트엠",
+		"addr": "경기도 화성시 우정읍 조암리 453-2번지 일원",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "224세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000653&pblancNo=2022000653&houseSecd=01",
@@ -739,5 +851,18 @@
 		"addr_lv1": "대구광역시",
 		"addr_lv2": "서구",
 		"apply_nums": "201세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000586&pblancNo=2022000586&houseSecd=01",
+		"in_date": "20221014",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "화성 조암 스위트엠",
+		"addr": "경기도 화성시 우정읍 조암리 453-2번지 일원",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "224세대"
 	}
 ]
