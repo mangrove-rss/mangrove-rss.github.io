@@ -1,161 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000599&pblancNo=2022000599&houseSecd=01",
-		"in_date": "20220927",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "강릉 더리브 퍼스티지 아파트",
-		"addr": "강원도 강릉시 지변동 673번지 일원",
-		"short_addr": "강원도 강릉시",
-		"addr_lv1": "강원도",
-		"addr_lv2": "강릉시",
-		"apply_nums": "176세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000630&pblancNo=2022000630&houseSecd=01",
-		"in_date": "20220927",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "장성 바울루체",
-		"addr": "전라남도 장성군 장성읍 영천리1453-7, 1453-10",
-		"short_addr": "전라남도 장성군",
-		"addr_lv1": "전라남도",
-		"addr_lv2": "장성군",
-		"apply_nums": "70세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000640&pblancNo=2022000640&houseSecd=01",
-		"in_date": "20220927",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "천안 부성지구 우남퍼스트빌",
-		"addr": "충청남도 천안시 서북구 부대동 761(부성지구 도시개발사업구역 A2블록)",
-		"short_addr": "충청남도 천안시",
-		"addr_lv1": "충청남도",
-		"addr_lv2": "천안시",
-		"apply_nums": "316세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950093&pblancNo=2022950093&houseSecd=02",
-		"in_date": "20220927",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "성남 수진역 파라곤",
-		"addr": "경기도 성남시 중원구 성남동 2070외 64필지",
-		"short_addr": "경기도 성남시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "성남시",
-		"apply_nums": "570세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910305&pblancNo=2022910305&houseSecd=04",
-		"in_date": "20220927",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "e편한세상 부평역 센트럴파크(인천시 거주자 / 무주택자만 가능 / 재당첨제한 7년)",
-		"addr": "인천광역시 부평구 부평동 760-700번지 일원",
-		"short_addr": "인천광역시 부평구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "부평구",
-		"apply_nums": "115세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000640&pblancNo=2022000640&houseSecd=01",
-		"in_date": "20220928",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "천안 부성지구 우남퍼스트빌",
-		"addr": "충청남도 천안시 서북구 부대동 761(부성지구 도시개발사업구역 A2블록)",
-		"short_addr": "충청남도 천안시",
-		"addr_lv1": "충청남도",
-		"addr_lv2": "천안시",
-		"apply_nums": "316세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000599&pblancNo=2022000599&houseSecd=01",
-		"in_date": "20220928",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "강릉 더리브 퍼스티지 아파트",
-		"addr": "강원도 강릉시 지변동 673번지 일원",
-		"short_addr": "강원도 강릉시",
-		"addr_lv1": "강원도",
-		"addr_lv2": "강릉시",
-		"apply_nums": "176세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000630&pblancNo=2022000630&houseSecd=01",
-		"in_date": "20220928",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "장성 바울루체",
-		"addr": "전라남도 장성군 장성읍 영천리1453-7, 1453-10",
-		"short_addr": "전라남도 장성군",
-		"addr_lv1": "전라남도",
-		"addr_lv2": "장성군",
-		"apply_nums": "70세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910306&pblancNo=2022910306&houseSecd=04",
-		"in_date": "20220928",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "화성 봉담자이 라젠느(청약전 반드시 대표번호 문의/재당첨제한 7년/화성시 거주자/무주택세대구성원만 가능)",
-		"addr": "경기도 화성시 봉담읍 동화지구 A-1블록",
-		"short_addr": "경기도 화성시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "화성시",
-		"apply_nums": "128세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022930013&pblancNo=2022930013&houseSecd=06",
-		"in_date": "20220928",
-		"hsecd": "06",
-		"rse": "07",
-		"type": "",
-		"name": "힐스테이트 푸르지오 수원(계약취소주택)",
-		"addr": "경기도 수원시 팔달구 교동 155-41번지 일원",
-		"short_addr": "경기도 수원시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "수원시",
-		"apply_nums": "3세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000640&pblancNo=2022000640&houseSecd=01",
-		"in_date": "20220929",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "천안 부성지구 우남퍼스트빌",
-		"addr": "충청남도 천안시 서북구 부대동 761(부성지구 도시개발사업구역 A2블록)",
-		"short_addr": "충청남도 천안시",
-		"addr_lv1": "충청남도",
-		"addr_lv2": "천안시",
-		"apply_nums": "316세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022930013&pblancNo=2022930013&houseSecd=06",
-		"in_date": "20220929",
-		"hsecd": "06",
-		"rse": "07",
-		"type": "",
-		"name": "힐스테이트 푸르지오 수원(계약취소주택)",
-		"addr": "경기도 수원시 팔달구 교동 155-41번지 일원",
-		"short_addr": "경기도 수원시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "수원시",
-		"apply_nums": "3세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000654&pblancNo=2022000654&houseSecd=01",
 		"in_date": "20221004",
 		"hsecd": "01",
@@ -541,6 +385,19 @@
 		"apply_nums": "11세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910315&pblancNo=2022910315&houseSecd=04",
+		"in_date": "20221005",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "창동 다우아트리체 (재당첨제한10년, 서울거주, 무주택자만)",
+		"addr": "서울특별시 도봉구 창동 662-7번지 일원",
+		"short_addr": "서울특별시 도봉구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "도봉구",
+		"apply_nums": "23세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910308&pblancNo=2022910308&houseSecd=04",
 		"in_date": "20221005",
 		"hsecd": "04",
@@ -749,6 +606,19 @@
 		"apply_nums": "545세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000660&pblancNo=2022000660&houseSecd=01",
+		"in_date": "20221011",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "강릉KTX역 경남아너스빌",
+		"addr": "강원도 강릉시 포남동 852번지 일원",
+		"short_addr": "강원도 강릉시",
+		"addr_lv1": "강원도",
+		"addr_lv2": "강릉시",
+		"apply_nums": "167세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000623&pblancNo=2022000623&houseSecd=01",
 		"in_date": "20221011",
 		"hsecd": "01",
@@ -762,6 +632,19 @@
 		"apply_nums": "992세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000651&pblancNo=2022000651&houseSecd=01",
+		"in_date": "20221011",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "더샵 군산프리미엘",
+		"addr": "전라북도 군산시 구암동 317-4 일원",
+		"short_addr": "전라북도 군산시",
+		"addr_lv1": "전라북도",
+		"addr_lv2": "군산시",
+		"apply_nums": "704세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000653&pblancNo=2022000653&houseSecd=01",
 		"in_date": "20221011",
 		"hsecd": "01",
@@ -773,6 +656,19 @@
 		"addr_lv1": "부산광역시",
 		"addr_lv2": "부산진구",
 		"apply_nums": "1162세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000650&pblancNo=2022000650&houseSecd=01",
+		"in_date": "20221011",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "인천 작전 한라비발디",
+		"addr": "인천광역시 계양구 아나지로 341(작전동)",
+		"short_addr": "인천광역시 계양구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "계양구",
+		"apply_nums": "340세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000261&pblancNo=2022000261&houseSecd=01",
@@ -812,6 +708,32 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "화성시",
 		"apply_nums": "224세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520037&pblancNo=2022520037&houseSecd=09",
+		"in_date": "20221011",
+		"hsecd": "09",
+		"rse": "08",
+		"type": "민간사전청약 APT 1순위",
+		"name": "수원 당수지구 C3블록(사전청약)",
+		"addr": "경기도 수원시 권선구 수원당수 공공주택지구 내 C3BL",
+		"short_addr": "경기도 수원시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "수원시",
+		"apply_nums": "385세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520038&pblancNo=2022520038&houseSecd=09",
+		"in_date": "20221011",
+		"hsecd": "09",
+		"rse": "08",
+		"type": "민간사전청약 APT 1순위",
+		"name": "수원 당수지구 D3블록(사전청약)",
+		"addr": "경기도 수원시 권선구 수원당수 공공주택지구 내 D3BL",
+		"short_addr": "경기도 수원시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "수원시",
+		"apply_nums": "593세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000533&pblancNo=2022000533&houseSecd=01",
@@ -853,6 +775,19 @@
 		"apply_nums": "545세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000660&pblancNo=2022000660&houseSecd=01",
+		"in_date": "20221012",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "강릉KTX역 경남아너스빌",
+		"addr": "강원도 강릉시 포남동 852번지 일원",
+		"short_addr": "강원도 강릉시",
+		"addr_lv1": "강원도",
+		"addr_lv2": "강릉시",
+		"apply_nums": "167세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000623&pblancNo=2022000623&houseSecd=01",
 		"in_date": "20221012",
 		"hsecd": "01",
@@ -866,6 +801,19 @@
 		"apply_nums": "992세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000651&pblancNo=2022000651&houseSecd=01",
+		"in_date": "20221012",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "더샵 군산프리미엘",
+		"addr": "전라북도 군산시 구암동 317-4 일원",
+		"short_addr": "전라북도 군산시",
+		"addr_lv1": "전라북도",
+		"addr_lv2": "군산시",
+		"apply_nums": "704세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000653&pblancNo=2022000653&houseSecd=01",
 		"in_date": "20221012",
 		"hsecd": "01",
@@ -877,6 +825,19 @@
 		"addr_lv1": "부산광역시",
 		"addr_lv2": "부산진구",
 		"apply_nums": "1162세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000650&pblancNo=2022000650&houseSecd=01",
+		"in_date": "20221012",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "인천 작전 한라비발디",
+		"addr": "인천광역시 계양구 아나지로 341(작전동)",
+		"short_addr": "인천광역시 계양구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "계양구",
+		"apply_nums": "340세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000261&pblancNo=2022000261&houseSecd=01",
@@ -918,6 +879,32 @@
 		"apply_nums": "224세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520037&pblancNo=2022520037&houseSecd=09",
+		"in_date": "20221012",
+		"hsecd": "09",
+		"rse": "09",
+		"type": "민간사전청약 APT 2순위",
+		"name": "수원 당수지구 C3블록(사전청약)",
+		"addr": "경기도 수원시 권선구 수원당수 공공주택지구 내 C3BL",
+		"short_addr": "경기도 수원시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "수원시",
+		"apply_nums": "385세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520038&pblancNo=2022520038&houseSecd=09",
+		"in_date": "20221012",
+		"hsecd": "09",
+		"rse": "09",
+		"type": "민간사전청약 APT 2순위",
+		"name": "수원 당수지구 D3블록(사전청약)",
+		"addr": "경기도 수원시 권선구 수원당수 공공주택지구 내 D3BL",
+		"short_addr": "경기도 수원시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "수원시",
+		"apply_nums": "593세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000533&pblancNo=2022000533&houseSecd=01",
 		"in_date": "20221013",
 		"hsecd": "01",
@@ -929,6 +916,19 @@
 		"addr_lv1": "대구광역시",
 		"addr_lv2": "서구",
 		"apply_nums": "201세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000650&pblancNo=2022000650&houseSecd=01",
+		"in_date": "20221013",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "인천 작전 한라비발디",
+		"addr": "인천광역시 계양구 아나지로 341(작전동)",
+		"short_addr": "인천광역시 계양구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "계양구",
+		"apply_nums": "340세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000586&pblancNo=2022000586&houseSecd=01",
@@ -970,6 +970,19 @@
 		"apply_nums": "545세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000660&pblancNo=2022000660&houseSecd=01",
+		"in_date": "20221013",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "강릉KTX역 경남아너스빌",
+		"addr": "강원도 강릉시 포남동 852번지 일원",
+		"short_addr": "강원도 강릉시",
+		"addr_lv1": "강원도",
+		"addr_lv2": "강릉시",
+		"apply_nums": "167세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000623&pblancNo=2022000623&houseSecd=01",
 		"in_date": "20221013",
 		"hsecd": "01",
@@ -981,6 +994,19 @@
 		"addr_lv1": "전라남도",
 		"addr_lv2": "광양시",
 		"apply_nums": "992세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000651&pblancNo=2022000651&houseSecd=01",
+		"in_date": "20221013",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "더샵 군산프리미엘",
+		"addr": "전라북도 군산시 구암동 317-4 일원",
+		"short_addr": "전라북도 군산시",
+		"addr_lv1": "전라북도",
+		"addr_lv2": "군산시",
+		"apply_nums": "704세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000653&pblancNo=2022000653&houseSecd=01",
@@ -1020,6 +1046,32 @@
 		"addr_lv1": "경상북도",
 		"addr_lv2": "포항시",
 		"apply_nums": "678세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520037&pblancNo=2022520037&houseSecd=09",
+		"in_date": "20221013",
+		"hsecd": "09",
+		"rse": "10",
+		"type": "민간사전청약 APT",
+		"name": "수원 당수지구 C3블록(사전청약)",
+		"addr": "경기도 수원시 권선구 수원당수 공공주택지구 내 C3BL",
+		"short_addr": "경기도 수원시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "수원시",
+		"apply_nums": "385세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520038&pblancNo=2022520038&houseSecd=09",
+		"in_date": "20221013",
+		"hsecd": "09",
+		"rse": "10",
+		"type": "민간사전청약 APT",
+		"name": "수원 당수지구 D3블록(사전청약)",
+		"addr": "경기도 수원시 권선구 수원당수 공공주택지구 내 D3BL",
+		"short_addr": "경기도 수원시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "수원시",
+		"apply_nums": "593세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000533&pblancNo=2022000533&houseSecd=01",
@@ -1033,6 +1085,19 @@
 		"addr_lv1": "대구광역시",
 		"addr_lv2": "서구",
 		"apply_nums": "201세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000650&pblancNo=2022000650&houseSecd=01",
+		"in_date": "20221014",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "인천 작전 한라비발디",
+		"addr": "인천광역시 계양구 아나지로 341(작전동)",
+		"short_addr": "인천광역시 계양구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "계양구",
+		"apply_nums": "340세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000586&pblancNo=2022000586&houseSecd=01",
