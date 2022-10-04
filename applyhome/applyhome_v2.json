@@ -710,6 +710,19 @@
 		"apply_nums": "224세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950104&pblancNo=2022950104&houseSecd=02",
+		"in_date": "20221011",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "다산 와이시티 어반플랫",
+		"addr": "경기도 남양주시 다산동 668-1번지",
+		"short_addr": "경기도 남양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "남양주시",
+		"apply_nums": "23세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520037&pblancNo=2022520037&houseSecd=09",
 		"in_date": "20221011",
 		"hsecd": "09",
@@ -877,6 +890,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "화성시",
 		"apply_nums": "224세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950104&pblancNo=2022950104&houseSecd=02",
+		"in_date": "20221012",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "다산 와이시티 어반플랫",
+		"addr": "경기도 남양주시 다산동 668-1번지",
+		"short_addr": "경기도 남양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "남양주시",
+		"apply_nums": "23세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520037&pblancNo=2022520037&houseSecd=09",
