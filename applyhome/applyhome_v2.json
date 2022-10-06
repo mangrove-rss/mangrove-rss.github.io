@@ -736,6 +736,32 @@
 		"apply_nums": "23세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910316&pblancNo=2022910316&houseSecd=04",
+		"in_date": "20221011",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "남구로역 동일 센타시아(재당첨제한10년, 서울거주, 무주택세대구성원만 해당)",
+		"addr": "서울특별시 구로구 가리봉동 113-1번지 일원",
+		"short_addr": "서울특별시 구로구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "구로구",
+		"apply_nums": "69세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910317&pblancNo=2022910317&houseSecd=04",
+		"in_date": "20221011",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "송도 센트럴파크 리버리치",
+		"addr": "인천광역시 연수구 송도동 22-12 외 2필지",
+		"short_addr": "인천광역시 연수구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "연수구",
+		"apply_nums": "14세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910314&pblancNo=2022910314&houseSecd=04",
 		"in_date": "20221011",
 		"hsecd": "04",
@@ -773,6 +799,45 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "수원시",
 		"apply_nums": "8세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910318&pblancNo=2022910318&houseSecd=04",
+		"in_date": "20221011",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "한화 포레나 인천구월 (청약전 반드시 대표번호문의, 재당첨제한 7년, 인천거주자/무주택세대구성원만 해당)",
+		"addr": "인천광역시 남동구 구월동 70-16번지 일원",
+		"short_addr": "인천광역시 남동구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "남동구",
+		"apply_nums": "6세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022930014&pblancNo=2022930014&houseSecd=06",
+		"in_date": "20221011",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "과천 푸르지오 라비엔오",
+		"addr": "경기도 과천시 과천대로8길 15(갈현동, 과천푸르지오라비엔오)",
+		"short_addr": "경기도 과천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "과천시",
+		"apply_nums": "8세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022930015&pblancNo=2022930015&houseSecd=06",
+		"in_date": "20221011",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "과천 푸르지오 벨라르테",
+		"addr": "경기도 과천시 과천대로8길 65(갈현동, 과천푸르지오벨라르테)",
+		"short_addr": "경기도 과천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "과천시",
+		"apply_nums": "4세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520037&pblancNo=2022520037&houseSecd=09",
@@ -970,6 +1035,32 @@
 		"apply_nums": "121세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022930014&pblancNo=2022930014&houseSecd=06",
+		"in_date": "20221012",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "과천 푸르지오 라비엔오",
+		"addr": "경기도 과천시 과천대로8길 15(갈현동, 과천푸르지오라비엔오)",
+		"short_addr": "경기도 과천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "과천시",
+		"apply_nums": "8세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022930015&pblancNo=2022930015&houseSecd=06",
+		"in_date": "20221012",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "과천 푸르지오 벨라르테",
+		"addr": "경기도 과천시 과천대로8길 65(갈현동, 과천푸르지오벨라르테)",
+		"short_addr": "경기도 과천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "과천시",
+		"apply_nums": "4세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520037&pblancNo=2022520037&houseSecd=09",
 		"in_date": "20221012",
 		"hsecd": "09",
@@ -1230,6 +1321,19 @@
 		"apply_nums": "224세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000597&pblancNo=2022000597&houseSecd=01",
+		"in_date": "20221017",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "경산 2차 아이파크",
+		"addr": "경상북도 경산시 압량읍 압량리 200번지 일원 ",
+		"short_addr": "경상북도 경산시",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "경산시",
+		"apply_nums": "745세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000637&pblancNo=2022000637&houseSecd=01",
 		"in_date": "20221017",
 		"hsecd": "01",
@@ -1243,6 +1347,19 @@
 		"apply_nums": "94세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000597&pblancNo=2022000597&houseSecd=01",
+		"in_date": "20221018",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "경산 2차 아이파크",
+		"addr": "경상북도 경산시 압량읍 압량리 200번지 일원 ",
+		"short_addr": "경상북도 경산시",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "경산시",
+		"apply_nums": "745세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000637&pblancNo=2022000637&houseSecd=01",
 		"in_date": "20221018",
 		"hsecd": "01",
@@ -1254,6 +1371,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "용인시",
 		"apply_nums": "94세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000597&pblancNo=2022000597&houseSecd=01",
+		"in_date": "20221019",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "경산 2차 아이파크",
+		"addr": "경상북도 경산시 압량읍 압량리 200번지 일원 ",
+		"short_addr": "경상북도 경산시",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "경산시",
+		"apply_nums": "745세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000637&pblancNo=2022000637&houseSecd=01",
