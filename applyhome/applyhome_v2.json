@@ -1009,6 +1009,14 @@
 		"apply_nums": "224세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022850023&pblancNo=2022850023&houseSecd=03",
+		"in_date": "20221012",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "서울은평뉴타운 디에트르 더 퍼스트"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950104&pblancNo=2022950104&houseSecd=02",
 		"in_date": "20221012",
 		"hsecd": "02",
@@ -1033,6 +1041,71 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "중구",
 		"apply_nums": "121세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910320&pblancNo=2022910320&houseSecd=04",
+		"in_date": "20221012",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "수원 아이파크 시티 10단지(재당첨제한 10년 / 수원시거주, 무주택세대구성원만 가능)",
+		"addr": "경기도 수원시 권선구 권선동 1340",
+		"short_addr": "경기도 수원시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "수원시",
+		"apply_nums": "80세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910312&pblancNo=2022910312&houseSecd=04",
+		"in_date": "20221012",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "오산 세교2지구 A10블록 칸타빌 더퍼스트",
+		"addr": "경기도 오산시 세교2지구 A10블록 (누읍동 424-5번지 일원)",
+		"short_addr": "경기도 오산시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "오산시",
+		"apply_nums": "11세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910321&pblancNo=2022910321&houseSecd=04",
+		"in_date": "20221012",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "의정부역 월드메르디앙 스마트시티",
+		"addr": "경기도 의정부시 둔야로 19(의정부동)",
+		"short_addr": "경기도 의정부시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "의정부시",
+		"apply_nums": "2세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910319&pblancNo=2022910319&houseSecd=04",
+		"in_date": "20221012",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "전주 반월동3차 세움펠리피아",
+		"addr": "전라북도 전주시 덕진구 반월동 228-3 외 18필지",
+		"short_addr": "전라북도 전주시",
+		"addr_lv1": "전라북도",
+		"addr_lv2": "전주시",
+		"apply_nums": "62세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910322&pblancNo=2022910322&houseSecd=04",
+		"in_date": "20221012",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "주안 극동스타클래스 더 로얄 (재당첨제한7년, 인천거주자/무주택세대구성원만 해당)",
+		"addr": "인천광역시 미추홀구 주안동 882-1번지",
+		"short_addr": "인천광역시 미추홀구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "미추홀구",
+		"apply_nums": "4세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022930014&pblancNo=2022930014&houseSecd=06",
@@ -1230,6 +1303,14 @@
 		"apply_nums": "678세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022850023&pblancNo=2022850023&houseSecd=03",
+		"in_date": "20221013",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "서울은평뉴타운 디에트르 더 퍼스트"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950103&pblancNo=2022950103&houseSecd=02",
 		"in_date": "20221013",
 		"hsecd": "02",
@@ -1241,6 +1322,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "중구",
 		"apply_nums": "121세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910321&pblancNo=2022910321&houseSecd=04",
+		"in_date": "20221013",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "의정부역 월드메르디앙 스마트시티",
+		"addr": "경기도 의정부시 둔야로 19(의정부동)",
+		"short_addr": "경기도 의정부시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "의정부시",
+		"apply_nums": "2세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520037&pblancNo=2022520037&houseSecd=09",
@@ -1334,6 +1428,45 @@
 		"apply_nums": "745세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000596&pblancNo=2022000596&houseSecd=01",
+		"in_date": "20221017",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "동백호수공원 두산위브더제니스",
+		"addr": "경기도 용인시 기흥구 동백동 478-10",
+		"short_addr": "경기도 용인시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "용인시",
+		"apply_nums": "30세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000672&pblancNo=2022000672&houseSecd=01",
+		"in_date": "20221017",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "익산 중흥S-클래스 퍼스트파크",
+		"addr": "전라북도 익산시 모현동2가 1-5번지 외 50필지",
+		"short_addr": "전라북도 익산시",
+		"addr_lv1": "전라북도",
+		"addr_lv2": "익산시",
+		"apply_nums": "795세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000380&pblancNo=2022000380&houseSecd=01",
+		"in_date": "20221017",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "인천 영종하늘도시 A56블록 호반써밋 스카이센트럴Ⅱ ",
+		"addr": "인천광역시 중구 운남동 1681-2번지",
+		"short_addr": "인천광역시 중구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "583세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000637&pblancNo=2022000637&houseSecd=01",
 		"in_date": "20221017",
 		"hsecd": "01",
@@ -1360,6 +1493,19 @@
 		"apply_nums": "745세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000596&pblancNo=2022000596&houseSecd=01",
+		"in_date": "20221018",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "동백호수공원 두산위브더제니스",
+		"addr": "경기도 용인시 기흥구 동백동 478-10",
+		"short_addr": "경기도 용인시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "용인시",
+		"apply_nums": "30세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000637&pblancNo=2022000637&houseSecd=01",
 		"in_date": "20221018",
 		"hsecd": "01",
@@ -1371,6 +1517,45 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "용인시",
 		"apply_nums": "94세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000672&pblancNo=2022000672&houseSecd=01",
+		"in_date": "20221018",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "익산 중흥S-클래스 퍼스트파크",
+		"addr": "전라북도 익산시 모현동2가 1-5번지 외 50필지",
+		"short_addr": "전라북도 익산시",
+		"addr_lv1": "전라북도",
+		"addr_lv2": "익산시",
+		"apply_nums": "795세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000380&pblancNo=2022000380&houseSecd=01",
+		"in_date": "20221018",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "인천 영종하늘도시 A56블록 호반써밋 스카이센트럴Ⅱ ",
+		"addr": "인천광역시 중구 운남동 1681-2번지",
+		"short_addr": "인천광역시 중구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "583세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000596&pblancNo=2022000596&houseSecd=01",
+		"in_date": "20221019",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "동백호수공원 두산위브더제니스",
+		"addr": "경기도 용인시 기흥구 동백동 478-10",
+		"short_addr": "경기도 용인시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "용인시",
+		"apply_nums": "30세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000597&pblancNo=2022000597&houseSecd=01",
@@ -1397,5 +1582,44 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "용인시",
 		"apply_nums": "94세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000672&pblancNo=2022000672&houseSecd=01",
+		"in_date": "20221019",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "익산 중흥S-클래스 퍼스트파크",
+		"addr": "전라북도 익산시 모현동2가 1-5번지 외 50필지",
+		"short_addr": "전라북도 익산시",
+		"addr_lv1": "전라북도",
+		"addr_lv2": "익산시",
+		"apply_nums": "795세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000380&pblancNo=2022000380&houseSecd=01",
+		"in_date": "20221019",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "인천 영종하늘도시 A56블록 호반써밋 스카이센트럴Ⅱ ",
+		"addr": "인천광역시 중구 운남동 1681-2번지",
+		"short_addr": "인천광역시 중구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "583세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000596&pblancNo=2022000596&houseSecd=01",
+		"in_date": "20221020",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "동백호수공원 두산위브더제니스",
+		"addr": "경기도 용인시 기흥구 동백동 478-10",
+		"short_addr": "경기도 용인시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "용인시",
+		"apply_nums": "30세대"
 	}
 ]
