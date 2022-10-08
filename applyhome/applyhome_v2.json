@@ -1,235 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000654&pblancNo=2022000654&houseSecd=01",
-		"in_date": "20221004",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "e편한세상 사천 스카이마리나",
-		"addr": "경상남도 사천시 용현면 선진리 1116,1117번지",
-		"short_addr": "경상남도 사천시",
-		"addr_lv1": "경상남도",
-		"addr_lv2": "사천시",
-		"apply_nums": "1047세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000655&pblancNo=2022000655&houseSecd=01",
-		"in_date": "20221004",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "거창 ES아뜨리움",
-		"addr": "경상남도 거창군 거창읍 대평리 1021-4 일원",
-		"short_addr": "경상남도 거창군",
-		"addr_lv1": "경상남도",
-		"addr_lv2": "거창군",
-		"apply_nums": "76세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000656&pblancNo=2022000656&houseSecd=01",
-		"in_date": "20221004",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "대구역 센트레빌 더 오페라",
-		"addr": "대구광역시 북구 칠성동2가 302-141번지 일원",
-		"short_addr": "대구광역시 북구",
-		"addr_lv1": "대구광역시",
-		"addr_lv2": "북구",
-		"apply_nums": "245세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000628&pblancNo=2022000628&houseSecd=01",
-		"in_date": "20221004",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "더샵 광양라크포엠",
-		"addr": "전라남도 광양시 마동 348-4번지 일원",
-		"short_addr": "전라남도 광양시",
-		"addr_lv1": "전라남도",
-		"addr_lv2": "광양시",
-		"apply_nums": "920세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000652&pblancNo=2022000652&houseSecd=01",
-		"in_date": "20221004",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "두류역자이",
-		"addr": "대구광역시 서구 내당동 220-1번지 일원",
-		"short_addr": "대구광역시 서구",
-		"addr_lv1": "대구광역시",
-		"addr_lv2": "서구",
-		"apply_nums": "117세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000641&pblancNo=2022000641&houseSecd=01",
-		"in_date": "20221004",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "반월자이 더 파크",
-		"addr": "경기도 화성시 동탄지성로 394(반월동, 반월자이 더파크)",
-		"short_addr": "경기도 화성시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "화성시",
-		"apply_nums": "118세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000629&pblancNo=2022000629&houseSecd=01",
-		"in_date": "20221004",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "여수 원더라움 더힐",
-		"addr": "전라남도 여수시 학용동 산73-3 외 4필지",
-		"short_addr": "전라남도 여수시",
-		"addr_lv1": "전라남도",
-		"addr_lv2": "여수시",
-		"apply_nums": "172세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000649&pblancNo=2022000649&houseSecd=01",
-		"in_date": "20221004",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "음성자이 센트럴시티",
-		"addr": "충청북도 음성군 금왕읍 무극리 504-5번지 일원",
-		"short_addr": "충청북도 음성군",
-		"addr_lv1": "충청북도",
-		"addr_lv2": "음성군",
-		"apply_nums": "1505세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000644&pblancNo=2022000644&houseSecd=01",
-		"in_date": "20221004",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "군산 한성필하우스",
-		"addr": "전라북도 군산시 요죽길76(오식도동806-3번지)",
-		"short_addr": "전라북도 군산시",
-		"addr_lv1": "전라북도",
-		"addr_lv2": "군산시",
-		"apply_nums": "66세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000664&pblancNo=2022000664&houseSecd=01",
-		"in_date": "20221004",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "힐스테이트 푸르지오 수원",
-		"addr": "경기도 수원시 팔달구 교동 155-41번지 일원",
-		"short_addr": "경기도 수원시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "수원시",
-		"apply_nums": "6세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022850020&pblancNo=2022850020&houseSecd=03",
-		"in_date": "20221004",
-		"hsecd": "03",
-		"rse": "04",
-		"type": "",
-		"name": "하나스테이 광안"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950097&pblancNo=2022950097&houseSecd=02",
-		"in_date": "20221004",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "e편한세상 시티 청라(151-1)",
-		"addr": "인천광역시 서구 청라동 151-1(A블록)",
-		"short_addr": "인천광역시 서구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "서구",
-		"apply_nums": "120세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950098&pblancNo=2022950098&houseSecd=02",
-		"in_date": "20221004",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "e편한세상 시티 청라(151-2)",
-		"addr": "인천광역시 서구 청라동 151-2",
-		"short_addr": "인천광역시 서구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "서구",
-		"apply_nums": "120세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950102&pblancNo=2022950102&houseSecd=02",
-		"in_date": "20221004",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "교대역 하늘채 뉴센트원",
-		"addr": "대구광역시 남구 중앙대로 187, 108동(대명동, 교대역하늘채뉴센트원)",
-		"short_addr": "대구광역시 남구",
-		"addr_lv1": "대구광역시",
-		"addr_lv2": "남구",
-		"apply_nums": "28세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910310&pblancNo=2022910310&houseSecd=04",
-		"in_date": "20221004",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "송도 Luxe Ocean SK VIEW(인천시 거주자,세대 전원 무주택자, 계약금20프로/전매제한,재당첨제한7년,청약접수 전 반드시 대표전화 문의)",
-		"addr": "인천광역시 연수구 송도동 396-1(송도랜드마크시티 6, 8공구 A9블록)",
-		"short_addr": "인천광역시 연수구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "연수구",
-		"apply_nums": "2세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910313&pblancNo=2022910313&houseSecd=04",
-		"in_date": "20221004",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "천왕역 모아엘가 트레뷰(청약전 반드시 대표전화 문의, 재당첨제한 10년, 서울거주자/무주택세대구성원만 해당)",
-		"addr": "서울특별시 구로구 오리로7길 4(오류동)",
-		"short_addr": "서울특별시 구로구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "구로구",
-		"apply_nums": "129세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910311&pblancNo=2022910311&houseSecd=04",
-		"in_date": "20221004",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "한화 포레나 대전월평공원 1단지(대전시 거주 무주택자만 가능)",
-		"addr": "대전광역시 서구 정림동 산23-21번지 일원",
-		"short_addr": "대전광역시 서구",
-		"addr_lv1": "대전광역시",
-		"addr_lv2": "서구",
-		"apply_nums": "370세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910308&pblancNo=2022910308&houseSecd=04",
-		"in_date": "20221004",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "현대 프라힐스 소사역 더프라임",
-		"addr": "경기도 부천시 소사본동 70-7외 6필지",
-		"short_addr": "경기도 부천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "부천시",
-		"apply_nums": "15세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000654&pblancNo=2022000654&houseSecd=01",
 		"in_date": "20221005",
 		"hsecd": "01",
 		"rse": "02",
@@ -983,6 +754,19 @@
 		"apply_nums": "748세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000719&pblancNo=2022000719&houseSecd=01",
+		"in_date": "20221012",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "통영더유엘윈썸",
+		"addr": "경상남도 통영시 용남면 원평리 260번지",
+		"short_addr": "경상남도 통영시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "통영시",
+		"apply_nums": "55세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000615&pblancNo=2022000615&houseSecd=01",
 		"in_date": "20221012",
 		"hsecd": "01",
@@ -1017,6 +801,14 @@
 		"name": "서울은평뉴타운 디에트르 더 퍼스트"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022850021&pblancNo=2022850021&houseSecd=03",
+		"in_date": "20221012",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "파주 운정신도시 A31블록 우미린 센터포레"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950104&pblancNo=2022950104&houseSecd=02",
 		"in_date": "20221012",
 		"hsecd": "02",
@@ -1041,6 +833,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "중구",
 		"apply_nums": "121세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950095&pblancNo=2022950095&houseSecd=02",
+		"in_date": "20221012",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "탕정역 한샘바흐하우스 오피스텔",
+		"addr": "충청남도 아산시 탕정면 매곡리 1205번지",
+		"short_addr": "충청남도 아산시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "아산시",
+		"apply_nums": "73세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910320&pblancNo=2022910320&houseSecd=04",
@@ -1290,6 +1095,19 @@
 		"apply_nums": "748세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000719&pblancNo=2022000719&houseSecd=01",
+		"in_date": "20221013",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "통영더유엘윈썸",
+		"addr": "경상남도 통영시 용남면 원평리 260번지",
+		"short_addr": "경상남도 통영시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "통영시",
+		"apply_nums": "55세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000615&pblancNo=2022000615&houseSecd=01",
 		"in_date": "20221013",
 		"hsecd": "01",
@@ -1311,6 +1129,14 @@
 		"name": "서울은평뉴타운 디에트르 더 퍼스트"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022850021&pblancNo=2022850021&houseSecd=03",
+		"in_date": "20221013",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "파주 운정신도시 A31블록 우미린 센터포레"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950103&pblancNo=2022950103&houseSecd=02",
 		"in_date": "20221013",
 		"hsecd": "02",
@@ -1322,6 +1148,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "중구",
 		"apply_nums": "121세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950095&pblancNo=2022950095&houseSecd=02",
+		"in_date": "20221013",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "탕정역 한샘바흐하우스 오피스텔",
+		"addr": "충청남도 아산시 탕정면 매곡리 1205번지",
+		"short_addr": "충청남도 아산시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "아산시",
+		"apply_nums": "73세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910321&pblancNo=2022910321&houseSecd=04",
@@ -1441,6 +1280,19 @@
 		"apply_nums": "30세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000648&pblancNo=2022000648&houseSecd=01",
+		"in_date": "20221017",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "영종국제도시 A26BL 제일풍경채 디오션",
+		"addr": "인천광역시 중구 영종국제도시 A26BL",
+		"short_addr": "인천광역시 중구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "670세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000672&pblancNo=2022000672&houseSecd=01",
 		"in_date": "20221017",
 		"hsecd": "01",
@@ -1465,6 +1317,19 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "중구",
 		"apply_nums": "583세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000677&pblancNo=2022000677&houseSecd=01",
+		"in_date": "20221017",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "평택석정공원 화성파크드림",
+		"addr": "경기도 평택시 장당동 산12-5번지 일원",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "1296세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000637&pblancNo=2022000637&houseSecd=01",
@@ -1519,6 +1384,19 @@
 		"apply_nums": "94세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000648&pblancNo=2022000648&houseSecd=01",
+		"in_date": "20221018",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "영종국제도시 A26BL 제일풍경채 디오션",
+		"addr": "인천광역시 중구 영종국제도시 A26BL",
+		"short_addr": "인천광역시 중구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "670세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000672&pblancNo=2022000672&houseSecd=01",
 		"in_date": "20221018",
 		"hsecd": "01",
@@ -1543,6 +1421,19 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "중구",
 		"apply_nums": "583세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000677&pblancNo=2022000677&houseSecd=01",
+		"in_date": "20221018",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "평택석정공원 화성파크드림",
+		"addr": "경기도 평택시 장당동 산12-5번지 일원",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "1296세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000596&pblancNo=2022000596&houseSecd=01",
@@ -1584,6 +1475,19 @@
 		"apply_nums": "94세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000648&pblancNo=2022000648&houseSecd=01",
+		"in_date": "20221019",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "영종국제도시 A26BL 제일풍경채 디오션",
+		"addr": "인천광역시 중구 영종국제도시 A26BL",
+		"short_addr": "인천광역시 중구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "670세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000672&pblancNo=2022000672&houseSecd=01",
 		"in_date": "20221019",
 		"hsecd": "01",
@@ -1608,6 +1512,19 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "중구",
 		"apply_nums": "583세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000677&pblancNo=2022000677&houseSecd=01",
+		"in_date": "20221019",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "평택석정공원 화성파크드림",
+		"addr": "경기도 평택시 장당동 산12-5번지 일원",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "1296세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000596&pblancNo=2022000596&houseSecd=01",
