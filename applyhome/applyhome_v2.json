@@ -1,31 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000641&pblancNo=2022000641&houseSecd=01",
-		"in_date": "20221007",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "반월자이 더 파크",
-		"addr": "경기도 화성시 동탄지성로 394(반월동, 반월자이 더파크)",
-		"short_addr": "경기도 화성시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "화성시",
-		"apply_nums": "118세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520036&pblancNo=2022520036&houseSecd=09",
-		"in_date": "20221007",
-		"hsecd": "09",
-		"rse": "10",
-		"type": "민간사전청약 APT",
-		"name": "밀양 부북지구 제일풍경채 S-1BL(사전청약)",
-		"addr": "경상남도 밀양시 부북지구내 S-1블록",
-		"short_addr": "경상남도 밀양시",
-		"addr_lv1": "경상남도",
-		"addr_lv2": "밀양시",
-		"apply_nums": "320세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000673&pblancNo=2022000673&houseSecd=01",
 		"in_date": "20221011",
 		"hsecd": "01",
@@ -1020,6 +994,32 @@
 		"apply_nums": "94세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950105&pblancNo=2022950105&houseSecd=02",
+		"in_date": "20221017",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "덕진 광양의 봄 선샤인 민간임대아파트",
+		"addr": "전라남도 광양시 광양읍 용강리 산4-72번지 일원",
+		"short_addr": "전라남도 광양시",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "광양시",
+		"apply_nums": "94세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910324&pblancNo=2022910324&houseSecd=04",
+		"in_date": "20221017",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "소사역 한라비발디 프레스티지",
+		"addr": "경기도 부천시 소사본동 70-12",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "2세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000597&pblancNo=2022000597&houseSecd=01",
 		"in_date": "20221018",
 		"hsecd": "01",
@@ -1111,6 +1111,32 @@
 		"apply_nums": "1296세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950105&pblancNo=2022950105&houseSecd=02",
+		"in_date": "20221018",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "덕진 광양의 봄 선샤인 민간임대아파트",
+		"addr": "전라남도 광양시 광양읍 용강리 산4-72번지 일원",
+		"short_addr": "전라남도 광양시",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "광양시",
+		"apply_nums": "94세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910324&pblancNo=2022910324&houseSecd=04",
+		"in_date": "20221018",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "소사역 한라비발디 프레스티지",
+		"addr": "경기도 부천시 소사본동 70-12",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "2세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000596&pblancNo=2022000596&houseSecd=01",
 		"in_date": "20221019",
 		"hsecd": "01",
@@ -1200,6 +1226,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "평택시",
 		"apply_nums": "1296세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950105&pblancNo=2022950105&houseSecd=02",
+		"in_date": "20221019",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "덕진 광양의 봄 선샤인 민간임대아파트",
+		"addr": "전라남도 광양시 광양읍 용강리 산4-72번지 일원",
+		"short_addr": "전라남도 광양시",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "광양시",
+		"apply_nums": "94세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000596&pblancNo=2022000596&houseSecd=01",
