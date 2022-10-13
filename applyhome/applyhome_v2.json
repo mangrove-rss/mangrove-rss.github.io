@@ -1265,5 +1265,83 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "용인시",
 		"apply_nums": "30세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000558&pblancNo=2022000558&houseSecd=01",
+		"in_date": "20221024",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "신창 유탑 유블레스 리버시티",
+		"addr": "광주광역시 광산구 신창동 산 98-2번지 일원",
+		"short_addr": "광주광역시 광산구",
+		"addr_lv1": "광주광역시",
+		"addr_lv2": "광산구",
+		"apply_nums": "131세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000662&pblancNo=2022000662&houseSecd=01",
+		"in_date": "20221024",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "울산KTX 우방 아이유쉘 퍼스트",
+		"addr": "울산광역시 울주군 삼남읍 신화리 1601-2번지",
+		"short_addr": "울산광역시 울주군",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "울주군",
+		"apply_nums": "344세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000558&pblancNo=2022000558&houseSecd=01",
+		"in_date": "20221025",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "신창 유탑 유블레스 리버시티",
+		"addr": "광주광역시 광산구 신창동 산 98-2번지 일원",
+		"short_addr": "광주광역시 광산구",
+		"addr_lv1": "광주광역시",
+		"addr_lv2": "광산구",
+		"apply_nums": "131세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000662&pblancNo=2022000662&houseSecd=01",
+		"in_date": "20221025",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "울산KTX 우방 아이유쉘 퍼스트",
+		"addr": "울산광역시 울주군 삼남읍 신화리 1601-2번지",
+		"short_addr": "울산광역시 울주군",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "울주군",
+		"apply_nums": "344세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000558&pblancNo=2022000558&houseSecd=01",
+		"in_date": "20221026",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "신창 유탑 유블레스 리버시티",
+		"addr": "광주광역시 광산구 신창동 산 98-2번지 일원",
+		"short_addr": "광주광역시 광산구",
+		"addr_lv1": "광주광역시",
+		"addr_lv2": "광산구",
+		"apply_nums": "131세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000662&pblancNo=2022000662&houseSecd=01",
+		"in_date": "20221026",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "울산KTX 우방 아이유쉘 퍼스트",
+		"addr": "울산광역시 울주군 삼남읍 신화리 1601-2번지",
+		"short_addr": "울산광역시 울주군",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "울주군",
+		"apply_nums": "344세대"
 	}
 ]
