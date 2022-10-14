@@ -1254,6 +1254,19 @@
 		"apply_nums": "94세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910323&pblancNo=2022910323&houseSecd=04",
+		"in_date": "20221019",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "화성 봉담자이 라젠느(청약전 반드시 대표번호 문의/재당첨제한 7년/화성시 거주자/무주택세대구성원만 가능)",
+		"addr": "경기도 화성시 봉담읍 동화지구 A-1블록",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "3세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000596&pblancNo=2022000596&houseSecd=01",
 		"in_date": "20221020",
 		"hsecd": "01",
@@ -1267,6 +1280,32 @@
 		"apply_nums": "30세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000658&pblancNo=2022000658&houseSecd=01",
+		"in_date": "20221024",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "e편한세상 헤이리",
+		"addr": "경기도 파주시 탄현면 축현리 868-6번지 일원",
+		"short_addr": "경기도 파주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "파주시",
+		"apply_nums": "1057세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000710&pblancNo=2022000710&houseSecd=01",
+		"in_date": "20221024",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "문수로 금호어울림 더 퍼스트",
+		"addr": "울산광역시 남구 신정동 1154-7번지 일원",
+		"short_addr": "울산광역시 남구",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "402세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000558&pblancNo=2022000558&houseSecd=01",
 		"in_date": "20221024",
 		"hsecd": "01",
@@ -1291,6 +1330,58 @@
 		"addr_lv1": "울산광역시",
 		"addr_lv2": "울주군",
 		"apply_nums": "344세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000675&pblancNo=2022000675&houseSecd=01",
+		"in_date": "20221024",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "파주운정 경남아너스빌 디원(A18블록)",
+		"addr": "경기도 파주시 파주운정3지구 A18BL 공동주택용지",
+		"short_addr": "경기도 파주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "파주시",
+		"apply_nums": "499세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000674&pblancNo=2022000674&houseSecd=01",
+		"in_date": "20221024",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "파주운정 경남아너스빌 리버(A48블록)",
+		"addr": "경기도 파주시 파주운정3지구 A48BL 공동주택용지",
+		"short_addr": "경기도 파주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "파주시",
+		"apply_nums": "457세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000658&pblancNo=2022000658&houseSecd=01",
+		"in_date": "20221025",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "e편한세상 헤이리",
+		"addr": "경기도 파주시 탄현면 축현리 868-6번지 일원",
+		"short_addr": "경기도 파주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "파주시",
+		"apply_nums": "1057세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000710&pblancNo=2022000710&houseSecd=01",
+		"in_date": "20221025",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "문수로 금호어울림 더 퍼스트",
+		"addr": "울산광역시 남구 신정동 1154-7번지 일원",
+		"short_addr": "울산광역시 남구",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "402세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000558&pblancNo=2022000558&houseSecd=01",
@@ -1319,6 +1410,58 @@
 		"apply_nums": "344세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000675&pblancNo=2022000675&houseSecd=01",
+		"in_date": "20221025",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "파주운정 경남아너스빌 디원(A18블록)",
+		"addr": "경기도 파주시 파주운정3지구 A18BL 공동주택용지",
+		"short_addr": "경기도 파주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "파주시",
+		"apply_nums": "499세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000674&pblancNo=2022000674&houseSecd=01",
+		"in_date": "20221025",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "파주운정 경남아너스빌 리버(A48블록)",
+		"addr": "경기도 파주시 파주운정3지구 A48BL 공동주택용지",
+		"short_addr": "경기도 파주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "파주시",
+		"apply_nums": "457세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000658&pblancNo=2022000658&houseSecd=01",
+		"in_date": "20221026",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "e편한세상 헤이리",
+		"addr": "경기도 파주시 탄현면 축현리 868-6번지 일원",
+		"short_addr": "경기도 파주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "파주시",
+		"apply_nums": "1057세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000710&pblancNo=2022000710&houseSecd=01",
+		"in_date": "20221026",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "문수로 금호어울림 더 퍼스트",
+		"addr": "울산광역시 남구 신정동 1154-7번지 일원",
+		"short_addr": "울산광역시 남구",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "402세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000558&pblancNo=2022000558&houseSecd=01",
 		"in_date": "20221026",
 		"hsecd": "01",
@@ -1343,5 +1486,31 @@
 		"addr_lv1": "울산광역시",
 		"addr_lv2": "울주군",
 		"apply_nums": "344세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000675&pblancNo=2022000675&houseSecd=01",
+		"in_date": "20221026",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "파주운정 경남아너스빌 디원(A18블록)",
+		"addr": "경기도 파주시 파주운정3지구 A18BL 공동주택용지",
+		"short_addr": "경기도 파주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "파주시",
+		"apply_nums": "499세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000674&pblancNo=2022000674&houseSecd=01",
+		"in_date": "20221026",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "파주운정 경남아너스빌 리버(A48블록)",
+		"addr": "경기도 파주시 파주운정3지구 A48BL 공동주택용지",
+		"short_addr": "경기도 파주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "파주시",
+		"apply_nums": "457세대"
 	}
 ]
