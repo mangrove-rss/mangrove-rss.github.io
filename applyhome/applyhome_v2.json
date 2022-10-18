@@ -1,57 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000637&pblancNo=2022000637&houseSecd=01",
-		"in_date": "20221014",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "동천역 트리너스",
-		"addr": "경기도 용인시 수지구 동천동 177-2번지 외 5필지",
-		"short_addr": "경기도 용인시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "용인시",
-		"apply_nums": "94세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000533&pblancNo=2022000533&houseSecd=01",
-		"in_date": "20221014",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "두류 스타힐스",
-		"addr": "대구광역시 서구 내당동 225-1번지 일원",
-		"short_addr": "대구광역시 서구",
-		"addr_lv1": "대구광역시",
-		"addr_lv2": "서구",
-		"apply_nums": "201세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000650&pblancNo=2022000650&houseSecd=01",
-		"in_date": "20221014",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "인천 작전 한라비발디",
-		"addr": "인천광역시 계양구 아나지로 341(작전동)",
-		"short_addr": "인천광역시 계양구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "계양구",
-		"apply_nums": "340세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000586&pblancNo=2022000586&houseSecd=01",
-		"in_date": "20221014",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "화성 조암 스위트엠",
-		"addr": "경기도 화성시 우정읍 조암리 453-2번지 일원",
-		"short_addr": "경기도 화성시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "화성시",
-		"apply_nums": "224세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000597&pblancNo=2022000597&houseSecd=01",
 		"in_date": "20221017",
 		"hsecd": "01",
@@ -585,6 +533,19 @@
 		"apply_nums": "457세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910326&pblancNo=2022910326&houseSecd=04",
+		"in_date": "20221024",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "마크원 순천",
+		"addr": "전라남도 순천시 석현동 28-1번지외",
+		"short_addr": "전라남도 순천시",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "순천시",
+		"apply_nums": "49세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910325&pblancNo=2022910325&houseSecd=04",
 		"in_date": "20221024",
 		"hsecd": "04",
@@ -739,6 +700,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "파주시",
 		"apply_nums": "457세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910326&pblancNo=2022910326&houseSecd=04",
+		"in_date": "20221025",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "마크원 순천",
+		"addr": "전라남도 순천시 석현동 28-1번지외",
+		"short_addr": "전라남도 순천시",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "순천시",
+		"apply_nums": "49세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000706&pblancNo=2022000706&houseSecd=01",
@@ -897,6 +871,32 @@
 		"apply_nums": "108세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000559&pblancNo=2022000559&houseSecd=01",
+		"in_date": "20221028",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "연수 월드메르디앙 어반포레",
+		"addr": "인천광역시 연수구 동춘동 52-1번지 일원",
+		"short_addr": "인천광역시 연수구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "연수구",
+		"apply_nums": "134세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520043&pblancNo=2022520043&houseSecd=09",
+		"in_date": "20221028",
+		"hsecd": "09",
+		"rse": "08",
+		"type": "민간사전청약 APT 1순위",
+		"name": "원주태장 이에스아뜨리움 A-2블록 (사전청약)",
+		"addr": "강원도 원주시 태장동 2746번지 (A-2BL)",
+		"short_addr": "강원도 원주시",
+		"addr_lv1": "강원도",
+		"addr_lv2": "원주시",
+		"apply_nums": "350세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520040&pblancNo=2022520040&houseSecd=09",
 		"in_date": "20221028",
 		"hsecd": "09",
@@ -910,6 +910,32 @@
 		"apply_nums": "108세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000559&pblancNo=2022000559&houseSecd=01",
+		"in_date": "20221031",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "연수 월드메르디앙 어반포레",
+		"addr": "인천광역시 연수구 동춘동 52-1번지 일원",
+		"short_addr": "인천광역시 연수구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "연수구",
+		"apply_nums": "134세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520043&pblancNo=2022520043&houseSecd=09",
+		"in_date": "20221031",
+		"hsecd": "09",
+		"rse": "09",
+		"type": "민간사전청약 APT 2순위",
+		"name": "원주태장 이에스아뜨리움 A-2블록 (사전청약)",
+		"addr": "강원도 원주시 태장동 2746번지 (A-2BL)",
+		"short_addr": "강원도 원주시",
+		"addr_lv1": "강원도",
+		"addr_lv2": "원주시",
+		"apply_nums": "350세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520040&pblancNo=2022520040&houseSecd=09",
 		"in_date": "20221031",
 		"hsecd": "09",
@@ -921,5 +947,44 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "화성시",
 		"apply_nums": "108세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000559&pblancNo=2022000559&houseSecd=01",
+		"in_date": "20221101",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "연수 월드메르디앙 어반포레",
+		"addr": "인천광역시 연수구 동춘동 52-1번지 일원",
+		"short_addr": "인천광역시 연수구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "연수구",
+		"apply_nums": "134세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520043&pblancNo=2022520043&houseSecd=09",
+		"in_date": "20221101",
+		"hsecd": "09",
+		"rse": "10",
+		"type": "민간사전청약 APT",
+		"name": "원주태장 이에스아뜨리움 A-2블록 (사전청약)",
+		"addr": "강원도 원주시 태장동 2746번지 (A-2BL)",
+		"short_addr": "강원도 원주시",
+		"addr_lv1": "강원도",
+		"addr_lv2": "원주시",
+		"apply_nums": "350세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000559&pblancNo=2022000559&houseSecd=01",
+		"in_date": "20221102",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "연수 월드메르디앙 어반포레",
+		"addr": "인천광역시 연수구 동춘동 52-1번지 일원",
+		"short_addr": "인천광역시 연수구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "연수구",
+		"apply_nums": "134세대"
 	}
 ]
