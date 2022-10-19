@@ -546,6 +546,19 @@
 		"apply_nums": "49세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910329&pblancNo=2022910329&houseSecd=04",
+		"in_date": "20221024",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "심곡본동 한울 에이치밸리움 디그니어스",
+		"addr": "경기도 부천시 심곡본동 660-2번지",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "2세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910325&pblancNo=2022910325&houseSecd=04",
 		"in_date": "20221024",
 		"hsecd": "04",
@@ -557,6 +570,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "안양시",
 		"apply_nums": "111세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910327&pblancNo=2022910327&houseSecd=04",
+		"in_date": "20221024",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "현대 프라힐스 소사역 더프라임",
+		"addr": "경기도 부천시 소사본동 70-7외 6필지",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "5세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000706&pblancNo=2022000706&houseSecd=01",
@@ -713,6 +739,19 @@
 		"addr_lv1": "전라남도",
 		"addr_lv2": "순천시",
 		"apply_nums": "49세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910327&pblancNo=2022910327&houseSecd=04",
+		"in_date": "20221025",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "현대 프라힐스 소사역 더프라임",
+		"addr": "경기도 부천시 소사본동 70-7외 6필지",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "5세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000706&pblancNo=2022000706&houseSecd=01",
@@ -923,6 +962,45 @@
 		"apply_nums": "134세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520039&pblancNo=2022520039&houseSecd=09",
+		"in_date": "20221031",
+		"hsecd": "09",
+		"rse": "08",
+		"type": "민간사전청약 APT 1순위",
+		"name": "경산 대임지구 B3 BL 라온프라이빗(사전청약)",
+		"addr": "경상북도 경산시 대임지구 B3블록",
+		"short_addr": "경상북도 경산시",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "경산시",
+		"apply_nums": "505세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520041&pblancNo=2022520041&houseSecd=09",
+		"in_date": "20221031",
+		"hsecd": "09",
+		"rse": "08",
+		"type": "민간사전청약 APT 1순위",
+		"name": "경산 대임지구 제일풍경채 S-1BL(사전청약)",
+		"addr": "경상북도 경산시 대임지구 S-1블록 (경상북도 경산시 임당동 일원)",
+		"short_addr": "경상북도 경산시",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "경산시",
+		"apply_nums": "507세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520042&pblancNo=2022520042&houseSecd=09",
+		"in_date": "20221031",
+		"hsecd": "09",
+		"rse": "08",
+		"type": "민간사전청약 APT 1순위",
+		"name": "경산대임지구 M1BL 반도유보라(사전청약)",
+		"addr": "경상북도 경산시 대임지구 M1BL",
+		"short_addr": "경상북도 경산시",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "경산시",
+		"apply_nums": "228세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520043&pblancNo=2022520043&houseSecd=09",
 		"in_date": "20221031",
 		"hsecd": "09",
@@ -962,6 +1040,45 @@
 		"apply_nums": "134세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520039&pblancNo=2022520039&houseSecd=09",
+		"in_date": "20221101",
+		"hsecd": "09",
+		"rse": "09",
+		"type": "민간사전청약 APT 2순위",
+		"name": "경산 대임지구 B3 BL 라온프라이빗(사전청약)",
+		"addr": "경상북도 경산시 대임지구 B3블록",
+		"short_addr": "경상북도 경산시",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "경산시",
+		"apply_nums": "505세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520041&pblancNo=2022520041&houseSecd=09",
+		"in_date": "20221101",
+		"hsecd": "09",
+		"rse": "09",
+		"type": "민간사전청약 APT 2순위",
+		"name": "경산 대임지구 제일풍경채 S-1BL(사전청약)",
+		"addr": "경상북도 경산시 대임지구 S-1블록 (경상북도 경산시 임당동 일원)",
+		"short_addr": "경상북도 경산시",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "경산시",
+		"apply_nums": "507세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520042&pblancNo=2022520042&houseSecd=09",
+		"in_date": "20221101",
+		"hsecd": "09",
+		"rse": "09",
+		"type": "민간사전청약 APT 2순위",
+		"name": "경산대임지구 M1BL 반도유보라(사전청약)",
+		"addr": "경상북도 경산시 대임지구 M1BL",
+		"short_addr": "경상북도 경산시",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "경산시",
+		"apply_nums": "228세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520043&pblancNo=2022520043&houseSecd=09",
 		"in_date": "20221101",
 		"hsecd": "09",
@@ -986,5 +1103,44 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "연수구",
 		"apply_nums": "134세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520039&pblancNo=2022520039&houseSecd=09",
+		"in_date": "20221102",
+		"hsecd": "09",
+		"rse": "10",
+		"type": "민간사전청약 APT",
+		"name": "경산 대임지구 B3 BL 라온프라이빗(사전청약)",
+		"addr": "경상북도 경산시 대임지구 B3블록",
+		"short_addr": "경상북도 경산시",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "경산시",
+		"apply_nums": "505세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520041&pblancNo=2022520041&houseSecd=09",
+		"in_date": "20221102",
+		"hsecd": "09",
+		"rse": "10",
+		"type": "민간사전청약 APT",
+		"name": "경산 대임지구 제일풍경채 S-1BL(사전청약)",
+		"addr": "경상북도 경산시 대임지구 S-1블록 (경상북도 경산시 임당동 일원)",
+		"short_addr": "경상북도 경산시",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "경산시",
+		"apply_nums": "507세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520042&pblancNo=2022520042&houseSecd=09",
+		"in_date": "20221102",
+		"hsecd": "09",
+		"rse": "10",
+		"type": "민간사전청약 APT",
+		"name": "경산대임지구 M1BL 반도유보라(사전청약)",
+		"addr": "경상북도 경산시 대임지구 M1BL",
+		"short_addr": "경상북도 경산시",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "경산시",
+		"apply_nums": "228세대"
 	}
 ]
