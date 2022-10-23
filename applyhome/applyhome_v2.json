@@ -1,252 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000597&pblancNo=2022000597&houseSecd=01",
-		"in_date": "20221018",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "경산 2차 아이파크",
-		"addr": "경상북도 경산시 압량읍 압량리 200번지 일원 ",
-		"short_addr": "경상북도 경산시",
-		"addr_lv1": "경상북도",
-		"addr_lv2": "경산시",
-		"apply_nums": "745세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000596&pblancNo=2022000596&houseSecd=01",
-		"in_date": "20221018",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "동백호수공원 두산위브더제니스",
-		"addr": "경기도 용인시 기흥구 동백동 478-10",
-		"short_addr": "경기도 용인시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "용인시",
-		"apply_nums": "30세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000637&pblancNo=2022000637&houseSecd=01",
-		"in_date": "20221018",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "동천역 트리너스",
-		"addr": "경기도 용인시 수지구 동천동 177-2번지 외 5필지",
-		"short_addr": "경기도 용인시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "용인시",
-		"apply_nums": "94세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000648&pblancNo=2022000648&houseSecd=01",
-		"in_date": "20221018",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "영종국제도시 A26BL 제일풍경채 디오션",
-		"addr": "인천광역시 중구 영종국제도시 A26BL",
-		"short_addr": "인천광역시 중구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "중구",
-		"apply_nums": "670세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000672&pblancNo=2022000672&houseSecd=01",
-		"in_date": "20221018",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "익산 중흥S-클래스 퍼스트파크",
-		"addr": "전라북도 익산시 모현동2가 1-5번지 외 50필지",
-		"short_addr": "전라북도 익산시",
-		"addr_lv1": "전라북도",
-		"addr_lv2": "익산시",
-		"apply_nums": "795세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000380&pblancNo=2022000380&houseSecd=01",
-		"in_date": "20221018",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "인천 영종하늘도시 A56블록 호반써밋 스카이센트럴Ⅱ ",
-		"addr": "인천광역시 중구 운남동 1681-2번지",
-		"short_addr": "인천광역시 중구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "중구",
-		"apply_nums": "583세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000677&pblancNo=2022000677&houseSecd=01",
-		"in_date": "20221018",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "평택석정공원 화성파크드림",
-		"addr": "경기도 평택시 장당동 산12-5번지 일원",
-		"short_addr": "경기도 평택시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "평택시",
-		"apply_nums": "1296세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950105&pblancNo=2022950105&houseSecd=02",
-		"in_date": "20221018",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "덕진 광양의 봄 선샤인 민간임대아파트",
-		"addr": "전라남도 광양시 광양읍 용강리 산4-72번지 일원",
-		"short_addr": "전라남도 광양시",
-		"addr_lv1": "전라남도",
-		"addr_lv2": "광양시",
-		"apply_nums": "94세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910324&pblancNo=2022910324&houseSecd=04",
-		"in_date": "20221018",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "소사역 한라비발디 프레스티지",
-		"addr": "경기도 부천시 소사본동 70-12",
-		"short_addr": "경기도 부천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "부천시",
-		"apply_nums": "2세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000596&pblancNo=2022000596&houseSecd=01",
-		"in_date": "20221019",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "동백호수공원 두산위브더제니스",
-		"addr": "경기도 용인시 기흥구 동백동 478-10",
-		"short_addr": "경기도 용인시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "용인시",
-		"apply_nums": "30세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000597&pblancNo=2022000597&houseSecd=01",
-		"in_date": "20221019",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "경산 2차 아이파크",
-		"addr": "경상북도 경산시 압량읍 압량리 200번지 일원 ",
-		"short_addr": "경상북도 경산시",
-		"addr_lv1": "경상북도",
-		"addr_lv2": "경산시",
-		"apply_nums": "745세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000637&pblancNo=2022000637&houseSecd=01",
-		"in_date": "20221019",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "동천역 트리너스",
-		"addr": "경기도 용인시 수지구 동천동 177-2번지 외 5필지",
-		"short_addr": "경기도 용인시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "용인시",
-		"apply_nums": "94세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000648&pblancNo=2022000648&houseSecd=01",
-		"in_date": "20221019",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "영종국제도시 A26BL 제일풍경채 디오션",
-		"addr": "인천광역시 중구 영종국제도시 A26BL",
-		"short_addr": "인천광역시 중구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "중구",
-		"apply_nums": "670세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000672&pblancNo=2022000672&houseSecd=01",
-		"in_date": "20221019",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "익산 중흥S-클래스 퍼스트파크",
-		"addr": "전라북도 익산시 모현동2가 1-5번지 외 50필지",
-		"short_addr": "전라북도 익산시",
-		"addr_lv1": "전라북도",
-		"addr_lv2": "익산시",
-		"apply_nums": "795세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000380&pblancNo=2022000380&houseSecd=01",
-		"in_date": "20221019",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "인천 영종하늘도시 A56블록 호반써밋 스카이센트럴Ⅱ ",
-		"addr": "인천광역시 중구 운남동 1681-2번지",
-		"short_addr": "인천광역시 중구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "중구",
-		"apply_nums": "583세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000677&pblancNo=2022000677&houseSecd=01",
-		"in_date": "20221019",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "평택석정공원 화성파크드림",
-		"addr": "경기도 평택시 장당동 산12-5번지 일원",
-		"short_addr": "경기도 평택시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "평택시",
-		"apply_nums": "1296세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950105&pblancNo=2022950105&houseSecd=02",
-		"in_date": "20221019",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "덕진 광양의 봄 선샤인 민간임대아파트",
-		"addr": "전라남도 광양시 광양읍 용강리 산4-72번지 일원",
-		"short_addr": "전라남도 광양시",
-		"addr_lv1": "전라남도",
-		"addr_lv2": "광양시",
-		"apply_nums": "94세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950106&pblancNo=2022950106&houseSecd=02",
-		"in_date": "20221019",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "익산 중흥S-클래스 퍼스트파크 (민간임대)",
-		"addr": "전라북도 익산시 모현동2가 1-5번지 외 50필지",
-		"short_addr": "전라북도 익산시",
-		"addr_lv1": "전라북도",
-		"addr_lv2": "익산시",
-		"apply_nums": "31세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910323&pblancNo=2022910323&houseSecd=04",
-		"in_date": "20221019",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "화성 봉담자이 라젠느(청약전 반드시 대표번호 문의/재당첨제한 7년/화성시 거주자/무주택세대구성원만 가능)",
-		"addr": "경기도 화성시 봉담읍 동화지구 A-1블록",
-		"short_addr": "경기도 화성시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "화성시",
-		"apply_nums": "3세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000596&pblancNo=2022000596&houseSecd=01",
 		"in_date": "20221020",
 		"hsecd": "01",
@@ -793,6 +546,14 @@
 		"apply_nums": "457세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022850022&pblancNo=2022850022&houseSecd=03",
+		"in_date": "20221026",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "인천 검단신도시 AB5BL 한신더휴 어반파크"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910328&pblancNo=2022910328&houseSecd=04",
 		"in_date": "20221026",
 		"hsecd": "04",
@@ -819,6 +580,40 @@
 		"apply_nums": "2세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022850022&pblancNo=2022850022&houseSecd=03",
+		"in_date": "20221027",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "인천 검단신도시 AB5BL 한신더휴 어반파크"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022930016&pblancNo=2022930016&houseSecd=06",
+		"in_date": "20221027",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "광양센트럴자이",
+		"addr": "전라남도 광양시 성황수동로 21일원 (광양센트럴자이 아파트)",
+		"short_addr": "전라남도 광양시",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "광양시",
+		"apply_nums": "25세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022930017&pblancNo=2022930017&houseSecd=06",
+		"in_date": "20221027",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "광양푸르지오더퍼스트",
+		"addr": "전라남도 광양시 성황수동로 22일원 (광양푸르지오 더 퍼스트 아파트)",
+		"short_addr": "전라남도 광양시",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "광양시",
+		"apply_nums": "1세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022930012&pblancNo=2022930012&houseSecd=06",
 		"in_date": "20221027",
 		"hsecd": "06",
@@ -858,6 +653,19 @@
 		"apply_nums": "134세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022930016&pblancNo=2022930016&houseSecd=06",
+		"in_date": "20221028",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "광양센트럴자이",
+		"addr": "전라남도 광양시 성황수동로 21일원 (광양센트럴자이 아파트)",
+		"short_addr": "전라남도 광양시",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "광양시",
+		"apply_nums": "25세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520043&pblancNo=2022520043&houseSecd=09",
 		"in_date": "20221028",
 		"hsecd": "09",
@@ -897,6 +705,45 @@
 		"apply_nums": "800세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000714&pblancNo=2022000714&houseSecd=01",
+		"in_date": "20221031",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "e편한세상 홍성 더센트럴",
+		"addr": "충청남도 홍성군 홍성읍 월산리 906번지 일원",
+		"short_addr": "충청남도 홍성군",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "홍성군",
+		"apply_nums": "470세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000720&pblancNo=2022000720&houseSecd=01",
+		"in_date": "20221031",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "광주 더파크 비스타 데시앙",
+		"addr": "경기도 광주시 역동 산 1-39외 17필지",
+		"short_addr": "경기도 광주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "광주시",
+		"apply_nums": "1690세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000733&pblancNo=2022000733&houseSecd=01",
+		"in_date": "20221031",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "덕소 강변 신일해피트리",
+		"addr": "경기도 남양주시 와부읍 덕소리 513번지",
+		"short_addr": "경기도 남양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "남양주시",
+		"apply_nums": "114세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000678&pblancNo=2022000678&houseSecd=01",
 		"in_date": "20221031",
 		"hsecd": "01",
@@ -923,6 +770,32 @@
 		"apply_nums": "972세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000752&pblancNo=2022000752&houseSecd=01",
+		"in_date": "20221031",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "오산 SK VIEW 1차",
+		"addr": "경기도 오산시 오산세교2지구 A19블럭",
+		"short_addr": "경기도 오산시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "오산시",
+		"apply_nums": "264세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000753&pblancNo=2022000753&houseSecd=01",
+		"in_date": "20221031",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "오산 SK VIEW 2차",
+		"addr": "경기도 오산시 오산세교2지구 A18블럭",
+		"short_addr": "경기도 오산시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "오산시",
+		"apply_nums": "380세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000732&pblancNo=2022000732&houseSecd=01",
 		"in_date": "20221031",
 		"hsecd": "01",
@@ -947,6 +820,19 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "연수구",
 		"apply_nums": "134세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000723&pblancNo=2022000723&houseSecd=01",
+		"in_date": "20221031",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "음성 우미린 풀하우스",
+		"addr": "충청북도 음성군 대소면 성본산업단지 B4블록",
+		"short_addr": "충청북도 음성군",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "음성군",
+		"apply_nums": "1019세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520039&pblancNo=2022520039&houseSecd=09",
@@ -1027,6 +913,45 @@
 		"apply_nums": "800세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000714&pblancNo=2022000714&houseSecd=01",
+		"in_date": "20221101",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "e편한세상 홍성 더센트럴",
+		"addr": "충청남도 홍성군 홍성읍 월산리 906번지 일원",
+		"short_addr": "충청남도 홍성군",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "홍성군",
+		"apply_nums": "470세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000720&pblancNo=2022000720&houseSecd=01",
+		"in_date": "20221101",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "광주 더파크 비스타 데시앙",
+		"addr": "경기도 광주시 역동 산 1-39외 17필지",
+		"short_addr": "경기도 광주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "광주시",
+		"apply_nums": "1690세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000733&pblancNo=2022000733&houseSecd=01",
+		"in_date": "20221101",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "덕소 강변 신일해피트리",
+		"addr": "경기도 남양주시 와부읍 덕소리 513번지",
+		"short_addr": "경기도 남양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "남양주시",
+		"apply_nums": "114세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000678&pblancNo=2022000678&houseSecd=01",
 		"in_date": "20221101",
 		"hsecd": "01",
@@ -1066,6 +991,32 @@
 		"apply_nums": "134세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000752&pblancNo=2022000752&houseSecd=01",
+		"in_date": "20221101",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "오산 SK VIEW 1차",
+		"addr": "경기도 오산시 오산세교2지구 A19블럭",
+		"short_addr": "경기도 오산시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "오산시",
+		"apply_nums": "264세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000753&pblancNo=2022000753&houseSecd=01",
+		"in_date": "20221101",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "오산 SK VIEW 2차",
+		"addr": "경기도 오산시 오산세교2지구 A18블럭",
+		"short_addr": "경기도 오산시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "오산시",
+		"apply_nums": "380세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000732&pblancNo=2022000732&houseSecd=01",
 		"in_date": "20221101",
 		"hsecd": "01",
@@ -1077,6 +1028,19 @@
 		"addr_lv1": "제주특별자치도",
 		"addr_lv2": "제주시",
 		"apply_nums": "93세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000723&pblancNo=2022000723&houseSecd=01",
+		"in_date": "20221101",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "음성 우미린 풀하우스",
+		"addr": "충청북도 음성군 대소면 성본산업단지 B4블록",
+		"short_addr": "충청북도 음성군",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "음성군",
+		"apply_nums": "1019세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520039&pblancNo=2022520039&houseSecd=09",
@@ -1131,6 +1095,32 @@
 		"apply_nums": "350세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000720&pblancNo=2022000720&houseSecd=01",
+		"in_date": "20221102",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "광주 더파크 비스타 데시앙",
+		"addr": "경기도 광주시 역동 산 1-39외 17필지",
+		"short_addr": "경기도 광주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "광주시",
+		"apply_nums": "1690세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000733&pblancNo=2022000733&houseSecd=01",
+		"in_date": "20221102",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "덕소 강변 신일해피트리",
+		"addr": "경기도 남양주시 와부읍 덕소리 513번지",
+		"short_addr": "경기도 남양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "남양주시",
+		"apply_nums": "114세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000748&pblancNo=2022000748&houseSecd=01",
 		"in_date": "20221102",
 		"hsecd": "01",
@@ -1142,6 +1132,19 @@
 		"addr_lv1": "전라북도",
 		"addr_lv2": "군산시",
 		"apply_nums": "800세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000714&pblancNo=2022000714&houseSecd=01",
+		"in_date": "20221102",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "e편한세상 홍성 더센트럴",
+		"addr": "충청남도 홍성군 홍성읍 월산리 906번지 일원",
+		"short_addr": "충청남도 홍성군",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "홍성군",
+		"apply_nums": "470세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000678&pblancNo=2022000678&houseSecd=01",
@@ -1183,6 +1186,32 @@
 		"apply_nums": "134세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000752&pblancNo=2022000752&houseSecd=01",
+		"in_date": "20221102",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "오산 SK VIEW 1차",
+		"addr": "경기도 오산시 오산세교2지구 A19블럭",
+		"short_addr": "경기도 오산시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "오산시",
+		"apply_nums": "264세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000753&pblancNo=2022000753&houseSecd=01",
+		"in_date": "20221102",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "오산 SK VIEW 2차",
+		"addr": "경기도 오산시 오산세교2지구 A18블럭",
+		"short_addr": "경기도 오산시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "오산시",
+		"apply_nums": "380세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520039&pblancNo=2022520039&houseSecd=09",
 		"in_date": "20221102",
 		"hsecd": "09",
@@ -1220,5 +1249,31 @@
 		"addr_lv1": "경상북도",
 		"addr_lv2": "경산시",
 		"apply_nums": "228세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000720&pblancNo=2022000720&houseSecd=01",
+		"in_date": "20221103",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "광주 더파크 비스타 데시앙",
+		"addr": "경기도 광주시 역동 산 1-39외 17필지",
+		"short_addr": "경기도 광주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "광주시",
+		"apply_nums": "1690세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000733&pblancNo=2022000733&houseSecd=01",
+		"in_date": "20221103",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "덕소 강변 신일해피트리",
+		"addr": "경기도 남양주시 와부읍 덕소리 513번지",
+		"short_addr": "경기도 남양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "남양주시",
+		"apply_nums": "114세대"
 	}
 ]
