@@ -1,18 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000596&pblancNo=2022000596&houseSecd=01",
-		"in_date": "20221020",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "동백호수공원 두산위브더제니스",
-		"addr": "경기도 용인시 기흥구 동백동 478-10",
-		"short_addr": "경기도 용인시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "용인시",
-		"apply_nums": "30세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000706&pblancNo=2022000706&houseSecd=01",
 		"in_date": "20221024",
 		"hsecd": "01",
