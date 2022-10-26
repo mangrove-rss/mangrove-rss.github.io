@@ -822,6 +822,19 @@
 		"apply_nums": "1019세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950099&pblancNo=2022950099&houseSecd=02",
+		"in_date": "20221031",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "아크로 여의도 더원",
+		"addr": "서울특별시 영등포구 여의도동 25-11",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "492세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520039&pblancNo=2022520039&houseSecd=09",
 		"in_date": "20221031",
 		"hsecd": "09",
