@@ -1,201 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000706&pblancNo=2022000706&houseSecd=01",
-		"in_date": "20221025",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "e편한세상 탕정 퍼스트드림(2-A10블록) 공공분양주택",
-		"addr": "충청남도 아산시 배방읍 세교리 1605",
-		"short_addr": "충청남도 아산시",
-		"addr_lv1": "충청남도",
-		"addr_lv2": "아산시",
-		"apply_nums": "893세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000658&pblancNo=2022000658&houseSecd=01",
-		"in_date": "20221025",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "e편한세상 헤이리",
-		"addr": "경기도 파주시 탄현면 축현리 868-6번지 일원",
-		"short_addr": "경기도 파주시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "파주시",
-		"apply_nums": "1057세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000722&pblancNo=2022000722&houseSecd=01",
-		"in_date": "20221025",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "더샵 신부센트라",
-		"addr": "충청남도 천안시 동남구 신부동 293번지 일원",
-		"short_addr": "충청남도 천안시",
-		"addr_lv1": "충청남도",
-		"addr_lv2": "천안시",
-		"apply_nums": "592세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000709&pblancNo=2022000709&houseSecd=01",
-		"in_date": "20221025",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "도안 우미린 트리쉐이드",
-		"addr": "대전광역시 유성구 용계동 산27-1번지 일원",
-		"short_addr": "대전광역시 유성구",
-		"addr_lv1": "대전광역시",
-		"addr_lv2": "유성구",
-		"apply_nums": "1375세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000710&pblancNo=2022000710&houseSecd=01",
-		"in_date": "20221025",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "문수로 금호어울림 더 퍼스트",
-		"addr": "울산광역시 남구 신정동 1154-7번지 일원",
-		"short_addr": "울산광역시 남구",
-		"addr_lv1": "울산광역시",
-		"addr_lv2": "남구",
-		"apply_nums": "402세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000558&pblancNo=2022000558&houseSecd=01",
-		"in_date": "20221025",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "신창 유탑 유블레스 리버시티",
-		"addr": "광주광역시 광산구 신창동 산 98-2번지 일원",
-		"short_addr": "광주광역시 광산구",
-		"addr_lv1": "광주광역시",
-		"addr_lv2": "광산구",
-		"apply_nums": "131세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000717&pblancNo=2022000717&houseSecd=01",
-		"in_date": "20221025",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "엘리프 아산탕정 공공분양주택",
-		"addr": "충청남도 아산시 배방읍 세교리 아산탕정 2-A8BL",
-		"short_addr": "충청남도 아산시",
-		"addr_lv1": "충청남도",
-		"addr_lv2": "아산시",
-		"apply_nums": "682세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000662&pblancNo=2022000662&houseSecd=01",
-		"in_date": "20221025",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "울산KTX 우방 아이유쉘 퍼스트",
-		"addr": "울산광역시 울주군 삼남읍 신화리 1601-2번지",
-		"short_addr": "울산광역시 울주군",
-		"addr_lv1": "울산광역시",
-		"addr_lv2": "울주군",
-		"apply_nums": "344세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000698&pblancNo=2022000698&houseSecd=01",
-		"in_date": "20221025",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "월배역 우인그레이스",
-		"addr": "대구광역시 달서구 진천동 66-1번지",
-		"short_addr": "대구광역시 달서구",
-		"addr_lv1": "대구광역시",
-		"addr_lv2": "달서구",
-		"apply_nums": "48세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000675&pblancNo=2022000675&houseSecd=01",
-		"in_date": "20221025",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "파주운정 경남아너스빌 디원(A18블록)",
-		"addr": "경기도 파주시 파주운정3지구 A18BL 공동주택용지",
-		"short_addr": "경기도 파주시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "파주시",
-		"apply_nums": "499세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000674&pblancNo=2022000674&houseSecd=01",
-		"in_date": "20221025",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "파주운정 경남아너스빌 리버(A48블록)",
-		"addr": "경기도 파주시 파주운정3지구 A48BL 공동주택용지",
-		"short_addr": "경기도 파주시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "파주시",
-		"apply_nums": "457세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910326&pblancNo=2022910326&houseSecd=04",
-		"in_date": "20221025",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "마크원 순천",
-		"addr": "전라남도 순천시 석현동 28-1번지외",
-		"short_addr": "전라남도 순천시",
-		"addr_lv1": "전라남도",
-		"addr_lv2": "순천시",
-		"apply_nums": "49세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910331&pblancNo=2022910331&houseSecd=04",
-		"in_date": "20221025",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "송도 Luxe Ocean SK VIEW(인천시 거주자,세대 전원 무주택자, 계약금20프로/전매제한,재당첨제한7년,청약접수 전 반드시 대표전화 문의)",
-		"addr": "인천광역시 연수구 송도동 396-1(송도랜드마크시티 6, 8공구 A9블록)",
-		"short_addr": "인천광역시 연수구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "연수구",
-		"apply_nums": "2세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910330&pblancNo=2022910330&houseSecd=04",
-		"in_date": "20221025",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "인덕원 자이 SK VIEW (재당첨제한 10년 / 의왕시거주, 무주택세대구성원만 가능)",
-		"addr": "경기도 의왕시 내손동 683번지 일원",
-		"short_addr": "경기도 의왕시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "의왕시",
-		"apply_nums": "508세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910327&pblancNo=2022910327&houseSecd=04",
-		"in_date": "20221025",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "현대 프라힐스 소사역 더프라임",
-		"addr": "경기도 부천시 소사본동 70-7외 6필지",
-		"short_addr": "경기도 부천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "부천시",
-		"apply_nums": "5세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000706&pblancNo=2022000706&houseSecd=01",
 		"in_date": "20221026",
 		"hsecd": "01",
 		"rse": "03",
@@ -1043,6 +848,19 @@
 		"apply_nums": "380세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950109&pblancNo=2022950109&houseSecd=02",
+		"in_date": "20221102",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "목동 더샵 리슈빌 민간임대주택",
+		"addr": "대전광역시 중구 목동 1-95, 101동 (목동 더샵 리슈빌) ",
+		"short_addr": "대전광역시 중구",
+		"addr_lv1": "대전광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "40세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910333&pblancNo=2022910333&houseSecd=04",
 		"in_date": "20221102",
 		"hsecd": "04",
@@ -1160,6 +978,19 @@
 		"apply_nums": "114세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000724&pblancNo=2022000724&houseSecd=01",
+		"in_date": "20221107",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "논산 아이파크",
+		"addr": "충청남도 논산시 대교동 235-1번지 일원 ",
+		"short_addr": "충청남도 논산시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "논산시",
+		"apply_nums": "453세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000746&pblancNo=2022000746&houseSecd=01",
 		"in_date": "20221107",
 		"hsecd": "01",
@@ -1197,6 +1028,32 @@
 		"addr_lv1": "대구광역시",
 		"addr_lv2": "수성구",
 		"apply_nums": "146세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000773&pblancNo=2022000773&houseSecd=01",
+		"in_date": "20221107",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "쌍용 더 플래티넘 여수 35",
+		"addr": "전라남도 여수시 학동 74번지 일원",
+		"short_addr": "전라남도 여수시",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "여수시",
+		"apply_nums": "244세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000743&pblancNo=2022000743&houseSecd=01",
+		"in_date": "20221107",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "아야진 라메르 데시앙",
+		"addr": "강원도 고성군 토성면 아야진리 산21번지 외 44필지",
+		"short_addr": "강원도 고성군",
+		"addr_lv1": "강원도",
+		"addr_lv2": "고성군",
+		"apply_nums": "811세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000716&pblancNo=2022000716&houseSecd=01",
@@ -1288,6 +1145,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "파주시",
 		"apply_nums": "518세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000787&pblancNo=2022000787&houseSecd=01",
+		"in_date": "20221107",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "파주 운정신도시 A49블록 시티프라디움 (본청약)",
+		"addr": "경기도 파주시 운정신도시 A49BL",
+		"short_addr": "경기도 파주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "파주시",
+		"apply_nums": "275세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000730&pblancNo=2022000730&houseSecd=01",
@@ -1329,6 +1199,19 @@
 		"apply_nums": "5세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000724&pblancNo=2022000724&houseSecd=01",
+		"in_date": "20221108",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "논산 아이파크",
+		"addr": "충청남도 논산시 대교동 235-1번지 일원 ",
+		"short_addr": "충청남도 논산시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "논산시",
+		"apply_nums": "453세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000746&pblancNo=2022000746&houseSecd=01",
 		"in_date": "20221108",
 		"hsecd": "01",
@@ -1366,6 +1249,32 @@
 		"addr_lv1": "대구광역시",
 		"addr_lv2": "수성구",
 		"apply_nums": "146세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000773&pblancNo=2022000773&houseSecd=01",
+		"in_date": "20221108",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "쌍용 더 플래티넘 여수 35",
+		"addr": "전라남도 여수시 학동 74번지 일원",
+		"short_addr": "전라남도 여수시",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "여수시",
+		"apply_nums": "244세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000743&pblancNo=2022000743&houseSecd=01",
+		"in_date": "20221108",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "아야진 라메르 데시앙",
+		"addr": "강원도 고성군 토성면 아야진리 산21번지 외 44필지",
+		"short_addr": "강원도 고성군",
+		"addr_lv1": "강원도",
+		"addr_lv2": "고성군",
+		"apply_nums": "811세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000716&pblancNo=2022000716&houseSecd=01",
@@ -1457,6 +1366,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "파주시",
 		"apply_nums": "518세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000787&pblancNo=2022000787&houseSecd=01",
+		"in_date": "20221108",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "파주 운정신도시 A49블록 시티프라디움 (본청약)",
+		"addr": "경기도 파주시 운정신도시 A49BL",
+		"short_addr": "경기도 파주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "파주시",
+		"apply_nums": "275세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000730&pblancNo=2022000730&houseSecd=01",
@@ -1498,6 +1420,19 @@
 		"apply_nums": "5세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000724&pblancNo=2022000724&houseSecd=01",
+		"in_date": "20221109",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "논산 아이파크",
+		"addr": "충청남도 논산시 대교동 235-1번지 일원 ",
+		"short_addr": "충청남도 논산시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "논산시",
+		"apply_nums": "453세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000746&pblancNo=2022000746&houseSecd=01",
 		"in_date": "20221109",
 		"hsecd": "01",
@@ -1535,6 +1470,32 @@
 		"addr_lv1": "대구광역시",
 		"addr_lv2": "수성구",
 		"apply_nums": "146세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000773&pblancNo=2022000773&houseSecd=01",
+		"in_date": "20221109",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "쌍용 더 플래티넘 여수 35",
+		"addr": "전라남도 여수시 학동 74번지 일원",
+		"short_addr": "전라남도 여수시",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "여수시",
+		"apply_nums": "244세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000743&pblancNo=2022000743&houseSecd=01",
+		"in_date": "20221109",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "아야진 라메르 데시앙",
+		"addr": "강원도 고성군 토성면 아야진리 산21번지 외 44필지",
+		"short_addr": "강원도 고성군",
+		"addr_lv1": "강원도",
+		"addr_lv2": "고성군",
+		"apply_nums": "811세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000716&pblancNo=2022000716&houseSecd=01",
@@ -1626,6 +1587,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "파주시",
 		"apply_nums": "518세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000787&pblancNo=2022000787&houseSecd=01",
+		"in_date": "20221109",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "파주 운정신도시 A49블록 시티프라디움 (본청약)",
+		"addr": "경기도 파주시 운정신도시 A49BL",
+		"short_addr": "경기도 파주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "파주시",
+		"apply_nums": "275세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000730&pblancNo=2022000730&houseSecd=01",
