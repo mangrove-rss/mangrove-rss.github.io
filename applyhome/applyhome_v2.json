@@ -1,65 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022850022&pblancNo=2022850022&houseSecd=03",
-		"in_date": "20221027",
-		"hsecd": "03",
-		"rse": "04",
-		"type": "",
-		"name": "인천 검단신도시 AB5BL 한신더휴 어반파크"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022930016&pblancNo=2022930016&houseSecd=06",
-		"in_date": "20221027",
-		"hsecd": "06",
-		"rse": "07",
-		"type": "",
-		"name": "광양센트럴자이",
-		"addr": "전라남도 광양시 성황수동로 21일원 (광양센트럴자이 아파트)",
-		"short_addr": "전라남도 광양시",
-		"addr_lv1": "전라남도",
-		"addr_lv2": "광양시",
-		"apply_nums": "25세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022930017&pblancNo=2022930017&houseSecd=06",
-		"in_date": "20221027",
-		"hsecd": "06",
-		"rse": "07",
-		"type": "",
-		"name": "광양푸르지오더퍼스트",
-		"addr": "전라남도 광양시 성황수동로 22일원 (광양푸르지오 더 퍼스트 아파트)",
-		"short_addr": "전라남도 광양시",
-		"addr_lv1": "전라남도",
-		"addr_lv2": "광양시",
-		"apply_nums": "1세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022930012&pblancNo=2022930012&houseSecd=06",
-		"in_date": "20221027",
-		"hsecd": "06",
-		"rse": "07",
-		"type": "",
-		"name": "송파 시그니처 롯데캐슬",
-		"addr": "서울특별시 송파구 거여동 181, 202번지 일대",
-		"short_addr": "서울특별시 송파구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "송파구",
-		"apply_nums": "2세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022520040&pblancNo=2022520040&houseSecd=09",
-		"in_date": "20221027",
-		"hsecd": "09",
-		"rse": "08",
-		"type": "민간사전청약 APT 1순위",
-		"name": "화성 동탄2 주상복합용지 C28BL 리젠시빌란트(사전청약)",
-		"addr": "경기도 화성시 화성 동탄2지구 C28BL",
-		"short_addr": "경기도 화성시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "화성시",
-		"apply_nums": "108세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000559&pblancNo=2022000559&houseSecd=01",
 		"in_date": "20221028",
 		"hsecd": "01",
@@ -1020,6 +960,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "파주시",
 		"apply_nums": "5세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910338&pblancNo=2022910338&houseSecd=04",
+		"in_date": "20221107",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "수원 아이파크 시티 10단지(재당첨제한 10년 / 수원시거주, 무주택세대구성원만 가능)",
+		"addr": "경기도 수원시 권선구 권선동 1340",
+		"short_addr": "경기도 수원시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "수원시",
+		"apply_nums": "12세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000724&pblancNo=2022000724&houseSecd=01",
