@@ -63,5 +63,11 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ Pacopacomama  102722_726 2022-10-27  등록일  2022.10.28 ]]></showrss:showname>
 		</item>
+		<item>
+			<title><![CDATA[ 1pondo  102722_001 2022-10-27  등록일  2022.10.28 ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih:6b84f29ee14736ced1d8efd0e898595f80ddbfb3 ]]></link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ 1pondo  102722_001 2022-10-27  등록일  2022.10.28 ]]></showrss:showname>
+		</item>
 	</channel>
 </rss>
