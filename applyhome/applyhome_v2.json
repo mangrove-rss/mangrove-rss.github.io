@@ -1,58 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000812&pblancNo=2022000812&houseSecd=01",
-		"in_date": "20221122",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "상무 더로제 아델리움 57 센트리에",
-		"addr": "광주광역시 서구 쌍촌동 997-71번지 외 1필지",
-		"short_addr": "광주광역시 서구",
-		"addr_lv1": "광주광역시",
-		"addr_lv2": "서구",
-		"apply_nums": "144세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000715&pblancNo=2022000715&houseSecd=01",
-		"in_date": "20221122",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "양주 덕정역 한라비발디 퍼스티어",
-		"addr": "경기도 양주시 회정동 194-1번지 일원",
-		"short_addr": "경기도 양주시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "양주시",
-		"apply_nums": "427세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000782&pblancNo=2022000782&houseSecd=01",
-		"in_date": "20221122",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "영주 아이파크",
-		"addr": "경상북도 영주시 휴천동 산1-1번지 일원",
-		"short_addr": "경상북도 영주시",
-		"addr_lv1": "경상북도",
-		"addr_lv2": "영주시",
-		"apply_nums": "428세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000804&pblancNo=2022000804&houseSecd=01",
-		"in_date": "20221122",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "원주혁신도시 복합2블록 유승한내들 더스카이",
-		"addr": "강원도 원주시 반곡동 1833",
-		"short_addr": "강원도 원주시",
-		"addr_lv1": "강원도",
-		"addr_lv2": "원주시",
-		"apply_nums": "386세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000812&pblancNo=2022000812&houseSecd=01",
 		"in_date": "20221123",
 		"hsecd": "01",
 		"rse": "03",
@@ -611,6 +559,19 @@
 		"apply_nums": "51세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000834&pblancNo=2022000834&houseSecd=01",
+		"in_date": "20221205",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "군산 신역세권 예다음",
+		"addr": "전라북도 군산시 내흥동 1019번지 (군산 신역세권 D1BL)",
+		"short_addr": "전라북도 군산시",
+		"addr_lv1": "전라북도",
+		"addr_lv2": "군산시",
+		"apply_nums": "569세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000805&pblancNo=2022000805&houseSecd=01",
 		"in_date": "20221205",
 		"hsecd": "01",
@@ -637,6 +598,32 @@
 		"apply_nums": "616세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000844&pblancNo=2022000844&houseSecd=01",
+		"in_date": "20221205",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "백년문화공원 극동스타클래스",
+		"addr": "경상남도 진주시 주약동 183-1번지 외 4필지",
+		"short_addr": "경상남도 진주시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "진주시",
+		"apply_nums": "166세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000838&pblancNo=2022000838&houseSecd=01",
+		"in_date": "20221205",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "산이고운 신용PARK",
+		"addr": "광주광역시 북구 신안동 산 2-3번지 일원",
+		"short_addr": "광주광역시 북구",
+		"addr_lv1": "광주광역시",
+		"addr_lv2": "북구",
+		"apply_nums": "238세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000846&pblancNo=2022000846&houseSecd=01",
 		"in_date": "20221205",
 		"hsecd": "01",
@@ -648,6 +635,32 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "강동구",
 		"apply_nums": "4786세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000840&pblancNo=2022000840&houseSecd=01",
+		"in_date": "20221205",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "원주 롯데캐슬 시그니처",
+		"addr": "강원도 원주시 반곡동 1507-1번지 일원",
+		"short_addr": "강원도 원주시",
+		"addr_lv1": "강원도",
+		"addr_lv2": "원주시",
+		"apply_nums": "922세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000847&pblancNo=2022000847&houseSecd=01",
+		"in_date": "20221205",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "함평 엘리체 시그니처",
+		"addr": "전라남도 함평군 대동면 향교리 827-5외 8필지",
+		"short_addr": "전라남도 함평군",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "함평군",
+		"apply_nums": "232세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000795&pblancNo=2022000795&houseSecd=01",
@@ -689,6 +702,19 @@
 		"apply_nums": "1330세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000834&pblancNo=2022000834&houseSecd=01",
+		"in_date": "20221206",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "군산 신역세권 예다음",
+		"addr": "전라북도 군산시 내흥동 1019번지 (군산 신역세권 D1BL)",
+		"short_addr": "전라북도 군산시",
+		"addr_lv1": "전라북도",
+		"addr_lv2": "군산시",
+		"apply_nums": "569세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000805&pblancNo=2022000805&houseSecd=01",
 		"in_date": "20221206",
 		"hsecd": "01",
@@ -715,6 +741,32 @@
 		"apply_nums": "616세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000844&pblancNo=2022000844&houseSecd=01",
+		"in_date": "20221206",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "백년문화공원 극동스타클래스",
+		"addr": "경상남도 진주시 주약동 183-1번지 외 4필지",
+		"short_addr": "경상남도 진주시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "진주시",
+		"apply_nums": "166세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000838&pblancNo=2022000838&houseSecd=01",
+		"in_date": "20221206",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "산이고운 신용PARK",
+		"addr": "광주광역시 북구 신안동 산 2-3번지 일원",
+		"short_addr": "광주광역시 북구",
+		"addr_lv1": "광주광역시",
+		"addr_lv2": "북구",
+		"apply_nums": "238세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000846&pblancNo=2022000846&houseSecd=01",
 		"in_date": "20221206",
 		"hsecd": "01",
@@ -726,6 +778,32 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "강동구",
 		"apply_nums": "4786세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000840&pblancNo=2022000840&houseSecd=01",
+		"in_date": "20221206",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "원주 롯데캐슬 시그니처",
+		"addr": "강원도 원주시 반곡동 1507-1번지 일원",
+		"short_addr": "강원도 원주시",
+		"addr_lv1": "강원도",
+		"addr_lv2": "원주시",
+		"apply_nums": "922세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000847&pblancNo=2022000847&houseSecd=01",
+		"in_date": "20221206",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "함평 엘리체 시그니처",
+		"addr": "전라남도 함평군 대동면 향교리 827-5외 8필지",
+		"short_addr": "전라남도 함평군",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "함평군",
+		"apply_nums": "232세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000795&pblancNo=2022000795&houseSecd=01",
@@ -780,6 +858,19 @@
 		"apply_nums": "1330세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000834&pblancNo=2022000834&houseSecd=01",
+		"in_date": "20221207",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "군산 신역세권 예다음",
+		"addr": "전라북도 군산시 내흥동 1019번지 (군산 신역세권 D1BL)",
+		"short_addr": "전라북도 군산시",
+		"addr_lv1": "전라북도",
+		"addr_lv2": "군산시",
+		"apply_nums": "569세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000805&pblancNo=2022000805&houseSecd=01",
 		"in_date": "20221207",
 		"hsecd": "01",
@@ -804,6 +895,58 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "화성시",
 		"apply_nums": "616세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000844&pblancNo=2022000844&houseSecd=01",
+		"in_date": "20221207",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "백년문화공원 극동스타클래스",
+		"addr": "경상남도 진주시 주약동 183-1번지 외 4필지",
+		"short_addr": "경상남도 진주시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "진주시",
+		"apply_nums": "166세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000838&pblancNo=2022000838&houseSecd=01",
+		"in_date": "20221207",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "산이고운 신용PARK",
+		"addr": "광주광역시 북구 신안동 산 2-3번지 일원",
+		"short_addr": "광주광역시 북구",
+		"addr_lv1": "광주광역시",
+		"addr_lv2": "북구",
+		"apply_nums": "238세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000840&pblancNo=2022000840&houseSecd=01",
+		"in_date": "20221207",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "원주 롯데캐슬 시그니처",
+		"addr": "강원도 원주시 반곡동 1507-1번지 일원",
+		"short_addr": "강원도 원주시",
+		"addr_lv1": "강원도",
+		"addr_lv2": "원주시",
+		"apply_nums": "922세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000847&pblancNo=2022000847&houseSecd=01",
+		"in_date": "20221207",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "함평 엘리체 시그니처",
+		"addr": "전라남도 함평군 대동면 향교리 827-5외 8필지",
+		"short_addr": "전라남도 함평군",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "함평군",
+		"apply_nums": "232세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000835&pblancNo=2022000835&houseSecd=01",
