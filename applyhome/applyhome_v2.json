@@ -624,6 +624,32 @@
 		"apply_nums": "1110세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910355&pblancNo=2022910355&houseSecd=04",
+		"in_date": "20221205",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "엘리프세종6-3(1차)",
+		"addr": "세종특별자치시 산울동 일원(행정중심복합도시 6-3 M4블록)",
+		"short_addr": "세종특별자치시 산울동",
+		"addr_lv1": "세종특별자치시",
+		"addr_lv2": "산울동",
+		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910356&pblancNo=2022910356&houseSecd=04",
+		"in_date": "20221205",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "위례신도시 A3-10BL 중흥S-클래스(2차)",
+		"addr": "경기도 하남시 위례택지개발지구 A3-10블록",
+		"short_addr": "경기도 하남시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "하남시",
+		"apply_nums": "2세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000835&pblancNo=2022000835&houseSecd=01",
 		"in_date": "20221206",
 		"hsecd": "01",
