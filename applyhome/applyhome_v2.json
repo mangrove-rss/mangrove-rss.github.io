@@ -624,6 +624,19 @@
 		"apply_nums": "1110세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910353&pblancNo=2022910353&houseSecd=04",
+		"in_date": "20221205",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "엘리프세종(2차)",
+		"addr": "세종특별자치시 조치원읍 봉산리 379번지 일원",
+		"short_addr": "세종특별자치시 조치원읍",
+		"addr_lv1": "세종특별자치시",
+		"addr_lv2": "조치원읍",
+		"apply_nums": "1세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910355&pblancNo=2022910355&houseSecd=04",
 		"in_date": "20221205",
 		"hsecd": "04",
@@ -647,6 +660,19 @@
 		"short_addr": "경기도 하남시",
 		"addr_lv1": "경기도",
 		"addr_lv2": "하남시",
+		"apply_nums": "2세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910359&pblancNo=2022910359&houseSecd=04",
+		"in_date": "20221205",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "의정부역 월드메르디앙 스마트시티(7차)",
+		"addr": "경기도 의정부시 둔야로 19(의정부동)",
+		"short_addr": "경기도 의정부시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "의정부시",
 		"apply_nums": "2세대"
 	},
 	{
@@ -791,6 +817,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "파주시",
 		"apply_nums": "1110세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910359&pblancNo=2022910359&houseSecd=04",
+		"in_date": "20221206",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "의정부역 월드메르디앙 스마트시티(7차)",
+		"addr": "경기도 의정부시 둔야로 19(의정부동)",
+		"short_addr": "경기도 의정부시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "의정부시",
+		"apply_nums": "2세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000846&pblancNo=2022000846&houseSecd=01",
@@ -947,5 +986,44 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "성북구",
 		"apply_nums": "1330세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000832&pblancNo=2022000832&houseSecd=01",
+		"in_date": "20221212",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "번영로 서한이다음 프레스티지",
+		"addr": "울산광역시 중구 복산동 100-24번지",
+		"short_addr": "울산광역시 중구",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "109세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000832&pblancNo=2022000832&houseSecd=01",
+		"in_date": "20221213",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "번영로 서한이다음 프레스티지",
+		"addr": "울산광역시 중구 복산동 100-24번지",
+		"short_addr": "울산광역시 중구",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "109세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000832&pblancNo=2022000832&houseSecd=01",
+		"in_date": "20221214",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "번영로 서한이다음 프레스티지",
+		"addr": "울산광역시 중구 복산동 100-24번지",
+		"short_addr": "울산광역시 중구",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "109세대"
 	}
 ]
