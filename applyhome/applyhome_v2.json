@@ -273,6 +273,19 @@
 		"apply_nums": "1330세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000842&pblancNo=2022000842&houseSecd=01",
+		"in_date": "20221206",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "힐스테이트 천안역 스카이움",
+		"addr": "충청남도 천안시 서북구 서부역7길 7-2(성정동)",
+		"short_addr": "충청남도 천안시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "천안시",
+		"apply_nums": "999세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000834&pblancNo=2022000834&houseSecd=01",
 		"in_date": "20221206",
 		"hsecd": "01",
@@ -442,6 +455,19 @@
 		"apply_nums": "1330세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000842&pblancNo=2022000842&houseSecd=01",
+		"in_date": "20221207",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "힐스테이트 천안역 스카이움",
+		"addr": "충청남도 천안시 서북구 서부역7길 7-2(성정동)",
+		"short_addr": "충청남도 천안시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "천안시",
+		"apply_nums": "999세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000834&pblancNo=2022000834&houseSecd=01",
 		"in_date": "20221207",
 		"hsecd": "01",
@@ -559,6 +585,19 @@
 		"apply_nums": "4786세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000842&pblancNo=2022000842&houseSecd=01",
+		"in_date": "20221208",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "힐스테이트 천안역 스카이움",
+		"addr": "충청남도 천안시 서북구 서부역7길 7-2(성정동)",
+		"short_addr": "충청남도 천안시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "천안시",
+		"apply_nums": "999세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000835&pblancNo=2022000835&houseSecd=01",
 		"in_date": "20221209",
 		"hsecd": "01",
@@ -598,6 +637,19 @@
 		"apply_nums": "109세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000826&pblancNo=2022000826&houseSecd=01",
+		"in_date": "20221212",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "브라운스톤 여월",
+		"addr": "경기도 부천시 여월동 9-28, 9-29번지",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "42세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000853&pblancNo=2022000853&houseSecd=01",
 		"in_date": "20221213",
 		"hsecd": "01",
@@ -624,6 +676,19 @@
 		"apply_nums": "109세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000826&pblancNo=2022000826&houseSecd=01",
+		"in_date": "20221213",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "브라운스톤 여월",
+		"addr": "경기도 부천시 여월동 9-28, 9-29번지",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "42세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000853&pblancNo=2022000853&houseSecd=01",
 		"in_date": "20221214",
 		"hsecd": "01",
@@ -648,5 +713,18 @@
 		"addr_lv1": "울산광역시",
 		"addr_lv2": "중구",
 		"apply_nums": "109세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000826&pblancNo=2022000826&houseSecd=01",
+		"in_date": "20221214",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "브라운스톤 여월",
+		"addr": "경기도 부천시 여월동 9-28, 9-29번지",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "42세대"
 	}
 ]
