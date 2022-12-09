@@ -111,11 +111,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ Caribbeancom  120222-001 2022-12-02  등록일  2022.12.02 ]]></showrss:showname>
 		</item>
-		<item>
-			<title><![CDATA[ Pacopacomama  120222_749 2022-12-02  등록일  2022.12.02 ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:dab3dcacefe59f2ce4455e6b5cbf2ae96ab0dde0 ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ Pacopacomama  120222_749 2022-12-02  등록일  2022.12.02 ]]></showrss:showname>
-		</item>
 	</channel>
 </rss>
