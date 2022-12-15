@@ -689,6 +689,19 @@
 		"apply_nums": "604세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950121&pblancNo=2022950121&houseSecd=02",
+		"in_date": "20221220",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "e편한세상 시티 평택고덕",
+		"addr": "경기도 평택시 장당동 71-13번지 일원",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "762세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950122&pblancNo=2022950122&houseSecd=02",
 		"in_date": "20221220",
 		"hsecd": "02",
@@ -700,6 +713,19 @@
 		"addr_lv1": "대구광역시",
 		"addr_lv2": "달서구",
 		"apply_nums": "35세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910364&pblancNo=2022910364&houseSecd=04",
+		"in_date": "20221220",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "리버센 SK VIEW 롯데캐슬(1차)",
+		"addr": "서울특별시 중랑구 중화동 331-1번지 일원",
+		"short_addr": "서울특별시 중랑구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "중랑구",
+		"apply_nums": "44세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000883&pblancNo=2022000883&houseSecd=01",
@@ -804,6 +830,19 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "남동구",
 		"apply_nums": "485세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950121&pblancNo=2022950121&houseSecd=02",
+		"in_date": "20221221",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "e편한세상 시티 평택고덕",
+		"addr": "경기도 평택시 장당동 71-13번지 일원",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "762세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000883&pblancNo=2022000883&houseSecd=01",
