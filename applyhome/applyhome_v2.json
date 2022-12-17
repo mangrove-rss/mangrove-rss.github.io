@@ -1,96 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000855&pblancNo=2022000855&houseSecd=01",
-		"in_date": "20221213",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "광주 송정 중흥S-클래스 파크뷰",
-		"addr": "경기도 광주시 송정동 산28-4번지 일원",
-		"short_addr": "경기도 광주시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "광주시",
-		"apply_nums": "840세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000853&pblancNo=2022000853&houseSecd=01",
-		"in_date": "20221213",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "도심역 한양수자인 리버파인",
-		"addr": "경기도 남양주시 와부읍 도곡리 931-5번지",
-		"short_addr": "경기도 남양주시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "남양주시",
-		"apply_nums": "485세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000832&pblancNo=2022000832&houseSecd=01",
-		"in_date": "20221213",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "번영로 서한이다음 프레스티지",
-		"addr": "울산광역시 중구 복산동 100-24번지",
-		"short_addr": "울산광역시 중구",
-		"addr_lv1": "울산광역시",
-		"addr_lv2": "중구",
-		"apply_nums": "109세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000826&pblancNo=2022000826&houseSecd=01",
-		"in_date": "20221213",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "브라운스톤 여월",
-		"addr": "경기도 부천시 여월동 9-28, 9-29번지",
-		"short_addr": "경기도 부천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "부천시",
-		"apply_nums": "42세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000794&pblancNo=2022000794&houseSecd=01",
-		"in_date": "20221213",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "스위트 클래스 더 스카이 45",
-		"addr": "강원도 홍천군 홍천읍 희망리 396-9 외 7필지",
-		"short_addr": "강원도 홍천군",
-		"addr_lv1": "강원도",
-		"addr_lv2": "홍천군",
-		"apply_nums": "264세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000864&pblancNo=2022000864&houseSecd=01",
-		"in_date": "20221213",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "빌라드아르떼 제주",
-		"addr": "제주특별자치도 서귀포시 토평동 659-3",
-		"short_addr": "제주특별자치도 서귀포시",
-		"addr_lv1": "제주특별자치도",
-		"addr_lv2": "서귀포시",
-		"apply_nums": "36세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022930021&pblancNo=2022930021&houseSecd=06",
-		"in_date": "20221213",
-		"hsecd": "06",
-		"rse": "07",
-		"type": "",
-		"name": "부평 SK VIEW 해모로",
-		"addr": "인천광역시 부평구 동수천로67번길 12-1 일원",
-		"short_addr": "인천광역시 부평구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "부평구",
-		"apply_nums": "23세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000898&pblancNo=2022000898&houseSecd=01",
 		"in_date": "20221214",
 		"hsecd": "01",
@@ -767,6 +676,19 @@
 		"apply_nums": "116세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000895&pblancNo=2022000895&houseSecd=01",
+		"in_date": "20221226",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "더원 루미에르",
+		"addr": "경기도 부천시 성오로 74(원종동, 더원 루미에르)",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "35세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000862&pblancNo=2022000862&houseSecd=01",
 		"in_date": "20221226",
 		"hsecd": "01",
@@ -830,6 +752,19 @@
 		"addr_lv1": "부산광역시",
 		"addr_lv2": "수영구",
 		"apply_nums": "116세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000895&pblancNo=2022000895&houseSecd=01",
+		"in_date": "20221227",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "더원 루미에르",
+		"addr": "경기도 부천시 성오로 74(원종동, 더원 루미에르)",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "35세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000862&pblancNo=2022000862&houseSecd=01",
@@ -908,6 +843,19 @@
 		"addr_lv1": "부산광역시",
 		"addr_lv2": "수영구",
 		"apply_nums": "116세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000895&pblancNo=2022000895&houseSecd=01",
+		"in_date": "20221228",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "더원 루미에르",
+		"addr": "경기도 부천시 성오로 74(원종동, 더원 루미에르)",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "35세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022000862&pblancNo=2022000862&houseSecd=01",
