@@ -364,6 +364,19 @@
 		"apply_nums": "48세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910371&pblancNo=2022910371&houseSecd=04",
+		"in_date": "20230102",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "광주역　자연앤자이　공공분양(1차) 무순위(1호) 입주자 모집공고",
+		"addr": "경기도 광주시 광주역5로 18(역동, 광주역자연앤자이)",
+		"short_addr": "경기도 광주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "광주시",
+		"apply_nums": "1세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2022910368&pblancNo=2022910368&houseSecd=04",
 		"in_date": "20230102",
 		"hsecd": "04",
