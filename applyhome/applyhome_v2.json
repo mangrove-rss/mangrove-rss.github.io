@@ -1,44 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2022950125&pblancNo=2022950125&houseSecd=02",
-		"in_date": "20230130",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "나이키빌",
-		"addr": "경기도 의정부시 시민로 142(의정부동, 나이키빌)",
-		"short_addr": "경기도 의정부시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "의정부시",
-		"apply_nums": "107세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950002&pblancNo=2023950002&houseSecd=02",
-		"in_date": "20230130",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "의정부 롯데캐슬 골드포레",
-		"addr": "경기도 의정부시 가능동 581-1",
-		"short_addr": "경기도 의정부시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "의정부시",
-		"apply_nums": "20세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910007&pblancNo=2023910007&houseSecd=04",
-		"in_date": "20230130",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "마포 더 클래시(1차)",
-		"addr": "서울특별시 마포구 아현동 662번지 일대",
-		"short_addr": "서울특별시 마포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "마포구",
-		"apply_nums": "27세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910005&pblancNo=2023910005&houseSecd=04",
 		"in_date": "20230201",
 		"hsecd": "04",
