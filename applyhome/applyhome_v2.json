@@ -63,5 +63,34 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "과천시",
 		"apply_nums": "9세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023850001&pblancNo=2023850001&houseSecd=03",
+		"in_date": "20230208",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "서울은평뉴타운 디에트르 더 퍼스트"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910006&pblancNo=2023910006&houseSecd=04",
+		"in_date": "20230208",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "신흥역 하늘채 랜더스원(2차)",
+		"addr": "경기도 성남시 중원구 중앙동 2979번지",
+		"short_addr": "경기도 성남시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "성남시",
+		"apply_nums": "6세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023850001&pblancNo=2023850001&houseSecd=03",
+		"in_date": "20230209",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "서울은평뉴타운 디에트르 더 퍼스트"
 	}
 ]
