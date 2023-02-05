@@ -1,44 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910005&pblancNo=2023910005&houseSecd=04",
-		"in_date": "20230201",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "브라운스톤 여월(1차)",
-		"addr": "경기도 부천시 여월동 9-28, 9-29번지",
-		"short_addr": "경기도 부천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "부천시",
-		"apply_nums": "31세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022930024&pblancNo=2022930024&houseSecd=06",
-		"in_date": "20230201",
-		"hsecd": "06",
-		"rse": "07",
-		"type": "",
-		"name": "신동탄포레자이",
-		"addr": "경기도 화성시 반월동 17번지 일원",
-		"short_addr": "경기도 화성시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "화성시",
-		"apply_nums": "19세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023930004&pblancNo=2023930004&houseSecd=06",
-		"in_date": "20230201",
-		"hsecd": "06",
-		"rse": "07",
-		"type": "",
-		"name": "캐슬앤파밀리에 디아트(수루배마을 2단지)",
-		"addr": "세종특별자치시 반곡1길 9 (수루배마을 2단지)",
-		"short_addr": "세종특별자치시 반곡1길",
-		"addr_lv1": "세종특별자치시",
-		"addr_lv2": "반곡1길",
-		"apply_nums": "1세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022930024&pblancNo=2022930024&houseSecd=06",
 		"in_date": "20230202",
 		"hsecd": "06",
