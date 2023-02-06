@@ -1,18 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2022930024&pblancNo=2022930024&houseSecd=06",
-		"in_date": "20230202",
-		"hsecd": "06",
-		"rse": "07",
-		"type": "",
-		"name": "신동탄포레자이",
-		"addr": "경기도 화성시 반월동 17번지 일원",
-		"short_addr": "경기도 화성시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "화성시",
-		"apply_nums": "19세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023930003&pblancNo=2023930003&houseSecd=06",
 		"in_date": "20230206",
 		"hsecd": "06",
