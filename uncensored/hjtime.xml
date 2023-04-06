@@ -105,5 +105,17 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ Caribbeancom  033123-001 2023-03-31  등록일  2023.04.01 ]]></showrss:showname>
 		</item>
+		<item>
+			<title><![CDATA[ 1pondo  033123_001 2023-03-31  등록일  2023.04.01 ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih:5d024246d75720c95ef1abe30a7536e2c4e98acb ]]></link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ 1pondo  033123_001 2023-03-31  등록일  2023.04.01 ]]></showrss:showname>
+		</item>
+		<item>
+			<title><![CDATA[ 10musume  033123_01 2023-03-31  등록일  2023.03.31 ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih:1807dd3c2dd757effde55161333cd860663bfa45 ]]></link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ 10musume  033123_01 2023-03-31  등록일  2023.03.31 ]]></showrss:showname>
+		</item>
 	</channel>
 </rss>
