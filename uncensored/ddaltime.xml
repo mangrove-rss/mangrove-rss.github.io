@@ -201,5 +201,17 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ 10musume  040723_01 2023-04-07  등록일  2023.04.07 ]]></showrss:showname>
 		</item>
+		<item>
+			<title><![CDATA[ 1pondo  040623_001 2023-04-06  등록일  2023.04.07 ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih:7676c92188a14abc6a1804d65916687ce702b9d1 ]]></link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ 1pondo  040623_001 2023-04-06  등록일  2023.04.07 ]]></showrss:showname>
+		</item>
+		<item>
+			<title><![CDATA[ Pacopacomama  040623_825 2023-04-06  등록일  2023.04.06 ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih:8ab756eca3f12a886e0dc8740194b4b42fd058aa ]]></link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ Pacopacomama  040623_825 2023-04-06  등록일  2023.04.06 ]]></showrss:showname>
+		</item>
 	</channel>
 </rss>
