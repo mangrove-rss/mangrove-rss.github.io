@@ -105,23 +105,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ Caribbeancom  050623-001 2023-05-06  등록일  2023.05.06 ]]></showrss:showname>
 		</item>
-		<item>
-			<title><![CDATA[ 1pondo  050523_001 2023-05-05  등록일  2023.05.06 ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:dc651c89723d6588a6f0bcf9c59a7b5a0d9c793d ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ 1pondo  050523_001 2023-05-05  등록일  2023.05.06 ]]></showrss:showname>
-		</item>
-		<item>
-			<title><![CDATA[ Pacopacomama  050523_844 2023-05-05  등록일  2023.05.05 ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:b0f90cb6fc751dab0616713fc8bb4346e7acfbfe ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ Pacopacomama  050523_844 2023-05-05  등록일  2023.05.05 ]]></showrss:showname>
-		</item>
-		<item>
-			<title><![CDATA[ 10musume  050523_01 2023-05-05  등록일  2023.05.05 ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:e8c12750b5f60f48dbd2a29cee18ce46600b8046 ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ 10musume  050523_01 2023-05-05  등록일  2023.05.05 ]]></showrss:showname>
-		</item>
 	</channel>
 </rss>
