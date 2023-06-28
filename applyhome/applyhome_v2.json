@@ -411,6 +411,19 @@
 		"apply_nums": "5세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023930028&pblancNo=2023930028&houseSecd=06",
+		"in_date": "20230703",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "e편한세상 순천 어반타워(계약취소주택)",
+		"addr": "전라남도 순천시 조곡동 634번지 일원",
+		"short_addr": "전라남도 순천시",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "순천시",
+		"apply_nums": "14세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000267&pblancNo=2023000267&houseSecd=01",
 		"in_date": "20230704",
 		"hsecd": "01",
