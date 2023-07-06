@@ -1,109 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000255&pblancNo=2023000255&houseSecd=01",
-		"in_date": "20230703",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "서울대벤처타운역 푸르지오",
-		"addr": "서울특별시 관악구 신림동 316-62번지",
-		"short_addr": "서울특별시 관악구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "관악구",
-		"apply_nums": "182세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000267&pblancNo=2023000267&houseSecd=01",
-		"in_date": "20230703",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "월명공원 한라비발디 온더파크",
-		"addr": "충청북도 청주시 흥덕구 봉명동 산26번지 일원",
-		"short_addr": "충청북도 청주시",
-		"addr_lv1": "충청북도",
-		"addr_lv2": "청주시",
-		"apply_nums": "874세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000257&pblancNo=2023000257&houseSecd=01",
-		"in_date": "20230703",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "해운대 경동리인뷰 2차",
-		"addr": "부산광역시 해운대구 우동 548-38번지 일원",
-		"short_addr": "부산광역시 해운대구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "해운대구",
-		"apply_nums": "632세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000078&pblancNo=2023000078&houseSecd=01",
-		"in_date": "20230703",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "효성해링턴 플레이스 제주",
-		"addr": "제주특별자치도 제주시 애월읍 하귀1리 21-2번지 일원",
-		"short_addr": "제주특별자치도 제주시",
-		"addr_lv1": "제주특별자치도",
-		"addr_lv2": "제주시",
-		"apply_nums": "425세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910045&pblancNo=2023910045&houseSecd=04",
-		"in_date": "20230703",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "부천 원종 아이원시티(4차)",
-		"addr": "경기도 부천시 소사로748번길 57-14(원종동)",
-		"short_addr": "경기도 부천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "부천시",
-		"apply_nums": "7세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910043&pblancNo=2023910043&houseSecd=04",
-		"in_date": "20230703",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "주안 극동스타클래스 더 로얄(3차)",
-		"addr": "인천광역시 미추홀구 주안동 882-1번지",
-		"short_addr": "인천광역시 미추홀구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "미추홀구",
-		"apply_nums": "4세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910046&pblancNo=2023910046&houseSecd=04",
-		"in_date": "20230703",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "현대 프라힐스 소사역 더프라임(임의공급 2차)",
-		"addr": "경기도 부천시 소사본동 70-7외 6필지",
-		"short_addr": "경기도 부천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "부천시",
-		"apply_nums": "5세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023930028&pblancNo=2023930028&houseSecd=06",
-		"in_date": "20230703",
-		"hsecd": "06",
-		"rse": "07",
-		"type": "",
-		"name": "e편한세상 순천 어반타워(계약취소주택)",
-		"addr": "전라남도 순천시 조곡동 634번지 일원",
-		"short_addr": "전라남도 순천시",
-		"addr_lv1": "전라남도",
-		"addr_lv2": "순천시",
-		"apply_nums": "14세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000267&pblancNo=2023000267&houseSecd=01",
 		"in_date": "20230704",
 		"hsecd": "01",
@@ -637,6 +533,19 @@
 		"apply_nums": "1700세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950040&pblancNo=2023950040&houseSecd=02",
+		"in_date": "20230712",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "부평 SK VIEW 해모로",
+		"addr": "인천광역시 부평구 부평동 955번지 일대",
+		"short_addr": "인천광역시 부평구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "부평구",
+		"apply_nums": "32세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950037&pblancNo=2023950037&houseSecd=02",
 		"in_date": "20230712",
 		"hsecd": "02",
@@ -689,6 +598,19 @@
 		"apply_nums": "13세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950040&pblancNo=2023950040&houseSecd=02",
+		"in_date": "20230713",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "부평 SK VIEW 해모로",
+		"addr": "인천광역시 부평구 부평동 955번지 일대",
+		"short_addr": "인천광역시 부평구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "부평구",
+		"apply_nums": "32세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000309&pblancNo=2023000309&houseSecd=01",
 		"in_date": "20230714",
 		"hsecd": "01",
@@ -728,6 +650,19 @@
 		"apply_nums": "13세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000305&pblancNo=2023000305&houseSecd=01",
+		"in_date": "20230717",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "남해 타운하우스",
+		"addr": "경상남도 남해군 납해읍 창선면 당항리 920번지",
+		"short_addr": "경상남도 남해군",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "남해군",
+		"apply_nums": "76세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000259&pblancNo=2023000259&houseSecd=01",
 		"in_date": "20230717",
 		"hsecd": "01",
@@ -780,6 +715,19 @@
 		"apply_nums": "34세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000305&pblancNo=2023000305&houseSecd=01",
+		"in_date": "20230718",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "남해 타운하우스",
+		"addr": "경상남도 남해군 납해읍 창선면 당항리 920번지",
+		"short_addr": "경상남도 남해군",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "남해군",
+		"apply_nums": "76세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000259&pblancNo=2023000259&houseSecd=01",
 		"in_date": "20230718",
 		"hsecd": "01",
@@ -804,6 +752,19 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "서구",
 		"apply_nums": "1370세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000305&pblancNo=2023000305&houseSecd=01",
+		"in_date": "20230719",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "남해 타운하우스",
+		"addr": "경상남도 남해군 납해읍 창선면 당항리 920번지",
+		"short_addr": "경상남도 남해군",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "남해군",
+		"apply_nums": "76세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000259&pblancNo=2023000259&houseSecd=01",
