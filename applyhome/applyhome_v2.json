@@ -1,18 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000267&pblancNo=2023000267&houseSecd=01",
-		"in_date": "20230706",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "월명공원 한라비발디 온더파크",
-		"addr": "충청북도 청주시 흥덕구 봉명동 산26번지 일원",
-		"short_addr": "충청북도 청주시",
-		"addr_lv1": "충청북도",
-		"addr_lv2": "청주시",
-		"apply_nums": "874세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000276&pblancNo=2023000276&houseSecd=01",
 		"in_date": "20230710",
 		"hsecd": "01",
