@@ -624,6 +624,19 @@
 		"apply_nums": "34세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910049&pblancNo=2023910049&houseSecd=04",
+		"in_date": "20230717",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "남구로역 동일 센타시아(임의공급) 3차",
+		"addr": "서울특별시 구로구 가리봉동 113-1번지 일원",
+		"short_addr": "서울특별시 구로구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "구로구",
+		"apply_nums": "12세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000305&pblancNo=2023000305&houseSecd=01",
 		"in_date": "20230718",
 		"hsecd": "01",
@@ -752,5 +765,44 @@
 		"addr_lv1": "강원특별자치도",
 		"addr_lv2": "춘천시",
 		"apply_nums": "874세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000318&pblancNo=2023000318&houseSecd=01",
+		"in_date": "20230724",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "인천 용현 경남아너스빌(조합원취소분)",
+		"addr": "인천광역시 미추홀구 아암대로 118 (용현동)",
+		"short_addr": "인천광역시 미추홀구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "미추홀구",
+		"apply_nums": "87세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000318&pblancNo=2023000318&houseSecd=01",
+		"in_date": "20230725",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "인천 용현 경남아너스빌(조합원취소분)",
+		"addr": "인천광역시 미추홀구 아암대로 118 (용현동)",
+		"short_addr": "인천광역시 미추홀구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "미추홀구",
+		"apply_nums": "87세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000318&pblancNo=2023000318&houseSecd=01",
+		"in_date": "20230726",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "인천 용현 경남아너스빌(조합원취소분)",
+		"addr": "인천광역시 미추홀구 아암대로 118 (용현동)",
+		"short_addr": "인천광역시 미추홀구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "미추홀구",
+		"apply_nums": "87세대"
 	}
 ]
