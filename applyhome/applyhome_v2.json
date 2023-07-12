@@ -624,6 +624,14 @@
 		"apply_nums": "34세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023850014&pblancNo=2023850014&houseSecd=03",
+		"in_date": "20230717",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "성산 삼정그린코아 웰레스트"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910049&pblancNo=2023910049&houseSecd=04",
 		"in_date": "20230717",
 		"hsecd": "04",
