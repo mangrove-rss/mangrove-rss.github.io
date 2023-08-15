@@ -417,6 +417,45 @@
 		"apply_nums": "204세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950043&pblancNo=2023950043&houseSecd=02",
+		"in_date": "20230821",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "현대 프라힐스 소사역 더프라임",
+		"addr": "경기도 부천시 소사본동 70-7외 6필지",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "4세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910066&pblancNo=2023910066&houseSecd=04",
+		"in_date": "20230821",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "평촌자이아이파크(임의공급)",
+		"addr": "경기도 안양시 동안구 비산동 515-2번지 일원",
+		"short_addr": "경기도 안양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "안양시",
+		"apply_nums": "33세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910065&pblancNo=2023910065&houseSecd=04",
+		"in_date": "20230821",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "현대 프라힐스 소사역 더프라임(임의공급 4차)",
+		"addr": "경기도 부천시 소사본동 70-7외 6필지",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "1세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000311&pblancNo=2023000311&houseSecd=01",
 		"in_date": "20230822",
 		"hsecd": "01",
@@ -456,6 +495,32 @@
 		"apply_nums": "206세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950043&pblancNo=2023950043&houseSecd=02",
+		"in_date": "20230822",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "현대 프라힐스 소사역 더프라임",
+		"addr": "경기도 부천시 소사본동 70-7외 6필지",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "4세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910065&pblancNo=2023910065&houseSecd=04",
+		"in_date": "20230822",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "현대 프라힐스 소사역 더프라임(임의공급 4차)",
+		"addr": "경기도 부천시 소사본동 70-7외 6필지",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "1세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000311&pblancNo=2023000311&houseSecd=01",
 		"in_date": "20230823",
 		"hsecd": "01",
@@ -480,5 +545,44 @@
 		"addr_lv1": "광주연구개발특구",
 		"addr_lv2": "첨단3지구",
 		"apply_nums": "1520세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000404&pblancNo=2023000404&houseSecd=01",
+		"in_date": "20230904",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "상도 푸르지오 클라베뉴",
+		"addr": "서울특별시 동작구 상도동 산65-74 번지 일원",
+		"short_addr": "서울특별시 동작구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "동작구",
+		"apply_nums": "771세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000404&pblancNo=2023000404&houseSecd=01",
+		"in_date": "20230905",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "상도 푸르지오 클라베뉴",
+		"addr": "서울특별시 동작구 상도동 산65-74 번지 일원",
+		"short_addr": "서울특별시 동작구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "동작구",
+		"apply_nums": "771세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000404&pblancNo=2023000404&houseSecd=01",
+		"in_date": "20230906",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "상도 푸르지오 클라베뉴",
+		"addr": "서울특별시 동작구 상도동 산65-74 번지 일원",
+		"short_addr": "서울특별시 동작구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "동작구",
+		"apply_nums": "771세대"
 	}
 ]
