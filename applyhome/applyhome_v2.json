@@ -268,6 +268,45 @@
 		"apply_nums": "171세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000420&pblancNo=2023000420&houseSecd=01",
+		"in_date": "20230828",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "혜성미 주상복합아파트",
+		"addr": "경상남도 의령군 의령읍 중동리 394-15번지",
+		"short_addr": "경상남도 의령군",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "의령군",
+		"apply_nums": "39세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910072&pblancNo=2023910072&houseSecd=04",
+		"in_date": "20230828",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "부천 원종 아이원시티(5차) [할인분양]",
+		"addr": "경기도 부천시 소사로748번길 57-14(원종동)",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "5세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910067&pblancNo=2023910067&houseSecd=04",
+		"in_date": "20230828",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "신독산 솔리힐 뉴포레(임의공급1차)",
+		"addr": "서울특별시 금천구 독산동 234-72 일원",
+		"short_addr": "서울특별시 금천구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "금천구",
+		"apply_nums": "12세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910068&pblancNo=2023910068&houseSecd=04",
 		"in_date": "20230828",
 		"hsecd": "04",
@@ -357,6 +396,32 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "용인시",
 		"apply_nums": "171세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000420&pblancNo=2023000420&houseSecd=01",
+		"in_date": "20230829",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "혜성미 주상복합아파트",
+		"addr": "경상남도 의령군 의령읍 중동리 394-15번지",
+		"short_addr": "경상남도 의령군",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "의령군",
+		"apply_nums": "39세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910072&pblancNo=2023910072&houseSecd=04",
+		"in_date": "20230829",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "부천 원종 아이원시티(5차) [할인분양]",
+		"addr": "경기도 부천시 소사로748번길 57-14(원종동)",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "5세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910069&pblancNo=2023910069&houseSecd=04",
