@@ -437,6 +437,19 @@
 		"apply_nums": "1세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910070&pblancNo=2023910070&houseSecd=04",
+		"in_date": "20230829",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "화곡 더리브 스카이 주상복합아파트 (임의공급4차)",
+		"addr": "서울특별시 강서구 화곡동 370-76 외 6필지",
+		"short_addr": "서울특별시 강서구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강서구",
+		"apply_nums": "22세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000380&pblancNo=2023000380&houseSecd=01",
 		"in_date": "20230830",
 		"hsecd": "01",
@@ -502,6 +515,19 @@
 		"apply_nums": "171세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000412&pblancNo=2023000412&houseSecd=01",
+		"in_date": "20230904",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "골든렉시움",
+		"addr": "전라북도 무주군 무주읍 읍내리 1431번지",
+		"short_addr": "전라북도 무주군",
+		"addr_lv1": "전라북도",
+		"addr_lv2": "무주군",
+		"apply_nums": "42세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000404&pblancNo=2023000404&houseSecd=01",
 		"in_date": "20230904",
 		"hsecd": "01",
@@ -515,6 +541,19 @@
 		"apply_nums": "771세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000412&pblancNo=2023000412&houseSecd=01",
+		"in_date": "20230905",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "골든렉시움",
+		"addr": "전라북도 무주군 무주읍 읍내리 1431번지",
+		"short_addr": "전라북도 무주군",
+		"addr_lv1": "전라북도",
+		"addr_lv2": "무주군",
+		"apply_nums": "42세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000404&pblancNo=2023000404&houseSecd=01",
 		"in_date": "20230905",
 		"hsecd": "01",
@@ -526,6 +565,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "동작구",
 		"apply_nums": "771세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000412&pblancNo=2023000412&houseSecd=01",
+		"in_date": "20230906",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "골든렉시움",
+		"addr": "전라북도 무주군 무주읍 읍내리 1431번지",
+		"short_addr": "전라북도 무주군",
+		"addr_lv1": "전라북도",
+		"addr_lv2": "무주군",
+		"apply_nums": "42세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000404&pblancNo=2023000404&houseSecd=01",
