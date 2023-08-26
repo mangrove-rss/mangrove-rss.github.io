@@ -1,31 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000311&pblancNo=2023000311&houseSecd=01",
-		"in_date": "20230823",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "청계 SK VIEW",
-		"addr": "서울특별시 성동구 용답1길 7-18 (용답동), 성동구 용답동 121번지 일원",
-		"short_addr": "서울특별시 성동구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "성동구",
-		"apply_nums": "108세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000391&pblancNo=2023000391&houseSecd=01",
-		"in_date": "20230823",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "힐스테이트 첨단센트럴",
-		"addr": "광주연구개발특구 첨단3지구 A1블록(전라남도 장성군 진원면)",
-		"short_addr": "광주연구개발특구 첨단3지구",
-		"addr_lv1": "광주연구개발특구",
-		"addr_lv2": "첨단3지구",
-		"apply_nums": "1520세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023930031&pblancNo=2023930031&houseSecd=06",
 		"in_date": "20230825",
 		"hsecd": "06",
