@@ -425,6 +425,19 @@
 		"apply_nums": "190세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910064&pblancNo=2023910064&houseSecd=04",
+		"in_date": "20230904",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "송도 하늘채 아이비원(M2-3-1,2BL) (임의공급)",
+		"addr": "인천광역시 연수구 송도동 20-4번지 외 7필지",
+		"short_addr": "인천광역시 연수구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "연수구",
+		"apply_nums": "89세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000412&pblancNo=2023000412&houseSecd=01",
 		"in_date": "20230905",
 		"hsecd": "01",
@@ -475,6 +488,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "구로구",
 		"apply_nums": "190세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910064&pblancNo=2023910064&houseSecd=04",
+		"in_date": "20230905",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "송도 하늘채 아이비원(M2-3-1,2BL) (임의공급)",
+		"addr": "인천광역시 연수구 송도동 20-4번지 외 7필지",
+		"short_addr": "인천광역시 연수구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "연수구",
+		"apply_nums": "89세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000412&pblancNo=2023000412&houseSecd=01",
