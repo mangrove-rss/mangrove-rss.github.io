@@ -412,6 +412,32 @@
 		"apply_nums": "190세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910073&pblancNo=2023910073&houseSecd=04",
+		"in_date": "20230904",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "광명 센트럴 아이파크 (1차)",
+		"addr": "경기도 광명시 광명2동 88-14번지 일대",
+		"short_addr": "경기도 광명시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "광명시",
+		"apply_nums": "27세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910074&pblancNo=2023910074&houseSecd=04",
+		"in_date": "20230904",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "소사역 한라비발디 프레스티지(임의공급1차)",
+		"addr": "경기도 부천시 소사본동 70-12 일원",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "37세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910064&pblancNo=2023910064&houseSecd=04",
 		"in_date": "20230904",
 		"hsecd": "04",
@@ -488,6 +514,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "구로구",
 		"apply_nums": "190세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910074&pblancNo=2023910074&houseSecd=04",
+		"in_date": "20230905",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "소사역 한라비발디 프레스티지(임의공급1차)",
+		"addr": "경기도 부천시 소사본동 70-12 일원",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "37세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910064&pblancNo=2023910064&houseSecd=04",
