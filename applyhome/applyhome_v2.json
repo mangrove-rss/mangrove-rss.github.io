@@ -364,6 +364,32 @@
 		"apply_nums": "215세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910078&pblancNo=2023910078&houseSecd=04",
+		"in_date": "20230911",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "e편한세상 군산 디오션루체(임의공급)",
+		"addr": "전라북도 군산시 구암동 272-3번지 일원",
+		"short_addr": "전라북도 군산시",
+		"addr_lv1": "전라북도",
+		"addr_lv2": "군산시",
+		"apply_nums": "10세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910076&pblancNo=2023910076&houseSecd=04",
+		"in_date": "20230911",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "강동 중앙하이츠시티 무순위 (임의공급 1차)",
+		"addr": "서울특별시 강동구 길동 415-5번지",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "21세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000442&pblancNo=2023000442&houseSecd=01",
 		"in_date": "20230912",
 		"hsecd": "01",
@@ -429,6 +455,32 @@
 		"apply_nums": "120세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910078&pblancNo=2023910078&houseSecd=04",
+		"in_date": "20230912",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "e편한세상 군산 디오션루체(임의공급)",
+		"addr": "전라북도 군산시 구암동 272-3번지 일원",
+		"short_addr": "전라북도 군산시",
+		"addr_lv1": "전라북도",
+		"addr_lv2": "군산시",
+		"apply_nums": "10세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910076&pblancNo=2023910076&houseSecd=04",
+		"in_date": "20230912",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "강동 중앙하이츠시티 무순위 (임의공급 1차)",
+		"addr": "서울특별시 강동구 길동 415-5번지",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "21세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000442&pblancNo=2023000442&houseSecd=01",
 		"in_date": "20230913",
 		"hsecd": "01",
@@ -479,5 +531,83 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "계양구",
 		"apply_nums": "566세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910078&pblancNo=2023910078&houseSecd=04",
+		"in_date": "20230913",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "e편한세상 군산 디오션루체(임의공급)",
+		"addr": "전라북도 군산시 구암동 272-3번지 일원",
+		"short_addr": "전라북도 군산시",
+		"addr_lv1": "전라북도",
+		"addr_lv2": "군산시",
+		"apply_nums": "10세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910078&pblancNo=2023910078&houseSecd=04",
+		"in_date": "20230914",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "e편한세상 군산 디오션루체(임의공급)",
+		"addr": "전라북도 군산시 구암동 272-3번지 일원",
+		"short_addr": "전라북도 군산시",
+		"addr_lv1": "전라북도",
+		"addr_lv2": "군산시",
+		"apply_nums": "10세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910078&pblancNo=2023910078&houseSecd=04",
+		"in_date": "20230915",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "e편한세상 군산 디오션루체(임의공급)",
+		"addr": "전라북도 군산시 구암동 272-3번지 일원",
+		"short_addr": "전라북도 군산시",
+		"addr_lv1": "전라북도",
+		"addr_lv2": "군산시",
+		"apply_nums": "10세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910078&pblancNo=2023910078&houseSecd=04",
+		"in_date": "20230916",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "e편한세상 군산 디오션루체(임의공급)",
+		"addr": "전라북도 군산시 구암동 272-3번지 일원",
+		"short_addr": "전라북도 군산시",
+		"addr_lv1": "전라북도",
+		"addr_lv2": "군산시",
+		"apply_nums": "10세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910078&pblancNo=2023910078&houseSecd=04",
+		"in_date": "20230917",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "e편한세상 군산 디오션루체(임의공급)",
+		"addr": "전라북도 군산시 구암동 272-3번지 일원",
+		"short_addr": "전라북도 군산시",
+		"addr_lv1": "전라북도",
+		"addr_lv2": "군산시",
+		"apply_nums": "10세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910078&pblancNo=2023910078&houseSecd=04",
+		"in_date": "20230918",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "e편한세상 군산 디오션루체(임의공급)",
+		"addr": "전라북도 군산시 구암동 272-3번지 일원",
+		"short_addr": "전라북도 군산시",
+		"addr_lv1": "전라북도",
+		"addr_lv2": "군산시",
+		"apply_nums": "10세대"
 	}
 ]
