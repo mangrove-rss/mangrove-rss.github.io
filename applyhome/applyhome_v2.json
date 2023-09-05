@@ -390,6 +390,45 @@
 		"apply_nums": "21세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910079&pblancNo=2023910079&houseSecd=04",
+		"in_date": "20230911",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "남구로역 동일 센타시아(임의공급 4차)",
+		"addr": "서울특별시 구로구 가리봉동 113-1번지 일원",
+		"short_addr": "서울특별시 구로구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "구로구",
+		"apply_nums": "15세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910071&pblancNo=2023910071&houseSecd=04",
+		"in_date": "20230911",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "더샵 하남에디피스 사후(무순위 1차)",
+		"addr": "경기도 하남시 덕풍동 285-31번지 일원",
+		"short_addr": "경기도 하남시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "하남시",
+		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023930033&pblancNo=2023930033&houseSecd=06",
+		"in_date": "20230911",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "더샵 하남에디피스 계약취소주택",
+		"addr": "경기도 하남시 덕풍동 285-31번지 일원",
+		"short_addr": "경기도 하남시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "하남시",
+		"apply_nums": "1세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000442&pblancNo=2023000442&houseSecd=01",
 		"in_date": "20230912",
 		"hsecd": "01",
