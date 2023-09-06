@@ -520,6 +520,19 @@
 		"apply_nums": "21세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910080&pblancNo=2023910080&houseSecd=04",
+		"in_date": "20230912",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "화곡 더리브 스카이 주상복합아파트 (임의공급5차)",
+		"addr": "서울특별시 강서구 화곡동 370-76 외 6필지",
+		"short_addr": "서울특별시 강서구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강서구",
+		"apply_nums": "19세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000442&pblancNo=2023000442&houseSecd=01",
 		"in_date": "20230913",
 		"hsecd": "01",
