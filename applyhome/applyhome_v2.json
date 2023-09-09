@@ -1,57 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000412&pblancNo=2023000412&houseSecd=01",
-		"in_date": "20230906",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "골든렉시움",
-		"addr": "전라북도 무주군 무주읍 읍내리 1431번지",
-		"short_addr": "전라북도 무주군",
-		"addr_lv1": "전라북도",
-		"addr_lv2": "무주군",
-		"apply_nums": "42세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000385&pblancNo=2023000385&houseSecd=01",
-		"in_date": "20230906",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "광산센트럴파크",
-		"addr": "광주광역시 광산구 하산동 254-1번지 일원",
-		"short_addr": "광주광역시 광산구",
-		"addr_lv1": "광주광역시",
-		"addr_lv2": "광산구",
-		"apply_nums": "117세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000404&pblancNo=2023000404&houseSecd=01",
-		"in_date": "20230906",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "상도 푸르지오 클라베뉴",
-		"addr": "서울특별시 동작구 상도동 산65-74 번지 일원",
-		"short_addr": "서울특별시 동작구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "동작구",
-		"apply_nums": "771세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000414&pblancNo=2023000414&houseSecd=01",
-		"in_date": "20230906",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "호반써밋 개봉",
-		"addr": "서울특별시 구로구 개봉동 68-64번지 일대",
-		"short_addr": "서울특별시 구로구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "구로구",
-		"apply_nums": "190세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000413&pblancNo=2023000413&houseSecd=01",
 		"in_date": "20230907",
 		"hsecd": "01",
