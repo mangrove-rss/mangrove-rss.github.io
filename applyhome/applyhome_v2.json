@@ -1,19 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000413&pblancNo=2023000413&houseSecd=01",
-		"in_date": "20230907",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "포천 대광로제비앙",
-		"addr": "경기도 포천시 군내면 용정경제로1길 16",
-		"short_addr": "경기도 포천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "포천시",
-		"apply_nums": "215세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000413&pblancNo=2023000413&houseSecd=01",
 		"in_date": "20230908",
 		"hsecd": "01",
 		"rse": "02",
@@ -520,6 +507,19 @@
 		"apply_nums": "104세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950044&pblancNo=2023950044&houseSecd=02",
+		"in_date": "20230918",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "오션라이프 에일린의 뜰 1단지 (민간임대)",
+		"addr": "부산광역시 영도구 동삼동 383-1번지 일원",
+		"short_addr": "부산광역시 영도구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "영도구",
+		"apply_nums": "61세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910078&pblancNo=2023910078&houseSecd=04",
 		"in_date": "20230918",
 		"hsecd": "04",
@@ -531,6 +531,19 @@
 		"addr_lv1": "전라북도",
 		"addr_lv2": "군산시",
 		"apply_nums": "10세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910082&pblancNo=2023910082&houseSecd=04",
+		"in_date": "20230918",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "송도 아리스타 프라임(사후 3차)",
+		"addr": "인천광역시 연수구 송도동 22-6,22-7번지",
+		"short_addr": "인천광역시 연수구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "연수구",
+		"apply_nums": "2세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000445&pblancNo=2023000445&houseSecd=01",
@@ -583,6 +596,32 @@
 		"addr_lv1": "부산광역시",
 		"addr_lv2": "동래구",
 		"apply_nums": "104세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950044&pblancNo=2023950044&houseSecd=02",
+		"in_date": "20230919",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "오션라이프 에일린의 뜰 1단지 (민간임대)",
+		"addr": "부산광역시 영도구 동삼동 383-1번지 일원",
+		"short_addr": "부산광역시 영도구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "영도구",
+		"apply_nums": "61세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910082&pblancNo=2023910082&houseSecd=04",
+		"in_date": "20230919",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "송도 아리스타 프라임(사후 3차)",
+		"addr": "인천광역시 연수구 송도동 22-6,22-7번지",
+		"short_addr": "인천광역시 연수구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "연수구",
+		"apply_nums": "2세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000445&pblancNo=2023000445&houseSecd=01",
