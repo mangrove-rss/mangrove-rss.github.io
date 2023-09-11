@@ -1,18 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000413&pblancNo=2023000413&houseSecd=01",
-		"in_date": "20230908",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "포천 대광로제비앙",
-		"addr": "경기도 포천시 군내면 용정경제로1길 16",
-		"short_addr": "경기도 포천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "포천시",
-		"apply_nums": "215세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000442&pblancNo=2023000442&houseSecd=01",
 		"in_date": "20230911",
 		"hsecd": "01",
@@ -674,5 +661,57 @@
 		"addr_lv1": "부산광역시",
 		"addr_lv2": "동래구",
 		"apply_nums": "104세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000453&pblancNo=2023000453&houseSecd=01",
+		"in_date": "20230921",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "더샵 오창프레스티지",
+		"addr": "충청북도 청주시 청원구 오창읍 양청리 814-2",
+		"short_addr": "충청북도 청주시",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "청주시",
+		"apply_nums": "644세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000453&pblancNo=2023000453&houseSecd=01",
+		"in_date": "20230922",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "더샵 오창프레스티지",
+		"addr": "충청북도 청주시 청원구 오창읍 양청리 814-2",
+		"short_addr": "충청북도 청주시",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "청주시",
+		"apply_nums": "644세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000453&pblancNo=2023000453&houseSecd=01",
+		"in_date": "20230925",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "더샵 오창프레스티지",
+		"addr": "충청북도 청주시 청원구 오창읍 양청리 814-2",
+		"short_addr": "충청북도 청주시",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "청주시",
+		"apply_nums": "644세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000453&pblancNo=2023000453&houseSecd=01",
+		"in_date": "20230926",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "더샵 오창프레스티지",
+		"addr": "충청북도 청주시 청원구 오창읍 양청리 814-2",
+		"short_addr": "충청북도 청주시",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "청주시",
+		"apply_nums": "644세대"
 	}
 ]
