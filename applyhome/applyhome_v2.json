@@ -442,6 +442,19 @@
 		"apply_nums": "10세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000466&pblancNo=2023000466&houseSecd=01",
+		"in_date": "20230918",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "가곡동 수에르떼",
+		"addr": "경상남도 밀양시 가곡동 597-1 외 2필지",
+		"short_addr": "경상남도 밀양시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "밀양시",
+		"apply_nums": "45세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000445&pblancNo=2023000445&houseSecd=01",
 		"in_date": "20230918",
 		"hsecd": "01",
@@ -494,6 +507,27 @@
 		"apply_nums": "104세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000462&pblancNo=2023000462&houseSecd=01",
+		"in_date": "20230918",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "광양 세미존서희스타힐스",
+		"addr": "전라남도 광양시 광양읍 덕례리 573-21번지 일대",
+		"short_addr": "전라남도 광양시",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "광양시",
+		"apply_nums": "58세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023850021&pblancNo=2023850021&houseSecd=03",
+		"in_date": "20230918",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "성산 삼정그린코아 웰레스트"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950044&pblancNo=2023950044&houseSecd=02",
 		"in_date": "20230918",
 		"hsecd": "02",
@@ -505,6 +539,19 @@
 		"addr_lv1": "부산광역시",
 		"addr_lv2": "영도구",
 		"apply_nums": "61세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950047&pblancNo=2023950047&houseSecd=02",
+		"in_date": "20230918",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "현대 프라힐스 소사역 더프라임",
+		"addr": "경기도 부천시 소사본동 70-7외 6필지",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "3세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910078&pblancNo=2023910078&houseSecd=04",
@@ -533,6 +580,32 @@
 		"apply_nums": "2세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910081&pblancNo=2023910081&houseSecd=04",
+		"in_date": "20230918",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "현대 프라힐스 소사역 더프라임(임의공급 5차)",
+		"addr": "경기도 부천시 소사본동 70-7외 6필지",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000466&pblancNo=2023000466&houseSecd=01",
+		"in_date": "20230919",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "가곡동 수에르떼",
+		"addr": "경상남도 밀양시 가곡동 597-1 외 2필지",
+		"short_addr": "경상남도 밀양시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "밀양시",
+		"apply_nums": "45세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000445&pblancNo=2023000445&houseSecd=01",
 		"in_date": "20230919",
 		"hsecd": "01",
@@ -585,6 +658,19 @@
 		"apply_nums": "104세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000462&pblancNo=2023000462&houseSecd=01",
+		"in_date": "20230919",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "광양 세미존서희스타힐스",
+		"addr": "전라남도 광양시 광양읍 덕례리 573-21번지 일대",
+		"short_addr": "전라남도 광양시",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "광양시",
+		"apply_nums": "58세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950044&pblancNo=2023950044&houseSecd=02",
 		"in_date": "20230919",
 		"hsecd": "02",
@@ -598,6 +684,19 @@
 		"apply_nums": "61세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950047&pblancNo=2023950047&houseSecd=02",
+		"in_date": "20230919",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "현대 프라힐스 소사역 더프라임",
+		"addr": "경기도 부천시 소사본동 70-7외 6필지",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "3세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910082&pblancNo=2023910082&houseSecd=04",
 		"in_date": "20230919",
 		"hsecd": "04",
@@ -609,6 +708,32 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "연수구",
 		"apply_nums": "2세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910081&pblancNo=2023910081&houseSecd=04",
+		"in_date": "20230919",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "현대 프라힐스 소사역 더프라임(임의공급 5차)",
+		"addr": "경기도 부천시 소사본동 70-7외 6필지",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000466&pblancNo=2023000466&houseSecd=01",
+		"in_date": "20230920",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "가곡동 수에르떼",
+		"addr": "경상남도 밀양시 가곡동 597-1 외 2필지",
+		"short_addr": "경상남도 밀양시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "밀양시",
+		"apply_nums": "45세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000445&pblancNo=2023000445&houseSecd=01",
