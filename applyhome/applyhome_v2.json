@@ -1,19 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910078&pblancNo=2023910078&houseSecd=04",
-		"in_date": "20230915",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "e편한세상 군산 디오션루체(임의공급)",
-		"addr": "전라북도 군산시 구암동 272-3번지 일원",
-		"short_addr": "전라북도 군산시",
-		"addr_lv1": "전라북도",
-		"addr_lv2": "군산시",
-		"apply_nums": "10세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910078&pblancNo=2023910078&houseSecd=04",
 		"in_date": "20230916",
 		"hsecd": "04",
 		"rse": "06",
@@ -682,5 +669,31 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "관악구",
 		"apply_nums": "101세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000474&pblancNo=2023000474&houseSecd=01",
+		"in_date": "20231004",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "일도이동 유피테르 6차",
+		"addr": "제주특별자치도 제주시 동문로 72",
+		"short_addr": "제주특별자치도 제주시",
+		"addr_lv1": "제주특별자치도",
+		"addr_lv2": "제주시",
+		"apply_nums": "40세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000474&pblancNo=2023000474&houseSecd=01",
+		"in_date": "20231005",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "일도이동 유피테르 6차",
+		"addr": "제주특별자치도 제주시 동문로 72",
+		"short_addr": "제주특별자치도 제주시",
+		"addr_lv1": "제주특별자치도",
+		"addr_lv2": "제주시",
+		"apply_nums": "40세대"
 	}
 ]
