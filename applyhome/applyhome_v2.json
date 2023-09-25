@@ -1,18 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000453&pblancNo=2023000453&houseSecd=01",
-		"in_date": "20230922",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "더샵 오창프레스티지",
-		"addr": "충청북도 청주시 청원구 오창읍 양청리 814-2",
-		"short_addr": "충청북도 청주시",
-		"addr_lv1": "충청북도",
-		"addr_lv2": "청주시",
-		"apply_nums": "644세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000461&pblancNo=2023000461&houseSecd=01",
 		"in_date": "20230925",
 		"hsecd": "01",
@@ -364,6 +351,45 @@
 		"apply_nums": "59세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910088&pblancNo=2023910088&houseSecd=04",
+		"in_date": "20231004",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "덕소 강변 라온프라이빗 (무순위 1차)",
+		"addr": "경기도 남양주시 와부읍 덕소리 544-3번지 일원",
+		"short_addr": "경기도 남양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "남양주시",
+		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910089&pblancNo=2023910089&houseSecd=04",
+		"in_date": "20231004",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "심곡본동 한울에이치밸리움 디그니어스 (9차)",
+		"addr": "경기도 부천시 심곡본동 660-2",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "2세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000463&pblancNo=2023000463&houseSecd=01",
+		"in_date": "20231005",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "월드메르디앙 송도",
+		"addr": "인천광역시 연수구 해돋이로 160-19 (송도동)",
+		"short_addr": "인천광역시 연수구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "연수구",
+		"apply_nums": "128세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000448&pblancNo=2023000448&houseSecd=01",
 		"in_date": "20231005",
 		"hsecd": "01",
@@ -427,6 +453,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "오산시",
 		"apply_nums": "850세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000025&pblancNo=2023000025&houseSecd=01",
+		"in_date": "20231005",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "화북세원멤버스",
+		"addr": "제주특별자치도 제주시 화북이동 5762번지",
+		"short_addr": "제주특별자치도 제주시",
+		"addr_lv1": "제주특별자치도",
+		"addr_lv2": "제주시",
+		"apply_nums": "53세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000474&pblancNo=2023000474&houseSecd=01",
@@ -455,6 +494,32 @@
 		"apply_nums": "59세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910089&pblancNo=2023910089&houseSecd=04",
+		"in_date": "20231005",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "심곡본동 한울에이치밸리움 디그니어스 (9차)",
+		"addr": "경기도 부천시 심곡본동 660-2",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "2세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000463&pblancNo=2023000463&houseSecd=01",
+		"in_date": "20231006",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "월드메르디앙 송도",
+		"addr": "인천광역시 연수구 해돋이로 160-19 (송도동)",
+		"short_addr": "인천광역시 연수구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "연수구",
+		"apply_nums": "128세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000448&pblancNo=2023000448&houseSecd=01",
 		"in_date": "20231006",
 		"hsecd": "01",
@@ -520,6 +585,19 @@
 		"apply_nums": "850세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000025&pblancNo=2023000025&houseSecd=01",
+		"in_date": "20231006",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "화북세원멤버스",
+		"addr": "제주특별자치도 제주시 화북이동 5762번지",
+		"short_addr": "제주특별자치도 제주시",
+		"addr_lv1": "제주특별자치도",
+		"addr_lv2": "제주시",
+		"apply_nums": "53세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000359&pblancNo=2023000359&houseSecd=01",
 		"in_date": "20231010",
 		"hsecd": "01",
@@ -531,6 +609,19 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "서구",
 		"apply_nums": "372세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000463&pblancNo=2023000463&houseSecd=01",
+		"in_date": "20231010",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "월드메르디앙 송도",
+		"addr": "인천광역시 연수구 해돋이로 160-19 (송도동)",
+		"short_addr": "인천광역시 연수구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "연수구",
+		"apply_nums": "128세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000359&pblancNo=2023000359&houseSecd=01",
