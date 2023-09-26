@@ -351,6 +351,19 @@
 		"apply_nums": "59세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950050&pblancNo=2023950050&houseSecd=02",
+		"in_date": "20231004",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "당산 한강 더로드캐슬",
+		"addr": "서울특별시 영등포구 당산동6가 347-5",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "14세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910088&pblancNo=2023910088&houseSecd=04",
 		"in_date": "20231004",
 		"hsecd": "04",
@@ -375,6 +388,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "부천시",
 		"apply_nums": "2세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023930037&pblancNo=2023930037&houseSecd=06",
+		"in_date": "20231004",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "동탄2신도시 A62블록 호반써밋 동탄(계약취소주택)",
+		"addr": "경기도 화성시 동탄2신도시 택지개발지구 A62블록",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "4세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000463&pblancNo=2023000463&houseSecd=01",
@@ -494,6 +520,19 @@
 		"apply_nums": "59세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950050&pblancNo=2023950050&houseSecd=02",
+		"in_date": "20231005",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "당산 한강 더로드캐슬",
+		"addr": "서울특별시 영등포구 당산동6가 347-5",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "14세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910089&pblancNo=2023910089&houseSecd=04",
 		"in_date": "20231005",
 		"hsecd": "04",
@@ -505,6 +544,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "부천시",
 		"apply_nums": "2세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023930037&pblancNo=2023930037&houseSecd=06",
+		"in_date": "20231005",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "동탄2신도시 A62블록 호반써밋 동탄(계약취소주택)",
+		"addr": "경기도 화성시 동탄2신도시 택지개발지구 A62블록",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "4세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000463&pblancNo=2023000463&houseSecd=01",
@@ -598,6 +650,58 @@
 		"apply_nums": "53세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950050&pblancNo=2023950050&houseSecd=02",
+		"in_date": "20231006",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "당산 한강 더로드캐슬",
+		"addr": "서울특별시 영등포구 당산동6가 347-5",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "14세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950050&pblancNo=2023950050&houseSecd=02",
+		"in_date": "20231007",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "당산 한강 더로드캐슬",
+		"addr": "서울특별시 영등포구 당산동6가 347-5",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "14세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950050&pblancNo=2023950050&houseSecd=02",
+		"in_date": "20231008",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "당산 한강 더로드캐슬",
+		"addr": "서울특별시 영등포구 당산동6가 347-5",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "14세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950050&pblancNo=2023950050&houseSecd=02",
+		"in_date": "20231009",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "당산 한강 더로드캐슬",
+		"addr": "서울특별시 영등포구 당산동6가 347-5",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "14세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000359&pblancNo=2023000359&houseSecd=01",
 		"in_date": "20231010",
 		"hsecd": "01",
@@ -622,6 +726,19 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "연수구",
 		"apply_nums": "128세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950050&pblancNo=2023950050&houseSecd=02",
+		"in_date": "20231010",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "당산 한강 더로드캐슬",
+		"addr": "서울특별시 영등포구 당산동6가 347-5",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "14세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000359&pblancNo=2023000359&houseSecd=01",
