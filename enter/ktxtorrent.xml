@@ -99,5 +99,11 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ 맛있는 녀석들.E448.230929.1080p.H264-F1RST ]]></showrss:showname>
 		</item>
+		<item>
+			<title><![CDATA[ 맛있는 녀석들.E448.230929.720p-NEXT ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih:83ad9ca051a13a51ed320f0756cd4cfd82be850a ]]></link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ 맛있는 녀석들.E448.230929.720p-NEXT ]]></showrss:showname>
+		</item>
 	</channel>
 </rss>
