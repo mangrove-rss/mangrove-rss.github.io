@@ -481,6 +481,19 @@
 		"apply_nums": "14세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910090&pblancNo=2023910090&houseSecd=04",
+		"in_date": "20231010",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "강동 중앙하이츠 시티(임의공급 2차)",
+		"addr": "서울특별시 강동구 길동 415-5번지",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "19세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000359&pblancNo=2023000359&houseSecd=01",
 		"in_date": "20231011",
 		"hsecd": "01",
@@ -565,6 +578,19 @@
 		"rse": "04",
 		"type": "",
 		"name": "검단 한신더휴 어반파크"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910090&pblancNo=2023910090&houseSecd=04",
+		"in_date": "20231011",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "강동 중앙하이츠 시티(임의공급 2차)",
+		"addr": "서울특별시 강동구 길동 415-5번지",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "19세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910087&pblancNo=2023910087&houseSecd=04",
