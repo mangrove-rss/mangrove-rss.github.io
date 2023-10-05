@@ -593,6 +593,19 @@
 		"name": "검단 한신더휴 어반파크"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950048&pblancNo=2023950048&houseSecd=02",
+		"in_date": "20231011",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "과천자이엘라 에디션 오피스텔",
+		"addr": "경기도 과천시 지식정보타운 상업 4BL",
+		"short_addr": "경기도 과천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "과천시",
+		"apply_nums": "98세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910090&pblancNo=2023910090&houseSecd=04",
 		"in_date": "20231011",
 		"hsecd": "04",
@@ -604,6 +617,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "강동구",
 		"apply_nums": "19세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910091&pblancNo=2023910091&houseSecd=04",
+		"in_date": "20231011",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "소사역 한라비발디 프레스티지(임의공급2차)",
+		"addr": "경기도 부천시 소사본동 70-12 일원",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "28세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910087&pblancNo=2023910087&houseSecd=04",
@@ -710,6 +736,19 @@
 		"apply_nums": "3세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910091&pblancNo=2023910091&houseSecd=04",
+		"in_date": "20231012",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "소사역 한라비발디 프레스티지(임의공급2차)",
+		"addr": "경기도 부천시 소사본동 70-12 일원",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "28세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910087&pblancNo=2023910087&houseSecd=04",
 		"in_date": "20231012",
 		"hsecd": "04",
@@ -775,6 +814,32 @@
 		"apply_nums": "71세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000499&pblancNo=2023000499&houseSecd=01",
+		"in_date": "20231016",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "디오르나인 안양역",
+		"addr": "경기도 안양시 만안구 안양동 627-1,2,3번지",
+		"short_addr": "경기도 안양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "안양시",
+		"apply_nums": "66세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000502&pblancNo=2023000502&houseSecd=01",
+		"in_date": "20231016",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "힐스테이트 수원파크포레",
+		"addr": "경기도 수원시 권선구 서둔동 213-10번지 일원",
+		"short_addr": "경기도 수원시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "수원시",
+		"apply_nums": "482세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950051&pblancNo=2023950051&houseSecd=02",
 		"in_date": "20231016",
 		"hsecd": "02",
@@ -786,5 +851,57 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "은평구",
 		"apply_nums": "71세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000499&pblancNo=2023000499&houseSecd=01",
+		"in_date": "20231017",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "디오르나인 안양역",
+		"addr": "경기도 안양시 만안구 안양동 627-1,2,3번지",
+		"short_addr": "경기도 안양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "안양시",
+		"apply_nums": "66세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000502&pblancNo=2023000502&houseSecd=01",
+		"in_date": "20231017",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "힐스테이트 수원파크포레",
+		"addr": "경기도 수원시 권선구 서둔동 213-10번지 일원",
+		"short_addr": "경기도 수원시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "수원시",
+		"apply_nums": "482세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000499&pblancNo=2023000499&houseSecd=01",
+		"in_date": "20231018",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "디오르나인 안양역",
+		"addr": "경기도 안양시 만안구 안양동 627-1,2,3번지",
+		"short_addr": "경기도 안양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "안양시",
+		"apply_nums": "66세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000502&pblancNo=2023000502&houseSecd=01",
+		"in_date": "20231018",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "힐스테이트 수원파크포레",
+		"addr": "경기도 수원시 권선구 서둔동 213-10번지 일원",
+		"short_addr": "경기도 수원시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "수원시",
+		"apply_nums": "482세대"
 	}
 ]
