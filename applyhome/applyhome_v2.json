@@ -593,6 +593,14 @@
 		"name": "검단 한신더휴 어반파크"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023850025&pblancNo=2023850025&houseSecd=03",
+		"in_date": "20231011",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "서울은평뉴타운 디에트르 더 퍼스트"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950048&pblancNo=2023950048&houseSecd=02",
 		"in_date": "20231011",
 		"hsecd": "02",
@@ -736,6 +744,14 @@
 		"apply_nums": "3세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023850025&pblancNo=2023850025&houseSecd=03",
+		"in_date": "20231012",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "서울은평뉴타운 디에트르 더 퍼스트"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910091&pblancNo=2023910091&houseSecd=04",
 		"in_date": "20231012",
 		"hsecd": "04",
@@ -814,6 +830,58 @@
 		"apply_nums": "71세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000477&pblancNo=2023000477&houseSecd=01",
+		"in_date": "20231016",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "강릉 오션시티 아이파크",
+		"addr": "강원특별자치도 강릉시 견소동 244-2번지 일원",
+		"short_addr": "강원특별자치도 강릉시",
+		"addr_lv1": "강원특별자치도",
+		"addr_lv2": "강릉시",
+		"apply_nums": "794세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000525&pblancNo=2023000525&houseSecd=01",
+		"in_date": "20231016",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "구미 그랑포레 데시앙",
+		"addr": "경상북도 구미시 도량동 산40-4번지 일원",
+		"short_addr": "경상북도 구미시",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "구미시",
+		"apply_nums": "1350세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000443&pblancNo=2023000443&houseSecd=01",
+		"in_date": "20231016",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "더샵 강동센트럴시티",
+		"addr": "서울특별시 강동구 천호동 410-100번지 일원",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "168세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000524&pblancNo=2023000524&houseSecd=01",
+		"in_date": "20231016",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "더샵 소양스타리버",
+		"addr": "강원특별자치도 춘천시 소양로2가 7-2번지 일대",
+		"short_addr": "강원특별자치도 춘천시",
+		"addr_lv1": "강원특별자치도",
+		"addr_lv2": "춘천시",
+		"apply_nums": "855세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000499&pblancNo=2023000499&houseSecd=01",
 		"in_date": "20231016",
 		"hsecd": "01",
@@ -827,6 +895,19 @@
 		"apply_nums": "66세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000480&pblancNo=2023000480&houseSecd=01",
+		"in_date": "20231016",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "트리우스 광명",
+		"addr": "경기도 광명시 광명1동 12-2번지 일원",
+		"short_addr": "경기도 광명시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "광명시",
+		"apply_nums": "730세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000502&pblancNo=2023000502&houseSecd=01",
 		"in_date": "20231016",
 		"hsecd": "01",
@@ -838,6 +919,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "수원시",
 		"apply_nums": "482세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000506&pblancNo=2023000506&houseSecd=01",
+		"in_date": "20231016",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "한동 화개리 에코리브",
+		"addr": "경상북도 영덕군 영덕읍 화개리 203-2번지일원",
+		"short_addr": "경상북도 영덕군",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "영덕군",
+		"apply_nums": "35세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950051&pblancNo=2023950051&houseSecd=02",
@@ -853,6 +947,71 @@
 		"apply_nums": "71세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000479&pblancNo=2023000479&houseSecd=01",
+		"in_date": "20231017",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "인천검단신도시 디에트르 더 에듀(AA20BL)",
+		"addr": "인천광역시 서구 불로동 검단신도시 AA20BL 공동주택용지",
+		"short_addr": "인천광역시 서구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "781세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000477&pblancNo=2023000477&houseSecd=01",
+		"in_date": "20231017",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "강릉 오션시티 아이파크",
+		"addr": "강원특별자치도 강릉시 견소동 244-2번지 일원",
+		"short_addr": "강원특별자치도 강릉시",
+		"addr_lv1": "강원특별자치도",
+		"addr_lv2": "강릉시",
+		"apply_nums": "794세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000525&pblancNo=2023000525&houseSecd=01",
+		"in_date": "20231017",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "구미 그랑포레 데시앙",
+		"addr": "경상북도 구미시 도량동 산40-4번지 일원",
+		"short_addr": "경상북도 구미시",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "구미시",
+		"apply_nums": "1350세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000443&pblancNo=2023000443&houseSecd=01",
+		"in_date": "20231017",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "더샵 강동센트럴시티",
+		"addr": "서울특별시 강동구 천호동 410-100번지 일원",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "168세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000524&pblancNo=2023000524&houseSecd=01",
+		"in_date": "20231017",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "더샵 소양스타리버",
+		"addr": "강원특별자치도 춘천시 소양로2가 7-2번지 일대",
+		"short_addr": "강원특별자치도 춘천시",
+		"addr_lv1": "강원특별자치도",
+		"addr_lv2": "춘천시",
+		"apply_nums": "855세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000499&pblancNo=2023000499&houseSecd=01",
 		"in_date": "20231017",
 		"hsecd": "01",
@@ -864,6 +1023,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "안양시",
 		"apply_nums": "66세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000480&pblancNo=2023000480&houseSecd=01",
+		"in_date": "20231017",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "트리우스 광명",
+		"addr": "경기도 광명시 광명1동 12-2번지 일원",
+		"short_addr": "경기도 광명시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "광명시",
+		"apply_nums": "730세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000502&pblancNo=2023000502&houseSecd=01",
@@ -879,6 +1051,84 @@
 		"apply_nums": "482세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000506&pblancNo=2023000506&houseSecd=01",
+		"in_date": "20231017",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "한동 화개리 에코리브",
+		"addr": "경상북도 영덕군 영덕읍 화개리 203-2번지일원",
+		"short_addr": "경상북도 영덕군",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "영덕군",
+		"apply_nums": "35세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000479&pblancNo=2023000479&houseSecd=01",
+		"in_date": "20231018",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "인천검단신도시 디에트르 더 에듀(AA20BL)",
+		"addr": "인천광역시 서구 불로동 검단신도시 AA20BL 공동주택용지",
+		"short_addr": "인천광역시 서구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "781세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000477&pblancNo=2023000477&houseSecd=01",
+		"in_date": "20231018",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "강릉 오션시티 아이파크",
+		"addr": "강원특별자치도 강릉시 견소동 244-2번지 일원",
+		"short_addr": "강원특별자치도 강릉시",
+		"addr_lv1": "강원특별자치도",
+		"addr_lv2": "강릉시",
+		"apply_nums": "794세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000525&pblancNo=2023000525&houseSecd=01",
+		"in_date": "20231018",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "구미 그랑포레 데시앙",
+		"addr": "경상북도 구미시 도량동 산40-4번지 일원",
+		"short_addr": "경상북도 구미시",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "구미시",
+		"apply_nums": "1350세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000443&pblancNo=2023000443&houseSecd=01",
+		"in_date": "20231018",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "더샵 강동센트럴시티",
+		"addr": "서울특별시 강동구 천호동 410-100번지 일원",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "168세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000524&pblancNo=2023000524&houseSecd=01",
+		"in_date": "20231018",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "더샵 소양스타리버",
+		"addr": "강원특별자치도 춘천시 소양로2가 7-2번지 일대",
+		"short_addr": "강원특별자치도 춘천시",
+		"addr_lv1": "강원특별자치도",
+		"addr_lv2": "춘천시",
+		"apply_nums": "855세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000499&pblancNo=2023000499&houseSecd=01",
 		"in_date": "20231018",
 		"hsecd": "01",
@@ -892,6 +1142,19 @@
 		"apply_nums": "66세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000480&pblancNo=2023000480&houseSecd=01",
+		"in_date": "20231018",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "트리우스 광명",
+		"addr": "경기도 광명시 광명1동 12-2번지 일원",
+		"short_addr": "경기도 광명시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "광명시",
+		"apply_nums": "730세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000502&pblancNo=2023000502&houseSecd=01",
 		"in_date": "20231018",
 		"hsecd": "01",
@@ -903,5 +1166,18 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "수원시",
 		"apply_nums": "482세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000479&pblancNo=2023000479&houseSecd=01",
+		"in_date": "20231019",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "인천검단신도시 디에트르 더 에듀(AA20BL)",
+		"addr": "인천광역시 서구 불로동 검단신도시 AA20BL 공동주택용지",
+		"short_addr": "인천광역시 서구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "781세대"
 	}
 ]
