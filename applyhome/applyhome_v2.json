@@ -1,19 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950050&pblancNo=2023950050&houseSecd=02",
-		"in_date": "20231007",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "당산 한강 더로드캐슬",
-		"addr": "서울특별시 영등포구 당산동6가 347-5",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "14세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950050&pblancNo=2023950050&houseSecd=02",
 		"in_date": "20231008",
 		"hsecd": "02",
 		"rse": "05",
@@ -542,6 +529,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "은평구",
 		"apply_nums": "71세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910097&pblancNo=2023910097&houseSecd=04",
+		"in_date": "20231016",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "남구로역 동일 센타시아(임의공급 5차)",
+		"addr": "서울특별시 구로구 가리봉동 113-1번지 일원",
+		"short_addr": "서울특별시 구로구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "구로구",
+		"apply_nums": "13세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910094&pblancNo=2023910094&houseSecd=04",
