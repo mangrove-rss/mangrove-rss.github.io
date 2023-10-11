@@ -1,19 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950050&pblancNo=2023950050&houseSecd=02",
-		"in_date": "20231008",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "당산 한강 더로드캐슬",
-		"addr": "서울특별시 영등포구 당산동6가 347-5",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "14세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950050&pblancNo=2023950050&houseSecd=02",
 		"in_date": "20231009",
 		"hsecd": "02",
 		"rse": "05",
@@ -674,6 +661,45 @@
 		"apply_nums": "35세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950055&pblancNo=2023950055&houseSecd=02",
+		"in_date": "20231017",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "현대 프라힐스 소사역 더프라임",
+		"addr": "경기도 부천시 소사본동 70-7외 6필지",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "3세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910100&pblancNo=2023910100&houseSecd=04",
+		"in_date": "20231017",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "현대 프라힐스 소사역 더프라임(임의공급 6차)",
+		"addr": "경기도 부천시 소사본동 70-7외 6필지",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910093&pblancNo=2023910093&houseSecd=04",
+		"in_date": "20231017",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "화곡 더리브 스카이 주상복합아파트 (임의공급7차)",
+		"addr": "서울특별시 강서구 화곡동 370-76 외 6필지",
+		"short_addr": "서울특별시 강서구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강서구",
+		"apply_nums": "20세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000479&pblancNo=2023000479&houseSecd=01",
 		"in_date": "20231018",
 		"hsecd": "01",
@@ -869,6 +895,32 @@
 		"apply_nums": "15세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000526&pblancNo=2023000526&houseSecd=01",
+		"in_date": "20231023",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "금정역 개성로니엘",
+		"addr": "경기도 군포시 금정동 77-4번지 일원",
+		"short_addr": "경기도 군포시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "군포시",
+		"apply_nums": "80세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000472&pblancNo=2023000472&houseSecd=01",
+		"in_date": "20231023",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "천호역 마에스트로",
+		"addr": "서울특별시 강동구 천호동 334-2",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "77세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950052&pblancNo=2023950052&houseSecd=02",
 		"in_date": "20231023",
 		"hsecd": "02",
@@ -895,6 +947,32 @@
 		"apply_nums": "15세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000526&pblancNo=2023000526&houseSecd=01",
+		"in_date": "20231024",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "금정역 개성로니엘",
+		"addr": "경기도 군포시 금정동 77-4번지 일원",
+		"short_addr": "경기도 군포시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "군포시",
+		"apply_nums": "80세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000472&pblancNo=2023000472&houseSecd=01",
+		"in_date": "20231024",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "천호역 마에스트로",
+		"addr": "서울특별시 강동구 천호동 334-2",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "77세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950052&pblancNo=2023950052&houseSecd=02",
 		"in_date": "20231024",
 		"hsecd": "02",
@@ -919,6 +997,32 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "관악구",
 		"apply_nums": "15세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000526&pblancNo=2023000526&houseSecd=01",
+		"in_date": "20231025",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "금정역 개성로니엘",
+		"addr": "경기도 군포시 금정동 77-4번지 일원",
+		"short_addr": "경기도 군포시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "군포시",
+		"apply_nums": "80세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000472&pblancNo=2023000472&houseSecd=01",
+		"in_date": "20231025",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "천호역 마에스트로",
+		"addr": "서울특별시 강동구 천호동 334-2",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "77세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950052&pblancNo=2023950052&houseSecd=02",
