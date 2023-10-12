@@ -1,18 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950050&pblancNo=2023950050&houseSecd=02",
-		"in_date": "20231009",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "당산 한강 더로드캐슬",
-		"addr": "서울특별시 영등포구 당산동6가 347-5",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "14세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000359&pblancNo=2023000359&houseSecd=01",
 		"in_date": "20231010",
 		"hsecd": "01",
@@ -674,6 +661,19 @@
 		"apply_nums": "3세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910096&pblancNo=2023910096&houseSecd=04",
+		"in_date": "20231017",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "용문역 리체스트(임의공급)",
+		"addr": "대전광역시 서구 용문동 589-14",
+		"short_addr": "대전광역시 서구",
+		"addr_lv1": "대전광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "59세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910100&pblancNo=2023910100&houseSecd=04",
 		"in_date": "20231017",
 		"hsecd": "04",
@@ -804,6 +804,32 @@
 		"apply_nums": "482세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950054&pblancNo=2023950054&houseSecd=02",
+		"in_date": "20231018",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "시지 삼정그린코아 포레스트",
+		"addr": "대구광역시 수성구 욱수천로2길 22 (욱수동, 시지 삼정그린코아 포레스트)",
+		"short_addr": "대구광역시 수성구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "수성구",
+		"apply_nums": "98세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910098&pblancNo=2023910098&houseSecd=04",
+		"in_date": "20231018",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "가야산 한라비발디 프리미어(임의공급)",
+		"addr": "전라남도 광양시 가야로 322-25",
+		"short_addr": "전라남도 광양시",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "광양시",
+		"apply_nums": "35세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000479&pblancNo=2023000479&houseSecd=01",
 		"in_date": "20231019",
 		"hsecd": "01",
@@ -817,6 +843,32 @@
 		"apply_nums": "781세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950054&pblancNo=2023950054&houseSecd=02",
+		"in_date": "20231019",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "시지 삼정그린코아 포레스트",
+		"addr": "대구광역시 수성구 욱수천로2길 22 (욱수동, 시지 삼정그린코아 포레스트)",
+		"short_addr": "대구광역시 수성구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "수성구",
+		"apply_nums": "98세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910098&pblancNo=2023910098&houseSecd=04",
+		"in_date": "20231019",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "가야산 한라비발디 프리미어(임의공급)",
+		"addr": "전라남도 광양시 가야로 322-25",
+		"short_addr": "전라남도 광양시",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "광양시",
+		"apply_nums": "35세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950052&pblancNo=2023950052&houseSecd=02",
 		"in_date": "20231020",
 		"hsecd": "02",
@@ -841,6 +893,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "관악구",
 		"apply_nums": "15세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950054&pblancNo=2023950054&houseSecd=02",
+		"in_date": "20231020",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "시지 삼정그린코아 포레스트",
+		"addr": "대구광역시 수성구 욱수천로2길 22 (욱수동, 시지 삼정그린코아 포레스트)",
+		"short_addr": "대구광역시 수성구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "수성구",
+		"apply_nums": "98세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950052&pblancNo=2023950052&houseSecd=02",
@@ -869,6 +934,19 @@
 		"apply_nums": "15세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950054&pblancNo=2023950054&houseSecd=02",
+		"in_date": "20231021",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "시지 삼정그린코아 포레스트",
+		"addr": "대구광역시 수성구 욱수천로2길 22 (욱수동, 시지 삼정그린코아 포레스트)",
+		"short_addr": "대구광역시 수성구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "수성구",
+		"apply_nums": "98세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950052&pblancNo=2023950052&houseSecd=02",
 		"in_date": "20231022",
 		"hsecd": "02",
@@ -893,6 +971,32 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "관악구",
 		"apply_nums": "15세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950054&pblancNo=2023950054&houseSecd=02",
+		"in_date": "20231022",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "시지 삼정그린코아 포레스트",
+		"addr": "대구광역시 수성구 욱수천로2길 22 (욱수동, 시지 삼정그린코아 포레스트)",
+		"short_addr": "대구광역시 수성구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "수성구",
+		"apply_nums": "98세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000277&pblancNo=2023000277&houseSecd=01",
+		"in_date": "20231023",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "고창 광신프로그레스",
+		"addr": "전라북도 고창군 고창읍 석교리 11-2번지 일원",
+		"short_addr": "전라북도 고창군",
+		"addr_lv1": "전라북도",
+		"addr_lv2": "고창군",
+		"apply_nums": "206세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000526&pblancNo=2023000526&houseSecd=01",
@@ -906,6 +1010,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "군포시",
 		"apply_nums": "80세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000534&pblancNo=2023000534&houseSecd=01",
+		"in_date": "20231023",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "부산 에코델타시티 16블록 중흥S-클래스",
+		"addr": "부산광역시 강서구 강동동 에코델타시티 16BL ",
+		"short_addr": "부산광역시 강서구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "강서구",
+		"apply_nums": "1067세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000472&pblancNo=2023000472&houseSecd=01",
@@ -947,6 +1064,32 @@
 		"apply_nums": "15세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950054&pblancNo=2023950054&houseSecd=02",
+		"in_date": "20231023",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "시지 삼정그린코아 포레스트",
+		"addr": "대구광역시 수성구 욱수천로2길 22 (욱수동, 시지 삼정그린코아 포레스트)",
+		"short_addr": "대구광역시 수성구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "수성구",
+		"apply_nums": "98세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000277&pblancNo=2023000277&houseSecd=01",
+		"in_date": "20231024",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "고창 광신프로그레스",
+		"addr": "전라북도 고창군 고창읍 석교리 11-2번지 일원",
+		"short_addr": "전라북도 고창군",
+		"addr_lv1": "전라북도",
+		"addr_lv2": "고창군",
+		"apply_nums": "206세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000526&pblancNo=2023000526&houseSecd=01",
 		"in_date": "20231024",
 		"hsecd": "01",
@@ -958,6 +1101,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "군포시",
 		"apply_nums": "80세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000534&pblancNo=2023000534&houseSecd=01",
+		"in_date": "20231024",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "부산 에코델타시티 16블록 중흥S-클래스",
+		"addr": "부산광역시 강서구 강동동 에코델타시티 16BL ",
+		"short_addr": "부산광역시 강서구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "강서구",
+		"apply_nums": "1067세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000472&pblancNo=2023000472&houseSecd=01",
@@ -997,6 +1153,32 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "관악구",
 		"apply_nums": "15세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950054&pblancNo=2023950054&houseSecd=02",
+		"in_date": "20231024",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "시지 삼정그린코아 포레스트",
+		"addr": "대구광역시 수성구 욱수천로2길 22 (욱수동, 시지 삼정그린코아 포레스트)",
+		"short_addr": "대구광역시 수성구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "수성구",
+		"apply_nums": "98세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000277&pblancNo=2023000277&houseSecd=01",
+		"in_date": "20231025",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "고창 광신프로그레스",
+		"addr": "전라북도 고창군 고창읍 석교리 11-2번지 일원",
+		"short_addr": "전라북도 고창군",
+		"addr_lv1": "전라북도",
+		"addr_lv2": "고창군",
+		"apply_nums": "206세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000526&pblancNo=2023000526&houseSecd=01",
@@ -1010,6 +1192,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "군포시",
 		"apply_nums": "80세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000534&pblancNo=2023000534&houseSecd=01",
+		"in_date": "20231025",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "부산 에코델타시티 16블록 중흥S-클래스",
+		"addr": "부산광역시 강서구 강동동 에코델타시티 16BL ",
+		"short_addr": "부산광역시 강서구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "강서구",
+		"apply_nums": "1067세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000472&pblancNo=2023000472&houseSecd=01",
