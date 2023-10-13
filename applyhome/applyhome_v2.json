@@ -1,71 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000359&pblancNo=2023000359&houseSecd=01",
-		"in_date": "20231010",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "검단신도시 롯데캐슬 넥스티엘",
-		"addr": "인천광역시 서구 원당동 1061-1 / 검단신도시 RC1 블록",
-		"short_addr": "인천광역시 서구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "서구",
-		"apply_nums": "372세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000463&pblancNo=2023000463&houseSecd=01",
-		"in_date": "20231010",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "월드메르디앙 송도",
-		"addr": "인천광역시 연수구 해돋이로 160-19 (송도동)",
-		"short_addr": "인천광역시 연수구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "연수구",
-		"apply_nums": "128세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950050&pblancNo=2023950050&houseSecd=02",
-		"in_date": "20231010",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "당산 한강 더로드캐슬",
-		"addr": "서울특별시 영등포구 당산동6가 347-5",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "14세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910090&pblancNo=2023910090&houseSecd=04",
-		"in_date": "20231010",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "강동 중앙하이츠 시티(임의공급 2차)",
-		"addr": "서울특별시 강동구 길동 415-5번지",
-		"short_addr": "서울특별시 강동구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강동구",
-		"apply_nums": "19세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910095&pblancNo=2023910095&houseSecd=04",
-		"in_date": "20231010",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "우장산 한울에이치밸리움 무순위(사후) 6차",
-		"addr": "서울특별시 강서구 공항대로 42길 13(내발산동)",
-		"short_addr": "서울특별시 강서구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강서구",
-		"apply_nums": "2세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000359&pblancNo=2023000359&houseSecd=01",
 		"in_date": "20231011",
 		"hsecd": "01",
 		"rse": "02",
@@ -986,6 +921,19 @@
 		"apply_nums": "98세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000415&pblancNo=2023000415&houseSecd=01",
+		"in_date": "20231023",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "e편한세상 강동 프레스티지원",
+		"addr": "서울특별시 강동구 천호동 423-76번지 일대",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "263세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000277&pblancNo=2023000277&houseSecd=01",
 		"in_date": "20231023",
 		"hsecd": "01",
@@ -1012,6 +960,32 @@
 		"apply_nums": "80세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000435&pblancNo=2023000435&houseSecd=01",
+		"in_date": "20231023",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "동탄레이크파크 자연앤 e편한세상(국민주택)",
+		"addr": "경기도 화성시 장지동 970(화성동탄2 택지개발사업지구 A94BL)",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "907세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000434&pblancNo=2023000434&houseSecd=01",
+		"in_date": "20231023",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "동탄레이크파크 자연앤 e편한세상(민영주택)",
+		"addr": "경기도 화성시 장지동 970(화성동탄2 택지개발사업지구 A94BL)",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "320세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000534&pblancNo=2023000534&houseSecd=01",
 		"in_date": "20231023",
 		"hsecd": "01",
@@ -1025,6 +999,19 @@
 		"apply_nums": "1067세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000431&pblancNo=2023000431&houseSecd=01",
+		"in_date": "20231023",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "안양자이 더 포레스트",
+		"addr": "경기도 안양시 만안구 석수2동 348번지 일대",
+		"short_addr": "경기도 안양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "안양시",
+		"apply_nums": "212세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000472&pblancNo=2023000472&houseSecd=01",
 		"in_date": "20231023",
 		"hsecd": "01",
@@ -1036,6 +1023,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "강동구",
 		"apply_nums": "77세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000527&pblancNo=2023000527&houseSecd=01",
+		"in_date": "20231023",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "힐스테이트 더웨이브시티",
+		"addr": "경기도 시흥시 정왕동 2716(멀티테크노밸리(MTV) 주상-2)",
+		"short_addr": "경기도 시흥시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "시흥시",
+		"apply_nums": "851세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950052&pblancNo=2023950052&houseSecd=02",
@@ -1077,6 +1077,19 @@
 		"apply_nums": "98세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000415&pblancNo=2023000415&houseSecd=01",
+		"in_date": "20231024",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "e편한세상 강동 프레스티지원",
+		"addr": "서울특별시 강동구 천호동 423-76번지 일대",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "263세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000277&pblancNo=2023000277&houseSecd=01",
 		"in_date": "20231024",
 		"hsecd": "01",
@@ -1103,6 +1116,32 @@
 		"apply_nums": "80세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000435&pblancNo=2023000435&houseSecd=01",
+		"in_date": "20231024",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "동탄레이크파크 자연앤 e편한세상(국민주택)",
+		"addr": "경기도 화성시 장지동 970(화성동탄2 택지개발사업지구 A94BL)",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "907세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000434&pblancNo=2023000434&houseSecd=01",
+		"in_date": "20231024",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "동탄레이크파크 자연앤 e편한세상(민영주택)",
+		"addr": "경기도 화성시 장지동 970(화성동탄2 택지개발사업지구 A94BL)",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "320세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000534&pblancNo=2023000534&houseSecd=01",
 		"in_date": "20231024",
 		"hsecd": "01",
@@ -1116,6 +1155,19 @@
 		"apply_nums": "1067세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000431&pblancNo=2023000431&houseSecd=01",
+		"in_date": "20231024",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "안양자이 더 포레스트",
+		"addr": "경기도 안양시 만안구 석수2동 348번지 일대",
+		"short_addr": "경기도 안양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "안양시",
+		"apply_nums": "212세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000472&pblancNo=2023000472&houseSecd=01",
 		"in_date": "20231024",
 		"hsecd": "01",
@@ -1127,6 +1179,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "강동구",
 		"apply_nums": "77세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000527&pblancNo=2023000527&houseSecd=01",
+		"in_date": "20231024",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "힐스테이트 더웨이브시티",
+		"addr": "경기도 시흥시 정왕동 2716(멀티테크노밸리(MTV) 주상-2)",
+		"short_addr": "경기도 시흥시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "시흥시",
+		"apply_nums": "851세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950052&pblancNo=2023950052&houseSecd=02",
@@ -1168,6 +1233,19 @@
 		"apply_nums": "98세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000415&pblancNo=2023000415&houseSecd=01",
+		"in_date": "20231025",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "e편한세상 강동 프레스티지원",
+		"addr": "서울특별시 강동구 천호동 423-76번지 일대",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "263세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000277&pblancNo=2023000277&houseSecd=01",
 		"in_date": "20231025",
 		"hsecd": "01",
@@ -1194,6 +1272,32 @@
 		"apply_nums": "80세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000435&pblancNo=2023000435&houseSecd=01",
+		"in_date": "20231025",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "동탄레이크파크 자연앤 e편한세상(국민주택)",
+		"addr": "경기도 화성시 장지동 970(화성동탄2 택지개발사업지구 A94BL)",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "907세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000434&pblancNo=2023000434&houseSecd=01",
+		"in_date": "20231025",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "동탄레이크파크 자연앤 e편한세상(민영주택)",
+		"addr": "경기도 화성시 장지동 970(화성동탄2 택지개발사업지구 A94BL)",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "320세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000534&pblancNo=2023000534&houseSecd=01",
 		"in_date": "20231025",
 		"hsecd": "01",
@@ -1207,6 +1311,19 @@
 		"apply_nums": "1067세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000431&pblancNo=2023000431&houseSecd=01",
+		"in_date": "20231025",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "안양자이 더 포레스트",
+		"addr": "경기도 안양시 만안구 석수2동 348번지 일대",
+		"short_addr": "경기도 안양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "안양시",
+		"apply_nums": "212세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000472&pblancNo=2023000472&houseSecd=01",
 		"in_date": "20231025",
 		"hsecd": "01",
@@ -1218,6 +1335,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "강동구",
 		"apply_nums": "77세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000527&pblancNo=2023000527&houseSecd=01",
+		"in_date": "20231025",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "힐스테이트 더웨이브시티",
+		"addr": "경기도 시흥시 정왕동 2716(멀티테크노밸리(MTV) 주상-2)",
+		"short_addr": "경기도 시흥시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "시흥시",
+		"apply_nums": "851세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950052&pblancNo=2023950052&houseSecd=02",
