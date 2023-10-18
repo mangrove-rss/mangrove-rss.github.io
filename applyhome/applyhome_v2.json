@@ -1,18 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950051&pblancNo=2023950051&houseSecd=02",
-		"in_date": "20231015",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "은평 푸르지오 발라드 장기일반민간임대주택",
-		"addr": "서울특별시 은평구 불광동 500",
-		"short_addr": "서울특별시 은평구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "은평구",
-		"apply_nums": "71세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000477&pblancNo=2023000477&houseSecd=01",
 		"in_date": "20231016",
 		"hsecd": "01",
@@ -817,6 +804,14 @@
 		"addr_lv1": "충청북도",
 		"addr_lv2": "청주시",
 		"apply_nums": "21세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023940002&pblancNo=2023940002&houseSecd=11",
+		"in_date": "20231023",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "평촌 센텀퍼스트"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000415&pblancNo=2023000415&houseSecd=01",
