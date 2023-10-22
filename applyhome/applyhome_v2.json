@@ -1,44 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000479&pblancNo=2023000479&houseSecd=01",
-		"in_date": "20231019",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "인천검단신도시 디에트르 더 에듀(AA20BL)",
-		"addr": "인천광역시 서구 불로동 검단신도시 AA20BL 공동주택용지",
-		"short_addr": "인천광역시 서구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "서구",
-		"apply_nums": "781세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950054&pblancNo=2023950054&houseSecd=02",
-		"in_date": "20231019",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "시지 삼정그린코아 포레스트",
-		"addr": "대구광역시 수성구 욱수천로2길 22 (욱수동, 시지 삼정그린코아 포레스트)",
-		"short_addr": "대구광역시 수성구",
-		"addr_lv1": "대구광역시",
-		"addr_lv2": "수성구",
-		"apply_nums": "98세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910098&pblancNo=2023910098&houseSecd=04",
-		"in_date": "20231019",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "가야산 한라비발디 프리미어(임의공급)",
-		"addr": "전라남도 광양시 가야로 322-25",
-		"short_addr": "전라남도 광양시",
-		"addr_lv1": "전라남도",
-		"addr_lv2": "광양시",
-		"apply_nums": "35세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950052&pblancNo=2023950052&houseSecd=02",
 		"in_date": "20231020",
 		"hsecd": "02",
@@ -867,6 +828,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "송파구",
 		"apply_nums": "30세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910105&pblancNo=2023910105&houseSecd=04",
+		"in_date": "20231030",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "지행역 센트레빌 파크뷰 (임의공급1차) ",
+		"addr": "경기도 동두천시 거북마루로 46 (지행동 691-2)",
+		"short_addr": "경기도 동두천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "동두천시",
+		"apply_nums": "3세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000543&pblancNo=2023000543&houseSecd=01",
