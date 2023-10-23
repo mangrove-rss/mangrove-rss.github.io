@@ -1,45 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950052&pblancNo=2023950052&houseSecd=02",
-		"in_date": "20231020",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "라파르 신림(도시형생활주택)",
-		"addr": "서울특별시 관악구 신림동 10-355번지",
-		"short_addr": "서울특별시 관악구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "관악구",
-		"apply_nums": "16세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950053&pblancNo=2023950053&houseSecd=02",
-		"in_date": "20231020",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "라파르 신림(오피스텔)",
-		"addr": "서울특별시 관악구 신림동 10-355번지",
-		"short_addr": "서울특별시 관악구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "관악구",
-		"apply_nums": "15세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950054&pblancNo=2023950054&houseSecd=02",
-		"in_date": "20231020",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "시지 삼정그린코아 포레스트",
-		"addr": "대구광역시 수성구 욱수천로2길 22 (욱수동, 시지 삼정그린코아 포레스트)",
-		"short_addr": "대구광역시 수성구",
-		"addr_lv1": "대구광역시",
-		"addr_lv2": "수성구",
-		"apply_nums": "98세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950052&pblancNo=2023950052&houseSecd=02",
 		"in_date": "20231021",
 		"hsecd": "02",
 		"rse": "05",
@@ -843,6 +804,19 @@
 		"apply_nums": "3세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910106&pblancNo=2023910106&houseSecd=04",
+		"in_date": "20231030",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "평촌자이아이파크(임의공급3차)",
+		"addr": "경기도 안양시 동안구 비산동 515-2번지 일원",
+		"short_addr": "경기도 안양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "안양시",
+		"apply_nums": "11세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000543&pblancNo=2023000543&houseSecd=01",
 		"in_date": "20231031",
 		"hsecd": "01",
@@ -1090,6 +1064,19 @@
 		"apply_nums": "393세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000519&pblancNo=2023000519&houseSecd=01",
+		"in_date": "20231102",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "부천 JY 포에시아",
+		"addr": "경기도 부천시 신흥로 20 (심곡동)",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "55세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000543&pblancNo=2023000543&houseSecd=01",
 		"in_date": "20231102",
 		"hsecd": "01",
@@ -1101,5 +1088,18 @@
 		"addr_lv1": "울산광역시",
 		"addr_lv2": "울주군",
 		"apply_nums": "1109세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000519&pblancNo=2023000519&houseSecd=01",
+		"in_date": "20231103",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "부천 JY 포에시아",
+		"addr": "경기도 부천시 신흥로 20 (심곡동)",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "55세대"
 	}
 ]
