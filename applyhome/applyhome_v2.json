@@ -1,188 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000415&pblancNo=2023000415&houseSecd=01",
-		"in_date": "20231024",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "e편한세상 강동 프레스티지원",
-		"addr": "서울특별시 강동구 천호동 423-76번지 일대",
-		"short_addr": "서울특별시 강동구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강동구",
-		"apply_nums": "263세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000277&pblancNo=2023000277&houseSecd=01",
-		"in_date": "20231024",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "고창 광신프로그레스",
-		"addr": "전라북도 고창군 고창읍 석교리 11-2번지 일원",
-		"short_addr": "전라북도 고창군",
-		"addr_lv1": "전라북도",
-		"addr_lv2": "고창군",
-		"apply_nums": "206세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000526&pblancNo=2023000526&houseSecd=01",
-		"in_date": "20231024",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "금정역 개성로니엘",
-		"addr": "경기도 군포시 금정동 77-4번지 일원",
-		"short_addr": "경기도 군포시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "군포시",
-		"apply_nums": "80세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000435&pblancNo=2023000435&houseSecd=01",
-		"in_date": "20231024",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "동탄레이크파크 자연앤 e편한세상(국민주택)",
-		"addr": "경기도 화성시 장지동 970(화성동탄2 택지개발사업지구 A94BL)",
-		"short_addr": "경기도 화성시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "화성시",
-		"apply_nums": "907세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000434&pblancNo=2023000434&houseSecd=01",
-		"in_date": "20231024",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "동탄레이크파크 자연앤 e편한세상(민영주택)",
-		"addr": "경기도 화성시 장지동 970(화성동탄2 택지개발사업지구 A94BL)",
-		"short_addr": "경기도 화성시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "화성시",
-		"apply_nums": "320세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000534&pblancNo=2023000534&houseSecd=01",
-		"in_date": "20231024",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "부산 에코델타시티 16블록 중흥S-클래스",
-		"addr": "부산광역시 강서구 강동동 에코델타시티 16BL ",
-		"short_addr": "부산광역시 강서구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "강서구",
-		"apply_nums": "1067세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000431&pblancNo=2023000431&houseSecd=01",
-		"in_date": "20231024",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "안양자이 더 포레스트",
-		"addr": "경기도 안양시 만안구 석수2동 348번지 일대",
-		"short_addr": "경기도 안양시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "안양시",
-		"apply_nums": "212세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000472&pblancNo=2023000472&houseSecd=01",
-		"in_date": "20231024",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "천호역 마에스트로",
-		"addr": "서울특별시 강동구 천호동 334-2",
-		"short_addr": "서울특별시 강동구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강동구",
-		"apply_nums": "77세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000527&pblancNo=2023000527&houseSecd=01",
-		"in_date": "20231024",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "힐스테이트 더웨이브시티",
-		"addr": "경기도 시흥시 정왕동 2716(멀티테크노밸리(MTV) 주상-2)",
-		"short_addr": "경기도 시흥시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "시흥시",
-		"apply_nums": "851세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950052&pblancNo=2023950052&houseSecd=02",
-		"in_date": "20231024",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "라파르 신림(도시형생활주택)",
-		"addr": "서울특별시 관악구 신림동 10-355번지",
-		"short_addr": "서울특별시 관악구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "관악구",
-		"apply_nums": "16세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950053&pblancNo=2023950053&houseSecd=02",
-		"in_date": "20231024",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "라파르 신림(오피스텔)",
-		"addr": "서울특별시 관악구 신림동 10-355번지",
-		"short_addr": "서울특별시 관악구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "관악구",
-		"apply_nums": "15세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950054&pblancNo=2023950054&houseSecd=02",
-		"in_date": "20231024",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "시지 삼정그린코아 포레스트",
-		"addr": "대구광역시 수성구 욱수천로2길 22 (욱수동, 시지 삼정그린코아 포레스트)",
-		"short_addr": "대구광역시 수성구",
-		"addr_lv1": "대구광역시",
-		"addr_lv2": "수성구",
-		"apply_nums": "98세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910103&pblancNo=2023910103&houseSecd=04",
-		"in_date": "20231024",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "송도 아리스타 프라임 (무순위4차)",
-		"addr": "인천광역시 연수구 송도동 22-6,22-7번지",
-		"short_addr": "인천광역시 연수구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "연수구",
-		"apply_nums": "2세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910102&pblancNo=2023910102&houseSecd=04",
-		"in_date": "20231024",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "청주 흥덕 칸타빌 더뉴(임의공급)",
-		"addr": "충청북도 청주시 흥덕구 강내면 월곡리 82-1 일원",
-		"short_addr": "충청북도 청주시",
-		"addr_lv1": "충청북도",
-		"addr_lv2": "청주시",
-		"apply_nums": "21세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000415&pblancNo=2023000415&houseSecd=01",
 		"in_date": "20231025",
 		"hsecd": "01",
 		"rse": "03",
@@ -887,6 +705,19 @@
 		"apply_nums": "1297세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000478&pblancNo=2023000478&houseSecd=01",
+		"in_date": "20231106",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "더샵 의정부역 링크시티",
+		"addr": "경기도 의정부시 의정부동 248-3번지 일원",
+		"short_addr": "경기도 의정부시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "의정부시",
+		"apply_nums": "1401세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000555&pblancNo=2023000555&houseSecd=01",
 		"in_date": "20231106",
 		"hsecd": "01",
@@ -898,6 +729,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "도봉구",
 		"apply_nums": "130세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000528&pblancNo=2023000528&houseSecd=01",
+		"in_date": "20231106",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "의정부 푸르지오 클라시엘",
+		"addr": "경기도 의정부시 금오동 369-1일원",
+		"short_addr": "경기도 의정부시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "의정부시",
+		"apply_nums": "656세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000565&pblancNo=2023000565&houseSecd=01",
@@ -965,6 +809,19 @@
 		"apply_nums": "1297세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000478&pblancNo=2023000478&houseSecd=01",
+		"in_date": "20231107",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "더샵 의정부역 링크시티",
+		"addr": "경기도 의정부시 의정부동 248-3번지 일원",
+		"short_addr": "경기도 의정부시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "의정부시",
+		"apply_nums": "1401세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000555&pblancNo=2023000555&houseSecd=01",
 		"in_date": "20231107",
 		"hsecd": "01",
@@ -976,6 +833,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "도봉구",
 		"apply_nums": "130세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000528&pblancNo=2023000528&houseSecd=01",
+		"in_date": "20231107",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "의정부 푸르지오 클라시엘",
+		"addr": "경기도 의정부시 금오동 369-1일원",
+		"short_addr": "경기도 의정부시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "의정부시",
+		"apply_nums": "656세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000565&pblancNo=2023000565&houseSecd=01",
@@ -1043,6 +913,19 @@
 		"apply_nums": "1297세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000478&pblancNo=2023000478&houseSecd=01",
+		"in_date": "20231108",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "더샵 의정부역 링크시티",
+		"addr": "경기도 의정부시 의정부동 248-3번지 일원",
+		"short_addr": "경기도 의정부시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "의정부시",
+		"apply_nums": "1401세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000555&pblancNo=2023000555&houseSecd=01",
 		"in_date": "20231108",
 		"hsecd": "01",
@@ -1054,6 +937,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "도봉구",
 		"apply_nums": "130세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000528&pblancNo=2023000528&houseSecd=01",
+		"in_date": "20231108",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "의정부 푸르지오 클라시엘",
+		"addr": "경기도 의정부시 금오동 369-1일원",
+		"short_addr": "경기도 의정부시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "의정부시",
+		"apply_nums": "656세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000565&pblancNo=2023000565&houseSecd=01",
