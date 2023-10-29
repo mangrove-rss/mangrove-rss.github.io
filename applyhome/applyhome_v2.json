@@ -1,39 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023850023&pblancNo=2023850023&houseSecd=03",
-		"in_date": "20231026",
-		"hsecd": "03",
-		"rse": "04",
-		"type": "",
-		"name": "엘리프 이천 하이시티"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950052&pblancNo=2023950052&houseSecd=02",
-		"in_date": "20231026",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "라파르 신림(도시형생활주택)",
-		"addr": "서울특별시 관악구 신림동 10-355번지",
-		"short_addr": "서울특별시 관악구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "관악구",
-		"apply_nums": "16세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950053&pblancNo=2023950053&houseSecd=02",
-		"in_date": "20231026",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "라파르 신림(오피스텔)",
-		"addr": "서울특별시 관악구 신림동 10-355번지",
-		"short_addr": "서울특별시 관악구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "관악구",
-		"apply_nums": "15세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000544&pblancNo=2023000544&houseSecd=01",
 		"in_date": "20231030",
 		"hsecd": "01",
@@ -476,6 +442,14 @@
 		"apply_nums": "393세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023940001&pblancNo=2023940001&houseSecd=11",
+		"in_date": "20231101",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "브라운스톤 여월"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000519&pblancNo=2023000519&houseSecd=01",
 		"in_date": "20231102",
 		"hsecd": "01",
@@ -513,6 +487,14 @@
 		"addr_lv1": "충청남도",
 		"addr_lv2": "아산시",
 		"apply_nums": "1626세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023940001&pblancNo=2023940001&houseSecd=11",
+		"in_date": "20231102",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "브라운스톤 여월"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000519&pblancNo=2023000519&houseSecd=01",
