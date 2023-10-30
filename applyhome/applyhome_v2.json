@@ -614,6 +614,32 @@
 		"apply_nums": "39세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023930041&pblancNo=2023930041&houseSecd=06",
+		"in_date": "20231106",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "감일 푸르지오 마크베르 계약취소주택",
+		"addr": "경기도 하남시 감일중앙로 80 (감이동, 감일 푸르지오 마크베르)",
+		"short_addr": "경기도 하남시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "하남시",
+		"apply_nums": "3세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023930039&pblancNo=2023930039&houseSecd=06",
+		"in_date": "20231106",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "하남감일 한양수자인 계약취소주택",
+		"addr": "경기도 하남시 감일백제로180번길 30 (감이동, 감일수자인)",
+		"short_addr": "경기도 하남시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "하남시",
+		"apply_nums": "1세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000579&pblancNo=2023000579&houseSecd=01",
 		"in_date": "20231107",
 		"hsecd": "01",
@@ -718,6 +744,19 @@
 		"apply_nums": "39세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023930041&pblancNo=2023930041&houseSecd=06",
+		"in_date": "20231107",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "감일 푸르지오 마크베르 계약취소주택",
+		"addr": "경기도 하남시 감일중앙로 80 (감이동, 감일 푸르지오 마크베르)",
+		"short_addr": "경기도 하남시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "하남시",
+		"apply_nums": "3세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000579&pblancNo=2023000579&houseSecd=01",
 		"in_date": "20231108",
 		"hsecd": "01",
@@ -781,5 +820,44 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "양주시",
 		"apply_nums": "541세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000530&pblancNo=2023000530&houseSecd=01",
+		"in_date": "20231109",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "의왕 센트라인 데시앙",
+		"addr": "경기도 의왕시 오전동 32-4번지",
+		"short_addr": "경기도 의왕시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "의왕시",
+		"apply_nums": "532세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000530&pblancNo=2023000530&houseSecd=01",
+		"in_date": "20231110",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "의왕 센트라인 데시앙",
+		"addr": "경기도 의왕시 오전동 32-4번지",
+		"short_addr": "경기도 의왕시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "의왕시",
+		"apply_nums": "532세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000530&pblancNo=2023000530&houseSecd=01",
+		"in_date": "20231113",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "의왕 센트라인 데시앙",
+		"addr": "경기도 의왕시 오전동 32-4번지",
+		"short_addr": "경기도 의왕시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "의왕시",
+		"apply_nums": "532세대"
 	}
 ]
