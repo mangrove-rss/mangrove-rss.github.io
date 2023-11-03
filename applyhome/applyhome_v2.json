@@ -718,6 +718,19 @@
 		"apply_nums": "50세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000607&pblancNo=2023000607&houseSecd=01",
+		"in_date": "20231113",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "시청역 해모로 센티아",
+		"addr": "부산광역시 연제구 연산동 1602번지 일원",
+		"short_addr": "부산광역시 연제구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "연제구",
+		"apply_nums": "131세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000566&pblancNo=2023000566&houseSecd=01",
 		"in_date": "20231113",
 		"hsecd": "01",
@@ -729,6 +742,19 @@
 		"addr_lv1": "경상남도",
 		"addr_lv2": "거제시",
 		"apply_nums": "221세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000568&pblancNo=2023000568&houseSecd=01",
+		"in_date": "20231113",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "춘천 금호어울림 더 퍼스트",
+		"addr": "강원특별자치도 춘천시 동면 만천리 785번지 일원",
+		"short_addr": "강원특별자치도 춘천시",
+		"addr_lv1": "강원특별자치도",
+		"addr_lv2": "춘천시",
+		"apply_nums": "543세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000585&pblancNo=2023000585&houseSecd=01",
@@ -809,6 +835,19 @@
 		"apply_nums": "50세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000607&pblancNo=2023000607&houseSecd=01",
+		"in_date": "20231114",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "시청역 해모로 센티아",
+		"addr": "부산광역시 연제구 연산동 1602번지 일원",
+		"short_addr": "부산광역시 연제구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "연제구",
+		"apply_nums": "131세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000566&pblancNo=2023000566&houseSecd=01",
 		"in_date": "20231114",
 		"hsecd": "01",
@@ -820,6 +859,19 @@
 		"addr_lv1": "경상남도",
 		"addr_lv2": "거제시",
 		"apply_nums": "221세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000568&pblancNo=2023000568&houseSecd=01",
+		"in_date": "20231114",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "춘천 금호어울림 더 퍼스트",
+		"addr": "강원특별자치도 춘천시 동면 만천리 785번지 일원",
+		"short_addr": "강원특별자치도 춘천시",
+		"addr_lv1": "강원특별자치도",
+		"addr_lv2": "춘천시",
+		"apply_nums": "543세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000585&pblancNo=2023000585&houseSecd=01",
@@ -900,6 +952,19 @@
 		"apply_nums": "299세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000607&pblancNo=2023000607&houseSecd=01",
+		"in_date": "20231115",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "시청역 해모로 센티아",
+		"addr": "부산광역시 연제구 연산동 1602번지 일원",
+		"short_addr": "부산광역시 연제구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "연제구",
+		"apply_nums": "131세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000566&pblancNo=2023000566&houseSecd=01",
 		"in_date": "20231115",
 		"hsecd": "01",
@@ -911,6 +976,19 @@
 		"addr_lv1": "경상남도",
 		"addr_lv2": "거제시",
 		"apply_nums": "221세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000568&pblancNo=2023000568&houseSecd=01",
+		"in_date": "20231115",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "춘천 금호어울림 더 퍼스트",
+		"addr": "강원특별자치도 춘천시 동면 만천리 785번지 일원",
+		"short_addr": "강원특별자치도 춘천시",
+		"addr_lv1": "강원특별자치도",
+		"addr_lv2": "춘천시",
+		"apply_nums": "543세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000585&pblancNo=2023000585&houseSecd=01",
