@@ -1,65 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000519&pblancNo=2023000519&houseSecd=01",
-		"in_date": "20231102",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "부천 JY 포에시아",
-		"addr": "경기도 부천시 신흥로 20 (심곡동)",
-		"short_addr": "경기도 부천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "부천시",
-		"apply_nums": "55세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000543&pblancNo=2023000543&houseSecd=01",
-		"in_date": "20231102",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "울산 다운2지구 우미린 더 시그니처 본청약",
-		"addr": "울산광역시 울주군 범서읍 서사리 305번지 일원(울산 다운2지구 B-2BL)",
-		"short_addr": "울산광역시 울주군",
-		"addr_lv1": "울산광역시",
-		"addr_lv2": "울주군",
-		"apply_nums": "1109세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000549&pblancNo=2023000549&houseSecd=01",
-		"in_date": "20231102",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "탕정 푸르지오 리버파크",
-		"addr": "충청남도 아산시 탕정면 갈산리 아산탕정테크노 일반산업단지 C2BL",
-		"short_addr": "충청남도 아산시",
-		"addr_lv1": "충청남도",
-		"addr_lv2": "아산시",
-		"apply_nums": "1626세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023940001&pblancNo=2023940001&houseSecd=11",
-		"in_date": "20231102",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "브라운스톤 여월"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000519&pblancNo=2023000519&houseSecd=01",
-		"in_date": "20231103",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "부천 JY 포에시아",
-		"addr": "경기도 부천시 신흥로 20 (심곡동)",
-		"short_addr": "경기도 부천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "부천시",
-		"apply_nums": "55세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000579&pblancNo=2023000579&houseSecd=01",
 		"in_date": "20231106",
 		"hsecd": "01",
@@ -697,6 +637,19 @@
 		"apply_nums": "50세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910110&pblancNo=2023910110&houseSecd=04",
+		"in_date": "20231113",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "강동 중앙하이츠 시티(임의공급 3차)",
+		"addr": "서울특별시 강동구 길동 415-5번지",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "18세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000607&pblancNo=2023000607&houseSecd=01",
 		"in_date": "20231114",
 		"hsecd": "01",
@@ -801,6 +754,19 @@
 		"apply_nums": "50세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910110&pblancNo=2023910110&houseSecd=04",
+		"in_date": "20231114",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "강동 중앙하이츠 시티(임의공급 3차)",
+		"addr": "서울특별시 강동구 길동 415-5번지",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "18세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000562&pblancNo=2023000562&houseSecd=01",
 		"in_date": "20231115",
 		"hsecd": "01",
@@ -879,6 +845,19 @@
 		"apply_nums": "408세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000570&pblancNo=2023000570&houseSecd=01",
+		"in_date": "20231116",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "용인 에버랜드역 칸타빌",
+		"addr": "경기도 용인시 처인구 포곡읍 전대리 192-2외 5필지",
+		"short_addr": "경기도 용인시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "용인시",
+		"apply_nums": "348세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000562&pblancNo=2023000562&houseSecd=01",
 		"in_date": "20231116",
 		"hsecd": "01",
@@ -890,5 +869,31 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "송파구",
 		"apply_nums": "299세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000570&pblancNo=2023000570&houseSecd=01",
+		"in_date": "20231117",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "용인 에버랜드역 칸타빌",
+		"addr": "경기도 용인시 처인구 포곡읍 전대리 192-2외 5필지",
+		"short_addr": "경기도 용인시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "용인시",
+		"apply_nums": "348세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000570&pblancNo=2023000570&houseSecd=01",
+		"in_date": "20231120",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "용인 에버랜드역 칸타빌",
+		"addr": "경기도 용인시 처인구 포곡읍 전대리 192-2외 5필지",
+		"short_addr": "경기도 용인시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "용인시",
+		"apply_nums": "348세대"
 	}
 ]
