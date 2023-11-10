@@ -1,123 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000579&pblancNo=2023000579&houseSecd=01",
-		"in_date": "20231107",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "고촌센트럴자이",
-		"addr": "경기도 김포시 고촌읍 신곡리 김포신곡6지구 도시개발사업구역 A3BL",
-		"short_addr": "경기도 김포시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "김포시",
-		"apply_nums": "1297세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000478&pblancNo=2023000478&houseSecd=01",
-		"in_date": "20231107",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "더샵 의정부역 링크시티",
-		"addr": "경기도 의정부시 의정부동 248-3번지 일원",
-		"short_addr": "경기도 의정부시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "의정부시",
-		"apply_nums": "1401세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000555&pblancNo=2023000555&houseSecd=01",
-		"in_date": "20231107",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "도봉 금호어울림 리버파크",
-		"addr": "서울특별시 도봉구 도봉2동 95번지",
-		"short_addr": "서울특별시 도봉구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "도봉구",
-		"apply_nums": "130세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000528&pblancNo=2023000528&houseSecd=01",
-		"in_date": "20231107",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "의정부 푸르지오 클라시엘",
-		"addr": "경기도 의정부시 금오동 369-1일원",
-		"short_addr": "경기도 의정부시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "의정부시",
-		"apply_nums": "656세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000565&pblancNo=2023000565&houseSecd=01",
-		"in_date": "20231107",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "회천중앙역 대광로제비앙(본청약)",
-		"addr": "경기도 양주시 양주회천지구 A12BL",
-		"short_addr": "경기도 양주시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "양주시",
-		"apply_nums": "541세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000561&pblancNo=2023000561&houseSecd=01",
-		"in_date": "20231107",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "오산세교 세마역에듀파크 공가세대 일반공급",
-		"addr": "경기도 오산시 수목원로 577-15 (세교동, 세마역 에듀파크)",
-		"short_addr": "경기도 오산시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "오산시",
-		"apply_nums": "22세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000563&pblancNo=2023000563&houseSecd=01",
-		"in_date": "20231107",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "오산세교 센트럴파크 공가세대 일반공급",
-		"addr": "경기도 오산시 여계산로 60 (금암동, 세교 센트럴파크)",
-		"short_addr": "경기도 오산시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "오산시",
-		"apply_nums": "44세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000560&pblancNo=2023000560&houseSecd=01",
-		"in_date": "20231107",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "화성동탄 센트럴포레스트 공가세대 일반공급",
-		"addr": "경기도 화성시 동탄중앙로 119-14 (반송동, 동탄 센트럴 포레스트)",
-		"short_addr": "경기도 화성시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "화성시",
-		"apply_nums": "39세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023930041&pblancNo=2023930041&houseSecd=06",
-		"in_date": "20231107",
-		"hsecd": "06",
-		"rse": "07",
-		"type": "",
-		"name": "감일 푸르지오 마크베르 계약취소주택",
-		"addr": "경기도 하남시 감일중앙로 80 (감이동, 감일 푸르지오 마크베르)",
-		"short_addr": "경기도 하남시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "하남시",
-		"apply_nums": "3세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000579&pblancNo=2023000579&houseSecd=01",
 		"in_date": "20231108",
 		"hsecd": "01",
 		"rse": "03",
@@ -921,6 +804,19 @@
 		"apply_nums": "561세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000583&pblancNo=2023000583&houseSecd=01",
+		"in_date": "20231120",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "운정3 제일풍경채(A46BL) (본청약)",
+		"addr": "경기도 파주시 운정3지구 A46BL (경기도 파주시 동패동 415-13번지 일원)",
+		"short_addr": "경기도 파주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "파주시",
+		"apply_nums": "121세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000609&pblancNo=2023000609&houseSecd=01",
 		"in_date": "20231120",
 		"hsecd": "01",
@@ -973,6 +869,19 @@
 		"apply_nums": "561세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000583&pblancNo=2023000583&houseSecd=01",
+		"in_date": "20231121",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "운정3 제일풍경채(A46BL) (본청약)",
+		"addr": "경기도 파주시 운정3지구 A46BL (경기도 파주시 동패동 415-13번지 일원)",
+		"short_addr": "경기도 파주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "파주시",
+		"apply_nums": "121세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000609&pblancNo=2023000609&houseSecd=01",
 		"in_date": "20231121",
 		"hsecd": "01",
@@ -1010,6 +919,19 @@
 		"addr_lv1": "부산광역시",
 		"addr_lv2": "남구",
 		"apply_nums": "561세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000583&pblancNo=2023000583&houseSecd=01",
+		"in_date": "20231122",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "운정3 제일풍경채(A46BL) (본청약)",
+		"addr": "경기도 파주시 운정3지구 A46BL (경기도 파주시 동패동 415-13번지 일원)",
+		"short_addr": "경기도 파주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "파주시",
+		"apply_nums": "121세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000609&pblancNo=2023000609&houseSecd=01",
