@@ -1,44 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000530&pblancNo=2023000530&houseSecd=01",
-		"in_date": "20231110",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "의왕 센트라인 데시앙",
-		"addr": "경기도 의왕시 오전동 32-4번지",
-		"short_addr": "경기도 의왕시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "의왕시",
-		"apply_nums": "532세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950059&pblancNo=2023950059&houseSecd=02",
-		"in_date": "20231110",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "부평 신일해피트리 더루츠(민간임대)",
-		"addr": "인천광역시 부평구 산곡로 31 (산곡동, 부평신일해피트리더루츠)",
-		"short_addr": "인천광역시 부평구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "부평구",
-		"apply_nums": "9세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950060&pblancNo=2023950060&houseSecd=02",
-		"in_date": "20231110",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "서울 G VALLEY 라티포레스트 오피스텔",
-		"addr": "서울특별시 구로구 가리봉동 127-9외 1필지",
-		"short_addr": "서울특별시 구로구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "구로구",
-		"apply_nums": "50세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950059&pblancNo=2023950059&houseSecd=02",
 		"in_date": "20231111",
 		"hsecd": "02",
@@ -726,6 +687,19 @@
 		"apply_nums": "820세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023930040&pblancNo=2023930040&houseSecd=06",
+		"in_date": "20231121",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "산성역 포레스티아(계약취소주택)",
+		"addr": "경기도 성남시 수정구 수정로 319일원",
+		"short_addr": "경기도 성남시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "성남시",
+		"apply_nums": "7세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023930042&pblancNo=2023930042&houseSecd=06",
 		"in_date": "20231121",
 		"hsecd": "06",
@@ -776,5 +750,18 @@
 		"addr_lv1": "경상북도",
 		"addr_lv2": "안동시",
 		"apply_nums": "820세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023930040&pblancNo=2023930040&houseSecd=06",
+		"in_date": "20231122",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "산성역 포레스티아(계약취소주택)",
+		"addr": "경기도 성남시 수정구 수정로 319일원",
+		"short_addr": "경기도 성남시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "성남시",
+		"apply_nums": "7세대"
 	}
 ]
