@@ -1,57 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950059&pblancNo=2023950059&houseSecd=02",
-		"in_date": "20231111",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "부평 신일해피트리 더루츠(민간임대)",
-		"addr": "인천광역시 부평구 산곡로 31 (산곡동, 부평신일해피트리더루츠)",
-		"short_addr": "인천광역시 부평구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "부평구",
-		"apply_nums": "9세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950060&pblancNo=2023950060&houseSecd=02",
-		"in_date": "20231111",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "서울 G VALLEY 라티포레스트 오피스텔",
-		"addr": "서울특별시 구로구 가리봉동 127-9외 1필지",
-		"short_addr": "서울특별시 구로구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "구로구",
-		"apply_nums": "50세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950059&pblancNo=2023950059&houseSecd=02",
-		"in_date": "20231112",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "부평 신일해피트리 더루츠(민간임대)",
-		"addr": "인천광역시 부평구 산곡로 31 (산곡동, 부평신일해피트리더루츠)",
-		"short_addr": "인천광역시 부평구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "부평구",
-		"apply_nums": "9세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950060&pblancNo=2023950060&houseSecd=02",
-		"in_date": "20231112",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "서울 G VALLEY 라티포레스트 오피스텔",
-		"addr": "서울특별시 구로구 가리봉동 127-9외 1필지",
-		"short_addr": "서울특별시 구로구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "구로구",
-		"apply_nums": "50세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000607&pblancNo=2023000607&houseSecd=01",
 		"in_date": "20231113",
 		"hsecd": "01",
@@ -570,6 +518,14 @@
 		"apply_nums": "348세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023940004&pblancNo=2023940004&houseSecd=11",
+		"in_date": "20231117",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "신독산 솔리힐 뉴포레"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000603&pblancNo=2023000603&houseSecd=01",
 		"in_date": "20231120",
 		"hsecd": "01",
@@ -687,6 +643,19 @@
 		"apply_nums": "820세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910117&pblancNo=2023910117&houseSecd=04",
+		"in_date": "20231121",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "송도 아리스타 프라임 (무순위 5차)",
+		"addr": "인천광역시 연수구 송도동 22-6,22-7번지",
+		"short_addr": "인천광역시 연수구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "연수구",
+		"apply_nums": "2세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023930040&pblancNo=2023930040&houseSecd=06",
 		"in_date": "20231121",
 		"hsecd": "06",
@@ -752,6 +721,19 @@
 		"apply_nums": "820세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910117&pblancNo=2023910117&houseSecd=04",
+		"in_date": "20231122",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "송도 아리스타 프라임 (무순위 5차)",
+		"addr": "인천광역시 연수구 송도동 22-6,22-7번지",
+		"short_addr": "인천광역시 연수구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "연수구",
+		"apply_nums": "2세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023930040&pblancNo=2023930040&houseSecd=06",
 		"in_date": "20231122",
 		"hsecd": "06",
@@ -763,5 +745,44 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "성남시",
 		"apply_nums": "7세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000625&pblancNo=2023000625&houseSecd=01",
+		"in_date": "20231127",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "해링턴 마레",
+		"addr": "부산광역시 남구 우암동 198-3번지 일원",
+		"short_addr": "부산광역시 남구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "1382세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000625&pblancNo=2023000625&houseSecd=01",
+		"in_date": "20231128",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "해링턴 마레",
+		"addr": "부산광역시 남구 우암동 198-3번지 일원",
+		"short_addr": "부산광역시 남구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "1382세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000625&pblancNo=2023000625&houseSecd=01",
+		"in_date": "20231129",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "해링턴 마레",
+		"addr": "부산광역시 남구 우암동 198-3번지 일원",
+		"short_addr": "부산광역시 남구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "1382세대"
 	}
 ]
