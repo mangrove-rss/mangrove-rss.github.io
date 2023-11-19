@@ -1,40 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000570&pblancNo=2023000570&houseSecd=01",
-		"in_date": "20231116",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "용인 에버랜드역 칸타빌",
-		"addr": "경기도 용인시 처인구 포곡읍 전대리 192-2외 5필지",
-		"short_addr": "경기도 용인시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "용인시",
-		"apply_nums": "348세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000562&pblancNo=2023000562&houseSecd=01",
-		"in_date": "20231116",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "힐스테이트 e편한세상 문정",
-		"addr": "서울특별시 송파구 문정동 136번지",
-		"short_addr": "서울특별시 송파구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "송파구",
-		"apply_nums": "299세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023850027&pblancNo=2023850027&houseSecd=03",
-		"in_date": "20231116",
-		"hsecd": "03",
-		"rse": "04",
-		"type": "",
-		"name": "서울은평뉴타운 디에트르 더퍼스트"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000570&pblancNo=2023000570&houseSecd=01",
 		"in_date": "20231117",
 		"hsecd": "01",
 		"rse": "02",
@@ -477,5 +443,18 @@
 		"addr_lv1": "부산광역시",
 		"addr_lv2": "남구",
 		"apply_nums": "1382세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023930038&pblancNo=2023930038&houseSecd=06",
+		"in_date": "20231130",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "호반써밋 송도 계약취소주택",
+		"addr": "인천광역시 연수구 송도동 312-1, 4번지",
+		"short_addr": "인천광역시 연수구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "연수구",
+		"apply_nums": "1세대"
 	}
 ]
