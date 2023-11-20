@@ -1,26 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000570&pblancNo=2023000570&houseSecd=01",
-		"in_date": "20231117",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "용인 에버랜드역 칸타빌",
-		"addr": "경기도 용인시 처인구 포곡읍 전대리 192-2외 5필지",
-		"short_addr": "경기도 용인시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "용인시",
-		"apply_nums": "348세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023940004&pblancNo=2023940004&houseSecd=11",
-		"in_date": "20231117",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "신독산 솔리힐 뉴포레"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000603&pblancNo=2023000603&houseSecd=01",
 		"in_date": "20231120",
 		"hsecd": "01",
