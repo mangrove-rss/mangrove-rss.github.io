@@ -338,6 +338,14 @@
 		"apply_nums": "946세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023850028&pblancNo=2023850028&houseSecd=03",
+		"in_date": "20231204",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "검단 한신더휴 어반파크"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000628&pblancNo=2023000628&houseSecd=01",
 		"in_date": "20231205",
 		"hsecd": "01",
@@ -572,6 +580,32 @@
 		"apply_nums": "946세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000589&pblancNo=2023000589&houseSecd=01",
+		"in_date": "20231207",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "소사역 롯데캐슬 더 뉴엘",
+		"addr": "경기도 부천시 소사본동 134번지 일원",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "983세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000647&pblancNo=2023000647&houseSecd=01",
+		"in_date": "20231207",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "삼익 더 랩소디",
+		"addr": "서울특별시 강서구 강서로 353 (내발산동)",
+		"short_addr": "서울특별시 강서구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강서구",
+		"apply_nums": "45세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000628&pblancNo=2023000628&houseSecd=01",
 		"in_date": "20231207",
 		"hsecd": "01",
@@ -583,5 +617,44 @@
 		"addr_lv1": "부산광역시",
 		"addr_lv2": "강서구",
 		"apply_nums": "1470세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000589&pblancNo=2023000589&houseSecd=01",
+		"in_date": "20231208",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "소사역 롯데캐슬 더 뉴엘",
+		"addr": "경기도 부천시 소사본동 134번지 일원",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "983세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000647&pblancNo=2023000647&houseSecd=01",
+		"in_date": "20231208",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "삼익 더 랩소디",
+		"addr": "서울특별시 강서구 강서로 353 (내발산동)",
+		"short_addr": "서울특별시 강서구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강서구",
+		"apply_nums": "45세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000589&pblancNo=2023000589&houseSecd=01",
+		"in_date": "20231211",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "소사역 롯데캐슬 더 뉴엘",
+		"addr": "경기도 부천시 소사본동 134번지 일원",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "983세대"
 	}
 ]
