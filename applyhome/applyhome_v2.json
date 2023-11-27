@@ -346,6 +346,19 @@
 		"name": "검단 한신더휴 어반파크"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950064&pblancNo=2023950064&houseSecd=02",
+		"in_date": "20231204",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "영종 테이튼 오션",
+		"addr": "인천광역시 중구 운남동 1599-8",
+		"short_addr": "인천광역시 중구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "61세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000628&pblancNo=2023000628&houseSecd=01",
 		"in_date": "20231205",
 		"hsecd": "01",
@@ -461,6 +474,19 @@
 		"addr_lv1": "충청북도",
 		"addr_lv2": "청주시",
 		"apply_nums": "946세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950064&pblancNo=2023950064&houseSecd=02",
+		"in_date": "20231205",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "영종 테이튼 오션",
+		"addr": "인천광역시 중구 운남동 1599-8",
+		"short_addr": "인천광역시 중구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "61세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000628&pblancNo=2023000628&houseSecd=01",
@@ -591,6 +617,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "부천시",
 		"apply_nums": "983세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000558&pblancNo=2023000558&houseSecd=01",
+		"in_date": "20231207",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "제일풍경채 검단Ⅳ",
+		"addr": "인천광역시 서구 불로동 검단신도시 AA22BL",
+		"short_addr": "인천광역시 서구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "1048세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000647&pblancNo=2023000647&houseSecd=01",
@@ -630,6 +669,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "부천시",
 		"apply_nums": "983세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000558&pblancNo=2023000558&houseSecd=01",
+		"in_date": "20231208",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "제일풍경채 검단Ⅳ",
+		"addr": "인천광역시 서구 불로동 검단신도시 AA22BL",
+		"short_addr": "인천광역시 서구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "1048세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000647&pblancNo=2023000647&houseSecd=01",
@@ -656,5 +708,18 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "부천시",
 		"apply_nums": "983세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000558&pblancNo=2023000558&houseSecd=01",
+		"in_date": "20231211",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "제일풍경채 검단Ⅳ",
+		"addr": "인천광역시 서구 불로동 검단신도시 AA22BL",
+		"short_addr": "인천광역시 서구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "1048세대"
 	}
 ]
