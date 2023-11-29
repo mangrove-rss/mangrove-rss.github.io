@@ -359,6 +359,14 @@
 		"apply_nums": "61세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023940005&pblancNo=2023940005&houseSecd=11",
+		"in_date": "20231204",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "제주 더 힐 테라스"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000628&pblancNo=2023000628&houseSecd=01",
 		"in_date": "20231205",
 		"hsecd": "01",
@@ -489,6 +497,27 @@
 		"apply_nums": "61세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910122&pblancNo=2023910122&houseSecd=04",
+		"in_date": "20231205",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "브라운스톤 여월 임의공급(2차)",
+		"addr": "경기도 부천시 여월동 9-28, 9-29번지",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "20세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023940005&pblancNo=2023940005&houseSecd=11",
+		"in_date": "20231205",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "제주 더 힐 테라스"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000628&pblancNo=2023000628&houseSecd=01",
 		"in_date": "20231206",
 		"hsecd": "01",
@@ -604,6 +633,19 @@
 		"addr_lv1": "충청북도",
 		"addr_lv2": "청주시",
 		"apply_nums": "946세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910122&pblancNo=2023910122&houseSecd=04",
+		"in_date": "20231206",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "브라운스톤 여월 임의공급(2차)",
+		"addr": "경기도 부천시 여월동 9-28, 9-29번지",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "20세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000589&pblancNo=2023000589&houseSecd=01",
