@@ -531,6 +531,19 @@
 		"apply_nums": "17세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000624&pblancNo=2023000624&houseSecd=01",
+		"in_date": "20231211",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "서산 센트럴 아이파크",
+		"addr": "충청남도 서산시 석림동 528-1번지 일원",
+		"short_addr": "충청남도 서산시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "서산시",
+		"apply_nums": "410세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000637&pblancNo=2023000637&houseSecd=01",
 		"in_date": "20231211",
 		"hsecd": "01",
@@ -542,6 +555,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "이천시",
 		"apply_nums": "785세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000532&pblancNo=2023000532&houseSecd=01",
+		"in_date": "20231211",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "청계리버뷰자이",
+		"addr": "서울특별시 성동구 용답동 108-1번지 일원",
+		"short_addr": "서울특별시 성동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "성동구",
+		"apply_nums": "797세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000648&pblancNo=2023000648&houseSecd=01",
@@ -583,6 +609,19 @@
 		"apply_nums": "1048세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000624&pblancNo=2023000624&houseSecd=01",
+		"in_date": "20231212",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "서산 센트럴 아이파크",
+		"addr": "충청남도 서산시 석림동 528-1번지 일원",
+		"short_addr": "충청남도 서산시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "서산시",
+		"apply_nums": "410세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000637&pblancNo=2023000637&houseSecd=01",
 		"in_date": "20231212",
 		"hsecd": "01",
@@ -594,6 +633,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "이천시",
 		"apply_nums": "785세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000532&pblancNo=2023000532&houseSecd=01",
+		"in_date": "20231212",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "청계리버뷰자이",
+		"addr": "서울특별시 성동구 용답동 108-1번지 일원",
+		"short_addr": "서울특별시 성동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "성동구",
+		"apply_nums": "797세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000648&pblancNo=2023000648&houseSecd=01",
@@ -609,6 +661,19 @@
 		"apply_nums": "77세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000624&pblancNo=2023000624&houseSecd=01",
+		"in_date": "20231213",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "서산 센트럴 아이파크",
+		"addr": "충청남도 서산시 석림동 528-1번지 일원",
+		"short_addr": "충청남도 서산시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "서산시",
+		"apply_nums": "410세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000637&pblancNo=2023000637&houseSecd=01",
 		"in_date": "20231213",
 		"hsecd": "01",
@@ -620,5 +685,18 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "이천시",
 		"apply_nums": "785세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000532&pblancNo=2023000532&houseSecd=01",
+		"in_date": "20231213",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "청계리버뷰자이",
+		"addr": "서울특별시 성동구 용답동 108-1번지 일원",
+		"short_addr": "서울특별시 성동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "성동구",
+		"apply_nums": "797세대"
 	}
 ]
