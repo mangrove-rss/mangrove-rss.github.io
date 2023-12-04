@@ -609,6 +609,32 @@
 		"apply_nums": "1048세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910128&pblancNo=2023910128&houseSecd=04",
+		"in_date": "20231211",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "남구로역 동일 센타시아(임의공급 7차)",
+		"addr": "서울특별시 구로구 가리봉동 113-1번지 일원",
+		"short_addr": "서울특별시 구로구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "구로구",
+		"apply_nums": "10세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910126&pblancNo=2023910126&houseSecd=04",
+		"in_date": "20231211",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "동탄신도시 금강펜테리움 7차 센트럴파크(A57-2BL) (무순위 1차)",
+		"addr": "경기도 화성시 신동 동탄2택지개발지구(A57-2블럭)",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "140세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000624&pblancNo=2023000624&houseSecd=01",
 		"in_date": "20231212",
 		"hsecd": "01",
@@ -698,5 +724,44 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "성동구",
 		"apply_nums": "797세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000638&pblancNo=2023000638&houseSecd=01",
+		"in_date": "20231214",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "아산 탕정지구 2-A12BL 대광로제비앙(본청약)",
+		"addr": "충청남도 아산시 배방읍 동방로 134(충청남도 아산시 배방읍 세교리 아산 탕정지구 2-A12BL)",
+		"short_addr": "충청남도 아산시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "아산시",
+		"apply_nums": "186세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000638&pblancNo=2023000638&houseSecd=01",
+		"in_date": "20231215",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "아산 탕정지구 2-A12BL 대광로제비앙(본청약)",
+		"addr": "충청남도 아산시 배방읍 동방로 134(충청남도 아산시 배방읍 세교리 아산 탕정지구 2-A12BL)",
+		"short_addr": "충청남도 아산시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "아산시",
+		"apply_nums": "186세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000638&pblancNo=2023000638&houseSecd=01",
+		"in_date": "20231218",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "아산 탕정지구 2-A12BL 대광로제비앙(본청약)",
+		"addr": "충청남도 아산시 배방읍 동방로 134(충청남도 아산시 배방읍 세교리 아산 탕정지구 2-A12BL)",
+		"short_addr": "충청남도 아산시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "아산시",
+		"apply_nums": "186세대"
 	}
 ]
