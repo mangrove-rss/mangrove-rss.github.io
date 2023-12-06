@@ -739,6 +739,19 @@
 		"apply_nums": "2세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910121&pblancNo=2023910121&houseSecd=04",
+		"in_date": "20231212",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "오산세교2지구 A2블록 호반써밋 그랜빌(무순위1차)",
+		"addr": "경기도 오산시 오산세교2지구 A2블록",
+		"short_addr": "경기도 오산시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "오산시",
+		"apply_nums": "2세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910129&pblancNo=2023910129&houseSecd=04",
 		"in_date": "20231212",
 		"hsecd": "04",
