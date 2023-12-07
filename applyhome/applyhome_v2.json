@@ -1,138 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000642&pblancNo=2023000642&houseSecd=01",
-		"in_date": "20231204",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "e편한세상 제물포역 파크메종",
-		"addr": "인천광역시 미추홀구 숭의동 18번지 일대",
-		"short_addr": "인천광역시 미추홀구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "미추홀구",
-		"apply_nums": "449세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000630&pblancNo=2023000630&houseSecd=01",
-		"in_date": "20231204",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "강릉 모아미래도 오션리버",
-		"addr": "강원특별자치도 강릉시 견소동 219번지 외 19필지",
-		"short_addr": "강원특별자치도 강릉시",
-		"addr_lv1": "강원특별자치도",
-		"addr_lv2": "강릉시",
-		"apply_nums": "561세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000608&pblancNo=2023000608&houseSecd=01",
-		"in_date": "20231204",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "마포 푸르지오 어반피스",
-		"addr": "서울특별시 마포구 아현동 613-10번지 일원",
-		"short_addr": "서울특별시 마포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "마포구",
-		"apply_nums": "122세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000645&pblancNo=2023000645&houseSecd=01",
-		"in_date": "20231204",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "아틀리에 933",
-		"addr": "부산광역시 부산진구 양정동 406-5번지",
-		"short_addr": "부산광역시 부산진구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "부산진구",
-		"apply_nums": "72세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000473&pblancNo=2023000473&houseSecd=01",
-		"in_date": "20231204",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "오산세교2지구 A-3블록 파라곤",
-		"addr": "경기도 오산시 궐동 오산세교2지구 A3 블록",
-		"short_addr": "경기도 오산시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "오산시",
-		"apply_nums": "1068세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000640&pblancNo=2023000640&houseSecd=01",
-		"in_date": "20231204",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "왕길역 로열파크씨티 푸르지오",
-		"addr": "인천광역시 서구 왕길동 133-3번지 일대",
-		"short_addr": "인천광역시 서구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "서구",
-		"apply_nums": "1500세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000633&pblancNo=2023000633&houseSecd=01",
-		"in_date": "20231204",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "원봉공원 힐데스하임",
-		"addr": "충청북도 청주시 상당구 용암동 산222 일원",
-		"short_addr": "충청북도 청주시",
-		"addr_lv1": "충청북도",
-		"addr_lv2": "청주시",
-		"apply_nums": "1211세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000621&pblancNo=2023000621&houseSecd=01",
-		"in_date": "20231204",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "청주 가경 아이파크 6단지",
-		"addr": "충청북도 청주시 흥덕구 가경동 330번지 일대",
-		"short_addr": "충청북도 청주시",
-		"addr_lv1": "충청북도",
-		"addr_lv2": "청주시",
-		"apply_nums": "946세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023850028&pblancNo=2023850028&houseSecd=03",
-		"in_date": "20231204",
-		"hsecd": "03",
-		"rse": "04",
-		"type": "",
-		"name": "검단 한신더휴 어반파크"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950064&pblancNo=2023950064&houseSecd=02",
-		"in_date": "20231204",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "영종 테이튼 오션",
-		"addr": "인천광역시 중구 운남동 1599-8",
-		"short_addr": "인천광역시 중구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "중구",
-		"apply_nums": "61세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023940005&pblancNo=2023940005&houseSecd=11",
-		"in_date": "20231204",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "제주 더 힐 테라스"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000628&pblancNo=2023000628&houseSecd=01",
 		"in_date": "20231205",
 		"hsecd": "01",
@@ -726,6 +593,19 @@
 		"apply_nums": "77세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950065&pblancNo=2023950065&houseSecd=02",
+		"in_date": "20231212",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "증평 석미아데나 에듀포레",
+		"addr": "충청북도 증평군 증평읍 증평리 661번지 일대",
+		"short_addr": "충청북도 증평군",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "증평군",
+		"apply_nums": "414세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950066&pblancNo=2023950066&houseSecd=02",
 		"in_date": "20231212",
 		"hsecd": "02",
@@ -804,6 +684,19 @@
 		"apply_nums": "797세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950065&pblancNo=2023950065&houseSecd=02",
+		"in_date": "20231213",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "증평 석미아데나 에듀포레",
+		"addr": "충청북도 증평군 증평읍 증평리 661번지 일대",
+		"short_addr": "충청북도 증평군",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "증평군",
+		"apply_nums": "414세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000638&pblancNo=2023000638&houseSecd=01",
 		"in_date": "20231214",
 		"hsecd": "01",
@@ -830,6 +723,19 @@
 		"apply_nums": "186세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000436&pblancNo=2023000436&houseSecd=01",
+		"in_date": "20231218",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "다운 한양립스 더 퍼스트 하임",
+		"addr": "울산광역시 중구 다운동 741-2번지 일원",
+		"short_addr": "울산광역시 중구",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "140세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000635&pblancNo=2023000635&houseSecd=01",
 		"in_date": "20231218",
 		"hsecd": "01",
@@ -841,6 +747,19 @@
 		"addr_lv1": "경상북도",
 		"addr_lv2": "영주시",
 		"apply_nums": "763세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000654&pblancNo=2023000654&houseSecd=01",
+		"in_date": "20231218",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "파주 운정신도시 우미 린 파크힐스(본청약)",
+		"addr": "경기도 파주시 운정3지구 A33블록(동패동)",
+		"short_addr": "경기도 파주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "파주시",
+		"apply_nums": "292세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000638&pblancNo=2023000638&houseSecd=01",
@@ -856,6 +775,19 @@
 		"apply_nums": "186세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000436&pblancNo=2023000436&houseSecd=01",
+		"in_date": "20231219",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "다운 한양립스 더 퍼스트 하임",
+		"addr": "울산광역시 중구 다운동 741-2번지 일원",
+		"short_addr": "울산광역시 중구",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "140세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000635&pblancNo=2023000635&houseSecd=01",
 		"in_date": "20231219",
 		"hsecd": "01",
@@ -869,6 +801,32 @@
 		"apply_nums": "763세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000654&pblancNo=2023000654&houseSecd=01",
+		"in_date": "20231219",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "파주 운정신도시 우미 린 파크힐스(본청약)",
+		"addr": "경기도 파주시 운정3지구 A33블록(동패동)",
+		"short_addr": "경기도 파주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "파주시",
+		"apply_nums": "292세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000436&pblancNo=2023000436&houseSecd=01",
+		"in_date": "20231220",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "다운 한양립스 더 퍼스트 하임",
+		"addr": "울산광역시 중구 다운동 741-2번지 일원",
+		"short_addr": "울산광역시 중구",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "140세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000635&pblancNo=2023000635&houseSecd=01",
 		"in_date": "20231220",
 		"hsecd": "01",
@@ -880,5 +838,18 @@
 		"addr_lv1": "경상북도",
 		"addr_lv2": "영주시",
 		"apply_nums": "763세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000654&pblancNo=2023000654&houseSecd=01",
+		"in_date": "20231220",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "파주 운정신도시 우미 린 파크힐스(본청약)",
+		"addr": "경기도 파주시 운정3지구 A33블록(동패동)",
+		"short_addr": "경기도 파주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "파주시",
+		"apply_nums": "292세대"
 	}
 ]
