@@ -1,157 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000628&pblancNo=2023000628&houseSecd=01",
-		"in_date": "20231205",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "부산에코델타시티 디에트르 그랑루체(13BL)",
-		"addr": "부산광역시 강서구 에코델타시티 공동주택용지 13BL",
-		"short_addr": "부산광역시 강서구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "강서구",
-		"apply_nums": "1470세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000642&pblancNo=2023000642&houseSecd=01",
-		"in_date": "20231205",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "e편한세상 제물포역 파크메종",
-		"addr": "인천광역시 미추홀구 숭의동 18번지 일대",
-		"short_addr": "인천광역시 미추홀구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "미추홀구",
-		"apply_nums": "449세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000630&pblancNo=2023000630&houseSecd=01",
-		"in_date": "20231205",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "강릉 모아미래도 오션리버",
-		"addr": "강원특별자치도 강릉시 견소동 219번지 외 19필지",
-		"short_addr": "강원특별자치도 강릉시",
-		"addr_lv1": "강원특별자치도",
-		"addr_lv2": "강릉시",
-		"apply_nums": "561세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000608&pblancNo=2023000608&houseSecd=01",
-		"in_date": "20231205",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "마포 푸르지오 어반피스",
-		"addr": "서울특별시 마포구 아현동 613-10번지 일원",
-		"short_addr": "서울특별시 마포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "마포구",
-		"apply_nums": "122세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000645&pblancNo=2023000645&houseSecd=01",
-		"in_date": "20231205",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "아틀리에 933",
-		"addr": "부산광역시 부산진구 양정동 406-5번지",
-		"short_addr": "부산광역시 부산진구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "부산진구",
-		"apply_nums": "72세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000473&pblancNo=2023000473&houseSecd=01",
-		"in_date": "20231205",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "오산세교2지구 A-3블록 파라곤",
-		"addr": "경기도 오산시 궐동 오산세교2지구 A3 블록",
-		"short_addr": "경기도 오산시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "오산시",
-		"apply_nums": "1068세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000640&pblancNo=2023000640&houseSecd=01",
-		"in_date": "20231205",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "왕길역 로열파크씨티 푸르지오",
-		"addr": "인천광역시 서구 왕길동 133-3번지 일대",
-		"short_addr": "인천광역시 서구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "서구",
-		"apply_nums": "1500세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000633&pblancNo=2023000633&houseSecd=01",
-		"in_date": "20231205",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "원봉공원 힐데스하임",
-		"addr": "충청북도 청주시 상당구 용암동 산222 일원",
-		"short_addr": "충청북도 청주시",
-		"addr_lv1": "충청북도",
-		"addr_lv2": "청주시",
-		"apply_nums": "1211세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000621&pblancNo=2023000621&houseSecd=01",
-		"in_date": "20231205",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "청주 가경 아이파크 6단지",
-		"addr": "충청북도 청주시 흥덕구 가경동 330번지 일대",
-		"short_addr": "충청북도 청주시",
-		"addr_lv1": "충청북도",
-		"addr_lv2": "청주시",
-		"apply_nums": "946세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950064&pblancNo=2023950064&houseSecd=02",
-		"in_date": "20231205",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "영종 테이튼 오션",
-		"addr": "인천광역시 중구 운남동 1599-8",
-		"short_addr": "인천광역시 중구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "중구",
-		"apply_nums": "61세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910122&pblancNo=2023910122&houseSecd=04",
-		"in_date": "20231205",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "브라운스톤 여월 임의공급(2차)",
-		"addr": "경기도 부천시 여월동 9-28, 9-29번지",
-		"short_addr": "경기도 부천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "부천시",
-		"apply_nums": "20세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023940005&pblancNo=2023940005&houseSecd=11",
-		"in_date": "20231205",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "제주 더 힐 테라스"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000628&pblancNo=2023000628&houseSecd=01",
 		"in_date": "20231206",
 		"hsecd": "01",
 		"rse": "02",
@@ -723,6 +572,19 @@
 		"apply_nums": "186세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000623&pblancNo=2023000623&houseSecd=01",
+		"in_date": "20231218",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "고양 장항 제일풍경채",
+		"addr": "경기도 고양시 일산동구 장항동 658-65 일원(고양장항지구 B-1BL)",
+		"short_addr": "경기도 고양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "고양시",
+		"apply_nums": "1184세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000436&pblancNo=2023000436&houseSecd=01",
 		"in_date": "20231218",
 		"hsecd": "01",
@@ -734,6 +596,32 @@
 		"addr_lv1": "울산광역시",
 		"addr_lv2": "중구",
 		"apply_nums": "140세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000652&pblancNo=2023000652&houseSecd=01",
+		"in_date": "20231218",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "롯데캐슬 시그니처 중앙",
+		"addr": "경기도 안산시 단원구 고잔동 674",
+		"short_addr": "경기도 안산시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "안산시",
+		"apply_nums": "511세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000575&pblancNo=2023000575&houseSecd=01",
+		"in_date": "20231218",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "아산 신창1차 광신프로그레스",
+		"addr": "충청남도 아산시 신창면 남성리 177-3번지 일원",
+		"short_addr": "충청남도 아산시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "아산시",
+		"apply_nums": "450세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000635&pblancNo=2023000635&houseSecd=01",
@@ -749,6 +637,19 @@
 		"apply_nums": "763세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000666&pblancNo=2023000666&houseSecd=01",
+		"in_date": "20231218",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "청주 동일하이빌 파크레인 2단지",
+		"addr": "충청북도 청주시 서원구 개신동 89-1번지 일원",
+		"short_addr": "충청북도 청주시",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "청주시",
+		"apply_nums": "800세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000654&pblancNo=2023000654&houseSecd=01",
 		"in_date": "20231218",
 		"hsecd": "01",
@@ -760,6 +661,32 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "파주시",
 		"apply_nums": "292세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000657&pblancNo=2023000657&houseSecd=01",
+		"in_date": "20231218",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "힐스테이트 가양 더와이즈",
+		"addr": "대전광역시 동구 가양동 452-1번지 일원",
+		"short_addr": "대전광역시 동구",
+		"addr_lv1": "대전광역시",
+		"addr_lv2": "동구",
+		"apply_nums": "358세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000656&pblancNo=2023000656&houseSecd=01",
+		"in_date": "20231218",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "힐스테이트 더 운정",
+		"addr": "경기도 파주시 와동동 1471-2",
+		"short_addr": "경기도 파주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "파주시",
+		"apply_nums": "744세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000638&pblancNo=2023000638&houseSecd=01",
@@ -775,6 +702,19 @@
 		"apply_nums": "186세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000623&pblancNo=2023000623&houseSecd=01",
+		"in_date": "20231219",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "고양 장항 제일풍경채",
+		"addr": "경기도 고양시 일산동구 장항동 658-65 일원(고양장항지구 B-1BL)",
+		"short_addr": "경기도 고양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "고양시",
+		"apply_nums": "1184세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000436&pblancNo=2023000436&houseSecd=01",
 		"in_date": "20231219",
 		"hsecd": "01",
@@ -786,6 +726,32 @@
 		"addr_lv1": "울산광역시",
 		"addr_lv2": "중구",
 		"apply_nums": "140세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000652&pblancNo=2023000652&houseSecd=01",
+		"in_date": "20231219",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "롯데캐슬 시그니처 중앙",
+		"addr": "경기도 안산시 단원구 고잔동 674",
+		"short_addr": "경기도 안산시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "안산시",
+		"apply_nums": "511세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000575&pblancNo=2023000575&houseSecd=01",
+		"in_date": "20231219",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "아산 신창1차 광신프로그레스",
+		"addr": "충청남도 아산시 신창면 남성리 177-3번지 일원",
+		"short_addr": "충청남도 아산시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "아산시",
+		"apply_nums": "450세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000635&pblancNo=2023000635&houseSecd=01",
@@ -801,6 +767,19 @@
 		"apply_nums": "763세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000666&pblancNo=2023000666&houseSecd=01",
+		"in_date": "20231219",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "청주 동일하이빌 파크레인 2단지",
+		"addr": "충청북도 청주시 서원구 개신동 89-1번지 일원",
+		"short_addr": "충청북도 청주시",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "청주시",
+		"apply_nums": "800세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000654&pblancNo=2023000654&houseSecd=01",
 		"in_date": "20231219",
 		"hsecd": "01",
@@ -812,6 +791,45 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "파주시",
 		"apply_nums": "292세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000657&pblancNo=2023000657&houseSecd=01",
+		"in_date": "20231219",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "힐스테이트 가양 더와이즈",
+		"addr": "대전광역시 동구 가양동 452-1번지 일원",
+		"short_addr": "대전광역시 동구",
+		"addr_lv1": "대전광역시",
+		"addr_lv2": "동구",
+		"apply_nums": "358세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000656&pblancNo=2023000656&houseSecd=01",
+		"in_date": "20231219",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "힐스테이트 더 운정",
+		"addr": "경기도 파주시 와동동 1471-2",
+		"short_addr": "경기도 파주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "파주시",
+		"apply_nums": "744세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000623&pblancNo=2023000623&houseSecd=01",
+		"in_date": "20231220",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "고양 장항 제일풍경채",
+		"addr": "경기도 고양시 일산동구 장항동 658-65 일원(고양장항지구 B-1BL)",
+		"short_addr": "경기도 고양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "고양시",
+		"apply_nums": "1184세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000436&pblancNo=2023000436&houseSecd=01",
@@ -827,6 +845,32 @@
 		"apply_nums": "140세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000652&pblancNo=2023000652&houseSecd=01",
+		"in_date": "20231220",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "롯데캐슬 시그니처 중앙",
+		"addr": "경기도 안산시 단원구 고잔동 674",
+		"short_addr": "경기도 안산시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "안산시",
+		"apply_nums": "511세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000575&pblancNo=2023000575&houseSecd=01",
+		"in_date": "20231220",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "아산 신창1차 광신프로그레스",
+		"addr": "충청남도 아산시 신창면 남성리 177-3번지 일원",
+		"short_addr": "충청남도 아산시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "아산시",
+		"apply_nums": "450세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000635&pblancNo=2023000635&houseSecd=01",
 		"in_date": "20231220",
 		"hsecd": "01",
@@ -840,6 +884,19 @@
 		"apply_nums": "763세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000666&pblancNo=2023000666&houseSecd=01",
+		"in_date": "20231220",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "청주 동일하이빌 파크레인 2단지",
+		"addr": "충청북도 청주시 서원구 개신동 89-1번지 일원",
+		"short_addr": "충청북도 청주시",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "청주시",
+		"apply_nums": "800세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000654&pblancNo=2023000654&houseSecd=01",
 		"in_date": "20231220",
 		"hsecd": "01",
@@ -851,5 +908,31 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "파주시",
 		"apply_nums": "292세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000657&pblancNo=2023000657&houseSecd=01",
+		"in_date": "20231220",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "힐스테이트 가양 더와이즈",
+		"addr": "대전광역시 동구 가양동 452-1번지 일원",
+		"short_addr": "대전광역시 동구",
+		"addr_lv1": "대전광역시",
+		"addr_lv2": "동구",
+		"apply_nums": "358세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000656&pblancNo=2023000656&houseSecd=01",
+		"in_date": "20231220",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "힐스테이트 더 운정",
+		"addr": "경기도 파주시 와동동 1471-2",
+		"short_addr": "경기도 파주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "파주시",
+		"apply_nums": "744세대"
 	}
 ]
