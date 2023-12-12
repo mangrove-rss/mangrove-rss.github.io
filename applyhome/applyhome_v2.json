@@ -455,12 +455,33 @@
 		"apply_nums": "186세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023850031&pblancNo=2023850031&houseSecd=03",
+		"in_date": "20231218",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "성산 삼정그린코아 웰레스트"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023850030&pblancNo=2023850030&houseSecd=03",
 		"in_date": "20231218",
 		"hsecd": "03",
 		"rse": "04",
 		"type": "",
 		"name": "하나스테이 포정"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910133&pblancNo=2023910133&houseSecd=04",
+		"in_date": "20231218",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "부천 원종 아이원시티 (임의공급 3차) [잔여세대 할인분양]",
+		"addr": "경기도 부천시 소사로748번길 57-14(원종동)",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "13세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910132&pblancNo=2023910132&houseSecd=04",
