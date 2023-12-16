@@ -1,57 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000624&pblancNo=2023000624&houseSecd=01",
-		"in_date": "20231213",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "서산 센트럴 아이파크",
-		"addr": "충청남도 서산시 석림동 528-1번지 일원",
-		"short_addr": "충청남도 서산시",
-		"addr_lv1": "충청남도",
-		"addr_lv2": "서산시",
-		"apply_nums": "410세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000637&pblancNo=2023000637&houseSecd=01",
-		"in_date": "20231213",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "이천중리B1-BL 우미린 어반퍼스트",
-		"addr": "경기도 이천시 이천중리 택지개발지구 내 B1블록",
-		"short_addr": "경기도 이천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "이천시",
-		"apply_nums": "785세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000532&pblancNo=2023000532&houseSecd=01",
-		"in_date": "20231213",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "청계리버뷰자이",
-		"addr": "서울특별시 성동구 용답동 108-1번지 일원",
-		"short_addr": "서울특별시 성동구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "성동구",
-		"apply_nums": "797세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950065&pblancNo=2023950065&houseSecd=02",
-		"in_date": "20231213",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "증평 석미아데나 에듀포레",
-		"addr": "충청북도 증평군 증평읍 증평리 661번지 일대",
-		"short_addr": "충청북도 증평군",
-		"addr_lv1": "충청북도",
-		"addr_lv2": "증평군",
-		"apply_nums": "414세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000638&pblancNo=2023000638&houseSecd=01",
 		"in_date": "20231214",
 		"hsecd": "01",
