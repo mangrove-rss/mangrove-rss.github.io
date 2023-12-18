@@ -1,18 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000638&pblancNo=2023000638&houseSecd=01",
-		"in_date": "20231215",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "아산 탕정지구 2-A12BL 대광로제비앙(본청약)",
-		"addr": "충청남도 아산시 배방읍 동방로 134(충청남도 아산시 배방읍 세교리 아산 탕정지구 2-A12BL)",
-		"short_addr": "충청남도 아산시",
-		"addr_lv1": "충청남도",
-		"addr_lv2": "아산시",
-		"apply_nums": "186세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000623&pblancNo=2023000623&houseSecd=01",
 		"in_date": "20231218",
 		"hsecd": "01",
@@ -914,5 +901,31 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "평택시",
 		"apply_nums": "1980세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000672&pblancNo=2023000672&houseSecd=01",
+		"in_date": "20231229",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "어반클라쎄목동",
+		"addr": "서울특별시 양천구 신목로2길 7-12 (신정동, 어반클라쎄 목동)",
+		"short_addr": "서울특별시 양천구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "양천구",
+		"apply_nums": "45세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000672&pblancNo=2023000672&houseSecd=01",
+		"in_date": "20240102",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "어반클라쎄목동",
+		"addr": "서울특별시 양천구 신목로2길 7-12 (신정동, 어반클라쎄 목동)",
+		"short_addr": "서울특별시 양천구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "양천구",
+		"apply_nums": "45세대"
 	}
 ]
