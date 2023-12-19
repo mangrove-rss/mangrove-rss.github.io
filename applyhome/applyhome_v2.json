@@ -609,6 +609,19 @@
 		"apply_nums": "1세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023930047&pblancNo=2023930047&houseSecd=06",
+		"in_date": "20231226",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "광명 푸르지오포레나",
+		"addr": "경기도 광명시 광명동 42-42번지 일원 (광명14R구역 주택재개발정비사업)",
+		"short_addr": "경기도 광명시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "광명시",
+		"apply_nums": "1세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000670&pblancNo=2023000670&houseSecd=01",
 		"in_date": "20231227",
 		"hsecd": "01",
@@ -916,6 +929,19 @@
 		"apply_nums": "45세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000634&pblancNo=2023000634&houseSecd=01",
+		"in_date": "20240102",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "덕계역 진산 블루시엘",
+		"addr": "경기도 양주시 덕계동 회천택지개발지구 E6-6(1)BL(경기도 양주시 덕계동 928-9번지)",
+		"short_addr": "경기도 양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "양주시",
+		"apply_nums": "54세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000672&pblancNo=2023000672&houseSecd=01",
 		"in_date": "20240102",
 		"hsecd": "01",
@@ -927,5 +953,44 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "양천구",
 		"apply_nums": "45세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950067&pblancNo=2023950067&houseSecd=02",
+		"in_date": "20240102",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "염창동 에이치밸리움 2차 (도시형생활주택)",
+		"addr": "서울특별시 강서구 공항대로61길 10-6 (염창동, 에이치밸리움2차)",
+		"short_addr": "서울특별시 강서구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강서구",
+		"apply_nums": "3세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000634&pblancNo=2023000634&houseSecd=01",
+		"in_date": "20240103",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "덕계역 진산 블루시엘",
+		"addr": "경기도 양주시 덕계동 회천택지개발지구 E6-6(1)BL(경기도 양주시 덕계동 928-9번지)",
+		"short_addr": "경기도 양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "양주시",
+		"apply_nums": "54세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950067&pblancNo=2023950067&houseSecd=02",
+		"in_date": "20240103",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "염창동 에이치밸리움 2차 (도시형생활주택)",
+		"addr": "서울특별시 강서구 공항대로61길 10-6 (염창동, 에이치밸리움2차)",
+		"short_addr": "서울특별시 강서구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강서구",
+		"apply_nums": "3세대"
 	}
 ]
