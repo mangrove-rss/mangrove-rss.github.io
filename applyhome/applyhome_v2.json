@@ -1,123 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000623&pblancNo=2023000623&houseSecd=01",
-		"in_date": "20231219",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "고양 장항 제일풍경채",
-		"addr": "경기도 고양시 일산동구 장항동 658-65 일원(고양장항지구 B-1BL)",
-		"short_addr": "경기도 고양시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "고양시",
-		"apply_nums": "1184세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000436&pblancNo=2023000436&houseSecd=01",
-		"in_date": "20231219",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "다운 한양립스 더 퍼스트 하임",
-		"addr": "울산광역시 중구 다운동 741-2번지 일원",
-		"short_addr": "울산광역시 중구",
-		"addr_lv1": "울산광역시",
-		"addr_lv2": "중구",
-		"apply_nums": "140세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000652&pblancNo=2023000652&houseSecd=01",
-		"in_date": "20231219",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "롯데캐슬 시그니처 중앙",
-		"addr": "경기도 안산시 단원구 고잔동 674",
-		"short_addr": "경기도 안산시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "안산시",
-		"apply_nums": "511세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000575&pblancNo=2023000575&houseSecd=01",
-		"in_date": "20231219",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "아산 신창1차 광신프로그레스",
-		"addr": "충청남도 아산시 신창면 남성리 177-3번지 일원",
-		"short_addr": "충청남도 아산시",
-		"addr_lv1": "충청남도",
-		"addr_lv2": "아산시",
-		"apply_nums": "450세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000635&pblancNo=2023000635&houseSecd=01",
-		"in_date": "20231219",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "영주자이 시그니처",
-		"addr": "경상북도 영주시 상망동 산78-1번지 일원",
-		"short_addr": "경상북도 영주시",
-		"addr_lv1": "경상북도",
-		"addr_lv2": "영주시",
-		"apply_nums": "763세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000666&pblancNo=2023000666&houseSecd=01",
-		"in_date": "20231219",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "청주 동일하이빌 파크레인 2단지",
-		"addr": "충청북도 청주시 서원구 개신동 89-1번지 일원",
-		"short_addr": "충청북도 청주시",
-		"addr_lv1": "충청북도",
-		"addr_lv2": "청주시",
-		"apply_nums": "800세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000654&pblancNo=2023000654&houseSecd=01",
-		"in_date": "20231219",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "파주 운정신도시 우미 린 파크힐스(본청약)",
-		"addr": "경기도 파주시 운정3지구 A33블록(동패동)",
-		"short_addr": "경기도 파주시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "파주시",
-		"apply_nums": "292세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000657&pblancNo=2023000657&houseSecd=01",
-		"in_date": "20231219",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "힐스테이트 가양 더와이즈",
-		"addr": "대전광역시 동구 가양동 452-1번지 일원",
-		"short_addr": "대전광역시 동구",
-		"addr_lv1": "대전광역시",
-		"addr_lv2": "동구",
-		"apply_nums": "358세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000656&pblancNo=2023000656&houseSecd=01",
-		"in_date": "20231219",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "힐스테이트 더 운정",
-		"addr": "경기도 파주시 와동동 1471-2",
-		"short_addr": "경기도 파주시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "파주시",
-		"apply_nums": "744세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000623&pblancNo=2023000623&houseSecd=01",
 		"in_date": "20231220",
 		"hsecd": "01",
 		"rse": "03",
@@ -622,6 +505,19 @@
 		"name": "힐스테이트 동탄포레"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910134&pblancNo=2023910134&houseSecd=04",
+		"in_date": "20231227",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "옥천역 금호어울림 더퍼스트(임의공급 4차)",
+		"addr": "충청북도 옥천군 옥천읍 마암리 산 2-3번지 일원",
+		"short_addr": "충청북도 옥천군",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "옥천군",
+		"apply_nums": "15세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910136&pblancNo=2023910136&houseSecd=04",
 		"in_date": "20231227",
 		"hsecd": "04",
@@ -765,6 +661,19 @@
 		"apply_nums": "1980세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910134&pblancNo=2023910134&houseSecd=04",
+		"in_date": "20231228",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "옥천역 금호어울림 더퍼스트(임의공급 4차)",
+		"addr": "충청북도 옥천군 옥천읍 마암리 산 2-3번지 일원",
+		"short_addr": "충청북도 옥천군",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "옥천군",
+		"apply_nums": "15세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000672&pblancNo=2023000672&houseSecd=01",
 		"in_date": "20231229",
 		"hsecd": "01",
@@ -778,6 +687,19 @@
 		"apply_nums": "45세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000698&pblancNo=2023000698&houseSecd=01",
+		"in_date": "20240102",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "보해 썬시티 리버파크",
+		"addr": "부산광역시 사상구 괘법동 527-2 외 6필지",
+		"short_addr": "부산광역시 사상구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "사상구",
+		"apply_nums": "214세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000685&pblancNo=2023000685&houseSecd=01",
 		"in_date": "20240102",
 		"hsecd": "01",
@@ -843,6 +765,19 @@
 		"apply_nums": "639세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000706&pblancNo=2023000706&houseSecd=01",
+		"in_date": "20240103",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "더샵 탕정인피니티시티",
+		"addr": "충청남도 아산시 아산탕정지구 도시개발구역 A4BL",
+		"short_addr": "충청남도 아산시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "아산시",
+		"apply_nums": "1140세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000684&pblancNo=2023000684&houseSecd=01",
 		"in_date": "20240103",
 		"hsecd": "01",
@@ -854,6 +789,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "부천시",
 		"apply_nums": "50세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000698&pblancNo=2023000698&houseSecd=01",
+		"in_date": "20240103",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "보해 썬시티 리버파크",
+		"addr": "부산광역시 사상구 괘법동 527-2 외 6필지",
+		"short_addr": "부산광역시 사상구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "사상구",
+		"apply_nums": "214세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000685&pblancNo=2023000685&houseSecd=01",
@@ -908,6 +856,19 @@
 		"apply_nums": "639세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000706&pblancNo=2023000706&houseSecd=01",
+		"in_date": "20240104",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "더샵 탕정인피니티시티",
+		"addr": "충청남도 아산시 아산탕정지구 도시개발구역 A4BL",
+		"short_addr": "충청남도 아산시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "아산시",
+		"apply_nums": "1140세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000684&pblancNo=2023000684&houseSecd=01",
 		"in_date": "20240104",
 		"hsecd": "01",
@@ -919,6 +880,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "부천시",
 		"apply_nums": "50세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000698&pblancNo=2023000698&houseSecd=01",
+		"in_date": "20240104",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "보해 썬시티 리버파크",
+		"addr": "부산광역시 사상구 괘법동 527-2 외 6필지",
+		"short_addr": "부산광역시 사상구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "사상구",
+		"apply_nums": "214세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000685&pblancNo=2023000685&houseSecd=01",
@@ -958,6 +932,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "광명시",
 		"apply_nums": "639세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000706&pblancNo=2023000706&houseSecd=01",
+		"in_date": "20240105",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "더샵 탕정인피니티시티",
+		"addr": "충청남도 아산시 아산탕정지구 도시개발구역 A4BL",
+		"short_addr": "충청남도 아산시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "아산시",
+		"apply_nums": "1140세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000684&pblancNo=2023000684&houseSecd=01",
