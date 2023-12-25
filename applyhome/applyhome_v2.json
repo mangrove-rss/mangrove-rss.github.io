@@ -518,6 +518,14 @@
 		"apply_nums": "15세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023940007&pblancNo=2023940007&houseSecd=11",
+		"in_date": "20231228",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "상도 푸르지오 클라베뉴"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000672&pblancNo=2023000672&houseSecd=01",
 		"in_date": "20231229",
 		"hsecd": "01",
@@ -529,6 +537,14 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "양천구",
 		"apply_nums": "45세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023940007&pblancNo=2023940007&houseSecd=11",
+		"in_date": "20231229",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "상도 푸르지오 클라베뉴"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000698&pblancNo=2023000698&houseSecd=01",
@@ -581,6 +597,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "양천구",
 		"apply_nums": "45세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950068&pblancNo=2023950068&houseSecd=02",
+		"in_date": "20240102",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "DMC 가재울 아이파크 오피스텔",
+		"addr": "서울특별시 서대문구 남가좌동 289-54번지 일대",
+		"short_addr": "서울특별시 서대문구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "서대문구",
+		"apply_nums": "3세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950067&pblancNo=2023950067&houseSecd=02",
