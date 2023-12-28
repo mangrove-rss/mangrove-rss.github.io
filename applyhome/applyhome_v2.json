@@ -742,6 +742,19 @@
 		"apply_nums": "122세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910139&pblancNo=2023910139&houseSecd=04",
+		"in_date": "20240103",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "효성해링턴 플레이스 목감역(무순위2차)",
+		"addr": "경기도 시흥시 논곡동 162-3번지외 3필지",
+		"short_addr": "경기도 시흥시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "시흥시",
+		"apply_nums": "35세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000688&pblancNo=2023000688&houseSecd=01",
 		"in_date": "20240104",
 		"hsecd": "01",
@@ -859,6 +872,19 @@
 		"apply_nums": "50세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000691&pblancNo=2023000691&houseSecd=01",
+		"in_date": "20240108",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "인천 검단신도시 AB20-2블록 중흥S-클래스 에듀파크(본청약)",
+		"addr": "인천광역시 서구 검단지구 공동주택용지 AB20-2BL",
+		"short_addr": "인천광역시 서구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "719세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000557&pblancNo=2023000557&houseSecd=01",
 		"in_date": "20240108",
 		"hsecd": "01",
@@ -872,6 +898,32 @@
 		"apply_nums": "620세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000612&pblancNo=2023000612&houseSecd=01",
+		"in_date": "20240108",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "후포 라온하이츠",
+		"addr": "경상북도 울진군 후포면 후포리 303-2번지",
+		"short_addr": "경상북도 울진군",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "울진군",
+		"apply_nums": "60세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000691&pblancNo=2023000691&houseSecd=01",
+		"in_date": "20240109",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "인천 검단신도시 AB20-2블록 중흥S-클래스 에듀파크(본청약)",
+		"addr": "인천광역시 서구 검단지구 공동주택용지 AB20-2BL",
+		"short_addr": "인천광역시 서구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "719세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000557&pblancNo=2023000557&houseSecd=01",
 		"in_date": "20240109",
 		"hsecd": "01",
@@ -883,5 +935,31 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "계양구",
 		"apply_nums": "620세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000612&pblancNo=2023000612&houseSecd=01",
+		"in_date": "20240109",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "후포 라온하이츠",
+		"addr": "경상북도 울진군 후포면 후포리 303-2번지",
+		"short_addr": "경상북도 울진군",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "울진군",
+		"apply_nums": "60세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000691&pblancNo=2023000691&houseSecd=01",
+		"in_date": "20240110",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "인천 검단신도시 AB20-2블록 중흥S-클래스 에듀파크(본청약)",
+		"addr": "인천광역시 서구 검단지구 공동주택용지 AB20-2BL",
+		"short_addr": "인천광역시 서구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "719세대"
 	}
 ]
