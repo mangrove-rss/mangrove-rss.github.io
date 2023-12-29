@@ -219,5 +219,17 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ 1pondo  080323_001 2023-08-03  등록일  2023.08.04 ]]></showrss:showname>
 		</item>
+		<item>
+			<title><![CDATA[ 10musume  080323_01 2023-08-03  등록일  2023.08.04 ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih:ae4554a2e129e353fa008a335d8498f0af45267b ]]></link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ 10musume  080323_01 2023-08-03  등록일  2023.08.04 ]]></showrss:showname>
+		</item>
+		<item>
+			<title><![CDATA[ 10musume  080323_01 2023-08-03  등록일  2023.08.04 ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih:8e3382b59b3f4366a073a8caa16f6819dedf3127 ]]></link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ 10musume  080323_01 2023-08-03  등록일  2023.08.04 ]]></showrss:showname>
+		</item>
 	</channel>
 </rss>
