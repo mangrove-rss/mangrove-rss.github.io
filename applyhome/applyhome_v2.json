@@ -416,6 +416,19 @@
 		"apply_nums": "60세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023930045&pblancNo=2023930045&houseSecd=06",
+		"in_date": "20240108",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "광주 초월역 한라비발디 계약취소주택",
+		"addr": "경기도 광주시 초월읍 쌍동리 300-5번지 일원",
+		"short_addr": "경기도 광주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "광주시",
+		"apply_nums": "2세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000620&pblancNo=2023000620&houseSecd=01",
 		"in_date": "20240109",
 		"hsecd": "01",
@@ -507,6 +520,19 @@
 		"apply_nums": "60세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910140&pblancNo=2023910140&houseSecd=04",
+		"in_date": "20240109",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "청주 흥덕 칸타빌 더뉴(임의공급 2차)",
+		"addr": "충청북도 청주시 흥덕구 강내면 월곡리 82-1 일원",
+		"short_addr": "충청북도 청주시",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "청주시",
+		"apply_nums": "15세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000620&pblancNo=2023000620&houseSecd=01",
 		"in_date": "20240110",
 		"hsecd": "01",
@@ -570,5 +596,18 @@
 		"addr_lv1": "충청북도",
 		"addr_lv2": "제천시",
 		"apply_nums": "209세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910140&pblancNo=2023910140&houseSecd=04",
+		"in_date": "20240110",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "청주 흥덕 칸타빌 더뉴(임의공급 2차)",
+		"addr": "충청북도 청주시 흥덕구 강내면 월곡리 82-1 일원",
+		"short_addr": "충청북도 청주시",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "청주시",
+		"apply_nums": "15세대"
 	}
 ]
