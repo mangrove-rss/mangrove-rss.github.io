@@ -533,6 +533,14 @@
 		"apply_nums": "15세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023940008&pblancNo=2023940008&houseSecd=11",
+		"in_date": "20240109",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "포레나 인천학익"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000620&pblancNo=2023000620&houseSecd=01",
 		"in_date": "20240110",
 		"hsecd": "01",
@@ -609,5 +617,44 @@
 		"addr_lv1": "충청북도",
 		"addr_lv2": "청주시",
 		"apply_nums": "15세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000677&pblancNo=2023000677&houseSecd=01",
+		"in_date": "20240115",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "익산 피렌채",
+		"addr": "전라북도 익산시 팔봉동 905번지",
+		"short_addr": "전라북도 익산시",
+		"addr_lv1": "전라북도",
+		"addr_lv2": "익산시",
+		"apply_nums": "92세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000677&pblancNo=2023000677&houseSecd=01",
+		"in_date": "20240116",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "익산 피렌채",
+		"addr": "전라북도 익산시 팔봉동 905번지",
+		"short_addr": "전라북도 익산시",
+		"addr_lv1": "전라북도",
+		"addr_lv2": "익산시",
+		"apply_nums": "92세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000677&pblancNo=2023000677&houseSecd=01",
+		"in_date": "20240117",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "익산 피렌채",
+		"addr": "전라북도 익산시 팔봉동 905번지",
+		"short_addr": "전라북도 익산시",
+		"addr_lv1": "전라북도",
+		"addr_lv2": "익산시",
+		"apply_nums": "92세대"
 	}
 ]
