@@ -1,96 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000698&pblancNo=2023000698&houseSecd=01",
-		"in_date": "20240102",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "보해 썬시티 리버파크",
-		"addr": "부산광역시 사상구 괘법동 527-2 외 6필지",
-		"short_addr": "부산광역시 사상구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "사상구",
-		"apply_nums": "214세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000685&pblancNo=2023000685&houseSecd=01",
-		"in_date": "20240102",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "쌍용 더 플래티넘 스카이",
-		"addr": "강원특별자치도 춘천시 약사동 150-10번지 일원",
-		"short_addr": "강원특별자치도 춘천시",
-		"addr_lv1": "강원특별자치도",
-		"addr_lv2": "춘천시",
-		"apply_nums": "228세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000634&pblancNo=2023000634&houseSecd=01",
-		"in_date": "20240102",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "덕계역 진산 블루시엘",
-		"addr": "경기도 양주시 덕계동 회천택지개발지구 E6-6(1)BL(경기도 양주시 덕계동 928-9번지)",
-		"short_addr": "경기도 양주시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "양주시",
-		"apply_nums": "54세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000672&pblancNo=2023000672&houseSecd=01",
-		"in_date": "20240102",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "어반클라쎄목동",
-		"addr": "서울특별시 양천구 신목로2길 7-12 (신정동, 어반클라쎄 목동)",
-		"short_addr": "서울특별시 양천구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "양천구",
-		"apply_nums": "45세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950068&pblancNo=2023950068&houseSecd=02",
-		"in_date": "20240102",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "DMC 가재울 아이파크 오피스텔",
-		"addr": "서울특별시 서대문구 남가좌동 289-54번지 일대",
-		"short_addr": "서울특별시 서대문구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "서대문구",
-		"apply_nums": "3세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950067&pblancNo=2023950067&houseSecd=02",
-		"in_date": "20240102",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "염창동 에이치밸리움 2차 (도시형생활주택)",
-		"addr": "서울특별시 강서구 공항대로61길 10-6 (염창동, 에이치밸리움2차)",
-		"short_addr": "서울특별시 강서구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강서구",
-		"apply_nums": "3세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910137&pblancNo=2023910137&houseSecd=04",
-		"in_date": "20240102",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "e편한세상 답십리 아르테포레(국민주택)(무순위1차)",
-		"addr": "서울특별시 동대문구 답십리동 12번지 일대",
-		"short_addr": "서울특별시 동대문구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "동대문구",
-		"apply_nums": "54세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000688&pblancNo=2023000688&houseSecd=01",
 		"in_date": "20240103",
 		"hsecd": "01",
@@ -619,6 +528,19 @@
 		"apply_nums": "15세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000694&pblancNo=2023000694&houseSecd=01",
+		"in_date": "20240115",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "강릉 유블레스 리센트",
+		"addr": "강원특별자치도 강릉시 포남동 1153, 1153-2번지 일원",
+		"short_addr": "강원특별자치도 강릉시",
+		"addr_lv1": "강원특별자치도",
+		"addr_lv2": "강릉시",
+		"apply_nums": "226세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000677&pblancNo=2023000677&houseSecd=01",
 		"in_date": "20240115",
 		"hsecd": "01",
@@ -632,6 +554,32 @@
 		"apply_nums": "92세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950069&pblancNo=2023950069&houseSecd=02",
+		"in_date": "20240115",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "마인하임",
+		"addr": "충청남도 천안시 동남구 병천면 가전리 710",
+		"short_addr": "충청남도 천안시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "천안시",
+		"apply_nums": "83세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000694&pblancNo=2023000694&houseSecd=01",
+		"in_date": "20240116",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "강릉 유블레스 리센트",
+		"addr": "강원특별자치도 강릉시 포남동 1153, 1153-2번지 일원",
+		"short_addr": "강원특별자치도 강릉시",
+		"addr_lv1": "강원특별자치도",
+		"addr_lv2": "강릉시",
+		"apply_nums": "226세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000677&pblancNo=2023000677&houseSecd=01",
 		"in_date": "20240116",
 		"hsecd": "01",
@@ -643,6 +591,32 @@
 		"addr_lv1": "전라북도",
 		"addr_lv2": "익산시",
 		"apply_nums": "92세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950069&pblancNo=2023950069&houseSecd=02",
+		"in_date": "20240116",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "마인하임",
+		"addr": "충청남도 천안시 동남구 병천면 가전리 710",
+		"short_addr": "충청남도 천안시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "천안시",
+		"apply_nums": "83세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000694&pblancNo=2023000694&houseSecd=01",
+		"in_date": "20240117",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "강릉 유블레스 리센트",
+		"addr": "강원특별자치도 강릉시 포남동 1153, 1153-2번지 일원",
+		"short_addr": "강원특별자치도 강릉시",
+		"addr_lv1": "강원특별자치도",
+		"addr_lv2": "강릉시",
+		"apply_nums": "226세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000677&pblancNo=2023000677&houseSecd=01",
