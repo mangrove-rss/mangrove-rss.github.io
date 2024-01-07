@@ -1,70 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000688&pblancNo=2023000688&houseSecd=01",
-		"in_date": "20240104",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "광명자이힐스테이트SKVIEW",
-		"addr": "경기도 광명시 광명동 78-38",
-		"short_addr": "경기도 광명시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "광명시",
-		"apply_nums": "639세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000706&pblancNo=2023000706&houseSecd=01",
-		"in_date": "20240104",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "더샵 탕정인피니티시티",
-		"addr": "충청남도 아산시 아산탕정지구 도시개발구역 A4BL",
-		"short_addr": "충청남도 아산시",
-		"addr_lv1": "충청남도",
-		"addr_lv2": "아산시",
-		"apply_nums": "1140세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000684&pblancNo=2023000684&houseSecd=01",
-		"in_date": "20240104",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "역곡역 아테움 스위첸",
-		"addr": "경기도 부천시 괴안동 91-1번지 외 1필지",
-		"short_addr": "경기도 부천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "부천시",
-		"apply_nums": "50세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000698&pblancNo=2023000698&houseSecd=01",
-		"in_date": "20240104",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "보해 썬시티 리버파크",
-		"addr": "부산광역시 사상구 괘법동 527-2 외 6필지",
-		"short_addr": "부산광역시 사상구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "사상구",
-		"apply_nums": "214세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000685&pblancNo=2023000685&houseSecd=01",
-		"in_date": "20240104",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "쌍용 더 플래티넘 스카이",
-		"addr": "강원특별자치도 춘천시 약사동 150-10번지 일원",
-		"short_addr": "강원특별자치도 춘천시",
-		"addr_lv1": "강원특별자치도",
-		"addr_lv2": "춘천시",
-		"apply_nums": "228세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000557&pblancNo=2023000557&houseSecd=01",
 		"in_date": "20240105",
 		"hsecd": "01",
@@ -450,6 +385,32 @@
 		"apply_nums": "83세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910135&pblancNo=2023910135&houseSecd=04",
+		"in_date": "20240115",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "DMC한강자이더헤리티지 (무순위 1차)",
+		"addr": "경기도 고양시 덕양구 대덕산로 20 (덕은동, DMC한강자이 더 헤리티지)",
+		"short_addr": "경기도 고양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "고양시",
+		"apply_nums": "2세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023930048&pblancNo=2023930048&houseSecd=06",
+		"in_date": "20240115",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "DMC한강자이더헤리티지(계약취소주택)",
+		"addr": "경기도 고양시 덕양구 대덕산로 20 (덕은동, DMC한강자이 더 헤리티지)",
+		"short_addr": "경기도 고양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "고양시",
+		"apply_nums": "2세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000694&pblancNo=2023000694&houseSecd=01",
 		"in_date": "20240116",
 		"hsecd": "01",
@@ -487,6 +448,19 @@
 		"addr_lv1": "충청남도",
 		"addr_lv2": "천안시",
 		"apply_nums": "83세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023930048&pblancNo=2023930048&houseSecd=06",
+		"in_date": "20240116",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "DMC한강자이더헤리티지(계약취소주택)",
+		"addr": "경기도 고양시 덕양구 대덕산로 20 (덕은동, DMC한강자이 더 헤리티지)",
+		"short_addr": "경기도 고양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "고양시",
+		"apply_nums": "2세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000694&pblancNo=2023000694&houseSecd=01",
