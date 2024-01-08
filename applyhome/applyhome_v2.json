@@ -1,57 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000557&pblancNo=2023000557&houseSecd=01",
-		"in_date": "20240105",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "두산위브더제니스 센트럴 계양",
-		"addr": "인천광역시 계양구 작전동 439-7번지 일원",
-		"short_addr": "인천광역시 계양구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "계양구",
-		"apply_nums": "620세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000688&pblancNo=2023000688&houseSecd=01",
-		"in_date": "20240105",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "광명자이힐스테이트SKVIEW",
-		"addr": "경기도 광명시 광명동 78-38",
-		"short_addr": "경기도 광명시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "광명시",
-		"apply_nums": "639세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000706&pblancNo=2023000706&houseSecd=01",
-		"in_date": "20240105",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "더샵 탕정인피니티시티",
-		"addr": "충청남도 아산시 아산탕정지구 도시개발구역 A4BL",
-		"short_addr": "충청남도 아산시",
-		"addr_lv1": "충청남도",
-		"addr_lv2": "아산시",
-		"apply_nums": "1140세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000684&pblancNo=2023000684&houseSecd=01",
-		"in_date": "20240105",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "역곡역 아테움 스위첸",
-		"addr": "경기도 부천시 괴안동 91-1번지 외 1필지",
-		"short_addr": "경기도 부천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "부천시",
-		"apply_nums": "50세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000620&pblancNo=2023000620&houseSecd=01",
 		"in_date": "20240108",
 		"hsecd": "01",
@@ -398,6 +346,32 @@
 		"apply_nums": "2세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910001&pblancNo=2024910001&houseSecd=04",
+		"in_date": "20240115",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "강동 중앙하이츠 시티(임의공급 5차)",
+		"addr": "서울특별시 강동구 길동 415-5번지",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "16세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910002&pblancNo=2024910002&houseSecd=04",
+		"in_date": "20240115",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "남구로역 동일 센타시아(임의공급 8차)",
+		"addr": "서울특별시 구로구 가리봉동 113-1번지 일원",
+		"short_addr": "서울특별시 구로구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "구로구",
+		"apply_nums": "10세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023930048&pblancNo=2023930048&houseSecd=06",
 		"in_date": "20240115",
 		"hsecd": "06",
@@ -448,6 +422,19 @@
 		"addr_lv1": "충청남도",
 		"addr_lv2": "천안시",
 		"apply_nums": "83세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910001&pblancNo=2024910001&houseSecd=04",
+		"in_date": "20240116",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "강동 중앙하이츠 시티(임의공급 5차)",
+		"addr": "서울특별시 강동구 길동 415-5번지",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "16세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023930048&pblancNo=2023930048&houseSecd=06",
