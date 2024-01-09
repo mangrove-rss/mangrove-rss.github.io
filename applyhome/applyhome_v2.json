@@ -294,6 +294,22 @@
 		"apply_nums": "15세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023940009&pblancNo=2023940009&houseSecd=11",
+		"in_date": "20240111",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "아산 한신더휴"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023940009&pblancNo=2023940009&houseSecd=11",
+		"in_date": "20240112",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "아산 한신더휴"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000694&pblancNo=2023000694&houseSecd=01",
 		"in_date": "20240115",
 		"hsecd": "01",
@@ -372,6 +388,19 @@
 		"apply_nums": "10세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2023910141&pblancNo=2023910141&houseSecd=04",
+		"in_date": "20240115",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "산성역자이푸르지오 (무순위1차)",
+		"addr": "경기도 성남시 수정구 공원로 382번길 36-1 일원(성남 신흥2구역 주택재개발정비사업)",
+		"short_addr": "경기도 성남시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "성남시",
+		"apply_nums": "1세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023930048&pblancNo=2023930048&houseSecd=06",
 		"in_date": "20240115",
 		"hsecd": "06",
@@ -383,6 +412,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "고양시",
 		"apply_nums": "2세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023930055&pblancNo=2023930055&houseSecd=06",
+		"in_date": "20240115",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "산성역자이푸르지오(계약취소주택)",
+		"addr": "경기도 성남시 수정구 공원로 382번길 36-1 일원 (성남 신흥2구역 주택재개발정비사업)",
+		"short_addr": "경기도 성남시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "성남시",
+		"apply_nums": "3세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000694&pblancNo=2023000694&houseSecd=01",
@@ -474,5 +516,83 @@
 		"addr_lv1": "전라북도",
 		"addr_lv2": "익산시",
 		"apply_nums": "92세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000689&pblancNo=2023000689&houseSecd=01",
+		"in_date": "20240119",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "어등산 진아리채 리버필드",
+		"addr": "광주광역시 광산구 선암동 77-11번지 일원",
+		"short_addr": "광주광역시 광산구",
+		"addr_lv1": "광주광역시",
+		"addr_lv2": "광산구",
+		"apply_nums": "142세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000707&pblancNo=2023000707&houseSecd=01",
+		"in_date": "20240122",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "제일풍경채 검단Ⅲ 본청약",
+		"addr": "인천광역시 서구 불로동 검단신도시 AB20-1블록",
+		"short_addr": "인천광역시 서구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "393세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000689&pblancNo=2023000689&houseSecd=01",
+		"in_date": "20240122",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "어등산 진아리채 리버필드",
+		"addr": "광주광역시 광산구 선암동 77-11번지 일원",
+		"short_addr": "광주광역시 광산구",
+		"addr_lv1": "광주광역시",
+		"addr_lv2": "광산구",
+		"apply_nums": "142세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000707&pblancNo=2023000707&houseSecd=01",
+		"in_date": "20240123",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "제일풍경채 검단Ⅲ 본청약",
+		"addr": "인천광역시 서구 불로동 검단신도시 AB20-1블록",
+		"short_addr": "인천광역시 서구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "393세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000689&pblancNo=2023000689&houseSecd=01",
+		"in_date": "20240123",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "어등산 진아리채 리버필드",
+		"addr": "광주광역시 광산구 선암동 77-11번지 일원",
+		"short_addr": "광주광역시 광산구",
+		"addr_lv1": "광주광역시",
+		"addr_lv2": "광산구",
+		"apply_nums": "142세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000707&pblancNo=2023000707&houseSecd=01",
+		"in_date": "20240124",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "제일풍경채 검단Ⅲ 본청약",
+		"addr": "인천광역시 서구 불로동 검단신도시 AB20-1블록",
+		"short_addr": "인천광역시 서구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "393세대"
 	}
 ]
