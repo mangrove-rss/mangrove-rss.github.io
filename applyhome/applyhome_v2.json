@@ -1,110 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000620&pblancNo=2023000620&houseSecd=01",
-		"in_date": "20240108",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "문수로 아르티스",
-		"addr": "울산광역시 남구 신정동 1182-7번지 일원",
-		"short_addr": "울산광역시 남구",
-		"addr_lv1": "울산광역시",
-		"addr_lv2": "남구",
-		"apply_nums": "273세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000681&pblancNo=2023000681&houseSecd=01",
-		"in_date": "20240108",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "안성 하우스토리 퍼스트시티",
-		"addr": "경기도 안성시 죽산면 죽산리 790",
-		"short_addr": "경기도 안성시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "안성시",
-		"apply_nums": "474세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000710&pblancNo=2023000710&houseSecd=01",
-		"in_date": "20240108",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "영통역자이 프라시엘",
-		"addr": "경기도 용인시 기흥구 서천동 335-2번지 일원",
-		"short_addr": "경기도 용인시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "용인시",
-		"apply_nums": "472세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000691&pblancNo=2023000691&houseSecd=01",
-		"in_date": "20240108",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "인천 검단신도시 AB20-2블록 중흥S-클래스 에듀파크(본청약)",
-		"addr": "인천광역시 서구 검단지구 공동주택용지 AB20-2BL",
-		"short_addr": "인천광역시 서구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "서구",
-		"apply_nums": "719세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000704&pblancNo=2023000704&houseSecd=01",
-		"in_date": "20240108",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "제천 신백 선광로즈웰아파트",
-		"addr": "충청북도 제천시 신백동 209-8외 4필지",
-		"short_addr": "충청북도 제천시",
-		"addr_lv1": "충청북도",
-		"addr_lv2": "제천시",
-		"apply_nums": "209세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000557&pblancNo=2023000557&houseSecd=01",
-		"in_date": "20240108",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "두산위브더제니스 센트럴 계양",
-		"addr": "인천광역시 계양구 작전동 439-7번지 일원",
-		"short_addr": "인천광역시 계양구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "계양구",
-		"apply_nums": "620세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000612&pblancNo=2023000612&houseSecd=01",
-		"in_date": "20240108",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "후포 라온하이츠",
-		"addr": "경상북도 울진군 후포면 후포리 303-2번지",
-		"short_addr": "경상북도 울진군",
-		"addr_lv1": "경상북도",
-		"addr_lv2": "울진군",
-		"apply_nums": "60세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023930045&pblancNo=2023930045&houseSecd=06",
-		"in_date": "20240108",
-		"hsecd": "06",
-		"rse": "07",
-		"type": "",
-		"name": "광주 초월역 한라비발디 계약취소주택",
-		"addr": "경기도 광주시 초월읍 쌍동리 300-5번지 일원",
-		"short_addr": "경기도 광주시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "광주시",
-		"apply_nums": "2세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000620&pblancNo=2023000620&houseSecd=01",
 		"in_date": "20240109",
 		"hsecd": "01",
 		"rse": "02",
@@ -544,6 +440,32 @@
 		"apply_nums": "92세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950002&pblancNo=2024950002&houseSecd=02",
+		"in_date": "20240117",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "당산역 한강 더로드캐슬",
+		"addr": "서울특별시 영등포구 당산동6가 347-5",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "9세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950002&pblancNo=2024950002&houseSecd=02",
+		"in_date": "20240118",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "당산역 한강 더로드캐슬",
+		"addr": "서울특별시 영등포구 당산동6가 347-5",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "9세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000689&pblancNo=2023000689&houseSecd=01",
 		"in_date": "20240119",
 		"hsecd": "01",
@@ -557,6 +479,45 @@
 		"apply_nums": "142세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950002&pblancNo=2024950002&houseSecd=02",
+		"in_date": "20240119",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "당산역 한강 더로드캐슬",
+		"addr": "서울특별시 영등포구 당산동6가 347-5",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "9세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950002&pblancNo=2024950002&houseSecd=02",
+		"in_date": "20240120",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "당산역 한강 더로드캐슬",
+		"addr": "서울특별시 영등포구 당산동6가 347-5",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "9세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950002&pblancNo=2024950002&houseSecd=02",
+		"in_date": "20240121",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "당산역 한강 더로드캐슬",
+		"addr": "서울특별시 영등포구 당산동6가 347-5",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "9세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000700&pblancNo=2023000700&houseSecd=01",
 		"in_date": "20240122",
 		"hsecd": "01",
@@ -596,6 +557,32 @@
 		"apply_nums": "142세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950002&pblancNo=2024950002&houseSecd=02",
+		"in_date": "20240122",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "당산역 한강 더로드캐슬",
+		"addr": "서울특별시 영등포구 당산동6가 347-5",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "9세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950001&pblancNo=2024950001&houseSecd=02",
+		"in_date": "20240122",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "이문 월드메르디앙 힐트리움 더테라스",
+		"addr": "서울특별시 동대문구 이문동 348-11, 348-12번지",
+		"short_addr": "서울특별시 동대문구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "동대문구",
+		"apply_nums": "6세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000700&pblancNo=2023000700&houseSecd=01",
 		"in_date": "20240123",
 		"hsecd": "01",
@@ -635,6 +622,32 @@
 		"apply_nums": "142세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950002&pblancNo=2024950002&houseSecd=02",
+		"in_date": "20240123",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "당산역 한강 더로드캐슬",
+		"addr": "서울특별시 영등포구 당산동6가 347-5",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "9세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000682&pblancNo=2023000682&houseSecd=01",
+		"in_date": "20240124",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "포제스 한강",
+		"addr": "서울특별시 광진구 광장동 188-2번지 일원",
+		"short_addr": "서울특별시 광진구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "광진구",
+		"apply_nums": "128세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000700&pblancNo=2023000700&houseSecd=01",
 		"in_date": "20240124",
 		"hsecd": "01",
@@ -659,5 +672,31 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "서구",
 		"apply_nums": "393세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000682&pblancNo=2023000682&houseSecd=01",
+		"in_date": "20240125",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "포제스 한강",
+		"addr": "서울특별시 광진구 광장동 188-2번지 일원",
+		"short_addr": "서울특별시 광진구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "광진구",
+		"apply_nums": "128세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000682&pblancNo=2023000682&houseSecd=01",
+		"in_date": "20240126",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "포제스 한강",
+		"addr": "서울특별시 광진구 광장동 188-2번지 일원",
+		"short_addr": "서울특별시 광진구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "광진구",
+		"apply_nums": "128세대"
 	}
 ]
