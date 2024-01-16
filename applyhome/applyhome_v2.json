@@ -403,6 +403,32 @@
 		"apply_nums": "6세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950003&pblancNo=2024950003&houseSecd=02",
+		"in_date": "20240122",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "현대 프라힐스 소사역 더프라임",
+		"addr": "경기도 부천시 소사본동 70-7외 6필지",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "2세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910005&pblancNo=2024910005&houseSecd=04",
+		"in_date": "20240122",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "화곡 더리브 스카이 주상복합아파트 (임의공급12차)",
+		"addr": "서울특별시 강서구 화곡동 370-76 외 6필지",
+		"short_addr": "서울특별시 강서구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강서구",
+		"apply_nums": "20세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000700&pblancNo=2023000700&houseSecd=01",
 		"in_date": "20240123",
 		"hsecd": "01",
@@ -453,6 +479,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "영등포구",
 		"apply_nums": "9세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950003&pblancNo=2024950003&houseSecd=02",
+		"in_date": "20240123",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "현대 프라힐스 소사역 더프라임",
+		"addr": "경기도 부천시 소사본동 70-7외 6필지",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "2세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000682&pblancNo=2023000682&houseSecd=01",
