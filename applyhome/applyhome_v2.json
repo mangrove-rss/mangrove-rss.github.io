@@ -429,6 +429,14 @@
 		"apply_nums": "20세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940001&pblancNo=2024940001&houseSecd=11",
+		"in_date": "20240122",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "신독산 솔리힐 뉴포레(2차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000700&pblancNo=2023000700&houseSecd=01",
 		"in_date": "20240123",
 		"hsecd": "01",
@@ -492,6 +500,32 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "부천시",
 		"apply_nums": "2세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910007&pblancNo=2024910007&houseSecd=04",
+		"in_date": "20240123",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "e편한세상 답십리 아르테포레(국민주택)(무순위2차)",
+		"addr": "서울특별시 동대문구 답십리동 12번지 일대",
+		"short_addr": "서울특별시 동대문구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "동대문구",
+		"apply_nums": "15세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930003&pblancNo=2024930003&houseSecd=06",
+		"in_date": "20240123",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "파주운정 경남아너스빌 디원(A18블록)",
+		"addr": "경기도 파주시 파주운정3지구 A18BL ",
+		"short_addr": "경기도 파주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "파주시",
+		"apply_nums": "1세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000682&pblancNo=2023000682&houseSecd=01",
