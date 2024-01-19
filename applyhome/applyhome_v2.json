@@ -1,97 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000694&pblancNo=2023000694&houseSecd=01",
-		"in_date": "20240116",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "강릉 유블레스 리센트",
-		"addr": "강원특별자치도 강릉시 포남동 1153, 1153-2번지 일원",
-		"short_addr": "강원특별자치도 강릉시",
-		"addr_lv1": "강원특별자치도",
-		"addr_lv2": "강릉시",
-		"apply_nums": "226세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000677&pblancNo=2023000677&houseSecd=01",
-		"in_date": "20240116",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "익산 피렌채",
-		"addr": "전라북도 익산시 팔봉동 905번지",
-		"short_addr": "전라북도 익산시",
-		"addr_lv1": "전라북도",
-		"addr_lv2": "익산시",
-		"apply_nums": "92세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2023950069&pblancNo=2023950069&houseSecd=02",
-		"in_date": "20240116",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "마인하임",
-		"addr": "충청남도 천안시 동남구 병천면 가전리 710",
-		"short_addr": "충청남도 천안시",
-		"addr_lv1": "충청남도",
-		"addr_lv2": "천안시",
-		"apply_nums": "83세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910001&pblancNo=2024910001&houseSecd=04",
-		"in_date": "20240116",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "강동 중앙하이츠 시티(임의공급 5차)",
-		"addr": "서울특별시 강동구 길동 415-5번지",
-		"short_addr": "서울특별시 강동구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강동구",
-		"apply_nums": "16세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910003&pblancNo=2024910003&houseSecd=04",
-		"in_date": "20240116",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "상도 푸르지오 클라베뉴 (임의공급 2차)",
-		"addr": "서울특별시 동작구 상도동 산65-74 번지 일원",
-		"short_addr": "서울특별시 동작구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "동작구",
-		"apply_nums": "158세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023930048&pblancNo=2023930048&houseSecd=06",
-		"in_date": "20240116",
-		"hsecd": "06",
-		"rse": "07",
-		"type": "",
-		"name": "DMC한강자이더헤리티지(계약취소주택)",
-		"addr": "경기도 고양시 덕양구 대덕산로 20 (덕은동, DMC한강자이 더 헤리티지)",
-		"short_addr": "경기도 고양시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "고양시",
-		"apply_nums": "2세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023930054&pblancNo=2023930054&houseSecd=06",
-		"in_date": "20240116",
-		"hsecd": "06",
-		"rse": "07",
-		"type": "",
-		"name": "효성해링턴 플레이스 상무역",
-		"addr": "광주광역시 서구 마륵동 120-1번지 일원",
-		"short_addr": "광주광역시 서구",
-		"addr_lv1": "광주광역시",
-		"addr_lv2": "서구",
-		"apply_nums": "1세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000694&pblancNo=2023000694&houseSecd=01",
 		"in_date": "20240117",
 		"hsecd": "01",
 		"rse": "03",
@@ -567,6 +476,19 @@
 		"apply_nums": "285세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000008&pblancNo=2024000008&houseSecd=01",
+		"in_date": "20240129",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "홍성2차 승원팰리체 시그니처",
+		"addr": "충청남도 홍성군 광천읍 광천리 154-47번지 일원",
+		"short_addr": "충청남도 홍성군",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "홍성군",
+		"apply_nums": "293세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000683&pblancNo=2023000683&houseSecd=01",
 		"in_date": "20240130",
 		"hsecd": "01",
@@ -606,6 +528,19 @@
 		"apply_nums": "285세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000008&pblancNo=2024000008&houseSecd=01",
+		"in_date": "20240130",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "홍성2차 승원팰리체 시그니처",
+		"addr": "충청남도 홍성군 광천읍 광천리 154-47번지 일원",
+		"short_addr": "충청남도 홍성군",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "홍성군",
+		"apply_nums": "293세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000683&pblancNo=2023000683&houseSecd=01",
 		"in_date": "20240131",
 		"hsecd": "01",
@@ -643,5 +578,18 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "수원시",
 		"apply_nums": "285세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000008&pblancNo=2024000008&houseSecd=01",
+		"in_date": "20240131",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "홍성2차 승원팰리체 시그니처",
+		"addr": "충청남도 홍성군 광천읍 광천리 154-47번지 일원",
+		"short_addr": "충청남도 홍성군",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "홍성군",
+		"apply_nums": "293세대"
 	}
 ]
