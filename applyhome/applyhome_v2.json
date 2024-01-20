@@ -1,57 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000694&pblancNo=2023000694&houseSecd=01",
-		"in_date": "20240117",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "강릉 유블레스 리센트",
-		"addr": "강원특별자치도 강릉시 포남동 1153, 1153-2번지 일원",
-		"short_addr": "강원특별자치도 강릉시",
-		"addr_lv1": "강원특별자치도",
-		"addr_lv2": "강릉시",
-		"apply_nums": "226세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000677&pblancNo=2023000677&houseSecd=01",
-		"in_date": "20240117",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "익산 피렌채",
-		"addr": "전라북도 익산시 팔봉동 905번지",
-		"short_addr": "전라북도 익산시",
-		"addr_lv1": "전라북도",
-		"addr_lv2": "익산시",
-		"apply_nums": "92세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950002&pblancNo=2024950002&houseSecd=02",
-		"in_date": "20240117",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "당산역 한강 더로드캐슬",
-		"addr": "서울특별시 영등포구 당산동6가 347-5",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "9세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930001&pblancNo=2024930001&houseSecd=06",
-		"in_date": "20240117",
-		"hsecd": "06",
-		"rse": "07",
-		"type": "",
-		"name": "용인 경남아너스빌 디센트 계약취소주택",
-		"addr": "경기도 용인시 처인구 양지면 남곡리 147-21외 11필지(용인남곡2지구 H3BL)",
-		"short_addr": "경기도 용인시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "용인시",
-		"apply_nums": "3세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950002&pblancNo=2024950002&houseSecd=02",
 		"in_date": "20240118",
 		"hsecd": "02",
