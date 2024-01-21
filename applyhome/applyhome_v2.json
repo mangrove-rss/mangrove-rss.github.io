@@ -1,31 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950002&pblancNo=2024950002&houseSecd=02",
-		"in_date": "20240118",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "당산역 한강 더로드캐슬",
-		"addr": "서울특별시 영등포구 당산동6가 347-5",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "9세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930001&pblancNo=2024930001&houseSecd=06",
-		"in_date": "20240118",
-		"hsecd": "06",
-		"rse": "07",
-		"type": "",
-		"name": "용인 경남아너스빌 디센트 계약취소주택",
-		"addr": "경기도 용인시 처인구 양지면 남곡리 147-21외 11필지(용인남곡2지구 H3BL)",
-		"short_addr": "경기도 용인시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "용인시",
-		"apply_nums": "3세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000689&pblancNo=2023000689&houseSecd=01",
 		"in_date": "20240119",
 		"hsecd": "01",
@@ -435,6 +409,19 @@
 		"addr_lv1": "충청남도",
 		"addr_lv2": "홍성군",
 		"apply_nums": "293세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930006&pblancNo=2024930006&houseSecd=06",
+		"in_date": "20240129",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "DMC삼정그린코아 더베스트",
+		"addr": "경기도 고양시 덕양구 으뜸로 90 (덕은동)",
+		"short_addr": "경기도 고양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "고양시",
+		"apply_nums": "2세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000683&pblancNo=2023000683&houseSecd=01",
