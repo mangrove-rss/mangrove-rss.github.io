@@ -1,31 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000689&pblancNo=2023000689&houseSecd=01",
-		"in_date": "20240119",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "어등산 진아리채 리버필드",
-		"addr": "광주광역시 광산구 선암동 77-11번지 일원",
-		"short_addr": "광주광역시 광산구",
-		"addr_lv1": "광주광역시",
-		"addr_lv2": "광산구",
-		"apply_nums": "142세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950002&pblancNo=2024950002&houseSecd=02",
-		"in_date": "20240119",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "당산역 한강 더로드캐슬",
-		"addr": "서울특별시 영등포구 당산동6가 347-5",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "9세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950002&pblancNo=2024950002&houseSecd=02",
 		"in_date": "20240120",
 		"hsecd": "02",
