@@ -207,17 +207,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ 덩치 서바이벌-먹찌빠.E16.240121.1080p-NEXT ]]></showrss:showname>
 		</item>
-		<item>
-			<title><![CDATA[ 열린음악회.E1464.240121.720p-NEXT ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:57e7f307651ec8c0a77cd0858e60f867ea929137 ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ 열린음악회.E1464.240121.720p-NEXT ]]></showrss:showname>
-		</item>
-		<item>
-			<title><![CDATA[ 전국노래자랑.E2194.240121.720p-NEXT ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:5f6fbed809406cffea6cf70956598c879547bfef ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ 전국노래자랑.E2194.240121.720p-NEXT ]]></showrss:showname>
-		</item>
 	</channel>
 </rss>
