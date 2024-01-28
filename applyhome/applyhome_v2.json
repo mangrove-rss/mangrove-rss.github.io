@@ -1,32 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000682&pblancNo=2023000682&houseSecd=01",
-		"in_date": "20240125",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "포제스 한강",
-		"addr": "서울특별시 광진구 광장동 188-2번지 일원",
-		"short_addr": "서울특별시 광진구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "광진구",
-		"apply_nums": "128세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910004&pblancNo=2024910004&houseSecd=04",
-		"in_date": "20240125",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "이안 시그니처 역곡(임의공급 2차)",
-		"addr": "경기도 부천시 괴안동 117번지",
-		"short_addr": "경기도 부천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "부천시",
-		"apply_nums": "12세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000682&pblancNo=2023000682&houseSecd=01",
 		"in_date": "20240126",
 		"hsecd": "01",
 		"rse": "03",
@@ -253,6 +227,14 @@
 		"addr_lv1": "대구광역시",
 		"addr_lv2": "중구",
 		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940002&pblancNo=2024940002&houseSecd=11",
+		"in_date": "20240131",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "호반써밋 개봉"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000024&pblancNo=2024000024&houseSecd=01",
