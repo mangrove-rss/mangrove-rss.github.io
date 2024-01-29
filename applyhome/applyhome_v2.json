@@ -1,18 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000682&pblancNo=2023000682&houseSecd=01",
-		"in_date": "20240126",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "포제스 한강",
-		"addr": "서울특별시 광진구 광장동 188-2번지 일원",
-		"short_addr": "서울특별시 광진구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "광진구",
-		"apply_nums": "128세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000683&pblancNo=2023000683&houseSecd=01",
 		"in_date": "20240129",
 		"hsecd": "01",
@@ -378,6 +365,45 @@
 		"addr_lv1": "강원특별자치도",
 		"addr_lv2": "동해시",
 		"apply_nums": "152세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910009&pblancNo=2024910009&houseSecd=04",
+		"in_date": "20240205",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "대전 하늘채 스카이앤",
+		"addr": "대전광역시 중구 선화동 106-1번지 일원",
+		"short_addr": "대전광역시 중구",
+		"addr_lv1": "대전광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910010&pblancNo=2024910010&houseSecd=04",
+		"in_date": "20240205",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "대전 하늘채 스카이앤 2차",
+		"addr": "대전광역시 중구 선화동 87-5번지 일원",
+		"short_addr": "대전광역시 중구",
+		"addr_lv1": "대전광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910008&pblancNo=2024910008&houseSecd=04",
+		"in_date": "20240205",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "오산 세교지구 Cd-1블록 호반써밋 라테라스(무순위 1차)",
+		"addr": "경기도 오산시 오산세교Cd-1블록",
+		"short_addr": "경기도 오산시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "오산시",
+		"apply_nums": "2세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000007&pblancNo=2024000007&houseSecd=01",
