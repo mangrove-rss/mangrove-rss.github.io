@@ -338,6 +338,14 @@
 		"apply_nums": "152세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940003&pblancNo=2024940003&houseSecd=11",
+		"in_date": "20240206",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "트리우스 광명 (임의공급 1차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000033&pblancNo=2024000033&houseSecd=01",
 		"in_date": "20240207",
 		"hsecd": "01",
@@ -479,6 +487,27 @@
 		"addr_lv1": "광주광역시",
 		"addr_lv2": "북구",
 		"apply_nums": "681세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023930050&pblancNo=2023930050&houseSecd=06",
+		"in_date": "20240207",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "힐스테이트 첨단",
+		"addr": "광주광역시 광산구 쌍암동 654-2",
+		"short_addr": "광주광역시 광산구",
+		"addr_lv1": "광주광역시",
+		"addr_lv2": "광산구",
+		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940003&pblancNo=2024940003&houseSecd=11",
+		"in_date": "20240207",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "트리우스 광명 (임의공급 1차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000033&pblancNo=2024000033&houseSecd=01",
