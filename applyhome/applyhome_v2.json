@@ -562,6 +562,19 @@
 		"apply_nums": "240세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910012&pblancNo=2024910012&houseSecd=04",
+		"in_date": "20240213",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "e편한세상 답십리 아르테포레(국민주택)(무순위3차)",
+		"addr": "서울특별시 동대문구 답십리동 12번지 일대",
+		"short_addr": "서울특별시 동대문구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "동대문구",
+		"apply_nums": "8세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000705&pblancNo=2023000705&houseSecd=01",
 		"in_date": "20240214",
 		"hsecd": "01",
