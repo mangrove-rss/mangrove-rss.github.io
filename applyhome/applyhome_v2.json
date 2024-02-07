@@ -390,7 +390,12 @@
 		"hsecd": "01",
 		"rse": "03",
 		"type": "APT 2순위",
-		"name": "두산위브더제니스 센트럴 양정"
+		"name": "두산위브더제니스 센트럴 양정",
+		"addr": "부산광역시 부산진구 양정동 399-2번지 일원",
+		"short_addr": "부산광역시 부산진구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "부산진구",
+		"apply_nums": "244세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000027&pblancNo=2024000027&houseSecd=01",
@@ -398,7 +403,12 @@
 		"hsecd": "01",
 		"rse": "03",
 		"type": "APT 2순위",
-		"name": "장성 남양휴튼 리버파크"
+		"name": "장성 남양휴튼 리버파크",
+		"addr": "전라남도 장성군 장성읍 기산리 112-3번지 일원",
+		"short_addr": "전라남도 장성군",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "장성군",
+		"apply_nums": "180세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000018&pblancNo=2024000018&houseSecd=01",
@@ -406,7 +416,12 @@
 		"hsecd": "01",
 		"rse": "03",
 		"type": "APT 2순위",
-		"name": "테넌바움294 Ⅰ"
+		"name": "테넌바움294 Ⅰ",
+		"addr": "부산광역시 수영구 민락동 784",
+		"short_addr": "부산광역시 수영구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "수영구",
+		"apply_nums": "192세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000019&pblancNo=2024000019&houseSecd=01",
@@ -414,7 +429,12 @@
 		"hsecd": "01",
 		"rse": "03",
 		"type": "APT 2순위",
-		"name": "테넌바움294 Ⅱ"
+		"name": "테넌바움294 Ⅱ",
+		"addr": "부산광역시 수영구 민락동 784 ",
+		"short_addr": "부산광역시 수영구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "수영구",
+		"apply_nums": "102세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000721&pblancNo=2023000721&houseSecd=01",
@@ -422,7 +442,12 @@
 		"hsecd": "01",
 		"rse": "03",
 		"type": "APT 2순위",
-		"name": "평택 브레인시티 5BL 대광로제비앙 그랜드센텀"
+		"name": "평택 브레인시티 5BL 대광로제비앙 그랜드센텀",
+		"addr": "경기도 평택시 장안동 평택브레인시티 일반산업단지 공동5BL",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "1182세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000016&pblancNo=2024000016&houseSecd=01",
@@ -430,7 +455,12 @@
 		"hsecd": "01",
 		"rse": "03",
 		"type": "APT 2순위",
-		"name": "힐스테이트 더샵 상생공원 2단지"
+		"name": "힐스테이트 더샵 상생공원 2단지",
+		"addr": "경상북도 포항시 남구 대잠동 산81-4번지 일원",
+		"short_addr": "경상북도 포항시",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "포항시",
+		"apply_nums": "1668세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000028&pblancNo=2024000028&houseSecd=01",
@@ -438,7 +468,12 @@
 		"hsecd": "01",
 		"rse": "03",
 		"type": "APT 2순위",
-		"name": "힐스테이트 중외공원 2블록"
+		"name": "힐스테이트 중외공원 2블록",
+		"addr": "광주광역시 북구 매곡동 산131-1번지 일원(중외근린공원)",
+		"short_addr": "광주광역시 북구",
+		"addr_lv1": "광주광역시",
+		"addr_lv2": "북구",
+		"apply_nums": "785세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000029&pblancNo=2024000029&houseSecd=01",
@@ -446,7 +481,12 @@
 		"hsecd": "01",
 		"rse": "03",
 		"type": "APT 2순위",
-		"name": "힐스테이트 중외공원 3블록"
+		"name": "힐스테이트 중외공원 3블록",
+		"addr": "광주광역시 북구 매곡동 355번지 일원(중외근린공원)",
+		"short_addr": "광주광역시 북구",
+		"addr_lv1": "광주광역시",
+		"addr_lv2": "북구",
+		"apply_nums": "681세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023930050&pblancNo=2023930050&houseSecd=06",
@@ -454,7 +494,12 @@
 		"hsecd": "06",
 		"rse": "07",
 		"type": "",
-		"name": "힐스테이트 첨단"
+		"name": "힐스테이트 첨단",
+		"addr": "광주광역시 광산구 쌍암동 654-2",
+		"short_addr": "광주광역시 광산구",
+		"addr_lv1": "광주광역시",
+		"addr_lv2": "광산구",
+		"apply_nums": "1세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940003&pblancNo=2024940003&houseSecd=11",
@@ -470,7 +515,12 @@
 		"hsecd": "01",
 		"rse": "03",
 		"type": "APT 2순위",
-		"name": "메이플자이"
+		"name": "메이플자이",
+		"addr": "서울특별시 서초구 잠원동 60-3",
+		"short_addr": "서울특별시 서초구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "서초구",
+		"apply_nums": "162세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000007&pblancNo=2024000007&houseSecd=01",
@@ -478,7 +528,12 @@
 		"hsecd": "01",
 		"rse": "03",
 		"type": "APT 2순위",
-		"name": "송내역 푸르지오 센트비엔"
+		"name": "송내역 푸르지오 센트비엔",
+		"addr": "경기도 부천시 송내동 339번지 일원",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "225세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000705&pblancNo=2023000705&houseSecd=01",
@@ -486,7 +541,12 @@
 		"hsecd": "01",
 		"rse": "01",
 		"type": "APT 특별공급",
-		"name": "e편한세상 번영로 리더스포레"
+		"name": "e편한세상 번영로 리더스포레",
+		"addr": "울산광역시 남구 야음동 828-29번지 일원",
+		"short_addr": "울산광역시 남구",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "192세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000026&pblancNo=2024000026&houseSecd=01",
@@ -494,7 +554,12 @@
 		"hsecd": "01",
 		"rse": "01",
 		"type": "APT 특별공급",
-		"name": "반고개역 푸르지오"
+		"name": "반고개역 푸르지오",
+		"addr": "대구광역시 서구 큰장로7길 11 (내당동, 반고개역 푸르지오)",
+		"short_addr": "대구광역시 서구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "240세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910012&pblancNo=2024910012&houseSecd=04",
@@ -502,7 +567,38 @@
 		"hsecd": "04",
 		"rse": "06",
 		"type": "무순위/취소후재공급",
-		"name": "e편한세상 답십리 아르테포레(국민주택)(무순위3차)"
+		"name": "e편한세상 답십리 아르테포레(국민주택)(무순위3차)",
+		"addr": "서울특별시 동대문구 답십리동 12번지 일대",
+		"short_addr": "서울특별시 동대문구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "동대문구",
+		"apply_nums": "8세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910014&pblancNo=2024910014&houseSecd=04",
+		"in_date": "20240213",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "파주운정신도시 디에트르 센트럴(A36BL) 무순위 3차",
+		"addr": "경기도 파주시 파주운정1,2지구 A36BL 공동주택용지",
+		"short_addr": "경기도 파주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "파주시",
+		"apply_nums": "4세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910015&pblancNo=2024910015&houseSecd=04",
+		"in_date": "20240213",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "파주운정신도시 디에트르 에듀타운(A38BL) 무순위 1차",
+		"addr": "경기도 파주시 파주운정3지구 A38BL 공동주택용지",
+		"short_addr": "경기도 파주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "파주시",
+		"apply_nums": "2세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000705&pblancNo=2023000705&houseSecd=01",
@@ -510,7 +606,12 @@
 		"hsecd": "01",
 		"rse": "02",
 		"type": "APT 1순위",
-		"name": "e편한세상 번영로 리더스포레"
+		"name": "e편한세상 번영로 리더스포레",
+		"addr": "울산광역시 남구 야음동 828-29번지 일원",
+		"short_addr": "울산광역시 남구",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "192세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000026&pblancNo=2024000026&houseSecd=01",
@@ -518,7 +619,12 @@
 		"hsecd": "01",
 		"rse": "02",
 		"type": "APT 1순위",
-		"name": "반고개역 푸르지오"
+		"name": "반고개역 푸르지오",
+		"addr": "대구광역시 서구 큰장로7길 11 (내당동, 반고개역 푸르지오)",
+		"short_addr": "대구광역시 서구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "240세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000705&pblancNo=2023000705&houseSecd=01",
@@ -526,7 +632,12 @@
 		"hsecd": "01",
 		"rse": "03",
 		"type": "APT 2순위",
-		"name": "e편한세상 번영로 리더스포레"
+		"name": "e편한세상 번영로 리더스포레",
+		"addr": "울산광역시 남구 야음동 828-29번지 일원",
+		"short_addr": "울산광역시 남구",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "192세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000026&pblancNo=2024000026&houseSecd=01",
@@ -534,7 +645,12 @@
 		"hsecd": "01",
 		"rse": "03",
 		"type": "APT 2순위",
-		"name": "반고개역 푸르지오"
+		"name": "반고개역 푸르지오",
+		"addr": "대구광역시 서구 큰장로7길 11 (내당동, 반고개역 푸르지오)",
+		"short_addr": "대구광역시 서구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "240세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000012&pblancNo=2024000012&houseSecd=01",
@@ -542,7 +658,12 @@
 		"hsecd": "01",
 		"rse": "01",
 		"type": "APT 특별공급",
-		"name": "영통자이 센트럴파크"
+		"name": "영통자이 센트럴파크",
+		"addr": "경기도 수원시 영통구 영통동 961-11번지",
+		"short_addr": "경기도 수원시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "수원시",
+		"apply_nums": "580세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000567&pblancNo=2023000567&houseSecd=01",
@@ -550,7 +671,25 @@
 		"hsecd": "01",
 		"rse": "01",
 		"type": "APT 특별공급",
-		"name": "위파크 일곡공원"
+		"name": "위파크 일곡공원",
+		"addr": "광주광역시 북구 삼각동 700번지일원",
+		"short_addr": "광주광역시 북구",
+		"addr_lv1": "광주광역시",
+		"addr_lv2": "북구",
+		"apply_nums": "903세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000617&pblancNo=2023000617&houseSecd=01",
+		"in_date": "20240219",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "판교TH212",
+		"addr": "경기도 성남시 분당구 판교대장지구 B2, B3BL",
+		"short_addr": "경기도 성남시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "성남시",
+		"apply_nums": "212세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000012&pblancNo=2024000012&houseSecd=01",
@@ -558,7 +697,12 @@
 		"hsecd": "01",
 		"rse": "02",
 		"type": "APT 1순위",
-		"name": "영통자이 센트럴파크"
+		"name": "영통자이 센트럴파크",
+		"addr": "경기도 수원시 영통구 영통동 961-11번지",
+		"short_addr": "경기도 수원시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "수원시",
+		"apply_nums": "580세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000567&pblancNo=2023000567&houseSecd=01",
@@ -566,7 +710,25 @@
 		"hsecd": "01",
 		"rse": "02",
 		"type": "APT 1순위",
-		"name": "위파크 일곡공원"
+		"name": "위파크 일곡공원",
+		"addr": "광주광역시 북구 삼각동 700번지일원",
+		"short_addr": "광주광역시 북구",
+		"addr_lv1": "광주광역시",
+		"addr_lv2": "북구",
+		"apply_nums": "903세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000617&pblancNo=2023000617&houseSecd=01",
+		"in_date": "20240220",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "판교TH212",
+		"addr": "경기도 성남시 분당구 판교대장지구 B2, B3BL",
+		"short_addr": "경기도 성남시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "성남시",
+		"apply_nums": "212세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000012&pblancNo=2024000012&houseSecd=01",
@@ -574,7 +736,12 @@
 		"hsecd": "01",
 		"rse": "03",
 		"type": "APT 2순위",
-		"name": "영통자이 센트럴파크"
+		"name": "영통자이 센트럴파크",
+		"addr": "경기도 수원시 영통구 영통동 961-11번지",
+		"short_addr": "경기도 수원시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "수원시",
+		"apply_nums": "580세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000567&pblancNo=2023000567&houseSecd=01",
@@ -582,6 +749,24 @@
 		"hsecd": "01",
 		"rse": "03",
 		"type": "APT 2순위",
-		"name": "위파크 일곡공원"
+		"name": "위파크 일곡공원",
+		"addr": "광주광역시 북구 삼각동 700번지일원",
+		"short_addr": "광주광역시 북구",
+		"addr_lv1": "광주광역시",
+		"addr_lv2": "북구",
+		"apply_nums": "903세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000617&pblancNo=2023000617&houseSecd=01",
+		"in_date": "20240221",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "판교TH212",
+		"addr": "경기도 성남시 분당구 판교대장지구 B2, B3BL",
+		"short_addr": "경기도 성남시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "성남시",
+		"apply_nums": "212세대"
 	}
 ]
