@@ -1,31 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000033&pblancNo=2024000033&houseSecd=01",
-		"in_date": "20240208",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "메이플자이",
-		"addr": "서울특별시 서초구 잠원동 60-3",
-		"short_addr": "서울특별시 서초구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "서초구",
-		"apply_nums": "162세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000007&pblancNo=2024000007&houseSecd=01",
-		"in_date": "20240208",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "송내역 푸르지오 센트비엔",
-		"addr": "경기도 부천시 송내동 339번지 일원",
-		"short_addr": "경기도 부천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "부천시",
-		"apply_nums": "225세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000705&pblancNo=2023000705&houseSecd=01",
 		"in_date": "20240213",
 		"hsecd": "01",
