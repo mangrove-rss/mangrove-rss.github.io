@@ -117,6 +117,30 @@
 		"apply_nums": "240세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940004&pblancNo=2024940004&houseSecd=11",
+		"in_date": "20240216",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "엘리프 미아역 2단지"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940004&pblancNo=2024940004&houseSecd=11",
+		"in_date": "20240217",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "엘리프 미아역 2단지"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940004&pblancNo=2024940004&houseSecd=11",
+		"in_date": "20240218",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "엘리프 미아역 2단지"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000012&pblancNo=2024000012&houseSecd=01",
 		"in_date": "20240219",
 		"hsecd": "01",
@@ -154,6 +178,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "성남시",
 		"apply_nums": "212세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950007&pblancNo=2024950007&houseSecd=02",
+		"in_date": "20240219",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "현대 프라힐스 소사역 더프라임",
+		"addr": "경기도 부천시 소사본동 70-7외 6필지",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "2세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910018&pblancNo=2024910018&houseSecd=04",
@@ -169,6 +206,48 @@
 		"apply_nums": "8세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910017&pblancNo=2024910017&houseSecd=04",
+		"in_date": "20240219",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "청주 흥덕 칸타빌 더뉴(임의공급 3차)",
+		"addr": "충청북도 청주시 흥덕구 강내면 월곡리 82-1 일원",
+		"short_addr": "충청북도 청주시",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "청주시",
+		"apply_nums": "8세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910013&pblancNo=2024910013&houseSecd=04",
+		"in_date": "20240219",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "포레나 인천학익 무순위(임의공급2차)",
+		"addr": "인천광역시 미추홀구 학익2동 290-1일대",
+		"short_addr": "인천광역시 미추홀구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "미추홀구",
+		"apply_nums": "44세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940004&pblancNo=2024940004&houseSecd=11",
+		"in_date": "20240219",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "엘리프 미아역 2단지"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940005&pblancNo=2024940005&houseSecd=11",
+		"in_date": "20240219",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "포레나 평택화양"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000012&pblancNo=2024000012&houseSecd=01",
 		"in_date": "20240220",
 		"hsecd": "01",
@@ -206,6 +285,84 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "성남시",
 		"apply_nums": "212세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950008&pblancNo=2024950008&houseSecd=02",
+		"in_date": "20240220",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "검단신도시 롯데캐슬 넥스티엘Ⅰ(RC1블록)",
+		"addr": "인천광역시 서구 원당동 1061-1(검단신도시 RC1블록)",
+		"short_addr": "인천광역시 서구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "40세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950009&pblancNo=2024950009&houseSecd=02",
+		"in_date": "20240220",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "검단신도시 롯데캐슬 넥스티엘Ⅱ(C1블록)",
+		"addr": "인천광역시 서구 원당동 1059, 1059-1, 1059-2번지",
+		"short_addr": "인천광역시 서구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "450세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950010&pblancNo=2024950010&houseSecd=02",
+		"in_date": "20240220",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "검단신도시 롯데캐슬 넥스티엘Ⅲ(C9-1블록)",
+		"addr": "인천광역시 서구 원당동 1028",
+		"short_addr": "인천광역시 서구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "192세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950007&pblancNo=2024950007&houseSecd=02",
+		"in_date": "20240220",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "현대 프라힐스 소사역 더프라임",
+		"addr": "경기도 부천시 소사본동 70-7외 6필지",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "2세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910017&pblancNo=2024910017&houseSecd=04",
+		"in_date": "20240220",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "청주 흥덕 칸타빌 더뉴(임의공급 3차)",
+		"addr": "충청북도 청주시 흥덕구 강내면 월곡리 82-1 일원",
+		"short_addr": "충청북도 청주시",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "청주시",
+		"apply_nums": "8세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910013&pblancNo=2024910013&houseSecd=04",
+		"in_date": "20240220",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "포레나 인천학익 무순위(임의공급2차)",
+		"addr": "인천광역시 미추홀구 학익2동 290-1일대",
+		"short_addr": "인천광역시 미추홀구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "미추홀구",
+		"apply_nums": "44세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000012&pblancNo=2024000012&houseSecd=01",
