@@ -1,71 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000705&pblancNo=2023000705&houseSecd=01",
-		"in_date": "20240213",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "e편한세상 번영로 리더스포레",
-		"addr": "울산광역시 남구 야음동 828-29번지 일원",
-		"short_addr": "울산광역시 남구",
-		"addr_lv1": "울산광역시",
-		"addr_lv2": "남구",
-		"apply_nums": "192세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000026&pblancNo=2024000026&houseSecd=01",
-		"in_date": "20240213",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "반고개역 푸르지오",
-		"addr": "대구광역시 서구 큰장로7길 11 (내당동, 반고개역 푸르지오)",
-		"short_addr": "대구광역시 서구",
-		"addr_lv1": "대구광역시",
-		"addr_lv2": "서구",
-		"apply_nums": "240세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910012&pblancNo=2024910012&houseSecd=04",
-		"in_date": "20240213",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "e편한세상 답십리 아르테포레(국민주택)(무순위3차)",
-		"addr": "서울특별시 동대문구 답십리동 12번지 일대",
-		"short_addr": "서울특별시 동대문구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "동대문구",
-		"apply_nums": "8세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910014&pblancNo=2024910014&houseSecd=04",
-		"in_date": "20240213",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "파주운정신도시 디에트르 센트럴(A36BL) 무순위 3차",
-		"addr": "경기도 파주시 파주운정1,2지구 A36BL 공동주택용지",
-		"short_addr": "경기도 파주시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "파주시",
-		"apply_nums": "4세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910015&pblancNo=2024910015&houseSecd=04",
-		"in_date": "20240213",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "파주운정신도시 디에트르 에듀타운(A38BL) 무순위 1차",
-		"addr": "경기도 파주시 파주운정3지구 A38BL 공동주택용지",
-		"short_addr": "경기도 파주시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "파주시",
-		"apply_nums": "2세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000705&pblancNo=2023000705&houseSecd=01",
 		"in_date": "20240214",
 		"hsecd": "01",
 		"rse": "02",
@@ -456,6 +391,19 @@
 		"apply_nums": "1세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000042&pblancNo=2024000042&houseSecd=01",
+		"in_date": "20240226",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "광주 송암공원 중흥S-클래스 SK VIEW",
+		"addr": "광주광역시 남구 송하동 177-5번지 일원",
+		"short_addr": "광주광역시 남구",
+		"addr_lv1": "광주광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "1575세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000079&pblancNo=2024000079&houseSecd=01",
 		"in_date": "20240226",
 		"hsecd": "01",
@@ -506,6 +454,19 @@
 		"addr_lv1": "충청남도",
 		"addr_lv2": "천안시",
 		"apply_nums": "997세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000067&pblancNo=2024000067&houseSecd=01",
+		"in_date": "20240226",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "울진후포 오션더캐슬",
+		"addr": "경상북도 울진군 후포면 금음리 5-4외 1필지",
+		"short_addr": "경상북도 울진군",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "울진군",
+		"apply_nums": "123세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950004&pblancNo=2024950004&houseSecd=02",
@@ -521,6 +482,19 @@
 		"apply_nums": "1세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000042&pblancNo=2024000042&houseSecd=01",
+		"in_date": "20240227",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "광주 송암공원 중흥S-클래스 SK VIEW",
+		"addr": "광주광역시 남구 송하동 177-5번지 일원",
+		"short_addr": "광주광역시 남구",
+		"addr_lv1": "광주광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "1575세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000079&pblancNo=2024000079&houseSecd=01",
 		"in_date": "20240227",
 		"hsecd": "01",
@@ -545,6 +519,19 @@
 		"addr_lv1": "전북특별자치도",
 		"addr_lv2": "전주시",
 		"apply_nums": "1225세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000668&pblancNo=2023000668&houseSecd=01",
+		"in_date": "20240227",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "제주 중부공원 제일풍경채 센트럴파크",
+		"addr": "제주특별자치도 제주시 건입동 167번지",
+		"short_addr": "제주특별자치도 제주시",
+		"addr_lv1": "제주특별자치도",
+		"addr_lv2": "제주시",
+		"apply_nums": "653세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000060&pblancNo=2024000060&houseSecd=01",
@@ -573,6 +560,32 @@
 		"apply_nums": "997세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000067&pblancNo=2024000067&houseSecd=01",
+		"in_date": "20240227",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "울진후포 오션더캐슬",
+		"addr": "경상북도 울진군 후포면 금음리 5-4외 1필지",
+		"short_addr": "경상북도 울진군",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "울진군",
+		"apply_nums": "123세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000042&pblancNo=2024000042&houseSecd=01",
+		"in_date": "20240228",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "광주 송암공원 중흥S-클래스 SK VIEW",
+		"addr": "광주광역시 남구 송하동 177-5번지 일원",
+		"short_addr": "광주광역시 남구",
+		"addr_lv1": "광주광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "1575세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000079&pblancNo=2024000079&houseSecd=01",
 		"in_date": "20240228",
 		"hsecd": "01",
@@ -597,6 +610,19 @@
 		"addr_lv1": "전북특별자치도",
 		"addr_lv2": "전주시",
 		"apply_nums": "1225세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000668&pblancNo=2023000668&houseSecd=01",
+		"in_date": "20240228",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "제주 중부공원 제일풍경채 센트럴파크",
+		"addr": "제주특별자치도 제주시 건입동 167번지",
+		"short_addr": "제주특별자치도 제주시",
+		"addr_lv1": "제주특별자치도",
+		"addr_lv2": "제주시",
+		"apply_nums": "653세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000060&pblancNo=2024000060&houseSecd=01",
