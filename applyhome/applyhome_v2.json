@@ -1,32 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000705&pblancNo=2023000705&houseSecd=01",
-		"in_date": "20240214",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "e편한세상 번영로 리더스포레",
-		"addr": "울산광역시 남구 야음동 828-29번지 일원",
-		"short_addr": "울산광역시 남구",
-		"addr_lv1": "울산광역시",
-		"addr_lv2": "남구",
-		"apply_nums": "192세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000026&pblancNo=2024000026&houseSecd=01",
-		"in_date": "20240214",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "반고개역 푸르지오",
-		"addr": "대구광역시 서구 큰장로7길 11 (내당동, 반고개역 푸르지오)",
-		"short_addr": "대구광역시 서구",
-		"addr_lv1": "대구광역시",
-		"addr_lv2": "서구",
-		"apply_nums": "240세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000705&pblancNo=2023000705&houseSecd=01",
 		"in_date": "20240215",
 		"hsecd": "01",
 		"rse": "03",
