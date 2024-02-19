@@ -1,14 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940004&pblancNo=2024940004&houseSecd=11",
-		"in_date": "20240216",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "엘리프 미아역 2단지"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940004&pblancNo=2024940004&houseSecd=11",
 		"in_date": "20240217",
 		"hsecd": "11",
 		"rse": "11",
@@ -417,6 +409,14 @@
 		"apply_nums": "123세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024850002&pblancNo=2024850002&houseSecd=03",
+		"in_date": "20240226",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "서울은평뉴타운 디에트르 더 퍼스트"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950004&pblancNo=2024950004&houseSecd=02",
 		"in_date": "20240226",
 		"hsecd": "02",
@@ -428,6 +428,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "서대문구",
 		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910020&pblancNo=2024910020&houseSecd=04",
+		"in_date": "20240226",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "지행역 센트레빌 파크뷰 (임의공급 2차)",
+		"addr": "경기도 동두천시 거북마루로 46",
+		"short_addr": "경기도 동두천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "동두천시",
+		"apply_nums": "3세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000042&pblancNo=2024000042&houseSecd=01",
@@ -521,6 +534,14 @@
 		"apply_nums": "123세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024850002&pblancNo=2024850002&houseSecd=03",
+		"in_date": "20240227",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "서울은평뉴타운 디에트르 더 퍼스트"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000042&pblancNo=2024000042&houseSecd=01",
 		"in_date": "20240228",
 		"hsecd": "01",
@@ -597,5 +618,83 @@
 		"addr_lv1": "충청남도",
 		"addr_lv2": "천안시",
 		"apply_nums": "997세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000051&pblancNo=2024000051&houseSecd=01",
+		"in_date": "20240304",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "광주 탄벌 서희스타힐스 1단지",
+		"addr": "경기도 광주시 탄벌동 509번지 일원(탄벌4지구 A1블럭)",
+		"short_addr": "경기도 광주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "광주시",
+		"apply_nums": "47세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000052&pblancNo=2024000052&houseSecd=01",
+		"in_date": "20240304",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "광주 탄벌 서희스타힐스 2단지",
+		"addr": "경기도 광주시 탄벌동 532-2번지 일원(탄벌4지구 A2블럭)",
+		"short_addr": "경기도 광주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "광주시",
+		"apply_nums": "29세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000051&pblancNo=2024000051&houseSecd=01",
+		"in_date": "20240305",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "광주 탄벌 서희스타힐스 1단지",
+		"addr": "경기도 광주시 탄벌동 509번지 일원(탄벌4지구 A1블럭)",
+		"short_addr": "경기도 광주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "광주시",
+		"apply_nums": "47세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000052&pblancNo=2024000052&houseSecd=01",
+		"in_date": "20240305",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "광주 탄벌 서희스타힐스 2단지",
+		"addr": "경기도 광주시 탄벌동 532-2번지 일원(탄벌4지구 A2블럭)",
+		"short_addr": "경기도 광주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "광주시",
+		"apply_nums": "29세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000051&pblancNo=2024000051&houseSecd=01",
+		"in_date": "20240306",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "광주 탄벌 서희스타힐스 1단지",
+		"addr": "경기도 광주시 탄벌동 509번지 일원(탄벌4지구 A1블럭)",
+		"short_addr": "경기도 광주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "광주시",
+		"apply_nums": "47세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000052&pblancNo=2024000052&houseSecd=01",
+		"in_date": "20240306",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "광주 탄벌 서희스타힐스 2단지",
+		"addr": "경기도 광주시 탄벌동 532-2번지 일원(탄벌4지구 A2블럭)",
+		"short_addr": "경기도 광주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "광주시",
+		"apply_nums": "29세대"
 	}
 ]
