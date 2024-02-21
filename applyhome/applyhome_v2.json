@@ -1,21 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940004&pblancNo=2024940004&houseSecd=11",
-		"in_date": "20240217",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "엘리프 미아역 2단지"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940004&pblancNo=2024940004&houseSecd=11",
-		"in_date": "20240218",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "엘리프 미아역 2단지"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000012&pblancNo=2024000012&houseSecd=01",
 		"in_date": "20240219",
 		"hsecd": "01",
@@ -430,6 +414,19 @@
 		"apply_nums": "1세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910019&pblancNo=2024910019&houseSecd=04",
+		"in_date": "20240226",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "디에이치 퍼스티어 아이파크",
+		"addr": "서울특별시 강남구 개포로 310 (개포동, 디에이치퍼스티어아이파크)",
+		"short_addr": "서울특별시 강남구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강남구",
+		"apply_nums": "3세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910020&pblancNo=2024910020&houseSecd=04",
 		"in_date": "20240226",
 		"hsecd": "04",
@@ -620,6 +617,45 @@
 		"apply_nums": "997세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910022&pblancNo=2024910022&houseSecd=04",
+		"in_date": "20240228",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "중앙하이츠 강동(임의공급 6차)",
+		"addr": "서울특별시 강동구 길동 415-5번지",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "28세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910022&pblancNo=2024910022&houseSecd=04",
+		"in_date": "20240229",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "중앙하이츠 강동(임의공급 6차)",
+		"addr": "서울특별시 강동구 길동 415-5번지",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "28세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000074&pblancNo=2024000074&houseSecd=01",
+		"in_date": "20240304",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "경희궁 유보라",
+		"addr": "서울특별시 서대문구 영천동 69-20외 160필지",
+		"short_addr": "서울특별시 서대문구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "서대문구",
+		"apply_nums": "108세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000051&pblancNo=2024000051&houseSecd=01",
 		"in_date": "20240304",
 		"hsecd": "01",
@@ -646,6 +682,32 @@
 		"apply_nums": "29세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950011&pblancNo=2024950011&houseSecd=02",
+		"in_date": "20240304",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "경희궁 유보라 오피스텔",
+		"addr": "서울특별시 서대문구 영천동 69-20외 160필지",
+		"short_addr": "서울특별시 서대문구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "서대문구",
+		"apply_nums": "11세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000074&pblancNo=2024000074&houseSecd=01",
+		"in_date": "20240305",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "경희궁 유보라",
+		"addr": "서울특별시 서대문구 영천동 69-20외 160필지",
+		"short_addr": "서울특별시 서대문구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "서대문구",
+		"apply_nums": "108세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000051&pblancNo=2024000051&houseSecd=01",
 		"in_date": "20240305",
 		"hsecd": "01",
@@ -670,6 +732,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "광주시",
 		"apply_nums": "29세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000074&pblancNo=2024000074&houseSecd=01",
+		"in_date": "20240306",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "경희궁 유보라",
+		"addr": "서울특별시 서대문구 영천동 69-20외 160필지",
+		"short_addr": "서울특별시 서대문구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "서대문구",
+		"apply_nums": "108세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000051&pblancNo=2024000051&houseSecd=01",
