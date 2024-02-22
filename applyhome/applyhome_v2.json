@@ -1,113 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000012&pblancNo=2024000012&houseSecd=01",
-		"in_date": "20240219",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "영통자이 센트럴파크",
-		"addr": "경기도 수원시 영통구 영통동 961-11번지",
-		"short_addr": "경기도 수원시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "수원시",
-		"apply_nums": "580세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000567&pblancNo=2023000567&houseSecd=01",
-		"in_date": "20240219",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "위파크 일곡공원",
-		"addr": "광주광역시 북구 삼각동 700번지일원",
-		"short_addr": "광주광역시 북구",
-		"addr_lv1": "광주광역시",
-		"addr_lv2": "북구",
-		"apply_nums": "903세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000617&pblancNo=2023000617&houseSecd=01",
-		"in_date": "20240219",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "판교TH212",
-		"addr": "경기도 성남시 분당구 판교대장지구 B2, B3BL",
-		"short_addr": "경기도 성남시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "성남시",
-		"apply_nums": "212세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950007&pblancNo=2024950007&houseSecd=02",
-		"in_date": "20240219",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "현대 프라힐스 소사역 더프라임",
-		"addr": "경기도 부천시 소사본동 70-7외 6필지",
-		"short_addr": "경기도 부천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "부천시",
-		"apply_nums": "2세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910018&pblancNo=2024910018&houseSecd=04",
-		"in_date": "20240219",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "남구로역 동일 센타시아(임의공급) 9차",
-		"addr": "서울특별시 구로구 가리봉동 113-1번지 일원",
-		"short_addr": "서울특별시 구로구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "구로구",
-		"apply_nums": "8세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910017&pblancNo=2024910017&houseSecd=04",
-		"in_date": "20240219",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "청주 흥덕 칸타빌 더뉴(임의공급 3차)",
-		"addr": "충청북도 청주시 흥덕구 강내면 월곡리 82-1 일원",
-		"short_addr": "충청북도 청주시",
-		"addr_lv1": "충청북도",
-		"addr_lv2": "청주시",
-		"apply_nums": "8세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910013&pblancNo=2024910013&houseSecd=04",
-		"in_date": "20240219",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "포레나 인천학익 무순위(임의공급2차)",
-		"addr": "인천광역시 미추홀구 학익2동 290-1일대",
-		"short_addr": "인천광역시 미추홀구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "미추홀구",
-		"apply_nums": "44세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940004&pblancNo=2024940004&houseSecd=11",
-		"in_date": "20240219",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "엘리프 미아역 2단지"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940005&pblancNo=2024940005&houseSecd=11",
-		"in_date": "20240219",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "포레나 평택화양"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000012&pblancNo=2024000012&houseSecd=01",
 		"in_date": "20240220",
 		"hsecd": "01",
 		"rse": "02",
@@ -440,6 +333,19 @@
 		"apply_nums": "3세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000078&pblancNo=2024000078&houseSecd=01",
+		"in_date": "20240227",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "천안역 경남아너스빌 어반하이츠",
+		"addr": "충청남도 천안시 서북구 성정동 110-6번지 일원",
+		"short_addr": "충청남도 천안시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "천안시",
+		"apply_nums": "293세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000042&pblancNo=2024000042&houseSecd=01",
 		"in_date": "20240227",
 		"hsecd": "01",
@@ -539,6 +445,19 @@
 		"name": "서울은평뉴타운 디에트르 더 퍼스트"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000078&pblancNo=2024000078&houseSecd=01",
+		"in_date": "20240228",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "천안역 경남아너스빌 어반하이츠",
+		"addr": "충청남도 천안시 서북구 성정동 110-6번지 일원",
+		"short_addr": "충청남도 천안시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "천안시",
+		"apply_nums": "293세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000042&pblancNo=2024000042&houseSecd=01",
 		"in_date": "20240228",
 		"hsecd": "01",
@@ -617,6 +536,32 @@
 		"apply_nums": "997세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910021&pblancNo=2024910021&houseSecd=04",
+		"in_date": "20240228",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "DMC자이 더 포레리버뷰 무순위 2차(사후)",
+		"addr": "경기도 고양시 덕양구 대덕산로 21 (덕은동, DMC자이 더 포레리버뷰)",
+		"short_addr": "경기도 고양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "고양시",
+		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910016&pblancNo=2024910016&houseSecd=04",
+		"in_date": "20240228",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "도봉 금호어울림 리버파크",
+		"addr": "서울특별시 도봉구 도봉2동 95번지",
+		"short_addr": "서울특별시 도봉구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "도봉구",
+		"apply_nums": "36세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910022&pblancNo=2024910022&houseSecd=04",
 		"in_date": "20240228",
 		"hsecd": "04",
@@ -628,6 +573,32 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "강동구",
 		"apply_nums": "28세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023930052&pblancNo=2023930052&houseSecd=06",
+		"in_date": "20240228",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "장유자이 더 파크",
+		"addr": "경상남도 김해시 신문동 1188번지 일원",
+		"short_addr": "경상남도 김해시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "김해시",
+		"apply_nums": "2세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000078&pblancNo=2024000078&houseSecd=01",
+		"in_date": "20240229",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "천안역 경남아너스빌 어반하이츠",
+		"addr": "충청남도 천안시 서북구 성정동 110-6번지 일원",
+		"short_addr": "충청남도 천안시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "천안시",
+		"apply_nums": "293세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910022&pblancNo=2024910022&houseSecd=04",
@@ -643,6 +614,19 @@
 		"apply_nums": "28세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000004&pblancNo=2024000004&houseSecd=01",
+		"in_date": "20240304",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "e편한세상 검단 에코비스타",
+		"addr": "인천광역시 서구 검단신도시 AA29BL(마전동)",
+		"short_addr": "인천광역시 서구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "732세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000074&pblancNo=2024000074&houseSecd=01",
 		"in_date": "20240304",
 		"hsecd": "01",
@@ -680,6 +664,32 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "광주시",
 		"apply_nums": "29세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000075&pblancNo=2024000075&houseSecd=01",
+		"in_date": "20240304",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "냉정역 비스타동원",
+		"addr": "부산광역시 사상구 주례동 213-22번지 일원",
+		"short_addr": "부산광역시 사상구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "사상구",
+		"apply_nums": "120세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000063&pblancNo=2024000063&houseSecd=01",
+		"in_date": "20240304",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "삼문 시그니처 웰가",
+		"addr": "경상남도 밀양시 삼문동 620-1번지 외 9필지",
+		"short_addr": "경상남도 밀양시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "밀양시",
+		"apply_nums": "232세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950011&pblancNo=2024950011&houseSecd=02",
@@ -695,6 +705,19 @@
 		"apply_nums": "11세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000004&pblancNo=2024000004&houseSecd=01",
+		"in_date": "20240305",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "e편한세상 검단 에코비스타",
+		"addr": "인천광역시 서구 검단신도시 AA29BL(마전동)",
+		"short_addr": "인천광역시 서구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "732세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000074&pblancNo=2024000074&houseSecd=01",
 		"in_date": "20240305",
 		"hsecd": "01",
@@ -734,6 +757,45 @@
 		"apply_nums": "29세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000075&pblancNo=2024000075&houseSecd=01",
+		"in_date": "20240305",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "냉정역 비스타동원",
+		"addr": "부산광역시 사상구 주례동 213-22번지 일원",
+		"short_addr": "부산광역시 사상구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "사상구",
+		"apply_nums": "120세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000063&pblancNo=2024000063&houseSecd=01",
+		"in_date": "20240305",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "삼문 시그니처 웰가",
+		"addr": "경상남도 밀양시 삼문동 620-1번지 외 9필지",
+		"short_addr": "경상남도 밀양시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "밀양시",
+		"apply_nums": "232세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000004&pblancNo=2024000004&houseSecd=01",
+		"in_date": "20240306",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "e편한세상 검단 에코비스타",
+		"addr": "인천광역시 서구 검단신도시 AA29BL(마전동)",
+		"short_addr": "인천광역시 서구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "732세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000074&pblancNo=2024000074&houseSecd=01",
 		"in_date": "20240306",
 		"hsecd": "01",
@@ -771,5 +833,70 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "광주시",
 		"apply_nums": "29세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000075&pblancNo=2024000075&houseSecd=01",
+		"in_date": "20240306",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "냉정역 비스타동원",
+		"addr": "부산광역시 사상구 주례동 213-22번지 일원",
+		"short_addr": "부산광역시 사상구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "사상구",
+		"apply_nums": "120세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000063&pblancNo=2024000063&houseSecd=01",
+		"in_date": "20240306",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "삼문 시그니처 웰가",
+		"addr": "경상남도 밀양시 삼문동 620-1번지 외 9필지",
+		"short_addr": "경상남도 밀양시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "밀양시",
+		"apply_nums": "232세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000009&pblancNo=2024000009&houseSecd=01",
+		"in_date": "20240311",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "e편한세상 신정 스카이하임",
+		"addr": "울산광역시 남구 신정동 1136-3번지 외 15필지",
+		"short_addr": "울산광역시 남구",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "158세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000009&pblancNo=2024000009&houseSecd=01",
+		"in_date": "20240312",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "e편한세상 신정 스카이하임",
+		"addr": "울산광역시 남구 신정동 1136-3번지 외 15필지",
+		"short_addr": "울산광역시 남구",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "158세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000009&pblancNo=2024000009&houseSecd=01",
+		"in_date": "20240313",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "e편한세상 신정 스카이하임",
+		"addr": "울산광역시 남구 신정동 1136-3번지 외 15필지",
+		"short_addr": "울산광역시 남구",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "158세대"
 	}
 ]
