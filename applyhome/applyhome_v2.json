@@ -1,44 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000012&pblancNo=2024000012&houseSecd=01",
-		"in_date": "20240221",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "영통자이 센트럴파크",
-		"addr": "경기도 수원시 영통구 영통동 961-11번지",
-		"short_addr": "경기도 수원시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "수원시",
-		"apply_nums": "580세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000567&pblancNo=2023000567&houseSecd=01",
-		"in_date": "20240221",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "위파크 일곡공원",
-		"addr": "광주광역시 북구 삼각동 700번지일원",
-		"short_addr": "광주광역시 북구",
-		"addr_lv1": "광주광역시",
-		"addr_lv2": "북구",
-		"apply_nums": "903세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000617&pblancNo=2023000617&houseSecd=01",
-		"in_date": "20240221",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "판교TH212",
-		"addr": "경기도 성남시 분당구 판교대장지구 B2, B3BL",
-		"short_addr": "경기도 성남시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "성남시",
-		"apply_nums": "212세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950005&pblancNo=2024950005&houseSecd=02",
 		"in_date": "20240222",
 		"hsecd": "02",
