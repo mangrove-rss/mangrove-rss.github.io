@@ -1,18 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950005&pblancNo=2024950005&houseSecd=02",
-		"in_date": "20240222",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "이문 아이파크 자이 오피스텔 IM594",
-		"addr": "서울특별시 동대문구 이문동 149-8번지 일대",
-		"short_addr": "서울특별시 동대문구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "동대문구",
-		"apply_nums": "584세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950004&pblancNo=2024950004&houseSecd=02",
 		"in_date": "20240223",
 		"hsecd": "02",
@@ -861,6 +848,32 @@
 		"apply_nums": "566세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000045&pblancNo=2024000045&houseSecd=01",
+		"in_date": "20240307",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "평택 푸르지오 센터파인",
+		"addr": "경기도 평택시 현덕면 평택 화양지구 도시개발사업 9-2BL",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "851세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000045&pblancNo=2024000045&houseSecd=01",
+		"in_date": "20240308",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "평택 푸르지오 센터파인",
+		"addr": "경기도 평택시 현덕면 평택 화양지구 도시개발사업 9-2BL",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "851세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000009&pblancNo=2024000009&houseSecd=01",
 		"in_date": "20240311",
 		"hsecd": "01",
@@ -872,6 +885,19 @@
 		"addr_lv1": "울산광역시",
 		"addr_lv2": "남구",
 		"apply_nums": "158세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000045&pblancNo=2024000045&houseSecd=01",
+		"in_date": "20240311",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "평택 푸르지오 센터파인",
+		"addr": "경기도 평택시 현덕면 평택 화양지구 도시개발사업 9-2BL",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "851세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000009&pblancNo=2024000009&houseSecd=01",
