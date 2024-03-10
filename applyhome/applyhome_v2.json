@@ -1,40 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000045&pblancNo=2024000045&houseSecd=01",
-		"in_date": "20240307",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "평택 푸르지오 센터파인",
-		"addr": "경기도 평택시 현덕면 평택 화양지구 도시개발사업 9-2BL",
-		"short_addr": "경기도 평택시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "평택시",
-		"apply_nums": "851세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950016&pblancNo=2024950016&houseSecd=02",
-		"in_date": "20240307",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "가산 G밸리 라티포레스트",
-		"addr": "서울특별시 구로구 가리봉동127-9외1필지",
-		"short_addr": "서울특별시 구로구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "구로구",
-		"apply_nums": "27세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940006&pblancNo=2024940006&houseSecd=11",
-		"in_date": "20240307",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "더샵 송파루미스타(임의공급 1차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000045&pblancNo=2024000045&houseSecd=01",
 		"in_date": "20240308",
 		"hsecd": "01",
 		"rse": "02",
