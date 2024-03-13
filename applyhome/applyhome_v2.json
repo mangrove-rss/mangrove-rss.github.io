@@ -1,31 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950016&pblancNo=2024950016&houseSecd=02",
-		"in_date": "20240309",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "가산 G밸리 라티포레스트",
-		"addr": "서울특별시 구로구 가리봉동127-9외1필지",
-		"short_addr": "서울특별시 구로구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "구로구",
-		"apply_nums": "27세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950016&pblancNo=2024950016&houseSecd=02",
-		"in_date": "20240310",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "가산 G밸리 라티포레스트",
-		"addr": "서울특별시 구로구 가리봉동127-9외1필지",
-		"short_addr": "서울특별시 구로구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "구로구",
-		"apply_nums": "27세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000009&pblancNo=2024000009&houseSecd=01",
 		"in_date": "20240311",
 		"hsecd": "01",
@@ -893,11 +867,104 @@
 		"apply_nums": "776세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940013&pblancNo=2024940013&houseSecd=11",
+		"in_date": "20240315",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "남구로역 동일 센타시아"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940012&pblancNo=2024940012&houseSecd=11",
+		"in_date": "20240315",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "포레나 평택화양 임의공급(2차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940014&pblancNo=2024940014&houseSecd=11",
 		"in_date": "20240315",
 		"hsecd": "11",
 		"rse": "11",
 		"type": "",
 		"name": "해링턴 플레이스 신경주역"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940013&pblancNo=2024940013&houseSecd=11",
+		"in_date": "20240316",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "남구로역 동일 센타시아"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940012&pblancNo=2024940012&houseSecd=11",
+		"in_date": "20240316",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "포레나 평택화양 임의공급(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940013&pblancNo=2024940013&houseSecd=11",
+		"in_date": "20240317",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "남구로역 동일 센타시아"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940012&pblancNo=2024940012&houseSecd=11",
+		"in_date": "20240317",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "포레나 평택화양 임의공급(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024850003&pblancNo=2024850003&houseSecd=03",
+		"in_date": "20240318",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "당진 대덕수청 중흥S-클래스 포레힐"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940013&pblancNo=2024940013&houseSecd=11",
+		"in_date": "20240318",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "남구로역 동일 센타시아"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940012&pblancNo=2024940012&houseSecd=11",
+		"in_date": "20240318",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "포레나 평택화양 임의공급(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024850003&pblancNo=2024850003&houseSecd=03",
+		"in_date": "20240319",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "당진 대덕수청 중흥S-클래스 포레힐"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950006&pblancNo=2024950006&houseSecd=02",
+		"in_date": "20240319",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "백양산롯데캐슬골드센트럴",
+		"addr": "부산광역시 부산진구 부암동 567번지(백양순환로 75)일원",
+		"short_addr": "부산광역시 부산진구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "부산진구",
+		"apply_nums": "44세대"
 	}
 ]
