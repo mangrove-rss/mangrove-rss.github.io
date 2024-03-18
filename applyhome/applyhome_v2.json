@@ -1,55 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000081&pblancNo=2024000081&houseSecd=01",
-		"in_date": "20240315",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "e편한세상 평촌 어반밸리",
-		"addr": "경기도 안양시 동안구 호계동 533-3번지",
-		"short_addr": "경기도 안양시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "안양시",
-		"apply_nums": "458세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000086&pblancNo=2024000086&houseSecd=01",
-		"in_date": "20240315",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "대전 성남 우미린 뉴시티",
-		"addr": "대전광역시 동구 성남동 1-97번지 일원",
-		"short_addr": "대전광역시 동구",
-		"addr_lv1": "대전광역시",
-		"addr_lv2": "동구",
-		"apply_nums": "776세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940013&pblancNo=2024940013&houseSecd=11",
-		"in_date": "20240315",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "남구로역 동일 센타시아"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940012&pblancNo=2024940012&houseSecd=11",
-		"in_date": "20240315",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "포레나 평택화양 임의공급(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940014&pblancNo=2024940014&houseSecd=11",
-		"in_date": "20240315",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "해링턴 플레이스 신경주역"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940013&pblancNo=2024940013&houseSecd=11",
 		"in_date": "20240316",
 		"hsecd": "11",
