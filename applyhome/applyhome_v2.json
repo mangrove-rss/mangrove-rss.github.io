@@ -1,30 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024850003&pblancNo=2024850003&houseSecd=03",
-		"in_date": "20240318",
-		"hsecd": "03",
-		"rse": "04",
-		"type": "",
-		"name": "당진 대덕수청 중흥S-클래스 포레힐"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940013&pblancNo=2024940013&houseSecd=11",
-		"in_date": "20240318",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "남구로역 동일 센타시아"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940012&pblancNo=2024940012&houseSecd=11",
-		"in_date": "20240318",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "포레나 평택화양 임의공급(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024850003&pblancNo=2024850003&houseSecd=03",
 		"in_date": "20240319",
 		"hsecd": "03",
 		"rse": "04",
