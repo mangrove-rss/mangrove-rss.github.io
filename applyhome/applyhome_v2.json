@@ -1,26 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024850003&pblancNo=2024850003&houseSecd=03",
-		"in_date": "20240319",
-		"hsecd": "03",
-		"rse": "04",
-		"type": "",
-		"name": "당진 대덕수청 중흥S-클래스 포레힐"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950006&pblancNo=2024950006&houseSecd=02",
-		"in_date": "20240319",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "백양산롯데캐슬골드센트럴",
-		"addr": "부산광역시 부산진구 부암동 567번지(백양순환로 75)일원",
-		"short_addr": "부산광역시 부산진구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "부산진구",
-		"apply_nums": "44세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024850005&pblancNo=2024850005&houseSecd=03",
 		"in_date": "20240326",
 		"hsecd": "03",
