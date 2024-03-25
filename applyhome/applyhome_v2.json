@@ -16,6 +16,14 @@
 		"name": "영종 유승한내들 스카이2차"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024850007&pblancNo=2024850007&houseSecd=03",
+		"in_date": "20240401",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "서울은평뉴타운 디에트르 더퍼스트"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950012&pblancNo=2024950012&houseSecd=02",
 		"in_date": "20240401",
 		"hsecd": "02",
@@ -29,6 +37,14 @@
 		"apply_nums": "27세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024850007&pblancNo=2024850007&houseSecd=03",
+		"in_date": "20240402",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "서울은평뉴타운 디에트르 더퍼스트"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950012&pblancNo=2024950012&houseSecd=02",
 		"in_date": "20240402",
 		"hsecd": "02",
@@ -40,5 +56,44 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "서구",
 		"apply_nums": "27세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000110&pblancNo=2024000110&houseSecd=01",
+		"in_date": "20240405",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "e편한세상 서대전역 센트로",
+		"addr": "대전광역시 중구 문화동 330번지 일원",
+		"short_addr": "대전광역시 중구",
+		"addr_lv1": "대전광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "495세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000110&pblancNo=2024000110&houseSecd=01",
+		"in_date": "20240408",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "e편한세상 서대전역 센트로",
+		"addr": "대전광역시 중구 문화동 330번지 일원",
+		"short_addr": "대전광역시 중구",
+		"addr_lv1": "대전광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "495세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000110&pblancNo=2024000110&houseSecd=01",
+		"in_date": "20240409",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "e편한세상 서대전역 센트로",
+		"addr": "대전광역시 중구 문화동 330번지 일원",
+		"short_addr": "대전광역시 중구",
+		"addr_lv1": "대전광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "495세대"
 	}
 ]
