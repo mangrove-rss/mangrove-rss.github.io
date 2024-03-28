@@ -131,6 +131,35 @@
 		"apply_nums": "5세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023930051&pblancNo=2023930051&houseSecd=06",
+		"in_date": "20240402",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "e편한세상 석림 더노블",
+		"addr": "충청남도 서산시 석림동 969번지 일원",
+		"short_addr": "충청남도 서산시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "서산시",
+		"apply_nums": "2세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940016&pblancNo=2024940016&houseSecd=11",
+		"in_date": "20240402",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "잠실 더샵 루벤"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940017&pblancNo=2024940017&houseSecd=11",
+		"in_date": "20240402",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "트리우스 광명 (3차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024850006&pblancNo=2024850006&houseSecd=03",
 		"in_date": "20240403",
 		"hsecd": "03",
@@ -165,12 +194,33 @@
 		"apply_nums": "52세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910034&pblancNo=2024910034&houseSecd=04",
+		"in_date": "20240403",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "화곡 더리브 스카이 주상복합아파트 (임의공급 14차)",
+		"addr": "서울특별시 강서구 화곡동 370-76 외 6필지",
+		"short_addr": "서울특별시 강서구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강서구",
+		"apply_nums": "20세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940015&pblancNo=2024940015&houseSecd=11",
 		"in_date": "20240403",
 		"hsecd": "11",
 		"rse": "11",
 		"type": "",
 		"name": "더샵 송파루미스타(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940017&pblancNo=2024940017&houseSecd=11",
+		"in_date": "20240403",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "트리우스 광명 (3차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940015&pblancNo=2024940015&houseSecd=11",
@@ -207,6 +257,32 @@
 		"apply_nums": "495세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000102&pblancNo=2024000102&houseSecd=01",
+		"in_date": "20240408",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "아산 탕정 삼성트라팰리스",
+		"addr": "충청남도 아산시 탕정면 탕정면로 37",
+		"short_addr": "충청남도 아산시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "아산시",
+		"apply_nums": "44세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000111&pblancNo=2024000111&houseSecd=01",
+		"in_date": "20240409",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "대구 범어 아이파크",
+		"addr": "대구광역시 수성구 범어동 620번지 일원",
+		"short_addr": "대구광역시 수성구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "수성구",
+		"apply_nums": "143세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000110&pblancNo=2024000110&houseSecd=01",
 		"in_date": "20240409",
 		"hsecd": "01",
@@ -218,5 +294,44 @@
 		"addr_lv1": "대전광역시",
 		"addr_lv2": "중구",
 		"apply_nums": "495세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000102&pblancNo=2024000102&houseSecd=01",
+		"in_date": "20240409",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "아산 탕정 삼성트라팰리스",
+		"addr": "충청남도 아산시 탕정면 탕정면로 37",
+		"short_addr": "충청남도 아산시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "아산시",
+		"apply_nums": "44세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000111&pblancNo=2024000111&houseSecd=01",
+		"in_date": "20240411",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "대구 범어 아이파크",
+		"addr": "대구광역시 수성구 범어동 620번지 일원",
+		"short_addr": "대구광역시 수성구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "수성구",
+		"apply_nums": "143세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000111&pblancNo=2024000111&houseSecd=01",
+		"in_date": "20240412",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "대구 범어 아이파크",
+		"addr": "대구광역시 수성구 범어동 620번지 일원",
+		"short_addr": "대구광역시 수성구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "수성구",
+		"apply_nums": "143세대"
 	}
 ]
