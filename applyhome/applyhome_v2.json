@@ -207,12 +207,28 @@
 		"name": "트리우스 광명 (3차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940018&pblancNo=2024940018&houseSecd=11",
+		"in_date": "20240403",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "한양 LEEPS"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940015&pblancNo=2024940015&houseSecd=11",
 		"in_date": "20240404",
 		"hsecd": "11",
 		"rse": "11",
 		"type": "",
 		"name": "더샵 송파루미스타(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940018&pblancNo=2024940018&houseSecd=11",
+		"in_date": "20240404",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "한양 LEEPS"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000110&pblancNo=2024000110&houseSecd=01",
