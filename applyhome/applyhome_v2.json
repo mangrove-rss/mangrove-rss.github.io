@@ -270,6 +270,32 @@
 		"apply_nums": "44세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910030&pblancNo=2024910030&houseSecd=04",
+		"in_date": "20240408",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "청주 흥덕 칸타빌 더뉴(임의공급 4차)",
+		"addr": "충청북도 청주시 흥덕구 강내면 월곡리 82-1 일원",
+		"short_addr": "충청북도 청주시",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "청주시",
+		"apply_nums": "4세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930018&pblancNo=2024930018&houseSecd=06",
+		"in_date": "20240408",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "판교밸리자이 2단지",
+		"addr": "경기도 성남시 수정구 고등동 대왕판교로 981",
+		"short_addr": "경기도 성남시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "성남시",
+		"apply_nums": "1세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000111&pblancNo=2024000111&houseSecd=01",
 		"in_date": "20240409",
 		"hsecd": "01",
@@ -307,6 +333,19 @@
 		"addr_lv1": "충청남도",
 		"addr_lv2": "아산시",
 		"apply_nums": "44세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910030&pblancNo=2024910030&houseSecd=04",
+		"in_date": "20240409",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "청주 흥덕 칸타빌 더뉴(임의공급 4차)",
+		"addr": "충청북도 청주시 흥덕구 강내면 월곡리 82-1 일원",
+		"short_addr": "충청북도 청주시",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "청주시",
+		"apply_nums": "4세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000111&pblancNo=2024000111&houseSecd=01",
