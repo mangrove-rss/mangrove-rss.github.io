@@ -270,6 +270,45 @@
 		"apply_nums": "44세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910032&pblancNo=2024910032&houseSecd=04",
+		"in_date": "20240408",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "e편한세상 검단 에코비스타",
+		"addr": "인천광역시 서구 검단신도시 AA29BL(마전동)",
+		"short_addr": "인천광역시 서구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "90세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910033&pblancNo=2024910033&houseSecd=04",
+		"in_date": "20240408",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "감일 푸르지오 마크베르",
+		"addr": "경기도 하남시 감일중앙로 80 (감이동, 감일 푸르지오 마크베르)",
+		"short_addr": "경기도 하남시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "하남시",
+		"apply_nums": "2세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910035&pblancNo=2024910035&houseSecd=04",
+		"in_date": "20240408",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "상도 푸르지오 클라베뉴(임의공급 4차)",
+		"addr": "서울특별시 동작구 상도동 산65-74 번지 일원",
+		"short_addr": "서울특별시 동작구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "동작구",
+		"apply_nums": "68세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910030&pblancNo=2024910030&houseSecd=04",
 		"in_date": "20240408",
 		"hsecd": "04",
