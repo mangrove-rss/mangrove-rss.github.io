@@ -270,6 +270,19 @@
 		"apply_nums": "44세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950020&pblancNo=2024950020&houseSecd=02",
+		"in_date": "20240408",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "해링턴 플레이스 동대구",
+		"addr": "대구광역시 동구 신암동 674-20번지 일원 (해링턴 플레이스 동대구)",
+		"short_addr": "대구광역시 동구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "동구",
+		"apply_nums": "48세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910032&pblancNo=2024910032&houseSecd=04",
 		"in_date": "20240408",
 		"hsecd": "04",
@@ -372,6 +385,19 @@
 		"addr_lv1": "충청남도",
 		"addr_lv2": "아산시",
 		"apply_nums": "44세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950020&pblancNo=2024950020&houseSecd=02",
+		"in_date": "20240409",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "해링턴 플레이스 동대구",
+		"addr": "대구광역시 동구 신암동 674-20번지 일원 (해링턴 플레이스 동대구)",
+		"short_addr": "대구광역시 동구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "동구",
+		"apply_nums": "48세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910030&pblancNo=2024910030&houseSecd=04",
