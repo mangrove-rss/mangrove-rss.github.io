@@ -1,19 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000110&pblancNo=2024000110&houseSecd=01",
-		"in_date": "20240405",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "e편한세상 서대전역 센트로",
-		"addr": "대전광역시 중구 문화동 330번지 일원",
-		"short_addr": "대전광역시 중구",
-		"addr_lv1": "대전광역시",
-		"addr_lv2": "중구",
-		"apply_nums": "495세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000110&pblancNo=2024000110&houseSecd=01",
 		"in_date": "20240408",
 		"hsecd": "01",
 		"rse": "02",
@@ -247,6 +234,14 @@
 		"apply_nums": "5세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940020&pblancNo=2024940020&houseSecd=11",
+		"in_date": "20240412",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "광명자이힐스테이트SKVIEW(2차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950023&pblancNo=2024950023&houseSecd=02",
 		"in_date": "20240413",
 		"hsecd": "02",
@@ -260,6 +255,14 @@
 		"apply_nums": "5세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940020&pblancNo=2024940020&houseSecd=11",
+		"in_date": "20240413",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "광명자이힐스테이트SKVIEW(2차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950023&pblancNo=2024950023&houseSecd=02",
 		"in_date": "20240414",
 		"hsecd": "02",
@@ -271,6 +274,14 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "영등포구",
 		"apply_nums": "5세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940020&pblancNo=2024940020&houseSecd=11",
+		"in_date": "20240414",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "광명자이힐스테이트SKVIEW(2차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000112&pblancNo=2024000112&houseSecd=01",
@@ -375,6 +386,53 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "영등포구",
 		"apply_nums": "5세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950024&pblancNo=2024950024&houseSecd=02",
+		"in_date": "20240415",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "현대 프라힐스 소사역 더프라임",
+		"addr": "경기도 부천시 소사본동 70-7외 6필지",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910038&pblancNo=2024910038&houseSecd=04",
+		"in_date": "20240415",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "남구로역 동일 센타시아 (임의공급 10차)",
+		"addr": "서울특별시 구로구 가리봉동 113-1번지 일원",
+		"short_addr": "서울특별시 구로구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "구로구",
+		"apply_nums": "6세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910037&pblancNo=2024910037&houseSecd=04",
+		"in_date": "20240415",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "포레나 평택화양(임의공급2차)",
+		"addr": "경기도 평택시 현덕면 화양리 평택 화양지구 도시개발사업 7-2BL",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "5세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940020&pblancNo=2024940020&houseSecd=11",
+		"in_date": "20240415",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "광명자이힐스테이트SKVIEW(2차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000127&pblancNo=2024000127&houseSecd=01",
@@ -517,6 +575,45 @@
 		"short_addr": "서울특별시 영등포구",
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "영등포구",
+		"apply_nums": "5세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950024&pblancNo=2024950024&houseSecd=02",
+		"in_date": "20240416",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "현대 프라힐스 소사역 더프라임",
+		"addr": "경기도 부천시 소사본동 70-7외 6필지",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910038&pblancNo=2024910038&houseSecd=04",
+		"in_date": "20240416",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "남구로역 동일 센타시아 (임의공급 10차)",
+		"addr": "서울특별시 구로구 가리봉동 113-1번지 일원",
+		"short_addr": "서울특별시 구로구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "구로구",
+		"apply_nums": "6세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910037&pblancNo=2024910037&houseSecd=04",
+		"in_date": "20240416",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "포레나 평택화양(임의공급2차)",
+		"addr": "경기도 평택시 현덕면 화양리 평택 화양지구 도시개발사업 7-2BL",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
 		"apply_nums": "5세대"
 	},
 	{
