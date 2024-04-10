@@ -784,5 +784,44 @@
 		"addr_lv1": "광주광역시",
 		"addr_lv2": "서구",
 		"apply_nums": "928세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000172&pblancNo=2024000172&houseSecd=01",
+		"in_date": "20240419",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "대덕읍 더포레스트 에코파크",
+		"addr": "전라남도 장흥군 대덕읍 연정리 1348번지(대대로 958)",
+		"short_addr": "전라남도 장흥군",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "장흥군",
+		"apply_nums": "45세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000172&pblancNo=2024000172&houseSecd=01",
+		"in_date": "20240422",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "대덕읍 더포레스트 에코파크",
+		"addr": "전라남도 장흥군 대덕읍 연정리 1348번지(대대로 958)",
+		"short_addr": "전라남도 장흥군",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "장흥군",
+		"apply_nums": "45세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000172&pblancNo=2024000172&houseSecd=01",
+		"in_date": "20240423",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "대덕읍 더포레스트 에코파크",
+		"addr": "전라남도 장흥군 대덕읍 연정리 1348번지(대대로 958)",
+		"short_addr": "전라남도 장흥군",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "장흥군",
+		"apply_nums": "45세대"
 	}
 ]
