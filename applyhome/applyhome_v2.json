@@ -1,45 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000111&pblancNo=2024000111&houseSecd=01",
-		"in_date": "20240411",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "대구 범어 아이파크",
-		"addr": "대구광역시 수성구 범어동 620번지 일원",
-		"short_addr": "대구광역시 수성구",
-		"addr_lv1": "대구광역시",
-		"addr_lv2": "수성구",
-		"apply_nums": "143세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950023&pblancNo=2024950023&houseSecd=02",
-		"in_date": "20240411",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "여의도 큐브스테이트 주상복합 오피스텔",
-		"addr": "서울특별시 영등포구 경인로 883-2 (영등포동3가) 1-6,1-7",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "5세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930008&pblancNo=2024930008&houseSecd=06",
-		"in_date": "20240411",
-		"hsecd": "06",
-		"rse": "07",
-		"type": "",
-		"name": "더샵 청주센트럴",
-		"addr": "충청북도 청주시 흥덕구 복대동 229-20번지 일원",
-		"short_addr": "충청북도 청주시",
-		"addr_lv1": "충청북도",
-		"addr_lv2": "청주시",
-		"apply_nums": "1세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000111&pblancNo=2024000111&houseSecd=01",
 		"in_date": "20240412",
 		"hsecd": "01",
 		"rse": "03",
@@ -680,6 +641,14 @@
 		"apply_nums": "117세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940022&pblancNo=2024940022&houseSecd=11",
+		"in_date": "20240418",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "고촌센트럴자이"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940021&pblancNo=2024940021&houseSecd=11",
 		"in_date": "20240418",
 		"hsecd": "11",
@@ -714,6 +683,14 @@
 		"apply_nums": "117세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940022&pblancNo=2024940022&houseSecd=11",
+		"in_date": "20240419",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "고촌센트럴자이"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940021&pblancNo=2024940021&houseSecd=11",
 		"in_date": "20240419",
 		"hsecd": "11",
@@ -813,6 +790,19 @@
 		"apply_nums": "45세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910040&pblancNo=2024910040&houseSecd=04",
+		"in_date": "20240422",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "평택 푸르지오 센터파인",
+		"addr": "경기도 평택시 현덕면 평택 화양지구 도시개발사업 9-2BL",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "4세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000167&pblancNo=2024000167&houseSecd=01",
 		"in_date": "20240423",
 		"hsecd": "01",
@@ -904,6 +894,19 @@
 		"apply_nums": "45세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910040&pblancNo=2024910040&houseSecd=04",
+		"in_date": "20240423",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "평택 푸르지오 센터파인",
+		"addr": "경기도 평택시 현덕면 평택 화양지구 도시개발사업 9-2BL",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "4세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000167&pblancNo=2024000167&houseSecd=01",
 		"in_date": "20240424",
 		"hsecd": "01",
@@ -980,5 +983,18 @@
 		"addr_lv1": "전라남도",
 		"addr_lv2": "여수시",
 		"apply_nums": "341세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950025&pblancNo=2024950025&houseSecd=02",
+		"in_date": "20240425",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "엘루크 방배 서리풀(도시형생활주택)",
+		"addr": "서울특별시 서초구 방배동 3284",
+		"short_addr": "서울특별시 서초구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "서초구",
+		"apply_nums": "7세대"
 	}
 ]
