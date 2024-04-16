@@ -1,27 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950023&pblancNo=2024950023&houseSecd=02",
-		"in_date": "20240413",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "여의도 큐브스테이트 주상복합 오피스텔",
-		"addr": "서울특별시 영등포구 경인로 883-2 (영등포동3가) 1-6,1-7",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "5세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940020&pblancNo=2024940020&houseSecd=11",
-		"in_date": "20240413",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "광명자이힐스테이트SKVIEW(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950023&pblancNo=2024950023&houseSecd=02",
 		"in_date": "20240414",
 		"hsecd": "02",
 		"rse": "05",
@@ -649,6 +628,14 @@
 		"apply_nums": "117세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940023&pblancNo=2024940023&houseSecd=11",
+		"in_date": "20240419",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "1호선 전곡역 제일풍경채 리버파크"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940022&pblancNo=2024940022&houseSecd=11",
 		"in_date": "20240419",
 		"hsecd": "11",
@@ -663,6 +650,22 @@
 		"rse": "11",
 		"type": "",
 		"name": "월드메르디앙 송도"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940023&pblancNo=2024940023&houseSecd=11",
+		"in_date": "20240420",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "1호선 전곡역 제일풍경채 리버파크"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940023&pblancNo=2024940023&houseSecd=11",
+		"in_date": "20240421",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "1호선 전곡역 제일풍경채 리버파크"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000167&pblancNo=2024000167&houseSecd=01",
@@ -769,6 +772,32 @@
 		"apply_nums": "147세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910044&pblancNo=2024910044&houseSecd=04",
+		"in_date": "20240422",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "더샵 둔촌포레",
+		"addr": "서울특별시 강동구 둔촌동 30-4번지 외 1필지",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "14세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910043&pblancNo=2024910043&houseSecd=04",
+		"in_date": "20240422",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "이안 시그니처 역곡(임의공급 3차)",
+		"addr": "경기도 부천시 괴안동 117번지",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "8세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910040&pblancNo=2024910040&houseSecd=04",
 		"in_date": "20240422",
 		"hsecd": "04",
@@ -780,6 +809,27 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "평택시",
 		"apply_nums": "4세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930019&pblancNo=2024930019&houseSecd=06",
+		"in_date": "20240422",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "센트레빌 아스테리움 시그니처",
+		"addr": "서울특별시 은평구 역촌동 189-1번지 일원",
+		"short_addr": "서울특별시 은평구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "은평구",
+		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940023&pblancNo=2024940023&houseSecd=11",
+		"in_date": "20240422",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "1호선 전곡역 제일풍경채 리버파크"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000167&pblancNo=2024000167&houseSecd=01",
@@ -884,6 +934,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "수원시",
 		"apply_nums": "147세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910043&pblancNo=2024910043&houseSecd=04",
+		"in_date": "20240423",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "이안 시그니처 역곡(임의공급 3차)",
+		"addr": "경기도 부천시 괴안동 117번지",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "8세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910040&pblancNo=2024910040&houseSecd=04",
@@ -988,5 +1051,44 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "서초구",
 		"apply_nums": "7세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000120&pblancNo=2024000120&houseSecd=01",
+		"in_date": "20240426",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "평택화양 서희스타힐스 센트럴파크 2차",
+		"addr": "경기도 평택시 현덕면 화양리 평택화양지구 도시개발사업 A3블록 1로트",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "390세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000120&pblancNo=2024000120&houseSecd=01",
+		"in_date": "20240429",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "평택화양 서희스타힐스 센트럴파크 2차",
+		"addr": "경기도 평택시 현덕면 화양리 평택화양지구 도시개발사업 A3블록 1로트",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "390세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000120&pblancNo=2024000120&houseSecd=01",
+		"in_date": "20240430",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "평택화양 서희스타힐스 센트럴파크 2차",
+		"addr": "경기도 평택시 현덕면 화양리 평택화양지구 도시개발사업 A3블록 1로트",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "390세대"
 	}
 ]
