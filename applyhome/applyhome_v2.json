@@ -1,26 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950023&pblancNo=2024950023&houseSecd=02",
-		"in_date": "20240414",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "여의도 큐브스테이트 주상복합 오피스텔",
-		"addr": "서울특별시 영등포구 경인로 883-2 (영등포동3가) 1-6,1-7",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "5세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940020&pblancNo=2024940020&houseSecd=11",
-		"in_date": "20240414",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "광명자이힐스테이트SKVIEW(2차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000112&pblancNo=2024000112&houseSecd=01",
 		"in_date": "20240415",
 		"hsecd": "01",
@@ -962,6 +941,32 @@
 		"apply_nums": "4세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930022&pblancNo=2024930022&houseSecd=06",
+		"in_date": "20240423",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "과천 르센토 데시앙",
+		"addr": "경기도 과천시 과천대로8길 35(갈현동, 과천 르센토 데시앙)",
+		"short_addr": "경기도 과천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "과천시",
+		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930021&pblancNo=2024930021&houseSecd=06",
+		"in_date": "20240423",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "과천 푸르지오 라비엔오",
+		"addr": "경기도 과천시 과천지식정보타운 공공주택지구 S4BL (과천대로8길 15, 과천푸르지오라비엔오)",
+		"short_addr": "경기도 과천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "과천시",
+		"apply_nums": "2세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000167&pblancNo=2024000167&houseSecd=01",
 		"in_date": "20240424",
 		"hsecd": "01",
@@ -1038,6 +1043,19 @@
 		"addr_lv1": "전라남도",
 		"addr_lv2": "여수시",
 		"apply_nums": "341세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930021&pblancNo=2024930021&houseSecd=06",
+		"in_date": "20240424",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "과천 푸르지오 라비엔오",
+		"addr": "경기도 과천시 과천지식정보타운 공공주택지구 S4BL (과천대로8길 15, 과천푸르지오라비엔오)",
+		"short_addr": "경기도 과천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "과천시",
+		"apply_nums": "2세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950025&pblancNo=2024950025&houseSecd=02",
