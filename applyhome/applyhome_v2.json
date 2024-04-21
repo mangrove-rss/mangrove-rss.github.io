@@ -1,73 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000127&pblancNo=2024000127&houseSecd=01",
-		"in_date": "20240418",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "중앙공원 롯데캐슬 시그니처 1BL",
-		"addr": "광주광역시 서구 풍암동 560-9번지 일원",
-		"short_addr": "광주광역시 서구",
-		"addr_lv1": "광주광역시",
-		"addr_lv2": "서구",
-		"apply_nums": "929세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000128&pblancNo=2024000128&houseSecd=01",
-		"in_date": "20240418",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "중앙공원 롯데캐슬 시그니처 2-1BL",
-		"addr": "광주광역시 서구 금호동 80번지 일원",
-		"short_addr": "광주광역시 서구",
-		"addr_lv1": "광주광역시",
-		"addr_lv2": "서구",
-		"apply_nums": "507세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000129&pblancNo=2024000129&houseSecd=01",
-		"in_date": "20240418",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "중앙공원 롯데캐슬 시그니처 2-2BL",
-		"addr": "광주광역시 서구 풍암동 569번지 일원",
-		"short_addr": "광주광역시 서구",
-		"addr_lv1": "광주광역시",
-		"addr_lv2": "서구",
-		"apply_nums": "928세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950022&pblancNo=2024950022&houseSecd=02",
-		"in_date": "20240418",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "한울에이치밸리움 더하이클래스(오피스텔)",
-		"addr": "서울특별시 강서구 화곡동 987-5,6,12,13,14번지",
-		"short_addr": "서울특별시 강서구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강서구",
-		"apply_nums": "117세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940022&pblancNo=2024940022&houseSecd=11",
-		"in_date": "20240418",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "고촌센트럴자이"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940021&pblancNo=2024940021&houseSecd=11",
-		"in_date": "20240418",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "월드메르디앙 송도"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000172&pblancNo=2024000172&houseSecd=01",
 		"in_date": "20240419",
 		"hsecd": "01",
@@ -725,6 +657,32 @@
 		"apply_nums": "34세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910045&pblancNo=2024910045&houseSecd=04",
+		"in_date": "20240429",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "중앙하이츠 강동(임의공급 7차)",
+		"addr": "서울특별시 강동구 길동 415-5번지",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "28세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930023&pblancNo=2024930023&houseSecd=06",
+		"in_date": "20240429",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "더샵 센트로",
+		"addr": "충청남도 아산시 배방읍 북수리 1952번지 일원",
+		"short_addr": "충청남도 아산시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "아산시",
+		"apply_nums": "9세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000165&pblancNo=2024000165&houseSecd=01",
 		"in_date": "20240430",
 		"hsecd": "01",
@@ -814,6 +772,32 @@
 		"addr_lv1": "경상남도",
 		"addr_lv2": "함양군",
 		"apply_nums": "34세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910045&pblancNo=2024910045&houseSecd=04",
+		"in_date": "20240430",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "중앙하이츠 강동(임의공급 7차)",
+		"addr": "서울특별시 강동구 길동 415-5번지",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "28세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930023&pblancNo=2024930023&houseSecd=06",
+		"in_date": "20240430",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "더샵 센트로",
+		"addr": "충청남도 아산시 배방읍 북수리 1952번지 일원",
+		"short_addr": "충청남도 아산시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "아산시",
+		"apply_nums": "9세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000165&pblancNo=2024000165&houseSecd=01",
