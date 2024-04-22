@@ -1,55 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000172&pblancNo=2024000172&houseSecd=01",
-		"in_date": "20240419",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "대덕읍 더포레스트 에코파크",
-		"addr": "전라남도 장흥군 대덕읍 연정리 1348번지(대대로 958)",
-		"short_addr": "전라남도 장흥군",
-		"addr_lv1": "전라남도",
-		"addr_lv2": "장흥군",
-		"apply_nums": "45세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950022&pblancNo=2024950022&houseSecd=02",
-		"in_date": "20240419",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "한울에이치밸리움 더하이클래스(오피스텔)",
-		"addr": "서울특별시 강서구 화곡동 987-5,6,12,13,14번지",
-		"short_addr": "서울특별시 강서구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강서구",
-		"apply_nums": "117세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940023&pblancNo=2024940023&houseSecd=11",
-		"in_date": "20240419",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "1호선 전곡역 제일풍경채 리버파크"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940022&pblancNo=2024940022&houseSecd=11",
-		"in_date": "20240419",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "고촌센트럴자이"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940021&pblancNo=2024940021&houseSecd=11",
-		"in_date": "20240419",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "월드메르디앙 송도"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940023&pblancNo=2024940023&houseSecd=11",
 		"in_date": "20240420",
 		"hsecd": "11",
@@ -537,6 +487,14 @@
 		"apply_nums": "1세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940027&pblancNo=2024940027&houseSecd=11",
+		"in_date": "20240424",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "관저 푸르지오 센트럴파크 2단지"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940026&pblancNo=2024940026&houseSecd=11",
 		"in_date": "20240424",
 		"hsecd": "11",
@@ -571,12 +529,28 @@
 		"apply_nums": "7세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940027&pblancNo=2024940027&houseSecd=11",
+		"in_date": "20240425",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "관저 푸르지오 센트럴파크 2단지"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940026&pblancNo=2024940026&houseSecd=11",
 		"in_date": "20240425",
 		"hsecd": "11",
 		"rse": "11",
 		"type": "",
 		"name": "역북 서희스타힐스 프라임시티"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940028&pblancNo=2024940028&houseSecd=11",
+		"in_date": "20240425",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "트리우스 광명(4차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000120&pblancNo=2024000120&houseSecd=01",
@@ -590,6 +564,14 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "평택시",
 		"apply_nums": "390세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940028&pblancNo=2024940028&houseSecd=11",
+		"in_date": "20240426",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "트리우스 광명(4차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000107&pblancNo=2024000107&houseSecd=01",
@@ -668,6 +650,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "강동구",
 		"apply_nums": "28세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930024&pblancNo=2024930024&houseSecd=06",
+		"in_date": "20240429",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "과천제이드자이",
+		"addr": "경기도 과천시 과천대로2길 34 (갈현동, 과천제이드자이)",
+		"short_addr": "경기도 과천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "과천시",
+		"apply_nums": "2세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930023&pblancNo=2024930023&houseSecd=06",
@@ -785,6 +780,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "강동구",
 		"apply_nums": "28세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930024&pblancNo=2024930024&houseSecd=06",
+		"in_date": "20240430",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "과천제이드자이",
+		"addr": "경기도 과천시 과천대로2길 34 (갈현동, 과천제이드자이)",
+		"short_addr": "경기도 과천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "과천시",
+		"apply_nums": "2세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930023&pblancNo=2024930023&houseSecd=06",
