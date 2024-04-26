@@ -1,169 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000167&pblancNo=2024000167&houseSecd=01",
-		"in_date": "20240423",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "동래 에코팰리스 아시아드",
-		"addr": "부산광역시 동래구 온천동 1248-10",
-		"short_addr": "부산광역시 동래구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "동래구",
-		"apply_nums": "160세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000158&pblancNo=2024000158&houseSecd=01",
-		"in_date": "20240423",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "영종 진아레히",
-		"addr": "인천광역시 중구 운남동 1654-1번지 (영종하늘도시A23BL)",
-		"short_addr": "인천광역시 중구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "중구",
-		"apply_nums": "547세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000124&pblancNo=2024000124&houseSecd=01",
-		"in_date": "20240423",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "일광 노르웨이숲 오션포레",
-		"addr": "부산광역시 기장군 일광읍 이천리 720-2번지 일원",
-		"short_addr": "부산광역시 기장군",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "기장군",
-		"apply_nums": "1294세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000147&pblancNo=2024000147&houseSecd=01",
-		"in_date": "20240423",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "힐스테이트 죽림더프라우드 A2BL(공공분양주택)",
-		"addr": "전라남도 여수시 죽림1지구 내 A2BL",
-		"short_addr": "전라남도 여수시",
-		"addr_lv1": "전라남도",
-		"addr_lv2": "여수시",
-		"apply_nums": "802세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000146&pblancNo=2024000146&houseSecd=01",
-		"in_date": "20240423",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "힐스테이트 죽림더프라우드 A2BL(민영주택)",
-		"addr": "전라남도 여수시 죽림1지구 내 A2BL",
-		"short_addr": "전라남도 여수시",
-		"addr_lv1": "전라남도",
-		"addr_lv2": "여수시",
-		"apply_nums": "129세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000148&pblancNo=2024000148&houseSecd=01",
-		"in_date": "20240423",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "힐스테이트 죽림더프라우드 A4BL(공공분양주택)",
-		"addr": "전라남도 여수시 죽림1지구 내 A4BL",
-		"short_addr": "전라남도 여수시",
-		"addr_lv1": "전라남도",
-		"addr_lv2": "여수시",
-		"apply_nums": "341세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000172&pblancNo=2024000172&houseSecd=01",
-		"in_date": "20240423",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "대덕읍 더포레스트 에코파크",
-		"addr": "전라남도 장흥군 대덕읍 연정리 1348번지(대대로 958)",
-		"short_addr": "전라남도 장흥군",
-		"addr_lv1": "전라남도",
-		"addr_lv2": "장흥군",
-		"apply_nums": "45세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950026&pblancNo=2024950026&houseSecd=02",
-		"in_date": "20240423",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "북수원자이렉스비아",
-		"addr": "경기도 수원시 장안구 정자동 530-6번지 일원",
-		"short_addr": "경기도 수원시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "수원시",
-		"apply_nums": "147세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910043&pblancNo=2024910043&houseSecd=04",
-		"in_date": "20240423",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "이안 시그니처 역곡(임의공급 3차)",
-		"addr": "경기도 부천시 괴안동 117번지",
-		"short_addr": "경기도 부천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "부천시",
-		"apply_nums": "8세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910040&pblancNo=2024910040&houseSecd=04",
-		"in_date": "20240423",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "평택 푸르지오 센터파인",
-		"addr": "경기도 평택시 현덕면 평택 화양지구 도시개발사업 9-2BL",
-		"short_addr": "경기도 평택시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "평택시",
-		"apply_nums": "4세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930022&pblancNo=2024930022&houseSecd=06",
-		"in_date": "20240423",
-		"hsecd": "06",
-		"rse": "07",
-		"type": "",
-		"name": "과천 르센토 데시앙",
-		"addr": "경기도 과천시 과천대로8길 35(갈현동, 과천 르센토 데시앙)",
-		"short_addr": "경기도 과천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "과천시",
-		"apply_nums": "1세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930021&pblancNo=2024930021&houseSecd=06",
-		"in_date": "20240423",
-		"hsecd": "06",
-		"rse": "07",
-		"type": "",
-		"name": "과천 푸르지오 라비엔오",
-		"addr": "경기도 과천시 과천지식정보타운 공공주택지구 S4BL (과천대로8길 15, 과천푸르지오라비엔오)",
-		"short_addr": "경기도 과천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "과천시",
-		"apply_nums": "2세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940026&pblancNo=2024940026&houseSecd=11",
-		"in_date": "20240423",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "역북 서희스타힐스 프라임시티"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000173&pblancNo=2024000173&houseSecd=01",
 		"in_date": "20240424",
 		"hsecd": "01",
@@ -827,6 +663,19 @@
 		"apply_nums": "648세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000194&pblancNo=2024000194&houseSecd=01",
+		"in_date": "20240507",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "더샵 탕정인피니티시티 2차",
+		"addr": "충청남도 아산시 아산탕정지구 도시개발구역 A3BL",
+		"short_addr": "충청남도 아산시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "아산시",
+		"apply_nums": "1050세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000182&pblancNo=2024000182&houseSecd=01",
 		"in_date": "20240507",
 		"hsecd": "01",
@@ -853,6 +702,19 @@
 		"apply_nums": "38세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000176&pblancNo=2024000176&houseSecd=01",
+		"in_date": "20240507",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "오산역 금강펜테리움 센트럴파크(A8블록)",
+		"addr": "경기도 오산시 가수동 449번지(오산세교2지구 A8BL) ",
+		"short_addr": "경기도 오산시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "오산시",
+		"apply_nums": "730세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000177&pblancNo=2024000177&houseSecd=01",
 		"in_date": "20240507",
 		"hsecd": "01",
@@ -864,6 +726,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "평택시",
 		"apply_nums": "753세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000716&pblancNo=2023000716&houseSecd=01",
+		"in_date": "20240507",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "풍경아파트",
+		"addr": "부산광역시 사상구 사상로250번길 10",
+		"short_addr": "부산광역시 사상구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "사상구",
+		"apply_nums": "76세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940024&pblancNo=2024940024&houseSecd=11",
@@ -913,6 +788,19 @@
 		"apply_nums": "648세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000194&pblancNo=2024000194&houseSecd=01",
+		"in_date": "20240508",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "더샵 탕정인피니티시티 2차",
+		"addr": "충청남도 아산시 아산탕정지구 도시개발구역 A3BL",
+		"short_addr": "충청남도 아산시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "아산시",
+		"apply_nums": "1050세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000182&pblancNo=2024000182&houseSecd=01",
 		"in_date": "20240508",
 		"hsecd": "01",
@@ -939,6 +827,19 @@
 		"apply_nums": "38세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000176&pblancNo=2024000176&houseSecd=01",
+		"in_date": "20240508",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "오산역 금강펜테리움 센트럴파크(A8블록)",
+		"addr": "경기도 오산시 가수동 449번지(오산세교2지구 A8BL) ",
+		"short_addr": "경기도 오산시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "오산시",
+		"apply_nums": "730세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000177&pblancNo=2024000177&houseSecd=01",
 		"in_date": "20240508",
 		"hsecd": "01",
@@ -950,6 +851,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "평택시",
 		"apply_nums": "753세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000716&pblancNo=2023000716&houseSecd=01",
+		"in_date": "20240508",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "풍경아파트",
+		"addr": "부산광역시 사상구 사상로250번길 10",
+		"short_addr": "부산광역시 사상구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "사상구",
+		"apply_nums": "76세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000106&pblancNo=2024000106&houseSecd=01",
@@ -991,6 +905,19 @@
 		"apply_nums": "648세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000194&pblancNo=2024000194&houseSecd=01",
+		"in_date": "20240509",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "더샵 탕정인피니티시티 2차",
+		"addr": "충청남도 아산시 아산탕정지구 도시개발구역 A3BL",
+		"short_addr": "충청남도 아산시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "아산시",
+		"apply_nums": "1050세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000182&pblancNo=2024000182&houseSecd=01",
 		"in_date": "20240509",
 		"hsecd": "01",
@@ -1017,6 +944,19 @@
 		"apply_nums": "38세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000176&pblancNo=2024000176&houseSecd=01",
+		"in_date": "20240509",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "오산역 금강펜테리움 센트럴파크(A8블록)",
+		"addr": "경기도 오산시 가수동 449번지(오산세교2지구 A8BL) ",
+		"short_addr": "경기도 오산시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "오산시",
+		"apply_nums": "730세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000177&pblancNo=2024000177&houseSecd=01",
 		"in_date": "20240509",
 		"hsecd": "01",
@@ -1028,5 +968,18 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "평택시",
 		"apply_nums": "753세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000716&pblancNo=2023000716&houseSecd=01",
+		"in_date": "20240509",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "풍경아파트",
+		"addr": "부산광역시 사상구 사상로250번길 10",
+		"short_addr": "부산광역시 사상구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "사상구",
+		"apply_nums": "76세대"
 	}
 ]
