@@ -1,55 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000173&pblancNo=2024000173&houseSecd=01",
-		"in_date": "20240425",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "e편한세상 부평 그랑힐스(보류지)",
-		"addr": "인천광역시 부평구 청천동 36-3번지 일원 (청천2구역 주택재개발정비사업)",
-		"short_addr": "인천광역시 부평구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "부평구",
-		"apply_nums": "44세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950025&pblancNo=2024950025&houseSecd=02",
-		"in_date": "20240425",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "엘루크 방배 서리풀(도시형생활주택)",
-		"addr": "서울특별시 서초구 방배동 3284",
-		"short_addr": "서울특별시 서초구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "서초구",
-		"apply_nums": "7세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940027&pblancNo=2024940027&houseSecd=11",
-		"in_date": "20240425",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "관저 푸르지오 센트럴파크 2단지"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940026&pblancNo=2024940026&houseSecd=11",
-		"in_date": "20240425",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "역북 서희스타힐스 프라임시티"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940028&pblancNo=2024940028&houseSecd=11",
-		"in_date": "20240425",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "트리우스 광명(4차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000120&pblancNo=2024000120&houseSecd=01",
 		"in_date": "20240426",
 		"hsecd": "01",
@@ -407,6 +357,14 @@
 		"apply_nums": "1207세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940031&pblancNo=2024940031&houseSecd=11",
+		"in_date": "20240502",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "광명자이힐스테이트SKVIEW(3차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000165&pblancNo=2024000165&houseSecd=01",
 		"in_date": "20240503",
 		"hsecd": "01",
@@ -582,6 +540,27 @@
 		"apply_nums": "76세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024850009&pblancNo=2024850009&houseSecd=03",
+		"in_date": "20240507",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "서울은평뉴타운 디에트르 더 퍼스트"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930025&pblancNo=2024930025&houseSecd=06",
+		"in_date": "20240507",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "화성동탄2 제일풍경채 퍼스티어",
+		"addr": "경기도 화성시 신동 동탄2지구 A60블록",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "2세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940024&pblancNo=2024940024&houseSecd=11",
 		"in_date": "20240507",
 		"hsecd": "11",
@@ -705,6 +684,14 @@
 		"addr_lv1": "부산광역시",
 		"addr_lv2": "사상구",
 		"apply_nums": "76세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024850009&pblancNo=2024850009&houseSecd=03",
+		"in_date": "20240508",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "서울은평뉴타운 디에트르 더 퍼스트"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000106&pblancNo=2024000106&houseSecd=01",
