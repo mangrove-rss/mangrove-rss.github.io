@@ -1,26 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000120&pblancNo=2024000120&houseSecd=01",
-		"in_date": "20240426",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "평택화양 서희스타힐스 센트럴파크 2차",
-		"addr": "경기도 평택시 현덕면 화양리 평택화양지구 도시개발사업 A3블록 1로트",
-		"short_addr": "경기도 평택시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "평택시",
-		"apply_nums": "390세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940028&pblancNo=2024940028&houseSecd=11",
-		"in_date": "20240426",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "트리우스 광명(4차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000107&pblancNo=2024000107&houseSecd=01",
 		"in_date": "20240429",
 		"hsecd": "01",
@@ -355,6 +334,14 @@
 		"addr_lv1": "대전광역시",
 		"addr_lv2": "중구",
 		"apply_nums": "1207세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940029&pblancNo=2024940029&houseSecd=11",
+		"in_date": "20240502",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "e편한세상 옥정 리더스가든"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940031&pblancNo=2024940031&houseSecd=11",
