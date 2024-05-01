@@ -277,6 +277,19 @@
 		"apply_nums": "1세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910050&pblancNo=2024910050&houseSecd=04",
+		"in_date": "20240507",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "상도 푸르지오 클라베뉴(임의공급 5차)",
+		"addr": "서울특별시 동작구 상도동 산65-74 번지 일원",
+		"short_addr": "서울특별시 동작구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "동작구",
+		"apply_nums": "49세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930025&pblancNo=2024930025&houseSecd=06",
 		"in_date": "20240507",
 		"hsecd": "06",
