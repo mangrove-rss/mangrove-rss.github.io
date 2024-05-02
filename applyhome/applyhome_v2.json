@@ -449,6 +449,32 @@
 		"name": "서울은평뉴타운 디에트르 더 퍼스트"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910049&pblancNo=2024910049&houseSecd=04",
+		"in_date": "20240508",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "e편한세상 부평 그랑힐스",
+		"addr": "인천광역시 부평구 청천동 36-3번지 일대",
+		"short_addr": "인천광역시 부평구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "부평구",
+		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910047&pblancNo=2024910047&houseSecd=04",
+		"in_date": "20240508",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "포레나 인천학익(임의공급 4차)",
+		"addr": "인천광역시 미추홀구 학익2동 290-1",
+		"short_addr": "인천광역시 미추홀구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "미추홀구",
+		"apply_nums": "40세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930027&pblancNo=2024930027&houseSecd=06",
 		"in_date": "20240508",
 		"hsecd": "06",
@@ -579,6 +605,19 @@
 		"apply_nums": "76세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910047&pblancNo=2024910047&houseSecd=04",
+		"in_date": "20240509",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "포레나 인천학익(임의공급 4차)",
+		"addr": "인천광역시 미추홀구 학익2동 290-1",
+		"short_addr": "인천광역시 미추홀구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "미추홀구",
+		"apply_nums": "40세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000187&pblancNo=2024000187&houseSecd=01",
 		"in_date": "20240510",
 		"hsecd": "01",
@@ -616,6 +655,19 @@
 		"addr_lv1": "울산광역시",
 		"addr_lv2": "남구",
 		"apply_nums": "1073세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000189&pblancNo=2024000189&houseSecd=01",
+		"in_date": "20240513",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "여주역자이 헤리티지",
+		"addr": "경기도 여주시 교동 500-118번지 일원",
+		"short_addr": "경기도 여주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "여주시",
+		"apply_nums": "769세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000187&pblancNo=2024000187&houseSecd=01",
@@ -655,6 +707,19 @@
 		"addr_lv1": "울산광역시",
 		"addr_lv2": "남구",
 		"apply_nums": "1073세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000189&pblancNo=2024000189&houseSecd=01",
+		"in_date": "20240514",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "여주역자이 헤리티지",
+		"addr": "경기도 여주시 교동 500-118번지 일원",
+		"short_addr": "경기도 여주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "여주시",
+		"apply_nums": "769세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000187&pblancNo=2024000187&houseSecd=01",
@@ -694,5 +759,18 @@
 		"addr_lv1": "울산광역시",
 		"addr_lv2": "남구",
 		"apply_nums": "1073세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000189&pblancNo=2024000189&houseSecd=01",
+		"in_date": "20240516",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "여주역자이 헤리티지",
+		"addr": "경기도 여주시 교동 500-118번지 일원",
+		"short_addr": "경기도 여주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "여주시",
+		"apply_nums": "769세대"
 	}
 ]
