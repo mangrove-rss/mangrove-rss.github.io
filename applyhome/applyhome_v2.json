@@ -657,6 +657,19 @@
 		"apply_nums": "1073세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000145&pblancNo=2024000145&houseSecd=01",
+		"in_date": "20240513",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "봉동 한양립스 센텀포레",
+		"addr": "전북특별자치도 완주군 봉동읍 용암리 48-4 일원",
+		"short_addr": "전북특별자치도 완주군",
+		"addr_lv1": "전북특별자치도",
+		"addr_lv2": "완주군",
+		"apply_nums": "256세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000189&pblancNo=2024000189&houseSecd=01",
 		"in_date": "20240513",
 		"hsecd": "01",
@@ -670,6 +683,19 @@
 		"apply_nums": "769세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000048&pblancNo=2024000048&houseSecd=01",
+		"in_date": "20240513",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "힐스테이트 가장더퍼스트",
+		"addr": "대전광역시 서구 가장동 38-1번지 일원",
+		"short_addr": "대전광역시 서구",
+		"addr_lv1": "대전광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "1339세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000187&pblancNo=2024000187&houseSecd=01",
 		"in_date": "20240513",
 		"hsecd": "01",
@@ -709,6 +735,19 @@
 		"apply_nums": "1073세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000145&pblancNo=2024000145&houseSecd=01",
+		"in_date": "20240514",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "봉동 한양립스 센텀포레",
+		"addr": "전북특별자치도 완주군 봉동읍 용암리 48-4 일원",
+		"short_addr": "전북특별자치도 완주군",
+		"addr_lv1": "전북특별자치도",
+		"addr_lv2": "완주군",
+		"apply_nums": "256세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000189&pblancNo=2024000189&houseSecd=01",
 		"in_date": "20240514",
 		"hsecd": "01",
@@ -720,6 +759,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "여주시",
 		"apply_nums": "769세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000048&pblancNo=2024000048&houseSecd=01",
+		"in_date": "20240514",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "힐스테이트 가장더퍼스트",
+		"addr": "대전광역시 서구 가장동 38-1번지 일원",
+		"short_addr": "대전광역시 서구",
+		"addr_lv1": "대전광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "1339세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000187&pblancNo=2024000187&houseSecd=01",
@@ -761,6 +813,19 @@
 		"apply_nums": "1073세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000145&pblancNo=2024000145&houseSecd=01",
+		"in_date": "20240516",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "봉동 한양립스 센텀포레",
+		"addr": "전북특별자치도 완주군 봉동읍 용암리 48-4 일원",
+		"short_addr": "전북특별자치도 완주군",
+		"addr_lv1": "전북특별자치도",
+		"addr_lv2": "완주군",
+		"apply_nums": "256세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000189&pblancNo=2024000189&houseSecd=01",
 		"in_date": "20240516",
 		"hsecd": "01",
@@ -772,5 +837,18 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "여주시",
 		"apply_nums": "769세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000048&pblancNo=2024000048&houseSecd=01",
+		"in_date": "20240516",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "힐스테이트 가장더퍼스트",
+		"addr": "대전광역시 서구 가장동 38-1번지 일원",
+		"short_addr": "대전광역시 서구",
+		"addr_lv1": "대전광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "1339세대"
 	}
 ]
