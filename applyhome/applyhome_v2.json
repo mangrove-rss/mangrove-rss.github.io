@@ -1,39 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000165&pblancNo=2024000165&houseSecd=01",
-		"in_date": "20240503",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "원주 푸르지오 더 센트럴",
-		"addr": "강원특별자치도 원주시 원동 274-40일원",
-		"short_addr": "강원특별자치도 원주시",
-		"addr_lv1": "강원특별자치도",
-		"addr_lv2": "원주시",
-		"apply_nums": "1273세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000179&pblancNo=2024000179&houseSecd=01",
-		"in_date": "20240503",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "익산 부송 아이파크",
-		"addr": "전북특별자치도 익산시 부송동 279번지 일원",
-		"short_addr": "전북특별자치도 익산시",
-		"addr_lv1": "전북특별자치도",
-		"addr_lv2": "익산시",
-		"apply_nums": "511세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940024&pblancNo=2024940024&houseSecd=11",
-		"in_date": "20240503",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "인천　유림노르웨이숲　에듀오션"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940024&pblancNo=2024940024&houseSecd=11",
 		"in_date": "20240504",
 		"hsecd": "11",
@@ -639,6 +605,19 @@
 		"addr_lv1": "대구광역시",
 		"addr_lv2": "수성구",
 		"apply_nums": "185세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910052&pblancNo=2024910052&houseSecd=04",
+		"in_date": "20240513",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "포레나 평택화양 무순위(임의공급3차)",
+		"addr": "경기도 평택시 현덕면 화양리 평택 화양지구 도시개발사업 7-2BL",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "5세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000181&pblancNo=2024000181&houseSecd=01",
