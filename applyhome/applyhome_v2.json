@@ -1,14 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940024&pblancNo=2024940024&houseSecd=11",
-		"in_date": "20240505",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "인천　유림노르웨이숲　에듀오션"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940024&pblancNo=2024940024&houseSecd=11",
 		"in_date": "20240506",
 		"hsecd": "11",
 		"rse": "11",
@@ -599,6 +591,19 @@
 		"apply_nums": "185세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910051&pblancNo=2024910051&houseSecd=04",
+		"in_date": "20240513",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "계룡자이(무순위 1차)",
+		"addr": "충청남도 계룡시 대실남북로 81 (두마면 농소리 970)",
+		"short_addr": "충청남도 계룡시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "계룡시",
+		"apply_nums": "1세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910052&pblancNo=2024910052&houseSecd=04",
 		"in_date": "20240513",
 		"hsecd": "04",
@@ -610,6 +615,27 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "평택시",
 		"apply_nums": "5세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930028&pblancNo=2024930028&houseSecd=06",
+		"in_date": "20240513",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "계룡자이",
+		"addr": "충청남도 계룡시 대실남북로 81 (두마면 농소리 970)",
+		"short_addr": "충청남도 계룡시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "계룡시",
+		"apply_nums": "6세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940033&pblancNo=2024940033&houseSecd=11",
+		"in_date": "20240513",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "영주자이 시그니처"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000181&pblancNo=2024000181&houseSecd=01",
@@ -690,6 +716,19 @@
 		"apply_nums": "185세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930028&pblancNo=2024930028&houseSecd=06",
+		"in_date": "20240514",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "계룡자이",
+		"addr": "충청남도 계룡시 대실남북로 81 (두마면 농소리 970)",
+		"short_addr": "충청남도 계룡시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "계룡시",
+		"apply_nums": "6세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000181&pblancNo=2024000181&houseSecd=01",
 		"in_date": "20240516",
 		"hsecd": "01",
@@ -740,5 +779,83 @@
 		"addr_lv1": "대전광역시",
 		"addr_lv2": "서구",
 		"apply_nums": "1339세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950027&pblancNo=2024950027&houseSecd=02",
+		"in_date": "20240516",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "파크라움 여의도",
+		"addr": "서울특별시 영등포구 여의도동 17-4",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "10세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950027&pblancNo=2024950027&houseSecd=02",
+		"in_date": "20240517",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "파크라움 여의도",
+		"addr": "서울특별시 영등포구 여의도동 17-4",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "10세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950027&pblancNo=2024950027&houseSecd=02",
+		"in_date": "20240518",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "파크라움 여의도",
+		"addr": "서울특별시 영등포구 여의도동 17-4",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "10세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950027&pblancNo=2024950027&houseSecd=02",
+		"in_date": "20240519",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "파크라움 여의도",
+		"addr": "서울특별시 영등포구 여의도동 17-4",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "10세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950027&pblancNo=2024950027&houseSecd=02",
+		"in_date": "20240520",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "파크라움 여의도",
+		"addr": "서울특별시 영등포구 여의도동 17-4",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "10세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950027&pblancNo=2024950027&houseSecd=02",
+		"in_date": "20240521",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "파크라움 여의도",
+		"addr": "서울특별시 영등포구 여의도동 17-4",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "10세대"
 	}
 ]
