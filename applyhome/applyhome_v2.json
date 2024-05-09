@@ -1,13 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940024&pblancNo=2024940024&houseSecd=11",
-		"in_date": "20240506",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "인천　유림노르웨이숲　에듀오션"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000106&pblancNo=2024000106&houseSecd=01",
 		"in_date": "20240507",
 		"hsecd": "01",
@@ -781,6 +773,14 @@
 		"apply_nums": "1339세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024850010&pblancNo=2024850010&houseSecd=03",
+		"in_date": "20240516",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "영종 유승한내들 스카이2차"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950027&pblancNo=2024950027&houseSecd=02",
 		"in_date": "20240516",
 		"hsecd": "02",
@@ -794,6 +794,48 @@
 		"apply_nums": "10세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950028&pblancNo=2024950028&houseSecd=02",
+		"in_date": "20240516",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "해링턴 플레이스 동대구",
+		"addr": "대구광역시 동구 신암동 674-20번지 일원(해링턴 플레이스 동대구)",
+		"short_addr": "대구광역시 동구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "동구",
+		"apply_nums": "20세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910054&pblancNo=2024910054&houseSecd=04",
+		"in_date": "20240516",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "화곡 더리브 스카이 주상복합아파트 (임의공급 15차)",
+		"addr": "서울특별시 강서구 화곡동 370-76 외 6필지",
+		"short_addr": "서울특별시 강서구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강서구",
+		"apply_nums": "20세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940032&pblancNo=2024940032&houseSecd=11",
+		"in_date": "20240516",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "청주 동일하이빌 파크레인"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024850010&pblancNo=2024850010&houseSecd=03",
+		"in_date": "20240517",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "영종 유승한내들 스카이2차"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950027&pblancNo=2024950027&houseSecd=02",
 		"in_date": "20240517",
 		"hsecd": "02",
@@ -805,6 +847,27 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "영등포구",
 		"apply_nums": "10세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950028&pblancNo=2024950028&houseSecd=02",
+		"in_date": "20240517",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "해링턴 플레이스 동대구",
+		"addr": "대구광역시 동구 신암동 674-20번지 일원(해링턴 플레이스 동대구)",
+		"short_addr": "대구광역시 동구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "동구",
+		"apply_nums": "20세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940032&pblancNo=2024940032&houseSecd=11",
+		"in_date": "20240517",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "청주 동일하이빌 파크레인"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950027&pblancNo=2024950027&houseSecd=02",
@@ -833,6 +896,32 @@
 		"apply_nums": "10세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000166&pblancNo=2024000166&houseSecd=01",
+		"in_date": "20240520",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "김포 북변 우미 린 파크리브",
+		"addr": "경기도 김포시 북변동 329-2번지 일원",
+		"short_addr": "경기도 김포시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "김포시",
+		"apply_nums": "831세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000207&pblancNo=2024000207&houseSecd=01",
+		"in_date": "20240520",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "양평 하늘채 센트로힐스",
+		"addr": "경기도 양평군 양평읍 덕평리 661-7 일원",
+		"short_addr": "경기도 양평군",
+		"addr_lv1": "경기도",
+		"addr_lv2": "양평군",
+		"apply_nums": "200세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950027&pblancNo=2024950027&houseSecd=02",
 		"in_date": "20240520",
 		"hsecd": "02",
@@ -846,6 +935,32 @@
 		"apply_nums": "10세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000166&pblancNo=2024000166&houseSecd=01",
+		"in_date": "20240521",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "김포 북변 우미 린 파크리브",
+		"addr": "경기도 김포시 북변동 329-2번지 일원",
+		"short_addr": "경기도 김포시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "김포시",
+		"apply_nums": "831세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000207&pblancNo=2024000207&houseSecd=01",
+		"in_date": "20240521",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "양평 하늘채 센트로힐스",
+		"addr": "경기도 양평군 양평읍 덕평리 661-7 일원",
+		"short_addr": "경기도 양평군",
+		"addr_lv1": "경기도",
+		"addr_lv2": "양평군",
+		"apply_nums": "200세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950027&pblancNo=2024950027&houseSecd=02",
 		"in_date": "20240521",
 		"hsecd": "02",
@@ -857,5 +972,31 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "영등포구",
 		"apply_nums": "10세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000166&pblancNo=2024000166&houseSecd=01",
+		"in_date": "20240522",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "김포 북변 우미 린 파크리브",
+		"addr": "경기도 김포시 북변동 329-2번지 일원",
+		"short_addr": "경기도 김포시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "김포시",
+		"apply_nums": "831세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000207&pblancNo=2024000207&houseSecd=01",
+		"in_date": "20240522",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "양평 하늘채 센트로힐스",
+		"addr": "경기도 양평군 양평읍 덕평리 661-7 일원",
+		"short_addr": "경기도 양평군",
+		"addr_lv1": "경기도",
+		"addr_lv2": "양평군",
+		"apply_nums": "200세대"
 	}
 ]
