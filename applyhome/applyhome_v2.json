@@ -573,6 +573,19 @@
 		"apply_nums": "6세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910053&pblancNo=2024910053&houseSecd=04",
+		"in_date": "20240521",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "세종 린 스트라우스(행정중심복합도시 1-5생활권 H-6블록)(무순위2차)",
+		"addr": "행정중심복합도시 1-5생활권 H6블록 (세종특별자치시 다솜로 7 한뜰마을 5단지)",
+		"short_addr": "행정중심복합도시 1-5생활권",
+		"addr_lv1": "행정중심복합도시",
+		"addr_lv2": "1-5생활권",
+		"apply_nums": "1세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000166&pblancNo=2024000166&houseSecd=01",
 		"in_date": "20240522",
 		"hsecd": "01",
@@ -636,5 +649,57 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "이천시",
 		"apply_nums": "635세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000222&pblancNo=2024000222&houseSecd=01",
+		"in_date": "20240527",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "효성해링턴 플레이스 동수원",
+		"addr": "경기도 수원시 팔달구 우만동 436번지",
+		"short_addr": "경기도 수원시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "수원시",
+		"apply_nums": "162세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950029&pblancNo=2024950029&houseSecd=02",
+		"in_date": "20240527",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "이문 월드메르디앙 힐트리움 더테라스",
+		"addr": "서울특별시 동대문구 이문동 348-11, 348-12번지",
+		"short_addr": "서울특별시 동대문구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "동대문구",
+		"apply_nums": "5세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000222&pblancNo=2024000222&houseSecd=01",
+		"in_date": "20240528",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "효성해링턴 플레이스 동수원",
+		"addr": "경기도 수원시 팔달구 우만동 436번지",
+		"short_addr": "경기도 수원시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "수원시",
+		"apply_nums": "162세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000222&pblancNo=2024000222&houseSecd=01",
+		"in_date": "20240529",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "효성해링턴 플레이스 동수원",
+		"addr": "경기도 수원시 팔달구 우만동 436번지",
+		"short_addr": "경기도 수원시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "수원시",
+		"apply_nums": "162세대"
 	}
 ]
