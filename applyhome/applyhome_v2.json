@@ -1,112 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000181&pblancNo=2024000181&houseSecd=01",
-		"in_date": "20240516",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "라엘에스",
-		"addr": "울산광역시 남구 신정동 901-3번지 일원",
-		"short_addr": "울산광역시 남구",
-		"addr_lv1": "울산광역시",
-		"addr_lv2": "남구",
-		"apply_nums": "1073세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000145&pblancNo=2024000145&houseSecd=01",
-		"in_date": "20240516",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "봉동 한양립스 센텀포레",
-		"addr": "전북특별자치도 완주군 봉동읍 용암리 48-4 일원",
-		"short_addr": "전북특별자치도 완주군",
-		"addr_lv1": "전북특별자치도",
-		"addr_lv2": "완주군",
-		"apply_nums": "256세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000189&pblancNo=2024000189&houseSecd=01",
-		"in_date": "20240516",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "여주역자이 헤리티지",
-		"addr": "경기도 여주시 교동 500-118번지 일원",
-		"short_addr": "경기도 여주시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "여주시",
-		"apply_nums": "769세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000048&pblancNo=2024000048&houseSecd=01",
-		"in_date": "20240516",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "힐스테이트 가장더퍼스트",
-		"addr": "대전광역시 서구 가장동 38-1번지 일원",
-		"short_addr": "대전광역시 서구",
-		"addr_lv1": "대전광역시",
-		"addr_lv2": "서구",
-		"apply_nums": "1339세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024850010&pblancNo=2024850010&houseSecd=03",
-		"in_date": "20240516",
-		"hsecd": "03",
-		"rse": "04",
-		"type": "",
-		"name": "영종 유승한내들 스카이2차"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950027&pblancNo=2024950027&houseSecd=02",
-		"in_date": "20240516",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "파크라움 여의도",
-		"addr": "서울특별시 영등포구 여의도동 17-4",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "10세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950028&pblancNo=2024950028&houseSecd=02",
-		"in_date": "20240516",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "해링턴 플레이스 동대구",
-		"addr": "대구광역시 동구 신암동 674-20번지 일원(해링턴 플레이스 동대구)",
-		"short_addr": "대구광역시 동구",
-		"addr_lv1": "대구광역시",
-		"addr_lv2": "동구",
-		"apply_nums": "20세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910054&pblancNo=2024910054&houseSecd=04",
-		"in_date": "20240516",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "화곡 더리브 스카이 주상복합아파트 (임의공급 15차)",
-		"addr": "서울특별시 강서구 화곡동 370-76 외 6필지",
-		"short_addr": "서울특별시 강서구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강서구",
-		"apply_nums": "20세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940032&pblancNo=2024940032&houseSecd=11",
-		"in_date": "20240516",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "청주 동일하이빌 파크레인"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024850010&pblancNo=2024850010&houseSecd=03",
 		"in_date": "20240517",
 		"hsecd": "03",
@@ -461,6 +354,14 @@
 		"apply_nums": "40세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940034&pblancNo=2024940034&houseSecd=11",
+		"in_date": "20240522",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "휴먼빌 일산 클래스원"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910059&pblancNo=2024910059&houseSecd=04",
 		"in_date": "20240523",
 		"hsecd": "04",
@@ -498,6 +399,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "강북구",
 		"apply_nums": "21세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910055&pblancNo=2024910055&houseSecd=04",
+		"in_date": "20240524",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "에스아이팰리스 올림픽공원",
+		"addr": "서울특별시 강동구 성내동 459-3",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "20세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000452&pblancNo=2023000452&houseSecd=01",
