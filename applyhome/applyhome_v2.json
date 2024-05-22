@@ -1,31 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950027&pblancNo=2024950027&houseSecd=02",
-		"in_date": "20240518",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "파크라움 여의도",
-		"addr": "서울특별시 영등포구 여의도동 17-4",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "10세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950027&pblancNo=2024950027&houseSecd=02",
-		"in_date": "20240519",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "파크라움 여의도",
-		"addr": "서울특별시 영등포구 여의도동 17-4",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "10세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000166&pblancNo=2024000166&houseSecd=01",
 		"in_date": "20240520",
 		"hsecd": "01",
@@ -388,6 +362,30 @@
 		"name": "광명자이힐스테이트SKVIEW(4차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940038&pblancNo=2024940038&houseSecd=11",
+		"in_date": "20240524",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "역북 서희스타힐스 프라임시티(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940038&pblancNo=2024940038&houseSecd=11",
+		"in_date": "20240525",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "역북 서희스타힐스 프라임시티(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940038&pblancNo=2024940038&houseSecd=11",
+		"in_date": "20240526",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "역북 서희스타힐스 프라임시티(2차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000452&pblancNo=2023000452&houseSecd=01",
 		"in_date": "20240527",
 		"hsecd": "01",
@@ -453,6 +451,27 @@
 		"apply_nums": "5세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910060&pblancNo=2024910060&houseSecd=04",
+		"in_date": "20240527",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "관저 푸르지오 센트럴파크 2단지(임의공급 2차)",
+		"addr": "대전광역시 서구 계백지구 도시개발사업구역 공동주택용지 A2블럭 (가수원동 산 16-119번지 일원)",
+		"short_addr": "대전광역시 서구",
+		"addr_lv1": "대전광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "28세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940038&pblancNo=2024940038&houseSecd=11",
+		"in_date": "20240527",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "역북 서희스타힐스 프라임시티(2차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000452&pblancNo=2023000452&houseSecd=01",
 		"in_date": "20240528",
 		"hsecd": "01",
@@ -503,6 +522,40 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "수원시",
 		"apply_nums": "162세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910060&pblancNo=2024910060&houseSecd=04",
+		"in_date": "20240528",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "관저 푸르지오 센트럴파크 2단지(임의공급 2차)",
+		"addr": "대전광역시 서구 계백지구 도시개발사업구역 공동주택용지 A2블럭 (가수원동 산 16-119번지 일원)",
+		"short_addr": "대전광역시 서구",
+		"addr_lv1": "대전광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "28세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910062&pblancNo=2024910062&houseSecd=04",
+		"in_date": "20240528",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "상도 푸르지오 클라베뉴(임의공급 6차)",
+		"addr": "서울특별시 동작구 상도동 산65-74 번지 일원",
+		"short_addr": "서울특별시 동작구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "동작구",
+		"apply_nums": "41세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940038&pblancNo=2024940038&houseSecd=11",
+		"in_date": "20240528",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "역북 서희스타힐스 프라임시티(2차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000452&pblancNo=2023000452&houseSecd=01",
