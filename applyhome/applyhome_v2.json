@@ -1,40 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910059&pblancNo=2024910059&houseSecd=04",
-		"in_date": "20240523",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "수유 시그니티(임의공급 1차)",
-		"addr": "서울특별시 강북구 수유동 87-5번지",
-		"short_addr": "서울특별시 강북구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강북구",
-		"apply_nums": "21세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910057&pblancNo=2024910057&houseSecd=04",
-		"in_date": "20240523",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "트리우스 광명",
-		"addr": "경기도 광명시 광명1동 12-2번지 일원",
-		"short_addr": "경기도 광명시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "광명시",
-		"apply_nums": "40세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940036&pblancNo=2024940036&houseSecd=11",
-		"in_date": "20240523",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "광명자이힐스테이트SKVIEW(4차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910059&pblancNo=2024910059&houseSecd=04",
 		"in_date": "20240524",
 		"hsecd": "04",
 		"rse": "06",
@@ -444,6 +410,32 @@
 		"apply_nums": "198세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910063&pblancNo=2024910063&houseSecd=04",
+		"in_date": "20240603",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "용인 에버랜드역 칸타빌(3차)",
+		"addr": "경기도 용인시 처인구 포곡읍 전대리 192-2외 5필지",
+		"short_addr": "경기도 용인시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "용인시",
+		"apply_nums": "3세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910064&pblancNo=2024910064&houseSecd=04",
+		"in_date": "20240603",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "중앙하이츠 강동(임의공급 8차)",
+		"addr": "서울특별시 강동구 길동 415-5번지",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "28세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000220&pblancNo=2024000220&houseSecd=01",
 		"in_date": "20240604",
 		"hsecd": "01",
@@ -520,6 +512,19 @@
 		"addr_lv1": "울산광역시",
 		"addr_lv2": "중구",
 		"apply_nums": "198세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910064&pblancNo=2024910064&houseSecd=04",
+		"in_date": "20240604",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "중앙하이츠 강동(임의공급 8차)",
+		"addr": "서울특별시 강동구 길동 415-5번지",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "28세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000220&pblancNo=2024000220&houseSecd=01",
