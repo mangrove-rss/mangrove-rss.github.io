@@ -1,55 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910059&pblancNo=2024910059&houseSecd=04",
-		"in_date": "20240524",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "수유 시그니티(임의공급 1차)",
-		"addr": "서울특별시 강북구 수유동 87-5번지",
-		"short_addr": "서울특별시 강북구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강북구",
-		"apply_nums": "21세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910055&pblancNo=2024910055&houseSecd=04",
-		"in_date": "20240524",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "에스아이팰리스 올림픽공원",
-		"addr": "서울특별시 강동구 성내동 459-3",
-		"short_addr": "서울특별시 강동구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강동구",
-		"apply_nums": "20세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940036&pblancNo=2024940036&houseSecd=11",
-		"in_date": "20240524",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "광명자이힐스테이트SKVIEW(4차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940038&pblancNo=2024940038&houseSecd=11",
-		"in_date": "20240524",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "역북 서희스타힐스 프라임시티(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940038&pblancNo=2024940038&houseSecd=11",
-		"in_date": "20240525",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "역북 서희스타힐스 프라임시티(2차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940038&pblancNo=2024940038&houseSecd=11",
 		"in_date": "20240526",
 		"hsecd": "11",
@@ -332,6 +282,22 @@
 		"apply_nums": "2세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940040&pblancNo=2024940040&houseSecd=11",
+		"in_date": "20240530",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "1호선 전곡역 제일풍경채 리버파크 임의공급(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940040&pblancNo=2024940040&houseSecd=11",
+		"in_date": "20240531",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "1호선 전곡역 제일풍경채 리버파크 임의공급(2차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000220&pblancNo=2024000220&houseSecd=01",
 		"in_date": "20240603",
 		"hsecd": "01",
@@ -408,6 +374,19 @@
 		"addr_lv1": "울산광역시",
 		"addr_lv2": "중구",
 		"apply_nums": "198세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950030&pblancNo=2024950030&houseSecd=02",
+		"in_date": "20240603",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "에이크로아이트 마포",
+		"addr": "서울시 마포구 공덕동 1-13번지 외 3필지(1-21, 1-15, 3-50번지)",
+		"short_addr": "서울시 마포구",
+		"addr_lv1": "서울시",
+		"addr_lv2": "마포구",
+		"apply_nums": "26세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910063&pblancNo=2024910063&houseSecd=04",
@@ -436,6 +415,19 @@
 		"apply_nums": "28세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910068&pblancNo=2024910068&houseSecd=04",
+		"in_date": "20240603",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "화곡 더리브 스카이 주상복합아파트 (임의공급 16차)",
+		"addr": "서울특별시 강서구 화곡동 370-76 외 6필지",
+		"short_addr": "서울특별시 강서구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강서구",
+		"apply_nums": "20세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000220&pblancNo=2024000220&houseSecd=01",
 		"in_date": "20240604",
 		"hsecd": "01",
@@ -512,6 +504,19 @@
 		"addr_lv1": "울산광역시",
 		"addr_lv2": "중구",
 		"apply_nums": "198세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950030&pblancNo=2024950030&houseSecd=02",
+		"in_date": "20240604",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "에이크로아이트 마포",
+		"addr": "서울시 마포구 공덕동 1-13번지 외 3필지(1-21, 1-15, 3-50번지)",
+		"short_addr": "서울시 마포구",
+		"addr_lv1": "서울시",
+		"addr_lv2": "마포구",
+		"apply_nums": "26세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910064&pblancNo=2024910064&houseSecd=04",
@@ -603,5 +608,109 @@
 		"addr_lv1": "울산광역시",
 		"addr_lv2": "중구",
 		"apply_nums": "198세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950030&pblancNo=2024950030&houseSecd=02",
+		"in_date": "20240605",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "에이크로아이트 마포",
+		"addr": "서울시 마포구 공덕동 1-13번지 외 3필지(1-21, 1-15, 3-50번지)",
+		"short_addr": "서울시 마포구",
+		"addr_lv1": "서울시",
+		"addr_lv2": "마포구",
+		"apply_nums": "26세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950030&pblancNo=2024950030&houseSecd=02",
+		"in_date": "20240606",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "에이크로아이트 마포",
+		"addr": "서울시 마포구 공덕동 1-13번지 외 3필지(1-21, 1-15, 3-50번지)",
+		"short_addr": "서울시 마포구",
+		"addr_lv1": "서울시",
+		"addr_lv2": "마포구",
+		"apply_nums": "26세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000238&pblancNo=2024000238&houseSecd=01",
+		"in_date": "20240607",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "지음 시그너스 인 동래",
+		"addr": "부산광역시 동래구 온천동 1250-16번지",
+		"short_addr": "부산광역시 동래구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "동래구",
+		"apply_nums": "34세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950030&pblancNo=2024950030&houseSecd=02",
+		"in_date": "20240607",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "에이크로아이트 마포",
+		"addr": "서울시 마포구 공덕동 1-13번지 외 3필지(1-21, 1-15, 3-50번지)",
+		"short_addr": "서울시 마포구",
+		"addr_lv1": "서울시",
+		"addr_lv2": "마포구",
+		"apply_nums": "26세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950030&pblancNo=2024950030&houseSecd=02",
+		"in_date": "20240608",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "에이크로아이트 마포",
+		"addr": "서울시 마포구 공덕동 1-13번지 외 3필지(1-21, 1-15, 3-50번지)",
+		"short_addr": "서울시 마포구",
+		"addr_lv1": "서울시",
+		"addr_lv2": "마포구",
+		"apply_nums": "26세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950030&pblancNo=2024950030&houseSecd=02",
+		"in_date": "20240609",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "에이크로아이트 마포",
+		"addr": "서울시 마포구 공덕동 1-13번지 외 3필지(1-21, 1-15, 3-50번지)",
+		"short_addr": "서울시 마포구",
+		"addr_lv1": "서울시",
+		"addr_lv2": "마포구",
+		"apply_nums": "26세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000238&pblancNo=2024000238&houseSecd=01",
+		"in_date": "20240610",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "지음 시그너스 인 동래",
+		"addr": "부산광역시 동래구 온천동 1250-16번지",
+		"short_addr": "부산광역시 동래구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "동래구",
+		"apply_nums": "34세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950030&pblancNo=2024950030&houseSecd=02",
+		"in_date": "20240610",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "에이크로아이트 마포",
+		"addr": "서울시 마포구 공덕동 1-13번지 외 3필지(1-21, 1-15, 3-50번지)",
+		"short_addr": "서울시 마포구",
+		"addr_lv1": "서울시",
+		"addr_lv2": "마포구",
+		"apply_nums": "26세대"
 	}
 ]
