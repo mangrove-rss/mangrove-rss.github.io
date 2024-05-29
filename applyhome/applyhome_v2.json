@@ -1,13 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940038&pblancNo=2024940038&houseSecd=11",
-		"in_date": "20240526",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "역북 서희스타힐스 프라임시티(2차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000452&pblancNo=2023000452&houseSecd=01",
 		"in_date": "20240527",
 		"hsecd": "01",
@@ -428,6 +420,14 @@
 		"apply_nums": "20세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940044&pblancNo=2024940044&houseSecd=11",
+		"in_date": "20240603",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "판교TH212"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000220&pblancNo=2024000220&houseSecd=01",
 		"in_date": "20240604",
 		"hsecd": "01",
@@ -517,6 +517,19 @@
 		"addr_lv1": "서울시",
 		"addr_lv2": "마포구",
 		"apply_nums": "26세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910069&pblancNo=2024910069&houseSecd=04",
+		"in_date": "20240604",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "e편한세상 부평 그랑힐스(보류지)",
+		"addr": "인천광역시 부평구 청천동 36-3번지 일원",
+		"short_addr": "인천광역시 부평구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "부평구",
+		"apply_nums": "35세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910064&pblancNo=2024910064&houseSecd=04",
