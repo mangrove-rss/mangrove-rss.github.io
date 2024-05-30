@@ -1,92 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000452&pblancNo=2023000452&houseSecd=01",
-		"in_date": "20240527",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "동인 태왕아너스 라플란드",
-		"addr": "대구광역시 중구 동인동3가 228 일원",
-		"short_addr": "대구광역시 중구",
-		"addr_lv1": "대구광역시",
-		"addr_lv2": "중구",
-		"apply_nums": "40세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000219&pblancNo=2024000219&houseSecd=01",
-		"in_date": "20240527",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "두산위브더제니스 센트럴시티",
-		"addr": "대구광역시 북구 학정동 732-1번지 일원",
-		"short_addr": "대구광역시 북구",
-		"addr_lv1": "대구광역시",
-		"addr_lv2": "북구",
-		"apply_nums": "1098세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000208&pblancNo=2024000208&houseSecd=01",
-		"in_date": "20240527",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "서대문 센트럴 아이파크",
-		"addr": "서울특별시 서대문구 홍은동 11-111번지 일원",
-		"short_addr": "서울특별시 서대문구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "서대문구",
-		"apply_nums": "409세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000222&pblancNo=2024000222&houseSecd=01",
-		"in_date": "20240527",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "효성해링턴 플레이스 동수원",
-		"addr": "경기도 수원시 팔달구 우만동 436번지",
-		"short_addr": "경기도 수원시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "수원시",
-		"apply_nums": "162세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950029&pblancNo=2024950029&houseSecd=02",
-		"in_date": "20240527",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "이문 월드메르디앙 힐트리움 더테라스",
-		"addr": "서울특별시 동대문구 이문동 348-11, 348-12번지",
-		"short_addr": "서울특별시 동대문구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "동대문구",
-		"apply_nums": "5세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910060&pblancNo=2024910060&houseSecd=04",
-		"in_date": "20240527",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "관저 푸르지오 센트럴파크 2단지(임의공급 2차)",
-		"addr": "대전광역시 서구 계백지구 도시개발사업구역 공동주택용지 A2블럭 (가수원동 산 16-119번지 일원)",
-		"short_addr": "대전광역시 서구",
-		"addr_lv1": "대전광역시",
-		"addr_lv2": "서구",
-		"apply_nums": "28세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940038&pblancNo=2024940038&houseSecd=11",
-		"in_date": "20240527",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "역북 서희스타힐스 프라임시티(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000452&pblancNo=2023000452&houseSecd=01",
 		"in_date": "20240528",
 		"hsecd": "01",
 		"rse": "02",
@@ -545,6 +459,14 @@
 		"apply_nums": "28세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940041&pblancNo=2024940041&houseSecd=11",
+		"in_date": "20240604",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "의정부 푸르지오 클라시엘"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000220&pblancNo=2024000220&houseSecd=01",
 		"in_date": "20240605",
 		"hsecd": "01",
@@ -623,6 +545,19 @@
 		"apply_nums": "198세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950031&pblancNo=2024950031&houseSecd=02",
+		"in_date": "20240605",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "당산역 한강 더로드캐슬",
+		"addr": "서울특별시 영등포구 양평로12가길 6 (당산동6가)",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "5세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950030&pblancNo=2024950030&houseSecd=02",
 		"in_date": "20240605",
 		"hsecd": "02",
@@ -634,6 +569,32 @@
 		"addr_lv1": "서울시",
 		"addr_lv2": "마포구",
 		"apply_nums": "26세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910065&pblancNo=2024910065&houseSecd=04",
+		"in_date": "20240605",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "세운 푸르지오 헤리시티 아파트 (3차)",
+		"addr": "서울특별시 중구 마른내로 79 (인현동2가, 세운 푸르지오 헤리시티)",
+		"short_addr": "서울특별시 중구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "중구",
+		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950031&pblancNo=2024950031&houseSecd=02",
+		"in_date": "20240606",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "당산역 한강 더로드캐슬",
+		"addr": "서울특별시 영등포구 양평로12가길 6 (당산동6가)",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "5세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950030&pblancNo=2024950030&houseSecd=02",
@@ -649,6 +610,19 @@
 		"apply_nums": "26세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910065&pblancNo=2024910065&houseSecd=04",
+		"in_date": "20240606",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "세운 푸르지오 헤리시티 아파트 (3차)",
+		"addr": "서울특별시 중구 마른내로 79 (인현동2가, 세운 푸르지오 헤리시티)",
+		"short_addr": "서울특별시 중구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "중구",
+		"apply_nums": "1세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000238&pblancNo=2024000238&houseSecd=01",
 		"in_date": "20240607",
 		"hsecd": "01",
@@ -662,6 +636,19 @@
 		"apply_nums": "34세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950031&pblancNo=2024950031&houseSecd=02",
+		"in_date": "20240607",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "당산역 한강 더로드캐슬",
+		"addr": "서울특별시 영등포구 양평로12가길 6 (당산동6가)",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "5세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950030&pblancNo=2024950030&houseSecd=02",
 		"in_date": "20240607",
 		"hsecd": "02",
@@ -673,6 +660,40 @@
 		"addr_lv1": "서울시",
 		"addr_lv2": "마포구",
 		"apply_nums": "26세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910065&pblancNo=2024910065&houseSecd=04",
+		"in_date": "20240607",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "세운 푸르지오 헤리시티 아파트 (3차)",
+		"addr": "서울특별시 중구 마른내로 79 (인현동2가, 세운 푸르지오 헤리시티)",
+		"short_addr": "서울특별시 중구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "중구",
+		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940039&pblancNo=2024940039&houseSecd=11",
+		"in_date": "20240607",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "인천 유림노르웨이숲 에듀오션(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950031&pblancNo=2024950031&houseSecd=02",
+		"in_date": "20240608",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "당산역 한강 더로드캐슬",
+		"addr": "서울특별시 영등포구 양평로12가길 6 (당산동6가)",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "5세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950030&pblancNo=2024950030&houseSecd=02",
@@ -688,6 +709,27 @@
 		"apply_nums": "26세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940039&pblancNo=2024940039&houseSecd=11",
+		"in_date": "20240608",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "인천 유림노르웨이숲 에듀오션(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950031&pblancNo=2024950031&houseSecd=02",
+		"in_date": "20240609",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "당산역 한강 더로드캐슬",
+		"addr": "서울특별시 영등포구 양평로12가길 6 (당산동6가)",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "5세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950030&pblancNo=2024950030&houseSecd=02",
 		"in_date": "20240609",
 		"hsecd": "02",
@@ -699,6 +741,66 @@
 		"addr_lv1": "서울시",
 		"addr_lv2": "마포구",
 		"apply_nums": "26세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940039&pblancNo=2024940039&houseSecd=11",
+		"in_date": "20240609",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "인천 유림노르웨이숲 에듀오션(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000226&pblancNo=2024000226&houseSecd=01",
+		"in_date": "20240610",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "강변역 센트럴 아이파크",
+		"addr": "서울특별시 광진구 구의동 592-39번지 일원",
+		"short_addr": "서울특별시 광진구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "광진구",
+		"apply_nums": "68세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000215&pblancNo=2024000215&houseSecd=01",
+		"in_date": "20240610",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "무거 비스타동원",
+		"addr": "울산광역시 남구 무거동 822-1번지 일원",
+		"short_addr": "울산광역시 남구",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "481세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000237&pblancNo=2024000237&houseSecd=01",
+		"in_date": "20240610",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "아너스 웰가 진주",
+		"addr": "경상남도 진주시 가좌동 594번지 일원",
+		"short_addr": "경상남도 진주시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "진주시",
+		"apply_nums": "840세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000234&pblancNo=2024000234&houseSecd=01",
+		"in_date": "20240610",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "양정 롯데캐슬 프론티엘",
+		"addr": "부산광역시 부산진구 양정동 64-3번지 일원",
+		"short_addr": "부산광역시 부산진구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "부산진구",
+		"apply_nums": "489세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000238&pblancNo=2024000238&houseSecd=01",
@@ -714,6 +816,19 @@
 		"apply_nums": "34세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950031&pblancNo=2024950031&houseSecd=02",
+		"in_date": "20240610",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "당산역 한강 더로드캐슬",
+		"addr": "서울특별시 영등포구 양평로12가길 6 (당산동6가)",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "5세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950030&pblancNo=2024950030&houseSecd=02",
 		"in_date": "20240610",
 		"hsecd": "02",
@@ -725,5 +840,138 @@
 		"addr_lv1": "서울시",
 		"addr_lv2": "마포구",
 		"apply_nums": "26세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940039&pblancNo=2024940039&houseSecd=11",
+		"in_date": "20240610",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "인천 유림노르웨이숲 에듀오션(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000226&pblancNo=2024000226&houseSecd=01",
+		"in_date": "20240611",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "강변역 센트럴 아이파크",
+		"addr": "서울특별시 광진구 구의동 592-39번지 일원",
+		"short_addr": "서울특별시 광진구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "광진구",
+		"apply_nums": "68세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000215&pblancNo=2024000215&houseSecd=01",
+		"in_date": "20240611",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "무거 비스타동원",
+		"addr": "울산광역시 남구 무거동 822-1번지 일원",
+		"short_addr": "울산광역시 남구",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "481세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000237&pblancNo=2024000237&houseSecd=01",
+		"in_date": "20240611",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "아너스 웰가 진주",
+		"addr": "경상남도 진주시 가좌동 594번지 일원",
+		"short_addr": "경상남도 진주시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "진주시",
+		"apply_nums": "840세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000234&pblancNo=2024000234&houseSecd=01",
+		"in_date": "20240611",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "양정 롯데캐슬 프론티엘",
+		"addr": "부산광역시 부산진구 양정동 64-3번지 일원",
+		"short_addr": "부산광역시 부산진구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "부산진구",
+		"apply_nums": "489세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950031&pblancNo=2024950031&houseSecd=02",
+		"in_date": "20240611",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "당산역 한강 더로드캐슬",
+		"addr": "서울특별시 영등포구 양평로12가길 6 (당산동6가)",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "5세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940039&pblancNo=2024940039&houseSecd=11",
+		"in_date": "20240611",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "인천 유림노르웨이숲 에듀오션(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000226&pblancNo=2024000226&houseSecd=01",
+		"in_date": "20240612",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "강변역 센트럴 아이파크",
+		"addr": "서울특별시 광진구 구의동 592-39번지 일원",
+		"short_addr": "서울특별시 광진구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "광진구",
+		"apply_nums": "68세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000215&pblancNo=2024000215&houseSecd=01",
+		"in_date": "20240612",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "무거 비스타동원",
+		"addr": "울산광역시 남구 무거동 822-1번지 일원",
+		"short_addr": "울산광역시 남구",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "481세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000237&pblancNo=2024000237&houseSecd=01",
+		"in_date": "20240612",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "아너스 웰가 진주",
+		"addr": "경상남도 진주시 가좌동 594번지 일원",
+		"short_addr": "경상남도 진주시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "진주시",
+		"apply_nums": "840세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000234&pblancNo=2024000234&houseSecd=01",
+		"in_date": "20240612",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "양정 롯데캐슬 프론티엘",
+		"addr": "부산광역시 부산진구 양정동 64-3번지 일원",
+		"short_addr": "부산광역시 부산진구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "부산진구",
+		"apply_nums": "489세대"
 	}
 ]
