@@ -690,6 +690,14 @@
 		"apply_nums": "34세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024850012&pblancNo=2024850012&houseSecd=03",
+		"in_date": "20240610",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "서울은평뉴타운 디에트르 더 퍼스트"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950031&pblancNo=2024950031&houseSecd=02",
 		"in_date": "20240610",
 		"hsecd": "02",
@@ -714,6 +722,32 @@
 		"addr_lv1": "서울시",
 		"addr_lv2": "마포구",
 		"apply_nums": "26세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910066&pblancNo=2024910066&houseSecd=04",
+		"in_date": "20240610",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "도봉 금호어울림 리버파크(2차)",
+		"addr": "서울특별시 도봉구 도봉2동 95번지",
+		"short_addr": "서울특별시 도봉구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "도봉구",
+		"apply_nums": "27세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910067&pblancNo=2024910067&houseSecd=04",
+		"in_date": "20240610",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "인천 디에트르 송도 시그니처뷰 (임의공급 1차)",
+		"addr": "인천광역시 연수구 인천타워대로 393 (송도동, 디에트르 송도 시그니처뷰)",
+		"short_addr": "인천광역시 연수구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "연수구",
+		"apply_nums": "3세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940039&pblancNo=2024940039&houseSecd=11",
@@ -826,6 +860,14 @@
 		"addr_lv1": "부산광역시",
 		"addr_lv2": "부산진구",
 		"apply_nums": "489세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024850012&pblancNo=2024850012&houseSecd=03",
+		"in_date": "20240611",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "서울은평뉴타운 디에트르 더 퍼스트"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950031&pblancNo=2024950031&houseSecd=02",
