@@ -761,6 +761,19 @@
 		"apply_nums": "27세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910071&pblancNo=2024910071&houseSecd=04",
+		"in_date": "20240610",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "이안 시그니처 역곡(임의공급 4차)",
+		"addr": "경기도 부천시 괴안동 117번지",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "2세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910067&pblancNo=2024910067&houseSecd=04",
 		"in_date": "20240610",
 		"hsecd": "04",
@@ -772,6 +785,27 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "연수구",
 		"apply_nums": "3세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910072&pblancNo=2024910072&houseSecd=04",
+		"in_date": "20240610",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "청주 흥덕 칸타빌 더뉴(임의공급 5차)",
+		"addr": "충청북도 청주시 흥덕구 강내면 월곡리 82-1 일원",
+		"short_addr": "충청북도 청주시",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "청주시",
+		"apply_nums": "5세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940043&pblancNo=2024940043&houseSecd=11",
+		"in_date": "20240610",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "문수로 금호어울림 더 퍼스트"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940039&pblancNo=2024940039&houseSecd=11",
@@ -912,6 +946,32 @@
 		"short_addr": "서울특별시 영등포구",
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "영등포구",
+		"apply_nums": "5세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910071&pblancNo=2024910071&houseSecd=04",
+		"in_date": "20240611",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "이안 시그니처 역곡(임의공급 4차)",
+		"addr": "경기도 부천시 괴안동 117번지",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "2세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910072&pblancNo=2024910072&houseSecd=04",
+		"in_date": "20240611",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "청주 흥덕 칸타빌 더뉴(임의공급 5차)",
+		"addr": "충청북도 청주시 흥덕구 강내면 월곡리 82-1 일원",
+		"short_addr": "충청북도 청주시",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "청주시",
 		"apply_nums": "5세대"
 	},
 	{
