@@ -800,6 +800,19 @@
 		"apply_nums": "5세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930029&pblancNo=2024930029&houseSecd=06",
+		"in_date": "20240610",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "청량리역 한양수자인 그라시엘",
+		"addr": "서울특별시 동대문구 고산자로32길 78 (용두동, 청량리역한양수자인그라시엘)",
+		"short_addr": "서울특별시 동대문구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "동대문구",
+		"apply_nums": "1세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940043&pblancNo=2024940043&houseSecd=11",
 		"in_date": "20240610",
 		"hsecd": "11",
@@ -1085,5 +1098,31 @@
 		"addr_lv1": "부산광역시",
 		"addr_lv2": "부산진구",
 		"apply_nums": "489세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000246&pblancNo=2024000246&houseSecd=01",
+		"in_date": "20240617",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "서산 테크노밸리 고운하이츠",
+		"addr": "충청남도 서산시 성연면 일람리 서산테크노밸리 A10b, A11b (성연3로 11) ",
+		"short_addr": "충청남도 서산시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "서산시",
+		"apply_nums": "183세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000246&pblancNo=2024000246&houseSecd=01",
+		"in_date": "20240618",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "서산 테크노밸리 고운하이츠",
+		"addr": "충청남도 서산시 성연면 일람리 서산테크노밸리 A10b, A11b (성연3로 11) ",
+		"short_addr": "충청남도 서산시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "서산시",
+		"apply_nums": "183세대"
 	}
 ]
