@@ -1,44 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950031&pblancNo=2024950031&houseSecd=02",
-		"in_date": "20240606",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "당산역 한강 더로드캐슬",
-		"addr": "서울특별시 영등포구 양평로12가길 6 (당산동6가)",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "5세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950030&pblancNo=2024950030&houseSecd=02",
-		"in_date": "20240606",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "에이크로아이트 마포",
-		"addr": "서울시 마포구 공덕동 1-13번지 외 3필지(1-21, 1-15, 3-50번지)",
-		"short_addr": "서울시 마포구",
-		"addr_lv1": "서울시",
-		"addr_lv2": "마포구",
-		"apply_nums": "26세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910065&pblancNo=2024910065&houseSecd=04",
-		"in_date": "20240606",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "세운 푸르지오 헤리시티 아파트 (3차)",
-		"addr": "서울특별시 중구 마른내로 79 (인현동2가, 세운 푸르지오 헤리시티)",
-		"short_addr": "서울특별시 중구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "중구",
-		"apply_nums": "1세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000238&pblancNo=2024000238&houseSecd=01",
 		"in_date": "20240607",
 		"hsecd": "01",
@@ -681,6 +642,22 @@
 		"apply_nums": "26세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940048&pblancNo=2024940048&houseSecd=11",
+		"in_date": "20240612",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "라파르 오뜨 서래"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940045&pblancNo=2024940045&houseSecd=11",
+		"in_date": "20240612",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "엘리프 미아역 2단지(2차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910073&pblancNo=2024910073&houseSecd=04",
 		"in_date": "20240613",
 		"hsecd": "04",
@@ -694,6 +671,46 @@
 		"apply_nums": "26세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940048&pblancNo=2024940048&houseSecd=11",
+		"in_date": "20240613",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "라파르 오뜨 서래"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940045&pblancNo=2024940045&houseSecd=11",
+		"in_date": "20240613",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "엘리프 미아역 2단지(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940048&pblancNo=2024940048&houseSecd=11",
+		"in_date": "20240614",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "라파르 오뜨 서래"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940048&pblancNo=2024940048&houseSecd=11",
+		"in_date": "20240615",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "라파르 오뜨 서래"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940048&pblancNo=2024940048&houseSecd=11",
+		"in_date": "20240616",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "라파르 오뜨 서래"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000213&pblancNo=2024000213&houseSecd=01",
 		"in_date": "20240617",
 		"hsecd": "01",
@@ -772,6 +789,40 @@
 		"apply_nums": "183세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910076&pblancNo=2024910076&houseSecd=04",
+		"in_date": "20240617",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "어반클라쎄목동",
+		"addr": "서울특별시 양천구 신목로2길 7-12 (신정동, 어반클라쎄 목동)",
+		"short_addr": "서울특별시 양천구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "양천구",
+		"apply_nums": "27세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910075&pblancNo=2024910075&houseSecd=04",
+		"in_date": "20240617",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "포레나 평택화양 무순위(임의공급4차)",
+		"addr": "경기도 평택시 현덕면 화양리 평택 화양지구 도시개발사업 7-2BL",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "4세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940048&pblancNo=2024940048&houseSecd=11",
+		"in_date": "20240617",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "라파르 오뜨 서래"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000213&pblancNo=2024000213&houseSecd=01",
 		"in_date": "20240618",
 		"hsecd": "01",
@@ -850,6 +901,14 @@
 		"apply_nums": "183세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940048&pblancNo=2024940048&houseSecd=11",
+		"in_date": "20240618",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "라파르 오뜨 서래"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000213&pblancNo=2024000213&houseSecd=01",
 		"in_date": "20240619",
 		"hsecd": "01",
@@ -913,5 +972,21 @@
 		"addr_lv1": "전라남도",
 		"addr_lv2": "화순군",
 		"apply_nums": "55세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940048&pblancNo=2024940048&houseSecd=11",
+		"in_date": "20240619",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "라파르 오뜨 서래"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940048&pblancNo=2024940048&houseSecd=11",
+		"in_date": "20240620",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "라파르 오뜨 서래"
 	}
 ]
