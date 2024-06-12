@@ -1,47 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950031&pblancNo=2024950031&houseSecd=02",
-		"in_date": "20240609",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "당산역 한강 더로드캐슬",
-		"addr": "서울특별시 영등포구 양평로12가길 6 (당산동6가)",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "5세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950030&pblancNo=2024950030&houseSecd=02",
-		"in_date": "20240609",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "에이크로아이트 마포",
-		"addr": "서울시 마포구 공덕동 1-13번지 외 3필지(1-21, 1-15, 3-50번지)",
-		"short_addr": "서울시 마포구",
-		"addr_lv1": "서울시",
-		"addr_lv2": "마포구",
-		"apply_nums": "26세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940039&pblancNo=2024940039&houseSecd=11",
-		"in_date": "20240609",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "인천 유림노르웨이숲 에듀오션(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940042&pblancNo=2024940042&houseSecd=11",
-		"in_date": "20240609",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "충남내포신도시 디에트르 에듀시티"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000240&pblancNo=2024000240&houseSecd=01",
 		"in_date": "20240610",
 		"hsecd": "01",
@@ -797,6 +755,14 @@
 		"name": "평촌 센텀퍼스트(3차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940050&pblancNo=2024940050&houseSecd=11",
+		"in_date": "20240617",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "화명 플리체 비스타동원"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000213&pblancNo=2024000213&houseSecd=01",
 		"in_date": "20240618",
 		"hsecd": "01",
@@ -901,6 +867,19 @@
 		"apply_nums": "6세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910083&pblancNo=2024910083&houseSecd=04",
+		"in_date": "20240618",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "상도 푸르지오 클라베뉴(임의공급 7차)",
+		"addr": "서울특별시 동작구 상도동 산65-74 번지 일원",
+		"short_addr": "서울특별시 동작구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "동작구",
+		"apply_nums": "38세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910074&pblancNo=2024910074&houseSecd=04",
 		"in_date": "20240618",
 		"hsecd": "04",
@@ -927,12 +906,46 @@
 		"apply_nums": "35세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910081&pblancNo=2024910081&houseSecd=04",
+		"in_date": "20240618",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "화곡 더리브 스카이 주상복합아파트 (임의공급 17차)",
+		"addr": "서울특별시 강서구 화곡동 370-76 외 6필지",
+		"short_addr": "서울특별시 강서구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강서구",
+		"apply_nums": "18세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910080&pblancNo=2024910080&houseSecd=04",
+		"in_date": "20240618",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "화성비봉 공공주택지구 B2블록 호반써밋",
+		"addr": "경기도 화성시 화성비봉 공공택지지구 B2블록",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "2세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940048&pblancNo=2024940048&houseSecd=11",
 		"in_date": "20240618",
 		"hsecd": "11",
 		"rse": "11",
 		"type": "",
 		"name": "라파르 오뜨 서래"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940050&pblancNo=2024940050&houseSecd=11",
+		"in_date": "20240618",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "화명 플리체 비스타동원"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000213&pblancNo=2024000213&houseSecd=01",
