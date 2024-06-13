@@ -1,233 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000240&pblancNo=2024000240&houseSecd=01",
-		"in_date": "20240610",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "e편한세상 범일 국제금융시티",
-		"addr": "부산광역시 동구 범일2동 830-90번지 일원",
-		"short_addr": "부산광역시 동구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "동구",
-		"apply_nums": "384세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000226&pblancNo=2024000226&houseSecd=01",
-		"in_date": "20240610",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "강변역 센트럴 아이파크",
-		"addr": "서울특별시 광진구 구의동 592-39번지 일원",
-		"short_addr": "서울특별시 광진구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "광진구",
-		"apply_nums": "68세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000217&pblancNo=2024000217&houseSecd=01",
-		"in_date": "20240610",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "고덕국제신도시 서한이다음 그레이튼",
-		"addr": "경기도 평택시 고덕동 2394-2",
-		"short_addr": "경기도 평택시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "평택시",
-		"apply_nums": "1138세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000211&pblancNo=2024000211&houseSecd=01",
-		"in_date": "20240610",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "더샵 속초프라임뷰",
-		"addr": "강원특별자치도 속초시 금호동 617-21 외 32필지",
-		"short_addr": "강원특별자치도 속초시",
-		"addr_lv1": "강원특별자치도",
-		"addr_lv2": "속초시",
-		"apply_nums": "1024세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000229&pblancNo=2024000229&houseSecd=01",
-		"in_date": "20240610",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "동래사적공원 대광로제비앙",
-		"addr": "부산광역시 동래구 명륜동 산 36번지 일원",
-		"short_addr": "부산광역시 동래구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "동래구",
-		"apply_nums": "1025세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000237&pblancNo=2024000237&houseSecd=01",
-		"in_date": "20240610",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "아너스 웰가 진주",
-		"addr": "경상남도 진주시 가좌동 594번지 일원",
-		"short_addr": "경상남도 진주시",
-		"addr_lv1": "경상남도",
-		"addr_lv2": "진주시",
-		"apply_nums": "840세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000234&pblancNo=2024000234&houseSecd=01",
-		"in_date": "20240610",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "양정 롯데캐슬 프론티엘",
-		"addr": "부산광역시 부산진구 양정동 64-3번지 일원",
-		"short_addr": "부산광역시 부산진구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "부산진구",
-		"apply_nums": "489세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000238&pblancNo=2024000238&houseSecd=01",
-		"in_date": "20240610",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "지음 시그너스 인 동래",
-		"addr": "부산광역시 동래구 온천동 1250-16번지",
-		"short_addr": "부산광역시 동래구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "동래구",
-		"apply_nums": "34세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024850012&pblancNo=2024850012&houseSecd=03",
-		"in_date": "20240610",
-		"hsecd": "03",
-		"rse": "04",
-		"type": "",
-		"name": "서울은평뉴타운 디에트르 더 퍼스트"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950031&pblancNo=2024950031&houseSecd=02",
-		"in_date": "20240610",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "당산역 한강 더로드캐슬",
-		"addr": "서울특별시 영등포구 양평로12가길 6 (당산동6가)",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "5세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950030&pblancNo=2024950030&houseSecd=02",
-		"in_date": "20240610",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "에이크로아이트 마포",
-		"addr": "서울시 마포구 공덕동 1-13번지 외 3필지(1-21, 1-15, 3-50번지)",
-		"short_addr": "서울시 마포구",
-		"addr_lv1": "서울시",
-		"addr_lv2": "마포구",
-		"apply_nums": "26세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910066&pblancNo=2024910066&houseSecd=04",
-		"in_date": "20240610",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "도봉 금호어울림 리버파크(2차)",
-		"addr": "서울특별시 도봉구 도봉2동 95번지",
-		"short_addr": "서울특별시 도봉구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "도봉구",
-		"apply_nums": "27세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910071&pblancNo=2024910071&houseSecd=04",
-		"in_date": "20240610",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "이안 시그니처 역곡(임의공급 4차)",
-		"addr": "경기도 부천시 괴안동 117번지",
-		"short_addr": "경기도 부천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "부천시",
-		"apply_nums": "2세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910067&pblancNo=2024910067&houseSecd=04",
-		"in_date": "20240610",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "인천 디에트르 송도 시그니처뷰 (임의공급 1차)",
-		"addr": "인천광역시 연수구 인천타워대로 393 (송도동, 디에트르 송도 시그니처뷰)",
-		"short_addr": "인천광역시 연수구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "연수구",
-		"apply_nums": "3세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910072&pblancNo=2024910072&houseSecd=04",
-		"in_date": "20240610",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "청주 흥덕 칸타빌 더뉴(임의공급 5차)",
-		"addr": "충청북도 청주시 흥덕구 강내면 월곡리 82-1 일원",
-		"short_addr": "충청북도 청주시",
-		"addr_lv1": "충청북도",
-		"addr_lv2": "청주시",
-		"apply_nums": "5세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930029&pblancNo=2024930029&houseSecd=06",
-		"in_date": "20240610",
-		"hsecd": "06",
-		"rse": "07",
-		"type": "",
-		"name": "청량리역 한양수자인 그라시엘",
-		"addr": "서울특별시 동대문구 고산자로32길 78 (용두동, 청량리역한양수자인그라시엘)",
-		"short_addr": "서울특별시 동대문구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "동대문구",
-		"apply_nums": "1세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940043&pblancNo=2024940043&houseSecd=11",
-		"in_date": "20240610",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "문수로 금호어울림 더 퍼스트"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940039&pblancNo=2024940039&houseSecd=11",
-		"in_date": "20240610",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "인천 유림노르웨이숲 에듀오션(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940042&pblancNo=2024940042&houseSecd=11",
-		"in_date": "20240610",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "충남내포신도시 디에트르 에듀시티"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000240&pblancNo=2024000240&houseSecd=01",
 		"in_date": "20240611",
 		"hsecd": "01",
 		"rse": "02",
@@ -940,12 +713,28 @@
 		"name": "라파르 오뜨 서래"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940047&pblancNo=2024940047&houseSecd=11",
+		"in_date": "20240618",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "월드메르디앙 송도(2차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940050&pblancNo=2024940050&houseSecd=11",
 		"in_date": "20240618",
 		"hsecd": "11",
 		"rse": "11",
 		"type": "",
 		"name": "화명 플리체 비스타동원"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940051&pblancNo=2024940051&houseSecd=11",
+		"in_date": "20240618",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "휴먼빌 일산 클래스원(2차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000213&pblancNo=2024000213&houseSecd=01",
@@ -1013,6 +802,19 @@
 		"apply_nums": "55세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950039&pblancNo=2024950039&houseSecd=02",
+		"in_date": "20240619",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "대전 해모로 더 센트라",
+		"addr": "대전광역시 중구 선화서로 85 (선화동, 대전해모로더센트라)",
+		"short_addr": "대전광역시 중구",
+		"addr_lv1": "대전광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "18세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950032&pblancNo=2024950032&houseSecd=02",
 		"in_date": "20240619",
 		"hsecd": "02",
@@ -1026,12 +828,46 @@
 		"apply_nums": "55세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910085&pblancNo=2024910085&houseSecd=04",
+		"in_date": "20240619",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "e편한세상 금빛 그랑메종(3차)",
+		"addr": "경기도 성남시 중원구 금광동 34번지 일원",
+		"short_addr": "경기도 성남시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "성남시",
+		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910079&pblancNo=2024910079&houseSecd=04",
+		"in_date": "20240619",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "개봉 루브루",
+		"addr": "서울특별시 구로구 개봉동 369-1, 312-38",
+		"short_addr": "서울특별시 구로구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "구로구",
+		"apply_nums": "102세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940048&pblancNo=2024940048&houseSecd=11",
 		"in_date": "20240619",
 		"hsecd": "11",
 		"rse": "11",
 		"type": "",
 		"name": "라파르 오뜨 서래"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940047&pblancNo=2024940047&houseSecd=11",
+		"in_date": "20240619",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "월드메르디앙 송도(2차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950036&pblancNo=2024950036&houseSecd=02",
@@ -1053,6 +889,14 @@
 		"rse": "11",
 		"type": "",
 		"name": "라파르 오뜨 서래"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940047&pblancNo=2024940047&houseSecd=11",
+		"in_date": "20240620",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "월드메르디앙 송도(2차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000195&pblancNo=2024000195&houseSecd=01",
@@ -1081,6 +925,14 @@
 		"apply_nums": "19세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940047&pblancNo=2024940047&houseSecd=11",
+		"in_date": "20240621",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "월드메르디앙 송도(2차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950036&pblancNo=2024950036&houseSecd=02",
 		"in_date": "20240622",
 		"hsecd": "02",
@@ -1105,6 +957,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "영등포구",
 		"apply_nums": "19세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000245&pblancNo=2024000245&houseSecd=01",
+		"in_date": "20240624",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "동작 보라매역 프리센트",
+		"addr": "서울특별시 동작구 신대방동 377-1번지 외 5필지",
+		"short_addr": "서울특별시 동작구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "동작구",
+		"apply_nums": "91세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000195&pblancNo=2024000195&houseSecd=01",
@@ -1133,6 +998,19 @@
 		"apply_nums": "19세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000245&pblancNo=2024000245&houseSecd=01",
+		"in_date": "20240625",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "동작 보라매역 프리센트",
+		"addr": "서울특별시 동작구 신대방동 377-1번지 외 5필지",
+		"short_addr": "서울특별시 동작구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "동작구",
+		"apply_nums": "91세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000195&pblancNo=2024000195&houseSecd=01",
 		"in_date": "20240625",
 		"hsecd": "01",
@@ -1157,5 +1035,18 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "영등포구",
 		"apply_nums": "19세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000245&pblancNo=2024000245&houseSecd=01",
+		"in_date": "20240626",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "동작 보라매역 프리센트",
+		"addr": "서울특별시 동작구 신대방동 377-1번지 외 5필지",
+		"short_addr": "서울특별시 동작구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "동작구",
+		"apply_nums": "91세대"
 	}
 ]
