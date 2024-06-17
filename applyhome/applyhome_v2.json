@@ -1,22 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940048&pblancNo=2024940048&houseSecd=11",
-		"in_date": "20240614",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "라파르 오뜨 서래"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940049&pblancNo=2024940049&houseSecd=11",
-		"in_date": "20240614",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "평촌 센텀퍼스트(3차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940048&pblancNo=2024940048&houseSecd=11",
 		"in_date": "20240615",
 		"hsecd": "11",
 		"rse": "11",
@@ -567,6 +551,14 @@
 		"name": "라파르 오뜨 서래"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940054&pblancNo=2024940054&houseSecd=11",
+		"in_date": "20240619",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "역북 서희스타힐스 프라임시티(3차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940047&pblancNo=2024940047&houseSecd=11",
 		"in_date": "20240619",
 		"hsecd": "11",
@@ -588,12 +580,28 @@
 		"apply_nums": "19세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940053&pblancNo=2024940053&houseSecd=11",
+		"in_date": "20240620",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "광명 롯데캐슬 시그니처"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940048&pblancNo=2024940048&houseSecd=11",
 		"in_date": "20240620",
 		"hsecd": "11",
 		"rse": "11",
 		"type": "",
 		"name": "라파르 오뜨 서래"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940054&pblancNo=2024940054&houseSecd=11",
+		"in_date": "20240620",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "역북 서희스타힐스 프라임시티(3차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940047&pblancNo=2024940047&houseSecd=11",
@@ -628,6 +636,22 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "영등포구",
 		"apply_nums": "19세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940053&pblancNo=2024940053&houseSecd=11",
+		"in_date": "20240621",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "광명 롯데캐슬 시그니처"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940054&pblancNo=2024940054&houseSecd=11",
+		"in_date": "20240621",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "역북 서희스타힐스 프라임시티(3차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940047&pblancNo=2024940047&houseSecd=11",
@@ -766,6 +790,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "강서구",
 		"apply_nums": "10세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910084&pblancNo=2024910084&houseSecd=04",
+		"in_date": "20240624",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "수유 시그니티(임의공급 2차)",
+		"addr": "서울특별시 강북구 수유동 87-5번지",
+		"short_addr": "서울특별시 강북구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강북구",
+		"apply_nums": "16세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000245&pblancNo=2024000245&houseSecd=01",
