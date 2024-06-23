@@ -1,50 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950036&pblancNo=2024950036&houseSecd=02",
-		"in_date": "20240620",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "파크라움 여의도",
-		"addr": "서울특별시 영등포구 여의도동 17-4",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "19세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940053&pblancNo=2024940053&houseSecd=11",
-		"in_date": "20240620",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "광명 롯데캐슬 시그니처"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940048&pblancNo=2024940048&houseSecd=11",
-		"in_date": "20240620",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "라파르 오뜨 서래"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940054&pblancNo=2024940054&houseSecd=11",
-		"in_date": "20240620",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "역북 서희스타힐스 프라임시티(3차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940047&pblancNo=2024940047&houseSecd=11",
-		"in_date": "20240620",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "월드메르디앙 송도(2차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000195&pblancNo=2024000195&houseSecd=01",
 		"in_date": "20240621",
 		"hsecd": "01",
@@ -511,12 +466,7 @@
 		"hsecd": "02",
 		"rse": "05",
 		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "한강 브루클린하이츠(도시형생활주택)",
-		"addr": "서울특별시 강서구 양천로 744 (염창동)",
-		"short_addr": "서울특별시 강서구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강서구",
-		"apply_nums": "2세대"
+		"name": "한강 브루클린하이츠(도시형생활주택)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950037&pblancNo=2024950037&houseSecd=02",
@@ -732,7 +682,12 @@
 		"hsecd": "01",
 		"rse": "02",
 		"type": "APT 1순위",
-		"name": "마포자이힐스테이트 라첼스"
+		"name": "마포자이힐스테이트 라첼스",
+		"addr": "서울특별시 마포구 공덕동 105-84 일원",
+		"short_addr": "서울특별시 마포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "마포구",
+		"apply_nums": "463세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000302&pblancNo=2024000302&houseSecd=01",
