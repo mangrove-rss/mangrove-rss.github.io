@@ -1,63 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000195&pblancNo=2024000195&houseSecd=01",
-		"in_date": "20240621",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "영동군 매천리 골든렉시움",
-		"addr": "충청북도 영동군 영동읍 매천리 465",
-		"short_addr": "충청북도 영동군",
-		"addr_lv1": "충청북도",
-		"addr_lv2": "영동군",
-		"apply_nums": "35세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950036&pblancNo=2024950036&houseSecd=02",
-		"in_date": "20240621",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "파크라움 여의도",
-		"addr": "서울특별시 영등포구 여의도동 17-4",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "19세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940053&pblancNo=2024940053&houseSecd=11",
-		"in_date": "20240621",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "광명 롯데캐슬 시그니처"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940052&pblancNo=2024940052&houseSecd=11",
-		"in_date": "20240621",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "광명자이힐스테이트SKVIEW(5차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940054&pblancNo=2024940054&houseSecd=11",
-		"in_date": "20240621",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "역북 서희스타힐스 프라임시티(3차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940047&pblancNo=2024940047&houseSecd=11",
-		"in_date": "20240621",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "월드메르디앙 송도(2차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950036&pblancNo=2024950036&houseSecd=02",
 		"in_date": "20240622",
 		"hsecd": "02",
@@ -466,7 +408,12 @@
 		"hsecd": "02",
 		"rse": "05",
 		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "한강 브루클린하이츠(도시형생활주택)"
+		"name": "한강 브루클린하이츠(도시형생활주택)",
+		"addr": "서울특별시 강서구 양천로 744 (염창동)",
+		"short_addr": "서울특별시 강서구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강서구",
+		"apply_nums": "2세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950037&pblancNo=2024950037&houseSecd=02",
