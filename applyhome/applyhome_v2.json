@@ -1,31 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950036&pblancNo=2024950036&houseSecd=02",
-		"in_date": "20240622",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "파크라움 여의도",
-		"addr": "서울특별시 영등포구 여의도동 17-4",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "19세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950036&pblancNo=2024950036&houseSecd=02",
-		"in_date": "20240623",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "파크라움 여의도",
-		"addr": "서울특별시 영등포구 여의도동 17-4",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "19세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000245&pblancNo=2024000245&houseSecd=01",
 		"in_date": "20240624",
 		"hsecd": "01",
@@ -416,6 +390,22 @@
 		"apply_nums": "2세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940056&pblancNo=2024940056&houseSecd=11",
+		"in_date": "20240628",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "양주 옥정 디에트르 프레스티지"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940057&pblancNo=2024940057&houseSecd=11",
+		"in_date": "20240628",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "오산세교2 한신더휴(A16블록)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950037&pblancNo=2024950037&houseSecd=02",
 		"in_date": "20240629",
 		"hsecd": "02",
@@ -427,6 +417,14 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "강서구",
 		"apply_nums": "2세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940056&pblancNo=2024940056&houseSecd=11",
+		"in_date": "20240629",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "양주 옥정 디에트르 프레스티지"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950037&pblancNo=2024950037&houseSecd=02",
@@ -442,6 +440,14 @@
 		"apply_nums": "2세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940056&pblancNo=2024940056&houseSecd=11",
+		"in_date": "20240630",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "양주 옥정 디에트르 프레스티지"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000277&pblancNo=2024000277&houseSecd=01",
 		"in_date": "20240701",
 		"hsecd": "01",
@@ -572,6 +578,27 @@
 		"apply_nums": "2세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910091&pblancNo=2024910091&houseSecd=04",
+		"in_date": "20240701",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "트리우스 광명 (임의공급 2차)",
+		"addr": "경기도 광명시 광명1동 12-2번지 일원",
+		"short_addr": "경기도 광명시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "광명시",
+		"apply_nums": "16세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940056&pblancNo=2024940056&houseSecd=11",
+		"in_date": "20240701",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "양주 옥정 디에트르 프레스티지"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000264&pblancNo=2024000264&houseSecd=01",
 		"in_date": "20240702",
 		"hsecd": "01",
@@ -689,6 +716,71 @@
 		"apply_nums": "85세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910090&pblancNo=2024910090&houseSecd=04",
+		"in_date": "20240702",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "양주 회천신도시 센트럴휴티스",
+		"addr": "경기도 양주시 덕계로 138-32, 센트럴휴티스",
+		"short_addr": "경기도 양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "양주시",
+		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910093&pblancNo=2024910093&houseSecd=04",
+		"in_date": "20240702",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "청주 흥덕 칸타빌 더뉴(임의공급 6차)",
+		"addr": "충청북도 청주시 흥덕구 강내면 월곡리 82-1 일원",
+		"short_addr": "충청북도 청주시",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "청주시",
+		"apply_nums": "3세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910091&pblancNo=2024910091&houseSecd=04",
+		"in_date": "20240702",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "트리우스 광명 (임의공급 2차)",
+		"addr": "경기도 광명시 광명1동 12-2번지 일원",
+		"short_addr": "경기도 광명시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "광명시",
+		"apply_nums": "16세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910089&pblancNo=2024910089&houseSecd=04",
+		"in_date": "20240702",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "포레나 미아(무순위 9차)",
+		"addr": "서울특별시 강북구 솔샘로 265일대(미아동 705-1일원)",
+		"short_addr": "서울특별시 강북구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강북구",
+		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910094&pblancNo=2024910094&houseSecd=04",
+		"in_date": "20240702",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "화곡 더리브 스카이 주상복합아파트 (임의공급 18차)",
+		"addr": "서울특별시 강서구 화곡동 370-76 외 6필지",
+		"short_addr": "서울특별시 강서구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강서구",
+		"apply_nums": "17세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000264&pblancNo=2024000264&houseSecd=01",
 		"in_date": "20240703",
 		"hsecd": "01",
@@ -793,6 +885,19 @@
 		"apply_nums": "84세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910093&pblancNo=2024910093&houseSecd=04",
+		"in_date": "20240703",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "청주 흥덕 칸타빌 더뉴(임의공급 6차)",
+		"addr": "충청북도 청주시 흥덕구 강내면 월곡리 82-1 일원",
+		"short_addr": "충청북도 청주시",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "청주시",
+		"apply_nums": "3세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000264&pblancNo=2024000264&houseSecd=01",
 		"in_date": "20240704",
 		"hsecd": "01",
@@ -804,5 +909,18 @@
 		"addr_lv1": "충청북도",
 		"addr_lv2": "청주시",
 		"apply_nums": "1450세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950040&pblancNo=2024950040&houseSecd=02",
+		"in_date": "20240705",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "상주 더 에스",
+		"addr": "경상북도 상주시 화산동 1086-1번지 일원",
+		"short_addr": "경상북도 상주시",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "상주시",
+		"apply_nums": "84세대"
 	}
 ]
