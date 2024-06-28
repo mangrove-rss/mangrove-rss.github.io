@@ -1,109 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000245&pblancNo=2024000245&houseSecd=01",
-		"in_date": "20240625",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "동작 보라매역 프리센트",
-		"addr": "서울특별시 동작구 신대방동 377-1번지 외 5필지",
-		"short_addr": "서울특별시 동작구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "동작구",
-		"apply_nums": "91세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000260&pblancNo=2024000260&houseSecd=01",
-		"in_date": "20240625",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "롯데캐슬 위너스포레",
-		"addr": "경기도 오산시 양산동 95번지 일원",
-		"short_addr": "경기도 오산시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "오산시",
-		"apply_nums": "834세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000244&pblancNo=2024000244&houseSecd=01",
-		"in_date": "20240625",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "순천그랜드파크자이",
-		"addr": "전라남도 순천시 풍덕동 327-3번지 일원",
-		"short_addr": "전라남도 순천시",
-		"addr_lv1": "전라남도",
-		"addr_lv2": "순천시",
-		"apply_nums": "997세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000242&pblancNo=2024000242&houseSecd=01",
-		"in_date": "20240625",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "힐스테이트 청주센트럴 2차",
-		"addr": "충청북도 청주시 흥덕구 가경동 1416-1번지",
-		"short_addr": "충청북도 청주시",
-		"addr_lv1": "충청북도",
-		"addr_lv2": "청주시",
-		"apply_nums": "258세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000195&pblancNo=2024000195&houseSecd=01",
-		"in_date": "20240625",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "영동군 매천리 골든렉시움",
-		"addr": "충청북도 영동군 영동읍 매천리 465",
-		"short_addr": "충청북도 영동군",
-		"addr_lv1": "충청북도",
-		"addr_lv2": "영동군",
-		"apply_nums": "35세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000293&pblancNo=2024000293&houseSecd=01",
-		"in_date": "20240625",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "철원석미모닝파크",
-		"addr": "강원특별자치도 철원군 갈말읍 군탄리 1752",
-		"short_addr": "강원특별자치도 철원군",
-		"addr_lv1": "강원특별자치도",
-		"addr_lv2": "철원군",
-		"apply_nums": "69세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950036&pblancNo=2024950036&houseSecd=02",
-		"in_date": "20240625",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "파크라움 여의도",
-		"addr": "서울특별시 영등포구 여의도동 17-4",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "19세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950038&pblancNo=2024950038&houseSecd=02",
-		"in_date": "20240625",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "한강 브루클린하이츠(오피스텔)",
-		"addr": "서울특별시 강서구 양천로 744 (염창동)",
-		"short_addr": "서울특별시 강서구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강서구",
-		"apply_nums": "10세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000294&pblancNo=2024000294&houseSecd=01",
 		"in_date": "20240626",
 		"hsecd": "01",
@@ -776,6 +672,19 @@
 		"apply_nums": "3세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930007&pblancNo=2024930007&houseSecd=06",
+		"in_date": "20240703",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "시흥 장현지구 C-2BL 모아미래도 에듀포레",
+		"addr": "경기도 시흥시 장현 공공주택지구 C-2블록",
+		"short_addr": "경기도 시흥시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "시흥시",
+		"apply_nums": "2세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930033&pblancNo=2024930033&houseSecd=06",
 		"in_date": "20240703",
 		"hsecd": "06",
@@ -828,6 +737,19 @@
 		"apply_nums": "84세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000318&pblancNo=2024000318&houseSecd=01",
+		"in_date": "20240708",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "광주 상무 퍼스티넘 스위첸",
+		"addr": "광주광역시 서구 치평동 1208-5번지",
+		"short_addr": "광주광역시 서구",
+		"addr_lv1": "광주광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "226세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000286&pblancNo=2024000286&houseSecd=01",
 		"in_date": "20240708",
 		"hsecd": "01",
@@ -852,6 +774,19 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "연수구",
 		"apply_nums": "50세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000254&pblancNo=2024000254&houseSecd=01",
+		"in_date": "20240708",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "동탄2신도시 동탄역 대방 엘리움 더 시그니처(C18BL)",
+		"addr": "경기도 화성시 오산동 동탄2택지개발지구 C18BL",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "464세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000282&pblancNo=2024000282&houseSecd=01",
@@ -891,6 +826,32 @@
 		"addr_lv1": "울산광역시",
 		"addr_lv2": "울주군",
 		"apply_nums": "212세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000301&pblancNo=2024000301&houseSecd=01",
+		"in_date": "20240708",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "의정부역 파밀리에Ⅱ",
+		"addr": "경기도 의정부시 의정부동 100-1, 100-2번",
+		"short_addr": "경기도 의정부시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "의정부시",
+		"apply_nums": "150세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000214&pblancNo=2024000214&houseSecd=01",
+		"in_date": "20240708",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "파주 운정3 이지더원(A44BL)",
+		"addr": "경기도 파주시 운정3 A44BL(경기도 파주시 동패동, 418번지 일원)",
+		"short_addr": "경기도 파주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "파주시",
+		"apply_nums": "379세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950043&pblancNo=2024950043&houseSecd=02",
@@ -906,6 +867,19 @@
 		"apply_nums": "5세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000318&pblancNo=2024000318&houseSecd=01",
+		"in_date": "20240709",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "광주 상무 퍼스티넘 스위첸",
+		"addr": "광주광역시 서구 치평동 1208-5번지",
+		"short_addr": "광주광역시 서구",
+		"addr_lv1": "광주광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "226세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000286&pblancNo=2024000286&houseSecd=01",
 		"in_date": "20240709",
 		"hsecd": "01",
@@ -930,6 +904,19 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "연수구",
 		"apply_nums": "50세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000254&pblancNo=2024000254&houseSecd=01",
+		"in_date": "20240709",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "동탄2신도시 동탄역 대방 엘리움 더 시그니처(C18BL)",
+		"addr": "경기도 화성시 오산동 동탄2택지개발지구 C18BL",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "464세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000282&pblancNo=2024000282&houseSecd=01",
@@ -969,6 +956,32 @@
 		"addr_lv1": "울산광역시",
 		"addr_lv2": "울주군",
 		"apply_nums": "212세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000301&pblancNo=2024000301&houseSecd=01",
+		"in_date": "20240709",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "의정부역 파밀리에Ⅱ",
+		"addr": "경기도 의정부시 의정부동 100-1, 100-2번",
+		"short_addr": "경기도 의정부시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "의정부시",
+		"apply_nums": "150세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000214&pblancNo=2024000214&houseSecd=01",
+		"in_date": "20240709",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "파주 운정3 이지더원(A44BL)",
+		"addr": "경기도 파주시 운정3 A44BL(경기도 파주시 동패동, 418번지 일원)",
+		"short_addr": "경기도 파주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "파주시",
+		"apply_nums": "379세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950034&pblancNo=2024950034&houseSecd=02",
@@ -984,6 +997,19 @@
 		"apply_nums": "88세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000318&pblancNo=2024000318&houseSecd=01",
+		"in_date": "20240710",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "광주 상무 퍼스티넘 스위첸",
+		"addr": "광주광역시 서구 치평동 1208-5번지",
+		"short_addr": "광주광역시 서구",
+		"addr_lv1": "광주광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "226세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000286&pblancNo=2024000286&houseSecd=01",
 		"in_date": "20240710",
 		"hsecd": "01",
@@ -1008,6 +1034,19 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "연수구",
 		"apply_nums": "50세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000254&pblancNo=2024000254&houseSecd=01",
+		"in_date": "20240710",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "동탄2신도시 동탄역 대방 엘리움 더 시그니처(C18BL)",
+		"addr": "경기도 화성시 오산동 동탄2택지개발지구 C18BL",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "464세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000282&pblancNo=2024000282&houseSecd=01",
@@ -1047,6 +1086,32 @@
 		"addr_lv1": "울산광역시",
 		"addr_lv2": "울주군",
 		"apply_nums": "212세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000301&pblancNo=2024000301&houseSecd=01",
+		"in_date": "20240710",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "의정부역 파밀리에Ⅱ",
+		"addr": "경기도 의정부시 의정부동 100-1, 100-2번",
+		"short_addr": "경기도 의정부시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "의정부시",
+		"apply_nums": "150세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000214&pblancNo=2024000214&houseSecd=01",
+		"in_date": "20240710",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "파주 운정3 이지더원(A44BL)",
+		"addr": "경기도 파주시 운정3 A44BL(경기도 파주시 동패동, 418번지 일원)",
+		"short_addr": "경기도 파주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "파주시",
+		"apply_nums": "379세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950034&pblancNo=2024950034&houseSecd=02",
