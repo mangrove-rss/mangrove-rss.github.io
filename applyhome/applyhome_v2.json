@@ -1,102 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000294&pblancNo=2024000294&houseSecd=01",
-		"in_date": "20240627",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "동해석미모닝파크",
-		"addr": "강원특별자치도 동해시 쇄운동 1099",
-		"short_addr": "강원특별자치도 동해시",
-		"addr_lv1": "강원특별자치도",
-		"addr_lv2": "동해시",
-		"apply_nums": "79세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910088&pblancNo=2024910088&houseSecd=04",
-		"in_date": "20240627",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "관저 푸르지오 센트럴파크 2단지(임의공급 3차)",
-		"addr": "대전광역시 서구 계백지구 도시개발사업구역 공동주택용지 A2블럭 (가수원동 산 16-119번지 일원)",
-		"short_addr": "대전광역시 서구",
-		"addr_lv1": "대전광역시",
-		"addr_lv2": "서구",
-		"apply_nums": "23세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950037&pblancNo=2024950037&houseSecd=02",
-		"in_date": "20240628",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "한강 브루클린하이츠(도시형생활주택)",
-		"addr": "서울특별시 강서구 양천로 744 (염창동)",
-		"short_addr": "서울특별시 강서구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강서구",
-		"apply_nums": "2세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940056&pblancNo=2024940056&houseSecd=11",
-		"in_date": "20240628",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "양주 옥정 디에트르 프레스티지"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940057&pblancNo=2024940057&houseSecd=11",
-		"in_date": "20240628",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "오산세교2 한신더휴(A16블록)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950037&pblancNo=2024950037&houseSecd=02",
-		"in_date": "20240629",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "한강 브루클린하이츠(도시형생활주택)",
-		"addr": "서울특별시 강서구 양천로 744 (염창동)",
-		"short_addr": "서울특별시 강서구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강서구",
-		"apply_nums": "2세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940056&pblancNo=2024940056&houseSecd=11",
-		"in_date": "20240629",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "양주 옥정 디에트르 프레스티지"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950037&pblancNo=2024950037&houseSecd=02",
-		"in_date": "20240630",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "한강 브루클린하이츠(도시형생활주택)",
-		"addr": "서울특별시 강서구 양천로 744 (염창동)",
-		"short_addr": "서울특별시 강서구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강서구",
-		"apply_nums": "2세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940056&pblancNo=2024940056&houseSecd=11",
-		"in_date": "20240630",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "양주 옥정 디에트르 프레스티지"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000277&pblancNo=2024000277&houseSecd=01",
 		"in_date": "20240701",
 		"hsecd": "01",
@@ -763,6 +666,27 @@
 		"apply_nums": "5세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930031&pblancNo=2024930031&houseSecd=06",
+		"in_date": "20240708",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "위례자이 더 시티",
+		"addr": "경기도 성남시 수정구 창곡동 512 공공주택지구내 위례 A2-6블록",
+		"short_addr": "경기도 성남시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "성남시",
+		"apply_nums": "8세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940058&pblancNo=2024940058&houseSecd=11",
+		"in_date": "20240708",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "의정부역 파밀리에Ⅰ"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000318&pblancNo=2024000318&houseSecd=01",
 		"in_date": "20240709",
 		"hsecd": "01",
@@ -893,6 +817,14 @@
 		"apply_nums": "88세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940058&pblancNo=2024940058&houseSecd=11",
+		"in_date": "20240709",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "의정부역 파밀리에Ⅰ"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000318&pblancNo=2024000318&houseSecd=01",
 		"in_date": "20240710",
 		"hsecd": "01",
@@ -1021,6 +953,32 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "화성시",
 		"apply_nums": "88세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950044&pblancNo=2024950044&houseSecd=02",
+		"in_date": "20240711",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "신길AK푸르지오",
+		"addr": "서울특별시 영등포구 신길동 255-9번지 일원",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "30세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950044&pblancNo=2024950044&houseSecd=02",
+		"in_date": "20240712",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "신길AK푸르지오",
+		"addr": "서울특별시 영등포구 신길동 255-9번지 일원",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "30세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000285&pblancNo=2024000285&houseSecd=01",
