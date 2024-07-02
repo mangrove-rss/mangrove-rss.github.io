@@ -536,6 +536,14 @@
 		"apply_nums": "84세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940060&pblancNo=2024940060&houseSecd=11",
+		"in_date": "20240705",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "서대문 센트럴 아이파크"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000318&pblancNo=2024000318&houseSecd=01",
 		"in_date": "20240708",
 		"hsecd": "01",
@@ -653,6 +661,14 @@
 		"apply_nums": "379세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024850014&pblancNo=2024850014&houseSecd=03",
+		"in_date": "20240708",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "성산 삼정그린코아 웰레스트"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950043&pblancNo=2024950043&houseSecd=02",
 		"in_date": "20240708",
 		"hsecd": "02",
@@ -664,6 +680,32 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "동대문구",
 		"apply_nums": "5세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910097&pblancNo=2024910097&houseSecd=04",
+		"in_date": "20240708",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "남구로역 동일 센타시아(임의공급 13차)",
+		"addr": "서울특별시 구로구 가리봉동 113-1번지 일원",
+		"short_addr": "서울특별시 구로구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "구로구",
+		"apply_nums": "6세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910095&pblancNo=2024910095&houseSecd=04",
+		"in_date": "20240708",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "중앙하이츠 강동(임의공급 9차)",
+		"addr": "서울특별시 강동구 길동 415-5번지",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "27세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930031&pblancNo=2024930031&houseSecd=06",
@@ -815,6 +857,32 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "화성시",
 		"apply_nums": "88세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910097&pblancNo=2024910097&houseSecd=04",
+		"in_date": "20240709",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "남구로역 동일 센타시아(임의공급 13차)",
+		"addr": "서울특별시 구로구 가리봉동 113-1번지 일원",
+		"short_addr": "서울특별시 구로구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "구로구",
+		"apply_nums": "6세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910095&pblancNo=2024910095&houseSecd=04",
+		"in_date": "20240709",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "중앙하이츠 강동(임의공급 9차)",
+		"addr": "서울특별시 강동구 길동 415-5번지",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "27세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940058&pblancNo=2024940058&houseSecd=11",
