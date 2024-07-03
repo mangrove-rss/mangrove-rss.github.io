@@ -846,6 +846,14 @@
 		"apply_nums": "379세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024850015&pblancNo=2024850015&houseSecd=03",
+		"in_date": "20240709",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "서울은평뉴타운 디에트르 더 퍼스트"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950034&pblancNo=2024950034&houseSecd=02",
 		"in_date": "20240709",
 		"hsecd": "02",
@@ -872,6 +880,32 @@
 		"apply_nums": "6세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910099&pblancNo=2024910099&houseSecd=04",
+		"in_date": "20240709",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "상도 푸르지오 클라베뉴(임의공급 8차)",
+		"addr": "서울특별시 동작구 상도동 산65-74 번지 일원",
+		"short_addr": "서울특별시 동작구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "동작구",
+		"apply_nums": "14세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910082&pblancNo=2024910082&houseSecd=04",
+		"in_date": "20240709",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "송도국제도시 F20-1블록 더샵 송도프라임뷰",
+		"addr": "인천광역시 연수구 송도동 109, 109-2번지(F20-1BL)",
+		"short_addr": "인천광역시 연수구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "연수구",
+		"apply_nums": "2세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910095&pblancNo=2024910095&houseSecd=04",
 		"in_date": "20240709",
 		"hsecd": "04",
@@ -883,6 +917,32 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "강동구",
 		"apply_nums": "27세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910096&pblancNo=2024910096&houseSecd=04",
+		"in_date": "20240709",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "호반써밋 개봉 무순위(사후)3차",
+		"addr": "서울특별시 구로구 개봉동 68-64번지 일대",
+		"short_addr": "서울특별시 구로구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "구로구",
+		"apply_nums": "11세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930035&pblancNo=2024930035&houseSecd=06",
+		"in_date": "20240709",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "송도국제도시 F19-1블록 더샵 송도센터니얼",
+		"addr": "인천광역시 연수구 송도동 105-2번지 (F19-1블록)",
+		"short_addr": "인천광역시 연수구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "연수구",
+		"apply_nums": "3세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940058&pblancNo=2024940058&houseSecd=11",
@@ -1010,6 +1070,14 @@
 		"apply_nums": "379세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024850015&pblancNo=2024850015&houseSecd=03",
+		"in_date": "20240710",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "서울은평뉴타운 디에트르 더 퍼스트"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950034&pblancNo=2024950034&houseSecd=02",
 		"in_date": "20240710",
 		"hsecd": "02",
@@ -1021,6 +1089,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "화성시",
 		"apply_nums": "88세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930035&pblancNo=2024930035&houseSecd=06",
+		"in_date": "20240710",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "송도국제도시 F19-1블록 더샵 송도센터니얼",
+		"addr": "인천광역시 연수구 송도동 105-2번지 (F19-1블록)",
+		"short_addr": "인천광역시 연수구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "연수구",
+		"apply_nums": "3세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950044&pblancNo=2024950044&houseSecd=02",
