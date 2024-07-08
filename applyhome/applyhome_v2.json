@@ -1,26 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950040&pblancNo=2024950040&houseSecd=02",
-		"in_date": "20240705",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "상주 더 에스",
-		"addr": "경상북도 상주시 화산동 1086-1번지 일원",
-		"short_addr": "경상북도 상주시",
-		"addr_lv1": "경상북도",
-		"addr_lv2": "상주시",
-		"apply_nums": "84세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940060&pblancNo=2024940060&houseSecd=11",
-		"in_date": "20240705",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "서대문 센트럴 아이파크"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000318&pblancNo=2024000318&houseSecd=01",
 		"in_date": "20240708",
 		"hsecd": "01",
@@ -151,12 +130,7 @@
 		"hsecd": "02",
 		"rse": "05",
 		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "이문 월드메르디앙 힐트리움 더 테라스",
-		"addr": "서울특별시 동대문구 이문동 348-11, 348-12번지",
-		"short_addr": "서울특별시 동대문구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "동대문구",
-		"apply_nums": "5세대"
+		"name": "이문 월드메르디앙 힐트리움 더 테라스"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910097&pblancNo=2024910097&houseSecd=04",
@@ -678,12 +652,7 @@
 		"hsecd": "01",
 		"rse": "01",
 		"type": "APT 특별공급",
-		"name": "명남더블레스",
-		"addr": "경기도 의정부시 의정부동 29-4번지",
-		"short_addr": "경기도 의정부시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "의정부시",
-		"apply_nums": "64세대"
+		"name": "명남더블레스"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000285&pblancNo=2024000285&houseSecd=01",
