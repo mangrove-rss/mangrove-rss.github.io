@@ -130,7 +130,12 @@
 		"hsecd": "02",
 		"rse": "05",
 		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "이문 월드메르디앙 힐트리움 더 테라스"
+		"name": "이문 월드메르디앙 힐트리움 더 테라스",
+		"addr": "서울특별시 동대문구 이문동 348-11, 348-12번지",
+		"short_addr": "서울특별시 동대문구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "동대문구",
+		"apply_nums": "5세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910097&pblancNo=2024910097&houseSecd=04",
@@ -623,6 +628,14 @@
 		"apply_nums": "30세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940062&pblancNo=2024940062&houseSecd=11",
+		"in_date": "20240712",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "역북 서희스타힐스 프라임시티(4차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940061&pblancNo=2024940061&houseSecd=11",
 		"in_date": "20240712",
 		"hsecd": "11",
@@ -631,12 +644,28 @@
 		"name": "인천 유림노르웨이숲 에듀오션(3차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940062&pblancNo=2024940062&houseSecd=11",
+		"in_date": "20240713",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "역북 서희스타힐스 프라임시티(4차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940061&pblancNo=2024940061&houseSecd=11",
 		"in_date": "20240713",
 		"hsecd": "11",
 		"rse": "11",
 		"type": "",
 		"name": "인천 유림노르웨이숲 에듀오션(3차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940062&pblancNo=2024940062&houseSecd=11",
+		"in_date": "20240714",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "역북 서희스타힐스 프라임시티(4차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940061&pblancNo=2024940061&houseSecd=11",
@@ -652,7 +681,12 @@
 		"hsecd": "01",
 		"rse": "01",
 		"type": "APT 특별공급",
-		"name": "명남더블레스"
+		"name": "명남더블레스",
+		"addr": "경기도 의정부시 의정부동 29-4번지",
+		"short_addr": "경기도 의정부시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "의정부시",
+		"apply_nums": "64세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000285&pblancNo=2024000285&houseSecd=01",
@@ -692,6 +726,66 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "성북구",
 		"apply_nums": "718세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910101&pblancNo=2024910101&houseSecd=04",
+		"in_date": "20240715",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "e편한세상 제물포역 파크메종 (임의공급1차)",
+		"addr": "인천광역시 미추홀구 숭의동 18번지 일대",
+		"short_addr": "인천광역시 미추홀구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "미추홀구",
+		"apply_nums": "15세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910092&pblancNo=2024910092&houseSecd=04",
+		"in_date": "20240715",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "오산세교2지구 A-13블록 호반써밋",
+		"addr": "경기도 오산시 오산세교2지구 A13블록",
+		"short_addr": "경기도 오산시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "오산시",
+		"apply_nums": "2세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910100&pblancNo=2024910100&houseSecd=04",
+		"in_date": "20240715",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "힐스테이트 환호공원 1블록(임의공급 1차)",
+		"addr": "경상북도 포항시 북구 양덕동 산261일원",
+		"short_addr": "경상북도 포항시",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "포항시",
+		"apply_nums": "98세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930040&pblancNo=2024930040&houseSecd=06",
+		"in_date": "20240715",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "별내자이 더 스타",
+		"addr": "경기도 남양주시 별내동 999번지(남양주 별내 택지개발사업지구 복합1)",
+		"short_addr": "경기도 남양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "남양주시",
+		"apply_nums": "3세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940062&pblancNo=2024940062&houseSecd=11",
+		"in_date": "20240715",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "역북 서희스타힐스 프라임시티(4차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940061&pblancNo=2024940061&houseSecd=11",
@@ -754,6 +848,22 @@
 		"apply_nums": "718세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024850013&pblancNo=2024850013&houseSecd=03",
+		"in_date": "20240716",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "CIC(창조혁신캠퍼스)성사"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940062&pblancNo=2024940062&houseSecd=11",
+		"in_date": "20240716",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "역북 서희스타힐스 프라임시티(4차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000349&pblancNo=2024000349&houseSecd=01",
 		"in_date": "20240717",
 		"hsecd": "01",
@@ -804,5 +914,21 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "성북구",
 		"apply_nums": "718세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024850013&pblancNo=2024850013&houseSecd=03",
+		"in_date": "20240717",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "CIC(창조혁신캠퍼스)성사"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024850013&pblancNo=2024850013&houseSecd=03",
+		"in_date": "20240718",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "CIC(창조혁신캠퍼스)성사"
 	}
 ]
