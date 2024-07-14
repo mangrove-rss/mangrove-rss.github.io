@@ -1,27 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950044&pblancNo=2024950044&houseSecd=02",
-		"in_date": "20240711",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "신길AK푸르지오",
-		"addr": "서울특별시 영등포구 신길동 255-9번지 일원",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "30세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940061&pblancNo=2024940061&houseSecd=11",
-		"in_date": "20240711",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "인천 유림노르웨이숲 에듀오션(3차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950044&pblancNo=2024950044&houseSecd=02",
 		"in_date": "20240712",
 		"hsecd": "02",
 		"rse": "05",
@@ -497,6 +476,45 @@
 		"apply_nums": "38세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910108&pblancNo=2024910108&houseSecd=04",
+		"in_date": "20240722",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "어반클라쎄목동(2차)",
+		"addr": "서울특별시 양천구 신목로2길 7-12 (신정동, 어반클라쎄 목동)",
+		"short_addr": "서울특별시 양천구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "양천구",
+		"apply_nums": "19세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910105&pblancNo=2024910105&houseSecd=04",
+		"in_date": "20240722",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "용인 에버랜드역 칸타빌 무순위(임의공급 1차)",
+		"addr": "경기도 용인시 처인구 포곡읍 전대리 192-2외 5필지",
+		"short_addr": "경기도 용인시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "용인시",
+		"apply_nums": "30세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910109&pblancNo=2024910109&houseSecd=04",
+		"in_date": "20240722",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "포레나 평택화양 무순위(임의공급 5차)",
+		"addr": "경기도 평택시 현덕면 화양리 평택 화양지구 도시개발사업 7-2BL",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "4세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000278&pblancNo=2024000278&houseSecd=01",
 		"in_date": "20240723",
 		"hsecd": "01",
@@ -560,6 +578,19 @@
 		"addr_lv1": "경상남도",
 		"addr_lv2": "고성군",
 		"apply_nums": "38세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910108&pblancNo=2024910108&houseSecd=04",
+		"in_date": "20240723",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "어반클라쎄목동(2차)",
+		"addr": "서울특별시 양천구 신목로2길 7-12 (신정동, 어반클라쎄 목동)",
+		"short_addr": "서울특별시 양천구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "양천구",
+		"apply_nums": "19세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000278&pblancNo=2024000278&houseSecd=01",
