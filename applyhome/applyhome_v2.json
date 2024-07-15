@@ -1,34 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950044&pblancNo=2024950044&houseSecd=02",
-		"in_date": "20240712",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "신길AK푸르지오",
-		"addr": "서울특별시 영등포구 신길동 255-9번지 일원",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "30세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940062&pblancNo=2024940062&houseSecd=11",
-		"in_date": "20240712",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "역북 서희스타힐스 프라임시티(4차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940061&pblancNo=2024940061&houseSecd=11",
-		"in_date": "20240712",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "인천 유림노르웨이숲 에듀오션(3차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940062&pblancNo=2024940062&houseSecd=11",
 		"in_date": "20240713",
 		"hsecd": "11",
@@ -476,6 +447,19 @@
 		"apply_nums": "38세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910098&pblancNo=2024910098&houseSecd=04",
+		"in_date": "20240722",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "세종 리첸시아 파밀리에 H3블록(산울마을6단지) (무순위1차)",
+		"addr": "행정중심복합도시 6-3생활권 H3블록(세종특별자치시 산울동 일원)",
+		"short_addr": "행정중심복합도시 6-3생활권",
+		"addr_lv1": "행정중심복합도시",
+		"addr_lv2": "6-3생활권",
+		"apply_nums": "2세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910108&pblancNo=2024910108&houseSecd=04",
 		"in_date": "20240722",
 		"hsecd": "04",
@@ -513,6 +497,32 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "평택시",
 		"apply_nums": "4세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930038&pblancNo=2024930038&houseSecd=06",
+		"in_date": "20240722",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "세종 리첸시아파밀리에 H2블록(산울마을7단지)",
+		"addr": "행정중심복합도시 6-3생활권 H2블록(세종특별자치시 산울동 일원)",
+		"short_addr": "행정중심복합도시 6-3생활권",
+		"addr_lv1": "행정중심복합도시",
+		"addr_lv2": "6-3생활권",
+		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930039&pblancNo=2024930039&houseSecd=06",
+		"in_date": "20240722",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "세종 리첸시아파밀리에 H3블록(산울마을6단지)",
+		"addr": "행정중심복합도시 6-3생활권 H3블록(세종특별자치시 산울동 일원)",
+		"short_addr": "행정중심복합도시 6-3생활권",
+		"addr_lv1": "행정중심복합도시",
+		"addr_lv2": "6-3생활권",
+		"apply_nums": "1세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000278&pblancNo=2024000278&houseSecd=01",
