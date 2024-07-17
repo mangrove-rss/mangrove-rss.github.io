@@ -1,37 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940062&pblancNo=2024940062&houseSecd=11",
-		"in_date": "20240713",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "역북 서희스타힐스 프라임시티(4차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940061&pblancNo=2024940061&houseSecd=11",
-		"in_date": "20240713",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "인천 유림노르웨이숲 에듀오션(3차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940062&pblancNo=2024940062&houseSecd=11",
-		"in_date": "20240714",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "역북 서희스타힐스 프라임시티(4차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940061&pblancNo=2024940061&houseSecd=11",
-		"in_date": "20240714",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "인천 유림노르웨이숲 에듀오션(3차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000349&pblancNo=2024000349&houseSecd=01",
 		"in_date": "20240715",
 		"hsecd": "01",
@@ -447,6 +415,32 @@
 		"apply_nums": "38세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950046&pblancNo=2024950046&houseSecd=02",
+		"in_date": "20240722",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "잠실역 웰리지더테라스",
+		"addr": "서울특별시 송파구 올림픽로34길 5-14 (방이동)",
+		"short_addr": "서울특별시 송파구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "송파구",
+		"apply_nums": "9세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910110&pblancNo=2024910110&houseSecd=04",
+		"in_date": "20240722",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "부천 원종 길성그랑프리텔(12차)",
+		"addr": "경기도 부천시 오정구 원종동 284-3번지 길성그랑프리텔",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "5세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910098&pblancNo=2024910098&houseSecd=04",
 		"in_date": "20240722",
 		"hsecd": "04",
@@ -458,6 +452,19 @@
 		"addr_lv1": "행정중심복합도시",
 		"addr_lv2": "6-3생활권",
 		"apply_nums": "2세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910112&pblancNo=2024910112&houseSecd=04",
+		"in_date": "20240722",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "수유 시그니티(임의공급 3차)",
+		"addr": "서울특별시 강북구 수유동 87-5번지",
+		"short_addr": "서울특별시 강북구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강북구",
+		"apply_nums": "13세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910108&pblancNo=2024910108&houseSecd=04",
@@ -499,6 +506,19 @@
 		"apply_nums": "4세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910113&pblancNo=2024910113&houseSecd=04",
+		"in_date": "20240722",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "효성해링턴 플레이스 목감역(무순위 4차)",
+		"addr": "경기도 시흥시 논곡동 378",
+		"short_addr": "경기도 시흥시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "시흥시",
+		"apply_nums": "14세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930038&pblancNo=2024930038&houseSecd=06",
 		"in_date": "20240722",
 		"hsecd": "06",
@@ -523,6 +543,14 @@
 		"addr_lv1": "행정중심복합도시",
 		"addr_lv2": "6-3생활권",
 		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940066&pblancNo=2024940066&houseSecd=11",
+		"in_date": "20240722",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "염창역 동문디이스트"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000278&pblancNo=2024000278&houseSecd=01",
@@ -590,6 +618,45 @@
 		"apply_nums": "38세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950046&pblancNo=2024950046&houseSecd=02",
+		"in_date": "20240723",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "잠실역 웰리지더테라스",
+		"addr": "서울특별시 송파구 올림픽로34길 5-14 (방이동)",
+		"short_addr": "서울특별시 송파구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "송파구",
+		"apply_nums": "9세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910114&pblancNo=2024910114&houseSecd=04",
+		"in_date": "20240723",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "삼익 더 랩소디",
+		"addr": "서울특별시 강서구 내발산동766",
+		"short_addr": "서울특별시 강서구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강서구",
+		"apply_nums": "16세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910111&pblancNo=2024910111&houseSecd=04",
+		"in_date": "20240723",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "서대문 센트럴 아이파크(임의공급 1차)",
+		"addr": "서울특별시 서대문구 홍은동 11-111번지 일원",
+		"short_addr": "서울특별시 서대문구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "서대문구",
+		"apply_nums": "94세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910108&pblancNo=2024910108&houseSecd=04",
 		"in_date": "20240723",
 		"hsecd": "04",
@@ -601,6 +668,40 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "양천구",
 		"apply_nums": "19세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910102&pblancNo=2024910102&houseSecd=04",
+		"in_date": "20240723",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "판교밸리자이 1단지",
+		"addr": "경기도 성남시 수정구 고등동 대왕판교로 995",
+		"short_addr": "경기도 성남시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "성남시",
+		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910106&pblancNo=2024910106&houseSecd=04",
+		"in_date": "20240723",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "포레나 인천학익(임의공급 6차)",
+		"addr": "인천광역시 미추홀구 학익2동 290-1번지 일대",
+		"short_addr": "인천광역시 미추홀구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "미추홀구",
+		"apply_nums": "30세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940066&pblancNo=2024940066&houseSecd=11",
+		"in_date": "20240723",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "염창역 동문디이스트"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000278&pblancNo=2024000278&houseSecd=01",
@@ -653,5 +754,44 @@
 		"addr_lv1": "대전광역시",
 		"addr_lv2": "유성구",
 		"apply_nums": "1222세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910114&pblancNo=2024910114&houseSecd=04",
+		"in_date": "20240724",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "삼익 더 랩소디",
+		"addr": "서울특별시 강서구 내발산동766",
+		"short_addr": "서울특별시 강서구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강서구",
+		"apply_nums": "16세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910106&pblancNo=2024910106&houseSecd=04",
+		"in_date": "20240724",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "포레나 인천학익(임의공급 6차)",
+		"addr": "인천광역시 미추홀구 학익2동 290-1번지 일대",
+		"short_addr": "인천광역시 미추홀구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "미추홀구",
+		"apply_nums": "30세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910114&pblancNo=2024910114&houseSecd=04",
+		"in_date": "20240725",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "삼익 더 랩소디",
+		"addr": "서울특별시 강서구 내발산동766",
+		"short_addr": "서울특별시 강서구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강서구",
+		"apply_nums": "16세대"
 	}
 ]
