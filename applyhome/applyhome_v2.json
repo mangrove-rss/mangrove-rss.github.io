@@ -1,82 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000349&pblancNo=2024000349&houseSecd=01",
-		"in_date": "20240716",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "명남더블레스",
-		"addr": "경기도 의정부시 의정부동 29-4번지",
-		"short_addr": "경기도 의정부시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "의정부시",
-		"apply_nums": "64세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000285&pblancNo=2024000285&houseSecd=01",
-		"in_date": "20240716",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "원주 세경5차아파트",
-		"addr": "강원특별자치도 원주시 단구로 412 (단구동)",
-		"short_addr": "강원특별자치도 원주시",
-		"addr_lv1": "강원특별자치도",
-		"addr_lv2": "원주시",
-		"apply_nums": "177세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000316&pblancNo=2024000316&houseSecd=01",
-		"in_date": "20240716",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "킹덤시티주상복합",
-		"addr": "경기도 화성시 비봉면 양노리 264-17",
-		"short_addr": "경기도 화성시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "화성시",
-		"apply_nums": "96세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000284&pblancNo=2024000284&houseSecd=01",
-		"in_date": "20240716",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "푸르지오 라디우스 파크",
-		"addr": "서울특별시 성북구 장위동 25-55번지 일대",
-		"short_addr": "서울특별시 성북구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "성북구",
-		"apply_nums": "718세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024850013&pblancNo=2024850013&houseSecd=03",
-		"in_date": "20240716",
-		"hsecd": "03",
-		"rse": "04",
-		"type": "",
-		"name": "CIC(창조혁신캠퍼스)성사"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940062&pblancNo=2024940062&houseSecd=11",
-		"in_date": "20240716",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "역북 서희스타힐스 프라임시티(4차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940065&pblancNo=2024940065&houseSecd=11",
-		"in_date": "20240716",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "평촌 센텀퍼스트(4차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000349&pblancNo=2024000349&houseSecd=01",
 		"in_date": "20240717",
 		"hsecd": "01",
 		"rse": "03",
@@ -722,6 +646,45 @@
 		"apply_nums": "292세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000350&pblancNo=2024000350&houseSecd=01",
+		"in_date": "20240729",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "원주 모아엘가 그랑데",
+		"addr": "강원특별자치도 원주시 단구동 531-8번지 일원",
+		"short_addr": "강원특별자치도 원주시",
+		"addr_lv1": "강원특별자치도",
+		"addr_lv2": "원주시",
+		"apply_nums": "281세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000330&pblancNo=2024000330&houseSecd=01",
+		"in_date": "20240729",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "진위역 서희스타힐스 더 파크뷰",
+		"addr": "경기도 평택시 진위면 갈곶리 239-60번지 일원",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "82세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000356&pblancNo=2024000356&houseSecd=01",
+		"in_date": "20240729",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "춘천 아테라 에듀파크",
+		"addr": "강원특별자치도 춘천시 동면 만천리 770-6번지 일원",
+		"short_addr": "강원특별자치도 춘천시",
+		"addr_lv1": "강원특별자치도",
+		"addr_lv2": "춘천시",
+		"apply_nums": "477세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000355&pblancNo=2024000355&houseSecd=01",
 		"in_date": "20240730",
 		"hsecd": "01",
@@ -735,6 +698,45 @@
 		"apply_nums": "292세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000350&pblancNo=2024000350&houseSecd=01",
+		"in_date": "20240730",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "원주 모아엘가 그랑데",
+		"addr": "강원특별자치도 원주시 단구동 531-8번지 일원",
+		"short_addr": "강원특별자치도 원주시",
+		"addr_lv1": "강원특별자치도",
+		"addr_lv2": "원주시",
+		"apply_nums": "281세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000330&pblancNo=2024000330&houseSecd=01",
+		"in_date": "20240730",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "진위역 서희스타힐스 더 파크뷰",
+		"addr": "경기도 평택시 진위면 갈곶리 239-60번지 일원",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "82세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000356&pblancNo=2024000356&houseSecd=01",
+		"in_date": "20240730",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "춘천 아테라 에듀파크",
+		"addr": "강원특별자치도 춘천시 동면 만천리 770-6번지 일원",
+		"short_addr": "강원특별자치도 춘천시",
+		"addr_lv1": "강원특별자치도",
+		"addr_lv2": "춘천시",
+		"apply_nums": "477세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000355&pblancNo=2024000355&houseSecd=01",
 		"in_date": "20240731",
 		"hsecd": "01",
@@ -746,6 +748,45 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "서초구",
 		"apply_nums": "292세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000350&pblancNo=2024000350&houseSecd=01",
+		"in_date": "20240731",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "원주 모아엘가 그랑데",
+		"addr": "강원특별자치도 원주시 단구동 531-8번지 일원",
+		"short_addr": "강원특별자치도 원주시",
+		"addr_lv1": "강원특별자치도",
+		"addr_lv2": "원주시",
+		"apply_nums": "281세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000330&pblancNo=2024000330&houseSecd=01",
+		"in_date": "20240731",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "진위역 서희스타힐스 더 파크뷰",
+		"addr": "경기도 평택시 진위면 갈곶리 239-60번지 일원",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "82세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000356&pblancNo=2024000356&houseSecd=01",
+		"in_date": "20240731",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "춘천 아테라 에듀파크",
+		"addr": "강원특별자치도 춘천시 동면 만천리 770-6번지 일원",
+		"short_addr": "강원특별자치도 춘천시",
+		"addr_lv1": "강원특별자치도",
+		"addr_lv2": "춘천시",
+		"apply_nums": "477세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000355&pblancNo=2024000355&houseSecd=01",
