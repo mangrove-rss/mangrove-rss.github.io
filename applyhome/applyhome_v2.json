@@ -1,52 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024850013&pblancNo=2024850013&houseSecd=03",
-		"in_date": "20240718",
-		"hsecd": "03",
-		"rse": "04",
-		"type": "",
-		"name": "CIC(창조혁신캠퍼스)성사"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910103&pblancNo=2024910103&houseSecd=04",
-		"in_date": "20240718",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "관저 푸르지오 센트럴파크 2단지(임의공급 4차)",
-		"addr": "대전광역시 서구 계백지구 도시개발사업구역 공동주택용지 A2블럭(가수원동 산 16-119번지 일원)",
-		"short_addr": "대전광역시 서구",
-		"addr_lv1": "대전광역시",
-		"addr_lv2": "서구",
-		"apply_nums": "19세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910104&pblancNo=2024910104&houseSecd=04",
-		"in_date": "20240718",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "브라운스톤 인터포레(2차)",
-		"addr": "경기도 동두천시 생연동 284번지 일원",
-		"short_addr": "경기도 동두천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "동두천시",
-		"apply_nums": "8세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910104&pblancNo=2024910104&houseSecd=04",
-		"in_date": "20240719",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "브라운스톤 인터포레(2차)",
-		"addr": "경기도 동두천시 생연동 284번지 일원",
-		"short_addr": "경기도 동두천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "동두천시",
-		"apply_nums": "8세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000278&pblancNo=2024000278&houseSecd=01",
 		"in_date": "20240722",
 		"hsecd": "01",
@@ -500,6 +453,14 @@
 		"apply_nums": "30세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940067&pblancNo=2024940067&houseSecd=11",
+		"in_date": "20240724",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "검단 스타힐스 가현숲"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910114&pblancNo=2024910114&houseSecd=04",
 		"in_date": "20240725",
 		"hsecd": "04",
@@ -526,6 +487,22 @@
 		"apply_nums": "3세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940067&pblancNo=2024940067&houseSecd=11",
+		"in_date": "20240725",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "검단 스타힐스 가현숲"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940067&pblancNo=2024940067&houseSecd=11",
+		"in_date": "20240726",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "검단 스타힐스 가현숲"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000355&pblancNo=2024000355&houseSecd=01",
 		"in_date": "20240729",
 		"hsecd": "01",
@@ -578,6 +555,58 @@
 		"apply_nums": "477세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910115&pblancNo=2024910115&houseSecd=04",
+		"in_date": "20240729",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "동탄역 롯데캐슬",
+		"addr": "경기도 화성시 동탄역로 150 (오산동, 동탄역 롯데캐슬)",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930044&pblancNo=2024930044&houseSecd=06",
+		"in_date": "20240729",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "동탄역 롯데캐슬",
+		"addr": "경기도 화성시 동탄역로 150 (오산동, 동탄역 롯데캐슬)",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "4세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930043&pblancNo=2024930043&houseSecd=06",
+		"in_date": "20240729",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "호반써밋 목동",
+		"addr": "서울특별시 양천구 신정3동 1150-41번지",
+		"short_addr": "서울특별시 양천구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "양천구",
+		"apply_nums": "2세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930016&pblancNo=2024930016&houseSecd=06",
+		"in_date": "20240729",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "힐스테이트 세운 센트럴 2단지",
+		"addr": "서울특별시 중구 을지로15길 32 (입정동) 힐스테이트 세운 센트럴 2단지",
+		"short_addr": "서울특별시 중구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "중구",
+		"apply_nums": "1세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000355&pblancNo=2024000355&houseSecd=01",
 		"in_date": "20240730",
 		"hsecd": "01",
@@ -628,6 +657,32 @@
 		"addr_lv1": "강원특별자치도",
 		"addr_lv2": "춘천시",
 		"apply_nums": "477세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930044&pblancNo=2024930044&houseSecd=06",
+		"in_date": "20240730",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "동탄역 롯데캐슬",
+		"addr": "경기도 화성시 동탄역로 150 (오산동, 동탄역 롯데캐슬)",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "4세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930043&pblancNo=2024930043&houseSecd=06",
+		"in_date": "20240730",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "호반써밋 목동",
+		"addr": "서울특별시 양천구 신정3동 1150-41번지",
+		"short_addr": "서울특별시 양천구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "양천구",
+		"apply_nums": "2세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000355&pblancNo=2024000355&houseSecd=01",
