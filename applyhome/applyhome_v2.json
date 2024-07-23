@@ -503,6 +503,14 @@
 		"name": "검단 스타힐스 가현숲"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940069&pblancNo=2024940069&houseSecd=11",
+		"in_date": "20240726",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "평택 브레인시티 5BL 대광로제비앙 그랜드센텀"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000355&pblancNo=2024000355&houseSecd=01",
 		"in_date": "20240729",
 		"hsecd": "01",
@@ -514,6 +522,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "서초구",
 		"apply_nums": "292세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000380&pblancNo=2024000380&houseSecd=01",
+		"in_date": "20240729",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "성주 성밖숲 대유 리엘 아파트",
+		"addr": "경상북도 성주군 성주읍 성주순환로 22",
+		"short_addr": "경상북도 성주군",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "성주군",
+		"apply_nums": "140세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000350&pblancNo=2024000350&houseSecd=01",
@@ -581,6 +602,19 @@
 		"apply_nums": "4세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930042&pblancNo=2024930042&houseSecd=06",
+		"in_date": "20240729",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "창원 롯데캐슬 센텀골드",
+		"addr": "경상남도 창원시 마산회원구 양덕2동 166-44번지 일원",
+		"short_addr": "경상남도 창원시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "창원시",
+		"apply_nums": "2세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930043&pblancNo=2024930043&houseSecd=06",
 		"in_date": "20240729",
 		"hsecd": "06",
@@ -618,6 +652,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "서초구",
 		"apply_nums": "292세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000380&pblancNo=2024000380&houseSecd=01",
+		"in_date": "20240730",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "성주 성밖숲 대유 리엘 아파트",
+		"addr": "경상북도 성주군 성주읍 성주순환로 22",
+		"short_addr": "경상북도 성주군",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "성주군",
+		"apply_nums": "140세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000350&pblancNo=2024000350&houseSecd=01",
@@ -659,6 +706,19 @@
 		"apply_nums": "477세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950047&pblancNo=2024950047&houseSecd=02",
+		"in_date": "20240730",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "판교밸리자이 2단지",
+		"addr": "경기도 성남시 수정구 대왕판교로 981 (고등동, 판교밸리자이 2단지)",
+		"short_addr": "경기도 성남시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "성남시",
+		"apply_nums": "5세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930044&pblancNo=2024930044&houseSecd=06",
 		"in_date": "20240730",
 		"hsecd": "06",
@@ -670,6 +730,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "화성시",
 		"apply_nums": "4세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930042&pblancNo=2024930042&houseSecd=06",
+		"in_date": "20240730",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "창원 롯데캐슬 센텀골드",
+		"addr": "경상남도 창원시 마산회원구 양덕2동 166-44번지 일원",
+		"short_addr": "경상남도 창원시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "창원시",
+		"apply_nums": "2세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930043&pblancNo=2024930043&houseSecd=06",
@@ -696,6 +769,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "서초구",
 		"apply_nums": "292세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000380&pblancNo=2024000380&houseSecd=01",
+		"in_date": "20240731",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "성주 성밖숲 대유 리엘 아파트",
+		"addr": "경상북도 성주군 성주읍 성주순환로 22",
+		"short_addr": "경상북도 성주군",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "성주군",
+		"apply_nums": "140세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000350&pblancNo=2024000350&houseSecd=01",
