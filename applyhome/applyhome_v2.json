@@ -1,165 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000278&pblancNo=2024000278&houseSecd=01",
-		"in_date": "20240723",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "제일풍경채 운정",
-		"addr": "경기도 파주시 운정3지구 A45블록(경기도 파주시 목동동 363번지 일원)",
-		"short_addr": "경기도 파주시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "파주시",
-		"apply_nums": "520세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000304&pblancNo=2024000304&houseSecd=01",
-		"in_date": "20240723",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "힐스테이트 구미더퍼스트",
-		"addr": "경상북도 구미시 봉곡동 59-1번지 일원",
-		"short_addr": "경상북도 구미시",
-		"addr_lv1": "경상북도",
-		"addr_lv2": "구미시",
-		"apply_nums": "491세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000346&pblancNo=2024000346&houseSecd=01",
-		"in_date": "20240723",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "힐스테이트 도안리버파크 1단지",
-		"addr": "대전광역시 유성구 학하동 도안2-2지구 SA5BL",
-		"short_addr": "대전광역시 유성구",
-		"addr_lv1": "대전광역시",
-		"addr_lv2": "유성구",
-		"apply_nums": "891세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000347&pblancNo=2024000347&houseSecd=01",
-		"in_date": "20240723",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "힐스테이트 도안리버파크 2단지",
-		"addr": "대전광역시 유성구 학하동 도안2-2지구 SA4BL",
-		"short_addr": "대전광역시 유성구",
-		"addr_lv1": "대전광역시",
-		"addr_lv2": "유성구",
-		"apply_nums": "1222세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000257&pblancNo=2024000257&houseSecd=01",
-		"in_date": "20240723",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "금강드림피아 5차",
-		"addr": "경상남도 고성군 고성읍 서외리 279번지",
-		"short_addr": "경상남도 고성군",
-		"addr_lv1": "경상남도",
-		"addr_lv2": "고성군",
-		"apply_nums": "38세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950046&pblancNo=2024950046&houseSecd=02",
-		"in_date": "20240723",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "잠실역 웰리지더테라스",
-		"addr": "서울특별시 송파구 올림픽로34길 5-14 (방이동)",
-		"short_addr": "서울특별시 송파구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "송파구",
-		"apply_nums": "9세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910114&pblancNo=2024910114&houseSecd=04",
-		"in_date": "20240723",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "삼익 더 랩소디",
-		"addr": "서울특별시 강서구 내발산동766",
-		"short_addr": "서울특별시 강서구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강서구",
-		"apply_nums": "16세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910111&pblancNo=2024910111&houseSecd=04",
-		"in_date": "20240723",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "서대문 센트럴 아이파크(임의공급 1차)",
-		"addr": "서울특별시 서대문구 홍은동 11-111번지 일원",
-		"short_addr": "서울특별시 서대문구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "서대문구",
-		"apply_nums": "94세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910108&pblancNo=2024910108&houseSecd=04",
-		"in_date": "20240723",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "어반클라쎄목동(2차)",
-		"addr": "서울특별시 양천구 신목로2길 7-12 (신정동, 어반클라쎄 목동)",
-		"short_addr": "서울특별시 양천구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "양천구",
-		"apply_nums": "19세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910102&pblancNo=2024910102&houseSecd=04",
-		"in_date": "20240723",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "판교밸리자이 1단지",
-		"addr": "경기도 성남시 수정구 고등동 대왕판교로 995",
-		"short_addr": "경기도 성남시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "성남시",
-		"apply_nums": "1세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910106&pblancNo=2024910106&houseSecd=04",
-		"in_date": "20240723",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "포레나 인천학익(임의공급 6차)",
-		"addr": "인천광역시 미추홀구 학익2동 290-1번지 일대",
-		"short_addr": "인천광역시 미추홀구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "미추홀구",
-		"apply_nums": "30세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940066&pblancNo=2024940066&houseSecd=11",
-		"in_date": "20240723",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "염창역 동문디이스트"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940064&pblancNo=2024940064&houseSecd=11",
-		"in_date": "20240723",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "한신더휴 조치원"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000278&pblancNo=2024000278&houseSecd=01",
 		"in_date": "20240724",
 		"hsecd": "01",
 		"rse": "03",
@@ -190,12 +31,7 @@
 		"hsecd": "01",
 		"rse": "03",
 		"type": "APT 2순위",
-		"name": "힐스테이트 도안리버파크 1단지",
-		"addr": "대전광역시 유성구 학하동 도안2-2지구 SA5BL",
-		"short_addr": "대전광역시 유성구",
-		"addr_lv1": "대전광역시",
-		"addr_lv2": "유성구",
-		"apply_nums": "891세대"
+		"name": "힐스테이트 도안리버파크 1단지"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000347&pblancNo=2024000347&houseSecd=01",
@@ -654,17 +490,46 @@
 		"apply_nums": "15세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910117&pblancNo=2024910117&houseSecd=04",
+		"in_date": "20240731",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "청주 동일하이빌 파크레인 무순위(임의공급 3차)",
+		"addr": "충청북도 청주시 서원구 개신동 70-10번지 일원(청주개신2지구 도시개발사업A2블럭)",
+		"short_addr": "충청북도 청주시",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "청주시",
+		"apply_nums": "10세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000355&pblancNo=2024000355&houseSecd=01",
 		"in_date": "20240801",
 		"hsecd": "01",
 		"rse": "03",
 		"type": "APT 2순위",
-		"name": "래미안 원펜타스",
-		"addr": "서울특별시 서초구 반포동 12번지 일대",
-		"short_addr": "서울특별시 서초구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "서초구",
-		"apply_nums": "292세대"
+		"name": "래미안 원펜타스"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910117&pblancNo=2024910117&houseSecd=04",
+		"in_date": "20240801",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "청주 동일하이빌 파크레인 무순위(임의공급 3차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000354&pblancNo=2024000354&houseSecd=01",
+		"in_date": "20240805",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "검단아테라자이",
+		"addr": "인천검단시 서구 불로동 484-3번지 일대(검단신도시 AB21-1BL)",
+		"short_addr": "인천검단시 서구",
+		"addr_lv1": "인천검단시",
+		"addr_lv2": "서구",
+		"apply_nums": "709세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000351&pblancNo=2024000351&houseSecd=01",
@@ -730,6 +595,19 @@
 		"addr_lv1": "전북특별자치도",
 		"addr_lv2": "군산시",
 		"apply_nums": "275세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000354&pblancNo=2024000354&houseSecd=01",
+		"in_date": "20240806",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "검단아테라자이",
+		"addr": "인천검단시 서구 불로동 484-3번지 일대(검단신도시 AB21-1BL)",
+		"short_addr": "인천검단시 서구",
+		"addr_lv1": "인천검단시",
+		"addr_lv2": "서구",
+		"apply_nums": "709세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000351&pblancNo=2024000351&houseSecd=01",
@@ -821,6 +699,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "강남구",
 		"apply_nums": "133세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000354&pblancNo=2024000354&houseSecd=01",
+		"in_date": "20240807",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "검단아테라자이",
+		"addr": "인천검단시 서구 불로동 484-3번지 일대(검단신도시 AB21-1BL)",
+		"short_addr": "인천검단시 서구",
+		"addr_lv1": "인천검단시",
+		"addr_lv2": "서구",
+		"apply_nums": "709세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000351&pblancNo=2024000351&houseSecd=01",
