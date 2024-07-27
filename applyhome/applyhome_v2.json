@@ -1,99 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000278&pblancNo=2024000278&houseSecd=01",
-		"in_date": "20240724",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "제일풍경채 운정",
-		"addr": "경기도 파주시 운정3지구 A45블록(경기도 파주시 목동동 363번지 일원)",
-		"short_addr": "경기도 파주시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "파주시",
-		"apply_nums": "520세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000304&pblancNo=2024000304&houseSecd=01",
-		"in_date": "20240724",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "힐스테이트 구미더퍼스트",
-		"addr": "경상북도 구미시 봉곡동 59-1번지 일원",
-		"short_addr": "경상북도 구미시",
-		"addr_lv1": "경상북도",
-		"addr_lv2": "구미시",
-		"apply_nums": "491세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000346&pblancNo=2024000346&houseSecd=01",
-		"in_date": "20240724",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "힐스테이트 도안리버파크 1단지"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000347&pblancNo=2024000347&houseSecd=01",
-		"in_date": "20240724",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "힐스테이트 도안리버파크 2단지",
-		"addr": "대전광역시 유성구 학하동 도안2-2지구 SA4BL",
-		"short_addr": "대전광역시 유성구",
-		"addr_lv1": "대전광역시",
-		"addr_lv2": "유성구",
-		"apply_nums": "1222세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910114&pblancNo=2024910114&houseSecd=04",
-		"in_date": "20240724",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "삼익 더 랩소디",
-		"addr": "서울특별시 강서구 내발산동766",
-		"short_addr": "서울특별시 강서구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강서구",
-		"apply_nums": "16세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910116&pblancNo=2024910116&houseSecd=04",
-		"in_date": "20240724",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "청주 흥덕 칸타빌 더뉴(임의공급 7차)",
-		"addr": "충청북도 청주시 흥덕구 강내면 월곡리 82-1 일원",
-		"short_addr": "충청북도 청주시",
-		"addr_lv1": "충청북도",
-		"addr_lv2": "청주시",
-		"apply_nums": "3세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910106&pblancNo=2024910106&houseSecd=04",
-		"in_date": "20240724",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "포레나 인천학익(임의공급 6차)",
-		"addr": "인천광역시 미추홀구 학익2동 290-1번지 일대",
-		"short_addr": "인천광역시 미추홀구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "미추홀구",
-		"apply_nums": "30세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940067&pblancNo=2024940067&houseSecd=11",
-		"in_date": "20240724",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "검단 스타힐스 가현숲"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910114&pblancNo=2024910114&houseSecd=04",
 		"in_date": "20240725",
 		"hsecd": "04",
@@ -508,7 +414,12 @@
 		"hsecd": "01",
 		"rse": "03",
 		"type": "APT 2순위",
-		"name": "래미안 원펜타스"
+		"name": "래미안 원펜타스",
+		"addr": "서울특별시 서초구 반포동 12번지 일대",
+		"short_addr": "서울특별시 서초구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "서초구",
+		"apply_nums": "292세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910117&pblancNo=2024910117&houseSecd=04",
@@ -516,7 +427,12 @@
 		"hsecd": "04",
 		"rse": "06",
 		"type": "무순위/취소후재공급",
-		"name": "청주 동일하이빌 파크레인 무순위(임의공급 3차)"
+		"name": "청주 동일하이빌 파크레인 무순위(임의공급 3차)",
+		"addr": "충청북도 청주시 서원구 개신동 70-10번지 일원(청주개신2지구 도시개발사업A2블럭)",
+		"short_addr": "충청북도 청주시",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "청주시",
+		"apply_nums": "10세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000354&pblancNo=2024000354&houseSecd=01",
