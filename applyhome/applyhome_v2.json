@@ -1,39 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910114&pblancNo=2024910114&houseSecd=04",
-		"in_date": "20240725",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "삼익 더 랩소디",
-		"addr": "서울특별시 강서구 내발산동766",
-		"short_addr": "서울특별시 강서구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강서구",
-		"apply_nums": "16세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910116&pblancNo=2024910116&houseSecd=04",
-		"in_date": "20240725",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "청주 흥덕 칸타빌 더뉴(임의공급 7차)",
-		"addr": "충청북도 청주시 흥덕구 강내면 월곡리 82-1 일원",
-		"short_addr": "충청북도 청주시",
-		"addr_lv1": "충청북도",
-		"addr_lv2": "청주시",
-		"apply_nums": "3세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940067&pblancNo=2024940067&houseSecd=11",
-		"in_date": "20240725",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "검단 스타힐스 가현숲"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940067&pblancNo=2024940067&houseSecd=11",
 		"in_date": "20240726",
 		"hsecd": "11",
@@ -409,6 +375,14 @@
 		"apply_nums": "10세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940070&pblancNo=2024940070&houseSecd=11",
+		"in_date": "20240731",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "힐스테이트 탑석"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000355&pblancNo=2024000355&houseSecd=01",
 		"in_date": "20240801",
 		"hsecd": "01",
@@ -435,6 +409,14 @@
 		"apply_nums": "10세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940070&pblancNo=2024940070&houseSecd=11",
+		"in_date": "20240801",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "힐스테이트 탑석"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000354&pblancNo=2024000354&houseSecd=01",
 		"in_date": "20240805",
 		"hsecd": "01",
@@ -513,6 +495,19 @@
 		"apply_nums": "275세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910118&pblancNo=2024910118&houseSecd=04",
+		"in_date": "20240805",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "남구로역 동일 센타시아(임의공급 14차)",
+		"addr": "서울특별시 구로구 가리봉동 113-1번지 일원",
+		"short_addr": "서울특별시 구로구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "구로구",
+		"apply_nums": "6세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000354&pblancNo=2024000354&houseSecd=01",
 		"in_date": "20240806",
 		"hsecd": "01",
@@ -589,6 +584,19 @@
 		"addr_lv1": "전북특별자치도",
 		"addr_lv2": "군산시",
 		"apply_nums": "275세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910118&pblancNo=2024910118&houseSecd=04",
+		"in_date": "20240806",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "남구로역 동일 센타시아(임의공급 14차)",
+		"addr": "서울특별시 구로구 가리봉동 113-1번지 일원",
+		"short_addr": "서울특별시 구로구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "구로구",
+		"apply_nums": "6세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000241&pblancNo=2024000241&houseSecd=01",
@@ -682,6 +690,19 @@
 		"apply_nums": "275세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000364&pblancNo=2024000364&houseSecd=01",
+		"in_date": "20240808",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "계양 롯데캐슬 파크시티 1단지",
+		"addr": "인천광역시 계양구 효성동 101-21번지 일원",
+		"short_addr": "인천광역시 계양구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "계양구",
+		"apply_nums": "1964세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000241&pblancNo=2024000241&houseSecd=01",
 		"in_date": "20240808",
 		"hsecd": "01",
@@ -706,6 +727,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "강남구",
 		"apply_nums": "133세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000364&pblancNo=2024000364&houseSecd=01",
+		"in_date": "20240809",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "계양 롯데캐슬 파크시티 1단지",
+		"addr": "인천광역시 계양구 효성동 101-21번지 일원",
+		"short_addr": "인천광역시 계양구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "계양구",
+		"apply_nums": "1964세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000241&pblancNo=2024000241&houseSecd=01",
@@ -719,5 +753,18 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "강동구",
 		"apply_nums": "327세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000364&pblancNo=2024000364&houseSecd=01",
+		"in_date": "20240812",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "계양 롯데캐슬 파크시티 1단지",
+		"addr": "인천광역시 계양구 효성동 101-21번지 일원",
+		"short_addr": "인천광역시 계양구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "계양구",
+		"apply_nums": "1964세대"
 	}
 ]
