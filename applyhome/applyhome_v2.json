@@ -1,21 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940067&pblancNo=2024940067&houseSecd=11",
-		"in_date": "20240726",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "검단 스타힐스 가현숲"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940069&pblancNo=2024940069&houseSecd=11",
-		"in_date": "20240726",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "평택 브레인시티 5BL 대광로제비앙 그랜드센텀"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000355&pblancNo=2024000355&houseSecd=01",
 		"in_date": "20240729",
 		"hsecd": "01",
@@ -146,6 +130,19 @@
 		"apply_nums": "1세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000356&pblancNo=2024000356&houseSecd=01",
+		"in_date": "20240730",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "춘천 아테라 에듀파크",
+		"addr": "강원특별자치도 춘천시 동면 만천리 770-6번지 일원",
+		"short_addr": "강원특별자치도 춘천시",
+		"addr_lv1": "강원특별자치도",
+		"addr_lv2": "춘천시",
+		"apply_nums": "477세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000355&pblancNo=2024000355&houseSecd=01",
 		"in_date": "20240730",
 		"hsecd": "01",
@@ -198,19 +195,6 @@
 		"apply_nums": "82세대"
 	},
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000356&pblancNo=2024000356&houseSecd=01",
-		"in_date": "20240730",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "춘천 아테라 에듀파크",
-		"addr": "강원특별자치도 춘천시 동면 만천리 770-6번지 일원",
-		"short_addr": "강원특별자치도 춘천시",
-		"addr_lv1": "강원특별자치도",
-		"addr_lv2": "춘천시",
-		"apply_nums": "477세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950045&pblancNo=2024950045&houseSecd=02",
 		"in_date": "20240730",
 		"hsecd": "02",
@@ -235,6 +219,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "성남시",
 		"apply_nums": "5세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910115&pblancNo=2024910115&houseSecd=04",
+		"in_date": "20240730",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "동탄역 롯데캐슬",
+		"addr": "경기도 화성시 동탄역로 150 (오산동, 동탄역 롯데캐슬)",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "1세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930044&pblancNo=2024930044&houseSecd=06",
@@ -276,12 +273,17 @@
 		"apply_nums": "2세대"
 	},
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940071&pblancNo=2024940071&houseSecd=11",
-		"in_date": "20240730",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "송내역 푸르지오 센트비엔(2차)"
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000356&pblancNo=2024000356&houseSecd=01",
+		"in_date": "20240731",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "춘천 아테라 에듀파크",
+		"addr": "강원특별자치도 춘천시 동면 만천리 770-6번지 일원",
+		"short_addr": "강원특별자치도 춘천시",
+		"addr_lv1": "강원특별자치도",
+		"addr_lv2": "춘천시",
+		"apply_nums": "477세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000355&pblancNo=2024000355&houseSecd=01",
@@ -336,19 +338,6 @@
 		"apply_nums": "82세대"
 	},
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000356&pblancNo=2024000356&houseSecd=01",
-		"in_date": "20240731",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "춘천 아테라 에듀파크",
-		"addr": "강원특별자치도 춘천시 동면 만천리 770-6번지 일원",
-		"short_addr": "강원특별자치도 춘천시",
-		"addr_lv1": "강원특별자치도",
-		"addr_lv2": "춘천시",
-		"apply_nums": "477세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950045&pblancNo=2024950045&houseSecd=02",
 		"in_date": "20240731",
 		"hsecd": "02",
@@ -375,12 +364,17 @@
 		"apply_nums": "10세대"
 	},
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940070&pblancNo=2024940070&houseSecd=11",
-		"in_date": "20240731",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "힐스테이트 탑석"
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000356&pblancNo=2024000356&houseSecd=01",
+		"in_date": "20240801",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "춘천 아테라 에듀파크",
+		"addr": "강원특별자치도 춘천시 동면 만천리 770-6번지 일원",
+		"short_addr": "강원특별자치도 춘천시",
+		"addr_lv1": "강원특별자치도",
+		"addr_lv2": "춘천시",
+		"apply_nums": "477세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000355&pblancNo=2024000355&houseSecd=01",
@@ -409,8 +403,152 @@
 		"apply_nums": "10세대"
 	},
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940070&pblancNo=2024940070&houseSecd=11",
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940073&pblancNo=2024940073&houseSecd=11",
 		"in_date": "20240801",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "광명 롯데캐슬 시그니처(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940071&pblancNo=2024940071&houseSecd=11",
+		"in_date": "20240801",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "송내역 푸르지오 센트비엔(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940068&pblancNo=2024940068&houseSecd=11",
+		"in_date": "20240801",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "의정부역 파밀리에Ⅰ(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000356&pblancNo=2024000356&houseSecd=01",
+		"in_date": "20240802",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "춘천 아테라 에듀파크",
+		"addr": "강원특별자치도 춘천시 동면 만천리 770-6번지 일원",
+		"short_addr": "강원특별자치도 춘천시",
+		"addr_lv1": "강원특별자치도",
+		"addr_lv2": "춘천시",
+		"apply_nums": "477세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940073&pblancNo=2024940073&houseSecd=11",
+		"in_date": "20240802",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "광명 롯데캐슬 시그니처(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940068&pblancNo=2024940068&houseSecd=11",
+		"in_date": "20240802",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "의정부역 파밀리에Ⅰ(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000354&pblancNo=2024000354&houseSecd=01",
+		"in_date": "20240805",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "검단아테라자이",
+		"addr": "인천검단시 서구 불로동 484-3번지 일대(검단신도시 AB21-1BL)",
+		"short_addr": "인천검단시 서구",
+		"addr_lv1": "인천검단시",
+		"addr_lv2": "서구",
+		"apply_nums": "709세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000351&pblancNo=2024000351&houseSecd=01",
+		"in_date": "20240805",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "고양 장항 아테라",
+		"addr": "경기도 고양시 일산동구 장항동 529-26번지",
+		"short_addr": "경기도 고양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "고양시",
+		"apply_nums": "760세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000375&pblancNo=2024000375&houseSecd=01",
+		"in_date": "20240805",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "도안 푸르지오 디아델 29블록",
+		"addr": "대전광역시 유성구 용계동 70대 일원",
+		"short_addr": "대전광역시 유성구",
+		"addr_lv1": "대전광역시",
+		"addr_lv2": "유성구",
+		"apply_nums": "578세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000376&pblancNo=2024000376&houseSecd=01",
+		"in_date": "20240805",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "도안 푸르지오 디아델 31블록",
+		"addr": "대전광역시 유성구 용계동 73-48번지 일원",
+		"short_addr": "대전광역시 유성구",
+		"addr_lv1": "대전광역시",
+		"addr_lv2": "유성구",
+		"apply_nums": "556세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000371&pblancNo=2024000371&houseSecd=01",
+		"in_date": "20240805",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "래미안 레벤투스",
+		"addr": "서울특별시 강남구 도곡동 540번지 일대(도곡삼호아파트 재건축정비사업조합)",
+		"short_addr": "서울특별시 강남구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강남구",
+		"apply_nums": "133세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000598&pblancNo=2023000598&houseSecd=01",
+		"in_date": "20240805",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "효성해링턴 플레이스 군산",
+		"addr": "전북특별자치도 군산시 경장동 504-4번지 일원",
+		"short_addr": "전북특별자치도 군산시",
+		"addr_lv1": "전북특별자치도",
+		"addr_lv2": "군산시",
+		"apply_nums": "275세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910118&pblancNo=2024910118&houseSecd=04",
+		"in_date": "20240805",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "남구로역 동일 센타시아(임의공급 14차)",
+		"addr": "서울특별시 구로구 가리봉동 113-1번지 일원",
+		"short_addr": "서울특별시 구로구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "구로구",
+		"apply_nums": "6세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940070&pblancNo=2024940070&houseSecd=11",
+		"in_date": "20240805",
 		"hsecd": "11",
 		"rse": "11",
 		"type": "",
@@ -418,97 +556,6 @@
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000354&pblancNo=2024000354&houseSecd=01",
-		"in_date": "20240805",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "검단아테라자이",
-		"addr": "인천검단시 서구 불로동 484-3번지 일대(검단신도시 AB21-1BL)",
-		"short_addr": "인천검단시 서구",
-		"addr_lv1": "인천검단시",
-		"addr_lv2": "서구",
-		"apply_nums": "709세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000351&pblancNo=2024000351&houseSecd=01",
-		"in_date": "20240805",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "고양 장항 아테라",
-		"addr": "경기도 고양시 일산동구 장항동 529-26번지",
-		"short_addr": "경기도 고양시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "고양시",
-		"apply_nums": "760세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000375&pblancNo=2024000375&houseSecd=01",
-		"in_date": "20240805",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "도안 푸르지오 디아델 29블록",
-		"addr": "대전광역시 유성구 용계동 70대 일원",
-		"short_addr": "대전광역시 유성구",
-		"addr_lv1": "대전광역시",
-		"addr_lv2": "유성구",
-		"apply_nums": "578세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000376&pblancNo=2024000376&houseSecd=01",
-		"in_date": "20240805",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "도안 푸르지오 디아델 31블록",
-		"addr": "대전광역시 유성구 용계동 73-48번지 일원",
-		"short_addr": "대전광역시 유성구",
-		"addr_lv1": "대전광역시",
-		"addr_lv2": "유성구",
-		"apply_nums": "556세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000371&pblancNo=2024000371&houseSecd=01",
-		"in_date": "20240805",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "래미안 레벤투스",
-		"addr": "서울특별시 강남구 도곡동 540번지 일대(도곡삼호아파트 재건축정비사업조합)",
-		"short_addr": "서울특별시 강남구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강남구",
-		"apply_nums": "133세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2023000598&pblancNo=2023000598&houseSecd=01",
-		"in_date": "20240805",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "효성해링턴 플레이스 군산",
-		"addr": "전북특별자치도 군산시 경장동 504-4번지 일원",
-		"short_addr": "전북특별자치도 군산시",
-		"addr_lv1": "전북특별자치도",
-		"addr_lv2": "군산시",
-		"apply_nums": "275세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910118&pblancNo=2024910118&houseSecd=04",
-		"in_date": "20240805",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "남구로역 동일 센타시아(임의공급 14차)",
-		"addr": "서울특별시 구로구 가리봉동 113-1번지 일원",
-		"short_addr": "서울특별시 구로구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "구로구",
-		"apply_nums": "6세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000354&pblancNo=2024000354&houseSecd=01",
 		"in_date": "20240806",
 		"hsecd": "01",
 		"rse": "02",
@@ -597,6 +644,14 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "구로구",
 		"apply_nums": "6세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940070&pblancNo=2024940070&houseSecd=11",
+		"in_date": "20240806",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "힐스테이트 탑석"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000241&pblancNo=2024000241&houseSecd=01",
