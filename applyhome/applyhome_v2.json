@@ -405,6 +405,32 @@
 		"name": "서울은평뉴타운 디에트르 더 퍼스트"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910121&pblancNo=2024910121&houseSecd=04",
+		"in_date": "20240807",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "관저 푸르지오 센트럴파크 2단지(임의공급 5차)",
+		"addr": "대전광역시 서구 계백지구 도시개발사업구역 공동주택용지 A2블럭 (가수원동 산 16-119번지 일원)",
+		"short_addr": "대전광역시 서구",
+		"addr_lv1": "대전광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "15세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930046&pblancNo=2024930046&houseSecd=06",
+		"in_date": "20240807",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "해운대 경동리인뷰 2차",
+		"addr": "부산광역시 해운대구 우동 1565",
+		"short_addr": "부산광역시 해운대구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "해운대구",
+		"apply_nums": "1세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000364&pblancNo=2024000364&houseSecd=01",
 		"in_date": "20240808",
 		"hsecd": "01",
@@ -444,6 +470,19 @@
 		"apply_nums": "133세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910121&pblancNo=2024910121&houseSecd=04",
+		"in_date": "20240808",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "관저 푸르지오 센트럴파크 2단지(임의공급 5차)",
+		"addr": "대전광역시 서구 계백지구 도시개발사업구역 공동주택용지 A2블럭 (가수원동 산 16-119번지 일원)",
+		"short_addr": "대전광역시 서구",
+		"addr_lv1": "대전광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "15세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000364&pblancNo=2024000364&houseSecd=01",
 		"in_date": "20240809",
 		"hsecd": "01",
@@ -483,6 +522,19 @@
 		"apply_nums": "148세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000365&pblancNo=2024000365&houseSecd=01",
+		"in_date": "20240812",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "힐스테이트 광주곤지암역",
+		"addr": "경기도 광주시 곤지암읍 신대리 25번지",
+		"short_addr": "경기도 광주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "광주시",
+		"apply_nums": "635세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000364&pblancNo=2024000364&houseSecd=01",
 		"in_date": "20240812",
 		"hsecd": "01",
@@ -509,6 +561,19 @@
 		"apply_nums": "148세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000365&pblancNo=2024000365&houseSecd=01",
+		"in_date": "20240813",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "힐스테이트 광주곤지암역",
+		"addr": "경기도 광주시 곤지암읍 신대리 25번지",
+		"short_addr": "경기도 광주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "광주시",
+		"apply_nums": "635세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000390&pblancNo=2024000390&houseSecd=01",
 		"in_date": "20240814",
 		"hsecd": "01",
@@ -520,5 +585,18 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "강서구",
 		"apply_nums": "148세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000365&pblancNo=2024000365&houseSecd=01",
+		"in_date": "20240814",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "힐스테이트 광주곤지암역",
+		"addr": "경기도 광주시 곤지암읍 신대리 25번지",
+		"short_addr": "경기도 광주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "광주시",
+		"apply_nums": "635세대"
 	}
 ]
