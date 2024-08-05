@@ -1,34 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000356&pblancNo=2024000356&houseSecd=01",
-		"in_date": "20240802",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "춘천 아테라 에듀파크",
-		"addr": "강원특별자치도 춘천시 동면 만천리 770-6번지 일원",
-		"short_addr": "강원특별자치도 춘천시",
-		"addr_lv1": "강원특별자치도",
-		"addr_lv2": "춘천시",
-		"apply_nums": "477세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940073&pblancNo=2024940073&houseSecd=11",
-		"in_date": "20240802",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "광명 롯데캐슬 시그니처(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940068&pblancNo=2024940068&houseSecd=11",
-		"in_date": "20240802",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "의정부역 파밀리에Ⅰ(2차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000354&pblancNo=2024000354&houseSecd=01",
 		"in_date": "20240805",
 		"hsecd": "01",
@@ -567,6 +538,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "부천시",
 		"apply_nums": "7세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910123&pblancNo=2024910123&houseSecd=04",
+		"in_date": "20240812",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "오산세교 한신더휴(A16블록)(2차)",
+		"addr": "경기도 오산시 탑동 110-1번지 일원 (세교2지구 A-16블록)",
+		"short_addr": "경기도 오산시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "오산시",
+		"apply_nums": "25세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000366&pblancNo=2024000366&houseSecd=01",
