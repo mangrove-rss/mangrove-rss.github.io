@@ -540,6 +540,19 @@
 		"apply_nums": "7세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910126&pblancNo=2024910126&houseSecd=04",
+		"in_date": "20240812",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "서대문 센트럴 아이파크(임의공급 2차)",
+		"addr": "서울특별시 서대문구 홍은동 11-111번지 일원",
+		"short_addr": "서울특별시 서대문구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "서대문구",
+		"apply_nums": "78세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910123&pblancNo=2024910123&houseSecd=04",
 		"in_date": "20240812",
 		"hsecd": "04",
@@ -553,6 +566,19 @@
 		"apply_nums": "25세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910124&pblancNo=2024910124&houseSecd=04",
+		"in_date": "20240812",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "힐스테이트 환호공원 2블록(임의공급 1차)",
+		"addr": "경상북도 포항시 북구 양덕동 산235일원",
+		"short_addr": "경상북도 포항시",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "포항시",
+		"apply_nums": "29세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000366&pblancNo=2024000366&houseSecd=01",
 		"in_date": "20240813",
 		"hsecd": "01",
@@ -681,5 +707,31 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "광주시",
 		"apply_nums": "635세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000388&pblancNo=2024000388&houseSecd=01",
+		"in_date": "20240819",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "사직 하늘채 리센티아(조합원 취소분)",
+		"addr": "부산광역시 동래구 사직동 566-3번지 일원",
+		"short_addr": "부산광역시 동래구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "동래구",
+		"apply_nums": "9세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000388&pblancNo=2024000388&houseSecd=01",
+		"in_date": "20240820",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "사직 하늘채 리센티아(조합원 취소분)",
+		"addr": "부산광역시 동래구 사직동 566-3번지 일원",
+		"short_addr": "부산광역시 동래구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "동래구",
+		"apply_nums": "9세대"
 	}
 ]
