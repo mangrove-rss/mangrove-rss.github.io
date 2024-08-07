@@ -579,6 +579,19 @@
 		"apply_nums": "29세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930047&pblancNo=2024930047&houseSecd=06",
+		"in_date": "20240812",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "한화 포레나 인천 구월",
+		"addr": "인천광역시 남동구 구월동 70-16번지 일원",
+		"short_addr": "인천광역시 남동구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "남동구",
+		"apply_nums": "2세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000366&pblancNo=2024000366&houseSecd=01",
 		"in_date": "20240813",
 		"hsecd": "01",
@@ -644,6 +657,58 @@
 		"apply_nums": "635세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910120&pblancNo=2024910120&houseSecd=04",
+		"in_date": "20240813",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "부산에코델타 7블록 호반써밋 스마트시티(무순위 1차)",
+		"addr": "부산광역시 강서구 강동동 에코델타시티 7BL",
+		"short_addr": "부산광역시 강서구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "강서구",
+		"apply_nums": "2세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910125&pblancNo=2024910125&houseSecd=04",
+		"in_date": "20240813",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "소사역 한라비발디 프레스티지(임의공급 3차)",
+		"addr": "경기도 부천시 소사본동 70-12 일원",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "27세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930048&pblancNo=2024930048&houseSecd=06",
+		"in_date": "20240813",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "부산에코델타 7블록 호반써밋 스마트시티",
+		"addr": "부산광역시 강서구 강동동 에코델타시티 7BL",
+		"short_addr": "부산광역시 강서구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "강서구",
+		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930047&pblancNo=2024930047&houseSecd=06",
+		"in_date": "20240813",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "한화 포레나 인천 구월",
+		"addr": "인천광역시 남동구 구월동 70-16번지 일원",
+		"short_addr": "인천광역시 남동구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "남동구",
+		"apply_nums": "2세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000366&pblancNo=2024000366&houseSecd=01",
 		"in_date": "20240814",
 		"hsecd": "01",
@@ -707,6 +772,72 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "광주시",
 		"apply_nums": "635세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910125&pblancNo=2024910125&houseSecd=04",
+		"in_date": "20240814",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "소사역 한라비발디 프레스티지(임의공급 3차)",
+		"addr": "경기도 부천시 소사본동 70-12 일원",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "27세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940076&pblancNo=2024940076&houseSecd=11",
+		"in_date": "20240814",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "인천 유림노르웨이숲 에듀오션(4차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940076&pblancNo=2024940076&houseSecd=11",
+		"in_date": "20240815",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "인천 유림노르웨이숲 에듀오션(4차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940076&pblancNo=2024940076&houseSecd=11",
+		"in_date": "20240816",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "인천 유림노르웨이숲 에듀오션(4차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940076&pblancNo=2024940076&houseSecd=11",
+		"in_date": "20240817",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "인천 유림노르웨이숲 에듀오션(4차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940076&pblancNo=2024940076&houseSecd=11",
+		"in_date": "20240818",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "인천 유림노르웨이숲 에듀오션(4차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000313&pblancNo=2024000313&houseSecd=01",
+		"in_date": "20240819",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "이천 부발역 에피트",
+		"addr": "경기도 이천시 부발읍 아미리 737-6번지 일원",
+		"short_addr": "경기도 이천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "이천시",
+		"apply_nums": "671세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000388&pblancNo=2024000388&houseSecd=01",
@@ -722,6 +853,27 @@
 		"apply_nums": "9세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940076&pblancNo=2024940076&houseSecd=11",
+		"in_date": "20240819",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "인천 유림노르웨이숲 에듀오션(4차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000313&pblancNo=2024000313&houseSecd=01",
+		"in_date": "20240820",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "이천 부발역 에피트",
+		"addr": "경기도 이천시 부발읍 아미리 737-6번지 일원",
+		"short_addr": "경기도 이천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "이천시",
+		"apply_nums": "671세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000388&pblancNo=2024000388&houseSecd=01",
 		"in_date": "20240820",
 		"hsecd": "01",
@@ -733,5 +885,18 @@
 		"addr_lv1": "부산광역시",
 		"addr_lv2": "동래구",
 		"apply_nums": "9세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000313&pblancNo=2024000313&houseSecd=01",
+		"in_date": "20240821",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "이천 부발역 에피트",
+		"addr": "경기도 이천시 부발읍 아미리 737-6번지 일원",
+		"short_addr": "경기도 이천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "이천시",
+		"apply_nums": "671세대"
 	}
 ]
