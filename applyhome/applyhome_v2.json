@@ -1,74 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000364&pblancNo=2024000364&houseSecd=01",
-		"in_date": "20240808",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "계양 롯데캐슬 파크시티 1단지",
-		"addr": "인천광역시 계양구 효성동 101-21번지 일원",
-		"short_addr": "인천광역시 계양구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "계양구",
-		"apply_nums": "1964세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000241&pblancNo=2024000241&houseSecd=01",
-		"in_date": "20240808",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "그란츠 리버파크",
-		"addr": "서울특별시 강동구 성내동 15번지 일원",
-		"short_addr": "서울특별시 강동구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강동구",
-		"apply_nums": "327세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000371&pblancNo=2024000371&houseSecd=01",
-		"in_date": "20240808",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "래미안 레벤투스",
-		"addr": "서울특별시 강남구 도곡동 540번지 일대(도곡삼호아파트 재건축정비사업조합)",
-		"short_addr": "서울특별시 강남구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강남구",
-		"apply_nums": "133세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910121&pblancNo=2024910121&houseSecd=04",
-		"in_date": "20240808",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "관저 푸르지오 센트럴파크 2단지(임의공급 5차)",
-		"addr": "대전광역시 서구 계백지구 도시개발사업구역 공동주택용지 A2블럭 (가수원동 산 16-119번지 일원)",
-		"short_addr": "대전광역시 서구",
-		"addr_lv1": "대전광역시",
-		"addr_lv2": "서구",
-		"apply_nums": "15세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940074&pblancNo=2024940074&houseSecd=11",
-		"in_date": "20240808",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "대전 에테르 스위첸"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940072&pblancNo=2024940072&houseSecd=11",
-		"in_date": "20240808",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "역곡역 아테움 스위첸"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000364&pblancNo=2024000364&houseSecd=01",
 		"in_date": "20240809",
 		"hsecd": "01",
 		"rse": "02",
@@ -537,6 +469,32 @@
 		"apply_nums": "9세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950051&pblancNo=2024950051&houseSecd=02",
+		"in_date": "20240819",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "서울 라티포레스트 오피스텔",
+		"addr": "서울특별시 구로구 가리봉동 127-9",
+		"short_addr": "서울특별시 구로구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "구로구",
+		"apply_nums": "31세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910129&pblancNo=2024910129&houseSecd=04",
+		"in_date": "20240819",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "어반클라쎄목동(3차)",
+		"addr": "서울특별시 양천구 신목로2길 7-12 (신정동, 어반클라쎄 목동)",
+		"short_addr": "서울특별시 양천구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "양천구",
+		"apply_nums": "17세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940076&pblancNo=2024940076&houseSecd=11",
 		"in_date": "20240819",
 		"hsecd": "11",
@@ -597,6 +555,32 @@
 		"apply_nums": "9세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950051&pblancNo=2024950051&houseSecd=02",
+		"in_date": "20240820",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "서울 라티포레스트 오피스텔",
+		"addr": "서울특별시 구로구 가리봉동 127-9",
+		"short_addr": "서울특별시 구로구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "구로구",
+		"apply_nums": "31세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910129&pblancNo=2024910129&houseSecd=04",
+		"in_date": "20240820",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "어반클라쎄목동(3차)",
+		"addr": "서울특별시 양천구 신목로2길 7-12 (신정동, 어반클라쎄 목동)",
+		"short_addr": "서울특별시 양천구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "양천구",
+		"apply_nums": "17세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000405&pblancNo=2024000405&houseSecd=01",
 		"in_date": "20240821",
 		"hsecd": "01",
@@ -634,5 +618,18 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "연수구",
 		"apply_nums": "722세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950050&pblancNo=2024950050&houseSecd=02",
+		"in_date": "20240822",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "신길AK푸르지오",
+		"addr": "서울특별시 영등포구 신길동 255-9번지 일원",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "25세대"
 	}
 ]
