@@ -1,31 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000364&pblancNo=2024000364&houseSecd=01",
-		"in_date": "20240809",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "계양 롯데캐슬 파크시티 1단지",
-		"addr": "인천광역시 계양구 효성동 101-21번지 일원",
-		"short_addr": "인천광역시 계양구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "계양구",
-		"apply_nums": "1964세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000241&pblancNo=2024000241&houseSecd=01",
-		"in_date": "20240809",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "그란츠 리버파크",
-		"addr": "서울특별시 강동구 성내동 15번지 일원",
-		"short_addr": "서울특별시 강동구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강동구",
-		"apply_nums": "327세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000366&pblancNo=2024000366&houseSecd=01",
 		"in_date": "20240812",
 		"hsecd": "01",
@@ -495,6 +469,19 @@
 		"apply_nums": "17세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910133&pblancNo=2024910133&houseSecd=04",
+		"in_date": "20240819",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "창동 다우아트리체 주상복합 아파트(임의공급 2차)",
+		"addr": "서울특별시 도봉구 창동 662-7번지 외 12필지",
+		"short_addr": "서울특별시 도봉구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "도봉구",
+		"apply_nums": "58세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940076&pblancNo=2024940076&houseSecd=11",
 		"in_date": "20240819",
 		"hsecd": "11",
@@ -579,6 +566,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "양천구",
 		"apply_nums": "17세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910133&pblancNo=2024910133&houseSecd=04",
+		"in_date": "20240820",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "창동 다우아트리체 주상복합 아파트(임의공급 2차)",
+		"addr": "서울특별시 도봉구 창동 662-7번지 외 12필지",
+		"short_addr": "서울특별시 도봉구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "도봉구",
+		"apply_nums": "58세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000405&pblancNo=2024000405&houseSecd=01",
