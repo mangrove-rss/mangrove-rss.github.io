@@ -443,6 +443,14 @@
 		"apply_nums": "9세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024850019&pblancNo=2024850019&houseSecd=03",
+		"in_date": "20240819",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "성산 삼정그린코아 웰레스트"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950051&pblancNo=2024950051&houseSecd=02",
 		"in_date": "20240819",
 		"hsecd": "02",
@@ -469,6 +477,19 @@
 		"apply_nums": "17세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910132&pblancNo=2024910132&houseSecd=04",
+		"in_date": "20240819",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "용인 에버랜드역 칸타빌(임의공급2차)",
+		"addr": "경기도 용인시 처인구 포곡읍 전대리 192-2외 5필지",
+		"short_addr": "경기도 용인시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "용인시",
+		"apply_nums": "25세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910133&pblancNo=2024910133&houseSecd=04",
 		"in_date": "20240819",
 		"hsecd": "04",
@@ -480,6 +501,45 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "도봉구",
 		"apply_nums": "58세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910136&pblancNo=2024910136&houseSecd=04",
+		"in_date": "20240819",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "청주 흥덕 칸타빌 더뉴(임의공급 8차)",
+		"addr": "충청북도 청주시 흥덕구 강내면 월곡리 82-1 일원",
+		"short_addr": "충청북도 청주시",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "청주시",
+		"apply_nums": "3세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910127&pblancNo=2024910127&houseSecd=04",
+		"in_date": "20240819",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "현대 프라힐스 소사역 더프라임(임의공급9차)",
+		"addr": "경기도 부천시 소사본동 70-7외 6필지",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "2세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910128&pblancNo=2024910128&houseSecd=04",
+		"in_date": "20240819",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "효성해링턴 플레이스 목감역(무순위 5차)",
+		"addr": "경기도 시흥시 논곡동 378",
+		"short_addr": "경기도 시흥시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "시흥시",
+		"apply_nums": "13세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940076&pblancNo=2024940076&houseSecd=11",
@@ -579,6 +639,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "도봉구",
 		"apply_nums": "58세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910136&pblancNo=2024910136&houseSecd=04",
+		"in_date": "20240820",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "청주 흥덕 칸타빌 더뉴(임의공급 8차)",
+		"addr": "충청북도 청주시 흥덕구 강내면 월곡리 82-1 일원",
+		"short_addr": "충청북도 청주시",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "청주시",
+		"apply_nums": "3세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000405&pblancNo=2024000405&houseSecd=01",
