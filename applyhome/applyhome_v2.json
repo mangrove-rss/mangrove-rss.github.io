@@ -1,14 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940076&pblancNo=2024940076&houseSecd=11",
-		"in_date": "20240815",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "인천 유림노르웨이숲 에듀오션(4차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940076&pblancNo=2024940076&houseSecd=11",
 		"in_date": "20240816",
 		"hsecd": "11",
 		"rse": "11",
@@ -355,6 +347,14 @@
 		"name": "라파르 오뜨 서래(2차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940078&pblancNo=2024940078&houseSecd=11",
+		"in_date": "20240821",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "의정부역 파밀리에Ⅱ"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950050&pblancNo=2024950050&houseSecd=02",
 		"in_date": "20240822",
 		"hsecd": "02",
@@ -387,6 +387,14 @@
 		"rse": "11",
 		"type": "",
 		"name": "라파르 오뜨 서래(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940078&pblancNo=2024940078&houseSecd=11",
+		"in_date": "20240822",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "의정부역 파밀리에Ⅱ"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910137&pblancNo=2024910137&houseSecd=04",
@@ -436,6 +444,19 @@
 		"apply_nums": "5세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910135&pblancNo=2024910135&houseSecd=04",
+		"in_date": "20240826",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "포레나 인천학익(임의공급 7차)",
+		"addr": "인천광역시 미추홀구 학익2동 290-1",
+		"short_addr": "인천광역시 미추홀구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "미추홀구",
+		"apply_nums": "24세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000412&pblancNo=2024000412&houseSecd=01",
 		"in_date": "20240827",
 		"hsecd": "01",
@@ -447,6 +468,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "서초구",
 		"apply_nums": "1244세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910135&pblancNo=2024910135&houseSecd=04",
+		"in_date": "20240827",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "포레나 인천학익(임의공급 7차)",
+		"addr": "인천광역시 미추홀구 학익2동 290-1",
+		"short_addr": "인천광역시 미추홀구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "미추홀구",
+		"apply_nums": "24세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000412&pblancNo=2024000412&houseSecd=01",
