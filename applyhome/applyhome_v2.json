@@ -1,14 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940076&pblancNo=2024940076&houseSecd=11",
-		"in_date": "20240816",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "인천 유림노르웨이숲 에듀오션(4차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940076&pblancNo=2024940076&houseSecd=11",
 		"in_date": "20240817",
 		"hsecd": "11",
 		"rse": "11",
@@ -397,6 +389,14 @@
 		"name": "의정부역 파밀리에Ⅱ"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940083&pblancNo=2024940083&houseSecd=11",
+		"in_date": "20240822",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "이천자이 더 레브"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910137&pblancNo=2024910137&houseSecd=04",
 		"in_date": "20240823",
 		"hsecd": "04",
@@ -444,6 +444,19 @@
 		"apply_nums": "5세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910138&pblancNo=2024910138&houseSecd=04",
+		"in_date": "20240826",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "부천 원미 동문 디 이스트",
+		"addr": "경기도 부천시 원미동 224번지 일원",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "28세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910135&pblancNo=2024910135&houseSecd=04",
 		"in_date": "20240826",
 		"hsecd": "04",
@@ -457,6 +470,19 @@
 		"apply_nums": "24세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930045&pblancNo=2024930045&houseSecd=06",
+		"in_date": "20240826",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "DMC센트럴자이",
+		"addr": "서울특별시 은평구 증산동 213-20번지 일대",
+		"short_addr": "서울특별시 은평구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "은평구",
+		"apply_nums": "1세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000412&pblancNo=2024000412&houseSecd=01",
 		"in_date": "20240827",
 		"hsecd": "01",
@@ -468,6 +494,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "서초구",
 		"apply_nums": "1244세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910138&pblancNo=2024910138&houseSecd=04",
+		"in_date": "20240827",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "부천 원미 동문 디 이스트",
+		"addr": "경기도 부천시 원미동 224번지 일원",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "28세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910135&pblancNo=2024910135&houseSecd=04",
@@ -507,5 +546,44 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "서초구",
 		"apply_nums": "1244세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000389&pblancNo=2024000389&houseSecd=01",
+		"in_date": "20240902",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "용인 둔전역 에피트",
+		"addr": "경기도 용인시 처인구 포곡읍 금어리 646번지 일원",
+		"short_addr": "경기도 용인시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "용인시",
+		"apply_nums": "1275세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000389&pblancNo=2024000389&houseSecd=01",
+		"in_date": "20240903",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "용인 둔전역 에피트",
+		"addr": "경기도 용인시 처인구 포곡읍 금어리 646번지 일원",
+		"short_addr": "경기도 용인시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "용인시",
+		"apply_nums": "1275세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000389&pblancNo=2024000389&houseSecd=01",
+		"in_date": "20240904",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "용인 둔전역 에피트",
+		"addr": "경기도 용인시 처인구 포곡읍 금어리 646번지 일원",
+		"short_addr": "경기도 용인시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "용인시",
+		"apply_nums": "1275세대"
 	}
 ]
