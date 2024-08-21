@@ -1,21 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940076&pblancNo=2024940076&houseSecd=11",
-		"in_date": "20240817",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "인천 유림노르웨이숲 에듀오션(4차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940076&pblancNo=2024940076&houseSecd=11",
-		"in_date": "20240818",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "인천 유림노르웨이숲 에듀오션(4차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000405&pblancNo=2024000405&houseSecd=01",
 		"in_date": "20240819",
 		"hsecd": "01",
@@ -418,6 +402,30 @@
 		"name": "라파르 오뜨 서래(2차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940084&pblancNo=2024940084&houseSecd=11",
+		"in_date": "20240823",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "브라운스톤 인터포레(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940084&pblancNo=2024940084&houseSecd=11",
+		"in_date": "20240824",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "브라운스톤 인터포레(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940084&pblancNo=2024940084&houseSecd=11",
+		"in_date": "20240825",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "브라운스톤 인터포레(2차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000412&pblancNo=2024000412&houseSecd=01",
 		"in_date": "20240826",
 		"hsecd": "01",
@@ -441,6 +449,19 @@
 		"short_addr": "서울특별시 동대문구",
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "동대문구",
+		"apply_nums": "5세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950054&pblancNo=2024950054&houseSecd=02",
+		"in_date": "20240826",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "잠실역 웰리지더테라스",
+		"addr": "서울특별시 송파구 올림픽로34길 5-14 (방이동)",
+		"short_addr": "서울특별시 송파구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "송파구",
 		"apply_nums": "5세대"
 	},
 	{
@@ -483,6 +504,22 @@
 		"apply_nums": "1세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940084&pblancNo=2024940084&houseSecd=11",
+		"in_date": "20240826",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "브라운스톤 인터포레(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940082&pblancNo=2024940082&houseSecd=11",
+		"in_date": "20240826",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "염창역 동문디이스트(2차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000412&pblancNo=2024000412&houseSecd=01",
 		"in_date": "20240827",
 		"hsecd": "01",
@@ -494,6 +531,32 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "서초구",
 		"apply_nums": "1244세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950055&pblancNo=2024950055&houseSecd=02",
+		"in_date": "20240827",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "목동 더 채움(오피스텔)",
+		"addr": "서울특별시 강서구 염창동 262-5",
+		"short_addr": "서울특별시 강서구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강서구",
+		"apply_nums": "7세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950054&pblancNo=2024950054&houseSecd=02",
+		"in_date": "20240827",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "잠실역 웰리지더테라스",
+		"addr": "서울특별시 송파구 올림픽로34길 5-14 (방이동)",
+		"short_addr": "서울특별시 송파구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "송파구",
+		"apply_nums": "5세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910138&pblancNo=2024910138&houseSecd=04",
@@ -522,6 +585,14 @@
 		"apply_nums": "24세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940081&pblancNo=2024940081&houseSecd=11",
+		"in_date": "20240827",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "개봉 루브루"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000412&pblancNo=2024000412&houseSecd=01",
 		"in_date": "20240828",
 		"hsecd": "01",
@@ -533,6 +604,14 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "서초구",
 		"apply_nums": "1244세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940081&pblancNo=2024940081&houseSecd=11",
+		"in_date": "20240828",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "개봉 루브루"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000412&pblancNo=2024000412&houseSecd=01",
@@ -561,6 +640,32 @@
 		"apply_nums": "1275세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000442&pblancNo=2024000442&houseSecd=01",
+		"in_date": "20240902",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "하남시청역 하우스원",
+		"addr": "경기도 하남시 덕풍동 426-26번지",
+		"short_addr": "경기도 하남시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "하남시",
+		"apply_nums": "45세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950056&pblancNo=2024950056&houseSecd=02",
+		"in_date": "20240902",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "목동 더 채움(도시형생활주택)",
+		"addr": "서울특별시 강서구 염창동 262-5",
+		"short_addr": "서울특별시 강서구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강서구",
+		"apply_nums": "6세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000389&pblancNo=2024000389&houseSecd=01",
 		"in_date": "20240903",
 		"hsecd": "01",
@@ -574,6 +679,19 @@
 		"apply_nums": "1275세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000442&pblancNo=2024000442&houseSecd=01",
+		"in_date": "20240903",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "하남시청역 하우스원",
+		"addr": "경기도 하남시 덕풍동 426-26번지",
+		"short_addr": "경기도 하남시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "하남시",
+		"apply_nums": "45세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000389&pblancNo=2024000389&houseSecd=01",
 		"in_date": "20240904",
 		"hsecd": "01",
@@ -585,5 +703,18 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "용인시",
 		"apply_nums": "1275세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000442&pblancNo=2024000442&houseSecd=01",
+		"in_date": "20240904",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "하남시청역 하우스원",
+		"addr": "경기도 하남시 덕풍동 426-26번지",
+		"short_addr": "경기도 하남시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "하남시",
+		"apply_nums": "45세대"
 	}
 ]
