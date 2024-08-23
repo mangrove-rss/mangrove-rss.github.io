@@ -1,110 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000405&pblancNo=2024000405&houseSecd=01",
-		"in_date": "20240820",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "아산배방(2-A13BL) 금강펜테리움 센트럴파크",
-		"addr": "충청남도 아산시 배방읍 세교리 1562(충청남도 아산시 배방읍 세교리 아산탕정지구 2-A13BL)",
-		"short_addr": "충청남도 아산시",
-		"addr_lv1": "충청남도",
-		"addr_lv2": "아산시",
-		"apply_nums": "438세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000313&pblancNo=2024000313&houseSecd=01",
-		"in_date": "20240820",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "이천 부발역 에피트",
-		"addr": "경기도 이천시 부발읍 아미리 737-6번지 일원",
-		"short_addr": "경기도 이천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "이천시",
-		"apply_nums": "671세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000373&pblancNo=2024000373&houseSecd=01",
-		"in_date": "20240820",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "힐스테이트 레이크 송도 5차",
-		"addr": "인천광역시 연수구 송도동 399-13번지",
-		"short_addr": "인천광역시 연수구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "연수구",
-		"apply_nums": "722세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000388&pblancNo=2024000388&houseSecd=01",
-		"in_date": "20240820",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "사직 하늘채 리센티아(조합원 취소분)",
-		"addr": "부산광역시 동래구 사직동 566-3번지 일원",
-		"short_addr": "부산광역시 동래구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "동래구",
-		"apply_nums": "9세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950051&pblancNo=2024950051&houseSecd=02",
-		"in_date": "20240820",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "서울 라티포레스트 오피스텔",
-		"addr": "서울특별시 구로구 가리봉동 127-9",
-		"short_addr": "서울특별시 구로구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "구로구",
-		"apply_nums": "31세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910129&pblancNo=2024910129&houseSecd=04",
-		"in_date": "20240820",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "어반클라쎄목동(3차)",
-		"addr": "서울특별시 양천구 신목로2길 7-12 (신정동, 어반클라쎄 목동)",
-		"short_addr": "서울특별시 양천구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "양천구",
-		"apply_nums": "17세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910133&pblancNo=2024910133&houseSecd=04",
-		"in_date": "20240820",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "창동 다우아트리체 주상복합 아파트(임의공급 2차)",
-		"addr": "서울특별시 도봉구 창동 662-7번지 외 12필지",
-		"short_addr": "서울특별시 도봉구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "도봉구",
-		"apply_nums": "58세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910136&pblancNo=2024910136&houseSecd=04",
-		"in_date": "20240820",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "청주 흥덕 칸타빌 더뉴(임의공급 8차)",
-		"addr": "충청북도 청주시 흥덕구 강내면 월곡리 82-1 일원",
-		"short_addr": "충청북도 청주시",
-		"addr_lv1": "충청북도",
-		"addr_lv2": "청주시",
-		"apply_nums": "3세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000405&pblancNo=2024000405&houseSecd=01",
 		"in_date": "20240821",
 		"hsecd": "01",
 		"rse": "03",
@@ -559,6 +455,19 @@
 		"apply_nums": "10세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910139&pblancNo=2024910139&houseSecd=04",
+		"in_date": "20240830",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "서대문 센트럴 아이파크(임의공급 3차)",
+		"addr": "서울특별시 서대문구 홍은동 11-111번지 일원",
+		"short_addr": "서울특별시 서대문구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "서대문구",
+		"apply_nums": "68세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000472&pblancNo=2024000472&houseSecd=01",
 		"in_date": "20240902",
 		"hsecd": "01",
@@ -570,6 +479,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "성동구",
 		"apply_nums": "138세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000427&pblancNo=2024000427&houseSecd=01",
+		"in_date": "20240902",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "번영로 하늘채 라크뷰",
+		"addr": "울산광역시 남구 야음동 363-2번지 일원",
+		"short_addr": "울산광역시 남구",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "803세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000389&pblancNo=2024000389&houseSecd=01",
@@ -637,6 +559,19 @@
 		"apply_nums": "138세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000427&pblancNo=2024000427&houseSecd=01",
+		"in_date": "20240903",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "번영로 하늘채 라크뷰",
+		"addr": "울산광역시 남구 야음동 363-2번지 일원",
+		"short_addr": "울산광역시 남구",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "803세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000389&pblancNo=2024000389&houseSecd=01",
 		"in_date": "20240903",
 		"hsecd": "01",
@@ -687,6 +622,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "성동구",
 		"apply_nums": "138세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000427&pblancNo=2024000427&houseSecd=01",
+		"in_date": "20240904",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "번영로 하늘채 라크뷰",
+		"addr": "울산광역시 남구 야음동 363-2번지 일원",
+		"short_addr": "울산광역시 남구",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "803세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000389&pblancNo=2024000389&houseSecd=01",
