@@ -1,34 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910137&pblancNo=2024910137&houseSecd=04",
-		"in_date": "20240823",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "삼익 더 랩소디(2차)",
-		"addr": "서울특별시 강서구 내발산동 766",
-		"short_addr": "서울특별시 강서구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강서구",
-		"apply_nums": "25세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940079&pblancNo=2024940079&houseSecd=11",
-		"in_date": "20240823",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "라파르 오뜨 서래(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940084&pblancNo=2024940084&houseSecd=11",
-		"in_date": "20240823",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "브라운스톤 인터포레(2차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940084&pblancNo=2024940084&houseSecd=11",
 		"in_date": "20240824",
 		"hsecd": "11",
@@ -337,6 +308,38 @@
 		"apply_nums": "10세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940087&pblancNo=2024940087&houseSecd=11",
+		"in_date": "20240829",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "광명 롯데캐슬 시그니처(3차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940086&pblancNo=2024940086&houseSecd=11",
+		"in_date": "20240829",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "엘리프 미아역 1단지"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940085&pblancNo=2024940085&houseSecd=11",
+		"in_date": "20240829",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "인천용현 경남아너스빌"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940088&pblancNo=2024940088&houseSecd=11",
+		"in_date": "20240829",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "춘천아테라에듀파크"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910139&pblancNo=2024910139&houseSecd=04",
 		"in_date": "20240830",
 		"hsecd": "04",
@@ -348,6 +351,38 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "서대문구",
 		"apply_nums": "68세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940087&pblancNo=2024940087&houseSecd=11",
+		"in_date": "20240830",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "광명 롯데캐슬 시그니처(3차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940086&pblancNo=2024940086&houseSecd=11",
+		"in_date": "20240830",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "엘리프 미아역 1단지"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940085&pblancNo=2024940085&houseSecd=11",
+		"in_date": "20240830",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "인천용현 경남아너스빌"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940088&pblancNo=2024940088&houseSecd=11",
+		"in_date": "20240830",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "춘천아테라에듀파크"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000472&pblancNo=2024000472&houseSecd=01",
@@ -413,6 +448,14 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "하남시",
 		"apply_nums": "45세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024850016&pblancNo=2024850016&houseSecd=03",
+		"in_date": "20240902",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "강동밀레니얼 중흥S-클래스"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950056&pblancNo=2024950056&houseSecd=02",
@@ -491,6 +534,14 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "하남시",
 		"apply_nums": "45세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024850016&pblancNo=2024850016&houseSecd=03",
+		"in_date": "20240903",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "강동밀레니얼 중흥S-클래스"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000472&pblancNo=2024000472&houseSecd=01",
