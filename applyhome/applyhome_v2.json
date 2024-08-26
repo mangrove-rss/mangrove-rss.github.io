@@ -1,55 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950050&pblancNo=2024950050&houseSecd=02",
-		"in_date": "20240822",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "신길AK푸르지오",
-		"addr": "서울특별시 영등포구 신길동 255-9번지 일원",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "25세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910137&pblancNo=2024910137&houseSecd=04",
-		"in_date": "20240822",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "삼익 더 랩소디(2차)",
-		"addr": "서울특별시 강서구 내발산동 766",
-		"short_addr": "서울특별시 강서구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강서구",
-		"apply_nums": "25세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940079&pblancNo=2024940079&houseSecd=11",
-		"in_date": "20240822",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "라파르 오뜨 서래(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940078&pblancNo=2024940078&houseSecd=11",
-		"in_date": "20240822",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "의정부역 파밀리에Ⅱ"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940083&pblancNo=2024940083&houseSecd=11",
-		"in_date": "20240822",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "이천자이 더 레브"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910137&pblancNo=2024910137&houseSecd=04",
 		"in_date": "20240823",
 		"hsecd": "04",
@@ -606,5 +556,18 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "하남시",
 		"apply_nums": "45세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910141&pblancNo=2024910141&houseSecd=04",
+		"in_date": "20240904",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "호반써밋 개봉(임의공급 1차)",
+		"addr": "서울특별시 구로구 개봉동 68-64번지 일대",
+		"short_addr": "서울특별시 구로구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "구로구",
+		"apply_nums": "9세대"
 	}
 ]
