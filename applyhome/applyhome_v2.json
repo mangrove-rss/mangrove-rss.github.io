@@ -1,14 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940084&pblancNo=2024940084&houseSecd=11",
-		"in_date": "20240824",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "브라운스톤 인터포레(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940084&pblancNo=2024940084&houseSecd=11",
 		"in_date": "20240825",
 		"hsecd": "11",
 		"rse": "11",
@@ -469,6 +461,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "강서구",
 		"apply_nums": "6세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910144&pblancNo=2024910144&houseSecd=04",
+		"in_date": "20240902",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "오산세교2 한신더휴(A16블록)(3차)",
+		"addr": "경기도 오산시 탑동 110-1번지 일원 (세교2지구 A-16블록)",
+		"short_addr": "경기도 오산시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "오산시",
+		"apply_nums": "15세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000472&pblancNo=2024000472&houseSecd=01",
