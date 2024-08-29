@@ -1,100 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000412&pblancNo=2024000412&houseSecd=01",
-		"in_date": "20240826",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "디에이치 방배",
-		"addr": "서울특별시 서초구 방배동 946-8번지 일원",
-		"short_addr": "서울특별시 서초구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "서초구",
-		"apply_nums": "1244세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950053&pblancNo=2024950053&houseSecd=02",
-		"in_date": "20240826",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "이문 월드메르디앙 힐트리움 더테라스",
-		"addr": "서울특별시 동대문구 이문동 348-11, 348-12번지",
-		"short_addr": "서울특별시 동대문구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "동대문구",
-		"apply_nums": "5세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950054&pblancNo=2024950054&houseSecd=02",
-		"in_date": "20240826",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "잠실역 웰리지더테라스",
-		"addr": "서울특별시 송파구 올림픽로34길 5-14 (방이동)",
-		"short_addr": "서울특별시 송파구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "송파구",
-		"apply_nums": "5세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910138&pblancNo=2024910138&houseSecd=04",
-		"in_date": "20240826",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "부천 원미 동문 디 이스트",
-		"addr": "경기도 부천시 원미동 224번지 일원",
-		"short_addr": "경기도 부천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "부천시",
-		"apply_nums": "28세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910135&pblancNo=2024910135&houseSecd=04",
-		"in_date": "20240826",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "포레나 인천학익(임의공급 7차)",
-		"addr": "인천광역시 미추홀구 학익2동 290-1",
-		"short_addr": "인천광역시 미추홀구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "미추홀구",
-		"apply_nums": "24세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930045&pblancNo=2024930045&houseSecd=06",
-		"in_date": "20240826",
-		"hsecd": "06",
-		"rse": "07",
-		"type": "",
-		"name": "DMC센트럴자이",
-		"addr": "서울특별시 은평구 증산동 213-20번지 일대",
-		"short_addr": "서울특별시 은평구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "은평구",
-		"apply_nums": "1세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940084&pblancNo=2024940084&houseSecd=11",
-		"in_date": "20240826",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "브라운스톤 인터포레(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940082&pblancNo=2024940082&houseSecd=11",
-		"in_date": "20240826",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "염창역 동문디이스트(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000412&pblancNo=2024000412&houseSecd=01",
 		"in_date": "20240827",
 		"hsecd": "01",
 		"rse": "02",
@@ -541,6 +447,14 @@
 		"name": "강동밀레니얼 중흥S-클래스"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940089&pblancNo=2024940089&houseSecd=11",
+		"in_date": "20240903",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "송내역 푸르지오 센트비엔(3차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000472&pblancNo=2024000472&houseSecd=01",
 		"in_date": "20240904",
 		"hsecd": "01",
@@ -606,6 +520,14 @@
 		"apply_nums": "45세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024850020&pblancNo=2024850020&houseSecd=03",
+		"in_date": "20240904",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "서울은평뉴타운 디에트르 더 퍼스트"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910141&pblancNo=2024910141&houseSecd=04",
 		"in_date": "20240904",
 		"hsecd": "04",
@@ -617,5 +539,156 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "구로구",
 		"apply_nums": "9세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024850020&pblancNo=2024850020&houseSecd=03",
+		"in_date": "20240905",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "서울은평뉴타운 디에트르 더 퍼스트"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000468&pblancNo=2024000468&houseSecd=01",
+		"in_date": "20240909",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "광주태전 경남아너스빌 리미티드",
+		"addr": "경기도 광주시 장지동 695-14",
+		"short_addr": "경기도 광주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "광주시",
+		"apply_nums": "404세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000471&pblancNo=2024000471&houseSecd=01",
+		"in_date": "20240909",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "연신내 양우내안애 퍼스티지",
+		"addr": "서울특별시 은평구 갈현동 467-1 번지 일대",
+		"short_addr": "서울특별시 은평구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "은평구",
+		"apply_nums": "239세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000484&pblancNo=2024000484&houseSecd=01",
+		"in_date": "20240909",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "올림픽파크 서한포레스트",
+		"addr": "서울특별시 강동구 둔촌동 489번지",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "109세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000478&pblancNo=2024000478&houseSecd=01",
+		"in_date": "20240909",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "소촌동 대라수",
+		"addr": "광주광역시 광산구 소촌로64번길 36 (소촌동, 소촌대라수아파트)",
+		"short_addr": "광주광역시 광산구",
+		"addr_lv1": "광주광역시",
+		"addr_lv2": "광산구",
+		"apply_nums": "40세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000468&pblancNo=2024000468&houseSecd=01",
+		"in_date": "20240910",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "광주태전 경남아너스빌 리미티드",
+		"addr": "경기도 광주시 장지동 695-14",
+		"short_addr": "경기도 광주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "광주시",
+		"apply_nums": "404세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000471&pblancNo=2024000471&houseSecd=01",
+		"in_date": "20240910",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "연신내 양우내안애 퍼스티지",
+		"addr": "서울특별시 은평구 갈현동 467-1 번지 일대",
+		"short_addr": "서울특별시 은평구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "은평구",
+		"apply_nums": "239세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000484&pblancNo=2024000484&houseSecd=01",
+		"in_date": "20240910",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "올림픽파크 서한포레스트",
+		"addr": "서울특별시 강동구 둔촌동 489번지",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "109세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000478&pblancNo=2024000478&houseSecd=01",
+		"in_date": "20240910",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "소촌동 대라수",
+		"addr": "광주광역시 광산구 소촌로64번길 36 (소촌동, 소촌대라수아파트)",
+		"short_addr": "광주광역시 광산구",
+		"addr_lv1": "광주광역시",
+		"addr_lv2": "광산구",
+		"apply_nums": "40세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000468&pblancNo=2024000468&houseSecd=01",
+		"in_date": "20240911",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "광주태전 경남아너스빌 리미티드",
+		"addr": "경기도 광주시 장지동 695-14",
+		"short_addr": "경기도 광주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "광주시",
+		"apply_nums": "404세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000471&pblancNo=2024000471&houseSecd=01",
+		"in_date": "20240911",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "연신내 양우내안애 퍼스티지",
+		"addr": "서울특별시 은평구 갈현동 467-1 번지 일대",
+		"short_addr": "서울특별시 은평구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "은평구",
+		"apply_nums": "239세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000484&pblancNo=2024000484&houseSecd=01",
+		"in_date": "20240911",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "올림픽파크 서한포레스트",
+		"addr": "서울특별시 강동구 둔촌동 489번지",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "109세대"
 	}
 ]
