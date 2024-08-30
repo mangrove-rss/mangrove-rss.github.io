@@ -1,79 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000412&pblancNo=2024000412&houseSecd=01",
-		"in_date": "20240827",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "디에이치 방배",
-		"addr": "서울특별시 서초구 방배동 946-8번지 일원",
-		"short_addr": "서울특별시 서초구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "서초구",
-		"apply_nums": "1244세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950055&pblancNo=2024950055&houseSecd=02",
-		"in_date": "20240827",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "목동 더 채움(오피스텔)",
-		"addr": "서울특별시 강서구 염창동 262-5",
-		"short_addr": "서울특별시 강서구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강서구",
-		"apply_nums": "7세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950054&pblancNo=2024950054&houseSecd=02",
-		"in_date": "20240827",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "잠실역 웰리지더테라스",
-		"addr": "서울특별시 송파구 올림픽로34길 5-14 (방이동)",
-		"short_addr": "서울특별시 송파구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "송파구",
-		"apply_nums": "5세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910138&pblancNo=2024910138&houseSecd=04",
-		"in_date": "20240827",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "부천 원미 동문 디 이스트",
-		"addr": "경기도 부천시 원미동 224번지 일원",
-		"short_addr": "경기도 부천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "부천시",
-		"apply_nums": "28세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910135&pblancNo=2024910135&houseSecd=04",
-		"in_date": "20240827",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "포레나 인천학익(임의공급 7차)",
-		"addr": "인천광역시 미추홀구 학익2동 290-1",
-		"short_addr": "인천광역시 미추홀구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "미추홀구",
-		"apply_nums": "24세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940081&pblancNo=2024940081&houseSecd=11",
-		"in_date": "20240827",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "개봉 루브루"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000412&pblancNo=2024000412&houseSecd=01",
 		"in_date": "20240828",
 		"hsecd": "01",
 		"rse": "02",
@@ -541,6 +468,32 @@
 		"apply_nums": "9세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930051&pblancNo=2024930051&houseSecd=06",
+		"in_date": "20240904",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "무안 오룡지구 우미린 1차(43BL)",
+		"addr": "전라남도 무안군 일로읍 망월리 남악신도시 오룡지구 43BL",
+		"short_addr": "전라남도 무안군",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "무안군",
+		"apply_nums": "7세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930052&pblancNo=2024930052&houseSecd=06",
+		"in_date": "20240904",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "무안 오룡지구 우미린 2차(44BL)",
+		"addr": "전라남도 무안군 일로읍 망월리 남악신도시 오룡지구 44BL",
+		"short_addr": "전라남도 무안군",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "무안군",
+		"apply_nums": "10세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024850020&pblancNo=2024850020&houseSecd=03",
 		"in_date": "20240905",
 		"hsecd": "03",
@@ -549,6 +502,32 @@
 		"name": "서울은평뉴타운 디에트르 더 퍼스트"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930051&pblancNo=2024930051&houseSecd=06",
+		"in_date": "20240905",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "무안 오룡지구 우미린 1차(43BL)",
+		"addr": "전라남도 무안군 일로읍 망월리 남악신도시 오룡지구 43BL",
+		"short_addr": "전라남도 무안군",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "무안군",
+		"apply_nums": "7세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930052&pblancNo=2024930052&houseSecd=06",
+		"in_date": "20240905",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "무안 오룡지구 우미린 2차(44BL)",
+		"addr": "전라남도 무안군 일로읍 망월리 남악신도시 오룡지구 44BL",
+		"short_addr": "전라남도 무안군",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "무안군",
+		"apply_nums": "10세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000468&pblancNo=2024000468&houseSecd=01",
 		"in_date": "20240909",
 		"hsecd": "01",
@@ -560,6 +539,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "광주시",
 		"apply_nums": "404세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000479&pblancNo=2024000479&houseSecd=01",
+		"in_date": "20240909",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "김해 대청천 에피트",
+		"addr": "경상남도 김해시 삼문동 466번지 일원",
+		"short_addr": "경상남도 김해시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "김해시",
+		"apply_nums": "131세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000471&pblancNo=2024000471&houseSecd=01",
@@ -586,6 +578,32 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "강동구",
 		"apply_nums": "109세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000290&pblancNo=2024000290&houseSecd=01",
+		"in_date": "20240909",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "힐스테이트 이천역 1단지",
+		"addr": "경기도 이천시 증일동 79-4번지 일원",
+		"short_addr": "경기도 이천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "이천시",
+		"apply_nums": "146세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000291&pblancNo=2024000291&houseSecd=01",
+		"in_date": "20240909",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "힐스테이트 이천역 2단지",
+		"addr": "경기도 이천시 증일동 60-5번지 일원",
+		"short_addr": "경기도 이천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "이천시",
+		"apply_nums": "168세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000478&pblancNo=2024000478&houseSecd=01",
@@ -601,6 +619,32 @@
 		"apply_nums": "40세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000382&pblancNo=2024000382&houseSecd=01",
+		"in_date": "20240909",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "위파크 제주 1단지",
+		"addr": "제주특별자치도 제주시 오라이동 854-1번지 일원",
+		"short_addr": "제주특별자치도 제주시",
+		"addr_lv1": "제주특별자치도",
+		"addr_lv2": "제주시",
+		"apply_nums": "617세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000383&pblancNo=2024000383&houseSecd=01",
+		"in_date": "20240909",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "위파크 제주 2단지",
+		"addr": "제주특별자치도 제주시 오라이동 923번지 일원",
+		"short_addr": "제주특별자치도 제주시",
+		"addr_lv1": "제주특별자치도",
+		"addr_lv2": "제주시",
+		"apply_nums": "643세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000468&pblancNo=2024000468&houseSecd=01",
 		"in_date": "20240910",
 		"hsecd": "01",
@@ -612,6 +656,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "광주시",
 		"apply_nums": "404세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000479&pblancNo=2024000479&houseSecd=01",
+		"in_date": "20240910",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "김해 대청천 에피트",
+		"addr": "경상남도 김해시 삼문동 466번지 일원",
+		"short_addr": "경상남도 김해시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "김해시",
+		"apply_nums": "131세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000471&pblancNo=2024000471&houseSecd=01",
@@ -638,6 +695,32 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "강동구",
 		"apply_nums": "109세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000290&pblancNo=2024000290&houseSecd=01",
+		"in_date": "20240910",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "힐스테이트 이천역 1단지",
+		"addr": "경기도 이천시 증일동 79-4번지 일원",
+		"short_addr": "경기도 이천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "이천시",
+		"apply_nums": "146세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000291&pblancNo=2024000291&houseSecd=01",
+		"in_date": "20240910",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "힐스테이트 이천역 2단지",
+		"addr": "경기도 이천시 증일동 60-5번지 일원",
+		"short_addr": "경기도 이천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "이천시",
+		"apply_nums": "168세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000478&pblancNo=2024000478&houseSecd=01",
@@ -653,6 +736,32 @@
 		"apply_nums": "40세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000382&pblancNo=2024000382&houseSecd=01",
+		"in_date": "20240910",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "위파크 제주 1단지",
+		"addr": "제주특별자치도 제주시 오라이동 854-1번지 일원",
+		"short_addr": "제주특별자치도 제주시",
+		"addr_lv1": "제주특별자치도",
+		"addr_lv2": "제주시",
+		"apply_nums": "617세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000383&pblancNo=2024000383&houseSecd=01",
+		"in_date": "20240910",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "위파크 제주 2단지",
+		"addr": "제주특별자치도 제주시 오라이동 923번지 일원",
+		"short_addr": "제주특별자치도 제주시",
+		"addr_lv1": "제주특별자치도",
+		"addr_lv2": "제주시",
+		"apply_nums": "643세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000468&pblancNo=2024000468&houseSecd=01",
 		"in_date": "20240911",
 		"hsecd": "01",
@@ -664,6 +773,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "광주시",
 		"apply_nums": "404세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000479&pblancNo=2024000479&houseSecd=01",
+		"in_date": "20240911",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "김해 대청천 에피트",
+		"addr": "경상남도 김해시 삼문동 466번지 일원",
+		"short_addr": "경상남도 김해시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "김해시",
+		"apply_nums": "131세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000471&pblancNo=2024000471&houseSecd=01",
@@ -690,5 +812,31 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "강동구",
 		"apply_nums": "109세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000290&pblancNo=2024000290&houseSecd=01",
+		"in_date": "20240911",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "힐스테이트 이천역 1단지",
+		"addr": "경기도 이천시 증일동 79-4번지 일원",
+		"short_addr": "경기도 이천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "이천시",
+		"apply_nums": "146세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000291&pblancNo=2024000291&houseSecd=01",
+		"in_date": "20240911",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "힐스테이트 이천역 2단지",
+		"addr": "경기도 이천시 증일동 60-5번지 일원",
+		"short_addr": "경기도 이천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "이천시",
+		"apply_nums": "168세대"
 	}
 ]
