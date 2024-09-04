@@ -326,6 +326,14 @@
 		"apply_nums": "10세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940090&pblancNo=2024940090&houseSecd=11",
+		"in_date": "20240906",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "역곡역 아테움 스위첸(임의공급2차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000468&pblancNo=2024000468&houseSecd=01",
 		"in_date": "20240909",
 		"hsecd": "01",
@@ -443,6 +451,19 @@
 		"apply_nums": "643세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950057&pblancNo=2024950057&houseSecd=02",
+		"in_date": "20240909",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "더테라스 by 레드우즈파크",
+		"addr": "강원특별자치도 원주시 반곡동 2042번지",
+		"short_addr": "강원특별자치도 원주시",
+		"addr_lv1": "강원특별자치도",
+		"addr_lv2": "원주시",
+		"apply_nums": "640세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000468&pblancNo=2024000468&houseSecd=01",
 		"in_date": "20240910",
 		"hsecd": "01",
@@ -636,5 +657,57 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "이천시",
 		"apply_nums": "168세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910134&pblancNo=2024910134&houseSecd=04",
+		"in_date": "20240911",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "천왕역 모아엘가 트레뷰(3차)",
+		"addr": "서울특별시 구로구 오류동 213-1번지 일원",
+		"short_addr": "서울특별시 구로구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "구로구",
+		"apply_nums": "12세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910146&pblancNo=2024910146&houseSecd=04",
+		"in_date": "20240911",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "효성해링턴 플레이스 목감역(무순위 6차)",
+		"addr": "경기도 시흥시 논곡동 378",
+		"short_addr": "경기도 시흥시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "시흥시",
+		"apply_nums": "13세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930050&pblancNo=2024930050&houseSecd=06",
+		"in_date": "20240911",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "파주운정신도시 디에트르 에듀타운(A38BL)",
+		"addr": "경기도 파주시 파주운정3지구 A38BL 공동주택용지",
+		"short_addr": "경기도 파주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "파주시",
+		"apply_nums": "3세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930050&pblancNo=2024930050&houseSecd=06",
+		"in_date": "20240912",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "파주운정신도시 디에트르 에듀타운(A38BL)",
+		"addr": "경기도 파주시 파주운정3지구 A38BL 공동주택용지",
+		"short_addr": "경기도 파주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "파주시",
+		"apply_nums": "3세대"
 	}
 ]
