@@ -1,87 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000472&pblancNo=2024000472&houseSecd=01",
-		"in_date": "20240903",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "라체르보 푸르지오 써밋",
-		"addr": "서울특별시 성동구 행당동 128-1번지 일원",
-		"short_addr": "서울특별시 성동구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "성동구",
-		"apply_nums": "138세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000427&pblancNo=2024000427&houseSecd=01",
-		"in_date": "20240903",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "번영로 하늘채 라크뷰",
-		"addr": "울산광역시 남구 야음동 363-2번지 일원",
-		"short_addr": "울산광역시 남구",
-		"addr_lv1": "울산광역시",
-		"addr_lv2": "남구",
-		"apply_nums": "803세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000389&pblancNo=2024000389&houseSecd=01",
-		"in_date": "20240903",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "용인 둔전역 에피트",
-		"addr": "경기도 용인시 처인구 포곡읍 금어리 646번지 일원",
-		"short_addr": "경기도 용인시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "용인시",
-		"apply_nums": "1275세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000463&pblancNo=2024000463&houseSecd=01",
-		"in_date": "20240903",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "운암산공원 진아리채 그랑뷰",
-		"addr": "광주광역시 북구 동림동 272번지 일원",
-		"short_addr": "광주광역시 북구",
-		"addr_lv1": "광주광역시",
-		"addr_lv2": "북구",
-		"apply_nums": "69세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000442&pblancNo=2024000442&houseSecd=01",
-		"in_date": "20240903",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "하남시청역 하우스원",
-		"addr": "경기도 하남시 덕풍동 426-26번지",
-		"short_addr": "경기도 하남시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "하남시",
-		"apply_nums": "45세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024850016&pblancNo=2024850016&houseSecd=03",
-		"in_date": "20240903",
-		"hsecd": "03",
-		"rse": "04",
-		"type": "",
-		"name": "강동밀레니얼 중흥S-클래스"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940089&pblancNo=2024940089&houseSecd=11",
-		"in_date": "20240903",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "송내역 푸르지오 센트비엔(3차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000472&pblancNo=2024000472&houseSecd=01",
 		"in_date": "20240904",
 		"hsecd": "01",
 		"rse": "03",
@@ -625,6 +544,19 @@
 		"apply_nums": "3세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930053&pblancNo=2024930053&houseSecd=06",
+		"in_date": "20240911",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "행정타운 센트럴 두산위브",
+		"addr": "충청남도 천안시 동남구 청당동 125-1번지 일원",
+		"short_addr": "충청남도 천안시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "천안시",
+		"apply_nums": "1세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910148&pblancNo=2024910148&houseSecd=04",
 		"in_date": "20240912",
 		"hsecd": "04",
@@ -651,17 +583,90 @@
 		"apply_nums": "3세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000516&pblancNo=2024000516&houseSecd=01",
+		"in_date": "20240919",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "북수원이목지구 대방 디에트르 더 리체Ⅰ",
+		"addr": "경기도 수원시 장안구 이목동 종전부동산 이목지구 도시개발사업 A4블록 공동주택용지",
+		"short_addr": "경기도 수원시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "수원시",
+		"apply_nums": "768세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000489&pblancNo=2024000489&houseSecd=01",
+		"in_date": "20240919",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "어썸웨이브 용산",
+		"addr": "충청북도 충주시 용산동 40번지 외 1필지",
+		"short_addr": "충청북도 충주시",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "충주시",
+		"apply_nums": "90세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000513&pblancNo=2024000513&houseSecd=01",
+		"in_date": "20240919",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "청담 르엘",
+		"addr": "서울특별시 강남구 청담동 134-18번지 일대",
+		"short_addr": "서울특별시 강남구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강남구",
+		"apply_nums": "149세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000457&pblancNo=2024000457&houseSecd=01",
 		"in_date": "20240919",
 		"hsecd": "01",
 		"rse": "01",
 		"type": "APT 특별공급",
-		"name": "한강 수자인 오브센트",
-		"addr": "경기도 김포시 북변동 184번지 일원",
-		"short_addr": "경기도 김포시",
+		"name": "한강 수자인 오브센트"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000516&pblancNo=2024000516&houseSecd=01",
+		"in_date": "20240920",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "북수원이목지구 대방 디에트르 더 리체Ⅰ",
+		"addr": "경기도 수원시 장안구 이목동 종전부동산 이목지구 도시개발사업 A4블록 공동주택용지",
+		"short_addr": "경기도 수원시",
 		"addr_lv1": "경기도",
-		"addr_lv2": "김포시",
-		"apply_nums": "2116세대"
+		"addr_lv2": "수원시",
+		"apply_nums": "768세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000489&pblancNo=2024000489&houseSecd=01",
+		"in_date": "20240920",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "어썸웨이브 용산",
+		"addr": "충청북도 충주시 용산동 40번지 외 1필지",
+		"short_addr": "충청북도 충주시",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "충주시",
+		"apply_nums": "90세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000513&pblancNo=2024000513&houseSecd=01",
+		"in_date": "20240920",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "청담 르엘",
+		"addr": "서울특별시 강남구 청담동 134-18번지 일대",
+		"short_addr": "서울특별시 강남구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강남구",
+		"apply_nums": "149세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000457&pblancNo=2024000457&houseSecd=01",
@@ -677,6 +682,45 @@
 		"apply_nums": "2116세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000513&pblancNo=2024000513&houseSecd=01",
+		"in_date": "20240923",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "청담 르엘",
+		"addr": "서울특별시 강남구 청담동 134-18번지 일대",
+		"short_addr": "서울특별시 강남구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강남구",
+		"apply_nums": "149세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000516&pblancNo=2024000516&houseSecd=01",
+		"in_date": "20240923",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "북수원이목지구 대방 디에트르 더 리체Ⅰ",
+		"addr": "경기도 수원시 장안구 이목동 종전부동산 이목지구 도시개발사업 A4블록 공동주택용지",
+		"short_addr": "경기도 수원시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "수원시",
+		"apply_nums": "768세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000489&pblancNo=2024000489&houseSecd=01",
+		"in_date": "20240923",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "어썸웨이브 용산",
+		"addr": "충청북도 충주시 용산동 40번지 외 1필지",
+		"short_addr": "충청북도 충주시",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "충주시",
+		"apply_nums": "90세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000457&pblancNo=2024000457&houseSecd=01",
 		"in_date": "20240923",
 		"hsecd": "01",
@@ -688,5 +732,18 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "김포시",
 		"apply_nums": "2116세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000513&pblancNo=2024000513&houseSecd=01",
+		"in_date": "20240924",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "청담 르엘",
+		"addr": "서울특별시 강남구 청담동 134-18번지 일대",
+		"short_addr": "서울특별시 강남구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강남구",
+		"apply_nums": "149세대"
 	}
 ]
