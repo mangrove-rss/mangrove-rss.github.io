@@ -1,39 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024850020&pblancNo=2024850020&houseSecd=03",
-		"in_date": "20240905",
-		"hsecd": "03",
-		"rse": "04",
-		"type": "",
-		"name": "서울은평뉴타운 디에트르 더 퍼스트"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930051&pblancNo=2024930051&houseSecd=06",
-		"in_date": "20240905",
-		"hsecd": "06",
-		"rse": "07",
-		"type": "",
-		"name": "무안 오룡지구 우미린 1차(43BL)",
-		"addr": "전라남도 무안군 일로읍 망월리 남악신도시 오룡지구 43BL",
-		"short_addr": "전라남도 무안군",
-		"addr_lv1": "전라남도",
-		"addr_lv2": "무안군",
-		"apply_nums": "7세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930052&pblancNo=2024930052&houseSecd=06",
-		"in_date": "20240905",
-		"hsecd": "06",
-		"rse": "07",
-		"type": "",
-		"name": "무안 오룡지구 우미린 2차(44BL)",
-		"addr": "전라남도 무안군 일로읍 망월리 남악신도시 오룡지구 44BL",
-		"short_addr": "전라남도 무안군",
-		"addr_lv1": "전라남도",
-		"addr_lv2": "무안군",
-		"apply_nums": "10세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940090&pblancNo=2024940090&houseSecd=11",
 		"in_date": "20240906",
 		"hsecd": "11",
@@ -627,6 +593,19 @@
 		"apply_nums": "2116세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950058&pblancNo=2024950058&houseSecd=02",
+		"in_date": "20240923",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "판교밸리자이 1단지 오피스텔",
+		"addr": "경기도 성남시 수정구 대왕판교로 995 (고등동, 판교밸리자이 1단지)",
+		"short_addr": "경기도 성남시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "성남시",
+		"apply_nums": "5세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000513&pblancNo=2024000513&houseSecd=01",
 		"in_date": "20240924",
 		"hsecd": "01",
@@ -638,5 +617,18 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "강남구",
 		"apply_nums": "149세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930058&pblancNo=2024930058&houseSecd=06",
+		"in_date": "20240925",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "화성동탄2지구 C7블록 예미지시그너스",
+		"addr": "경기도 화성시 동탄2택지개발지구 C7BL",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "1세대"
 	}
 ]
