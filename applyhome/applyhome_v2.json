@@ -1,136 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000468&pblancNo=2024000468&houseSecd=01",
-		"in_date": "20240909",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "광주태전 경남아너스빌 리미티드",
-		"addr": "경기도 광주시 장지동 695-14",
-		"short_addr": "경기도 광주시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "광주시",
-		"apply_nums": "404세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000479&pblancNo=2024000479&houseSecd=01",
-		"in_date": "20240909",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "김해 대청천 에피트",
-		"addr": "경상남도 김해시 삼문동 466번지 일원",
-		"short_addr": "경상남도 김해시",
-		"addr_lv1": "경상남도",
-		"addr_lv2": "김해시",
-		"apply_nums": "131세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000471&pblancNo=2024000471&houseSecd=01",
-		"in_date": "20240909",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "연신내 양우내안애 퍼스티지",
-		"addr": "서울특별시 은평구 갈현동 467-1 번지 일대",
-		"short_addr": "서울특별시 은평구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "은평구",
-		"apply_nums": "239세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000484&pblancNo=2024000484&houseSecd=01",
-		"in_date": "20240909",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "올림픽파크 서한포레스트",
-		"addr": "서울특별시 강동구 둔촌동 489번지",
-		"short_addr": "서울특별시 강동구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강동구",
-		"apply_nums": "109세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000290&pblancNo=2024000290&houseSecd=01",
-		"in_date": "20240909",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "힐스테이트 이천역 1단지",
-		"addr": "경기도 이천시 증일동 79-4번지 일원",
-		"short_addr": "경기도 이천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "이천시",
-		"apply_nums": "146세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000291&pblancNo=2024000291&houseSecd=01",
-		"in_date": "20240909",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "힐스테이트 이천역 2단지",
-		"addr": "경기도 이천시 증일동 60-5번지 일원",
-		"short_addr": "경기도 이천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "이천시",
-		"apply_nums": "168세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000478&pblancNo=2024000478&houseSecd=01",
-		"in_date": "20240909",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "소촌동 대라수",
-		"addr": "광주광역시 광산구 소촌로64번길 36 (소촌동, 소촌대라수아파트)",
-		"short_addr": "광주광역시 광산구",
-		"addr_lv1": "광주광역시",
-		"addr_lv2": "광산구",
-		"apply_nums": "40세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000382&pblancNo=2024000382&houseSecd=01",
-		"in_date": "20240909",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "위파크 제주 1단지",
-		"addr": "제주특별자치도 제주시 오라이동 854-1번지 일원",
-		"short_addr": "제주특별자치도 제주시",
-		"addr_lv1": "제주특별자치도",
-		"addr_lv2": "제주시",
-		"apply_nums": "617세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000383&pblancNo=2024000383&houseSecd=01",
-		"in_date": "20240909",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "위파크 제주 2단지",
-		"addr": "제주특별자치도 제주시 오라이동 923번지 일원",
-		"short_addr": "제주특별자치도 제주시",
-		"addr_lv1": "제주특별자치도",
-		"addr_lv2": "제주시",
-		"apply_nums": "643세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950057&pblancNo=2024950057&houseSecd=02",
-		"in_date": "20240909",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "더테라스 by 레드우즈파크",
-		"addr": "강원특별자치도 원주시 반곡동 2042번지",
-		"short_addr": "강원특별자치도 원주시",
-		"addr_lv1": "강원특별자치도",
-		"addr_lv2": "원주시",
-		"apply_nums": "640세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000468&pblancNo=2024000468&houseSecd=01",
 		"in_date": "20240910",
 		"hsecd": "01",
 		"rse": "02",
@@ -442,6 +312,19 @@
 		"apply_nums": "768세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000537&pblancNo=2024000537&houseSecd=01",
+		"in_date": "20240919",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "양주 백석 모아엘가 그랑데",
+		"addr": "경기도 양주시 백석읍 복지리 279-1일원",
+		"short_addr": "경기도 양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "양주시",
+		"apply_nums": "929세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000489&pblancNo=2024000489&houseSecd=01",
 		"in_date": "20240919",
 		"hsecd": "01",
@@ -479,6 +362,32 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "김포시",
 		"apply_nums": "2116세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910154&pblancNo=2024910154&houseSecd=04",
+		"in_date": "20240919",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "관저 푸르지오 센트럴파크 2단지(임의공급 7차)",
+		"addr": "대전광역시 서구 계백지구 도시개발사업구역 공동주택용지 A2블럭(가수원동 산 16-119번지 일원)",
+		"short_addr": "대전광역시 서구",
+		"addr_lv1": "대전광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "7세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910149&pblancNo=2024910149&houseSecd=04",
+		"in_date": "20240919",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "대구테크노폴리스 예미지 더 센트럴",
+		"addr": "대구광역시 달성군 유가읍 봉리 660번지 일원 대구테크노폴리스 RC블록",
+		"short_addr": "대구광역시 달성군",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "달성군",
+		"apply_nums": "2세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000516&pblancNo=2024000516&houseSecd=01",
@@ -494,6 +403,19 @@
 		"apply_nums": "768세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000537&pblancNo=2024000537&houseSecd=01",
+		"in_date": "20240920",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "양주 백석 모아엘가 그랑데",
+		"addr": "경기도 양주시 백석읍 복지리 279-1일원",
+		"short_addr": "경기도 양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "양주시",
+		"apply_nums": "929세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000489&pblancNo=2024000489&houseSecd=01",
 		"in_date": "20240920",
 		"hsecd": "01",
@@ -533,6 +455,82 @@
 		"apply_nums": "2116세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910154&pblancNo=2024910154&houseSecd=04",
+		"in_date": "20240920",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "관저 푸르지오 센트럴파크 2단지(임의공급 7차)",
+		"addr": "대전광역시 서구 계백지구 도시개발사업구역 공동주택용지 A2블럭(가수원동 산 16-119번지 일원)",
+		"short_addr": "대전광역시 서구",
+		"addr_lv1": "대전광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "7세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910147&pblancNo=2024910147&houseSecd=04",
+		"in_date": "20240920",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "동두천중앙역 엘크루 더퍼스트(3차)",
+		"addr": "경기도 동두천시 정장로17번길 26",
+		"short_addr": "경기도 동두천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "동두천시",
+		"apply_nums": "50세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940092&pblancNo=2024940092&houseSecd=11",
+		"in_date": "20240920",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "인천 유림노르웨이숲 에듀오션(5차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910147&pblancNo=2024910147&houseSecd=04",
+		"in_date": "20240921",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "동두천중앙역 엘크루 더퍼스트(3차)",
+		"addr": "경기도 동두천시 정장로17번길 26",
+		"short_addr": "경기도 동두천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "동두천시",
+		"apply_nums": "50세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940092&pblancNo=2024940092&houseSecd=11",
+		"in_date": "20240921",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "인천 유림노르웨이숲 에듀오션(5차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910147&pblancNo=2024910147&houseSecd=04",
+		"in_date": "20240922",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "동두천중앙역 엘크루 더퍼스트(3차)",
+		"addr": "경기도 동두천시 정장로17번길 26",
+		"short_addr": "경기도 동두천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "동두천시",
+		"apply_nums": "50세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940092&pblancNo=2024940092&houseSecd=11",
+		"in_date": "20240922",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "인천 유림노르웨이숲 에듀오션(5차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000492&pblancNo=2024000492&houseSecd=01",
 		"in_date": "20240923",
 		"hsecd": "01",
@@ -544,6 +542,19 @@
 		"addr_lv1": "충청북도",
 		"addr_lv2": "충주시",
 		"apply_nums": "173세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000210&pblancNo=2024000210&houseSecd=01",
+		"in_date": "20240923",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "해링턴 스퀘어 신흥역",
+		"addr": "경기도 성남시 중원구 중앙동 912번지 일원",
+		"short_addr": "경기도 성남시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "성남시",
+		"apply_nums": "1319세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000513&pblancNo=2024000513&houseSecd=01",
@@ -570,6 +581,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "수원시",
 		"apply_nums": "768세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000537&pblancNo=2024000537&houseSecd=01",
+		"in_date": "20240923",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "양주 백석 모아엘가 그랑데",
+		"addr": "경기도 양주시 백석읍 복지리 279-1일원",
+		"short_addr": "경기도 양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "양주시",
+		"apply_nums": "929세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000489&pblancNo=2024000489&houseSecd=01",
@@ -611,6 +635,19 @@
 		"apply_nums": "5세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910147&pblancNo=2024910147&houseSecd=04",
+		"in_date": "20240923",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "동두천중앙역 엘크루 더퍼스트(3차)",
+		"addr": "경기도 동두천시 정장로17번길 26",
+		"short_addr": "경기도 동두천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "동두천시",
+		"apply_nums": "50세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910151&pblancNo=2024910151&houseSecd=04",
 		"in_date": "20240923",
 		"hsecd": "04",
@@ -622,6 +659,27 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "부천시",
 		"apply_nums": "24세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910145&pblancNo=2024910145&houseSecd=04",
+		"in_date": "20240923",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "오산 세교2지구 A1블록 호반써밋 라센트 무순위(사후)2차",
+		"addr": "경기도 오산시 궐동 죽담로 107",
+		"short_addr": "경기도 오산시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "오산시",
+		"apply_nums": "5세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940092&pblancNo=2024940092&houseSecd=11",
+		"in_date": "20240923",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "인천 유림노르웨이숲 에듀오션(5차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000492&pblancNo=2024000492&houseSecd=01",
@@ -637,6 +695,19 @@
 		"apply_nums": "173세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000210&pblancNo=2024000210&houseSecd=01",
+		"in_date": "20240924",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "해링턴 스퀘어 신흥역",
+		"addr": "경기도 성남시 중원구 중앙동 912번지 일원",
+		"short_addr": "경기도 성남시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "성남시",
+		"apply_nums": "1319세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000513&pblancNo=2024000513&houseSecd=01",
 		"in_date": "20240924",
 		"hsecd": "01",
@@ -650,6 +721,32 @@
 		"apply_nums": "149세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910147&pblancNo=2024910147&houseSecd=04",
+		"in_date": "20240924",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "동두천중앙역 엘크루 더퍼스트(3차)",
+		"addr": "경기도 동두천시 정장로17번길 26",
+		"short_addr": "경기도 동두천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "동두천시",
+		"apply_nums": "50세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930056&pblancNo=2024930056&houseSecd=06",
+		"in_date": "20240924",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "다산신도시 지금지구 B4블록 금강펜테리움 리버테라스",
+		"addr": "경기도 남양주시 다산지금 공공주택지구 B-4블록(경기도 남양주시 다산지금로 145번길 15)",
+		"short_addr": "경기도 남양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "남양주시",
+		"apply_nums": "1세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000492&pblancNo=2024000492&houseSecd=01",
 		"in_date": "20240925",
 		"hsecd": "01",
@@ -661,6 +758,19 @@
 		"addr_lv1": "충청북도",
 		"addr_lv2": "충주시",
 		"apply_nums": "173세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000210&pblancNo=2024000210&houseSecd=01",
+		"in_date": "20240925",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "해링턴 스퀘어 신흥역",
+		"addr": "경기도 성남시 중원구 중앙동 912번지 일원",
+		"short_addr": "경기도 성남시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "성남시",
+		"apply_nums": "1319세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930058&pblancNo=2024930058&houseSecd=06",
