@@ -1,31 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910148&pblancNo=2024910148&houseSecd=04",
-		"in_date": "20240912",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "청주 흥덕 칸타빌 더뉴(임의공급 9차)",
-		"addr": "충청북도 청주시 흥덕구 강내면 월곡리 82-1 일원",
-		"short_addr": "충청북도 청주시",
-		"addr_lv1": "충청북도",
-		"addr_lv2": "청주시",
-		"apply_nums": "2세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930050&pblancNo=2024930050&houseSecd=06",
-		"in_date": "20240912",
-		"hsecd": "06",
-		"rse": "07",
-		"type": "",
-		"name": "파주운정신도시 디에트르 에듀타운(A38BL)",
-		"addr": "경기도 파주시 파주운정3지구 A38BL 공동주택용지",
-		"short_addr": "경기도 파주시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "파주시",
-		"apply_nums": "3세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000516&pblancNo=2024000516&houseSecd=01",
 		"in_date": "20240919",
 		"hsecd": "01",
