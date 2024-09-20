@@ -513,6 +513,19 @@
 		"apply_nums": "1319세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950061&pblancNo=2024950061&houseSecd=02",
+		"in_date": "20240925",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "천안역 필하우스 에듀시티 2단지",
+		"addr": "충청남도 천안시 동남구 성황로 66 (문화동)",
+		"short_addr": "충청남도 천안시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "천안시",
+		"apply_nums": "15세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910155&pblancNo=2024910155&houseSecd=04",
 		"in_date": "20240925",
 		"hsecd": "04",
@@ -563,6 +576,19 @@
 		"addr_lv1": "충청남도",
 		"addr_lv2": "아산시",
 		"apply_nums": "5세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950061&pblancNo=2024950061&houseSecd=02",
+		"in_date": "20240926",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "천안역 필하우스 에듀시티 2단지",
+		"addr": "충청남도 천안시 동남구 성황로 66 (문화동)",
+		"short_addr": "충청남도 천안시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "천안시",
+		"apply_nums": "15세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910152&pblancNo=2024910152&houseSecd=04",
@@ -630,6 +656,19 @@
 		"apply_nums": "5세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950061&pblancNo=2024950061&houseSecd=02",
+		"in_date": "20240927",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "천안역 필하우스 에듀시티 2단지",
+		"addr": "충청남도 천안시 동남구 성황로 66 (문화동)",
+		"short_addr": "충청남도 천안시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "천안시",
+		"apply_nums": "15세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930054&pblancNo=2024930054&houseSecd=06",
 		"in_date": "20240927",
 		"hsecd": "06",
@@ -643,6 +682,32 @@
 		"apply_nums": "1세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950061&pblancNo=2024950061&houseSecd=02",
+		"in_date": "20240928",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "천안역 필하우스 에듀시티 2단지",
+		"addr": "충청남도 천안시 동남구 성황로 66 (문화동)",
+		"short_addr": "충청남도 천안시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "천안시",
+		"apply_nums": "15세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950061&pblancNo=2024950061&houseSecd=02",
+		"in_date": "20240929",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "천안역 필하우스 에듀시티 2단지",
+		"addr": "충청남도 천안시 동남구 성황로 66 (문화동)",
+		"short_addr": "충청남도 천안시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "천안시",
+		"apply_nums": "15세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000387&pblancNo=2024000387&houseSecd=01",
 		"in_date": "20240930",
 		"hsecd": "01",
@@ -654,6 +719,19 @@
 		"addr_lv1": "부산광역시",
 		"addr_lv2": "수영구",
 		"apply_nums": "567세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000517&pblancNo=2024000517&houseSecd=01",
+		"in_date": "20240930",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "원주역 우미 린 더 스카이",
+		"addr": "강원특별자치도 원주시 남원주역세권 AC-4블럭(무실동 2002번지)",
+		"short_addr": "강원특별자치도 원주시",
+		"addr_lv1": "강원특별자치도",
+		"addr_lv2": "원주시",
+		"apply_nums": "900세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000307&pblancNo=2024000307&houseSecd=01",
@@ -669,6 +747,32 @@
 		"apply_nums": "671세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950061&pblancNo=2024950061&houseSecd=02",
+		"in_date": "20240930",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "천안역 필하우스 에듀시티 2단지",
+		"addr": "충청남도 천안시 동남구 성황로 66 (문화동)",
+		"short_addr": "충청남도 천안시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "천안시",
+		"apply_nums": "15세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950061&pblancNo=2024950061&houseSecd=02",
+		"in_date": "20241001",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "천안역 필하우스 에듀시티 2단지",
+		"addr": "충청남도 천안시 동남구 성황로 66 (문화동)",
+		"short_addr": "충청남도 천안시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "천안시",
+		"apply_nums": "15세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000387&pblancNo=2024000387&houseSecd=01",
 		"in_date": "20241002",
 		"hsecd": "01",
@@ -682,6 +786,19 @@
 		"apply_nums": "567세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000517&pblancNo=2024000517&houseSecd=01",
+		"in_date": "20241002",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "원주역 우미 린 더 스카이",
+		"addr": "강원특별자치도 원주시 남원주역세권 AC-4블럭(무실동 2002번지)",
+		"short_addr": "강원특별자치도 원주시",
+		"addr_lv1": "강원특별자치도",
+		"addr_lv2": "원주시",
+		"apply_nums": "900세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000307&pblancNo=2024000307&houseSecd=01",
 		"in_date": "20241002",
 		"hsecd": "01",
@@ -693,6 +810,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "의정부시",
 		"apply_nums": "671세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950061&pblancNo=2024950061&houseSecd=02",
+		"in_date": "20241002",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "천안역 필하우스 에듀시티 2단지",
+		"addr": "충청남도 천안시 동남구 성황로 66 (문화동)",
+		"short_addr": "충청남도 천안시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "천안시",
+		"apply_nums": "15세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000387&pblancNo=2024000387&houseSecd=01",
@@ -706,6 +836,19 @@
 		"addr_lv1": "부산광역시",
 		"addr_lv2": "수영구",
 		"apply_nums": "567세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000517&pblancNo=2024000517&houseSecd=01",
+		"in_date": "20241004",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "원주역 우미 린 더 스카이",
+		"addr": "강원특별자치도 원주시 남원주역세권 AC-4블럭(무실동 2002번지)",
+		"short_addr": "강원특별자치도 원주시",
+		"addr_lv1": "강원특별자치도",
+		"addr_lv2": "원주시",
+		"apply_nums": "900세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000307&pblancNo=2024000307&houseSecd=01",
