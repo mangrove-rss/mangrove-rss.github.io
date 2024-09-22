@@ -1,97 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000516&pblancNo=2024000516&houseSecd=01",
-		"in_date": "20240919",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "북수원이목지구 대방 디에트르 더 리체Ⅰ",
-		"addr": "경기도 수원시 장안구 이목동 종전부동산 이목지구 도시개발사업 A4블록 공동주택용지",
-		"short_addr": "경기도 수원시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "수원시",
-		"apply_nums": "768세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000537&pblancNo=2024000537&houseSecd=01",
-		"in_date": "20240919",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "양주 백석 모아엘가 그랑데",
-		"addr": "경기도 양주시 백석읍 복지리 279-1일원",
-		"short_addr": "경기도 양주시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "양주시",
-		"apply_nums": "929세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000489&pblancNo=2024000489&houseSecd=01",
-		"in_date": "20240919",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "어썸웨이브 용산",
-		"addr": "충청북도 충주시 용산동 40번지 외 1필지",
-		"short_addr": "충청북도 충주시",
-		"addr_lv1": "충청북도",
-		"addr_lv2": "충주시",
-		"apply_nums": "90세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000513&pblancNo=2024000513&houseSecd=01",
-		"in_date": "20240919",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "청담 르엘",
-		"addr": "서울특별시 강남구 청담동 134-18번지 일대",
-		"short_addr": "서울특별시 강남구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강남구",
-		"apply_nums": "149세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000457&pblancNo=2024000457&houseSecd=01",
-		"in_date": "20240919",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "한강 수자인 오브센트",
-		"addr": "경기도 김포시 북변동 184번지 일원",
-		"short_addr": "경기도 김포시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "김포시",
-		"apply_nums": "2116세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910154&pblancNo=2024910154&houseSecd=04",
-		"in_date": "20240919",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "관저 푸르지오 센트럴파크 2단지(임의공급 7차)",
-		"addr": "대전광역시 서구 계백지구 도시개발사업구역 공동주택용지 A2블럭(가수원동 산 16-119번지 일원)",
-		"short_addr": "대전광역시 서구",
-		"addr_lv1": "대전광역시",
-		"addr_lv2": "서구",
-		"apply_nums": "7세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910149&pblancNo=2024910149&houseSecd=04",
-		"in_date": "20240919",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "대구테크노폴리스 예미지 더 센트럴",
-		"addr": "대구광역시 달성군 유가읍 봉리 660번지 일원 대구테크노폴리스 RC블록",
-		"short_addr": "대구광역시 달성군",
-		"addr_lv1": "대구광역시",
-		"addr_lv2": "달성군",
-		"apply_nums": "2세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000516&pblancNo=2024000516&houseSecd=01",
 		"in_date": "20240920",
 		"hsecd": "01",
 		"rse": "02",
@@ -747,6 +656,19 @@
 		"apply_nums": "671세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950059&pblancNo=2024950059&houseSecd=02",
+		"in_date": "20240930",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "인시그니아 반포",
+		"addr": "서울특별시 서초구 방배동 750-20, 22번지",
+		"short_addr": "서울특별시 서초구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "서초구",
+		"apply_nums": "24세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950061&pblancNo=2024950061&houseSecd=02",
 		"in_date": "20240930",
 		"hsecd": "02",
@@ -823,6 +745,19 @@
 		"addr_lv1": "충청남도",
 		"addr_lv2": "천안시",
 		"apply_nums": "15세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910150&pblancNo=2024910150&houseSecd=04",
+		"in_date": "20241002",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "포레나 영흥숲",
+		"addr": "경기도 수원시 영통구 원천동 333-1번지 일원",
+		"short_addr": "경기도 수원시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "수원시",
+		"apply_nums": "3세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000387&pblancNo=2024000387&houseSecd=01",
