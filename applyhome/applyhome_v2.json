@@ -1,47 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910147&pblancNo=2024910147&houseSecd=04",
-		"in_date": "20240921",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "동두천중앙역 엘크루 더퍼스트(3차)",
-		"addr": "경기도 동두천시 정장로17번길 26",
-		"short_addr": "경기도 동두천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "동두천시",
-		"apply_nums": "50세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940092&pblancNo=2024940092&houseSecd=11",
-		"in_date": "20240921",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "인천 유림노르웨이숲 에듀오션(5차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910147&pblancNo=2024910147&houseSecd=04",
-		"in_date": "20240922",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "동두천중앙역 엘크루 더퍼스트(3차)",
-		"addr": "경기도 동두천시 정장로17번길 26",
-		"short_addr": "경기도 동두천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "동두천시",
-		"apply_nums": "50세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940092&pblancNo=2024940092&houseSecd=11",
-		"in_date": "20240922",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "인천 유림노르웨이숲 에듀오션(5차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000492&pblancNo=2024000492&houseSecd=01",
 		"in_date": "20240923",
 		"hsecd": "01",
@@ -557,6 +515,27 @@
 		"apply_nums": "671세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024850021&pblancNo=2024850021&houseSecd=03",
+		"in_date": "20240930",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "성산 삼정그린코아 웰레스트"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950063&pblancNo=2024950063&houseSecd=02",
+		"in_date": "20240930",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "라포르테 블랑 여의도",
+		"addr": "서울특별시 영등포구 국회대로68길 24 (여의도동)",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "10세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950059&pblancNo=2024950059&houseSecd=02",
 		"in_date": "20240930",
 		"hsecd": "02",
@@ -583,6 +562,58 @@
 		"apply_nums": "15세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950064&pblancNo=2024950064&houseSecd=02",
+		"in_date": "20240930",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "평촌 어바인퍼스트 더샵",
+		"addr": "경기도 안양시 동안구 호계동 956번지 일원",
+		"short_addr": "경기도 안양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "안양시",
+		"apply_nums": "99세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950065&pblancNo=2024950065&houseSecd=02",
+		"in_date": "20240930",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "현대프라힐스 소사역 더프라임",
+		"addr": "경기도 부천시 소사구 소사본동 70-6",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "2세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910156&pblancNo=2024910156&houseSecd=04",
+		"in_date": "20240930",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "포레나 인천학익(임의공급 8차)",
+		"addr": "인천광역시 미추홀구 학익2동 290-1",
+		"short_addr": "인천광역시 미추홀구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "미추홀구",
+		"apply_nums": "15세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950063&pblancNo=2024950063&houseSecd=02",
+		"in_date": "20241001",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "라포르테 블랑 여의도",
+		"addr": "서울특별시 영등포구 국회대로68길 24 (여의도동)",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "10세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950061&pblancNo=2024950061&houseSecd=02",
 		"in_date": "20241001",
 		"hsecd": "02",
@@ -594,6 +625,19 @@
 		"addr_lv1": "충청남도",
 		"addr_lv2": "천안시",
 		"apply_nums": "15세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950064&pblancNo=2024950064&houseSecd=02",
+		"in_date": "20241001",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "평촌 어바인퍼스트 더샵",
+		"addr": "경기도 안양시 동안구 호계동 956번지 일원",
+		"short_addr": "경기도 안양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "안양시",
+		"apply_nums": "99세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000387&pblancNo=2024000387&houseSecd=01",
@@ -635,6 +679,19 @@
 		"apply_nums": "671세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950063&pblancNo=2024950063&houseSecd=02",
+		"in_date": "20241002",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "라포르테 블랑 여의도",
+		"addr": "서울특별시 영등포구 국회대로68길 24 (여의도동)",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "10세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950061&pblancNo=2024950061&houseSecd=02",
 		"in_date": "20241002",
 		"hsecd": "02",
@@ -646,6 +703,32 @@
 		"addr_lv1": "충청남도",
 		"addr_lv2": "천안시",
 		"apply_nums": "15세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950064&pblancNo=2024950064&houseSecd=02",
+		"in_date": "20241002",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "평촌 어바인퍼스트 더샵",
+		"addr": "경기도 안양시 동안구 호계동 956번지 일원",
+		"short_addr": "경기도 안양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "안양시",
+		"apply_nums": "99세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910158&pblancNo=2024910158&houseSecd=04",
+		"in_date": "20241002",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "서대문 센트럴 아이파크(임의공급 4차)",
+		"addr": "서울특별시 서대문구 홍은동 11-111번지 일원",
+		"short_addr": "서울특별시 서대문구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "서대문구",
+		"apply_nums": "44세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910150&pblancNo=2024910150&houseSecd=04",
@@ -661,6 +744,19 @@
 		"apply_nums": "3세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000049&pblancNo=2024000049&houseSecd=01",
+		"in_date": "20241004",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "인제 라포레 아파트",
+		"addr": "강원특별자치도 인제군 북면 원통리 1980번지",
+		"short_addr": "강원특별자치도 인제군",
+		"addr_lv1": "강원특별자치도",
+		"addr_lv2": "인제군",
+		"apply_nums": "121세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000387&pblancNo=2024000387&houseSecd=01",
 		"in_date": "20241004",
 		"hsecd": "01",
@@ -698,5 +794,148 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "의정부시",
 		"apply_nums": "671세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000551&pblancNo=2024000551&houseSecd=01",
+		"in_date": "20241007",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "광안센텀 비스타동원",
+		"addr": "부산광역시 수영구 광안동 971번지 외 157필지",
+		"short_addr": "부산광역시 수영구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "수영구",
+		"apply_nums": "208세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000049&pblancNo=2024000049&houseSecd=01",
+		"in_date": "20241007",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "인제 라포레 아파트",
+		"addr": "강원특별자치도 인제군 북면 원통리 1980번지",
+		"short_addr": "강원특별자치도 인제군",
+		"addr_lv1": "강원특별자치도",
+		"addr_lv2": "인제군",
+		"apply_nums": "121세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000540&pblancNo=2024000540&houseSecd=01",
+		"in_date": "20241007",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "판교원마을 6단지 대광로제비앙 우선 분양 후 잔여세대",
+		"addr": "경기도 성남시 분당구 판교원로 209 (판교동, 판교원마을6단지아파트)",
+		"short_addr": "경기도 성남시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "성남시",
+		"apply_nums": "4세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000547&pblancNo=2024000547&houseSecd=01",
+		"in_date": "20241008",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "디에이치 대치 에델루이",
+		"addr": "서울특별시 강남구 대치동 964번지 일대",
+		"short_addr": "서울특별시 강남구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강남구",
+		"apply_nums": "72세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000551&pblancNo=2024000551&houseSecd=01",
+		"in_date": "20241008",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "광안센텀 비스타동원",
+		"addr": "부산광역시 수영구 광안동 971번지 외 157필지",
+		"short_addr": "부산광역시 수영구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "수영구",
+		"apply_nums": "208세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000049&pblancNo=2024000049&houseSecd=01",
+		"in_date": "20241008",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "인제 라포레 아파트",
+		"addr": "강원특별자치도 인제군 북면 원통리 1980번지",
+		"short_addr": "강원특별자치도 인제군",
+		"addr_lv1": "강원특별자치도",
+		"addr_lv2": "인제군",
+		"apply_nums": "121세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000540&pblancNo=2024000540&houseSecd=01",
+		"in_date": "20241008",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "판교원마을 6단지 대광로제비앙 우선 분양 후 잔여세대",
+		"addr": "경기도 성남시 분당구 판교원로 209 (판교동, 판교원마을6단지아파트)",
+		"short_addr": "경기도 성남시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "성남시",
+		"apply_nums": "4세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000547&pblancNo=2024000547&houseSecd=01",
+		"in_date": "20241010",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "디에이치 대치 에델루이",
+		"addr": "서울특별시 강남구 대치동 964번지 일대",
+		"short_addr": "서울특별시 강남구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강남구",
+		"apply_nums": "72세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000551&pblancNo=2024000551&houseSecd=01",
+		"in_date": "20241010",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "광안센텀 비스타동원",
+		"addr": "부산광역시 수영구 광안동 971번지 외 157필지",
+		"short_addr": "부산광역시 수영구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "수영구",
+		"apply_nums": "208세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000547&pblancNo=2024000547&houseSecd=01",
+		"in_date": "20241011",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "디에이치 대치 에델루이",
+		"addr": "서울특별시 강남구 대치동 964번지 일대",
+		"short_addr": "서울특별시 강남구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강남구",
+		"apply_nums": "72세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000547&pblancNo=2024000547&houseSecd=01",
+		"in_date": "20241014",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "디에이치 대치 에델루이",
+		"addr": "서울특별시 강남구 대치동 964번지 일대",
+		"short_addr": "서울특별시 강남구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강남구",
+		"apply_nums": "72세대"
 	}
 ]
