@@ -1,84 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000492&pblancNo=2024000492&houseSecd=01",
-		"in_date": "20240924",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "한화포레나 충주호암",
-		"addr": "충청북도 충주시 호암동 193-2번지 일원",
-		"short_addr": "충청북도 충주시",
-		"addr_lv1": "충청북도",
-		"addr_lv2": "충주시",
-		"apply_nums": "173세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000210&pblancNo=2024000210&houseSecd=01",
-		"in_date": "20240924",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "해링턴 스퀘어 신흥역",
-		"addr": "경기도 성남시 중원구 중앙동 912번지 일원",
-		"short_addr": "경기도 성남시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "성남시",
-		"apply_nums": "1319세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000520&pblancNo=2024000520&houseSecd=01",
-		"in_date": "20240924",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "동래 롯데캐슬 시그니처(조합원 취소분)",
-		"addr": "부산광역시 동래구 수안동 36-2번지 일원",
-		"short_addr": "부산광역시 동래구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "동래구",
-		"apply_nums": "8세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000513&pblancNo=2024000513&houseSecd=01",
-		"in_date": "20240924",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "청담 르엘",
-		"addr": "서울특별시 강남구 청담동 134-18번지 일대",
-		"short_addr": "서울특별시 강남구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강남구",
-		"apply_nums": "149세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910147&pblancNo=2024910147&houseSecd=04",
-		"in_date": "20240924",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "동두천중앙역 엘크루 더퍼스트(3차)",
-		"addr": "경기도 동두천시 정장로17번길 26",
-		"short_addr": "경기도 동두천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "동두천시",
-		"apply_nums": "50세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930056&pblancNo=2024930056&houseSecd=06",
-		"in_date": "20240924",
-		"hsecd": "06",
-		"rse": "07",
-		"type": "",
-		"name": "다산신도시 지금지구 B4블록 금강펜테리움 리버테라스",
-		"addr": "경기도 남양주시 다산지금 공공주택지구 B-4블록(경기도 남양주시 다산지금로 145번길 15)",
-		"short_addr": "경기도 남양주시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "남양주시",
-		"apply_nums": "1세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000492&pblancNo=2024000492&houseSecd=01",
 		"in_date": "20240925",
 		"hsecd": "01",
 		"rse": "03",
@@ -671,6 +593,19 @@
 		"apply_nums": "208세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000534&pblancNo=2024000534&houseSecd=01",
+		"in_date": "20241007",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "마포 에피트 어바닉",
+		"addr": "서울특별시 마포구 아현동 617-1 일원",
+		"short_addr": "서울특별시 마포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "마포구",
+		"apply_nums": "163세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000566&pblancNo=2024000566&houseSecd=01",
 		"in_date": "20241007",
 		"hsecd": "01",
@@ -708,6 +643,32 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "미추홀구",
 		"apply_nums": "1734세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000502&pblancNo=2024000502&houseSecd=01",
+		"in_date": "20241007",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "프레스티어자이",
+		"addr": "경기도 과천시 별양동 7번지 일원",
+		"short_addr": "경기도 과천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "과천시",
+		"apply_nums": "287세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000333&pblancNo=2024000333&houseSecd=01",
+		"in_date": "20241007",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "하우스토리 센트럴포레",
+		"addr": "서울특별시 노원구 공릉동 270-71번지",
+		"short_addr": "서울특별시 노원구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "노원구",
+		"apply_nums": "40세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000558&pblancNo=2024000558&houseSecd=01",
@@ -801,6 +762,19 @@
 		"apply_nums": "208세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000534&pblancNo=2024000534&houseSecd=01",
+		"in_date": "20241008",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "마포 에피트 어바닉",
+		"addr": "서울특별시 마포구 아현동 617-1 일원",
+		"short_addr": "서울특별시 마포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "마포구",
+		"apply_nums": "163세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000566&pblancNo=2024000566&houseSecd=01",
 		"in_date": "20241008",
 		"hsecd": "01",
@@ -838,6 +812,32 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "미추홀구",
 		"apply_nums": "1734세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000502&pblancNo=2024000502&houseSecd=01",
+		"in_date": "20241008",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "프레스티어자이",
+		"addr": "경기도 과천시 별양동 7번지 일원",
+		"short_addr": "경기도 과천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "과천시",
+		"apply_nums": "287세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000333&pblancNo=2024000333&houseSecd=01",
+		"in_date": "20241008",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "하우스토리 센트럴포레",
+		"addr": "서울특별시 노원구 공릉동 270-71번지",
+		"short_addr": "서울특별시 노원구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "노원구",
+		"apply_nums": "40세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000558&pblancNo=2024000558&houseSecd=01",
@@ -918,6 +918,19 @@
 		"apply_nums": "208세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000534&pblancNo=2024000534&houseSecd=01",
+		"in_date": "20241010",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "마포 에피트 어바닉",
+		"addr": "서울특별시 마포구 아현동 617-1 일원",
+		"short_addr": "서울특별시 마포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "마포구",
+		"apply_nums": "163세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000566&pblancNo=2024000566&houseSecd=01",
 		"in_date": "20241010",
 		"hsecd": "01",
@@ -955,6 +968,32 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "미추홀구",
 		"apply_nums": "1734세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000502&pblancNo=2024000502&houseSecd=01",
+		"in_date": "20241010",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "프레스티어자이",
+		"addr": "경기도 과천시 별양동 7번지 일원",
+		"short_addr": "경기도 과천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "과천시",
+		"apply_nums": "287세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000333&pblancNo=2024000333&houseSecd=01",
+		"in_date": "20241010",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "하우스토리 센트럴포레",
+		"addr": "서울특별시 노원구 공릉동 270-71번지",
+		"short_addr": "서울특별시 노원구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "노원구",
+		"apply_nums": "40세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910160&pblancNo=2024910160&houseSecd=04",
