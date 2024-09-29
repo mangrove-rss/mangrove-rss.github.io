@@ -1,84 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950061&pblancNo=2024950061&houseSecd=02",
-		"in_date": "20240926",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "천안역 필하우스 에듀시티 2단지",
-		"addr": "충청남도 천안시 동남구 성황로 66 (문화동)",
-		"short_addr": "충청남도 천안시",
-		"addr_lv1": "충청남도",
-		"addr_lv2": "천안시",
-		"apply_nums": "15세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910152&pblancNo=2024910152&houseSecd=04",
-		"in_date": "20240926",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "용인 에버랜드역 칸타빌(임의공급 3차)",
-		"addr": "경기도 용인시 처인구 포곡읍 전대리 192-2외 5필지",
-		"short_addr": "경기도 용인시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "용인시",
-		"apply_nums": "20세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910153&pblancNo=2024910153&houseSecd=04",
-		"in_date": "20240926",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "천호역 마에스트로(임의공급 1차)",
-		"addr": "서울특별시 강동구 천호동 334-2",
-		"short_addr": "서울특별시 강동구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강동구",
-		"apply_nums": "38세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930059&pblancNo=2024930059&houseSecd=06",
-		"in_date": "20240926",
-		"hsecd": "06",
-		"rse": "07",
-		"type": "",
-		"name": "세종 어울림파밀리에 센트럴 M1블록(새나루마을 11단지)",
-		"addr": "세종특별자치시 집현서2로 84 (집현동, 새나루마을 11단지)",
-		"short_addr": "세종특별자치시 집현서2로",
-		"addr_lv1": "세종특별자치시",
-		"addr_lv2": "집현서2로",
-		"apply_nums": "1세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930060&pblancNo=2024930060&houseSecd=06",
-		"in_date": "20240926",
-		"hsecd": "06",
-		"rse": "07",
-		"type": "",
-		"name": "세종 어울림파밀리에 센트럴 M4블록(새나루마을 9단지)",
-		"addr": "세종특별자치시 시청대로 642 (집현동, 새나루마을 9단지)",
-		"short_addr": "세종특별자치시 시청대로",
-		"addr_lv1": "세종특별자치시",
-		"addr_lv2": "시청대로",
-		"apply_nums": "1세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930057&pblancNo=2024930057&houseSecd=06",
-		"in_date": "20240926",
-		"hsecd": "06",
-		"rse": "07",
-		"type": "",
-		"name": "힐스테이트 모종 네오루체",
-		"addr": "충청남도 아산시 못마루로 139",
-		"short_addr": "충청남도 아산시",
-		"addr_lv1": "충청남도",
-		"addr_lv2": "아산시",
-		"apply_nums": "5세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950061&pblancNo=2024950061&houseSecd=02",
 		"in_date": "20240927",
 		"hsecd": "02",
 		"rse": "05",
@@ -476,6 +398,38 @@
 		"apply_nums": "671세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940093&pblancNo=2024940093&houseSecd=11",
+		"in_date": "20241004",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "제기동역 파밀리에 더센트럴"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940094&pblancNo=2024940094&houseSecd=11",
+		"in_date": "20241004",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "진위역 서희스타힐스 더 파크뷰"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940093&pblancNo=2024940093&houseSecd=11",
+		"in_date": "20241005",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "제기동역 파밀리에 더센트럴"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940093&pblancNo=2024940093&houseSecd=11",
+		"in_date": "20241006",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "제기동역 파밀리에 더센트럴"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000473&pblancNo=2024000473&houseSecd=01",
 		"in_date": "20241007",
 		"hsecd": "01",
@@ -632,6 +586,14 @@
 		"apply_nums": "4세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940093&pblancNo=2024940093&houseSecd=11",
+		"in_date": "20241007",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "제기동역 파밀리에 더센트럴"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000547&pblancNo=2024000547&houseSecd=01",
 		"in_date": "20241008",
 		"hsecd": "01",
@@ -788,6 +750,19 @@
 		"apply_nums": "4세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000574&pblancNo=2024000574&houseSecd=01",
+		"in_date": "20241010",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "이천 서희스타힐스 SKY (조합원 취소분)",
+		"addr": "경기도 이천시 안흥동 279-1번지 일원",
+		"short_addr": "경기도 이천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "이천시",
+		"apply_nums": "48세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000547&pblancNo=2024000547&houseSecd=01",
 		"in_date": "20241010",
 		"hsecd": "01",
@@ -918,6 +893,19 @@
 		"apply_nums": "4세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910163&pblancNo=2024910163&houseSecd=04",
+		"in_date": "20241010",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "수유 시그니티 무순위(임의공급 5차)",
+		"addr": "서울특별시 강북구 수유동 87-5번지",
+		"short_addr": "서울특별시 강북구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강북구",
+		"apply_nums": "8세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000547&pblancNo=2024000547&houseSecd=01",
 		"in_date": "20241011",
 		"hsecd": "01",
@@ -931,6 +919,19 @@
 		"apply_nums": "72세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000574&pblancNo=2024000574&houseSecd=01",
+		"in_date": "20241011",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "이천 서희스타힐스 SKY (조합원 취소분)",
+		"addr": "경기도 이천시 안흥동 279-1번지 일원",
+		"short_addr": "경기도 이천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "이천시",
+		"apply_nums": "48세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000547&pblancNo=2024000547&houseSecd=01",
 		"in_date": "20241014",
 		"hsecd": "01",
@@ -942,5 +943,18 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "강남구",
 		"apply_nums": "72세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000574&pblancNo=2024000574&houseSecd=01",
+		"in_date": "20241014",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "이천 서희스타힐스 SKY (조합원 취소분)",
+		"addr": "경기도 이천시 안흥동 279-1번지 일원",
+		"short_addr": "경기도 이천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "이천시",
+		"apply_nums": "48세대"
 	}
 ]
