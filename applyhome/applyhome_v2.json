@@ -1,182 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950061&pblancNo=2024950061&houseSecd=02",
-		"in_date": "20240927",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "천안역 필하우스 에듀시티 2단지",
-		"addr": "충청남도 천안시 동남구 성황로 66 (문화동)",
-		"short_addr": "충청남도 천안시",
-		"addr_lv1": "충청남도",
-		"addr_lv2": "천안시",
-		"apply_nums": "15세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930054&pblancNo=2024930054&houseSecd=06",
-		"in_date": "20240927",
-		"hsecd": "06",
-		"rse": "07",
-		"type": "",
-		"name": "이수푸르지오 더 프레티움",
-		"addr": "서울특별시 동작구 동작대로39길 39",
-		"short_addr": "서울특별시 동작구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "동작구",
-		"apply_nums": "1세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950061&pblancNo=2024950061&houseSecd=02",
-		"in_date": "20240928",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "천안역 필하우스 에듀시티 2단지",
-		"addr": "충청남도 천안시 동남구 성황로 66 (문화동)",
-		"short_addr": "충청남도 천안시",
-		"addr_lv1": "충청남도",
-		"addr_lv2": "천안시",
-		"apply_nums": "15세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950061&pblancNo=2024950061&houseSecd=02",
-		"in_date": "20240929",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "천안역 필하우스 에듀시티 2단지",
-		"addr": "충청남도 천안시 동남구 성황로 66 (문화동)",
-		"short_addr": "충청남도 천안시",
-		"addr_lv1": "충청남도",
-		"addr_lv2": "천안시",
-		"apply_nums": "15세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000387&pblancNo=2024000387&houseSecd=01",
-		"in_date": "20240930",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "드파인 광안",
-		"addr": "부산광역시 수영구 광안동 1240-38번지",
-		"short_addr": "부산광역시 수영구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "수영구",
-		"apply_nums": "567세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000517&pblancNo=2024000517&houseSecd=01",
-		"in_date": "20240930",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "원주역 우미 린 더 스카이",
-		"addr": "강원특별자치도 원주시 남원주역세권 AC-4블럭(무실동 2002번지)",
-		"short_addr": "강원특별자치도 원주시",
-		"addr_lv1": "강원특별자치도",
-		"addr_lv2": "원주시",
-		"apply_nums": "900세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000307&pblancNo=2024000307&houseSecd=01",
-		"in_date": "20240930",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "의정부 롯데캐슬 나리벡시티",
-		"addr": "경기도 의정부시 금오동 산 26-19번지 일원",
-		"short_addr": "경기도 의정부시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "의정부시",
-		"apply_nums": "671세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024850021&pblancNo=2024850021&houseSecd=03",
-		"in_date": "20240930",
-		"hsecd": "03",
-		"rse": "04",
-		"type": "",
-		"name": "성산 삼정그린코아 웰레스트"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950063&pblancNo=2024950063&houseSecd=02",
-		"in_date": "20240930",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "라포르테 블랑 여의도",
-		"addr": "서울특별시 영등포구 국회대로68길 24 (여의도동)",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "10세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950059&pblancNo=2024950059&houseSecd=02",
-		"in_date": "20240930",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "인시그니아 반포",
-		"addr": "서울특별시 서초구 방배동 750-20, 22번지",
-		"short_addr": "서울특별시 서초구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "서초구",
-		"apply_nums": "24세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950061&pblancNo=2024950061&houseSecd=02",
-		"in_date": "20240930",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "천안역 필하우스 에듀시티 2단지",
-		"addr": "충청남도 천안시 동남구 성황로 66 (문화동)",
-		"short_addr": "충청남도 천안시",
-		"addr_lv1": "충청남도",
-		"addr_lv2": "천안시",
-		"apply_nums": "15세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950064&pblancNo=2024950064&houseSecd=02",
-		"in_date": "20240930",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "평촌 어바인퍼스트 더샵",
-		"addr": "경기도 안양시 동안구 호계동 956번지 일원",
-		"short_addr": "경기도 안양시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "안양시",
-		"apply_nums": "99세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950065&pblancNo=2024950065&houseSecd=02",
-		"in_date": "20240930",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "현대프라힐스 소사역 더프라임",
-		"addr": "경기도 부천시 소사구 소사본동 70-6",
-		"short_addr": "경기도 부천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "부천시",
-		"apply_nums": "2세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910156&pblancNo=2024910156&houseSecd=04",
-		"in_date": "20240930",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "포레나 인천학익(임의공급 8차)",
-		"addr": "인천광역시 미추홀구 학익2동 290-1",
-		"short_addr": "인천광역시 미추홀구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "미추홀구",
-		"apply_nums": "15세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950063&pblancNo=2024950063&houseSecd=02",
 		"in_date": "20241001",
 		"hsecd": "02",
@@ -570,7 +393,7 @@
 		"short_addr": "경기도 성남시",
 		"addr_lv1": "경기도",
 		"addr_lv2": "성남시",
-		"apply_nums": "4세대"
+		"apply_nums": "3세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950067&pblancNo=2024950067&houseSecd=02",
@@ -747,7 +570,7 @@
 		"short_addr": "경기도 성남시",
 		"addr_lv1": "경기도",
 		"addr_lv2": "성남시",
-		"apply_nums": "4세대"
+		"apply_nums": "3세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000574&pblancNo=2024000574&houseSecd=01",
@@ -761,6 +584,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "이천시",
 		"apply_nums": "48세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000559&pblancNo=2024000559&houseSecd=01",
+		"in_date": "20241010",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "공도 서희스타힐스(조합원 자격상실 세대)",
+		"addr": "경기도 안성시 공도읍 승두리 589-11번지 일원",
+		"short_addr": "경기도 안성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "안성시",
+		"apply_nums": "5세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000547&pblancNo=2024000547&houseSecd=01",
@@ -930,6 +766,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "이천시",
 		"apply_nums": "48세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000559&pblancNo=2024000559&houseSecd=01",
+		"in_date": "20241011",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "공도 서희스타힐스(조합원 자격상실 세대)",
+		"addr": "경기도 안성시 공도읍 승두리 589-11번지 일원",
+		"short_addr": "경기도 안성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "안성시",
+		"apply_nums": "5세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000547&pblancNo=2024000547&houseSecd=01",
