@@ -409,6 +409,35 @@
 		"apply_nums": "4세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930063&pblancNo=2024930063&houseSecd=06",
+		"in_date": "20241007",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "힐스테이트자이 계양",
+		"addr": "인천광역시 계양구 작전동 765번지 일원",
+		"short_addr": "인천광역시 계양구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "계양구",
+		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940095&pblancNo=2024940095&houseSecd=11",
+		"in_date": "20241007",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "부천역곡 자연앤한양립스"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940096&pblancNo=2024940096&houseSecd=11",
+		"in_date": "20241007",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "신도림역 동문 디 이스트"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940093&pblancNo=2024940093&houseSecd=11",
 		"in_date": "20241007",
 		"hsecd": "11",
@@ -571,6 +600,22 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "성남시",
 		"apply_nums": "3세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940095&pblancNo=2024940095&houseSecd=11",
+		"in_date": "20241008",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "부천역곡 자연앤한양립스"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940096&pblancNo=2024940096&houseSecd=11",
+		"in_date": "20241008",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "신도림역 동문 디 이스트"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000574&pblancNo=2024000574&houseSecd=01",
@@ -742,6 +787,19 @@
 		"apply_nums": "8세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910166&pblancNo=2024910166&houseSecd=04",
+		"in_date": "20241010",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "현대프라힐스 소사역 더프라임(임의공급 10차)",
+		"addr": "경기도 부천시 소사본동 70-6번지",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "1세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000547&pblancNo=2024000547&houseSecd=01",
 		"in_date": "20241011",
 		"hsecd": "01",
@@ -779,6 +837,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "안성시",
 		"apply_nums": "5세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910165&pblancNo=2024910165&houseSecd=04",
+		"in_date": "20241011",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "효성해링턴 플레이스 목감역(무순위 7차)",
+		"addr": "경기도 시흥시 논곡동 378",
+		"short_addr": "경기도 시흥시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "시흥시",
+		"apply_nums": "12세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000547&pblancNo=2024000547&houseSecd=01",
