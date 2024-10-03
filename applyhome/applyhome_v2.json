@@ -618,6 +618,22 @@
 		"name": "신도림역 동문 디 이스트"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940099&pblancNo=2024940099&houseSecd=11",
+		"in_date": "20241008",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "양주 옥정　디에트르　프레스티지(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940099&pblancNo=2024940099&houseSecd=11",
+		"in_date": "20241009",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "양주 옥정　디에트르　프레스티지(2차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000574&pblancNo=2024000574&houseSecd=01",
 		"in_date": "20241010",
 		"hsecd": "01",
@@ -787,6 +803,45 @@
 		"apply_nums": "8세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910159&pblancNo=2024910159&houseSecd=04",
+		"in_date": "20241010",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "이천 진암지구 우방 아이유쉘 메가하이브 (2차)",
+		"addr": "경기도 이천시 장호원읍 진암리 68",
+		"short_addr": "경기도 이천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "이천시",
+		"apply_nums": "6세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910162&pblancNo=2024910162&houseSecd=04",
+		"in_date": "20241010",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "천왕역 모아엘가 트레뷰(4차)",
+		"addr": "서울특별시 구로구 오류동 213-1번지 일원",
+		"short_addr": "서울특별시 구로구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "구로구",
+		"apply_nums": "5세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910168&pblancNo=2024910168&houseSecd=04",
+		"in_date": "20241010",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "청주 흥덕 칸타빌 더뉴(임의공급 10차)",
+		"addr": "충청북도 청주시 흥덕구 강내면 월곡리 82-1 일원",
+		"short_addr": "충청북도 청주시",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "청주시",
+		"apply_nums": "1세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910166&pblancNo=2024910166&houseSecd=04",
 		"in_date": "20241010",
 		"hsecd": "04",
@@ -798,6 +853,14 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "부천시",
 		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940099&pblancNo=2024940099&houseSecd=11",
+		"in_date": "20241010",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "양주 옥정　디에트르　프레스티지(2차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000547&pblancNo=2024000547&houseSecd=01",
