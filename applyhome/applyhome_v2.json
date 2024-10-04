@@ -1,44 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950063&pblancNo=2024950063&houseSecd=02",
-		"in_date": "20241001",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "라포르테 블랑 여의도",
-		"addr": "서울특별시 영등포구 국회대로68길 24 (여의도동)",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "10세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950061&pblancNo=2024950061&houseSecd=02",
-		"in_date": "20241001",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "천안역 필하우스 에듀시티 2단지",
-		"addr": "충청남도 천안시 동남구 성황로 66 (문화동)",
-		"short_addr": "충청남도 천안시",
-		"addr_lv1": "충청남도",
-		"addr_lv2": "천안시",
-		"apply_nums": "15세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950064&pblancNo=2024950064&houseSecd=02",
-		"in_date": "20241001",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "평촌 어바인퍼스트 더샵",
-		"addr": "경기도 안양시 동안구 호계동 956번지 일원",
-		"short_addr": "경기도 안양시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "안양시",
-		"apply_nums": "99세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000387&pblancNo=2024000387&houseSecd=01",
 		"in_date": "20241002",
 		"hsecd": "01",
@@ -777,6 +738,19 @@
 		"apply_nums": "40세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950066&pblancNo=2024950066&houseSecd=02",
+		"in_date": "20241010",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "증평 석미아데나 에듀포레",
+		"addr": "충청북도 증평군 증평읍 증평리 661번지 일대",
+		"short_addr": "충청북도 증평군",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "증평군",
+		"apply_nums": "80세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910160&pblancNo=2024910160&houseSecd=04",
 		"in_date": "20241010",
 		"hsecd": "04",
@@ -902,6 +876,19 @@
 		"apply_nums": "5세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950066&pblancNo=2024950066&houseSecd=02",
+		"in_date": "20241011",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "증평 석미아데나 에듀포레",
+		"addr": "충청북도 증평군 증평읍 증평리 661번지 일대",
+		"short_addr": "충청북도 증평군",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "증평군",
+		"apply_nums": "80세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910165&pblancNo=2024910165&houseSecd=04",
 		"in_date": "20241011",
 		"hsecd": "04",
@@ -913,6 +900,32 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "시흥시",
 		"apply_nums": "12세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000580&pblancNo=2024000580&houseSecd=01",
+		"in_date": "20241014",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "자라섬 수자인 리버페스타",
+		"addr": "경기도 가평군 가평읍 달전리 284-7번지 일원",
+		"short_addr": "경기도 가평군",
+		"addr_lv1": "경기도",
+		"addr_lv2": "가평군",
+		"apply_nums": "381세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000562&pblancNo=2024000562&houseSecd=01",
+		"in_date": "20241014",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "하당 르파르크 시그니처",
+		"addr": "전라남도 목포시 석현동 1175-11번지",
+		"short_addr": "전라남도 목포시",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "목포시",
+		"apply_nums": "70세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000547&pblancNo=2024000547&houseSecd=01",
@@ -939,5 +952,57 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "이천시",
 		"apply_nums": "48세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000580&pblancNo=2024000580&houseSecd=01",
+		"in_date": "20241015",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "자라섬 수자인 리버페스타",
+		"addr": "경기도 가평군 가평읍 달전리 284-7번지 일원",
+		"short_addr": "경기도 가평군",
+		"addr_lv1": "경기도",
+		"addr_lv2": "가평군",
+		"apply_nums": "381세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000562&pblancNo=2024000562&houseSecd=01",
+		"in_date": "20241015",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "하당 르파르크 시그니처",
+		"addr": "전라남도 목포시 석현동 1175-11번지",
+		"short_addr": "전라남도 목포시",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "목포시",
+		"apply_nums": "70세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000580&pblancNo=2024000580&houseSecd=01",
+		"in_date": "20241016",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "자라섬 수자인 리버페스타",
+		"addr": "경기도 가평군 가평읍 달전리 284-7번지 일원",
+		"short_addr": "경기도 가평군",
+		"addr_lv1": "경기도",
+		"addr_lv2": "가평군",
+		"apply_nums": "381세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000562&pblancNo=2024000562&houseSecd=01",
+		"in_date": "20241016",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "하당 르파르크 시그니처",
+		"addr": "전라남도 목포시 석현동 1175-11번지",
+		"short_addr": "전라남도 목포시",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "목포시",
+		"apply_nums": "70세대"
 	}
 ]
