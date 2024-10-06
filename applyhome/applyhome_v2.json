@@ -699,12 +699,28 @@
 		"apply_nums": "1세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940098&pblancNo=2024940098&houseSecd=11",
+		"in_date": "20241010",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "반월역 동문 디 이스트"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940099&pblancNo=2024940099&houseSecd=11",
 		"in_date": "20241010",
 		"hsecd": "11",
 		"rse": "11",
 		"type": "",
 		"name": "양주 옥정　디에트르　프레스티지(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940100&pblancNo=2024940100&houseSecd=11",
+		"in_date": "20241010",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "힐스테이트 탑석(2차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000547&pblancNo=2024000547&houseSecd=01",
@@ -772,6 +788,14 @@
 		"apply_nums": "12세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940098&pblancNo=2024940098&houseSecd=11",
+		"in_date": "20241011",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "반월역 동문 디 이스트"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000580&pblancNo=2024000580&houseSecd=01",
 		"in_date": "20241014",
 		"hsecd": "01",
@@ -824,6 +848,19 @@
 		"apply_nums": "48세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910167&pblancNo=2024910167&houseSecd=04",
+		"in_date": "20241014",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "어반클라쎄목동(4차)",
+		"addr": "서울특별시 양천구 신목로2길 7-12 (신정동, 어반클라쎄 목동)",
+		"short_addr": "서울특별시 양천구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "양천구",
+		"apply_nums": "13세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000580&pblancNo=2024000580&houseSecd=01",
 		"in_date": "20241015",
 		"hsecd": "01",
@@ -848,6 +885,19 @@
 		"addr_lv1": "전라남도",
 		"addr_lv2": "목포시",
 		"apply_nums": "70세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910167&pblancNo=2024910167&houseSecd=04",
+		"in_date": "20241015",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "어반클라쎄목동(4차)",
+		"addr": "서울특별시 양천구 신목로2길 7-12 (신정동, 어반클라쎄 목동)",
+		"short_addr": "서울특별시 양천구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "양천구",
+		"apply_nums": "13세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000580&pblancNo=2024000580&houseSecd=01",
