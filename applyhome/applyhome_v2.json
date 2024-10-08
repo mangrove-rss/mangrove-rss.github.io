@@ -1,81 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000049&pblancNo=2024000049&houseSecd=01",
-		"in_date": "20241004",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "인제 라포레 아파트",
-		"addr": "강원특별자치도 인제군 북면 원통리 1980번지",
-		"short_addr": "강원특별자치도 인제군",
-		"addr_lv1": "강원특별자치도",
-		"addr_lv2": "인제군",
-		"apply_nums": "121세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000387&pblancNo=2024000387&houseSecd=01",
-		"in_date": "20241004",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "드파인 광안",
-		"addr": "부산광역시 수영구 광안동 1240-38번지",
-		"short_addr": "부산광역시 수영구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "수영구",
-		"apply_nums": "567세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000517&pblancNo=2024000517&houseSecd=01",
-		"in_date": "20241004",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "원주역 우미 린 더 스카이",
-		"addr": "강원특별자치도 원주시 남원주역세권 AC-4블럭(무실동 2002번지)",
-		"short_addr": "강원특별자치도 원주시",
-		"addr_lv1": "강원특별자치도",
-		"addr_lv2": "원주시",
-		"apply_nums": "900세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000307&pblancNo=2024000307&houseSecd=01",
-		"in_date": "20241004",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "의정부 롯데캐슬 나리벡시티",
-		"addr": "경기도 의정부시 금오동 산 26-19번지 일원",
-		"short_addr": "경기도 의정부시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "의정부시",
-		"apply_nums": "671세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940093&pblancNo=2024940093&houseSecd=11",
-		"in_date": "20241004",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "제기동역 파밀리에 더센트럴"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940094&pblancNo=2024940094&houseSecd=11",
-		"in_date": "20241004",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "진위역 서희스타힐스 더 파크뷰"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940093&pblancNo=2024940093&houseSecd=11",
-		"in_date": "20241005",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "제기동역 파밀리에 더센트럴"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940093&pblancNo=2024940093&houseSecd=11",
 		"in_date": "20241006",
 		"hsecd": "11",
@@ -848,6 +772,19 @@
 		"apply_nums": "48세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950068&pblancNo=2024950068&houseSecd=02",
+		"in_date": "20241014",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "한울에이치밸리움 더하이클래스 (전세가능)",
+		"addr": "서울특별시 강서구 화곡동 987-5외 4필지",
+		"short_addr": "서울특별시 강서구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강서구",
+		"apply_nums": "24세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910167&pblancNo=2024910167&houseSecd=04",
 		"in_date": "20241014",
 		"hsecd": "04",
@@ -861,6 +798,19 @@
 		"apply_nums": "13세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930062&pblancNo=2024930062&houseSecd=06",
+		"in_date": "20241014",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "평촌 어바인퍼스트 더샵",
+		"addr": "경기도 안양시 동안구 호계동 954-20번지 일원",
+		"short_addr": "경기도 안양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "안양시",
+		"apply_nums": "2세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000580&pblancNo=2024000580&houseSecd=01",
 		"in_date": "20241015",
 		"hsecd": "01",
@@ -885,6 +835,19 @@
 		"addr_lv1": "전라남도",
 		"addr_lv2": "목포시",
 		"apply_nums": "70세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950068&pblancNo=2024950068&houseSecd=02",
+		"in_date": "20241015",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "한울에이치밸리움 더하이클래스 (전세가능)",
+		"addr": "서울특별시 강서구 화곡동 987-5외 4필지",
+		"short_addr": "서울특별시 강서구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강서구",
+		"apply_nums": "24세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910167&pblancNo=2024910167&houseSecd=04",
@@ -900,6 +863,27 @@
 		"apply_nums": "13세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910170&pblancNo=2024910170&houseSecd=04",
+		"in_date": "20241015",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "중앙하이츠 강동 (임의공급10차)",
+		"addr": "서울특별시 강동구 길동 415-5번지",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "26세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940101&pblancNo=2024940101&houseSecd=11",
+		"in_date": "20241015",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "오산세교 하우스토리 더센트럴"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000580&pblancNo=2024000580&houseSecd=01",
 		"in_date": "20241016",
 		"hsecd": "01",
@@ -924,5 +908,57 @@
 		"addr_lv1": "전라남도",
 		"addr_lv2": "목포시",
 		"apply_nums": "70세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950068&pblancNo=2024950068&houseSecd=02",
+		"in_date": "20241016",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "한울에이치밸리움 더하이클래스 (전세가능)",
+		"addr": "서울특별시 강서구 화곡동 987-5외 4필지",
+		"short_addr": "서울특별시 강서구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강서구",
+		"apply_nums": "24세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910170&pblancNo=2024910170&houseSecd=04",
+		"in_date": "20241016",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "중앙하이츠 강동 (임의공급10차)",
+		"addr": "서울특별시 강동구 길동 415-5번지",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "26세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000589&pblancNo=2024000589&houseSecd=01",
+		"in_date": "20241017",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "직산역 서희스타힐스(조합원 취소분)",
+		"addr": "충청남도 천안시 서북구 성거읍 신월리 471번지 일원",
+		"short_addr": "충청남도 천안시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "천안시",
+		"apply_nums": "3세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000589&pblancNo=2024000589&houseSecd=01",
+		"in_date": "20241018",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "직산역 서희스타힐스(조합원 취소분)",
+		"addr": "충청남도 천안시 서북구 성거읍 신월리 471번지 일원",
+		"short_addr": "충청남도 천안시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "천안시",
+		"apply_nums": "3세대"
 	}
 ]
