@@ -1,13 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940093&pblancNo=2024940093&houseSecd=11",
-		"in_date": "20241006",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "제기동역 파밀리에 더센트럴"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000473&pblancNo=2024000473&houseSecd=01",
 		"in_date": "20241007",
 		"hsecd": "01",
@@ -910,6 +902,19 @@
 		"apply_nums": "70세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950060&pblancNo=2024950060&houseSecd=02",
+		"in_date": "20241016",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "마포 에피트 어바닉 오피스텔",
+		"addr": "서울특별시 마포구 아현동 617-1번지 일원",
+		"short_addr": "서울특별시 마포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "마포구",
+		"apply_nums": "203세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950068&pblancNo=2024950068&houseSecd=02",
 		"in_date": "20241016",
 		"hsecd": "02",
@@ -921,6 +926,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "강서구",
 		"apply_nums": "24세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910164&pblancNo=2024910164&houseSecd=04",
+		"in_date": "20241016",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "검단신도시 예미지 더 시그너스",
+		"addr": "인천광역시 서구 원당동 검단신도시 AB3-2블록",
+		"short_addr": "인천광역시 서구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "3세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910170&pblancNo=2024910170&houseSecd=04",
