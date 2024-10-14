@@ -1,78 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000547&pblancNo=2024000547&houseSecd=01",
-		"in_date": "20241011",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "디에이치 대치 에델루이",
-		"addr": "서울특별시 강남구 대치동 964번지 일대",
-		"short_addr": "서울특별시 강남구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강남구",
-		"apply_nums": "72세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000574&pblancNo=2024000574&houseSecd=01",
-		"in_date": "20241011",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "이천 서희스타힐스 SKY (조합원 취소분)",
-		"addr": "경기도 이천시 안흥동 279-1번지 일원",
-		"short_addr": "경기도 이천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "이천시",
-		"apply_nums": "48세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000559&pblancNo=2024000559&houseSecd=01",
-		"in_date": "20241011",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "공도 서희스타힐스(조합원 자격상실 세대)",
-		"addr": "경기도 안성시 공도읍 승두리 589-11번지 일원",
-		"short_addr": "경기도 안성시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "안성시",
-		"apply_nums": "5세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950066&pblancNo=2024950066&houseSecd=02",
-		"in_date": "20241011",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "증평 석미아데나 에듀포레",
-		"addr": "충청북도 증평군 증평읍 증평리 661번지 일대",
-		"short_addr": "충청북도 증평군",
-		"addr_lv1": "충청북도",
-		"addr_lv2": "증평군",
-		"apply_nums": "80세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910165&pblancNo=2024910165&houseSecd=04",
-		"in_date": "20241011",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "효성해링턴 플레이스 목감역(무순위 7차)",
-		"addr": "경기도 시흥시 논곡동 378",
-		"short_addr": "경기도 시흥시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "시흥시",
-		"apply_nums": "12세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940098&pblancNo=2024940098&houseSecd=11",
-		"in_date": "20241011",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "반월역 동문 디 이스트"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000580&pblancNo=2024000580&houseSecd=01",
 		"in_date": "20241014",
 		"hsecd": "01",
@@ -763,6 +690,14 @@
 		"apply_nums": "8세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940102&pblancNo=2024940102&houseSecd=11",
+		"in_date": "20241022",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "개봉 루브루(2차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000590&pblancNo=2024000590&houseSecd=01",
 		"in_date": "20241023",
 		"hsecd": "01",
@@ -904,6 +839,14 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "오산시",
 		"apply_nums": "970세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940102&pblancNo=2024940102&houseSecd=11",
+		"in_date": "20241023",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "개봉 루브루(2차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000590&pblancNo=2024000590&houseSecd=01",
