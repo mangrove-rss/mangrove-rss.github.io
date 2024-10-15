@@ -534,6 +534,32 @@
 		"apply_nums": "8세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950070&pblancNo=2024950070&houseSecd=02",
+		"in_date": "20241021",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "하남시청역 에비뉴블랑",
+		"addr": "경기도 하남시 덕풍동 326-16 에비뉴블랑",
+		"short_addr": "경기도 하남시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "하남시",
+		"apply_nums": "4세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910174&pblancNo=2024910174&houseSecd=04",
+		"in_date": "20241021",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "관저 푸르지오 센트럴파크 2단지(임의공급 8차)",
+		"addr": "대전광역시 서구 계백지구 도시개발사업구역 공동주택용지 A2블럭 (가수원동 산 16-119번지 일원)",
+		"short_addr": "대전광역시 서구",
+		"addr_lv1": "대전광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "2세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000572&pblancNo=2024000572&houseSecd=01",
 		"in_date": "20241022",
 		"hsecd": "01",
@@ -688,6 +714,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "성북구",
 		"apply_nums": "8세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950070&pblancNo=2024950070&houseSecd=02",
+		"in_date": "20241022",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "하남시청역 에비뉴블랑",
+		"addr": "경기도 하남시 덕풍동 326-16 에비뉴블랑",
+		"short_addr": "경기도 하남시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "하남시",
+		"apply_nums": "4세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940102&pblancNo=2024940102&houseSecd=11",
