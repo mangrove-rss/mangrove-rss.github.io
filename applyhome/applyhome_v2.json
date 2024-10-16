@@ -703,6 +703,19 @@
 		"apply_nums": "970세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950074&pblancNo=2024950074&houseSecd=02",
+		"in_date": "20241022",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "라포르테 블랑 서현",
+		"addr": "경기도 성남시 분당구 서현동 275번지",
+		"short_addr": "경기도 성남시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "성남시",
+		"apply_nums": "7세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950069&pblancNo=2024950069&houseSecd=02",
 		"in_date": "20241022",
 		"hsecd": "02",
@@ -727,6 +740,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "하남시",
 		"apply_nums": "4세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910177&pblancNo=2024910177&houseSecd=04",
+		"in_date": "20241022",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "양주 회천신도시 센트럴휴티스(2차)",
+		"addr": "경기도 양주시 덕계로 138-32 센트럴휴티스",
+		"short_addr": "경기도 양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "양주시",
+		"apply_nums": "1세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940102&pblancNo=2024940102&houseSecd=11",
@@ -880,6 +906,19 @@
 		"apply_nums": "970세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950074&pblancNo=2024950074&houseSecd=02",
+		"in_date": "20241023",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "라포르테 블랑 서현",
+		"addr": "경기도 성남시 분당구 서현동 275번지",
+		"short_addr": "경기도 성남시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "성남시",
+		"apply_nums": "7세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940102&pblancNo=2024940102&houseSecd=11",
 		"in_date": "20241023",
 		"hsecd": "11",
@@ -899,5 +938,83 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "송파구",
 		"apply_nums": "589세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950074&pblancNo=2024950074&houseSecd=02",
+		"in_date": "20241024",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "라포르테 블랑 서현",
+		"addr": "경기도 성남시 분당구 서현동 275번지",
+		"short_addr": "경기도 성남시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "성남시",
+		"apply_nums": "7세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000592&pblancNo=2024000592&houseSecd=01",
+		"in_date": "20241028",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "성남판교 산운마을9단지 대방노블랜드 아파트 우선 분양전환 후 잔여세대",
+		"addr": "경기도 성남시 분당구 산운로 126 (산운마을9단지)",
+		"short_addr": "경기도 성남시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "성남시",
+		"apply_nums": "3세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950073&pblancNo=2024950073&houseSecd=02",
+		"in_date": "20241028",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "라포르테 세종",
+		"addr": "세종특별자치시 행정중심복합도시 6-4생활권 B1블록",
+		"short_addr": "세종특별자치시 행정중심복합도시",
+		"addr_lv1": "세종특별자치시",
+		"addr_lv2": "행정중심복합도시",
+		"apply_nums": "10세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000592&pblancNo=2024000592&houseSecd=01",
+		"in_date": "20241029",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "성남판교 산운마을9단지 대방노블랜드 아파트 우선 분양전환 후 잔여세대",
+		"addr": "경기도 성남시 분당구 산운로 126 (산운마을9단지)",
+		"short_addr": "경기도 성남시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "성남시",
+		"apply_nums": "3세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950073&pblancNo=2024950073&houseSecd=02",
+		"in_date": "20241029",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "라포르테 세종",
+		"addr": "세종특별자치시 행정중심복합도시 6-4생활권 B1블록",
+		"short_addr": "세종특별자치시 행정중심복합도시",
+		"addr_lv1": "세종특별자치시",
+		"addr_lv2": "행정중심복합도시",
+		"apply_nums": "10세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950073&pblancNo=2024950073&houseSecd=02",
+		"in_date": "20241030",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "라포르테 세종",
+		"addr": "세종특별자치시 행정중심복합도시 6-4생활권 B1블록",
+		"short_addr": "세종특별자치시 행정중심복합도시",
+		"addr_lv1": "세종특별자치시",
+		"addr_lv2": "행정중심복합도시",
+		"apply_nums": "10세대"
 	}
 ]
