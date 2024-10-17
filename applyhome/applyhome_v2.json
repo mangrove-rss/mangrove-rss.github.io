@@ -1,97 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000580&pblancNo=2024000580&houseSecd=01",
-		"in_date": "20241014",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "자라섬 수자인 리버페스타",
-		"addr": "경기도 가평군 가평읍 달전리 284-7번지 일원",
-		"short_addr": "경기도 가평군",
-		"addr_lv1": "경기도",
-		"addr_lv2": "가평군",
-		"apply_nums": "381세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000562&pblancNo=2024000562&houseSecd=01",
-		"in_date": "20241014",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "하당 르파르크 시그니처",
-		"addr": "전라남도 목포시 석현동 1175-11번지",
-		"short_addr": "전라남도 목포시",
-		"addr_lv1": "전라남도",
-		"addr_lv2": "목포시",
-		"apply_nums": "70세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000547&pblancNo=2024000547&houseSecd=01",
-		"in_date": "20241014",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "디에이치 대치 에델루이",
-		"addr": "서울특별시 강남구 대치동 964번지 일대",
-		"short_addr": "서울특별시 강남구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강남구",
-		"apply_nums": "72세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000574&pblancNo=2024000574&houseSecd=01",
-		"in_date": "20241014",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "이천 서희스타힐스 SKY (조합원 취소분)",
-		"addr": "경기도 이천시 안흥동 279-1번지 일원",
-		"short_addr": "경기도 이천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "이천시",
-		"apply_nums": "48세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950068&pblancNo=2024950068&houseSecd=02",
-		"in_date": "20241014",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "한울에이치밸리움 더하이클래스 (전세가능)",
-		"addr": "서울특별시 강서구 화곡동 987-5외 4필지",
-		"short_addr": "서울특별시 강서구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강서구",
-		"apply_nums": "24세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910167&pblancNo=2024910167&houseSecd=04",
-		"in_date": "20241014",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "어반클라쎄목동(4차)",
-		"addr": "서울특별시 양천구 신목로2길 7-12 (신정동, 어반클라쎄 목동)",
-		"short_addr": "서울특별시 양천구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "양천구",
-		"apply_nums": "13세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930062&pblancNo=2024930062&houseSecd=06",
-		"in_date": "20241014",
-		"hsecd": "06",
-		"rse": "07",
-		"type": "",
-		"name": "평촌 어바인퍼스트 더샵",
-		"addr": "경기도 안양시 동안구 호계동 954-20번지 일원",
-		"short_addr": "경기도 안양시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "안양시",
-		"apply_nums": "2세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000580&pblancNo=2024000580&houseSecd=01",
 		"in_date": "20241015",
 		"hsecd": "01",
 		"rse": "02",
@@ -763,6 +672,14 @@
 		"name": "개봉 루브루(2차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940104&pblancNo=2024940104&houseSecd=11",
+		"in_date": "20241022",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "이안 모란 센트럴파크"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000590&pblancNo=2024000590&houseSecd=01",
 		"in_date": "20241023",
 		"hsecd": "01",
@@ -919,12 +836,85 @@
 		"apply_nums": "7세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910171&pblancNo=2024910171&houseSecd=04",
+		"in_date": "20241023",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "송도 하늘채 아이비원(임의공급2차)",
+		"addr": "인천광역시 연수구 송도동 20-4번지 외 7필지",
+		"short_addr": "인천광역시 연수구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "연수구",
+		"apply_nums": "67세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910176&pblancNo=2024910176&houseSecd=04",
+		"in_date": "20241023",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "양주 옥정 린 파밀리에(무순위 4차)",
+		"addr": "경기도 양주시 옥정동 868번지",
+		"short_addr": "경기도 양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "양주시",
+		"apply_nums": "26세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910172&pblancNo=2024910172&houseSecd=04",
+		"in_date": "20241023",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "여주역자이 헤리티지",
+		"addr": "경기도 여주시 교동 500-118번지 일원",
+		"short_addr": "경기도 여주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "여주시",
+		"apply_nums": "3세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910175&pblancNo=2024910175&houseSecd=04",
+		"in_date": "20241023",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "용인 에버랜드역 칸타빌(임의공급 4차)",
+		"addr": "경기도 용인시 처인구 포곡읍 전대리 192-2외 5필지",
+		"short_addr": "경기도 용인시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "용인시",
+		"apply_nums": "17세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910173&pblancNo=2024910173&houseSecd=04",
+		"in_date": "20241023",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "포레나 순천",
+		"addr": "전라남도 순천시 서면 선평동선길 12 (포레나 순천)",
+		"short_addr": "전라남도 순천시",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "순천시",
+		"apply_nums": "1세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940102&pblancNo=2024940102&houseSecd=11",
 		"in_date": "20241023",
 		"hsecd": "11",
 		"rse": "11",
 		"type": "",
 		"name": "개봉 루브루(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940104&pblancNo=2024940104&houseSecd=11",
+		"in_date": "20241023",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "이안 모란 센트럴파크"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000590&pblancNo=2024000590&houseSecd=01",
@@ -953,6 +943,45 @@
 		"apply_nums": "7세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910171&pblancNo=2024910171&houseSecd=04",
+		"in_date": "20241024",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "송도 하늘채 아이비원(임의공급2차)",
+		"addr": "인천광역시 연수구 송도동 20-4번지 외 7필지",
+		"short_addr": "인천광역시 연수구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "연수구",
+		"apply_nums": "67세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000576&pblancNo=2024000576&houseSecd=01",
+		"in_date": "20241028",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "남원 드림헤이븐",
+		"addr": "전북특별자치도 남원시 노암동 599번지 일원",
+		"short_addr": "전북특별자치도 남원시",
+		"addr_lv1": "전북특별자치도",
+		"addr_lv2": "남원시",
+		"apply_nums": "115세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000622&pblancNo=2024000622&houseSecd=01",
+		"in_date": "20241028",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "오산세교 우미 린 센트럴시티(A-14블록)(본청약)",
+		"addr": "경기도 오산시 탑동 148번지(오산세교2지구 A-14블록)",
+		"short_addr": "경기도 오산시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "오산시",
+		"apply_nums": "1136세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000592&pblancNo=2024000592&houseSecd=01",
 		"in_date": "20241028",
 		"hsecd": "01",
@@ -979,6 +1008,32 @@
 		"apply_nums": "10세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000576&pblancNo=2024000576&houseSecd=01",
+		"in_date": "20241029",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "남원 드림헤이븐",
+		"addr": "전북특별자치도 남원시 노암동 599번지 일원",
+		"short_addr": "전북특별자치도 남원시",
+		"addr_lv1": "전북특별자치도",
+		"addr_lv2": "남원시",
+		"apply_nums": "115세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000622&pblancNo=2024000622&houseSecd=01",
+		"in_date": "20241029",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "오산세교 우미 린 센트럴시티(A-14블록)(본청약)",
+		"addr": "경기도 오산시 탑동 148번지(오산세교2지구 A-14블록)",
+		"short_addr": "경기도 오산시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "오산시",
+		"apply_nums": "1136세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000592&pblancNo=2024000592&houseSecd=01",
 		"in_date": "20241029",
 		"hsecd": "01",
@@ -1003,6 +1058,32 @@
 		"addr_lv1": "세종특별자치시",
 		"addr_lv2": "행정중심복합도시",
 		"apply_nums": "10세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000576&pblancNo=2024000576&houseSecd=01",
+		"in_date": "20241030",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "남원 드림헤이븐",
+		"addr": "전북특별자치도 남원시 노암동 599번지 일원",
+		"short_addr": "전북특별자치도 남원시",
+		"addr_lv1": "전북특별자치도",
+		"addr_lv2": "남원시",
+		"apply_nums": "115세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000622&pblancNo=2024000622&houseSecd=01",
+		"in_date": "20241030",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "오산세교 우미 린 센트럴시티(A-14블록)(본청약)",
+		"addr": "경기도 오산시 탑동 148번지(오산세교2지구 A-14블록)",
+		"short_addr": "경기도 오산시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "오산시",
+		"apply_nums": "1136세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950073&pblancNo=2024950073&houseSecd=02",
