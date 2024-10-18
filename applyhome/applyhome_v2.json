@@ -1,92 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000580&pblancNo=2024000580&houseSecd=01",
-		"in_date": "20241015",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "자라섬 수자인 리버페스타",
-		"addr": "경기도 가평군 가평읍 달전리 284-7번지 일원",
-		"short_addr": "경기도 가평군",
-		"addr_lv1": "경기도",
-		"addr_lv2": "가평군",
-		"apply_nums": "381세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000562&pblancNo=2024000562&houseSecd=01",
-		"in_date": "20241015",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "하당 르파르크 시그니처",
-		"addr": "전라남도 목포시 석현동 1175-11번지",
-		"short_addr": "전라남도 목포시",
-		"addr_lv1": "전라남도",
-		"addr_lv2": "목포시",
-		"apply_nums": "70세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950072&pblancNo=2024950072&houseSecd=02",
-		"in_date": "20241015",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "여의도 하이앤드 1ST",
-		"addr": "서울특별시 영등포구 영등포동3가 1-1,2,3,5",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "85세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950068&pblancNo=2024950068&houseSecd=02",
-		"in_date": "20241015",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "한울에이치밸리움 더하이클래스 (전세가능)",
-		"addr": "서울특별시 강서구 화곡동 987-5외 4필지",
-		"short_addr": "서울특별시 강서구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강서구",
-		"apply_nums": "24세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910167&pblancNo=2024910167&houseSecd=04",
-		"in_date": "20241015",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "어반클라쎄목동(4차)",
-		"addr": "서울특별시 양천구 신목로2길 7-12 (신정동, 어반클라쎄 목동)",
-		"short_addr": "서울특별시 양천구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "양천구",
-		"apply_nums": "13세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910170&pblancNo=2024910170&houseSecd=04",
-		"in_date": "20241015",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "중앙하이츠 강동 (임의공급10차)",
-		"addr": "서울특별시 강동구 길동 415-5번지",
-		"short_addr": "서울특별시 강동구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강동구",
-		"apply_nums": "26세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940101&pblancNo=2024940101&houseSecd=11",
-		"in_date": "20241015",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "오산세교 하우스토리 더센트럴"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000580&pblancNo=2024000580&houseSecd=01",
 		"in_date": "20241016",
 		"hsecd": "01",
 		"rse": "03",
@@ -823,6 +737,14 @@
 		"apply_nums": "970세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024850022&pblancNo=2024850022&houseSecd=03",
+		"in_date": "20241023",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "양산 사송지구 B-8BL 사송 롯데캐슬"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950074&pblancNo=2024950074&houseSecd=02",
 		"in_date": "20241023",
 		"hsecd": "02",
@@ -867,7 +789,7 @@
 		"hsecd": "04",
 		"rse": "06",
 		"type": "무순위/취소후재공급",
-		"name": "여주역자이 헤리티지",
+		"name": "여주역자이 헤리티지(임의공급1차)",
 		"addr": "경기도 여주시 교동 500-118번지 일원",
 		"short_addr": "경기도 여주시",
 		"addr_lv1": "경기도",
@@ -969,6 +891,19 @@
 		"apply_nums": "115세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000593&pblancNo=2024000593&houseSecd=01",
+		"in_date": "20241028",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "양주역 푸르지오 센터파크",
+		"addr": "경기도 양주시 남방동 600번지 (양주역세권 도시개발사업 지구단위계획 내 공동5(a1) 블록)",
+		"short_addr": "경기도 양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "양주시",
+		"apply_nums": "1172세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000622&pblancNo=2024000622&houseSecd=01",
 		"in_date": "20241028",
 		"hsecd": "01",
@@ -982,6 +917,19 @@
 		"apply_nums": "1136세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000591&pblancNo=2024000591&houseSecd=01",
+		"in_date": "20241028",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "오산세교 힐데스하임(A20블록)(본청약)",
+		"addr": "경기도 오산시 벌음동 149 일원(오산세교2지구 A20블록)",
+		"short_addr": "경기도 오산시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "오산시",
+		"apply_nums": "679세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000592&pblancNo=2024000592&houseSecd=01",
 		"in_date": "20241028",
 		"hsecd": "01",
@@ -1021,6 +969,19 @@
 		"apply_nums": "115세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000593&pblancNo=2024000593&houseSecd=01",
+		"in_date": "20241029",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "양주역 푸르지오 센터파크",
+		"addr": "경기도 양주시 남방동 600번지 (양주역세권 도시개발사업 지구단위계획 내 공동5(a1) 블록)",
+		"short_addr": "경기도 양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "양주시",
+		"apply_nums": "1172세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000622&pblancNo=2024000622&houseSecd=01",
 		"in_date": "20241029",
 		"hsecd": "01",
@@ -1032,6 +993,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "오산시",
 		"apply_nums": "1136세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000591&pblancNo=2024000591&houseSecd=01",
+		"in_date": "20241029",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "오산세교 힐데스하임(A20블록)(본청약)",
+		"addr": "경기도 오산시 벌음동 149 일원(오산세교2지구 A20블록)",
+		"short_addr": "경기도 오산시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "오산시",
+		"apply_nums": "679세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000592&pblancNo=2024000592&houseSecd=01",
@@ -1073,6 +1047,19 @@
 		"apply_nums": "115세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000593&pblancNo=2024000593&houseSecd=01",
+		"in_date": "20241030",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "양주역 푸르지오 센터파크",
+		"addr": "경기도 양주시 남방동 600번지 (양주역세권 도시개발사업 지구단위계획 내 공동5(a1) 블록)",
+		"short_addr": "경기도 양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "양주시",
+		"apply_nums": "1172세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000622&pblancNo=2024000622&houseSecd=01",
 		"in_date": "20241030",
 		"hsecd": "01",
@@ -1084,6 +1071,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "오산시",
 		"apply_nums": "1136세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000591&pblancNo=2024000591&houseSecd=01",
+		"in_date": "20241030",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "오산세교 힐데스하임(A20블록)(본청약)",
+		"addr": "경기도 오산시 벌음동 149 일원(오산세교2지구 A20블록)",
+		"short_addr": "경기도 오산시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "오산시",
+		"apply_nums": "679세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950073&pblancNo=2024950073&houseSecd=02",
