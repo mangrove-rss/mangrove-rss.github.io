@@ -1,53 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000589&pblancNo=2024000589&houseSecd=01",
-		"in_date": "20241017",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "직산역 서희스타힐스(조합원 취소분)",
-		"addr": "충청남도 천안시 서북구 성거읍 신월리 471번지 일원",
-		"short_addr": "충청남도 천안시",
-		"addr_lv1": "충청남도",
-		"addr_lv2": "천안시",
-		"apply_nums": "3세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950072&pblancNo=2024950072&houseSecd=02",
-		"in_date": "20241017",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "여의도 하이앤드 1ST",
-		"addr": "서울특별시 영등포구 영등포동3가 1-1,2,3,5",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "85세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950071&pblancNo=2024950071&houseSecd=02",
-		"in_date": "20241017",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "잠실역 웰리지더테라스",
-		"addr": "서울특별시 송파구 올림픽로34길 5-14 (방이동)",
-		"short_addr": "서울특별시 송파구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "송파구",
-		"apply_nums": "4세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940105&pblancNo=2024940105&houseSecd=11",
-		"in_date": "20241017",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "브라운스톤 인터포레 임의공급 3차"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000589&pblancNo=2024000589&houseSecd=01",
 		"in_date": "20241018",
 		"hsecd": "01",
 		"rse": "03",
@@ -711,6 +664,14 @@
 		"name": "개봉 루브루(2차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940108&pblancNo=2024940108&houseSecd=11",
+		"in_date": "20241023",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "의정부역 파밀리에Ⅰ(3차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940104&pblancNo=2024940104&houseSecd=11",
 		"in_date": "20241023",
 		"hsecd": "11",
@@ -756,6 +717,30 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "연수구",
 		"apply_nums": "67세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940109&pblancNo=2024940109&houseSecd=11",
+		"in_date": "20241025",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "인천 유림노르웨이숲 에듀오션(6차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940109&pblancNo=2024940109&houseSecd=11",
+		"in_date": "20241026",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "인천 유림노르웨이숲 에듀오션(6차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940109&pblancNo=2024940109&houseSecd=11",
+		"in_date": "20241027",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "인천 유림노르웨이숲 에듀오션(6차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000576&pblancNo=2024000576&houseSecd=01",
@@ -834,6 +819,14 @@
 		"addr_lv1": "세종특별자치시",
 		"addr_lv2": "행정중심복합도시",
 		"apply_nums": "10세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940109&pblancNo=2024940109&houseSecd=11",
+		"in_date": "20241028",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "인천 유림노르웨이숲 에듀오션(6차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000576&pblancNo=2024000576&houseSecd=01",
