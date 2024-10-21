@@ -1,39 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000589&pblancNo=2024000589&houseSecd=01",
-		"in_date": "20241018",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "직산역 서희스타힐스(조합원 취소분)",
-		"addr": "충청남도 천안시 서북구 성거읍 신월리 471번지 일원",
-		"short_addr": "충청남도 천안시",
-		"addr_lv1": "충청남도",
-		"addr_lv2": "천안시",
-		"apply_nums": "3세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950072&pblancNo=2024950072&houseSecd=02",
-		"in_date": "20241018",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "여의도 하이앤드 1ST",
-		"addr": "서울특별시 영등포구 영등포동3가 1-1,2,3,5",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "85세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940105&pblancNo=2024940105&houseSecd=11",
-		"in_date": "20241018",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "브라운스톤 인터포레 임의공급 3차"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000572&pblancNo=2024000572&houseSecd=01",
 		"in_date": "20241021",
 		"hsecd": "01",
@@ -819,6 +785,19 @@
 		"addr_lv1": "세종특별자치시",
 		"addr_lv2": "행정중심복합도시",
 		"apply_nums": "10세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950075&pblancNo=2024950075&houseSecd=02",
+		"in_date": "20241028",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "판교밸리자이 3단지 오피스텔",
+		"addr": "경기도 성남시 수정구 대왕판교로 961 ",
+		"short_addr": "경기도 성남시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "성남시",
+		"apply_nums": "3세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940109&pblancNo=2024940109&houseSecd=11",
