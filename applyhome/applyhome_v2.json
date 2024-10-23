@@ -928,6 +928,19 @@
 		"apply_nums": "10세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950076&pblancNo=2024950076&houseSecd=02",
+		"in_date": "20241029",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "폴스타인 논현",
+		"addr": "서울특별시 강남구 논현동 236-8,9번지",
+		"short_addr": "서울특별시 강남구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강남구",
+		"apply_nums": "9세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000576&pblancNo=2024000576&houseSecd=01",
 		"in_date": "20241030",
 		"hsecd": "01",
@@ -991,5 +1004,44 @@
 		"addr_lv1": "세종특별자치시",
 		"addr_lv2": "행정중심복합도시",
 		"apply_nums": "10세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000600&pblancNo=2024000600&houseSecd=01",
+		"in_date": "20241104",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "VIORR(비오르)",
+		"addr": "서울특별시 강동구 천호동 356, 356-1번지",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "53세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000600&pblancNo=2024000600&houseSecd=01",
+		"in_date": "20241105",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "VIORR(비오르)",
+		"addr": "서울특별시 강동구 천호동 356, 356-1번지",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "53세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000600&pblancNo=2024000600&houseSecd=01",
+		"in_date": "20241106",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "VIORR(비오르)",
+		"addr": "서울특별시 강동구 천호동 356, 356-1번지",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "53세대"
 	}
 ]
