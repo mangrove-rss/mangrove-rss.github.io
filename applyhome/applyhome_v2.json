@@ -1,216 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000572&pblancNo=2024000572&houseSecd=01",
-		"in_date": "20241022",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "대전 르에브 스위첸 1단지",
-		"addr": "대전광역시 중구 대흥동 385-15번지 일원",
-		"short_addr": "대전광역시 중구",
-		"addr_lv1": "대전광역시",
-		"addr_lv2": "중구",
-		"apply_nums": "319세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000573&pblancNo=2024000573&houseSecd=01",
-		"in_date": "20241022",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "대전 르에브 스위첸 2단지",
-		"addr": "대전광역시 중구 대흥동 388-7번지 일원",
-		"short_addr": "대전광역시 중구",
-		"addr_lv1": "대전광역시",
-		"addr_lv2": "중구",
-		"apply_nums": "551세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000585&pblancNo=2024000585&houseSecd=01",
-		"in_date": "20241022",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "두산위브 더센트럴 부평",
-		"addr": "인천광역시 부평구 삼산동 191번지 일원",
-		"short_addr": "인천광역시 부평구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "부평구",
-		"apply_nums": "141세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000577&pblancNo=2024000577&houseSecd=01",
-		"in_date": "20241022",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "둔산 해링턴 플레이스 리버파크",
-		"addr": "대전광역시 서구 월평동 1491번지 일원",
-		"short_addr": "대전광역시 서구",
-		"addr_lv1": "대전광역시",
-		"addr_lv2": "서구",
-		"apply_nums": "336세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000594&pblancNo=2024000594&houseSecd=01",
-		"in_date": "20241022",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "래미안 센트리폴(3BL)",
-		"addr": "인천광역시 연수구 옥련동 송도역세권 도시개발구역 A3블록",
-		"short_addr": "인천광역시 연수구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "연수구",
-		"apply_nums": "1024세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000215&pblancNo=2024000215&houseSecd=01",
-		"in_date": "20241022",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "무거 비스타동원",
-		"addr": "울산광역시 남구 무거동 822-1번지 일원",
-		"short_addr": "울산광역시 남구",
-		"addr_lv1": "울산광역시",
-		"addr_lv2": "남구",
-		"apply_nums": "481세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000571&pblancNo=2024000571&houseSecd=01",
-		"in_date": "20241022",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "센텀파크 SK VIEW",
-		"addr": "부산광역시 연제구 연산동 산4번지 일원",
-		"short_addr": "부산광역시 연제구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "연제구",
-		"apply_nums": "309세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000597&pblancNo=2024000597&houseSecd=01",
-		"in_date": "20241022",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "수원 비셀토64",
-		"addr": "경기도 수원시 영화동 271-7 외 9번지",
-		"short_addr": "경기도 수원시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "수원시",
-		"apply_nums": "64세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000590&pblancNo=2024000590&houseSecd=01",
-		"in_date": "20241022",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "잠실 래미안아이파크",
-		"addr": "서울특별시 송파구 신천동 20-4번지 일대",
-		"short_addr": "서울특별시 송파구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "송파구",
-		"apply_nums": "589세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000557&pblancNo=2024000557&houseSecd=01",
-		"in_date": "20241022",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "청평 수자인 더퍼스트",
-		"addr": "경기도 가평군 청평면 청평리 산81-18번지 일원",
-		"short_addr": "경기도 가평군",
-		"addr_lv1": "경기도",
-		"addr_lv2": "가평군",
-		"apply_nums": "551세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000361&pblancNo=2024000361&houseSecd=01",
-		"in_date": "20241022",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "힐스테이트 오산더클래스",
-		"addr": "경기도 오산시 양산동 10-2번지 일원",
-		"short_addr": "경기도 오산시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "오산시",
-		"apply_nums": "970세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950074&pblancNo=2024950074&houseSecd=02",
-		"in_date": "20241022",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "라포르테 블랑 서현",
-		"addr": "경기도 성남시 분당구 서현동 275번지",
-		"short_addr": "경기도 성남시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "성남시",
-		"apply_nums": "7세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950069&pblancNo=2024950069&houseSecd=02",
-		"in_date": "20241022",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "상월곡역 장위아트포레",
-		"addr": "서울특별시 성북구 석관동 338-18 일원",
-		"short_addr": "서울특별시 성북구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "성북구",
-		"apply_nums": "8세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950070&pblancNo=2024950070&houseSecd=02",
-		"in_date": "20241022",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "하남시청역 에비뉴블랑",
-		"addr": "경기도 하남시 덕풍동 326-16 에비뉴블랑",
-		"short_addr": "경기도 하남시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "하남시",
-		"apply_nums": "4세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910177&pblancNo=2024910177&houseSecd=04",
-		"in_date": "20241022",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "양주 회천신도시 센트럴휴티스(2차)",
-		"addr": "경기도 양주시 덕계로 138-32 센트럴휴티스",
-		"short_addr": "경기도 양주시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "양주시",
-		"apply_nums": "1세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940102&pblancNo=2024940102&houseSecd=11",
-		"in_date": "20241022",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "개봉 루브루(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940104&pblancNo=2024940104&houseSecd=11",
-		"in_date": "20241022",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "이안 모란 센트럴파크"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000590&pblancNo=2024000590&houseSecd=01",
 		"in_date": "20241023",
 		"hsecd": "01",
@@ -866,6 +655,19 @@
 		"apply_nums": "4세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930065&pblancNo=2024930065&houseSecd=06",
+		"in_date": "20241030",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "동탄2신도시 동탄역 디에트르 퍼스티지",
+		"addr": "경기도 화성시 동탄2 택지개발지구 업무복합2블록",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "2세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930037&pblancNo=2024930037&houseSecd=06",
 		"in_date": "20241031",
 		"hsecd": "06",
@@ -879,6 +681,19 @@
 		"apply_nums": "4세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930065&pblancNo=2024930065&houseSecd=06",
+		"in_date": "20241031",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "동탄2신도시 동탄역 디에트르 퍼스티지",
+		"addr": "경기도 화성시 동탄2 택지개발지구 업무복합2블록",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "2세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000600&pblancNo=2024000600&houseSecd=01",
 		"in_date": "20241104",
 		"hsecd": "01",
@@ -890,6 +705,32 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "강동구",
 		"apply_nums": "53세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000633&pblancNo=2024000633&houseSecd=01",
+		"in_date": "20241104",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "더샵 탕정인피니티시티 3차",
+		"addr": "충청남도 아산시 아산탕정지구 도시개발구역 A2BL",
+		"short_addr": "충청남도 아산시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "아산시",
+		"apply_nums": "975세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000621&pblancNo=2024000621&houseSecd=01",
+		"in_date": "20241104",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "덕계역 한신더휴 포레스트",
+		"addr": "경기도 양주시 덕계동 707-1번지 일원",
+		"short_addr": "경기도 양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "양주시",
+		"apply_nums": "724세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000407&pblancNo=2024000407&houseSecd=01",
@@ -931,6 +772,32 @@
 		"apply_nums": "53세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000633&pblancNo=2024000633&houseSecd=01",
+		"in_date": "20241105",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "더샵 탕정인피니티시티 3차",
+		"addr": "충청남도 아산시 아산탕정지구 도시개발구역 A2BL",
+		"short_addr": "충청남도 아산시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "아산시",
+		"apply_nums": "975세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000621&pblancNo=2024000621&houseSecd=01",
+		"in_date": "20241105",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "덕계역 한신더휴 포레스트",
+		"addr": "경기도 양주시 덕계동 707-1번지 일원",
+		"short_addr": "경기도 양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "양주시",
+		"apply_nums": "724세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000407&pblancNo=2024000407&houseSecd=01",
 		"in_date": "20241105",
 		"hsecd": "01",
@@ -942,6 +809,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "의왕시",
 		"apply_nums": "492세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000630&pblancNo=2024000630&houseSecd=01",
+		"in_date": "20241106",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "강릉 아테라",
+		"addr": "강원특별자치도 강릉시 회산동 536번지 일원",
+		"short_addr": "강원특별자치도 강릉시",
+		"addr_lv1": "강원특별자치도",
+		"addr_lv2": "강릉시",
+		"apply_nums": "329세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000526&pblancNo=2024000526&houseSecd=01",
@@ -970,6 +850,32 @@
 		"apply_nums": "53세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000633&pblancNo=2024000633&houseSecd=01",
+		"in_date": "20241106",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "더샵 탕정인피니티시티 3차",
+		"addr": "충청남도 아산시 아산탕정지구 도시개발구역 A2BL",
+		"short_addr": "충청남도 아산시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "아산시",
+		"apply_nums": "975세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000621&pblancNo=2024000621&houseSecd=01",
+		"in_date": "20241106",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "덕계역 한신더휴 포레스트",
+		"addr": "경기도 양주시 덕계동 707-1번지 일원",
+		"short_addr": "경기도 양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "양주시",
+		"apply_nums": "724세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000407&pblancNo=2024000407&houseSecd=01",
 		"in_date": "20241106",
 		"hsecd": "01",
@@ -981,6 +887,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "의왕시",
 		"apply_nums": "492세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000630&pblancNo=2024000630&houseSecd=01",
+		"in_date": "20241107",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "강릉 아테라",
+		"addr": "강원특별자치도 강릉시 회산동 536번지 일원",
+		"short_addr": "강원특별자치도 강릉시",
+		"addr_lv1": "강원특별자치도",
+		"addr_lv2": "강릉시",
+		"apply_nums": "329세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000526&pblancNo=2024000526&houseSecd=01",
@@ -994,5 +913,18 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "평택시",
 		"apply_nums": "599세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000630&pblancNo=2024000630&houseSecd=01",
+		"in_date": "20241108",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "강릉 아테라",
+		"addr": "강원특별자치도 강릉시 회산동 536번지 일원",
+		"short_addr": "강원특별자치도 강릉시",
+		"addr_lv1": "강원특별자치도",
+		"addr_lv2": "강릉시",
+		"apply_nums": "329세대"
 	}
 ]
