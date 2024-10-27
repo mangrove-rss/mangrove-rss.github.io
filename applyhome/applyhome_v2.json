@@ -1,44 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000590&pblancNo=2024000590&houseSecd=01",
-		"in_date": "20241024",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "잠실 래미안아이파크",
-		"addr": "서울특별시 송파구 신천동 20-4번지 일대",
-		"short_addr": "서울특별시 송파구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "송파구",
-		"apply_nums": "589세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950074&pblancNo=2024950074&houseSecd=02",
-		"in_date": "20241024",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "라포르테 블랑 서현",
-		"addr": "경기도 성남시 분당구 서현동 275번지",
-		"short_addr": "경기도 성남시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "성남시",
-		"apply_nums": "7세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910171&pblancNo=2024910171&houseSecd=04",
-		"in_date": "20241024",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "송도 하늘채 아이비원(임의공급2차)",
-		"addr": "인천광역시 연수구 송도동 20-4번지 외 7필지",
-		"short_addr": "인천광역시 연수구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "연수구",
-		"apply_nums": "67세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940106&pblancNo=2024940106&houseSecd=11",
 		"in_date": "20241025",
 		"hsecd": "11",
@@ -493,6 +454,19 @@
 		"apply_nums": "492세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910185&pblancNo=2024910185&houseSecd=04",
+		"in_date": "20241104",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "천왕역 모아엘가 트레뷰(무순위5차)",
+		"addr": "서울특별시 구로구 오류동 213-1번지 일원",
+		"short_addr": "서울특별시 구로구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "구로구",
+		"apply_nums": "5세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000526&pblancNo=2024000526&houseSecd=01",
 		"in_date": "20241105",
 		"hsecd": "01",
@@ -556,6 +530,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "의왕시",
 		"apply_nums": "492세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910179&pblancNo=2024910179&houseSecd=04",
+		"in_date": "20241105",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "용인 둔전역 에피트",
+		"addr": "경기도 용인시 처인구 포곡읍 금어리 646번지 일원",
+		"short_addr": "경기도 용인시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "용인시",
+		"apply_nums": "42세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000630&pblancNo=2024000630&houseSecd=01",
@@ -636,6 +623,19 @@
 		"apply_nums": "492세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000625&pblancNo=2024000625&houseSecd=01",
+		"in_date": "20241107",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "원주무실 사랑으로 부영 분양전환 후 잔여세대",
+		"addr": "강원특별자치도 원주시 무실로 380 (무실동, 사랑으로부영아파트)",
+		"short_addr": "강원특별자치도 원주시",
+		"addr_lv1": "강원특별자치도",
+		"addr_lv2": "원주시",
+		"apply_nums": "158세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000630&pblancNo=2024000630&houseSecd=01",
 		"in_date": "20241107",
 		"hsecd": "01",
@@ -660,6 +660,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "평택시",
 		"apply_nums": "599세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000625&pblancNo=2024000625&houseSecd=01",
+		"in_date": "20241108",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "원주무실 사랑으로 부영 분양전환 후 잔여세대",
+		"addr": "강원특별자치도 원주시 무실로 380 (무실동, 사랑으로부영아파트)",
+		"short_addr": "강원특별자치도 원주시",
+		"addr_lv1": "강원특별자치도",
+		"addr_lv2": "원주시",
+		"apply_nums": "158세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000630&pblancNo=2024000630&houseSecd=01",
@@ -673,5 +686,18 @@
 		"addr_lv1": "강원특별자치도",
 		"addr_lv2": "강릉시",
 		"apply_nums": "329세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000625&pblancNo=2024000625&houseSecd=01",
+		"in_date": "20241111",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "원주무실 사랑으로 부영 분양전환 후 잔여세대",
+		"addr": "강원특별자치도 원주시 무실로 380 (무실동, 사랑으로부영아파트)",
+		"short_addr": "강원특별자치도 원주시",
+		"addr_lv1": "강원특별자치도",
+		"addr_lv2": "원주시",
+		"apply_nums": "158세대"
 	}
 ]
