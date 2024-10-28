@@ -1,29 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940106&pblancNo=2024940106&houseSecd=11",
-		"in_date": "20241025",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "더 트루엘 마곡 HQ"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940111&pblancNo=2024940111&houseSecd=11",
-		"in_date": "20241025",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "동천역 트리너스"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940109&pblancNo=2024940109&houseSecd=11",
-		"in_date": "20241025",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "인천 유림노르웨이숲 에듀오션(6차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940109&pblancNo=2024940109&houseSecd=11",
 		"in_date": "20241026",
 		"hsecd": "11",
@@ -454,6 +430,19 @@
 		"apply_nums": "492세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950077&pblancNo=2024950077&houseSecd=02",
+		"in_date": "20241104",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "더샵 강동센트럴시티",
+		"addr": "서울특별시 강동구 천호동 410-100",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "15세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910185&pblancNo=2024910185&houseSecd=04",
 		"in_date": "20241104",
 		"hsecd": "04",
@@ -465,6 +454,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "구로구",
 		"apply_nums": "5세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930067&pblancNo=2024930067&houseSecd=06",
+		"in_date": "20241104",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "해링턴 플레이스 안암",
+		"addr": "서울특별시 성북구 안암동 132-17번지 일원",
+		"short_addr": "서울특별시 성북구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "성북구",
+		"apply_nums": "2세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000526&pblancNo=2024000526&houseSecd=01",
@@ -530,6 +532,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "의왕시",
 		"apply_nums": "492세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910178&pblancNo=2024910178&houseSecd=04",
+		"in_date": "20241105",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "에비뉴 청계 II(4차)",
+		"addr": "서울특별시 종로구 숭인동 1420번지",
+		"short_addr": "서울특별시 종로구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "종로구",
+		"apply_nums": "39세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910179&pblancNo=2024910179&houseSecd=04",
