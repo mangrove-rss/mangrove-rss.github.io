@@ -1,14 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940109&pblancNo=2024940109&houseSecd=11",
-		"in_date": "20241026",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "인천 유림노르웨이숲 에듀오션(6차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940109&pblancNo=2024940109&houseSecd=11",
 		"in_date": "20241027",
 		"hsecd": "11",
 		"rse": "11",
@@ -560,6 +552,19 @@
 		"apply_nums": "42세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910183&pblancNo=2024910183&houseSecd=04",
+		"in_date": "20241105",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "효성해링턴 플레이스 목감역(무순위 8차)",
+		"addr": "경기도 시흥시 논곡동 378",
+		"short_addr": "경기도 시흥시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "시흥시",
+		"apply_nums": "12세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000630&pblancNo=2024000630&houseSecd=01",
 		"in_date": "20241106",
 		"hsecd": "01",
@@ -690,6 +695,32 @@
 		"apply_nums": "158세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000648&pblancNo=2024000648&houseSecd=01",
+		"in_date": "20241108",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "익산배산 제일풍경채 에듀파크 공가세대 일반공급",
+		"addr": "전북특별자치도 익산시 배산로 93 (모현동1가, 배산제일풍경채 에듀파크아파트)",
+		"short_addr": "전북특별자치도 익산시",
+		"addr_lv1": "전북특별자치도",
+		"addr_lv2": "익산시",
+		"apply_nums": "2세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000647&pblancNo=2024000647&houseSecd=01",
+		"in_date": "20241108",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "전주·완주 혁신도시 에코르 2단지 공가세대 일반공급",
+		"addr": "전북특별자치도 완주군 이서면 지사제로 29 (혁신도시 에코르 2단지 아파트)",
+		"short_addr": "전북특별자치도 완주군",
+		"addr_lv1": "전북특별자치도",
+		"addr_lv2": "완주군",
+		"apply_nums": "18세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000630&pblancNo=2024000630&houseSecd=01",
 		"in_date": "20241108",
 		"hsecd": "01",
@@ -714,5 +745,31 @@
 		"addr_lv1": "강원특별자치도",
 		"addr_lv2": "원주시",
 		"apply_nums": "158세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000648&pblancNo=2024000648&houseSecd=01",
+		"in_date": "20241111",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "익산배산 제일풍경채 에듀파크 공가세대 일반공급",
+		"addr": "전북특별자치도 익산시 배산로 93 (모현동1가, 배산제일풍경채 에듀파크아파트)",
+		"short_addr": "전북특별자치도 익산시",
+		"addr_lv1": "전북특별자치도",
+		"addr_lv2": "익산시",
+		"apply_nums": "2세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000647&pblancNo=2024000647&houseSecd=01",
+		"in_date": "20241111",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "전주·완주 혁신도시 에코르 2단지 공가세대 일반공급",
+		"addr": "전북특별자치도 완주군 이서면 지사제로 29 (혁신도시 에코르 2단지 아파트)",
+		"short_addr": "전북특별자치도 완주군",
+		"addr_lv1": "전북특별자치도",
+		"addr_lv2": "완주군",
+		"apply_nums": "18세대"
 	}
 ]
