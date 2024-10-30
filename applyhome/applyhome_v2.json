@@ -1,13 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940109&pblancNo=2024940109&houseSecd=11",
-		"in_date": "20241027",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "인천 유림노르웨이숲 에듀오션(6차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000576&pblancNo=2024000576&houseSecd=01",
 		"in_date": "20241028",
 		"hsecd": "01",
@@ -435,6 +427,19 @@
 		"apply_nums": "15세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910184&pblancNo=2024910184&houseSecd=04",
+		"in_date": "20241104",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "대전 도마·변동 11구역 호반써밋 그랜드 센트럴(무순위 3차)",
+		"addr": "대전광역시 서구 도마동 145-8번지 일원",
+		"short_addr": "대전광역시 서구",
+		"addr_lv1": "대전광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "8세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910185&pblancNo=2024910185&houseSecd=04",
 		"in_date": "20241104",
 		"hsecd": "04",
@@ -459,6 +464,14 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "성북구",
 		"apply_nums": "2세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940112&pblancNo=2024940112&houseSecd=11",
+		"in_date": "20241104",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "의정부역 파밀리에Ⅱ(2차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000526&pblancNo=2024000526&houseSecd=01",
@@ -734,6 +747,32 @@
 		"apply_nums": "329세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000602&pblancNo=2024000602&houseSecd=01",
+		"in_date": "20241111",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "광명 유승한내들 라포레",
+		"addr": "경기도 광명시 소하동 380-1",
+		"short_addr": "경기도 광명시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "광명시",
+		"apply_nums": "444세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000609&pblancNo=2024000609&houseSecd=01",
+		"in_date": "20241111",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "이천 중리지구 A-2블록 신안인스빌 퍼스티지",
+		"addr": "경기도 이천시 증일동 중리택지개발지구 A2블록",
+		"short_addr": "경기도 이천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "이천시",
+		"apply_nums": "523세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000625&pblancNo=2024000625&houseSecd=01",
 		"in_date": "20241111",
 		"hsecd": "01",
@@ -771,5 +810,57 @@
 		"addr_lv1": "전북특별자치도",
 		"addr_lv2": "완주군",
 		"apply_nums": "18세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000602&pblancNo=2024000602&houseSecd=01",
+		"in_date": "20241112",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "광명 유승한내들 라포레",
+		"addr": "경기도 광명시 소하동 380-1",
+		"short_addr": "경기도 광명시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "광명시",
+		"apply_nums": "444세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000609&pblancNo=2024000609&houseSecd=01",
+		"in_date": "20241112",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "이천 중리지구 A-2블록 신안인스빌 퍼스티지",
+		"addr": "경기도 이천시 증일동 중리택지개발지구 A2블록",
+		"short_addr": "경기도 이천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "이천시",
+		"apply_nums": "523세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000602&pblancNo=2024000602&houseSecd=01",
+		"in_date": "20241113",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "광명 유승한내들 라포레",
+		"addr": "경기도 광명시 소하동 380-1",
+		"short_addr": "경기도 광명시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "광명시",
+		"apply_nums": "444세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000609&pblancNo=2024000609&houseSecd=01",
+		"in_date": "20241113",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "이천 중리지구 A-2블록 신안인스빌 퍼스티지",
+		"addr": "경기도 이천시 증일동 중리택지개발지구 A2블록",
+		"short_addr": "경기도 이천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "이천시",
+		"apply_nums": "523세대"
 	}
 ]
