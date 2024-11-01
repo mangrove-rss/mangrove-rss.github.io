@@ -315,6 +315,19 @@
 		"apply_nums": "492세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950078&pblancNo=2024950078&houseSecd=02",
+		"in_date": "20241106",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "교대역 푸르지오 트레힐즈",
+		"addr": "대구광역시 남구 이천동 474-1번지 일원",
+		"short_addr": "대구광역시 남구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "60세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950080&pblancNo=2024950080&houseSecd=02",
 		"in_date": "20241106",
 		"hsecd": "02",
@@ -339,6 +352,19 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "동구",
 		"apply_nums": "35세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930068&pblancNo=2024930068&houseSecd=06",
+		"in_date": "20241106",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "목동모아엘가그랑데",
+		"addr": "대전광역시 중구 목동로22번길 45",
+		"short_addr": "대전광역시 중구",
+		"addr_lv1": "대전광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "1세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940113&pblancNo=2024940113&houseSecd=11",
@@ -388,6 +414,19 @@
 		"apply_nums": "599세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950078&pblancNo=2024950078&houseSecd=02",
+		"in_date": "20241107",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "교대역 푸르지오 트레힐즈",
+		"addr": "대구광역시 남구 이천동 474-1번지 일원",
+		"short_addr": "대구광역시 남구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "60세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950080&pblancNo=2024950080&houseSecd=02",
 		"in_date": "20241107",
 		"hsecd": "02",
@@ -453,6 +492,19 @@
 		"apply_nums": "329세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950078&pblancNo=2024950078&houseSecd=02",
+		"in_date": "20241108",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "교대역 푸르지오 트레힐즈",
+		"addr": "대구광역시 남구 이천동 474-1번지 일원",
+		"short_addr": "대구광역시 남구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "60세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000635&pblancNo=2024000635&houseSecd=01",
 		"in_date": "20241111",
 		"hsecd": "01",
@@ -529,6 +581,32 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "이천시",
 		"apply_nums": "523세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000628&pblancNo=2024000628&houseSecd=01",
+		"in_date": "20241111",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "천안 아이파크 시티",
+		"addr": "충청남도 천안시 서북구 성성동 34-4번지 일원",
+		"short_addr": "충청남도 천안시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "천안시",
+		"apply_nums": "892세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000595&pblancNo=2024000595&houseSecd=01",
+		"in_date": "20241111",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "평택 브레인시티 한신더휴",
+		"addr": "경기도 평택시 장안동 평택브레인시티 일반산업단지 공동 7BL",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "991세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000643&pblancNo=2024000643&houseSecd=01",
@@ -583,6 +661,32 @@
 		"apply_nums": "18세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000608&pblancNo=2024000608&houseSecd=01",
+		"in_date": "20241112",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "번영로 롯데캐슬 센트럴스카이",
+		"addr": "울산광역시 중구 학산동 167-4번지",
+		"short_addr": "울산광역시 중구",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "634세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000632&pblancNo=2024000632&houseSecd=01",
+		"in_date": "20241112",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "울산 다운2지구 우미 린 어반파크",
+		"addr": "울산광역시 중구 다운동 302-4번지 일원(울산 다운2지구 B-4BL)",
+		"short_addr": "울산광역시 중구",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "731세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000635&pblancNo=2024000635&houseSecd=01",
 		"in_date": "20241112",
 		"hsecd": "01",
@@ -659,6 +763,32 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "이천시",
 		"apply_nums": "523세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000628&pblancNo=2024000628&houseSecd=01",
+		"in_date": "20241112",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "천안 아이파크 시티",
+		"addr": "충청남도 천안시 서북구 성성동 34-4번지 일원",
+		"short_addr": "충청남도 천안시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "천안시",
+		"apply_nums": "892세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000595&pblancNo=2024000595&houseSecd=01",
+		"in_date": "20241112",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "평택 브레인시티 한신더휴",
+		"addr": "경기도 평택시 장안동 평택브레인시티 일반산업단지 공동 7BL",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "991세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000643&pblancNo=2024000643&houseSecd=01",
@@ -674,6 +804,32 @@
 		"apply_nums": "33세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000608&pblancNo=2024000608&houseSecd=01",
+		"in_date": "20241113",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "번영로 롯데캐슬 센트럴스카이",
+		"addr": "울산광역시 중구 학산동 167-4번지",
+		"short_addr": "울산광역시 중구",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "634세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000632&pblancNo=2024000632&houseSecd=01",
+		"in_date": "20241113",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "울산 다운2지구 우미 린 어반파크",
+		"addr": "울산광역시 중구 다운동 302-4번지 일원(울산 다운2지구 B-4BL)",
+		"short_addr": "울산광역시 중구",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "731세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000635&pblancNo=2024000635&houseSecd=01",
 		"in_date": "20241113",
 		"hsecd": "01",
@@ -750,5 +906,57 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "이천시",
 		"apply_nums": "523세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000628&pblancNo=2024000628&houseSecd=01",
+		"in_date": "20241113",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "천안 아이파크 시티",
+		"addr": "충청남도 천안시 서북구 성성동 34-4번지 일원",
+		"short_addr": "충청남도 천안시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "천안시",
+		"apply_nums": "892세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000595&pblancNo=2024000595&houseSecd=01",
+		"in_date": "20241113",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "평택 브레인시티 한신더휴",
+		"addr": "경기도 평택시 장안동 평택브레인시티 일반산업단지 공동 7BL",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "991세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000608&pblancNo=2024000608&houseSecd=01",
+		"in_date": "20241114",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "번영로 롯데캐슬 센트럴스카이",
+		"addr": "울산광역시 중구 학산동 167-4번지",
+		"short_addr": "울산광역시 중구",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "634세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000632&pblancNo=2024000632&houseSecd=01",
+		"in_date": "20241114",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "울산 다운2지구 우미 린 어반파크",
+		"addr": "울산광역시 중구 다운동 302-4번지 일원(울산 다운2지구 B-4BL)",
+		"short_addr": "울산광역시 중구",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "731세대"
 	}
 ]
