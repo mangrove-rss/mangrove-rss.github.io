@@ -375,6 +375,22 @@
 		"name": "e편한세상 옥천 퍼스트원 "
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940117&pblancNo=2024940117&houseSecd=11",
+		"in_date": "20241106",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "원종역 해모로 아스트라"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940118&pblancNo=2024940118&houseSecd=11",
+		"in_date": "20241106",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "월드메르디앙 송도(3차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000625&pblancNo=2024000625&houseSecd=01",
 		"in_date": "20241107",
 		"hsecd": "01",
@@ -440,6 +456,14 @@
 		"apply_nums": "25세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940118&pblancNo=2024940118&houseSecd=11",
+		"in_date": "20241107",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "월드메르디앙 송도(3차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000625&pblancNo=2024000625&houseSecd=01",
 		"in_date": "20241108",
 		"hsecd": "01",
@@ -505,6 +529,30 @@
 		"apply_nums": "60세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940118&pblancNo=2024940118&houseSecd=11",
+		"in_date": "20241108",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "월드메르디앙 송도(3차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940118&pblancNo=2024940118&houseSecd=11",
+		"in_date": "20241109",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "월드메르디앙 송도(3차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940118&pblancNo=2024940118&houseSecd=11",
+		"in_date": "20241110",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "월드메르디앙 송도(3차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000635&pblancNo=2024000635&houseSecd=01",
 		"in_date": "20241111",
 		"hsecd": "01",
@@ -661,6 +709,14 @@
 		"apply_nums": "18세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940118&pblancNo=2024940118&houseSecd=11",
+		"in_date": "20241111",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "월드메르디앙 송도(3차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000608&pblancNo=2024000608&houseSecd=01",
 		"in_date": "20241112",
 		"hsecd": "01",
@@ -958,5 +1014,21 @@
 		"addr_lv1": "울산광역시",
 		"addr_lv2": "중구",
 		"apply_nums": "731세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940114&pblancNo=2024940114&houseSecd=11",
+		"in_date": "20241118",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "제주포레팰리스"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940114&pblancNo=2024940114&houseSecd=11",
+		"in_date": "20241119",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "제주포레팰리스"
 	}
 ]
