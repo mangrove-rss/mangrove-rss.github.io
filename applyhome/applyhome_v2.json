@@ -456,6 +456,22 @@
 		"apply_nums": "25세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940116&pblancNo=2024940116&houseSecd=11",
+		"in_date": "20241107",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "부천역곡 자연앤한양립스(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940115&pblancNo=2024940115&houseSecd=11",
+		"in_date": "20241107",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "양평동 동문 디 이스트"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940118&pblancNo=2024940118&houseSecd=11",
 		"in_date": "20241107",
 		"hsecd": "11",
@@ -527,6 +543,14 @@
 		"addr_lv1": "대구광역시",
 		"addr_lv2": "남구",
 		"apply_nums": "60세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940116&pblancNo=2024940116&houseSecd=11",
+		"in_date": "20241108",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "부천역곡 자연앤한양립스(2차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940118&pblancNo=2024940118&houseSecd=11",
