@@ -910,6 +910,19 @@
 		"apply_nums": "33세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950081&pblancNo=2024950081&houseSecd=02",
+		"in_date": "20241112",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "원당역 롯데캐슬 스카이엘",
+		"addr": "경기도 고양시 덕양구 성사동 405-8번지 일원",
+		"short_addr": "경기도 고양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "고양시",
+		"apply_nums": "19세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000608&pblancNo=2024000608&houseSecd=01",
 		"in_date": "20241113",
 		"hsecd": "01",
@@ -1066,6 +1079,19 @@
 		"apply_nums": "731세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930069&pblancNo=2024930069&houseSecd=06",
+		"in_date": "20241114",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "e편한세상 고덕 어반브릿지",
+		"addr": "서울특별시 강동구 상일동 554-38일원(고덕강일 공공주택지구 10블록)",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "4세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950082&pblancNo=2024950082&houseSecd=02",
 		"in_date": "20241118",
 		"hsecd": "02",
@@ -1087,11 +1113,89 @@
 		"name": "제주포레팰리스"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000603&pblancNo=2024000603&houseSecd=01",
+		"in_date": "20241119",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "e편한세상 일산 메이포레 1단지",
+		"addr": "경기도 고양시 일산동구 풍동 822번지 일원",
+		"short_addr": "경기도 고양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "고양시",
+		"apply_nums": "112세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000604&pblancNo=2024000604&houseSecd=01",
+		"in_date": "20241119",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "e편한세상 일산 메이포레 3단지",
+		"addr": "경기도 고양시 일산동구 풍동 852번지 일원",
+		"short_addr": "경기도 고양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "고양시",
+		"apply_nums": "35세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940114&pblancNo=2024940114&houseSecd=11",
 		"in_date": "20241119",
 		"hsecd": "11",
 		"rse": "11",
 		"type": "",
 		"name": "제주포레팰리스"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000603&pblancNo=2024000603&houseSecd=01",
+		"in_date": "20241120",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "e편한세상 일산 메이포레 1단지",
+		"addr": "경기도 고양시 일산동구 풍동 822번지 일원",
+		"short_addr": "경기도 고양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "고양시",
+		"apply_nums": "112세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000604&pblancNo=2024000604&houseSecd=01",
+		"in_date": "20241120",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "e편한세상 일산 메이포레 3단지",
+		"addr": "경기도 고양시 일산동구 풍동 852번지 일원",
+		"short_addr": "경기도 고양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "고양시",
+		"apply_nums": "35세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000603&pblancNo=2024000603&houseSecd=01",
+		"in_date": "20241121",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "e편한세상 일산 메이포레 1단지",
+		"addr": "경기도 고양시 일산동구 풍동 822번지 일원",
+		"short_addr": "경기도 고양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "고양시",
+		"apply_nums": "112세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000604&pblancNo=2024000604&houseSecd=01",
+		"in_date": "20241121",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "e편한세상 일산 메이포레 3단지",
+		"addr": "경기도 고양시 일산동구 풍동 852번지 일원",
+		"short_addr": "경기도 고양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "고양시",
+		"apply_nums": "35세대"
 	}
 ]
