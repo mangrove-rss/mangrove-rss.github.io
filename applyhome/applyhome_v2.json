@@ -1,130 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000526&pblancNo=2024000526&houseSecd=01",
-		"in_date": "20241105",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "힐스테이트 평택역센트럴시티",
-		"addr": "경기도 평택시 합정동 835번지 일원",
-		"short_addr": "경기도 평택시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "평택시",
-		"apply_nums": "599세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000600&pblancNo=2024000600&houseSecd=01",
-		"in_date": "20241105",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "VIORR(비오르)",
-		"addr": "서울특별시 강동구 천호동 356, 356-1번지",
-		"short_addr": "서울특별시 강동구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강동구",
-		"apply_nums": "53세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000633&pblancNo=2024000633&houseSecd=01",
-		"in_date": "20241105",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "더샵 탕정인피니티시티 3차",
-		"addr": "충청남도 아산시 아산탕정지구 도시개발구역 A2BL",
-		"short_addr": "충청남도 아산시",
-		"addr_lv1": "충청남도",
-		"addr_lv2": "아산시",
-		"apply_nums": "975세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000621&pblancNo=2024000621&houseSecd=01",
-		"in_date": "20241105",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "덕계역 한신더휴 포레스트",
-		"addr": "경기도 양주시 덕계동 707-1번지 일원",
-		"short_addr": "경기도 양주시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "양주시",
-		"apply_nums": "724세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000407&pblancNo=2024000407&houseSecd=01",
-		"in_date": "20241105",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "의왕고천지구 대방 디에트르 센트럴(B1BL)",
-		"addr": "경기도 의왕시 고천동 공공주택지구 B1블록(경기도 의왕시 고천동 190-1일원)",
-		"short_addr": "경기도 의왕시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "의왕시",
-		"apply_nums": "492세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910178&pblancNo=2024910178&houseSecd=04",
-		"in_date": "20241105",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "에비뉴 청계 II(4차)",
-		"addr": "서울특별시 종로구 숭인동 1420번지",
-		"short_addr": "서울특별시 종로구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "종로구",
-		"apply_nums": "39세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910179&pblancNo=2024910179&houseSecd=04",
-		"in_date": "20241105",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "용인 둔전역 에피트",
-		"addr": "경기도 용인시 처인구 포곡읍 금어리 646번지 일원",
-		"short_addr": "경기도 용인시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "용인시",
-		"apply_nums": "42세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910183&pblancNo=2024910183&houseSecd=04",
-		"in_date": "20241105",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "효성해링턴 플레이스 목감역(무순위 8차)",
-		"addr": "경기도 시흥시 논곡동 378",
-		"short_addr": "경기도 시흥시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "시흥시",
-		"apply_nums": "12세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930066&pblancNo=2024930066&houseSecd=06",
-		"in_date": "20241105",
-		"hsecd": "06",
-		"rse": "07",
-		"type": "",
-		"name": "노원 롯데캐슬 시그니처",
-		"addr": "서울특별시 노원구 상계동 95-3번지 일대 (상계6재정비촉진구역 주택재개발정비사업)",
-		"short_addr": "서울특별시 노원구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "노원구",
-		"apply_nums": "1세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940113&pblancNo=2024940113&houseSecd=11",
-		"in_date": "20241105",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "e편한세상 옥천 퍼스트원 "
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000630&pblancNo=2024000630&houseSecd=01",
 		"in_date": "20241106",
 		"hsecd": "01",
@@ -988,6 +863,19 @@
 		"apply_nums": "4세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000601&pblancNo=2024000601&houseSecd=01",
+		"in_date": "20241118",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "군포대야미 대방 디에트르 시그니처(B3BL)",
+		"addr": "경기도 군포시 군포대야미 공공주택지구 B3블럭(경기도 군포시 둔대동 57번지 일원)",
+		"short_addr": "경기도 군포시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "군포시",
+		"apply_nums": "568세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000646&pblancNo=2024000646&houseSecd=01",
 		"in_date": "20241118",
 		"hsecd": "01",
@@ -999,6 +887,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "파주시",
 		"apply_nums": "748세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000665&pblancNo=2024000665&houseSecd=01",
+		"in_date": "20241118",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "서산 휴리움 레이크파크",
+		"addr": "충청남도 서산시 읍내동 86-1번지 외 7필지",
+		"short_addr": "충청남도 서산시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "서산시",
+		"apply_nums": "150세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000563&pblancNo=2024000563&houseSecd=01",
@@ -1126,6 +1027,19 @@
 		"apply_nums": "864세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000579&pblancNo=2024000579&houseSecd=01",
+		"in_date": "20241119",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "청주 남주 대원칸타빌 더 시엘",
+		"addr": "충청북도 청주시 상당구 남주동 180번지 일원",
+		"short_addr": "충청북도 청주시",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "청주시",
+		"apply_nums": "460세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000644&pblancNo=2024000644&houseSecd=01",
 		"in_date": "20241119",
 		"hsecd": "01",
@@ -1139,6 +1053,19 @@
 		"apply_nums": "543세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000601&pblancNo=2024000601&houseSecd=01",
+		"in_date": "20241119",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "군포대야미 대방 디에트르 시그니처(B3BL)",
+		"addr": "경기도 군포시 군포대야미 공공주택지구 B3블럭(경기도 군포시 둔대동 57번지 일원)",
+		"short_addr": "경기도 군포시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "군포시",
+		"apply_nums": "568세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000646&pblancNo=2024000646&houseSecd=01",
 		"in_date": "20241119",
 		"hsecd": "01",
@@ -1150,6 +1077,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "파주시",
 		"apply_nums": "748세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000665&pblancNo=2024000665&houseSecd=01",
+		"in_date": "20241119",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "서산 휴리움 레이크파크",
+		"addr": "충청남도 서산시 읍내동 86-1번지 외 7필지",
+		"short_addr": "충청남도 서산시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "서산시",
+		"apply_nums": "150세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000563&pblancNo=2024000563&houseSecd=01",
@@ -1251,6 +1191,19 @@
 		"apply_nums": "864세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000579&pblancNo=2024000579&houseSecd=01",
+		"in_date": "20241120",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "청주 남주 대원칸타빌 더 시엘",
+		"addr": "충청북도 청주시 상당구 남주동 180번지 일원",
+		"short_addr": "충청북도 청주시",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "청주시",
+		"apply_nums": "460세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000644&pblancNo=2024000644&houseSecd=01",
 		"in_date": "20241120",
 		"hsecd": "01",
@@ -1264,6 +1217,19 @@
 		"apply_nums": "543세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000601&pblancNo=2024000601&houseSecd=01",
+		"in_date": "20241120",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "군포대야미 대방 디에트르 시그니처(B3BL)",
+		"addr": "경기도 군포시 군포대야미 공공주택지구 B3블럭(경기도 군포시 둔대동 57번지 일원)",
+		"short_addr": "경기도 군포시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "군포시",
+		"apply_nums": "568세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000646&pblancNo=2024000646&houseSecd=01",
 		"in_date": "20241120",
 		"hsecd": "01",
@@ -1275,6 +1241,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "파주시",
 		"apply_nums": "748세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000665&pblancNo=2024000665&houseSecd=01",
+		"in_date": "20241120",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "서산 휴리움 레이크파크",
+		"addr": "충청남도 서산시 읍내동 86-1번지 외 7필지",
+		"short_addr": "충청남도 서산시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "서산시",
+		"apply_nums": "150세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000563&pblancNo=2024000563&houseSecd=01",
@@ -1379,6 +1358,19 @@
 		"addr_lv1": "대전광역시",
 		"addr_lv2": "서구",
 		"apply_nums": "864세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000579&pblancNo=2024000579&houseSecd=01",
+		"in_date": "20241121",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "청주 남주 대원칸타빌 더 시엘",
+		"addr": "충청북도 청주시 상당구 남주동 180번지 일원",
+		"short_addr": "충청북도 청주시",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "청주시",
+		"apply_nums": "460세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000644&pblancNo=2024000644&houseSecd=01",
