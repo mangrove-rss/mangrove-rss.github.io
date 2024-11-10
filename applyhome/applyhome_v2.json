@@ -1,95 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000625&pblancNo=2024000625&houseSecd=01",
-		"in_date": "20241107",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "원주무실 사랑으로 부영 분양전환 후 잔여세대",
-		"addr": "강원특별자치도 원주시 무실로 380 (무실동, 사랑으로부영아파트)",
-		"short_addr": "강원특별자치도 원주시",
-		"addr_lv1": "강원특별자치도",
-		"addr_lv2": "원주시",
-		"apply_nums": "158세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000630&pblancNo=2024000630&houseSecd=01",
-		"in_date": "20241107",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "강릉 아테라",
-		"addr": "강원특별자치도 강릉시 회산동 536번지 일원",
-		"short_addr": "강원특별자치도 강릉시",
-		"addr_lv1": "강원특별자치도",
-		"addr_lv2": "강릉시",
-		"apply_nums": "329세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000526&pblancNo=2024000526&houseSecd=01",
-		"in_date": "20241107",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "힐스테이트 평택역센트럴시티",
-		"addr": "경기도 평택시 합정동 835번지 일원",
-		"short_addr": "경기도 평택시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "평택시",
-		"apply_nums": "599세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950078&pblancNo=2024950078&houseSecd=02",
-		"in_date": "20241107",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "교대역 푸르지오 트레힐즈",
-		"addr": "대구광역시 남구 이천동 474-1번지 일원",
-		"short_addr": "대구광역시 남구",
-		"addr_lv1": "대구광역시",
-		"addr_lv2": "남구",
-		"apply_nums": "60세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950080&pblancNo=2024950080&houseSecd=02",
-		"in_date": "20241107",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "상봉역 유보라 퍼스트리브",
-		"addr": "서울특별시 중랑구 망우로 322 (상봉동, 상봉역 유보라 퍼스트리브)",
-		"short_addr": "서울특별시 중랑구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "중랑구",
-		"apply_nums": "25세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940116&pblancNo=2024940116&houseSecd=11",
-		"in_date": "20241107",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "부천역곡 자연앤한양립스(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940115&pblancNo=2024940115&houseSecd=11",
-		"in_date": "20241107",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "양평동 동문 디 이스트"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940118&pblancNo=2024940118&houseSecd=11",
-		"in_date": "20241107",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "월드메르디앙 송도(3차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000625&pblancNo=2024000625&houseSecd=01",
 		"in_date": "20241108",
 		"hsecd": "01",
 		"rse": "02",
@@ -670,6 +581,22 @@
 		"apply_nums": "991세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940121&pblancNo=2024940121&houseSecd=11",
+		"in_date": "20241113",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "더 트루엘 마곡 HQ(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940120&pblancNo=2024940120&houseSecd=11",
+		"in_date": "20241113",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "마포 에피트 어바닉"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000608&pblancNo=2024000608&houseSecd=01",
 		"in_date": "20241114",
 		"hsecd": "01",
@@ -707,6 +634,14 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "강동구",
 		"apply_nums": "4세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940120&pblancNo=2024940120&houseSecd=11",
+		"in_date": "20241114",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "마포 에피트 어바닉"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000601&pblancNo=2024000601&houseSecd=01",
@@ -824,6 +759,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "동대문구",
 		"apply_nums": "4세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910190&pblancNo=2024910190&houseSecd=04",
+		"in_date": "20241118",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "포레나 인천학익(임의공급 9차)",
+		"addr": "인천광역시 미추홀구 학익2동 290-1",
+		"short_addr": "인천광역시 미추홀구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "미추홀구",
+		"apply_nums": "13세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940114&pblancNo=2024940114&houseSecd=11",
