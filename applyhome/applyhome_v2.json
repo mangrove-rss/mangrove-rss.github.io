@@ -1,86 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000625&pblancNo=2024000625&houseSecd=01",
-		"in_date": "20241108",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "원주무실 사랑으로 부영 분양전환 후 잔여세대",
-		"addr": "강원특별자치도 원주시 무실로 380 (무실동, 사랑으로부영아파트)",
-		"short_addr": "강원특별자치도 원주시",
-		"addr_lv1": "강원특별자치도",
-		"addr_lv2": "원주시",
-		"apply_nums": "158세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000648&pblancNo=2024000648&houseSecd=01",
-		"in_date": "20241108",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "익산배산 제일풍경채 에듀파크 공가세대 일반공급",
-		"addr": "전북특별자치도 익산시 배산로 93 (모현동1가, 배산제일풍경채 에듀파크아파트)",
-		"short_addr": "전북특별자치도 익산시",
-		"addr_lv1": "전북특별자치도",
-		"addr_lv2": "익산시",
-		"apply_nums": "2세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000647&pblancNo=2024000647&houseSecd=01",
-		"in_date": "20241108",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "전주·완주 혁신도시 에코르 2단지 공가세대 일반공급",
-		"addr": "전북특별자치도 완주군 이서면 지사제로 29 (혁신도시 에코르 2단지 아파트)",
-		"short_addr": "전북특별자치도 완주군",
-		"addr_lv1": "전북특별자치도",
-		"addr_lv2": "완주군",
-		"apply_nums": "18세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000630&pblancNo=2024000630&houseSecd=01",
-		"in_date": "20241108",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "강릉 아테라",
-		"addr": "강원특별자치도 강릉시 회산동 536번지 일원",
-		"short_addr": "강원특별자치도 강릉시",
-		"addr_lv1": "강원특별자치도",
-		"addr_lv2": "강릉시",
-		"apply_nums": "329세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950078&pblancNo=2024950078&houseSecd=02",
-		"in_date": "20241108",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "교대역 푸르지오 트레힐즈",
-		"addr": "대구광역시 남구 이천동 474-1번지 일원",
-		"short_addr": "대구광역시 남구",
-		"addr_lv1": "대구광역시",
-		"addr_lv2": "남구",
-		"apply_nums": "60세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940116&pblancNo=2024940116&houseSecd=11",
-		"in_date": "20241108",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "부천역곡 자연앤한양립스(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940118&pblancNo=2024940118&houseSecd=11",
-		"in_date": "20241108",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "월드메르디앙 송도(3차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940118&pblancNo=2024940118&houseSecd=11",
 		"in_date": "20241109",
 		"hsecd": "11",
@@ -636,6 +555,14 @@
 		"apply_nums": "4세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940127&pblancNo=2024940127&houseSecd=11",
+		"in_date": "20241114",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "대전 에테르 스위첸(임의공급 2차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940120&pblancNo=2024940120&houseSecd=11",
 		"in_date": "20241114",
 		"hsecd": "11",
@@ -759,6 +686,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "동대문구",
 		"apply_nums": "4세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910187&pblancNo=2024910187&houseSecd=04",
+		"in_date": "20241118",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "더샵 디어엘로",
+		"addr": "대구광역시 동구 신천4동 353-1번지 일원",
+		"short_addr": "대구광역시 동구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "동구",
+		"apply_nums": "1세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910190&pblancNo=2024910190&houseSecd=04",
@@ -936,6 +876,19 @@
 		"addr_lv1": "대전광역시",
 		"addr_lv2": "유성구",
 		"apply_nums": "393세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910189&pblancNo=2024910189&houseSecd=04",
+		"in_date": "20241119",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "용인 푸르지오 원클러스터 1단지(임의공급 1차)",
+		"addr": "경기도 용인시 처인구 남동 산126-13일원(A1BL)",
+		"short_addr": "경기도 용인시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "용인시",
+		"apply_nums": "24세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940114&pblancNo=2024940114&houseSecd=11",
