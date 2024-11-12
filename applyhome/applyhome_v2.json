@@ -1,14 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940118&pblancNo=2024940118&houseSecd=11",
-		"in_date": "20241109",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "월드메르디앙 송도(3차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940118&pblancNo=2024940118&houseSecd=11",
 		"in_date": "20241110",
 		"hsecd": "11",
 		"rse": "11",
@@ -675,6 +667,14 @@
 		"apply_nums": "393세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024850023&pblancNo=2024850023&houseSecd=03",
+		"in_date": "20241118",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "서울은평뉴타운 디에트르 더 퍼스트"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950082&pblancNo=2024950082&houseSecd=02",
 		"in_date": "20241118",
 		"hsecd": "02",
@@ -699,6 +699,32 @@
 		"addr_lv1": "대구광역시",
 		"addr_lv2": "동구",
 		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910192&pblancNo=2024910192&houseSecd=04",
+		"in_date": "20241118",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "서대문 센트럴 아이파크(임의공급 6차)",
+		"addr": "서울특별시 서대문구 홍은동 11-111번지 일원",
+		"short_addr": "서울특별시 서대문구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "서대문구",
+		"apply_nums": "25세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910194&pblancNo=2024910194&houseSecd=04",
+		"in_date": "20241118",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "수유 시그니티(임의공급 6차)",
+		"addr": "서울특별시 강북구 수유동 87-5번지",
+		"short_addr": "서울특별시 강북구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강북구",
+		"apply_nums": "7세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910190&pblancNo=2024910190&houseSecd=04",
@@ -876,6 +902,14 @@
 		"addr_lv1": "대전광역시",
 		"addr_lv2": "유성구",
 		"apply_nums": "393세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024850023&pblancNo=2024850023&houseSecd=03",
+		"in_date": "20241119",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "서울은평뉴타운 디에트르 더 퍼스트"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910189&pblancNo=2024910189&houseSecd=04",
