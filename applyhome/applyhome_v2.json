@@ -921,6 +921,14 @@
 		"apply_nums": "1세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940142&pblancNo=2024940142&houseSecd=11",
+		"in_date": "20241125",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "e편한세상 주촌 더프리미어"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000679&pblancNo=2024000679&houseSecd=01",
 		"in_date": "20241126",
 		"hsecd": "01",
@@ -1025,6 +1033,27 @@
 		"apply_nums": "530세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910198&pblancNo=2024910198&houseSecd=04",
+		"in_date": "20241126",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "효성해링턴 플레이스 목감역(무순위 9차)",
+		"addr": "경기도 시흥시 논곡동 378",
+		"short_addr": "경기도 시흥시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "시흥시",
+		"apply_nums": "10세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940132&pblancNo=2024940132&houseSecd=11",
+		"in_date": "20241126",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "개봉 루브루(3차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000679&pblancNo=2024000679&houseSecd=01",
 		"in_date": "20241127",
 		"hsecd": "01",
@@ -1127,6 +1156,14 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "화성시",
 		"apply_nums": "530세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940132&pblancNo=2024940132&houseSecd=11",
+		"in_date": "20241127",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "개봉 루브루(3차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950085&pblancNo=2024950085&houseSecd=02",
