@@ -1,107 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000603&pblancNo=2024000603&houseSecd=01",
-		"in_date": "20241121",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "e편한세상 일산 메이포레 1단지",
-		"addr": "경기도 고양시 일산동구 풍동 822번지 일원",
-		"short_addr": "경기도 고양시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "고양시",
-		"apply_nums": "112세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000604&pblancNo=2024000604&houseSecd=01",
-		"in_date": "20241121",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "e편한세상 일산 메이포레 3단지",
-		"addr": "경기도 고양시 일산동구 풍동 852번지 일원",
-		"short_addr": "경기도 고양시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "고양시",
-		"apply_nums": "35세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000657&pblancNo=2024000657&houseSecd=01",
-		"in_date": "20241121",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "둔산 엘리프 더센트럴",
-		"addr": "대전광역시 서구 괴정동 133번지 일원",
-		"short_addr": "대전광역시 서구",
-		"addr_lv1": "대전광역시",
-		"addr_lv2": "서구",
-		"apply_nums": "864세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000579&pblancNo=2024000579&houseSecd=01",
-		"in_date": "20241121",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "청주 남주 대원칸타빌 더 시엘",
-		"addr": "충청북도 청주시 상당구 남주동 180번지 일원",
-		"short_addr": "충청북도 청주시",
-		"addr_lv1": "충청북도",
-		"addr_lv2": "청주시",
-		"apply_nums": "460세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000644&pblancNo=2024000644&houseSecd=01",
-		"in_date": "20241121",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "청주테크노폴리스 힐데스하임 더원(S3블록)",
-		"addr": "충청북도 청주시 흥덕구 문암동 산28-3번지 일원(청주테크노폴리스 S3블록)",
-		"short_addr": "충청북도 청주시",
-		"addr_lv1": "충청북도",
-		"addr_lv2": "청주시",
-		"apply_nums": "543세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910196&pblancNo=2024910196&houseSecd=04",
-		"in_date": "20241121",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "관저 푸르지오 센트럴파크 2단지(임의공급 9차)",
-		"addr": "대전광역시 서구 계백지구 도시개발사업구역 공동주택용지 A2블럭 (가수원동 산 16-119번지 일원)",
-		"short_addr": "대전광역시 서구",
-		"addr_lv1": "대전광역시",
-		"addr_lv2": "서구",
-		"apply_nums": "4세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940135&pblancNo=2024940135&houseSecd=11",
-		"in_date": "20241121",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "덕정역 서희스타힐스 에듀포레 3단지"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940140&pblancNo=2024940140&houseSecd=11",
-		"in_date": "20241121",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "오산세교 하우스토리 더 센트럴(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940129&pblancNo=2024940129&houseSecd=11",
-		"in_date": "20241121",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "힐스테이트 탑석(3차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000679&pblancNo=2024000679&houseSecd=01",
 		"in_date": "20241125",
 		"hsecd": "01",
@@ -511,6 +409,22 @@
 		"name": "개봉 루브루(3차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940137&pblancNo=2024940137&houseSecd=11",
+		"in_date": "20241127",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "제기동역 파밀리에 더센트럴(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940137&pblancNo=2024940137&houseSecd=11",
+		"in_date": "20241128",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "제기동역 파밀리에 더센트럴(2차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950085&pblancNo=2024950085&houseSecd=02",
 		"in_date": "20241129",
 		"hsecd": "02",
@@ -524,6 +438,14 @@
 		"apply_nums": "3세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940141&pblancNo=2024940141&houseSecd=11",
+		"in_date": "20241129",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "힐스테이트 이천역 1단지"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000675&pblancNo=2024000675&houseSecd=01",
 		"in_date": "20241202",
 		"hsecd": "01",
@@ -548,6 +470,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "금천구",
 		"apply_nums": "78세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910202&pblancNo=2024910202&houseSecd=04",
+		"in_date": "20241202",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "어반클라쎄목동(5차)",
+		"addr": "서울특별시 양천구 신목로2길 7-12 (신정동, 어반클라쎄 목동)",
+		"short_addr": "서울특별시 양천구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "양천구",
+		"apply_nums": "12세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000675&pblancNo=2024000675&houseSecd=01",
@@ -576,6 +511,19 @@
 		"apply_nums": "78세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910202&pblancNo=2024910202&houseSecd=04",
+		"in_date": "20241203",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "어반클라쎄목동(5차)",
+		"addr": "서울특별시 양천구 신목로2길 7-12 (신정동, 어반클라쎄 목동)",
+		"short_addr": "서울특별시 양천구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "양천구",
+		"apply_nums": "12세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000675&pblancNo=2024000675&houseSecd=01",
 		"in_date": "20241204",
 		"hsecd": "01",
@@ -600,5 +548,44 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "금천구",
 		"apply_nums": "78세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000688&pblancNo=2024000688&houseSecd=01",
+		"in_date": "20241205",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "힐스테이트 등촌역",
+		"addr": "서울특별시 강서구 등촌동 366-24번지 일원",
+		"short_addr": "서울특별시 강서구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강서구",
+		"apply_nums": "274세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000688&pblancNo=2024000688&houseSecd=01",
+		"in_date": "20241206",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "힐스테이트 등촌역",
+		"addr": "서울특별시 강서구 등촌동 366-24번지 일원",
+		"short_addr": "서울특별시 강서구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강서구",
+		"apply_nums": "274세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000688&pblancNo=2024000688&houseSecd=01",
+		"in_date": "20241209",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "힐스테이트 등촌역",
+		"addr": "서울특별시 강서구 등촌동 366-24번지 일원",
+		"short_addr": "서울특별시 강서구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강서구",
+		"apply_nums": "274세대"
 	}
 ]
