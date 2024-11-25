@@ -417,6 +417,14 @@
 		"name": "제기동역 파밀리에 더센트럴(2차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940139&pblancNo=2024940139&houseSecd=11",
+		"in_date": "20241128",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "검단 스타힐스 가현숲(2차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940137&pblancNo=2024940137&houseSecd=11",
 		"in_date": "20241128",
 		"hsecd": "11",
@@ -438,12 +446,36 @@
 		"apply_nums": "3세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940139&pblancNo=2024940139&houseSecd=11",
+		"in_date": "20241129",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "검단 스타힐스 가현숲(2차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940141&pblancNo=2024940141&houseSecd=11",
 		"in_date": "20241129",
 		"hsecd": "11",
 		"rse": "11",
 		"type": "",
 		"name": "힐스테이트 이천역 1단지"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940139&pblancNo=2024940139&houseSecd=11",
+		"in_date": "20241130",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "검단 스타힐스 가현숲(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940139&pblancNo=2024940139&houseSecd=11",
+		"in_date": "20241201",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "검단 스타힐스 가현숲(2차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000675&pblancNo=2024000675&houseSecd=01",
@@ -483,6 +515,27 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "양천구",
 		"apply_nums": "12세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910205&pblancNo=2024910205&houseSecd=04",
+		"in_date": "20241202",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "힐스테이트 레이크 송도 3차(무순위 3차)",
+		"addr": "인천광역시 연수구 송도동 397-5번지(송도랜드마크시티 6 · 8공구 A14BL)",
+		"short_addr": "인천광역시 연수구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "연수구",
+		"apply_nums": "4세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940139&pblancNo=2024940139&houseSecd=11",
+		"in_date": "20241202",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "검단 스타힐스 가현숲(2차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000675&pblancNo=2024000675&houseSecd=01",
@@ -576,6 +629,19 @@
 		"apply_nums": "274세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000672&pblancNo=2024000672&houseSecd=01",
+		"in_date": "20241209",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "아크로 리츠카운티",
+		"addr": "서울특별시 서초구 방배동 1018-1번지 일원",
+		"short_addr": "서울특별시 서초구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "서초구",
+		"apply_nums": "140세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000688&pblancNo=2024000688&houseSecd=01",
 		"in_date": "20241209",
 		"hsecd": "01",
@@ -587,5 +653,44 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "강서구",
 		"apply_nums": "274세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000672&pblancNo=2024000672&houseSecd=01",
+		"in_date": "20241210",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "아크로 리츠카운티",
+		"addr": "서울특별시 서초구 방배동 1018-1번지 일원",
+		"short_addr": "서울특별시 서초구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "서초구",
+		"apply_nums": "140세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000672&pblancNo=2024000672&houseSecd=01",
+		"in_date": "20241211",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "아크로 리츠카운티",
+		"addr": "서울특별시 서초구 방배동 1018-1번지 일원",
+		"short_addr": "서울특별시 서초구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "서초구",
+		"apply_nums": "140세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000672&pblancNo=2024000672&houseSecd=01",
+		"in_date": "20241212",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "아크로 리츠카운티",
+		"addr": "서울특별시 서초구 방배동 1018-1번지 일원",
+		"short_addr": "서울특별시 서초구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "서초구",
+		"apply_nums": "140세대"
 	}
 ]
