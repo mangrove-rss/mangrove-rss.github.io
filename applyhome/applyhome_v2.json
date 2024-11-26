@@ -454,6 +454,14 @@
 		"name": "검단 스타힐스 가현숲(2차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940144&pblancNo=2024940144&houseSecd=11",
+		"in_date": "20241129",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "오산세교2지구 힐데스하임(A20블록)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940141&pblancNo=2024940141&houseSecd=11",
 		"in_date": "20241129",
 		"hsecd": "11",
@@ -502,6 +510,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "금천구",
 		"apply_nums": "78세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950087&pblancNo=2024950087&houseSecd=02",
+		"in_date": "20241202",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "당산역 한강 더채움",
+		"addr": "서울특별시 영등포구 당산동 6가 280-1 ,9번지",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "4세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910202&pblancNo=2024910202&houseSecd=04",
@@ -562,6 +583,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "금천구",
 		"apply_nums": "78세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950087&pblancNo=2024950087&houseSecd=02",
+		"in_date": "20241203",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "당산역 한강 더채움",
+		"addr": "서울특별시 영등포구 당산동 6가 280-1 ,9번지",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "4세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910202&pblancNo=2024910202&houseSecd=04",
