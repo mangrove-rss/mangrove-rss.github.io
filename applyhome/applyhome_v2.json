@@ -525,6 +525,19 @@
 		"apply_nums": "4세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950084&pblancNo=2024950084&houseSecd=02",
+		"in_date": "20241202",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "여의도 하이앤드 1ST",
+		"addr": "서울특별시 영등포구 영등포동3가 1-1일원",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "20세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910202&pblancNo=2024910202&houseSecd=04",
 		"in_date": "20241202",
 		"hsecd": "04",
@@ -557,6 +570,14 @@
 		"rse": "11",
 		"type": "",
 		"name": "검단 스타힐스 가현숲(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940143&pblancNo=2024940143&houseSecd=11",
+		"in_date": "20241202",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "의정부역 파밀리에Ⅱ(3차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000675&pblancNo=2024000675&houseSecd=01",
@@ -598,6 +619,32 @@
 		"apply_nums": "4세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950084&pblancNo=2024950084&houseSecd=02",
+		"in_date": "20241203",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "여의도 하이앤드 1ST",
+		"addr": "서울특별시 영등포구 영등포동3가 1-1일원",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "20세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950089&pblancNo=2024950089&houseSecd=02",
+		"in_date": "20241203",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "평촌 어바인퍼스트 더샵",
+		"addr": "경기도 안양시 동안구 호계동 956번지 일원",
+		"short_addr": "경기도 안양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "안양시",
+		"apply_nums": "36세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910202&pblancNo=2024910202&houseSecd=04",
 		"in_date": "20241203",
 		"hsecd": "04",
@@ -637,6 +684,32 @@
 		"apply_nums": "78세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950084&pblancNo=2024950084&houseSecd=02",
+		"in_date": "20241204",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "여의도 하이앤드 1ST",
+		"addr": "서울특별시 영등포구 영등포동3가 1-1일원",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "20세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950089&pblancNo=2024950089&houseSecd=02",
+		"in_date": "20241204",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "평촌 어바인퍼스트 더샵",
+		"addr": "경기도 안양시 동안구 호계동 956번지 일원",
+		"short_addr": "경기도 안양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "안양시",
+		"apply_nums": "36세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000688&pblancNo=2024000688&houseSecd=01",
 		"in_date": "20241205",
 		"hsecd": "01",
@@ -648,6 +721,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "강서구",
 		"apply_nums": "274세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950084&pblancNo=2024950084&houseSecd=02",
+		"in_date": "20241205",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "여의도 하이앤드 1ST",
+		"addr": "서울특별시 영등포구 영등포동3가 1-1일원",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "20세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000688&pblancNo=2024000688&houseSecd=01",
@@ -663,6 +749,32 @@
 		"apply_nums": "274세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950084&pblancNo=2024950084&houseSecd=02",
+		"in_date": "20241206",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "여의도 하이앤드 1ST",
+		"addr": "서울특별시 영등포구 영등포동3가 1-1일원",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "20세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000671&pblancNo=2024000671&houseSecd=01",
+		"in_date": "20241209",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "e편한세상 동인천 베이프런트",
+		"addr": "인천광역시 중구 사동 23-4번지 일원",
+		"short_addr": "인천광역시 중구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "492세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000672&pblancNo=2024000672&houseSecd=01",
 		"in_date": "20241209",
 		"hsecd": "01",
@@ -674,6 +786,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "서초구",
 		"apply_nums": "140세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000692&pblancNo=2024000692&houseSecd=01",
+		"in_date": "20241209",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "창경궁 롯데캐슬 시그니처",
+		"addr": "서울특별시 성북구 삼선동2가 296번지 일원",
+		"short_addr": "서울특별시 성북구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "성북구",
+		"apply_nums": "509세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000688&pblancNo=2024000688&houseSecd=01",
@@ -689,6 +814,19 @@
 		"apply_nums": "274세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000671&pblancNo=2024000671&houseSecd=01",
+		"in_date": "20241210",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "e편한세상 동인천 베이프런트",
+		"addr": "인천광역시 중구 사동 23-4번지 일원",
+		"short_addr": "인천광역시 중구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "492세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000672&pblancNo=2024000672&houseSecd=01",
 		"in_date": "20241210",
 		"hsecd": "01",
@@ -700,6 +838,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "서초구",
 		"apply_nums": "140세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000692&pblancNo=2024000692&houseSecd=01",
+		"in_date": "20241210",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "창경궁 롯데캐슬 시그니처",
+		"addr": "서울특별시 성북구 삼선동2가 296번지 일원",
+		"short_addr": "서울특별시 성북구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "성북구",
+		"apply_nums": "509세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000672&pblancNo=2024000672&houseSecd=01",
@@ -715,6 +866,32 @@
 		"apply_nums": "140세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000671&pblancNo=2024000671&houseSecd=01",
+		"in_date": "20241211",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "e편한세상 동인천 베이프런트",
+		"addr": "인천광역시 중구 사동 23-4번지 일원",
+		"short_addr": "인천광역시 중구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "492세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000692&pblancNo=2024000692&houseSecd=01",
+		"in_date": "20241211",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "창경궁 롯데캐슬 시그니처",
+		"addr": "서울특별시 성북구 삼선동2가 296번지 일원",
+		"short_addr": "서울특별시 성북구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "성북구",
+		"apply_nums": "509세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000672&pblancNo=2024000672&houseSecd=01",
 		"in_date": "20241212",
 		"hsecd": "01",
@@ -726,5 +903,18 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "서초구",
 		"apply_nums": "140세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950083&pblancNo=2024950083&houseSecd=02",
+		"in_date": "20241218",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "e편한세상 동인천 베이프런트 오피스텔",
+		"addr": "인천광역시 중구 사동 23-4번지 일원",
+		"short_addr": "인천광역시 중구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "88세대"
 	}
 ]
