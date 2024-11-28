@@ -1,157 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000679&pblancNo=2024000679&houseSecd=01",
-		"in_date": "20241125",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "e편한세상 당산 리버파크",
-		"addr": "서울특별시 영등포구 당산동4가 91번지 일대",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "111세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000619&pblancNo=2024000619&houseSecd=01",
-		"in_date": "20241125",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "더 플래티넘 스카이헤론",
-		"addr": "경기도 평택시 통복동 108-3번지 일원",
-		"short_addr": "경기도 평택시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "평택시",
-		"apply_nums": "784세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000651&pblancNo=2024000651&houseSecd=01",
-		"in_date": "20241125",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "상인 푸르지오 센터파크",
-		"addr": "대구광역시 달서구 상인동 1604번지",
-		"short_addr": "대구광역시 달서구",
-		"addr_lv1": "대구광역시",
-		"addr_lv2": "달서구",
-		"apply_nums": "990세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000659&pblancNo=2024000659&houseSecd=01",
-		"in_date": "20241125",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "서울원 아이파크",
-		"addr": "서울특별시 노원구 월계동 85-7번지 일대",
-		"short_addr": "서울특별시 노원구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "노원구",
-		"apply_nums": "1856세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000642&pblancNo=2024000642&houseSecd=01",
-		"in_date": "20241125",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "성성자이 레이크파크",
-		"addr": "충청남도 천안시 서북구 성성동 287-3번지 일원",
-		"short_addr": "충청남도 천안시",
-		"addr_lv1": "충청남도",
-		"addr_lv2": "천안시",
-		"apply_nums": "883세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000658&pblancNo=2024000658&houseSecd=01",
-		"in_date": "20241125",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "전주 인후동 마루힐 센트럴",
-		"addr": "전북특별자치도 전주시 덕진구 인후동2가 1560",
-		"short_addr": "전북특별자치도 전주시",
-		"addr_lv1": "전북특별자치도",
-		"addr_lv2": "전주시",
-		"apply_nums": "199세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000668&pblancNo=2024000668&houseSecd=01",
-		"in_date": "20241125",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "평촌자이 퍼스니티",
-		"addr": "경기도 안양시 동안구 비산3동 354-10번지",
-		"short_addr": "경기도 안양시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "안양시",
-		"apply_nums": "570세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000649&pblancNo=2024000649&houseSecd=01",
-		"in_date": "20241125",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "화성 비봉지구 B1블록 금성백조 예미지2차",
-		"addr": "경기도 화성시 화성비봉 공공택지지구 B-1블록",
-		"short_addr": "경기도 화성시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "화성시",
-		"apply_nums": "530세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910191&pblancNo=2024910191&houseSecd=04",
-		"in_date": "20241125",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "e편한세상 남양뉴타운(3차)",
-		"addr": "경기도 화성시 남양읍 남양로862번길 42 (e편한세상 남양뉴타운)",
-		"short_addr": "경기도 화성시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "화성시",
-		"apply_nums": "2세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910199&pblancNo=2024910199&houseSecd=04",
-		"in_date": "20241125",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "천왕역 모아엘가 트레뷰(무순위6차)",
-		"addr": "서울특별시 구로구 오류동 213-1번지 일원",
-		"short_addr": "서울특별시 구로구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "구로구",
-		"apply_nums": "3세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930071&pblancNo=2024930071&houseSecd=06",
-		"in_date": "20241125",
-		"hsecd": "06",
-		"rse": "07",
-		"type": "",
-		"name": "힐스테이트 레이크 송도 3차",
-		"addr": "인천광역시 연수구 송도동 397-5번지(송도랜드마크시티 6 · 8공구 A14BL",
-		"short_addr": "인천광역시 연수구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "연수구",
-		"apply_nums": "1세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940142&pblancNo=2024940142&houseSecd=11",
-		"in_date": "20241125",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "e편한세상 주촌 더프리미어"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000679&pblancNo=2024000679&houseSecd=01",
 		"in_date": "20241126",
 		"hsecd": "01",
 		"rse": "02",
@@ -684,6 +533,14 @@
 		"apply_nums": "78세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024850025&pblancNo=2024850025&houseSecd=03",
+		"in_date": "20241204",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "엘리프 옥정 시그니처"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950084&pblancNo=2024950084&houseSecd=02",
 		"in_date": "20241204",
 		"hsecd": "02",
@@ -710,6 +567,32 @@
 		"apply_nums": "36세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910207&pblancNo=2024910207&houseSecd=04",
+		"in_date": "20241204",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "양주 옥정 린 파밀리에(무순위 5차)",
+		"addr": "경기도 양주시 옥정동 868번지",
+		"short_addr": "경기도 양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "양주시",
+		"apply_nums": "14세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930072&pblancNo=2024930072&houseSecd=06",
+		"in_date": "20241204",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "안양역 푸르지오 더샵",
+		"addr": "경기도 안양시 만안구 안양동 97-3번지 일원(안양1동 진흥아파트 주택재건축정비사업)",
+		"short_addr": "경기도 안양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "안양시",
+		"apply_nums": "3세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000688&pblancNo=2024000688&houseSecd=01",
 		"in_date": "20241205",
 		"hsecd": "01",
@@ -723,6 +606,14 @@
 		"apply_nums": "274세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024850025&pblancNo=2024850025&houseSecd=03",
+		"in_date": "20241205",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "엘리프 옥정 시그니처"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950084&pblancNo=2024950084&houseSecd=02",
 		"in_date": "20241205",
 		"hsecd": "02",
@@ -734,6 +625,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "영등포구",
 		"apply_nums": "20세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930072&pblancNo=2024930072&houseSecd=06",
+		"in_date": "20241205",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "안양역 푸르지오 더샵",
+		"addr": "경기도 안양시 만안구 안양동 97-3번지 일원(안양1동 진흥아파트 주택재건축정비사업)",
+		"short_addr": "경기도 안양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "안양시",
+		"apply_nums": "3세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000688&pblancNo=2024000688&houseSecd=01",
