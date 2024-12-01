@@ -300,6 +300,19 @@
 		"apply_nums": "20세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910200&pblancNo=2024910200&houseSecd=04",
+		"in_date": "20241205",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "세종 리첸시아 파밀리에 H2블록(산울마을7단지)(무순위1차)",
+		"addr": "세종특별자치시 산울7로 11 (산울동, 산울마을7단지)",
+		"short_addr": "세종특별자치시 산울7로",
+		"addr_lv1": "세종특별자치시",
+		"addr_lv2": "산울7로",
+		"apply_nums": "1세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930072&pblancNo=2024930072&houseSecd=06",
 		"in_date": "20241205",
 		"hsecd": "06",
@@ -337,6 +350,27 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "영등포구",
 		"apply_nums": "20세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910201&pblancNo=2024910201&houseSecd=04",
+		"in_date": "20241206",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "세종 리첸시아 파밀리에 H3블록(산울마을6단지)(무순위2차)",
+		"addr": "세종특별자치시 산울2로 10 (산울동, 산울마을6단지)",
+		"short_addr": "세종특별자치시 산울2로",
+		"addr_lv1": "세종특별자치시",
+		"addr_lv2": "산울2로",
+		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940146&pblancNo=2024940146&houseSecd=11",
+		"in_date": "20241206",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "더 트루엘 마곡 HQ(3차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000671&pblancNo=2024000671&houseSecd=01",
@@ -389,6 +423,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "강서구",
 		"apply_nums": "274세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910206&pblancNo=2024910206&houseSecd=04",
+		"in_date": "20241209",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "에비뉴 청계 II(무순위 5차)",
+		"addr": "서울특별시 종로구 숭인동 1420",
+		"short_addr": "서울특별시 종로구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "종로구",
+		"apply_nums": "33세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000671&pblancNo=2024000671&houseSecd=01",
