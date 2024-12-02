@@ -425,6 +425,19 @@
 		"apply_nums": "274세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950090&pblancNo=2024950090&houseSecd=02",
+		"in_date": "20241209",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "더샵 강동센트럴시티",
+		"addr": "서울특별시 강동구 천호동 410-100번지 일대",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "8세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910206&pblancNo=2024910206&houseSecd=04",
 		"in_date": "20241209",
 		"hsecd": "04",
@@ -436,6 +449,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "종로구",
 		"apply_nums": "33세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910204&pblancNo=2024910204&houseSecd=04",
+		"in_date": "20241209",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "용인 푸르지오 원클러스터 1단지(임의공급 2차)",
+		"addr": "경기도 용인시 처인구 남동 산126-13일원(A1BL)",
+		"short_addr": "경기도 용인시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "용인시",
+		"apply_nums": "18세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000671&pblancNo=2024000671&houseSecd=01",
