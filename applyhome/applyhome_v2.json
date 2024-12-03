@@ -13,12 +13,7 @@
 		"hsecd": "01",
 		"rse": "01",
 		"type": "APT 특별공급",
-		"name": "인하대역 푸르지오 에듀포레",
-		"addr": "인천광역시 미추홀구 학익동 321번지 일원",
-		"short_addr": "인천광역시 미추홀구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "미추홀구",
-		"apply_nums": "689세대"
+		"name": "인하대역 푸르지오 에듀포레"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000546&pblancNo=2024000546&houseSecd=01",
@@ -65,12 +60,7 @@
 		"hsecd": "04",
 		"rse": "06",
 		"type": "무순위/취소후재공급",
-		"name": "어반클라쎄목동(5차)",
-		"addr": "서울특별시 양천구 신목로2길 7-12 (신정동, 어반클라쎄 목동)",
-		"short_addr": "서울특별시 양천구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "양천구",
-		"apply_nums": "12세대"
+		"name": "어반클라쎄목동(5차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910205&pblancNo=2024910205&houseSecd=04",
@@ -417,12 +407,7 @@
 		"hsecd": "01",
 		"rse": "03",
 		"type": "APT 2순위",
-		"name": "힐스테이트 등촌역",
-		"addr": "서울특별시 강서구 등촌동 366-24번지 일원",
-		"short_addr": "서울특별시 강서구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강서구",
-		"apply_nums": "274세대"
+		"name": "힐스테이트 등촌역"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950090&pblancNo=2024950090&houseSecd=02",
@@ -430,12 +415,15 @@
 		"hsecd": "02",
 		"rse": "05",
 		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "더샵 강동센트럴시티",
-		"addr": "서울특별시 강동구 천호동 410-100번지 일대",
-		"short_addr": "서울특별시 강동구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강동구",
-		"apply_nums": "8세대"
+		"name": "더샵 강동센트럴시티"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910216&pblancNo=2024910216&houseSecd=04",
+		"in_date": "20241209",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "서대문 센트럴 아이파크(임의공급 7차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910206&pblancNo=2024910206&houseSecd=04",
@@ -443,12 +431,7 @@
 		"hsecd": "04",
 		"rse": "06",
 		"type": "무순위/취소후재공급",
-		"name": "에비뉴 청계 II(무순위 5차)",
-		"addr": "서울특별시 종로구 숭인동 1420",
-		"short_addr": "서울특별시 종로구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "종로구",
-		"apply_nums": "33세대"
+		"name": "에비뉴 청계 II(무순위 5차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910204&pblancNo=2024910204&houseSecd=04",
@@ -456,12 +439,23 @@
 		"hsecd": "04",
 		"rse": "06",
 		"type": "무순위/취소후재공급",
-		"name": "용인 푸르지오 원클러스터 1단지(임의공급 2차)",
-		"addr": "경기도 용인시 처인구 남동 산126-13일원(A1BL)",
-		"short_addr": "경기도 용인시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "용인시",
-		"apply_nums": "18세대"
+		"name": "용인 푸르지오 원클러스터 1단지(임의공급 2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910210&pblancNo=2024910210&houseSecd=04",
+		"in_date": "20241209",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "이천자이 더 레브(임의공급 3차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940145&pblancNo=2024940145&houseSecd=11",
+		"in_date": "20241209",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "힐스테이트 어울림 청주사직"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000671&pblancNo=2024000671&houseSecd=01",
@@ -469,12 +463,7 @@
 		"hsecd": "01",
 		"rse": "02",
 		"type": "APT 1순위",
-		"name": "e편한세상 동인천 베이프런트",
-		"addr": "인천광역시 중구 사동 23-4번지 일원",
-		"short_addr": "인천광역시 중구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "중구",
-		"apply_nums": "492세대"
+		"name": "e편한세상 동인천 베이프런트"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000672&pblancNo=2024000672&houseSecd=01",
@@ -482,12 +471,7 @@
 		"hsecd": "01",
 		"rse": "02",
 		"type": "APT 1순위",
-		"name": "아크로 리츠카운티",
-		"addr": "서울특별시 서초구 방배동 1018-1번지 일원",
-		"short_addr": "서울특별시 서초구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "서초구",
-		"apply_nums": "140세대"
+		"name": "아크로 리츠카운티"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000692&pblancNo=2024000692&houseSecd=01",
@@ -495,12 +479,15 @@
 		"hsecd": "01",
 		"rse": "02",
 		"type": "APT 1순위",
-		"name": "창경궁 롯데캐슬 시그니처",
-		"addr": "서울특별시 성북구 삼선동2가 296번지 일원",
-		"short_addr": "서울특별시 성북구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "성북구",
-		"apply_nums": "509세대"
+		"name": "창경궁 롯데캐슬 시그니처"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910203&pblancNo=2024910203&houseSecd=04",
+		"in_date": "20241210",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "힐스테이트 환호공원 2블록(임의공급 2차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000672&pblancNo=2024000672&houseSecd=01",
@@ -508,12 +495,7 @@
 		"hsecd": "01",
 		"rse": "02",
 		"type": "APT 1순위",
-		"name": "아크로 리츠카운티",
-		"addr": "서울특별시 서초구 방배동 1018-1번지 일원",
-		"short_addr": "서울특별시 서초구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "서초구",
-		"apply_nums": "140세대"
+		"name": "아크로 리츠카운티"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000671&pblancNo=2024000671&houseSecd=01",
@@ -521,12 +503,7 @@
 		"hsecd": "01",
 		"rse": "03",
 		"type": "APT 2순위",
-		"name": "e편한세상 동인천 베이프런트",
-		"addr": "인천광역시 중구 사동 23-4번지 일원",
-		"short_addr": "인천광역시 중구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "중구",
-		"apply_nums": "492세대"
+		"name": "e편한세상 동인천 베이프런트"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000692&pblancNo=2024000692&houseSecd=01",
@@ -534,12 +511,7 @@
 		"hsecd": "01",
 		"rse": "03",
 		"type": "APT 2순위",
-		"name": "창경궁 롯데캐슬 시그니처",
-		"addr": "서울특별시 성북구 삼선동2가 296번지 일원",
-		"short_addr": "서울특별시 성북구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "성북구",
-		"apply_nums": "509세대"
+		"name": "창경궁 롯데캐슬 시그니처"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000672&pblancNo=2024000672&houseSecd=01",
@@ -547,12 +519,7 @@
 		"hsecd": "01",
 		"rse": "03",
 		"type": "APT 2순위",
-		"name": "아크로 리츠카운티",
-		"addr": "서울특별시 서초구 방배동 1018-1번지 일원",
-		"short_addr": "서울특별시 서초구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "서초구",
-		"apply_nums": "140세대"
+		"name": "아크로 리츠카운티"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950083&pblancNo=2024950083&houseSecd=02",
@@ -560,11 +527,6 @@
 		"hsecd": "02",
 		"rse": "05",
 		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "e편한세상 동인천 베이프런트 오피스텔",
-		"addr": "인천광역시 중구 사동 23-4번지 일원",
-		"short_addr": "인천광역시 중구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "중구",
-		"apply_nums": "88세대"
+		"name": "e편한세상 동인천 베이프런트 오피스텔"
 	}
 ]
