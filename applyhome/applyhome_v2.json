@@ -1,66 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000688&pblancNo=2024000688&houseSecd=01",
-		"in_date": "20241205",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "힐스테이트 등촌역",
-		"addr": "서울특별시 강서구 등촌동 366-24번지 일원",
-		"short_addr": "서울특별시 강서구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강서구",
-		"apply_nums": "274세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024850025&pblancNo=2024850025&houseSecd=03",
-		"in_date": "20241205",
-		"hsecd": "03",
-		"rse": "04",
-		"type": "",
-		"name": "엘리프 옥정 시그니처"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950084&pblancNo=2024950084&houseSecd=02",
-		"in_date": "20241205",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "여의도 하이앤드 1ST",
-		"addr": "서울특별시 영등포구 영등포동3가 1-1일원",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "20세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910200&pblancNo=2024910200&houseSecd=04",
-		"in_date": "20241205",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "세종 리첸시아 파밀리에 H2블록(산울마을7단지)(무순위1차)",
-		"addr": "세종특별자치시 산울7로 11 (산울동, 산울마을7단지)",
-		"short_addr": "세종특별자치시 산울7로",
-		"addr_lv1": "세종특별자치시",
-		"addr_lv2": "산울7로",
-		"apply_nums": "1세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930072&pblancNo=2024930072&houseSecd=06",
-		"in_date": "20241205",
-		"hsecd": "06",
-		"rse": "07",
-		"type": "",
-		"name": "안양역 푸르지오 더샵",
-		"addr": "경기도 안양시 만안구 안양동 97-3번지 일원(안양1동 진흥아파트 주택재건축정비사업)",
-		"short_addr": "경기도 안양시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "안양시",
-		"apply_nums": "3세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000688&pblancNo=2024000688&houseSecd=01",
 		"in_date": "20241206",
 		"hsecd": "01",
 		"rse": "02",
@@ -571,6 +511,14 @@
 		"apply_nums": "889세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024850026&pblancNo=2024850026&houseSecd=03",
+		"in_date": "20241216",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "서울은평뉴타운 디에트르 더 퍼스트"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950091&pblancNo=2024950091&houseSecd=02",
 		"in_date": "20241216",
 		"hsecd": "02",
@@ -595,6 +543,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "동대문구",
 		"apply_nums": "4세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910217&pblancNo=2024910217&houseSecd=04",
+		"in_date": "20241216",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "천왕역 모아엘가 트레뷰(7차)",
+		"addr": "서울특별시 구로구 오류동 213-1번지 일원",
+		"short_addr": "서울특별시 구로구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "구로구",
+		"apply_nums": "3세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000699&pblancNo=2024000699&houseSecd=01",
@@ -686,6 +647,14 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "평택시",
 		"apply_nums": "889세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024850026&pblancNo=2024850026&houseSecd=03",
+		"in_date": "20241217",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "서울은평뉴타운 디에트르 더 퍼스트"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000699&pblancNo=2024000699&houseSecd=01",
