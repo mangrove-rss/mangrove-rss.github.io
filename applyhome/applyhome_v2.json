@@ -1,52 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000688&pblancNo=2024000688&houseSecd=01",
-		"in_date": "20241206",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "힐스테이트 등촌역",
-		"addr": "서울특별시 강서구 등촌동 366-24번지 일원",
-		"short_addr": "서울특별시 강서구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강서구",
-		"apply_nums": "274세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950084&pblancNo=2024950084&houseSecd=02",
-		"in_date": "20241206",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "여의도 하이앤드 1ST",
-		"addr": "서울특별시 영등포구 영등포동3가 1-1일원",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "20세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910201&pblancNo=2024910201&houseSecd=04",
-		"in_date": "20241206",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "세종 리첸시아 파밀리에 H3블록(산울마을6단지)(무순위2차)",
-		"addr": "세종특별자치시 산울2로 10 (산울동, 산울마을6단지)",
-		"short_addr": "세종특별자치시 산울2로",
-		"addr_lv1": "세종특별자치시",
-		"addr_lv2": "산울2로",
-		"apply_nums": "1세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940146&pblancNo=2024940146&houseSecd=11",
-		"in_date": "20241206",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "더 트루엘 마곡 HQ(3차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000671&pblancNo=2024000671&houseSecd=01",
 		"in_date": "20241209",
 		"hsecd": "01",
@@ -404,6 +357,14 @@
 		"apply_nums": "13세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940157&pblancNo=2024940157&houseSecd=11",
+		"in_date": "20241212",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "e편한세상 부평 그랑힐스(보류지)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940155&pblancNo=2024940155&houseSecd=11",
 		"in_date": "20241212",
 		"hsecd": "11",
@@ -543,6 +504,45 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "동대문구",
 		"apply_nums": "4세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910213&pblancNo=2024910213&houseSecd=04",
+		"in_date": "20241216",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "더샵 오포센트리체",
+		"addr": "경기도 광주시 오포읍 고산리 333번지 일원(고산1지구 C2블록)",
+		"short_addr": "경기도 광주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "광주시",
+		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910220&pblancNo=2024910220&houseSecd=04",
+		"in_date": "20241216",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "오포자이 디 오브 C-3BL",
+		"addr": "경기도 광주시 고산동 704번지",
+		"short_addr": "경기도 광주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "광주시",
+		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910221&pblancNo=2024910221&houseSecd=04",
+		"in_date": "20241216",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "오포자이 디 오브 C-4BL(2차)",
+		"addr": "경기도 광주시 고산동 705번지",
+		"short_addr": "경기도 광주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "광주시",
+		"apply_nums": "2세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910217&pblancNo=2024910217&houseSecd=04",
