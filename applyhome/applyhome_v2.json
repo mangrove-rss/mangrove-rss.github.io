@@ -373,12 +373,52 @@
 		"name": "천호역 마에스트로(2차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940152&pblancNo=2024940152&houseSecd=11",
+		"in_date": "20241213",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "대전 르에브 스위첸 1단지"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940160&pblancNo=2024940160&houseSecd=11",
+		"in_date": "20241213",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "부천아테라자이(부천괴안지구 B-2블록) 2차"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940156&pblancNo=2024940156&houseSecd=11",
+		"in_date": "20241213",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "인천 유림노르웨이숲 에듀오션(7차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940155&pblancNo=2024940155&houseSecd=11",
 		"in_date": "20241213",
 		"hsecd": "11",
 		"rse": "11",
 		"type": "",
 		"name": "천호역 마에스트로(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940156&pblancNo=2024940156&houseSecd=11",
+		"in_date": "20241214",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "인천 유림노르웨이숲 에듀오션(7차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940156&pblancNo=2024940156&houseSecd=11",
+		"in_date": "20241215",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "인천 유림노르웨이숲 에듀오션(7차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000699&pblancNo=2024000699&houseSecd=01",
@@ -545,6 +585,19 @@
 		"apply_nums": "2세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910218&pblancNo=2024910218&houseSecd=04",
+		"in_date": "20241216",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "용인 둔전역 에피트(2차)",
+		"addr": "경기도 용인시 처인구 포곡읍 금어리 646번지 일원",
+		"short_addr": "경기도 용인시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "용인시",
+		"apply_nums": "57세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910217&pblancNo=2024910217&houseSecd=04",
 		"in_date": "20241216",
 		"hsecd": "04",
@@ -556,6 +609,14 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "구로구",
 		"apply_nums": "3세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940156&pblancNo=2024940156&houseSecd=11",
+		"in_date": "20241216",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "인천 유림노르웨이숲 에듀오션(7차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000699&pblancNo=2024000699&houseSecd=01",
@@ -655,6 +716,14 @@
 		"rse": "04",
 		"type": "",
 		"name": "서울은평뉴타운 디에트르 더 퍼스트"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940156&pblancNo=2024940156&houseSecd=11",
+		"in_date": "20241217",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "인천 유림노르웨이숲 에듀오션(7차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000699&pblancNo=2024000699&houseSecd=01",
@@ -759,5 +828,44 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "중구",
 		"apply_nums": "88세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000698&pblancNo=2024000698&houseSecd=01",
+		"in_date": "20241220",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "순천 지에이그린웰 하이드원",
+		"addr": "전라남도 순천시 덕암동 45번지 일원",
+		"short_addr": "전라남도 순천시",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "순천시",
+		"apply_nums": "475세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000698&pblancNo=2024000698&houseSecd=01",
+		"in_date": "20241223",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "순천 지에이그린웰 하이드원",
+		"addr": "전라남도 순천시 덕암동 45번지 일원",
+		"short_addr": "전라남도 순천시",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "순천시",
+		"apply_nums": "475세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000698&pblancNo=2024000698&houseSecd=01",
+		"in_date": "20241224",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "순천 지에이그린웰 하이드원",
+		"addr": "전라남도 순천시 덕암동 45번지 일원",
+		"short_addr": "전라남도 순천시",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "순천시",
+		"apply_nums": "475세대"
 	}
 ]
