@@ -1,71 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000672&pblancNo=2024000672&houseSecd=01",
-		"in_date": "20241211",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "아크로 리츠카운티",
-		"addr": "서울특별시 서초구 방배동 1018-1번지 일원",
-		"short_addr": "서울특별시 서초구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "서초구",
-		"apply_nums": "140세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000671&pblancNo=2024000671&houseSecd=01",
-		"in_date": "20241211",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "e편한세상 동인천 베이프런트",
-		"addr": "인천광역시 중구 사동 23-4번지 일원",
-		"short_addr": "인천광역시 중구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "중구",
-		"apply_nums": "492세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000692&pblancNo=2024000692&houseSecd=01",
-		"in_date": "20241211",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "창경궁 롯데캐슬 시그니처",
-		"addr": "서울특별시 성북구 삼선동2가 296번지 일원",
-		"short_addr": "서울특별시 성북구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "성북구",
-		"apply_nums": "509세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910214&pblancNo=2024910214&houseSecd=04",
-		"in_date": "20241211",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "포레나 인천학익(임의공급 10차)",
-		"addr": "인천광역시 미추홀구 학익2동 290-1번지 일대",
-		"short_addr": "인천광역시 미추홀구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "미추홀구",
-		"apply_nums": "13세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930075&pblancNo=2024930075&houseSecd=06",
-		"in_date": "20241211",
-		"hsecd": "06",
-		"rse": "07",
-		"type": "",
-		"name": "영종국제도시 서한이다음(공공분양)",
-		"addr": "인천광역시 인천경제자유구역 영종지구 영종하늘도시 서한이다음 A-42BL",
-		"short_addr": "인천광역시 인천경제자유구역",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "인천경제자유구역",
-		"apply_nums": "7세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000672&pblancNo=2024000672&houseSecd=01",
 		"in_date": "20241212",
 		"hsecd": "01",
 		"rse": "03",
@@ -690,7 +625,12 @@
 		"hsecd": "04",
 		"rse": "06",
 		"type": "무순위/취소후재공급",
-		"name": "오산세교2지구 힐데스하임(A20블록)(임의공급 1차)"
+		"name": "오산세교2지구 힐데스하임(A20블록)(임의공급 1차)",
+		"addr": "경기도 오산시 벌음동 149 일원(오산세교2지구 A20블록)",
+		"short_addr": "경기도 오산시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "오산시",
+		"apply_nums": "49세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930064&pblancNo=2024930064&houseSecd=06",
@@ -698,7 +638,12 @@
 		"hsecd": "06",
 		"rse": "07",
 		"type": "",
-		"name": "이천자이 더 파크"
+		"name": "이천자이 더 파크",
+		"addr": "경기도 이천시 관고동 산13-1번지 일원",
+		"short_addr": "경기도 이천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "이천시",
+		"apply_nums": "4세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930074&pblancNo=2024930074&houseSecd=06",
@@ -706,7 +651,12 @@
 		"hsecd": "06",
 		"rse": "07",
 		"type": "",
-		"name": "힐스테이트푸르지오주안"
+		"name": "힐스테이트푸르지오주안",
+		"addr": "인천광역시 미추홀구 주안동 1452-2번지 일원",
+		"short_addr": "인천광역시 미추홀구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "미추홀구",
+		"apply_nums": "3세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000714&pblancNo=2024000714&houseSecd=01",
@@ -714,7 +664,12 @@
 		"hsecd": "01",
 		"rse": "01",
 		"type": "APT 특별공급",
-		"name": "아산탕정자이 퍼스트시티"
+		"name": "아산탕정자이 퍼스트시티",
+		"addr": "충청남도 아산시 탕정면 동산리 142-12번지 일원",
+		"short_addr": "충청남도 아산시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "아산시",
+		"apply_nums": "797세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950092&pblancNo=2024950092&houseSecd=02",
@@ -722,7 +677,12 @@
 		"hsecd": "02",
 		"rse": "05",
 		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "교대역 푸르지오 트레힐즈"
+		"name": "교대역 푸르지오 트레힐즈",
+		"addr": "대구광역시 남구 이천동 474-1번지 일원 (교대역 푸르지오 트레힐즈)",
+		"short_addr": "대구광역시 남구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "20세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930064&pblancNo=2024930064&houseSecd=06",
@@ -730,7 +690,12 @@
 		"hsecd": "06",
 		"rse": "07",
 		"type": "",
-		"name": "이천자이 더 파크"
+		"name": "이천자이 더 파크",
+		"addr": "경기도 이천시 관고동 산13-1번지 일원",
+		"short_addr": "경기도 이천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "이천시",
+		"apply_nums": "4세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000698&pblancNo=2024000698&houseSecd=01",
@@ -738,7 +703,12 @@
 		"hsecd": "01",
 		"rse": "01",
 		"type": "APT 특별공급",
-		"name": "순천 지에이그린웰 하이드원"
+		"name": "순천 지에이그린웰 하이드원",
+		"addr": "전라남도 순천시 덕암동 45번지 일원",
+		"short_addr": "전라남도 순천시",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "순천시",
+		"apply_nums": "475세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000714&pblancNo=2024000714&houseSecd=01",
@@ -746,7 +716,12 @@
 		"hsecd": "01",
 		"rse": "02",
 		"type": "APT 1순위",
-		"name": "아산탕정자이 퍼스트시티"
+		"name": "아산탕정자이 퍼스트시티",
+		"addr": "충청남도 아산시 탕정면 동산리 142-12번지 일원",
+		"short_addr": "충청남도 아산시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "아산시",
+		"apply_nums": "797세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950092&pblancNo=2024950092&houseSecd=02",
@@ -754,7 +729,12 @@
 		"hsecd": "02",
 		"rse": "05",
 		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "교대역 푸르지오 트레힐즈"
+		"name": "교대역 푸르지오 트레힐즈",
+		"addr": "대구광역시 남구 이천동 474-1번지 일원 (교대역 푸르지오 트레힐즈)",
+		"short_addr": "대구광역시 남구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "20세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000712&pblancNo=2024000712&houseSecd=01",
@@ -762,7 +742,12 @@
 		"hsecd": "01",
 		"rse": "01",
 		"type": "APT 특별공급",
-		"name": "의정부역 다채로움"
+		"name": "의정부역 다채로움",
+		"addr": "경기도 의정부시 의정부동 94-8",
+		"short_addr": "경기도 의정부시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "의정부시",
+		"apply_nums": "92세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000723&pblancNo=2024000723&houseSecd=01",
@@ -770,7 +755,12 @@
 		"hsecd": "01",
 		"rse": "01",
 		"type": "APT 특별공급",
-		"name": "트리븐 논산"
+		"name": "트리븐 논산",
+		"addr": "충청남도 논산시 취암동 139번지 일원",
+		"short_addr": "충청남도 논산시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "논산시",
+		"apply_nums": "429세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000698&pblancNo=2024000698&houseSecd=01",
@@ -778,7 +768,12 @@
 		"hsecd": "01",
 		"rse": "02",
 		"type": "APT 1순위",
-		"name": "순천 지에이그린웰 하이드원"
+		"name": "순천 지에이그린웰 하이드원",
+		"addr": "전라남도 순천시 덕암동 45번지 일원",
+		"short_addr": "전라남도 순천시",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "순천시",
+		"apply_nums": "475세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000714&pblancNo=2024000714&houseSecd=01",
@@ -786,7 +781,12 @@
 		"hsecd": "01",
 		"rse": "03",
 		"type": "APT 2순위",
-		"name": "아산탕정자이 퍼스트시티"
+		"name": "아산탕정자이 퍼스트시티",
+		"addr": "충청남도 아산시 탕정면 동산리 142-12번지 일원",
+		"short_addr": "충청남도 아산시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "아산시",
+		"apply_nums": "797세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000718&pblancNo=2024000718&houseSecd=01",
@@ -794,7 +794,12 @@
 		"hsecd": "01",
 		"rse": "01",
 		"type": "APT 특별공급",
-		"name": "더샵 퍼스트월드"
+		"name": "더샵 퍼스트월드",
+		"addr": "서울특별시 중랑구 상봉동 83-1번지 일원",
+		"short_addr": "서울특별시 중랑구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "중랑구",
+		"apply_nums": "800세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000712&pblancNo=2024000712&houseSecd=01",
@@ -802,7 +807,12 @@
 		"hsecd": "01",
 		"rse": "02",
 		"type": "APT 1순위",
-		"name": "의정부역 다채로움"
+		"name": "의정부역 다채로움",
+		"addr": "경기도 의정부시 의정부동 94-8",
+		"short_addr": "경기도 의정부시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "의정부시",
+		"apply_nums": "92세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000723&pblancNo=2024000723&houseSecd=01",
@@ -810,7 +820,12 @@
 		"hsecd": "01",
 		"rse": "02",
 		"type": "APT 1순위",
-		"name": "트리븐 논산"
+		"name": "트리븐 논산",
+		"addr": "충청남도 논산시 취암동 139번지 일원",
+		"short_addr": "충청남도 논산시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "논산시",
+		"apply_nums": "429세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000698&pblancNo=2024000698&houseSecd=01",
@@ -818,7 +833,12 @@
 		"hsecd": "01",
 		"rse": "03",
 		"type": "APT 2순위",
-		"name": "순천 지에이그린웰 하이드원"
+		"name": "순천 지에이그린웰 하이드원",
+		"addr": "전라남도 순천시 덕암동 45번지 일원",
+		"short_addr": "전라남도 순천시",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "순천시",
+		"apply_nums": "475세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000718&pblancNo=2024000718&houseSecd=01",
@@ -826,7 +846,12 @@
 		"hsecd": "01",
 		"rse": "02",
 		"type": "APT 1순위",
-		"name": "더샵 퍼스트월드"
+		"name": "더샵 퍼스트월드",
+		"addr": "서울특별시 중랑구 상봉동 83-1번지 일원",
+		"short_addr": "서울특별시 중랑구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "중랑구",
+		"apply_nums": "800세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000712&pblancNo=2024000712&houseSecd=01",
@@ -834,7 +859,12 @@
 		"hsecd": "01",
 		"rse": "03",
 		"type": "APT 2순위",
-		"name": "의정부역 다채로움"
+		"name": "의정부역 다채로움",
+		"addr": "경기도 의정부시 의정부동 94-8",
+		"short_addr": "경기도 의정부시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "의정부시",
+		"apply_nums": "92세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000723&pblancNo=2024000723&houseSecd=01",
@@ -842,7 +872,12 @@
 		"hsecd": "01",
 		"rse": "03",
 		"type": "APT 2순위",
-		"name": "트리븐 논산"
+		"name": "트리븐 논산",
+		"addr": "충청남도 논산시 취암동 139번지 일원",
+		"short_addr": "충청남도 논산시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "논산시",
+		"apply_nums": "429세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000718&pblancNo=2024000718&houseSecd=01",
@@ -850,6 +885,11 @@
 		"hsecd": "01",
 		"rse": "03",
 		"type": "APT 2순위",
-		"name": "더샵 퍼스트월드"
+		"name": "더샵 퍼스트월드",
+		"addr": "서울특별시 중랑구 상봉동 83-1번지 일원",
+		"short_addr": "서울특별시 중랑구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "중랑구",
+		"apply_nums": "800세대"
 	}
 ]
