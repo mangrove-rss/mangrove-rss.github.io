@@ -1,47 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000672&pblancNo=2024000672&houseSecd=01",
-		"in_date": "20241212",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "아크로 리츠카운티",
-		"addr": "서울특별시 서초구 방배동 1018-1번지 일원",
-		"short_addr": "서울특별시 서초구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "서초구",
-		"apply_nums": "140세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910214&pblancNo=2024910214&houseSecd=04",
-		"in_date": "20241212",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "포레나 인천학익(임의공급 10차)",
-		"addr": "인천광역시 미추홀구 학익2동 290-1번지 일대",
-		"short_addr": "인천광역시 미추홀구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "미추홀구",
-		"apply_nums": "13세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940157&pblancNo=2024940157&houseSecd=11",
-		"in_date": "20241212",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "e편한세상 부평 그랑힐스(보류지)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940155&pblancNo=2024940155&houseSecd=11",
-		"in_date": "20241212",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "천호역 마에스트로(2차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940152&pblancNo=2024940152&houseSecd=11",
 		"in_date": "20241213",
 		"hsecd": "11",
@@ -787,6 +745,19 @@
 		"addr_lv1": "충청남도",
 		"addr_lv2": "아산시",
 		"apply_nums": "797세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910223&pblancNo=2024910223&houseSecd=04",
+		"in_date": "20241223",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "용인 에버랜드역 칸타빌 무순위(임의공급 6차)",
+		"addr": "경기도 용인시 처인구 포곡읍 전대리 192-2외 5필지",
+		"short_addr": "경기도 용인시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "용인시",
+		"apply_nums": "12세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000718&pblancNo=2024000718&houseSecd=01",
