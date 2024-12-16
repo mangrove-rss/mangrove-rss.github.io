@@ -1,37 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940152&pblancNo=2024940152&houseSecd=11",
-		"in_date": "20241213",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "대전 르에브 스위첸 1단지"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940160&pblancNo=2024940160&houseSecd=11",
-		"in_date": "20241213",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "부천아테라자이(부천괴안지구 B-2블록) 2차"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940156&pblancNo=2024940156&houseSecd=11",
-		"in_date": "20241213",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "인천 유림노르웨이숲 에듀오션(7차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940155&pblancNo=2024940155&houseSecd=11",
-		"in_date": "20241213",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "천호역 마에스트로(2차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940156&pblancNo=2024940156&houseSecd=11",
 		"in_date": "20241214",
 		"hsecd": "11",
@@ -747,6 +715,14 @@
 		"apply_nums": "797세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024850027&pblancNo=2024850027&houseSecd=03",
+		"in_date": "20241223",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "양평동 동문 디 이스트"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910223&pblancNo=2024910223&houseSecd=04",
 		"in_date": "20241223",
 		"hsecd": "04",
@@ -810,6 +786,14 @@
 		"addr_lv1": "전라남도",
 		"addr_lv2": "순천시",
 		"apply_nums": "475세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024850027&pblancNo=2024850027&houseSecd=03",
+		"in_date": "20241224",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "양평동 동문 디 이스트"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000718&pblancNo=2024000718&houseSecd=01",
