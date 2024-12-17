@@ -1,14 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940156&pblancNo=2024940156&houseSecd=11",
-		"in_date": "20241214",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "인천 유림노르웨이숲 에듀오션(7차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940156&pblancNo=2024940156&houseSecd=11",
 		"in_date": "20241215",
 		"hsecd": "11",
 		"rse": "11",
@@ -721,6 +713,32 @@
 		"rse": "04",
 		"type": "",
 		"name": "양평동 동문 디 이스트"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910225&pblancNo=2024910225&houseSecd=04",
+		"in_date": "20241223",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "북수원이목지구 디에트르 더 리체Ⅰ",
+		"addr": "경기도 수원시 장안구 이목동 종전부동산 이목지구 도시개발사업 A4블록 공동주택용지",
+		"short_addr": "경기도 수원시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "수원시",
+		"apply_nums": "107세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910226&pblancNo=2024910226&houseSecd=04",
+		"in_date": "20241223",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "연신내 양우내안애 퍼스티지(임의공급 1차)",
+		"addr": "서울특별시 은평구 갈현동 467-1 번지 일대",
+		"short_addr": "서울특별시 은평구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "은평구",
+		"apply_nums": "20세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910223&pblancNo=2024910223&houseSecd=04",
