@@ -1,44 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000714&pblancNo=2024000714&houseSecd=01",
-		"in_date": "20241219",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "아산탕정자이 퍼스트시티",
-		"addr": "충청남도 아산시 탕정면 동산리 142-12번지 일원",
-		"short_addr": "충청남도 아산시",
-		"addr_lv1": "충청남도",
-		"addr_lv2": "아산시",
-		"apply_nums": "797세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950092&pblancNo=2024950092&houseSecd=02",
-		"in_date": "20241219",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "교대역 푸르지오 트레힐즈",
-		"addr": "대구광역시 남구 이천동 474-1번지 일원 (교대역 푸르지오 트레힐즈)",
-		"short_addr": "대구광역시 남구",
-		"addr_lv1": "대구광역시",
-		"addr_lv2": "남구",
-		"apply_nums": "20세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930064&pblancNo=2024930064&houseSecd=06",
-		"in_date": "20241219",
-		"hsecd": "06",
-		"rse": "07",
-		"type": "",
-		"name": "이천자이 더 파크",
-		"addr": "경기도 이천시 관고동 산13-1번지 일원",
-		"short_addr": "경기도 이천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "이천시",
-		"apply_nums": "4세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000698&pblancNo=2024000698&houseSecd=01",
 		"in_date": "20241220",
 		"hsecd": "01",
@@ -521,6 +482,19 @@
 		"addr_lv1": "충청남도",
 		"addr_lv2": "청양군",
 		"apply_nums": "182세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910227&pblancNo=2024910227&houseSecd=04",
+		"in_date": "20241230",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "검단신도시 푸르지오 더 파크(임의공급 1차)",
+		"addr": "인천광역시 서구 검단신도시 AA28BL(마전동)",
+		"short_addr": "인천광역시 서구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "40세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000713&pblancNo=2024000713&houseSecd=01",
