@@ -692,6 +692,19 @@
 		"apply_nums": "702세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000726&pblancNo=2024000726&houseSecd=01",
+		"in_date": "20250103",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "천안 두정역 양우내안애 퍼스트로",
+		"addr": "충청남도 천안시 서북구 두정동 393-11번지 일원",
+		"short_addr": "충청남도 천안시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "천안시",
+		"apply_nums": "416세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000713&pblancNo=2024000713&houseSecd=01",
 		"in_date": "20250103",
 		"hsecd": "01",
@@ -716,5 +729,31 @@
 		"addr_lv1": "충청남도",
 		"addr_lv2": "아산시",
 		"apply_nums": "1416세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000726&pblancNo=2024000726&houseSecd=01",
+		"in_date": "20250106",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "천안 두정역 양우내안애 퍼스트로",
+		"addr": "충청남도 천안시 서북구 두정동 393-11번지 일원",
+		"short_addr": "충청남도 천안시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "천안시",
+		"apply_nums": "416세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000726&pblancNo=2024000726&houseSecd=01",
+		"in_date": "20250107",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "천안 두정역 양우내안애 퍼스트로",
+		"addr": "충청남도 천안시 서북구 두정동 393-11번지 일원",
+		"short_addr": "충청남도 천안시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "천안시",
+		"apply_nums": "416세대"
 	}
 ]
