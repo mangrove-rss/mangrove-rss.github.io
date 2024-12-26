@@ -1,104 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000712&pblancNo=2024000712&houseSecd=01",
-		"in_date": "20241223",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "의정부역 다채로움",
-		"addr": "경기도 의정부시 의정부동 94-8",
-		"short_addr": "경기도 의정부시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "의정부시",
-		"apply_nums": "92세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000723&pblancNo=2024000723&houseSecd=01",
-		"in_date": "20241223",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "트리븐 논산",
-		"addr": "충청남도 논산시 취암동 139번지 일원",
-		"short_addr": "충청남도 논산시",
-		"addr_lv1": "충청남도",
-		"addr_lv2": "논산시",
-		"apply_nums": "429세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000698&pblancNo=2024000698&houseSecd=01",
-		"in_date": "20241223",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "순천 지에이그린웰 하이드원",
-		"addr": "전라남도 순천시 덕암동 45번지 일원",
-		"short_addr": "전라남도 순천시",
-		"addr_lv1": "전라남도",
-		"addr_lv2": "순천시",
-		"apply_nums": "475세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000714&pblancNo=2024000714&houseSecd=01",
-		"in_date": "20241223",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "아산탕정자이 퍼스트시티",
-		"addr": "충청남도 아산시 탕정면 동산리 142-12번지 일원",
-		"short_addr": "충청남도 아산시",
-		"addr_lv1": "충청남도",
-		"addr_lv2": "아산시",
-		"apply_nums": "797세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024850027&pblancNo=2024850027&houseSecd=03",
-		"in_date": "20241223",
-		"hsecd": "03",
-		"rse": "04",
-		"type": "",
-		"name": "양평동 동문 디 이스트"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910225&pblancNo=2024910225&houseSecd=04",
-		"in_date": "20241223",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "북수원이목지구 디에트르 더 리체Ⅰ",
-		"addr": "경기도 수원시 장안구 이목동 종전부동산 이목지구 도시개발사업 A4블록 공동주택용지",
-		"short_addr": "경기도 수원시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "수원시",
-		"apply_nums": "107세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910226&pblancNo=2024910226&houseSecd=04",
-		"in_date": "20241223",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "연신내 양우내안애 퍼스티지(임의공급 1차)",
-		"addr": "서울특별시 은평구 갈현동 467-1 번지 일대",
-		"short_addr": "서울특별시 은평구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "은평구",
-		"apply_nums": "20세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910223&pblancNo=2024910223&houseSecd=04",
-		"in_date": "20241223",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "용인 에버랜드역 칸타빌 무순위(임의공급 6차)",
-		"addr": "경기도 용인시 처인구 포곡읍 전대리 192-2외 5필지",
-		"short_addr": "경기도 용인시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "용인시",
-		"apply_nums": "12세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000718&pblancNo=2024000718&houseSecd=01",
 		"in_date": "20241224",
 		"hsecd": "01",
@@ -692,6 +593,14 @@
 		"apply_nums": "702세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024850024&pblancNo=2024850024&houseSecd=03",
+		"in_date": "20250102",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "양산 사송지구 B-8BL 사송 롯데캐슬"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000726&pblancNo=2024000726&houseSecd=01",
 		"in_date": "20250103",
 		"hsecd": "01",
@@ -744,6 +653,19 @@
 		"apply_nums": "416세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950095&pblancNo=2024950095&houseSecd=02",
+		"in_date": "20250106",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "상월곡역 장위아트포레(도시형생활주택)",
+		"addr": "서울특별시 성북구 석관동 338-18",
+		"short_addr": "서울특별시 성북구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "성북구",
+		"apply_nums": "5세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000726&pblancNo=2024000726&houseSecd=01",
 		"in_date": "20250107",
 		"hsecd": "01",
@@ -755,5 +677,44 @@
 		"addr_lv1": "충청남도",
 		"addr_lv2": "천안시",
 		"apply_nums": "416세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950095&pblancNo=2024950095&houseSecd=02",
+		"in_date": "20250107",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "상월곡역 장위아트포레(도시형생활주택)",
+		"addr": "서울특별시 성북구 석관동 338-18",
+		"short_addr": "서울특별시 성북구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "성북구",
+		"apply_nums": "5세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950094&pblancNo=2024950094&houseSecd=02",
+		"in_date": "20250107",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "판교밸리자이 3단지 오피스텔",
+		"addr": "경기도 성남시 수정구 대왕판교로 961",
+		"short_addr": "경기도 성남시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "성남시",
+		"apply_nums": "3세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950095&pblancNo=2024950095&houseSecd=02",
+		"in_date": "20250108",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "상월곡역 장위아트포레(도시형생활주택)",
+		"addr": "서울특별시 성북구 석관동 338-18",
+		"short_addr": "서울특별시 성북구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "성북구",
+		"apply_nums": "5세대"
 	}
 ]
