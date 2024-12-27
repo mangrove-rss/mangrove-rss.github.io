@@ -1,78 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000718&pblancNo=2024000718&houseSecd=01",
-		"in_date": "20241224",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "더샵 퍼스트월드",
-		"addr": "서울특별시 중랑구 상봉동 83-1번지 일원",
-		"short_addr": "서울특별시 중랑구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "중랑구",
-		"apply_nums": "800세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000312&pblancNo=2024000312&houseSecd=01",
-		"in_date": "20241224",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "순천 푸르지오 더 퍼스트",
-		"addr": "전라남도 순천시 덕암동 142번지 일원",
-		"short_addr": "전라남도 순천시",
-		"addr_lv1": "전라남도",
-		"addr_lv2": "순천시",
-		"apply_nums": "560세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000712&pblancNo=2024000712&houseSecd=01",
-		"in_date": "20241224",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "의정부역 다채로움",
-		"addr": "경기도 의정부시 의정부동 94-8",
-		"short_addr": "경기도 의정부시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "의정부시",
-		"apply_nums": "92세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000723&pblancNo=2024000723&houseSecd=01",
-		"in_date": "20241224",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "트리븐 논산",
-		"addr": "충청남도 논산시 취암동 139번지 일원",
-		"short_addr": "충청남도 논산시",
-		"addr_lv1": "충청남도",
-		"addr_lv2": "논산시",
-		"apply_nums": "429세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000698&pblancNo=2024000698&houseSecd=01",
-		"in_date": "20241224",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "순천 지에이그린웰 하이드원",
-		"addr": "전라남도 순천시 덕암동 45번지 일원",
-		"short_addr": "전라남도 순천시",
-		"addr_lv1": "전라남도",
-		"addr_lv2": "순천시",
-		"apply_nums": "475세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024850027&pblancNo=2024850027&houseSecd=03",
-		"in_date": "20241224",
-		"hsecd": "03",
-		"rse": "04",
-		"type": "",
-		"name": "양평동 동문 디 이스트"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000686&pblancNo=2024000686&houseSecd=01",
 		"in_date": "20241226",
 		"hsecd": "01",
@@ -705,6 +632,19 @@
 		"apply_nums": "3세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000704&pblancNo=2024000704&houseSecd=01",
+		"in_date": "20250108",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "부산에코델타시티 대방 엘리움 리버뷰",
+		"addr": "부산광역시 강서구 에코델타시티 공동주택용지 31BL",
+		"short_addr": "부산광역시 강서구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "강서구",
+		"apply_nums": "470세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950095&pblancNo=2024950095&houseSecd=02",
 		"in_date": "20250108",
 		"hsecd": "02",
@@ -716,5 +656,31 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "성북구",
 		"apply_nums": "5세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000704&pblancNo=2024000704&houseSecd=01",
+		"in_date": "20250109",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "부산에코델타시티 대방 엘리움 리버뷰",
+		"addr": "부산광역시 강서구 에코델타시티 공동주택용지 31BL",
+		"short_addr": "부산광역시 강서구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "강서구",
+		"apply_nums": "470세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000704&pblancNo=2024000704&houseSecd=01",
+		"in_date": "20250110",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "부산에코델타시티 대방 엘리움 리버뷰",
+		"addr": "부산광역시 강서구 에코델타시티 공동주택용지 31BL",
+		"short_addr": "부산광역시 강서구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "강서구",
+		"apply_nums": "470세대"
 	}
 ]
