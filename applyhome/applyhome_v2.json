@@ -1,57 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000686&pblancNo=2024000686&houseSecd=01",
-		"in_date": "20241227",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "청양 금성백조 예미지 퍼스트클래스",
-		"addr": "충청남도 청양군 청양읍 읍내리 308-4번지",
-		"short_addr": "충청남도 청양군",
-		"addr_lv1": "충청남도",
-		"addr_lv2": "청양군",
-		"apply_nums": "182세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000718&pblancNo=2024000718&houseSecd=01",
-		"in_date": "20241227",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "더샵 퍼스트월드",
-		"addr": "서울특별시 중랑구 상봉동 83-1번지 일원",
-		"short_addr": "서울특별시 중랑구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "중랑구",
-		"apply_nums": "800세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000312&pblancNo=2024000312&houseSecd=01",
-		"in_date": "20241227",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "순천 푸르지오 더 퍼스트",
-		"addr": "전라남도 순천시 덕암동 142번지 일원",
-		"short_addr": "전라남도 순천시",
-		"addr_lv1": "전라남도",
-		"addr_lv2": "순천시",
-		"apply_nums": "560세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910222&pblancNo=2024910222&houseSecd=04",
-		"in_date": "20241227",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "송도 하늘채 아이비원(임의공급3차)",
-		"addr": "인천광역시 연수구 송도동 20-4번지 외 7필지",
-		"short_addr": "인천광역시 연수구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "연수구",
-		"apply_nums": "56세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000697&pblancNo=2024000697&houseSecd=01",
 		"in_date": "20241230",
 		"hsecd": "01",
@@ -528,6 +476,19 @@
 		"apply_nums": "49세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910231&pblancNo=2024910231&houseSecd=04",
+		"in_date": "20250106",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "에비뉴 청계 II(6차)",
+		"addr": "서울특별시 종로구 숭인동 1420",
+		"short_addr": "서울특별시 종로구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "종로구",
+		"apply_nums": "32세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000726&pblancNo=2024000726&houseSecd=01",
 		"in_date": "20250107",
 		"hsecd": "01",
@@ -593,6 +554,19 @@
 		"apply_nums": "5세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000661&pblancNo=2024000661&houseSecd=01",
+		"in_date": "20250109",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "인천강화서희스타힐스 1단지(조합원 취소세대)",
+		"addr": "인천광역시 강화군 선원면 창리456번지 일원",
+		"short_addr": "인천광역시 강화군",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "강화군",
+		"apply_nums": "17세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000704&pblancNo=2024000704&houseSecd=01",
 		"in_date": "20250109",
 		"hsecd": "01",
@@ -606,6 +580,19 @@
 		"apply_nums": "470세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000661&pblancNo=2024000661&houseSecd=01",
+		"in_date": "20250110",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "인천강화서희스타힐스 1단지(조합원 취소세대)",
+		"addr": "인천광역시 강화군 선원면 창리456번지 일원",
+		"short_addr": "인천광역시 강화군",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "강화군",
+		"apply_nums": "17세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000704&pblancNo=2024000704&houseSecd=01",
 		"in_date": "20250110",
 		"hsecd": "01",
@@ -617,5 +604,18 @@
 		"addr_lv1": "부산광역시",
 		"addr_lv2": "강서구",
 		"apply_nums": "470세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000661&pblancNo=2024000661&houseSecd=01",
+		"in_date": "20250113",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "인천강화서희스타힐스 1단지(조합원 취소세대)",
+		"addr": "인천광역시 강화군 선원면 창리456번지 일원",
+		"short_addr": "인천광역시 강화군",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "강화군",
+		"apply_nums": "17세대"
 	}
 ]
