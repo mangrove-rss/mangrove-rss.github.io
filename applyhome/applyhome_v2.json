@@ -190,6 +190,22 @@
 		"apply_nums": "32세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940165&pblancNo=2024940165&houseSecd=11",
+		"in_date": "20250106",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "문산역3차 동문 디 이스트 센트럴"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940163&pblancNo=2024940163&houseSecd=11",
+		"in_date": "20250106",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "부천역곡 자연앤한양립스(3차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000726&pblancNo=2024000726&houseSecd=01",
 		"in_date": "20250107",
 		"hsecd": "01",
@@ -227,6 +243,35 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "성남시",
 		"apply_nums": "3세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910230&pblancNo=2024910230&houseSecd=04",
+		"in_date": "20250107",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "서대문 센트럴 아이파크(임의공급 8차)",
+		"addr": "서울특별시 서대문구 홍은동 11-111번지 일원",
+		"short_addr": "서울특별시 서대문구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "서대문구",
+		"apply_nums": "15세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940165&pblancNo=2024940165&houseSecd=11",
+		"in_date": "20250107",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "문산역3차 동문 디 이스트 센트럴"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940163&pblancNo=2024940163&houseSecd=11",
+		"in_date": "20250107",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "부천역곡 자연앤한양립스(3차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000704&pblancNo=2024000704&houseSecd=01",
