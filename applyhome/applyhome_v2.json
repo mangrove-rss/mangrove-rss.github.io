@@ -300,6 +300,27 @@
 		"apply_nums": "5세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910232&pblancNo=2024910232&houseSecd=04",
+		"in_date": "20250108",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "포레나 인천학익(임의공급 11차)",
+		"addr": "인천광역시 미추홀구 학익2동 290-1",
+		"short_addr": "인천광역시 미추홀구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "미추홀구",
+		"apply_nums": "13세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940122&pblancNo=2024940122&houseSecd=11",
+		"in_date": "20250108",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "시지 라온프라이빗"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000661&pblancNo=2024000661&houseSecd=01",
 		"in_date": "20250109",
 		"hsecd": "01",
@@ -326,6 +347,27 @@
 		"apply_nums": "470세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910232&pblancNo=2024910232&houseSecd=04",
+		"in_date": "20250109",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "포레나 인천학익(임의공급 11차)",
+		"addr": "인천광역시 미추홀구 학익2동 290-1",
+		"short_addr": "인천광역시 미추홀구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "미추홀구",
+		"apply_nums": "13세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940122&pblancNo=2024940122&houseSecd=11",
+		"in_date": "20250109",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "시지 라온프라이빗"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000661&pblancNo=2024000661&houseSecd=01",
 		"in_date": "20250110",
 		"hsecd": "01",
@@ -350,6 +392,14 @@
 		"addr_lv1": "부산광역시",
 		"addr_lv2": "강서구",
 		"apply_nums": "470세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940122&pblancNo=2024940122&houseSecd=11",
+		"in_date": "20250110",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "시지 라온프라이빗"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000715&pblancNo=2024000715&houseSecd=01",
@@ -376,6 +426,19 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "강화군",
 		"apply_nums": "17세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950096&pblancNo=2024950096&houseSecd=02",
+		"in_date": "20250113",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "이문 월드메르디앙 힐트리움 더테라스",
+		"addr": "서울특별시 동대문구 이문동 348-11, 348-12",
+		"short_addr": "서울특별시 동대문구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "동대문구",
+		"apply_nums": "4세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000715&pblancNo=2024000715&houseSecd=01",
