@@ -361,6 +361,32 @@
 		"apply_nums": "6세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910238&pblancNo=2024910238&houseSecd=04",
+		"in_date": "20250113",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "그란츠 리버파크(임의공급1차)",
+		"addr": "서울특별시 강동구 성내동 15번지 일대",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "31세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910002&pblancNo=2025910002&houseSecd=04",
+		"in_date": "20250113",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "연신내 양우내안애 퍼스티지(임의공급 2차)",
+		"addr": "서울특별시 은평구 갈현동 467-1 번지 일대",
+		"short_addr": "서울특별시 은평구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "은평구",
+		"apply_nums": "29세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910239&pblancNo=2024910239&houseSecd=04",
 		"in_date": "20250113",
 		"hsecd": "04",
@@ -372,6 +398,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "금천구",
 		"apply_nums": "49세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910001&pblancNo=2025910001&houseSecd=04",
+		"in_date": "20250113",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "힐스테이트 등촌역",
+		"addr": "서울특별시 강서구 등촌동 366-24번지 일원",
+		"short_addr": "서울특별시 강서구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강서구",
+		"apply_nums": "79세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930076&pblancNo=2024930076&houseSecd=06",
@@ -387,6 +426,14 @@
 		"apply_nums": "3세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940168&pblancNo=2024940168&houseSecd=11",
+		"in_date": "20250113",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "판교밸리 제일풍경채(2차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000715&pblancNo=2024000715&houseSecd=01",
 		"in_date": "20250114",
 		"hsecd": "01",
@@ -398,6 +445,19 @@
 		"addr_lv1": "대구광역시",
 		"addr_lv2": "동구",
 		"apply_nums": "418세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910238&pblancNo=2024910238&houseSecd=04",
+		"in_date": "20250114",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "그란츠 리버파크(임의공급1차)",
+		"addr": "서울특별시 강동구 성내동 15번지 일대",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "31세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930076&pblancNo=2024930076&houseSecd=06",
