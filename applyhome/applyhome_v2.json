@@ -447,6 +447,27 @@
 		"apply_nums": "418세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024850028&pblancNo=2024850028&houseSecd=03",
+		"in_date": "20250114",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "서울은평뉴타운 디에트르 더 퍼스트"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910003&pblancNo=2025910003&houseSecd=04",
+		"in_date": "20250114",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "광주태전 경남아너스빌 리미티드",
+		"addr": "경기도 광주시 장지동 695-14",
+		"short_addr": "경기도 광주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "광주시",
+		"apply_nums": "13세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910238&pblancNo=2024910238&houseSecd=04",
 		"in_date": "20250114",
 		"hsecd": "04",
@@ -458,6 +479,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "강동구",
 		"apply_nums": "31세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930070&pblancNo=2024930070&houseSecd=06",
+		"in_date": "20250114",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "e편한세상 송파 파크센트럴",
+		"addr": "서울특별시 송파구 오금로 551 (거여동, e편한세상 송파 파크센트럴)",
+		"short_addr": "서울특별시 송파구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "송파구",
+		"apply_nums": "1세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024930076&pblancNo=2024930076&houseSecd=06",
@@ -484,5 +518,52 @@
 		"addr_lv1": "대구광역시",
 		"addr_lv2": "동구",
 		"apply_nums": "418세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024850028&pblancNo=2024850028&houseSecd=03",
+		"in_date": "20250115",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "서울은평뉴타운 디에트르 더 퍼스트"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000751&pblancNo=2024000751&houseSecd=01",
+		"in_date": "20250120",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "더샵 라비온드",
+		"addr": "전북특별자치도 전주시 완산구 중노송동 395-3번지 일대",
+		"short_addr": "전북특별자치도 전주시",
+		"addr_lv1": "전북특별자치도",
+		"addr_lv2": "전주시",
+		"apply_nums": "1426세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000751&pblancNo=2024000751&houseSecd=01",
+		"in_date": "20250121",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "더샵 라비온드",
+		"addr": "전북특별자치도 전주시 완산구 중노송동 395-3번지 일대",
+		"short_addr": "전북특별자치도 전주시",
+		"addr_lv1": "전북특별자치도",
+		"addr_lv2": "전주시",
+		"apply_nums": "1426세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000751&pblancNo=2024000751&houseSecd=01",
+		"in_date": "20250122",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "더샵 라비온드",
+		"addr": "전북특별자치도 전주시 완산구 중노송동 395-3번지 일대",
+		"short_addr": "전북특별자치도 전주시",
+		"addr_lv1": "전북특별자치도",
+		"addr_lv2": "전주시",
+		"apply_nums": "1426세대"
 	}
 ]
