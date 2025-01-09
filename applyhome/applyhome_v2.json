@@ -1,74 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000726&pblancNo=2024000726&houseSecd=01",
-		"in_date": "20250106",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "천안 두정역 양우내안애 퍼스트로",
-		"addr": "충청남도 천안시 서북구 두정동 393-11번지 일원",
-		"short_addr": "충청남도 천안시",
-		"addr_lv1": "충청남도",
-		"addr_lv2": "천안시",
-		"apply_nums": "416세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950095&pblancNo=2024950095&houseSecd=02",
-		"in_date": "20250106",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "상월곡역 장위아트포레(도시형생활주택)",
-		"addr": "서울특별시 성북구 석관동 338-18",
-		"short_addr": "서울특별시 성북구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "성북구",
-		"apply_nums": "5세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910229&pblancNo=2024910229&houseSecd=04",
-		"in_date": "20250106",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "곤지암역 제일풍경채",
-		"addr": "경기도 광주시 곤지암읍 곤지암리636번지(곤지암역세권  A1-1블록)",
-		"short_addr": "경기도 광주시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "광주시",
-		"apply_nums": "49세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910231&pblancNo=2024910231&houseSecd=04",
-		"in_date": "20250106",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "에비뉴 청계 II(6차)",
-		"addr": "서울특별시 종로구 숭인동 1420",
-		"short_addr": "서울특별시 종로구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "종로구",
-		"apply_nums": "32세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940165&pblancNo=2024940165&houseSecd=11",
-		"in_date": "20250106",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "문산역3차 동문 디 이스트 센트럴"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940163&pblancNo=2024940163&houseSecd=11",
-		"in_date": "20250106",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "부천역곡 자연앤한양립스(3차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000726&pblancNo=2024000726&houseSecd=01",
 		"in_date": "20250107",
 		"hsecd": "01",
 		"rse": "03",
@@ -507,6 +439,14 @@
 		"apply_nums": "3세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940167&pblancNo=2024940167&houseSecd=11",
+		"in_date": "20250114",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "이천 부발역 에피트"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000715&pblancNo=2024000715&houseSecd=01",
 		"in_date": "20250115",
 		"hsecd": "01",
@@ -528,6 +468,32 @@
 		"name": "서울은평뉴타운 디에트르 더 퍼스트"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910008&pblancNo=2025910008&houseSecd=04",
+		"in_date": "20250115",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "리아츠 더 인천(임의공급 4차)",
+		"addr": "인천광역시 동구 송림동 31-3번지 일원",
+		"short_addr": "인천광역시 동구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "동구",
+		"apply_nums": "23세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910236&pblancNo=2024910236&houseSecd=04",
+		"in_date": "20250115",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "영종하늘도시 한신더휴 2차(무순위 2차)",
+		"addr": "인천광역시 중구 중산동 1880-2",
+		"short_addr": "인천광역시 중구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "5세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000751&pblancNo=2024000751&houseSecd=01",
 		"in_date": "20250120",
 		"hsecd": "01",
@@ -539,6 +505,19 @@
 		"addr_lv1": "전북특별자치도",
 		"addr_lv2": "전주시",
 		"apply_nums": "1426세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000742&pblancNo=2024000742&houseSecd=01",
+		"in_date": "20250120",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "한화포레나 부산덕천3차",
+		"addr": "부산광역시 북구 덕천동 361번지 일원",
+		"short_addr": "부산광역시 북구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "북구",
+		"apply_nums": "116세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000751&pblancNo=2024000751&houseSecd=01",
@@ -554,6 +533,19 @@
 		"apply_nums": "1426세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000742&pblancNo=2024000742&houseSecd=01",
+		"in_date": "20250121",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "한화포레나 부산덕천3차",
+		"addr": "부산광역시 북구 덕천동 361번지 일원",
+		"short_addr": "부산광역시 북구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "북구",
+		"apply_nums": "116세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000751&pblancNo=2024000751&houseSecd=01",
 		"in_date": "20250122",
 		"hsecd": "01",
@@ -565,5 +557,18 @@
 		"addr_lv1": "전북특별자치도",
 		"addr_lv2": "전주시",
 		"apply_nums": "1426세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000742&pblancNo=2024000742&houseSecd=01",
+		"in_date": "20250122",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "한화포레나 부산덕천3차",
+		"addr": "부산광역시 북구 덕천동 361번지 일원",
+		"short_addr": "부산광역시 북구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "북구",
+		"apply_nums": "116세대"
 	}
 ]
