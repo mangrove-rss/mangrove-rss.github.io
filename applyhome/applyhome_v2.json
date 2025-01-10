@@ -1,81 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000726&pblancNo=2024000726&houseSecd=01",
-		"in_date": "20250107",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "천안 두정역 양우내안애 퍼스트로",
-		"addr": "충청남도 천안시 서북구 두정동 393-11번지 일원",
-		"short_addr": "충청남도 천안시",
-		"addr_lv1": "충청남도",
-		"addr_lv2": "천안시",
-		"apply_nums": "416세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950095&pblancNo=2024950095&houseSecd=02",
-		"in_date": "20250107",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "상월곡역 장위아트포레(도시형생활주택)",
-		"addr": "서울특별시 성북구 석관동 338-18",
-		"short_addr": "서울특별시 성북구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "성북구",
-		"apply_nums": "5세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2024950094&pblancNo=2024950094&houseSecd=02",
-		"in_date": "20250107",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "판교밸리자이 3단지 오피스텔",
-		"addr": "경기도 성남시 수정구 대왕판교로 961",
-		"short_addr": "경기도 성남시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "성남시",
-		"apply_nums": "3세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910230&pblancNo=2024910230&houseSecd=04",
-		"in_date": "20250107",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "서대문 센트럴 아이파크(임의공급 8차)",
-		"addr": "서울특별시 서대문구 홍은동 11-111번지 일원",
-		"short_addr": "서울특별시 서대문구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "서대문구",
-		"apply_nums": "15세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940166&pblancNo=2024940166&houseSecd=11",
-		"in_date": "20250107",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "더샵 탕정인피니티시티 3차"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940165&pblancNo=2024940165&houseSecd=11",
-		"in_date": "20250107",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "문산역3차 동문 디 이스트 센트럴"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940163&pblancNo=2024940163&houseSecd=11",
-		"in_date": "20250107",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "부천역곡 자연앤한양립스(3차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000704&pblancNo=2024000704&houseSecd=01",
 		"in_date": "20250108",
 		"hsecd": "01",
@@ -507,6 +431,19 @@
 		"apply_nums": "1426세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000725&pblancNo=2024000725&houseSecd=01",
+		"in_date": "20250120",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "세종 5-1 양우내안애 아스펜",
+		"addr": "세종특별자치시 합강동 22-28번지 일대 (행정중심복합도시 5-1생활권 L12블록)",
+		"short_addr": "세종특별자치시 합강동",
+		"addr_lv1": "세종특별자치시",
+		"addr_lv2": "합강동",
+		"apply_nums": "698세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000742&pblancNo=2024000742&houseSecd=01",
 		"in_date": "20250120",
 		"hsecd": "01",
@@ -533,6 +470,19 @@
 		"apply_nums": "1426세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000725&pblancNo=2024000725&houseSecd=01",
+		"in_date": "20250121",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "세종 5-1 양우내안애 아스펜",
+		"addr": "세종특별자치시 합강동 22-28번지 일대 (행정중심복합도시 5-1생활권 L12블록)",
+		"short_addr": "세종특별자치시 합강동",
+		"addr_lv1": "세종특별자치시",
+		"addr_lv2": "합강동",
+		"apply_nums": "698세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000742&pblancNo=2024000742&houseSecd=01",
 		"in_date": "20250121",
 		"hsecd": "01",
@@ -557,6 +507,19 @@
 		"addr_lv1": "전북특별자치도",
 		"addr_lv2": "전주시",
 		"apply_nums": "1426세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000725&pblancNo=2024000725&houseSecd=01",
+		"in_date": "20250122",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "세종 5-1 양우내안애 아스펜",
+		"addr": "세종특별자치시 합강동 22-28번지 일대 (행정중심복합도시 5-1생활권 L12블록)",
+		"short_addr": "세종특별자치시 합강동",
+		"addr_lv1": "세종특별자치시",
+		"addr_lv2": "합강동",
+		"apply_nums": "698세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000742&pblancNo=2024000742&houseSecd=01",
