@@ -1,110 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000661&pblancNo=2024000661&houseSecd=01",
-		"in_date": "20250109",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "인천강화서희스타힐스 1단지(조합원 취소세대)",
-		"addr": "인천광역시 강화군 선원면 창리456번지 일원",
-		"short_addr": "인천광역시 강화군",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "강화군",
-		"apply_nums": "17세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000704&pblancNo=2024000704&houseSecd=01",
-		"in_date": "20250109",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "부산에코델타시티 대방 엘리움 리버뷰",
-		"addr": "부산광역시 강서구 에코델타시티 공동주택용지 31BL",
-		"short_addr": "부산광역시 강서구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "강서구",
-		"apply_nums": "470세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910232&pblancNo=2024910232&houseSecd=04",
-		"in_date": "20250109",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "포레나 인천학익(임의공급 11차)",
-		"addr": "인천광역시 미추홀구 학익2동 290-1",
-		"short_addr": "인천광역시 미추홀구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "미추홀구",
-		"apply_nums": "13세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940122&pblancNo=2024940122&houseSecd=11",
-		"in_date": "20250109",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "시지 라온프라이빗"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940169&pblancNo=2024940169&houseSecd=11",
-		"in_date": "20250109",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "원종역 해모로 아스트라(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000661&pblancNo=2024000661&houseSecd=01",
-		"in_date": "20250110",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "인천강화서희스타힐스 1단지(조합원 취소세대)",
-		"addr": "인천광역시 강화군 선원면 창리456번지 일원",
-		"short_addr": "인천광역시 강화군",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "강화군",
-		"apply_nums": "17세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000704&pblancNo=2024000704&houseSecd=01",
-		"in_date": "20250110",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "부산에코델타시티 대방 엘리움 리버뷰",
-		"addr": "부산광역시 강서구 에코델타시티 공동주택용지 31BL",
-		"short_addr": "부산광역시 강서구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "강서구",
-		"apply_nums": "470세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940122&pblancNo=2024940122&houseSecd=11",
-		"in_date": "20250110",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "시지 라온프라이빗"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940164&pblancNo=2024940164&houseSecd=11",
-		"in_date": "20250110",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "신도림역 동문 디 이스트(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024940169&pblancNo=2024940169&houseSecd=11",
-		"in_date": "20250110",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "원종역 해모로 아스트라(2차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000715&pblancNo=2024000715&houseSecd=01",
 		"in_date": "20250113",
 		"hsecd": "01",
@@ -371,6 +266,62 @@
 		"apply_nums": "5세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940002&pblancNo=2025940002&houseSecd=11",
+		"in_date": "20250115",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "부천아테라자이(부천괴안지구 B-2블록) 3차"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940004&pblancNo=2025940004&houseSecd=11",
+		"in_date": "20250115",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "화성 비봉지구 B1블록 금성백조 예미지2차"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940003&pblancNo=2025940003&houseSecd=11",
+		"in_date": "20250116",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "마포 에피트 어바닉(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940004&pblancNo=2025940004&houseSecd=11",
+		"in_date": "20250116",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "화성 비봉지구 B1블록 금성백조 예미지2차"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940005&pblancNo=2025940005&houseSecd=11",
+		"in_date": "20250117",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "호반써밋 개봉(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940005&pblancNo=2025940005&houseSecd=11",
+		"in_date": "20250118",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "호반써밋 개봉(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940005&pblancNo=2025940005&houseSecd=11",
+		"in_date": "20250119",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "호반써밋 개봉(2차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000751&pblancNo=2024000751&houseSecd=01",
 		"in_date": "20250120",
 		"hsecd": "01",
@@ -408,6 +359,14 @@
 		"addr_lv1": "부산광역시",
 		"addr_lv2": "북구",
 		"apply_nums": "116세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940005&pblancNo=2025940005&houseSecd=11",
+		"in_date": "20250120",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "호반써밋 개봉(2차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000751&pblancNo=2024000751&houseSecd=01",
