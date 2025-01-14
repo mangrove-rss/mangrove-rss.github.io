@@ -361,6 +361,19 @@
 		"apply_nums": "116세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910006&pblancNo=2025910006&houseSecd=04",
+		"in_date": "20250120",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "신림스카이아파트(17차)",
+		"addr": "서울특별시 관악구 신림로 185",
+		"short_addr": "서울특별시 관악구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "관악구",
+		"apply_nums": "4세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940005&pblancNo=2025940005&houseSecd=11",
 		"in_date": "20250120",
 		"hsecd": "11",
