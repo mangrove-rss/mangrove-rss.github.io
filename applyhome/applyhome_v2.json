@@ -374,6 +374,19 @@
 		"apply_nums": "4세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910005&pblancNo=2025910005&houseSecd=04",
+		"in_date": "20250120",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "안양역 푸르지오 더샵(2차)",
+		"addr": "경기도 안양시 만안구 안양동 97-3번지 일원",
+		"short_addr": "경기도 안양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "안양시",
+		"apply_nums": "1세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940005&pblancNo=2025940005&houseSecd=11",
 		"in_date": "20250120",
 		"hsecd": "11",
@@ -419,6 +432,32 @@
 		"addr_lv1": "부산광역시",
 		"addr_lv2": "북구",
 		"apply_nums": "116세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910004&pblancNo=2025910004&houseSecd=04",
+		"in_date": "20250121",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "곤지암역 센트럴 아이파크(임의공급 1차)",
+		"addr": "경기도 광주시 곤지암읍 곤지암리 637번지",
+		"short_addr": "경기도 광주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "광주시",
+		"apply_nums": "130세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910009&pblancNo=2025910009&houseSecd=04",
+		"in_date": "20250121",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "용인 푸르지오 원클러스터 1단지(임의공급4차)",
+		"addr": "경기도 용인시 처인구 남동 산126-13일원(A1BL)",
+		"short_addr": "경기도 용인시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "용인시",
+		"apply_nums": "10세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000751&pblancNo=2024000751&houseSecd=01",
