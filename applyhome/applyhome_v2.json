@@ -1,21 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940003&pblancNo=2025940003&houseSecd=11",
-		"in_date": "20250116",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "마포 에피트 어바닉(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940004&pblancNo=2025940004&houseSecd=11",
-		"in_date": "20250116",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "화성 비봉지구 B1블록 금성백조 예미지2차"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940005&pblancNo=2025940005&houseSecd=11",
 		"in_date": "20250117",
 		"hsecd": "11",
@@ -230,6 +214,14 @@
 		"apply_nums": "15세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940007&pblancNo=2025940007&houseSecd=11",
+		"in_date": "20250122",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "양평동 동문 디 이스트(2차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950002&pblancNo=2025950002&houseSecd=02",
 		"in_date": "20250123",
 		"hsecd": "02",
@@ -267,6 +259,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "양주시",
 		"apply_nums": "285세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910007&pblancNo=2025910007&houseSecd=04",
+		"in_date": "20250131",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "순천그랜드파크자이",
+		"addr": "전라남도 순천시 풍덕동 327-3번지 일원",
+		"short_addr": "전라남도 순천시",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "순천시",
+		"apply_nums": "1세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000001&pblancNo=2025000001&houseSecd=01",
