@@ -1,14 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940005&pblancNo=2025940005&houseSecd=11",
-		"in_date": "20250118",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "호반써밋 개봉(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940005&pblancNo=2025940005&houseSecd=11",
 		"in_date": "20250119",
 		"hsecd": "11",
 		"rse": "11",
@@ -318,6 +310,19 @@
 		"apply_nums": "285세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950003&pblancNo=2025950003&houseSecd=02",
+		"in_date": "20250203",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "디마크 당산(도시형생활주택)",
+		"addr": "서울특별시 영등포구 당산동6가 331-1",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "32세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000001&pblancNo=2025000001&houseSecd=01",
 		"in_date": "20250204",
 		"hsecd": "01",
@@ -368,6 +373,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "양주시",
 		"apply_nums": "285세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950003&pblancNo=2025950003&houseSecd=02",
+		"in_date": "20250204",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "디마크 당산(도시형생활주택)",
+		"addr": "서울특별시 영등포구 당산동6가 331-1",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "32세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000001&pblancNo=2025000001&houseSecd=01",
