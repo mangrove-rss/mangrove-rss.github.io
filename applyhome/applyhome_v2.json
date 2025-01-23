@@ -1,79 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000751&pblancNo=2024000751&houseSecd=01",
-		"in_date": "20250120",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "더샵 라비온드",
-		"addr": "전북특별자치도 전주시 완산구 중노송동 395-3번지 일대",
-		"short_addr": "전북특별자치도 전주시",
-		"addr_lv1": "전북특별자치도",
-		"addr_lv2": "전주시",
-		"apply_nums": "1426세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000725&pblancNo=2024000725&houseSecd=01",
-		"in_date": "20250120",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "세종 5-1 양우내안애 아스펜",
-		"addr": "세종특별자치시 합강동 22-28번지 일대 (행정중심복합도시 5-1생활권 L12블록)",
-		"short_addr": "세종특별자치시 합강동",
-		"addr_lv1": "세종특별자치시",
-		"addr_lv2": "합강동",
-		"apply_nums": "698세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000742&pblancNo=2024000742&houseSecd=01",
-		"in_date": "20250120",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "한화포레나 부산덕천3차",
-		"addr": "부산광역시 북구 덕천동 361번지 일원",
-		"short_addr": "부산광역시 북구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "북구",
-		"apply_nums": "116세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910006&pblancNo=2025910006&houseSecd=04",
-		"in_date": "20250120",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "신림스카이아파트(17차)",
-		"addr": "서울특별시 관악구 신림로 185",
-		"short_addr": "서울특별시 관악구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "관악구",
-		"apply_nums": "4세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910005&pblancNo=2025910005&houseSecd=04",
-		"in_date": "20250120",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "안양역 푸르지오 더샵(2차)",
-		"addr": "경기도 안양시 만안구 안양동 97-3번지 일원",
-		"short_addr": "경기도 안양시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "안양시",
-		"apply_nums": "1세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940005&pblancNo=2025940005&houseSecd=11",
-		"in_date": "20250120",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "호반써밋 개봉(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000751&pblancNo=2024000751&houseSecd=01",
 		"in_date": "20250121",
 		"hsecd": "01",
 		"rse": "02",
@@ -237,6 +164,19 @@
 		"apply_nums": "285세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910011&pblancNo=2025910011&houseSecd=04",
+		"in_date": "20250131",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "북수원이목지구 대방 디에트르 더 리체Ⅰ(무순위 2차)",
+		"addr": "경기도 수원시 장안구 이목동 종전부동산 이목지구 도시개발사업 A4블록 공동주택용지",
+		"short_addr": "경기도 수원시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "수원시",
+		"apply_nums": "71세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910007&pblancNo=2025910007&houseSecd=04",
 		"in_date": "20250131",
 		"hsecd": "04",
@@ -250,6 +190,32 @@
 		"apply_nums": "1세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910011&pblancNo=2025910011&houseSecd=04",
+		"in_date": "20250201",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "북수원이목지구 대방 디에트르 더 리체Ⅰ(무순위 2차)",
+		"addr": "경기도 수원시 장안구 이목동 종전부동산 이목지구 도시개발사업 A4블록 공동주택용지",
+		"short_addr": "경기도 수원시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "수원시",
+		"apply_nums": "71세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910011&pblancNo=2025910011&houseSecd=04",
+		"in_date": "20250202",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "북수원이목지구 대방 디에트르 더 리체Ⅰ(무순위 2차)",
+		"addr": "경기도 수원시 장안구 이목동 종전부동산 이목지구 도시개발사업 A4블록 공동주택용지",
+		"short_addr": "경기도 수원시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "수원시",
+		"apply_nums": "71세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000001&pblancNo=2025000001&houseSecd=01",
 		"in_date": "20250203",
 		"hsecd": "01",
@@ -315,6 +281,61 @@
 		"apply_nums": "32세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910010&pblancNo=2025910010&houseSecd=04",
+		"in_date": "20250203",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "두산위브 더센트럴 부평 (임의공급 1차)",
+		"addr": "인천광역시 부평구 삼산동 191번지 일원",
+		"short_addr": "인천광역시 부평구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "부평구",
+		"apply_nums": "9세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910011&pblancNo=2025910011&houseSecd=04",
+		"in_date": "20250203",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "북수원이목지구 대방 디에트르 더 리체Ⅰ(무순위 2차)",
+		"addr": "경기도 수원시 장안구 이목동 종전부동산 이목지구 도시개발사업 A4블록 공동주택용지",
+		"short_addr": "경기도 수원시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "수원시",
+		"apply_nums": "71세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910016&pblancNo=2025910016&houseSecd=04",
+		"in_date": "20250203",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "창경궁 롯데캐슬 시그니처",
+		"addr": "서울특별시 성북구 삼선동2가 296번지 일원",
+		"short_addr": "서울특별시 성북구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "성북구",
+		"apply_nums": "45세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940006&pblancNo=2025940006&houseSecd=11",
+		"in_date": "20250203",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "개봉 루브루(4차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940010&pblancNo=2025940010&houseSecd=11",
+		"in_date": "20250203",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "양주 덕정역 에피트"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000001&pblancNo=2025000001&houseSecd=01",
 		"in_date": "20250204",
 		"hsecd": "01",
@@ -380,6 +401,27 @@
 		"apply_nums": "32세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910010&pblancNo=2025910010&houseSecd=04",
+		"in_date": "20250204",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "두산위브 더센트럴 부평 (임의공급 1차)",
+		"addr": "인천광역시 부평구 삼산동 191번지 일원",
+		"short_addr": "인천광역시 부평구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "부평구",
+		"apply_nums": "9세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940006&pblancNo=2025940006&houseSecd=11",
+		"in_date": "20250204",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "개봉 루브루(4차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000001&pblancNo=2025000001&houseSecd=01",
 		"in_date": "20250205",
 		"hsecd": "01",
@@ -404,6 +446,19 @@
 		"addr_lv1": "광주광역시",
 		"addr_lv2": "광산구",
 		"apply_nums": "118세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910010&pblancNo=2025910010&houseSecd=04",
+		"in_date": "20250205",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "두산위브 더센트럴 부평 (임의공급 1차)",
+		"addr": "인천광역시 부평구 삼산동 191번지 일원",
+		"short_addr": "인천광역시 부평구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "부평구",
+		"apply_nums": "9세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000001&pblancNo=2025000001&houseSecd=01",
@@ -417,5 +472,31 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "서초구",
 		"apply_nums": "482세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910010&pblancNo=2025910010&houseSecd=04",
+		"in_date": "20250206",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "두산위브 더센트럴 부평 (임의공급 1차)",
+		"addr": "인천광역시 부평구 삼산동 191번지 일원",
+		"short_addr": "인천광역시 부평구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "부평구",
+		"apply_nums": "9세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910010&pblancNo=2025910010&houseSecd=04",
+		"in_date": "20250207",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "두산위브 더센트럴 부평 (임의공급 1차)",
+		"addr": "인천광역시 부평구 삼산동 191번지 일원",
+		"short_addr": "인천광역시 부평구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "부평구",
+		"apply_nums": "9세대"
 	}
 ]
