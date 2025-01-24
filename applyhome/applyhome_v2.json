@@ -1,71 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000751&pblancNo=2024000751&houseSecd=01",
-		"in_date": "20250121",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "더샵 라비온드",
-		"addr": "전북특별자치도 전주시 완산구 중노송동 395-3번지 일대",
-		"short_addr": "전북특별자치도 전주시",
-		"addr_lv1": "전북특별자치도",
-		"addr_lv2": "전주시",
-		"apply_nums": "1426세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000725&pblancNo=2024000725&houseSecd=01",
-		"in_date": "20250121",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "세종 5-1 양우내안애 아스펜",
-		"addr": "세종특별자치시 합강동 22-28번지 일대 (행정중심복합도시 5-1생활권 L12블록)",
-		"short_addr": "세종특별자치시 합강동",
-		"addr_lv1": "세종특별자치시",
-		"addr_lv2": "합강동",
-		"apply_nums": "698세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000742&pblancNo=2024000742&houseSecd=01",
-		"in_date": "20250121",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "한화포레나 부산덕천3차",
-		"addr": "부산광역시 북구 덕천동 361번지 일원",
-		"short_addr": "부산광역시 북구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "북구",
-		"apply_nums": "116세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910004&pblancNo=2025910004&houseSecd=04",
-		"in_date": "20250121",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "곤지암역 센트럴 아이파크(임의공급 1차)",
-		"addr": "경기도 광주시 곤지암읍 곤지암리 637번지",
-		"short_addr": "경기도 광주시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "광주시",
-		"apply_nums": "130세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910009&pblancNo=2025910009&houseSecd=04",
-		"in_date": "20250121",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "용인 푸르지오 원클러스터 1단지(임의공급4차)",
-		"addr": "경기도 용인시 처인구 남동 산126-13일원(A1BL)",
-		"short_addr": "경기도 용인시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "용인시",
-		"apply_nums": "10세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000751&pblancNo=2024000751&houseSecd=01",
 		"in_date": "20250122",
 		"hsecd": "01",
 		"rse": "03",
@@ -216,6 +151,19 @@
 		"apply_nums": "71세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000750&pblancNo=2024000750&houseSecd=01",
+		"in_date": "20250203",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "남울산 노르웨이숲",
+		"addr": "울산광역시 울주군 온양읍 발리 440-1번지 일원",
+		"short_addr": "울산광역시 울주군",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "울주군",
+		"apply_nums": "332세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000001&pblancNo=2025000001&houseSecd=01",
 		"in_date": "20250203",
 		"hsecd": "01",
@@ -336,6 +284,19 @@
 		"name": "양주 덕정역 에피트"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000750&pblancNo=2024000750&houseSecd=01",
+		"in_date": "20250204",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "남울산 노르웨이숲",
+		"addr": "울산광역시 울주군 온양읍 발리 440-1번지 일원",
+		"short_addr": "울산광역시 울주군",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "울주군",
+		"apply_nums": "332세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000001&pblancNo=2025000001&houseSecd=01",
 		"in_date": "20250204",
 		"hsecd": "01",
@@ -433,6 +394,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "서초구",
 		"apply_nums": "482세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000750&pblancNo=2024000750&houseSecd=01",
+		"in_date": "20250205",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "남울산 노르웨이숲",
+		"addr": "울산광역시 울주군 온양읍 발리 440-1번지 일원",
+		"short_addr": "울산광역시 울주군",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "울주군",
+		"apply_nums": "332세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000747&pblancNo=2024000747&houseSecd=01",
