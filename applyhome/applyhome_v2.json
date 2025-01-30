@@ -310,6 +310,14 @@
 		"name": "개봉 루브루(4차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940009&pblancNo=2025940009&houseSecd=11",
+		"in_date": "20250204",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "서대문 센트럴 아이파크(2차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000001&pblancNo=2025000001&houseSecd=01",
 		"in_date": "20250205",
 		"hsecd": "01",
@@ -362,6 +370,32 @@
 		"apply_nums": "9세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910014&pblancNo=2025910014&houseSecd=04",
+		"in_date": "20250205",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "송도 하늘채 아이비원(임의공급4차)",
+		"addr": "인천광역시 연수구 송도동 20-4번지 외 7필지",
+		"short_addr": "인천광역시 연수구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "연수구",
+		"apply_nums": "39세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910012&pblancNo=2025910012&houseSecd=04",
+		"in_date": "20250205",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "에비뉴 청계 II(7차)",
+		"addr": "서울특별시 종로구 숭인동 1420번지",
+		"short_addr": "서울특별시 종로구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "종로구",
+		"apply_nums": "27세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000001&pblancNo=2025000001&houseSecd=01",
 		"in_date": "20250206",
 		"hsecd": "01",
@@ -386,6 +420,19 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "부평구",
 		"apply_nums": "9세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910014&pblancNo=2025910014&houseSecd=04",
+		"in_date": "20250206",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "송도 하늘채 아이비원(임의공급4차)",
+		"addr": "인천광역시 연수구 송도동 20-4번지 외 7필지",
+		"short_addr": "인천광역시 연수구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "연수구",
+		"apply_nums": "39세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910010&pblancNo=2025910010&houseSecd=04",
