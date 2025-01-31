@@ -1,57 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000396&pblancNo=2024000396&houseSecd=01",
-		"in_date": "20250131",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "부천 중앙하이츠 심곡 102동",
-		"addr": "경기도 부천시 심곡동 803번지 ",
-		"short_addr": "경기도 부천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "부천시",
-		"apply_nums": "40세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000004&pblancNo=2025000004&houseSecd=01",
-		"in_date": "20250131",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "양주 용암 영무 예다음 더퍼스트",
-		"addr": "경기도 양주시 은현면 용암리 784-8번지 일원",
-		"short_addr": "경기도 양주시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "양주시",
-		"apply_nums": "285세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910011&pblancNo=2025910011&houseSecd=04",
-		"in_date": "20250131",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "북수원이목지구 대방 디에트르 더 리체Ⅰ(무순위 2차)",
-		"addr": "경기도 수원시 장안구 이목동 종전부동산 이목지구 도시개발사업 A4블록 공동주택용지",
-		"short_addr": "경기도 수원시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "수원시",
-		"apply_nums": "71세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910007&pblancNo=2025910007&houseSecd=04",
-		"in_date": "20250131",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "순천그랜드파크자이",
-		"addr": "전라남도 순천시 풍덕동 327-3번지 일원",
-		"short_addr": "전라남도 순천시",
-		"addr_lv1": "전라남도",
-		"addr_lv2": "순천시",
-		"apply_nums": "1세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910011&pblancNo=2025910011&houseSecd=04",
 		"in_date": "20250201",
 		"hsecd": "04",
@@ -435,6 +383,32 @@
 		"apply_nums": "39세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910240&pblancNo=2024910240&houseSecd=04",
+		"in_date": "20250206",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "힐스테이트 세종 리버파크(행정중심복합도시 3-3생활권 H3블록)",
+		"addr": "행정중심복합도시 3-3생활권 H3블록 (세종특별자치시 소담동 일원)",
+		"short_addr": "행정중심복합도시 3-3생활권",
+		"addr_lv1": "행정중심복합도시",
+		"addr_lv2": "3-3생활권",
+		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910241&pblancNo=2024910241&houseSecd=04",
+		"in_date": "20250206",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "힐스테이트 세종 리버파크(행정중심복합도시 3-3생활권 H4블록)",
+		"addr": "행정중심복합도시 3-3생활권 H4블록 (세종특별자치시 소담동 일원)",
+		"short_addr": "행정중심복합도시 3-3생활권",
+		"addr_lv1": "행정중심복합도시",
+		"addr_lv2": "3-3생활권",
+		"apply_nums": "2세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910010&pblancNo=2025910010&houseSecd=04",
 		"in_date": "20250207",
 		"hsecd": "04",
@@ -446,5 +420,31 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "부평구",
 		"apply_nums": "9세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910240&pblancNo=2024910240&houseSecd=04",
+		"in_date": "20250207",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "힐스테이트 세종 리버파크(행정중심복합도시 3-3생활권 H3블록)",
+		"addr": "행정중심복합도시 3-3생활권 H3블록 (세종특별자치시 소담동 일원)",
+		"short_addr": "행정중심복합도시 3-3생활권",
+		"addr_lv1": "행정중심복합도시",
+		"addr_lv2": "3-3생활권",
+		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910241&pblancNo=2024910241&houseSecd=04",
+		"in_date": "20250207",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "힐스테이트 세종 리버파크(행정중심복합도시 3-3생활권 H4블록)",
+		"addr": "행정중심복합도시 3-3생활권 H4블록 (세종특별자치시 소담동 일원)",
+		"short_addr": "행정중심복합도시 3-3생활권",
+		"addr_lv1": "행정중심복합도시",
+		"addr_lv2": "3-3생활권",
+		"apply_nums": "2세대"
 	}
 ]
