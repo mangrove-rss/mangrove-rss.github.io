@@ -446,5 +446,57 @@
 		"addr_lv1": "행정중심복합도시",
 		"addr_lv2": "3-3생활권",
 		"apply_nums": "2세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910018&pblancNo=2025910018&houseSecd=04",
+		"in_date": "20250210",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "수원 비셀토64",
+		"addr": "경기도 수원시 영화동 271-7 외 9번지",
+		"short_addr": "경기도 수원시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "수원시",
+		"apply_nums": "7세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910017&pblancNo=2025910017&houseSecd=04",
+		"in_date": "20250210",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "용인 둔전역 에피트(무순위3차)",
+		"addr": "경기도 용인시 처인구 포곡읍 금어리 646번지 일원",
+		"short_addr": "경기도 용인시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "용인시",
+		"apply_nums": "45세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910234&pblancNo=2024910234&houseSecd=04",
+		"in_date": "20250210",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "의왕고천지구 대방 디에트르 센트럴(B1BL)",
+		"addr": "경기도 의왕시 고천동 공공주택지구 B1블록(경기도 의왕시 고천동 190-1일원)",
+		"short_addr": "경기도 의왕시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "의왕시",
+		"apply_nums": "14세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910234&pblancNo=2024910234&houseSecd=04",
+		"in_date": "20250211",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "의왕고천지구 대방 디에트르 센트럴(B1BL)",
+		"addr": "경기도 의왕시 고천동 공공주택지구 B1블록(경기도 의왕시 고천동 190-1일원)",
+		"short_addr": "경기도 의왕시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "의왕시",
+		"apply_nums": "14세대"
 	}
 ]
