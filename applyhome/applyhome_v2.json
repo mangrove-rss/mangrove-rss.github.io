@@ -1,19 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910011&pblancNo=2025910011&houseSecd=04",
-		"in_date": "20250201",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "북수원이목지구 대방 디에트르 더 리체Ⅰ(무순위 2차)",
-		"addr": "경기도 수원시 장안구 이목동 종전부동산 이목지구 도시개발사업 A4블록 공동주택용지",
-		"short_addr": "경기도 수원시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "수원시",
-		"apply_nums": "71세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910011&pblancNo=2025910011&houseSecd=04",
 		"in_date": "20250202",
 		"hsecd": "04",
 		"rse": "06",
@@ -396,19 +383,6 @@
 		"apply_nums": "1세대"
 	},
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910241&pblancNo=2024910241&houseSecd=04",
-		"in_date": "20250206",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "힐스테이트 세종 리버파크(행정중심복합도시 3-3생활권 H4블록)",
-		"addr": "행정중심복합도시 3-3생활권 H4블록 (세종특별자치시 소담동 일원)",
-		"short_addr": "행정중심복합도시 3-3생활권",
-		"addr_lv1": "행정중심복합도시",
-		"addr_lv2": "3-3생활권",
-		"apply_nums": "2세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910010&pblancNo=2025910010&houseSecd=04",
 		"in_date": "20250207",
 		"hsecd": "04",
@@ -420,19 +394,6 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "부평구",
 		"apply_nums": "9세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910240&pblancNo=2024910240&houseSecd=04",
-		"in_date": "20250207",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "힐스테이트 세종 리버파크(행정중심복합도시 3-3생활권 H3블록)",
-		"addr": "행정중심복합도시 3-3생활권 H3블록 (세종특별자치시 소담동 일원)",
-		"short_addr": "행정중심복합도시 3-3생활권",
-		"addr_lv1": "행정중심복합도시",
-		"addr_lv2": "3-3생활권",
-		"apply_nums": "1세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910241&pblancNo=2024910241&houseSecd=04",
@@ -485,6 +446,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "의왕시",
 		"apply_nums": "14세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930002&pblancNo=2025930002&houseSecd=06",
+		"in_date": "20250210",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "강서자이 에코델타(20블록) 공공분양주택",
+		"addr": "부산광역시 강서구 강동동 공동 20BL",
+		"short_addr": "부산광역시 강서구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "강서구",
+		"apply_nums": "5세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910234&pblancNo=2024910234&houseSecd=04",
