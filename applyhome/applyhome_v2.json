@@ -1,18 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910011&pblancNo=2025910011&houseSecd=04",
-		"in_date": "20250202",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "북수원이목지구 대방 디에트르 더 리체Ⅰ(무순위 2차)",
-		"addr": "경기도 수원시 장안구 이목동 종전부동산 이목지구 도시개발사업 A4블록 공동주택용지",
-		"short_addr": "경기도 수원시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "수원시",
-		"apply_nums": "71세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000750&pblancNo=2024000750&houseSecd=01",
 		"in_date": "20250203",
 		"hsecd": "01",
@@ -459,6 +446,40 @@
 		"addr_lv1": "부산광역시",
 		"addr_lv2": "강서구",
 		"apply_nums": "5세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940014&pblancNo=2025940014&houseSecd=11",
+		"in_date": "20250210",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "학동역 에스포레 논현(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910021&pblancNo=2025910021&houseSecd=04",
+		"in_date": "20250211",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "곤지암역 제일풍경채 (2차)",
+		"addr": "경기도 광주시 곤지암읍 곤지암리636번지(곤지암역세권  A1-1블록)",
+		"short_addr": "경기도 광주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "광주시",
+		"apply_nums": "29세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910015&pblancNo=2025910015&houseSecd=04",
+		"in_date": "20250211",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "용인 에버랜드역 칸타빌(임의공급 7차)",
+		"addr": "경기도 용인시 처인구 포곡읍 전대리 192-2외 5필지",
+		"short_addr": "경기도 용인시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "용인시",
+		"apply_nums": "16세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910234&pblancNo=2024910234&houseSecd=04",
