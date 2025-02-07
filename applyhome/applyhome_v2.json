@@ -1,112 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000750&pblancNo=2024000750&houseSecd=01",
-		"in_date": "20250204",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "남울산 노르웨이숲",
-		"addr": "울산광역시 울주군 온양읍 발리 440-1번지 일원",
-		"short_addr": "울산광역시 울주군",
-		"addr_lv1": "울산광역시",
-		"addr_lv2": "울주군",
-		"apply_nums": "332세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000001&pblancNo=2025000001&houseSecd=01",
-		"in_date": "20250204",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "래미안 원페를라",
-		"addr": "서울특별시 서초구 방배동 818-14번지 일대",
-		"short_addr": "서울특별시 서초구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "서초구",
-		"apply_nums": "482세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000747&pblancNo=2024000747&houseSecd=01",
-		"in_date": "20250204",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "한양립스 에듀포레",
-		"addr": "광주광역시 광산구 하산동 269번지 일원",
-		"short_addr": "광주광역시 광산구",
-		"addr_lv1": "광주광역시",
-		"addr_lv2": "광산구",
-		"apply_nums": "118세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000396&pblancNo=2024000396&houseSecd=01",
-		"in_date": "20250204",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "부천 중앙하이츠 심곡 102동",
-		"addr": "경기도 부천시 심곡동 803번지 ",
-		"short_addr": "경기도 부천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "부천시",
-		"apply_nums": "40세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000004&pblancNo=2025000004&houseSecd=01",
-		"in_date": "20250204",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "양주 용암 영무 예다음 더퍼스트",
-		"addr": "경기도 양주시 은현면 용암리 784-8번지 일원",
-		"short_addr": "경기도 양주시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "양주시",
-		"apply_nums": "285세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950003&pblancNo=2025950003&houseSecd=02",
-		"in_date": "20250204",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "디마크 당산(도시형생활주택)",
-		"addr": "서울특별시 영등포구 당산동6가 331-1",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "32세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910010&pblancNo=2025910010&houseSecd=04",
-		"in_date": "20250204",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "두산위브 더센트럴 부평 (임의공급 1차)",
-		"addr": "인천광역시 부평구 삼산동 191번지 일원",
-		"short_addr": "인천광역시 부평구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "부평구",
-		"apply_nums": "9세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940006&pblancNo=2025940006&houseSecd=11",
-		"in_date": "20250204",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "개봉 루브루(4차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940009&pblancNo=2025940009&houseSecd=11",
-		"in_date": "20250204",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "서대문 센트럴 아이파크(2차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000001&pblancNo=2025000001&houseSecd=01",
 		"in_date": "20250205",
 		"hsecd": "01",
@@ -429,5 +322,44 @@
 		"rse": "11",
 		"type": "",
 		"name": "의정부역 다채로움"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000703&pblancNo=2024000703&houseSecd=01",
+		"in_date": "20250219",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "대전 롯데캐슬 더퍼스트",
+		"addr": "대전광역시 동구 가오동 394번지 일원",
+		"short_addr": "대전광역시 동구",
+		"addr_lv1": "대전광역시",
+		"addr_lv2": "동구",
+		"apply_nums": "394세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000703&pblancNo=2024000703&houseSecd=01",
+		"in_date": "20250220",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "대전 롯데캐슬 더퍼스트",
+		"addr": "대전광역시 동구 가오동 394번지 일원",
+		"short_addr": "대전광역시 동구",
+		"addr_lv1": "대전광역시",
+		"addr_lv2": "동구",
+		"apply_nums": "394세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000703&pblancNo=2024000703&houseSecd=01",
+		"in_date": "20250221",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "대전 롯데캐슬 더퍼스트",
+		"addr": "대전광역시 동구 가오동 394번지 일원",
+		"short_addr": "대전광역시 동구",
+		"addr_lv1": "대전광역시",
+		"addr_lv2": "동구",
+		"apply_nums": "394세대"
 	}
 ]
