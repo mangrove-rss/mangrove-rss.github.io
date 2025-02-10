@@ -1,31 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910010&pblancNo=2025910010&houseSecd=04",
-		"in_date": "20250207",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "두산위브 더센트럴 부평 (임의공급 1차)",
-		"addr": "인천광역시 부평구 삼산동 191번지 일원",
-		"short_addr": "인천광역시 부평구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "부평구",
-		"apply_nums": "9세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910241&pblancNo=2024910241&houseSecd=04",
-		"in_date": "20250207",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "힐스테이트 세종 리버파크(행정중심복합도시 3-3생활권 H4블록)",
-		"addr": "행정중심복합도시 3-3생활권 H4블록 (세종특별자치시 소담동 일원)",
-		"short_addr": "행정중심복합도시 3-3생활권",
-		"addr_lv1": "행정중심복합도시",
-		"addr_lv2": "3-3생활권",
-		"apply_nums": "2세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910018&pblancNo=2025910018&houseSecd=04",
 		"in_date": "20250210",
 		"hsecd": "04",
@@ -192,6 +166,30 @@
 		"rse": "11",
 		"type": "",
 		"name": "의정부역 다채로움"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940020&pblancNo=2025940020&houseSecd=11",
+		"in_date": "20250212",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "한신더휴 하이엔에듀포레"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940022&pblancNo=2025940022&houseSecd=11",
+		"in_date": "20250213",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "e편한세상 옥정 리더스가든(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940019&pblancNo=2025940019&houseSecd=11",
+		"in_date": "20250213",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "롯데캐슬 위너스포레"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940015&pblancNo=2025940015&houseSecd=11",
