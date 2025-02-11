@@ -200,12 +200,41 @@
 		"name": "힐스테이트 탑석(4차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940024&pblancNo=2025940024&houseSecd=11",
+		"in_date": "20250214",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "부천아테라자이(부천괴안지구 B-2블록) 4차"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940015&pblancNo=2025940015&houseSecd=11",
 		"in_date": "20250214",
 		"hsecd": "11",
 		"rse": "11",
 		"type": "",
 		"name": "힐스테이트 탑석(4차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850002&pblancNo=2025850002&houseSecd=03",
+		"in_date": "20250217",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "서울은평뉴타운 디에트르 더 퍼스트"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910025&pblancNo=2025910025&houseSecd=04",
+		"in_date": "20250217",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "광주태전 경남아너스빌 리미티드(2차)",
+		"addr": "경기도 광주시 장지동 695-14번지 일원",
+		"short_addr": "경기도 광주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "광주시",
+		"apply_nums": "8세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910022&pblancNo=2025910022&houseSecd=04",
@@ -219,6 +248,22 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "양천구",
 		"apply_nums": "12세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940013&pblancNo=2025940013&houseSecd=11",
+		"in_date": "20250217",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "곤지암역 센트럴 아이파크"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850002&pblancNo=2025850002&houseSecd=03",
+		"in_date": "20250218",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "서울은평뉴타운 디에트르 더 퍼스트"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910022&pblancNo=2025910022&houseSecd=04",
