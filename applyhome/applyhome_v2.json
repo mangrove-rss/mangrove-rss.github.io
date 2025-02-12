@@ -250,6 +250,14 @@
 		"apply_nums": "12세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940023&pblancNo=2025940023&houseSecd=11",
+		"in_date": "20250217",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "e편한세상 동인천 베이프런트"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940013&pblancNo=2025940013&houseSecd=11",
 		"in_date": "20250217",
 		"hsecd": "11",
@@ -258,12 +266,33 @@
 		"name": "곤지암역 센트럴 아이파크"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940021&pblancNo=2025940021&houseSecd=11",
+		"in_date": "20250217",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "용인 푸르지오 원클러스터 1단지"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850002&pblancNo=2025850002&houseSecd=03",
 		"in_date": "20250218",
 		"hsecd": "03",
 		"rse": "04",
 		"type": "",
 		"name": "서울은평뉴타운 디에트르 더 퍼스트"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950007&pblancNo=2025950007&houseSecd=02",
+		"in_date": "20250218",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "여의도 현대마에스트로",
+		"addr": "서울특별시 영등포구 여의도동15-11번지",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "9세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910022&pblancNo=2025910022&houseSecd=04",
@@ -381,5 +410,44 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "평택시",
 		"apply_nums": "39세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000017&pblancNo=2025000017&houseSecd=01",
+		"in_date": "20250224",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "두류센트레빌 더 파크",
+		"addr": "대구광역시 달서구 두류동 638-19번지 일원",
+		"short_addr": "대구광역시 달서구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "달서구",
+		"apply_nums": "52세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000017&pblancNo=2025000017&houseSecd=01",
+		"in_date": "20250225",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "두류센트레빌 더 파크",
+		"addr": "대구광역시 달서구 두류동 638-19번지 일원",
+		"short_addr": "대구광역시 달서구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "달서구",
+		"apply_nums": "52세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000017&pblancNo=2025000017&houseSecd=01",
+		"in_date": "20250226",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "두류센트레빌 더 파크",
+		"addr": "대구광역시 달서구 두류동 638-19번지 일원",
+		"short_addr": "대구광역시 달서구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "달서구",
+		"apply_nums": "52세대"
 	}
 ]
