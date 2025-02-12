@@ -34,6 +34,12 @@
 			<showrss:showname><![CDATA[ 020125-001-carib ]]></showrss:showname>
 		</item>
 		<item>
+			<title><![CDATA[ 021025-001-carib ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih:db57ef615a77beae8486afc76c61831379682aa1 ]]></link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ 021025-001-carib ]]></showrss:showname>
+		</item>
+		<item>
 			<title><![CDATA[ HEYZO-3525 ]]></title>
 			<link><![CDATA[ magnet:?xt=urn:btih:81e7aedcb3790cb099de38f377f6acc66e41f92c ]]></link>
 			<showrss:showid></showrss:showid>
@@ -68,12 +74,6 @@
 			<link><![CDATA[ magnet:?xt=urn:btih:06bd55b49d107696a5bdb619e13bd3b5aaecd1f7 ]]></link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ 012425-001-carib ]]></showrss:showname>
-		</item>
-		<item>
-			<title><![CDATA[ 021025-001-carib ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:db57ef615a77beae8486afc76c61831379682aa1 ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ 021025-001-carib ]]></showrss:showname>
 		</item>
 		<item>
 			<title><![CDATA[ 012825-001-carib ]]></title>
@@ -160,14 +160,20 @@
 			<showrss:showname><![CDATA[ 102624_001-1pondo ]]></showrss:showname>
 		</item>
 		<item>
+			<title><![CDATA[ 102624_001-1pondo ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih:7cccf02955c58ece8d6b564c731d09506d8a435d ]]></link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ 102624_001-1pondo ]]></showrss:showname>
+		</item>
+		<item>
 			<title><![CDATA[ HEYZO-3509 ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:91c6c6b49bc803d056feccd0a82fb9a4d6ebfe20 ]]></link>
+			<link><![CDATA[ magnet:?xt=urn:btih:fd5d8236b0b6cf1425075bfffaa9e317dbee6a76 ]]></link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ HEYZO-3509 ]]></showrss:showname>
 		</item>
 		<item>
 			<title><![CDATA[ HEYZO-3509 ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:fd5d8236b0b6cf1425075bfffaa9e317dbee6a76 ]]></link>
+			<link><![CDATA[ magnet:?xt=urn:btih:91c6c6b49bc803d056feccd0a82fb9a4d6ebfe20 ]]></link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ HEYZO-3509 ]]></showrss:showname>
 		</item>
