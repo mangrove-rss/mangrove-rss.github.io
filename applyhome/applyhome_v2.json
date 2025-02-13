@@ -1,65 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910018&pblancNo=2025910018&houseSecd=04",
-		"in_date": "20250210",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "수원 비셀토64",
-		"addr": "경기도 수원시 영화동 271-7 외 9번지",
-		"short_addr": "경기도 수원시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "수원시",
-		"apply_nums": "7세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910017&pblancNo=2025910017&houseSecd=04",
-		"in_date": "20250210",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "용인 둔전역 에피트(무순위3차)",
-		"addr": "경기도 용인시 처인구 포곡읍 금어리 646번지 일원",
-		"short_addr": "경기도 용인시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "용인시",
-		"apply_nums": "45세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910234&pblancNo=2024910234&houseSecd=04",
-		"in_date": "20250210",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "의왕고천지구 대방 디에트르 센트럴(B1BL)",
-		"addr": "경기도 의왕시 고천동 공공주택지구 B1블록(경기도 의왕시 고천동 190-1일원)",
-		"short_addr": "경기도 의왕시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "의왕시",
-		"apply_nums": "14세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930002&pblancNo=2025930002&houseSecd=06",
-		"in_date": "20250210",
-		"hsecd": "06",
-		"rse": "07",
-		"type": "",
-		"name": "강서자이 에코델타(20블록) 공공분양주택",
-		"addr": "부산광역시 강서구 강동동 공동 20BL",
-		"short_addr": "부산광역시 강서구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "강서구",
-		"apply_nums": "5세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940014&pblancNo=2025940014&houseSecd=11",
-		"in_date": "20250210",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "학동역 에스포레 논현(2차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910021&pblancNo=2025910021&houseSecd=04",
 		"in_date": "20250211",
 		"hsecd": "04",
@@ -308,6 +248,30 @@
 		"apply_nums": "12세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940029&pblancNo=2025940029&houseSecd=11",
+		"in_date": "20250218",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "서대문 센트럴 아이파크(3차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940027&pblancNo=2025940027&houseSecd=11",
+		"in_date": "20250218",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "자라섬 수자인 리버페스타"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940033&pblancNo=2025940033&houseSecd=11",
+		"in_date": "20250218",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "천호역 마에스트로(3차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000703&pblancNo=2024000703&houseSecd=01",
 		"in_date": "20250219",
 		"hsecd": "01",
@@ -319,6 +283,40 @@
 		"addr_lv1": "대전광역시",
 		"addr_lv2": "동구",
 		"apply_nums": "394세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850001&pblancNo=2025850001&houseSecd=03",
+		"in_date": "20250219",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "엘리프 옥정 시그니처"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950006&pblancNo=2025950006&houseSecd=02",
+		"in_date": "20250219",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "당산역 한강 더채움",
+		"addr": "서울특별시 영등포구 당산동6가 280-1, 9번지",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "2세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910024&pblancNo=2025910024&houseSecd=04",
+		"in_date": "20250219",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "브라운스톤 여월(2차)",
+		"addr": "경기도 부천시 오정구 성곡로 28번길 43(여월동 9-28)",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "1세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910022&pblancNo=2025910022&houseSecd=04",
@@ -334,6 +332,14 @@
 		"apply_nums": "12세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940033&pblancNo=2025940033&houseSecd=11",
+		"in_date": "20250219",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "천호역 마에스트로(3차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000015&pblancNo=2025000015&houseSecd=01",
 		"in_date": "20250220",
 		"hsecd": "01",
@@ -373,6 +379,27 @@
 		"apply_nums": "39세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850001&pblancNo=2025850001&houseSecd=03",
+		"in_date": "20250220",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "엘리프 옥정 시그니처"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950006&pblancNo=2025950006&houseSecd=02",
+		"in_date": "20250220",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "당산역 한강 더채움",
+		"addr": "서울특별시 영등포구 당산동6가 280-1, 9번지",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "2세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000015&pblancNo=2025000015&houseSecd=01",
 		"in_date": "20250221",
 		"hsecd": "01",
@@ -410,6 +437,45 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "평택시",
 		"apply_nums": "39세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950006&pblancNo=2025950006&houseSecd=02",
+		"in_date": "20250221",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "당산역 한강 더채움",
+		"addr": "서울특별시 영등포구 당산동6가 280-1, 9번지",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "2세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950006&pblancNo=2025950006&houseSecd=02",
+		"in_date": "20250222",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "당산역 한강 더채움",
+		"addr": "서울특별시 영등포구 당산동6가 280-1, 9번지",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "2세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950006&pblancNo=2025950006&houseSecd=02",
+		"in_date": "20250223",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "당산역 한강 더채움",
+		"addr": "서울특별시 영등포구 당산동6가 280-1, 9번지",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "2세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000017&pblancNo=2025000017&houseSecd=01",
@@ -423,6 +489,19 @@
 		"addr_lv1": "대구광역시",
 		"addr_lv2": "달서구",
 		"apply_nums": "52세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950006&pblancNo=2025950006&houseSecd=02",
+		"in_date": "20250224",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "당산역 한강 더채움",
+		"addr": "서울특별시 영등포구 당산동6가 280-1, 9번지",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "2세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000017&pblancNo=2025000017&houseSecd=01",
