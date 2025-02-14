@@ -1,92 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910021&pblancNo=2025910021&houseSecd=04",
-		"in_date": "20250211",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "곤지암역 제일풍경채 (2차)",
-		"addr": "경기도 광주시 곤지암읍 곤지암리636번지(곤지암역세권  A1-1블록)",
-		"short_addr": "경기도 광주시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "광주시",
-		"apply_nums": "29세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910015&pblancNo=2025910015&houseSecd=04",
-		"in_date": "20250211",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "용인 에버랜드역 칸타빌(임의공급 7차)",
-		"addr": "경기도 용인시 처인구 포곡읍 전대리 192-2외 5필지",
-		"short_addr": "경기도 용인시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "용인시",
-		"apply_nums": "16세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2024910234&pblancNo=2024910234&houseSecd=04",
-		"in_date": "20250211",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "의왕고천지구 대방 디에트르 센트럴(B1BL)",
-		"addr": "경기도 의왕시 고천동 공공주택지구 B1블록(경기도 의왕시 고천동 190-1일원)",
-		"short_addr": "경기도 의왕시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "의왕시",
-		"apply_nums": "14세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940012&pblancNo=2025940012&houseSecd=11",
-		"in_date": "20250211",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "마석역 극동스타클래스 더 퍼스트"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940018&pblancNo=2025940018&houseSecd=11",
-		"in_date": "20250211",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "연신내 양우내안애 퍼스티지(3차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940016&pblancNo=2025940016&houseSecd=11",
-		"in_date": "20250211",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "의정부역 다채로움"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940008&pblancNo=2025940008&houseSecd=11",
-		"in_date": "20250211",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "휴먼빌 일산 클래스원(3차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940017&pblancNo=2025940017&houseSecd=11",
-		"in_date": "20250211",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "힐스테이트 광주곤지암역"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940011&pblancNo=2025940011&houseSecd=11",
-		"in_date": "20250211",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "힐스테이트 도안리버파크 3단지"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910019&pblancNo=2025910019&houseSecd=04",
 		"in_date": "20250212",
 		"hsecd": "04",
@@ -478,6 +391,19 @@
 		"apply_nums": "2세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000005&pblancNo=2025000005&houseSecd=01",
+		"in_date": "20250224",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "거제역 양우내안애 아시아드",
+		"addr": "부산광역시 연제구 거제동 439-10번지 일원",
+		"short_addr": "부산광역시 연제구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "연제구",
+		"apply_nums": "168세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000017&pblancNo=2025000017&houseSecd=01",
 		"in_date": "20250224",
 		"hsecd": "01",
@@ -489,6 +415,45 @@
 		"addr_lv1": "대구광역시",
 		"addr_lv2": "달서구",
 		"apply_nums": "52세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000027&pblancNo=2025000027&houseSecd=01",
+		"in_date": "20250224",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "우정동 한양립스 더 센트럴",
+		"addr": "울산광역시 중구 우정동 272-60번지 외",
+		"short_addr": "울산광역시 중구",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "99세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000029&pblancNo=2025000029&houseSecd=01",
+		"in_date": "20250224",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "이안 센트럴포레 장유 1단지",
+		"addr": "경상남도 김해시 삼문동 1275번지",
+		"short_addr": "경상남도 김해시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "김해시",
+		"apply_nums": "11세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000030&pblancNo=2025000030&houseSecd=01",
+		"in_date": "20250224",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "이안 센트럴포레 장유 2단지",
+		"addr": "경상남도 김해시 삼문동 1276번지",
+		"short_addr": "경상남도 김해시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "김해시",
+		"apply_nums": "10세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950006&pblancNo=2025950006&houseSecd=02",
@@ -504,6 +469,19 @@
 		"apply_nums": "2세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000005&pblancNo=2025000005&houseSecd=01",
+		"in_date": "20250225",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "거제역 양우내안애 아시아드",
+		"addr": "부산광역시 연제구 거제동 439-10번지 일원",
+		"short_addr": "부산광역시 연제구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "연제구",
+		"apply_nums": "168세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000017&pblancNo=2025000017&houseSecd=01",
 		"in_date": "20250225",
 		"hsecd": "01",
@@ -517,6 +495,58 @@
 		"apply_nums": "52세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000027&pblancNo=2025000027&houseSecd=01",
+		"in_date": "20250225",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "우정동 한양립스 더 센트럴",
+		"addr": "울산광역시 중구 우정동 272-60번지 외",
+		"short_addr": "울산광역시 중구",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "99세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000029&pblancNo=2025000029&houseSecd=01",
+		"in_date": "20250225",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "이안 센트럴포레 장유 1단지",
+		"addr": "경상남도 김해시 삼문동 1275번지",
+		"short_addr": "경상남도 김해시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "김해시",
+		"apply_nums": "11세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000030&pblancNo=2025000030&houseSecd=01",
+		"in_date": "20250225",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "이안 센트럴포레 장유 2단지",
+		"addr": "경상남도 김해시 삼문동 1276번지",
+		"short_addr": "경상남도 김해시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "김해시",
+		"apply_nums": "10세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000005&pblancNo=2025000005&houseSecd=01",
+		"in_date": "20250226",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "거제역 양우내안애 아시아드",
+		"addr": "부산광역시 연제구 거제동 439-10번지 일원",
+		"short_addr": "부산광역시 연제구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "연제구",
+		"apply_nums": "168세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000017&pblancNo=2025000017&houseSecd=01",
 		"in_date": "20250226",
 		"hsecd": "01",
@@ -528,5 +558,44 @@
 		"addr_lv1": "대구광역시",
 		"addr_lv2": "달서구",
 		"apply_nums": "52세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000027&pblancNo=2025000027&houseSecd=01",
+		"in_date": "20250226",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "우정동 한양립스 더 센트럴",
+		"addr": "울산광역시 중구 우정동 272-60번지 외",
+		"short_addr": "울산광역시 중구",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "99세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000029&pblancNo=2025000029&houseSecd=01",
+		"in_date": "20250226",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "이안 센트럴포레 장유 1단지",
+		"addr": "경상남도 김해시 삼문동 1275번지",
+		"short_addr": "경상남도 김해시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "김해시",
+		"apply_nums": "11세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000030&pblancNo=2025000030&houseSecd=01",
+		"in_date": "20250226",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "이안 센트럴포레 장유 2단지",
+		"addr": "경상남도 김해시 삼문동 1276번지",
+		"short_addr": "경상남도 김해시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "김해시",
+		"apply_nums": "10세대"
 	}
 ]
