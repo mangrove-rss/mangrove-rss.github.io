@@ -1,34 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910019&pblancNo=2025910019&houseSecd=04",
-		"in_date": "20250212",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "의정부역 브라운스톤 리버뷰",
-		"addr": "경기도 의정부시 신곡동 571-1번지 일원",
-		"short_addr": "경기도 의정부시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "의정부시",
-		"apply_nums": "1세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940016&pblancNo=2025940016&houseSecd=11",
-		"in_date": "20250212",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "의정부역 다채로움"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940020&pblancNo=2025940020&houseSecd=11",
-		"in_date": "20250212",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "한신더휴 하이엔에듀포레"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940022&pblancNo=2025940022&houseSecd=11",
 		"in_date": "20250213",
 		"hsecd": "11",
