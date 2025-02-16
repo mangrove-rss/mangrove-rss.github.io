@@ -1,29 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940022&pblancNo=2025940022&houseSecd=11",
-		"in_date": "20250213",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "e편한세상 옥정 리더스가든(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940019&pblancNo=2025940019&houseSecd=11",
-		"in_date": "20250213",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "롯데캐슬 위너스포레"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940015&pblancNo=2025940015&houseSecd=11",
-		"in_date": "20250213",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "힐스테이트 탑석(4차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940024&pblancNo=2025940024&houseSecd=11",
 		"in_date": "20250214",
 		"hsecd": "11",
@@ -216,6 +192,22 @@
 		"apply_nums": "12세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940025&pblancNo=2025940025&houseSecd=11",
+		"in_date": "20250219",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "광명 유승한내들 라포레"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940028&pblancNo=2025940028&houseSecd=11",
+		"in_date": "20250219",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "창동 다우아트리체"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940033&pblancNo=2025940033&houseSecd=11",
 		"in_date": "20250219",
 		"hsecd": "11",
@@ -284,6 +276,22 @@
 		"apply_nums": "2세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940028&pblancNo=2025940028&houseSecd=11",
+		"in_date": "20250220",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "창동 다우아트리체"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940026&pblancNo=2025940026&houseSecd=11",
+		"in_date": "20250220",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "호반써밋 개봉(3차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000015&pblancNo=2025000015&houseSecd=01",
 		"in_date": "20250221",
 		"hsecd": "01",
@@ -334,6 +342,14 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "영등포구",
 		"apply_nums": "2세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940026&pblancNo=2025940026&houseSecd=11",
+		"in_date": "20250221",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "호반써밋 개봉(3차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950006&pblancNo=2025950006&houseSecd=02",
