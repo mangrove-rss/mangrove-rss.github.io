@@ -1,21 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940024&pblancNo=2025940024&houseSecd=11",
-		"in_date": "20250214",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "부천아테라자이(부천괴안지구 B-2블록) 4차"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940015&pblancNo=2025940015&houseSecd=11",
-		"in_date": "20250214",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "힐스테이트 탑석(4차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850002&pblancNo=2025850002&houseSecd=03",
 		"in_date": "20250217",
 		"hsecd": "03",
@@ -276,6 +260,14 @@
 		"apply_nums": "2세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940032&pblancNo=2025940032&houseSecd=11",
+		"in_date": "20250220",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "아크로 베스티뉴"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940028&pblancNo=2025940028&houseSecd=11",
 		"in_date": "20250220",
 		"hsecd": "11",
@@ -456,6 +448,19 @@
 		"apply_nums": "2세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910030&pblancNo=2025910030&houseSecd=04",
+		"in_date": "20250224",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "에스아이팰리스 올림픽공원 무순위(2차)",
+		"addr": "서울특별시 강동구 성내동 459-3",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "18세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000005&pblancNo=2025000005&houseSecd=01",
 		"in_date": "20250225",
 		"hsecd": "01",
@@ -519,6 +524,19 @@
 		"addr_lv1": "경상남도",
 		"addr_lv2": "김해시",
 		"apply_nums": "10세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910030&pblancNo=2025910030&houseSecd=04",
+		"in_date": "20250225",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "에스아이팰리스 올림픽공원 무순위(2차)",
+		"addr": "서울특별시 강동구 성내동 459-3",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "18세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000005&pblancNo=2025000005&houseSecd=01",
