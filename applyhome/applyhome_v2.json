@@ -336,6 +336,14 @@
 		"apply_nums": "2세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940035&pblancNo=2025940035&houseSecd=11",
+		"in_date": "20250221",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "센텀파크 SK VIEW"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940026&pblancNo=2025940026&houseSecd=11",
 		"in_date": "20250221",
 		"hsecd": "11",
@@ -448,6 +456,19 @@
 		"apply_nums": "2세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910031&pblancNo=2025910031&houseSecd=04",
+		"in_date": "20250224",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "그란츠 리버파크",
+		"addr": "서울특별시 강동구 성내동 15번지 일원",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "21세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910030&pblancNo=2025910030&houseSecd=04",
 		"in_date": "20250224",
 		"hsecd": "04",
@@ -459,6 +480,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "강동구",
 		"apply_nums": "18세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930003&pblancNo=2025930003&houseSecd=06",
+		"in_date": "20250224",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "평택 고덕국제신도시 힐스테이트 고덕 스카이시티",
+		"addr": "경기도 평택시 고덕국제대로 99, 힐스테이트 고덕 스카이시티",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "2세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000005&pblancNo=2025000005&houseSecd=01",
@@ -526,6 +560,19 @@
 		"apply_nums": "10세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910031&pblancNo=2025910031&houseSecd=04",
+		"in_date": "20250225",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "그란츠 리버파크",
+		"addr": "서울특별시 강동구 성내동 15번지 일원",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "21세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910030&pblancNo=2025910030&houseSecd=04",
 		"in_date": "20250225",
 		"hsecd": "04",
@@ -537,6 +584,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "강동구",
 		"apply_nums": "18세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930003&pblancNo=2025930003&houseSecd=06",
+		"in_date": "20250225",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "평택 고덕국제신도시 힐스테이트 고덕 스카이시티",
+		"addr": "경기도 평택시 고덕국제대로 99, 힐스테이트 고덕 스카이시티",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "2세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000005&pblancNo=2025000005&houseSecd=01",
