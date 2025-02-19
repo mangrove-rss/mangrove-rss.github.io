@@ -495,6 +495,30 @@
 		"apply_nums": "2세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940039&pblancNo=2025940039&houseSecd=11",
+		"in_date": "20250224",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "도마 포레나해모로"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940037&pblancNo=2025940037&houseSecd=11",
+		"in_date": "20250224",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천 임의공급(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940038&pblancNo=2025940038&houseSecd=11",
+		"in_date": "20250224",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "문산역3차 동문 디 이스트 센트럴(2차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000005&pblancNo=2025000005&houseSecd=01",
 		"in_date": "20250225",
 		"hsecd": "01",
@@ -586,6 +610,58 @@
 		"apply_nums": "18세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910036&pblancNo=2025910036&houseSecd=04",
+		"in_date": "20250225",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "의왕 월암지구 대방 디에트르 레이크파크",
+		"addr": "경기도 의왕시 월암동 공공주택지구 B2블록(경기도 의왕시 월암동 219-3일원)",
+		"short_addr": "경기도 의왕시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "의왕시",
+		"apply_nums": "68세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910035&pblancNo=2025910035&houseSecd=04",
+		"in_date": "20250225",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "효성해링턴 플레이스 동수원",
+		"addr": "경기도 수원시 팔달구 우만동 436번지",
+		"short_addr": "경기도 수원시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "수원시",
+		"apply_nums": "28세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910028&pblancNo=2025910028&houseSecd=04",
+		"in_date": "20250225",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "효성해링턴 플레이스 목감역(무순위 11차)",
+		"addr": "경기도 시흥시 논곡동 378",
+		"short_addr": "경기도 시흥시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "시흥시",
+		"apply_nums": "9세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930001&pblancNo=2025930001&houseSecd=06",
+		"in_date": "20250225",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "파주운정신도시 A49블록 시티프라디움",
+		"addr": "경기도 파주시 심학산로 161(경기도 파주시 운정신도시 A49BL)",
+		"short_addr": "경기도 파주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "파주시",
+		"apply_nums": "1세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930003&pblancNo=2025930003&houseSecd=06",
 		"in_date": "20250225",
 		"hsecd": "06",
@@ -597,6 +673,22 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "평택시",
 		"apply_nums": "2세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940037&pblancNo=2025940037&houseSecd=11",
+		"in_date": "20250225",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천 임의공급(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940038&pblancNo=2025940038&houseSecd=11",
+		"in_date": "20250225",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "문산역3차 동문 디 이스트 센트럴(2차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000005&pblancNo=2025000005&houseSecd=01",
@@ -662,5 +754,55 @@
 		"addr_lv1": "경상남도",
 		"addr_lv2": "김해시",
 		"apply_nums": "10세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910036&pblancNo=2025910036&houseSecd=04",
+		"in_date": "20250226",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "의왕 월암지구 대방 디에트르 레이크파크",
+		"addr": "경기도 의왕시 월암동 공공주택지구 B2블록(경기도 의왕시 월암동 219-3일원)",
+		"short_addr": "경기도 의왕시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "의왕시",
+		"apply_nums": "68세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910035&pblancNo=2025910035&houseSecd=04",
+		"in_date": "20250226",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "효성해링턴 플레이스 동수원",
+		"addr": "경기도 수원시 팔달구 우만동 436번지",
+		"short_addr": "경기도 수원시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "수원시",
+		"apply_nums": "28세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940037&pblancNo=2025940037&houseSecd=11",
+		"in_date": "20250226",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천 임의공급(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940037&pblancNo=2025940037&houseSecd=11",
+		"in_date": "20250227",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천 임의공급(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940037&pblancNo=2025940037&houseSecd=11",
+		"in_date": "20250228",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천 임의공급(2차)"
 	}
 ]
