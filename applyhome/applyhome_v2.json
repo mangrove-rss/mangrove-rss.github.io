@@ -1,64 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850002&pblancNo=2025850002&houseSecd=03",
-		"in_date": "20250217",
-		"hsecd": "03",
-		"rse": "04",
-		"type": "",
-		"name": "서울은평뉴타운 디에트르 더 퍼스트"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910025&pblancNo=2025910025&houseSecd=04",
-		"in_date": "20250217",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "광주태전 경남아너스빌 리미티드(2차)",
-		"addr": "경기도 광주시 장지동 695-14번지 일원",
-		"short_addr": "경기도 광주시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "광주시",
-		"apply_nums": "8세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910022&pblancNo=2025910022&houseSecd=04",
-		"in_date": "20250217",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "어반클라쎄목동(6차)",
-		"addr": "서울특별시 양천구 신목로2길 7-12 (신정동, 어반클라쎄 목동)",
-		"short_addr": "서울특별시 양천구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "양천구",
-		"apply_nums": "12세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940023&pblancNo=2025940023&houseSecd=11",
-		"in_date": "20250217",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "e편한세상 동인천 베이프런트"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940013&pblancNo=2025940013&houseSecd=11",
-		"in_date": "20250217",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "곤지암역 센트럴 아이파크"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940021&pblancNo=2025940021&houseSecd=11",
-		"in_date": "20250217",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "용인 푸르지오 원클러스터 1단지"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850002&pblancNo=2025850002&houseSecd=03",
 		"in_date": "20250218",
 		"hsecd": "03",
 		"rse": "04",
@@ -675,6 +617,14 @@
 		"apply_nums": "2세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940040&pblancNo=2025940040&houseSecd=11",
+		"in_date": "20250225",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "고촌센트럴자이 임의공급(2차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940037&pblancNo=2025940037&houseSecd=11",
 		"in_date": "20250225",
 		"hsecd": "11",
@@ -689,6 +639,14 @@
 		"rse": "11",
 		"type": "",
 		"name": "문산역3차 동문 디 이스트 센트럴(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940034&pblancNo=2025940034&houseSecd=11",
+		"in_date": "20250225",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "번영로 하늘채 라크뷰"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000005&pblancNo=2025000005&houseSecd=01",
@@ -756,6 +714,19 @@
 		"apply_nums": "10세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950004&pblancNo=2025950004&houseSecd=02",
+		"in_date": "20250226",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "마포 뉴매드",
+		"addr": "서울특별시 마포구 마포동 195-1외 36필지",
+		"short_addr": "서울특별시 마포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "마포구",
+		"apply_nums": "9세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910036&pblancNo=2025910036&houseSecd=04",
 		"in_date": "20250226",
 		"hsecd": "04",
@@ -782,12 +753,49 @@
 		"apply_nums": "28세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940040&pblancNo=2025940040&houseSecd=11",
+		"in_date": "20250226",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "고촌센트럴자이 임의공급(2차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940037&pblancNo=2025940037&houseSecd=11",
 		"in_date": "20250226",
 		"hsecd": "11",
 		"rse": "11",
 		"type": "",
 		"name": "리아츠 더 인천 임의공급(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940034&pblancNo=2025940034&houseSecd=11",
+		"in_date": "20250226",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "번영로 하늘채 라크뷰"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950004&pblancNo=2025950004&houseSecd=02",
+		"in_date": "20250227",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "마포 뉴매드",
+		"addr": "서울특별시 마포구 마포동 195-1외 36필지",
+		"short_addr": "서울특별시 마포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "마포구",
+		"apply_nums": "9세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940040&pblancNo=2025940040&houseSecd=11",
+		"in_date": "20250227",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "고촌센트럴자이 임의공급(2차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940037&pblancNo=2025940037&houseSecd=11",
@@ -798,11 +806,183 @@
 		"name": "리아츠 더 인천 임의공급(2차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940034&pblancNo=2025940034&houseSecd=11",
+		"in_date": "20250227",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "번영로 하늘채 라크뷰"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940037&pblancNo=2025940037&houseSecd=11",
 		"in_date": "20250228",
 		"hsecd": "11",
 		"rse": "11",
 		"type": "",
 		"name": "리아츠 더 인천 임의공급(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940034&pblancNo=2025940034&houseSecd=11",
+		"in_date": "20250228",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "번영로 하늘채 라크뷰"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000028&pblancNo=2025000028&houseSecd=01",
+		"in_date": "20250304",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "e편한세상 동대구역 센텀스퀘어",
+		"addr": "대구광역시 동구 신천동 328-1번지 일원",
+		"short_addr": "대구광역시 동구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "동구",
+		"apply_nums": "322세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000036&pblancNo=2025000036&houseSecd=01",
+		"in_date": "20250304",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "e편한세상 성성호수공원",
+		"addr": "충청남도 천안시 서북구 업성동 465-6번지 일원",
+		"short_addr": "충청남도 천안시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "천안시",
+		"apply_nums": "1498세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000020&pblancNo=2025000020&houseSecd=01",
+		"in_date": "20250304",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "e편한세상 제물포역 파크메종(조합원 취소분)",
+		"addr": "인천광역시 미추홀구 숭의동 18번지 일대",
+		"short_addr": "인천광역시 미추홀구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "미추홀구",
+		"apply_nums": "29세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950008&pblancNo=2025950008&houseSecd=02",
+		"in_date": "20250304",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "상월곡역 장위아트포레(도시형생활주택)",
+		"addr": "서울특별시 성북구 석관동 338-18 ",
+		"short_addr": "서울특별시 성북구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "성북구",
+		"apply_nums": "6세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000028&pblancNo=2025000028&houseSecd=01",
+		"in_date": "20250305",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "e편한세상 동대구역 센텀스퀘어",
+		"addr": "대구광역시 동구 신천동 328-1번지 일원",
+		"short_addr": "대구광역시 동구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "동구",
+		"apply_nums": "322세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000036&pblancNo=2025000036&houseSecd=01",
+		"in_date": "20250305",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "e편한세상 성성호수공원",
+		"addr": "충청남도 천안시 서북구 업성동 465-6번지 일원",
+		"short_addr": "충청남도 천안시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "천안시",
+		"apply_nums": "1498세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000020&pblancNo=2025000020&houseSecd=01",
+		"in_date": "20250305",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "e편한세상 제물포역 파크메종(조합원 취소분)",
+		"addr": "인천광역시 미추홀구 숭의동 18번지 일대",
+		"short_addr": "인천광역시 미추홀구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "미추홀구",
+		"apply_nums": "29세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950008&pblancNo=2025950008&houseSecd=02",
+		"in_date": "20250305",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "상월곡역 장위아트포레(도시형생활주택)",
+		"addr": "서울특별시 성북구 석관동 338-18 ",
+		"short_addr": "서울특별시 성북구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "성북구",
+		"apply_nums": "6세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000028&pblancNo=2025000028&houseSecd=01",
+		"in_date": "20250306",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "e편한세상 동대구역 센텀스퀘어",
+		"addr": "대구광역시 동구 신천동 328-1번지 일원",
+		"short_addr": "대구광역시 동구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "동구",
+		"apply_nums": "322세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000036&pblancNo=2025000036&houseSecd=01",
+		"in_date": "20250306",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "e편한세상 성성호수공원",
+		"addr": "충청남도 천안시 서북구 업성동 465-6번지 일원",
+		"short_addr": "충청남도 천안시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "천안시",
+		"apply_nums": "1498세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000020&pblancNo=2025000020&houseSecd=01",
+		"in_date": "20250306",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "e편한세상 제물포역 파크메종(조합원 취소분)",
+		"addr": "인천광역시 미추홀구 숭의동 18번지 일대",
+		"short_addr": "인천광역시 미추홀구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "미추홀구",
+		"apply_nums": "29세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950008&pblancNo=2025950008&houseSecd=02",
+		"in_date": "20250306",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "상월곡역 장위아트포레(도시형생활주택)",
+		"addr": "서울특별시 성북구 석관동 338-18 ",
+		"short_addr": "서울특별시 성북구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "성북구",
+		"apply_nums": "6세대"
 	}
 ]
