@@ -1,63 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850002&pblancNo=2025850002&houseSecd=03",
-		"in_date": "20250218",
-		"hsecd": "03",
-		"rse": "04",
-		"type": "",
-		"name": "서울은평뉴타운 디에트르 더 퍼스트"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950007&pblancNo=2025950007&houseSecd=02",
-		"in_date": "20250218",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "여의도 현대마에스트로",
-		"addr": "서울특별시 영등포구 여의도동15-11번지",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "9세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910022&pblancNo=2025910022&houseSecd=04",
-		"in_date": "20250218",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "어반클라쎄목동(6차)",
-		"addr": "서울특별시 양천구 신목로2길 7-12 (신정동, 어반클라쎄 목동)",
-		"short_addr": "서울특별시 양천구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "양천구",
-		"apply_nums": "12세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940029&pblancNo=2025940029&houseSecd=11",
-		"in_date": "20250218",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "서대문 센트럴 아이파크(3차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940027&pblancNo=2025940027&houseSecd=11",
-		"in_date": "20250218",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "자라섬 수자인 리버페스타"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940033&pblancNo=2025940033&houseSecd=11",
-		"in_date": "20250218",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "천호역 마에스트로(3차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000703&pblancNo=2024000703&houseSecd=01",
 		"in_date": "20250219",
 		"hsecd": "01",
@@ -544,12 +486,7 @@
 		"hsecd": "04",
 		"rse": "06",
 		"type": "무순위/취소후재공급",
-		"name": "에스아이팰리스 올림픽공원 무순위(2차)",
-		"addr": "서울특별시 강동구 성내동 459-3",
-		"short_addr": "서울특별시 강동구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강동구",
-		"apply_nums": "18세대"
+		"name": "에스아이팰리스 올림픽공원 무순위(2차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910036&pblancNo=2025910036&houseSecd=04",
@@ -869,6 +806,32 @@
 		"apply_nums": "29세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000037&pblancNo=2025000037&houseSecd=01",
+		"in_date": "20250304",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "문수로 센트레빌 에듀리체",
+		"addr": "울산광역시 남구 신정동 1151-1번지 일원",
+		"short_addr": "울산광역시 남구",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "368세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000025&pblancNo=2025000025&houseSecd=01",
+		"in_date": "20250304",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "진월 더리브 라포레",
+		"addr": "광주광역시 남구 진월동 산3번지 일원",
+		"short_addr": "광주광역시 남구",
+		"addr_lv1": "광주광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "111세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950008&pblancNo=2025950008&houseSecd=02",
 		"in_date": "20250304",
 		"hsecd": "02",
@@ -921,6 +884,32 @@
 		"apply_nums": "29세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000037&pblancNo=2025000037&houseSecd=01",
+		"in_date": "20250305",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "문수로 센트레빌 에듀리체",
+		"addr": "울산광역시 남구 신정동 1151-1번지 일원",
+		"short_addr": "울산광역시 남구",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "368세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000025&pblancNo=2025000025&houseSecd=01",
+		"in_date": "20250305",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "진월 더리브 라포레",
+		"addr": "광주광역시 남구 진월동 산3번지 일원",
+		"short_addr": "광주광역시 남구",
+		"addr_lv1": "광주광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "111세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950008&pblancNo=2025950008&houseSecd=02",
 		"in_date": "20250305",
 		"hsecd": "02",
@@ -971,6 +960,32 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "미추홀구",
 		"apply_nums": "29세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000037&pblancNo=2025000037&houseSecd=01",
+		"in_date": "20250306",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "문수로 센트레빌 에듀리체",
+		"addr": "울산광역시 남구 신정동 1151-1번지 일원",
+		"short_addr": "울산광역시 남구",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "368세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000025&pblancNo=2025000025&houseSecd=01",
+		"in_date": "20250306",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "진월 더리브 라포레",
+		"addr": "광주광역시 남구 진월동 산3번지 일원",
+		"short_addr": "광주광역시 남구",
+		"addr_lv1": "광주광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "111세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950008&pblancNo=2025950008&houseSecd=02",
