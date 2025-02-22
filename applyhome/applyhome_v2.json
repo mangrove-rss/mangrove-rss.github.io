@@ -1,89 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000703&pblancNo=2024000703&houseSecd=01",
-		"in_date": "20250219",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "대전 롯데캐슬 더퍼스트",
-		"addr": "대전광역시 동구 가오동 394번지 일원",
-		"short_addr": "대전광역시 동구",
-		"addr_lv1": "대전광역시",
-		"addr_lv2": "동구",
-		"apply_nums": "394세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850001&pblancNo=2025850001&houseSecd=03",
-		"in_date": "20250219",
-		"hsecd": "03",
-		"rse": "04",
-		"type": "",
-		"name": "엘리프 옥정 시그니처"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950006&pblancNo=2025950006&houseSecd=02",
-		"in_date": "20250219",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "당산역 한강 더채움",
-		"addr": "서울특별시 영등포구 당산동6가 280-1, 9번지",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "2세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910024&pblancNo=2025910024&houseSecd=04",
-		"in_date": "20250219",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "브라운스톤 여월(2차)",
-		"addr": "경기도 부천시 오정구 성곡로 28번길 43(여월동 9-28)",
-		"short_addr": "경기도 부천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "부천시",
-		"apply_nums": "1세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910022&pblancNo=2025910022&houseSecd=04",
-		"in_date": "20250219",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "어반클라쎄목동(6차)",
-		"addr": "서울특별시 양천구 신목로2길 7-12 (신정동, 어반클라쎄 목동)",
-		"short_addr": "서울특별시 양천구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "양천구",
-		"apply_nums": "12세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940025&pblancNo=2025940025&houseSecd=11",
-		"in_date": "20250219",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "광명 유승한내들 라포레"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940028&pblancNo=2025940028&houseSecd=11",
-		"in_date": "20250219",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "창동 다우아트리체"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940033&pblancNo=2025940033&houseSecd=11",
-		"in_date": "20250219",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "천호역 마에스트로(3차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000015&pblancNo=2025000015&houseSecd=01",
 		"in_date": "20250220",
 		"hsecd": "01",
@@ -486,7 +402,12 @@
 		"hsecd": "04",
 		"rse": "06",
 		"type": "무순위/취소후재공급",
-		"name": "에스아이팰리스 올림픽공원 무순위(2차)"
+		"name": "에스아이팰리스 올림픽공원 무순위(2차)",
+		"addr": "서울특별시 강동구 성내동 459-3",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "18세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910036&pblancNo=2025910036&houseSecd=04",
