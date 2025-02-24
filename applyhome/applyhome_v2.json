@@ -1,73 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000015&pblancNo=2025000015&houseSecd=01",
-		"in_date": "20250221",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "광주첨단2지구 사랑으로 부영 분양전환 후 잔여세대",
-		"addr": "광주광역시 북구 첨단연신로 166 (신용동, 광주첨단2지구사랑으로부영)",
-		"short_addr": "광주광역시 북구",
-		"addr_lv1": "광주광역시",
-		"addr_lv2": "북구",
-		"apply_nums": "176세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000703&pblancNo=2024000703&houseSecd=01",
-		"in_date": "20250221",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "대전 롯데캐슬 더퍼스트",
-		"addr": "대전광역시 동구 가오동 394번지 일원",
-		"short_addr": "대전광역시 동구",
-		"addr_lv1": "대전광역시",
-		"addr_lv2": "동구",
-		"apply_nums": "394세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000014&pblancNo=2025000014&houseSecd=01",
-		"in_date": "20250221",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "평택청북 사랑으로 부영 2차 아파트 우선분양 전환 후 잔여세대",
-		"addr": "경기도 평택시 청북읍 청북남로 277 (부영사랑으로)",
-		"short_addr": "경기도 평택시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "평택시",
-		"apply_nums": "39세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950006&pblancNo=2025950006&houseSecd=02",
-		"in_date": "20250221",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "당산역 한강 더채움",
-		"addr": "서울특별시 영등포구 당산동6가 280-1, 9번지",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "2세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940035&pblancNo=2025940035&houseSecd=11",
-		"in_date": "20250221",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "센텀파크 SK VIEW"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940026&pblancNo=2025940026&houseSecd=11",
-		"in_date": "20250221",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "호반써밋 개봉(3차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950006&pblancNo=2025950006&houseSecd=02",
 		"in_date": "20250222",
 		"hsecd": "02",
@@ -612,6 +544,14 @@
 		"name": "번영로 하늘채 라크뷰"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940043&pblancNo=2025940043&houseSecd=11",
+		"in_date": "20250227",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "엘리프 성남 더 에듀 2단지"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940031&pblancNo=2025940031&houseSecd=11",
 		"in_date": "20250227",
 		"hsecd": "11",
@@ -634,6 +574,22 @@
 		"rse": "11",
 		"type": "",
 		"name": "번영로 하늘채 라크뷰"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940043&pblancNo=2025940043&houseSecd=11",
+		"in_date": "20250228",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "엘리프 성남 더 에듀 2단지"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940030&pblancNo=2025940030&houseSecd=11",
+		"in_date": "20250228",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "인하대역 푸르지오 에듀포레"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000028&pblancNo=2025000028&houseSecd=01",
@@ -732,7 +688,7 @@
 		"hsecd": "04",
 		"rse": "06",
 		"type": "무순위/취소후재공급",
-		"name": "파주운정 경남아너스빌 리버(A48블록)",
+		"name": "파주운정 경남아너스빌 리버(A48블록)(무순위)",
 		"addr": "경기도 파주시 파주운정3지구 A48BL 공동주택용지",
 		"short_addr": "경기도 파주시",
 		"addr_lv1": "경기도",
