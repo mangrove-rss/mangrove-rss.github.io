@@ -1,19 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950006&pblancNo=2025950006&houseSecd=02",
-		"in_date": "20250222",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "당산역 한강 더채움",
-		"addr": "서울특별시 영등포구 당산동6가 280-1, 9번지",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "2세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950006&pblancNo=2025950006&houseSecd=02",
 		"in_date": "20250223",
 		"hsecd": "02",
 		"rse": "05",
@@ -560,6 +547,14 @@
 		"name": "포레나 인천학익(2차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940044&pblancNo=2025940044&houseSecd=11",
+		"in_date": "20250228",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "검단신도시 푸르지오 더 파크(2차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940037&pblancNo=2025940037&houseSecd=11",
 		"in_date": "20250228",
 		"hsecd": "11",
@@ -582,6 +577,22 @@
 		"rse": "11",
 		"type": "",
 		"name": "엘리프 성남 더 에듀 2단지"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940045&pblancNo=2025940045&houseSecd=11",
+		"in_date": "20250228",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "연신내 양우내안애 퍼스티지(4차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940041&pblancNo=2025940041&houseSecd=11",
+		"in_date": "20250228",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "원주 동문 디 이스트"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940030&pblancNo=2025940030&houseSecd=11",
@@ -694,6 +705,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "파주시",
 		"apply_nums": "2세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930006&pblancNo=2025930006&houseSecd=06",
+		"in_date": "20250304",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "세종자이 더 시티 L1블록(산울마을2단지)",
+		"addr": "세종특별자치시 산울동 259번지 일원(행정중심복합도시 6-3생활권 L1블록)",
+		"short_addr": "세종특별자치시 산울동",
+		"addr_lv1": "세종특별자치시",
+		"addr_lv2": "산울동",
+		"apply_nums": "1세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930004&pblancNo=2025930004&houseSecd=06",
