@@ -1,18 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950006&pblancNo=2025950006&houseSecd=02",
-		"in_date": "20250223",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "당산역 한강 더채움",
-		"addr": "서울특별시 영등포구 당산동6가 280-1, 9번지",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "2세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000005&pblancNo=2025000005&houseSecd=01",
 		"in_date": "20250224",
 		"hsecd": "01",
@@ -603,6 +590,14 @@
 		"name": "인하대역 푸르지오 에듀포레"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940047&pblancNo=2025940047&houseSecd=11",
+		"in_date": "20250228",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "힐스테이트 도안리버파크 3단지"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000028&pblancNo=2025000028&houseSecd=01",
 		"in_date": "20250304",
 		"hsecd": "01",
@@ -679,6 +674,32 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "성북구",
 		"apply_nums": "6세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910034&pblancNo=2025910034&houseSecd=04",
+		"in_date": "20250304",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "북수원이목지구 대방 디에트르 더 리체Ⅰ(3차)",
+		"addr": "경기도 수원시 장안구 이목동 종전부동산 이목지구 도시개발사업 A4블록 공동주택용지",
+		"short_addr": "경기도 수원시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "수원시",
+		"apply_nums": "56세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910041&pblancNo=2025910041&houseSecd=04",
+		"in_date": "20250304",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "북수원자이 렉스비아",
+		"addr": "경기도 수원시 장안구 정자동 530-6번지 일원",
+		"short_addr": "경기도 수원시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "수원시",
+		"apply_nums": "2세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910026&pblancNo=2025910026&houseSecd=04",
@@ -707,6 +728,32 @@
 		"apply_nums": "2세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910032&pblancNo=2025910032&houseSecd=04",
+		"in_date": "20250304",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "힐스테이트 용인 고진역 1단지",
+		"addr": "경기도 용인시 처인구 고림동 1026번지 ",
+		"short_addr": "경기도 용인시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "용인시",
+		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910033&pblancNo=2025910033&houseSecd=04",
+		"in_date": "20250304",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "힐스테이트 용인 고진역 2단지",
+		"addr": "경기도 용인시 처인구 고림동 1028번지 ",
+		"short_addr": "경기도 용인시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "용인시",
+		"apply_nums": "1세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930006&pblancNo=2025930006&houseSecd=06",
 		"in_date": "20250304",
 		"hsecd": "06",
@@ -731,6 +778,14 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "파주시",
 		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940042&pblancNo=2025940042&houseSecd=11",
+		"in_date": "20250304",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "서울원 아이파크"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000028&pblancNo=2025000028&houseSecd=01",
@@ -809,6 +864,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "성북구",
 		"apply_nums": "6세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910034&pblancNo=2025910034&houseSecd=04",
+		"in_date": "20250305",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "북수원이목지구 대방 디에트르 더 리체Ⅰ(3차)",
+		"addr": "경기도 수원시 장안구 이목동 종전부동산 이목지구 도시개발사업 A4블록 공동주택용지",
+		"short_addr": "경기도 수원시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "수원시",
+		"apply_nums": "56세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000028&pblancNo=2025000028&houseSecd=01",
