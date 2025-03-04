@@ -393,6 +393,14 @@
 		"apply_nums": "6세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940054&pblancNo=2025940054&houseSecd=11",
+		"in_date": "20250307",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "부천아테라자이(부천괴안지구 B-2블록) 5차"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000047&pblancNo=2025000047&houseSecd=01",
 		"in_date": "20250310",
 		"hsecd": "01",
@@ -445,6 +453,14 @@
 		"apply_nums": "3세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940049&pblancNo=2025940049&houseSecd=11",
+		"in_date": "20250310",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "그란츠 리버파크(3차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000047&pblancNo=2025000047&houseSecd=01",
 		"in_date": "20250311",
 		"hsecd": "01",
@@ -482,6 +498,14 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "성남시",
 		"apply_nums": "15세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940049&pblancNo=2025940049&houseSecd=11",
+		"in_date": "20250311",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "그란츠 리버파크(3차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000047&pblancNo=2025000047&houseSecd=01",
