@@ -453,6 +453,14 @@
 		"apply_nums": "3세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940051&pblancNo=2025940051&houseSecd=11",
+		"in_date": "20250310",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "개봉 루브루(5차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940049&pblancNo=2025940049&houseSecd=11",
 		"in_date": "20250310",
 		"hsecd": "11",
@@ -498,6 +506,27 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "성남시",
 		"apply_nums": "15세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910043&pblancNo=2025910043&houseSecd=04",
+		"in_date": "20250311",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "곤지암역 제일풍경채 (3차)",
+		"addr": "경기도 광주시 곤지암읍 곤지암리 636번지(곤지암역세권  A1-1블록)",
+		"short_addr": "경기도 광주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "광주시",
+		"apply_nums": "25세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940051&pblancNo=2025940051&houseSecd=11",
+		"in_date": "20250311",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "개봉 루브루(5차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940049&pblancNo=2025940049&houseSecd=11",
