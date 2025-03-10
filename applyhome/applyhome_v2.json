@@ -1,13 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940054&pblancNo=2025940054&houseSecd=11",
-		"in_date": "20250307",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "부천아테라자이(부천괴안지구 B-2블록) 5차"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000047&pblancNo=2025000047&houseSecd=01",
 		"in_date": "20250310",
 		"hsecd": "01",
@@ -228,6 +220,35 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "송파구",
 		"apply_nums": "5세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940048&pblancNo=2025940048&houseSecd=11",
+		"in_date": "20250313",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "가양동 다우갤러리 휴리움"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940048&pblancNo=2025940048&houseSecd=11",
+		"in_date": "20250314",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "가양동 다우갤러리 휴리움"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950009&pblancNo=2025950009&houseSecd=02",
+		"in_date": "20250317",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "더샵 강동센트럴시티",
+		"addr": "서울특별시 강동구 천호동 400-100번지 일대",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "6세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910044&pblancNo=2025910044&houseSecd=04",
