@@ -251,6 +251,19 @@
 		"apply_nums": "6세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910047&pblancNo=2025910047&houseSecd=04",
+		"in_date": "20250317",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "광주태전 경남아너스빌 리미티드(3차)",
+		"addr": "경기도 광주시 장지동 695-14",
+		"short_addr": "경기도 광주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "광주시",
+		"apply_nums": "5세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910044&pblancNo=2025910044&houseSecd=04",
 		"in_date": "20250317",
 		"hsecd": "04",
@@ -264,6 +277,19 @@
 		"apply_nums": "3세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910046&pblancNo=2025910046&houseSecd=04",
+		"in_date": "20250317",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "힐스테이트 광교중앙역 퍼스트",
+		"addr": "경기도 수원시 영통구 광교택지개발지구 C6블록",
+		"short_addr": "경기도 수원시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "수원시",
+		"apply_nums": "1세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930010&pblancNo=2025930010&houseSecd=06",
 		"in_date": "20250317",
 		"hsecd": "06",
@@ -275,5 +301,18 @@
 		"addr_lv1": "경상남도",
 		"addr_lv2": "창원시",
 		"apply_nums": "3세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930011&pblancNo=2025930011&houseSecd=06",
+		"in_date": "20250317",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "힐스테이트 광교중앙역 퍼스트 (계약취소주택)",
+		"addr": "경기도 수원시 영통구 광교택지개발지구 C6블록",
+		"short_addr": "경기도 수원시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "수원시",
+		"apply_nums": "1세대"
 	}
 ]
