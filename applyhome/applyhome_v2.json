@@ -1,74 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000047&pblancNo=2025000047&houseSecd=01",
-		"in_date": "20250310",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "안동 용상 하늘채 리버스카이",
-		"addr": "경상북도 안동시 용상동 494번지 일원",
-		"short_addr": "경상북도 안동시",
-		"addr_lv1": "경상북도",
-		"addr_lv2": "안동시",
-		"apply_nums": "548세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000043&pblancNo=2025000043&houseSecd=01",
-		"in_date": "20250310",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "부천 JY 포에시아",
-		"addr": "경기도 부천시 원미구 신흥로 20 ",
-		"short_addr": "경기도 부천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "부천시",
-		"apply_nums": "55세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000032&pblancNo=2025000032&houseSecd=01",
-		"in_date": "20250310",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "성남판교 산운마을9단지 대방노블랜드 아파트 우선 분양전환 후 잔여세대(15세대)",
-		"addr": "경기도 성남시 분당구 산운로 126 (운중동, 산운마을)",
-		"short_addr": "경기도 성남시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "성남시",
-		"apply_nums": "15세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910045&pblancNo=2025910045&houseSecd=04",
-		"in_date": "20250310",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "천왕역 모아엘가 트레뷰(8차)",
-		"addr": "서울특별시 구로구 오류동 213-1번지 일원",
-		"short_addr": "서울특별시 구로구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "구로구",
-		"apply_nums": "3세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940051&pblancNo=2025940051&houseSecd=11",
-		"in_date": "20250310",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "개봉 루브루(5차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940049&pblancNo=2025940049&houseSecd=11",
-		"in_date": "20250310",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "그란츠 리버파크(3차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000047&pblancNo=2025000047&houseSecd=01",
 		"in_date": "20250311",
 		"hsecd": "01",
 		"rse": "02",
@@ -314,5 +246,128 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "수원시",
 		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940057&pblancNo=2025940057&houseSecd=11",
+		"in_date": "20250317",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "세종 5-1 양우내안애 아스펜"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940058&pblancNo=2025940058&houseSecd=11",
+		"in_date": "20250318",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "엘리프 하이디움 1단지"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940055&pblancNo=2025940055&houseSecd=11",
+		"in_date": "20250318",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "인하대역 푸르지오 에듀포레(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910037&pblancNo=2025910037&houseSecd=04",
+		"in_date": "20250319",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "당진 수청2지구 RH-3블록 호반써밋 시그니처 3차",
+		"addr": "충청남도 당진시 수청동 1543",
+		"short_addr": "충청남도 당진시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "당진시",
+		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940058&pblancNo=2025940058&houseSecd=11",
+		"in_date": "20250319",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "엘리프 하이디움 1단지"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000749&pblancNo=2024000749&houseSecd=01",
+		"in_date": "20250324",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "본 아르떼 리버뷰",
+		"addr": "전북특별자치도 전주시 완산구 쑥고개로 398-13 외",
+		"short_addr": "전북특별자치도 전주시",
+		"addr_lv1": "전북특별자치도",
+		"addr_lv2": "전주시",
+		"apply_nums": "277세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000064&pblancNo=2025000064&houseSecd=01",
+		"in_date": "20250324",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "원주역 중흥S-클래스",
+		"addr": "강원특별자치도 원주시 남원주역세권 A-2블록 (무실동 1925번지)",
+		"short_addr": "강원특별자치도 원주시",
+		"addr_lv1": "강원특별자치도",
+		"addr_lv2": "원주시",
+		"apply_nums": "508세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000749&pblancNo=2024000749&houseSecd=01",
+		"in_date": "20250325",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "본 아르떼 리버뷰",
+		"addr": "전북특별자치도 전주시 완산구 쑥고개로 398-13 외",
+		"short_addr": "전북특별자치도 전주시",
+		"addr_lv1": "전북특별자치도",
+		"addr_lv2": "전주시",
+		"apply_nums": "277세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000064&pblancNo=2025000064&houseSecd=01",
+		"in_date": "20250325",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "원주역 중흥S-클래스",
+		"addr": "강원특별자치도 원주시 남원주역세권 A-2블록 (무실동 1925번지)",
+		"short_addr": "강원특별자치도 원주시",
+		"addr_lv1": "강원특별자치도",
+		"addr_lv2": "원주시",
+		"apply_nums": "508세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000749&pblancNo=2024000749&houseSecd=01",
+		"in_date": "20250326",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "본 아르떼 리버뷰",
+		"addr": "전북특별자치도 전주시 완산구 쑥고개로 398-13 외",
+		"short_addr": "전북특별자치도 전주시",
+		"addr_lv1": "전북특별자치도",
+		"addr_lv2": "전주시",
+		"apply_nums": "277세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000064&pblancNo=2025000064&houseSecd=01",
+		"in_date": "20250326",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "원주역 중흥S-클래스",
+		"addr": "강원특별자치도 원주시 남원주역세권 A-2블록 (무실동 1925번지)",
+		"short_addr": "강원특별자치도 원주시",
+		"addr_lv1": "강원특별자치도",
+		"addr_lv2": "원주시",
+		"apply_nums": "508세대"
 	}
 ]
