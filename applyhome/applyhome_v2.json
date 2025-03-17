@@ -1,13 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940048&pblancNo=2025940048&houseSecd=11",
-		"in_date": "20250314",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "가양동 다우갤러리 휴리움"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950009&pblancNo=2025950009&houseSecd=02",
 		"in_date": "20250317",
 		"hsecd": "02",
@@ -223,6 +215,32 @@
 		"apply_nums": "508세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910050&pblancNo=2025910050&houseSecd=04",
+		"in_date": "20250324",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "의왕 월암지구 대방 디에트르 레이크파크(2차)",
+		"addr": "경기도 의왕시 월암동 공공주택지구 B2블록(경기도 의왕시 월암동 219-3일원)",
+		"short_addr": "경기도 의왕시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "의왕시",
+		"apply_nums": "22세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930013&pblancNo=2025930013&houseSecd=06",
+		"in_date": "20250324",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "제일풍경채 검단Ⅳ",
+		"addr": "인천광역시 서구 불로동 검단신도시 AA22블록",
+		"short_addr": "인천광역시 서구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "1세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000063&pblancNo=2025000063&houseSecd=01",
 		"in_date": "20250325",
 		"hsecd": "01",
@@ -273,6 +291,19 @@
 		"addr_lv1": "강원특별자치도",
 		"addr_lv2": "원주시",
 		"apply_nums": "508세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910050&pblancNo=2025910050&houseSecd=04",
+		"in_date": "20250325",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "의왕 월암지구 대방 디에트르 레이크파크(2차)",
+		"addr": "경기도 의왕시 월암동 공공주택지구 B2블록(경기도 의왕시 월암동 219-3일원)",
+		"short_addr": "경기도 의왕시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "의왕시",
+		"apply_nums": "22세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000063&pblancNo=2025000063&houseSecd=01",
