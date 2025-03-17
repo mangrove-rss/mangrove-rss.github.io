@@ -112,12 +112,6 @@
 			<showrss:showname><![CDATA[ dx-010 ]]></showrss:showname>
 		</item>
 		<item>
-			<title><![CDATA[ xb-486 ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:ca33e544e32a809c3a22d7735177eaa6c90b7ec7 ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ xb-486 ]]></showrss:showname>
-		</item>
-		<item>
 			<title><![CDATA[ orecs-280 ]]></title>
 			<link><![CDATA[ magnet:?xt=urn:btih:6f16d7aa53edcbbebc33c04b6a1149e9a6893786 ]]></link>
 			<showrss:showid></showrss:showid>
@@ -154,10 +148,40 @@
 			<showrss:showname><![CDATA[ xb-472 ]]></showrss:showname>
 		</item>
 		<item>
-			<title><![CDATA[ acz-184 ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:08e992f5dd2f3bef5c7f30b9052cc5f5cff85d70 ]]></link>
+			<title><![CDATA[ xb-486 ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih:ca33e544e32a809c3a22d7735177eaa6c90b7ec7 ]]></link>
 			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ acz-184 ]]></showrss:showname>
+			<showrss:showname><![CDATA[ xb-486 ]]></showrss:showname>
+		</item>
+		<item>
+			<title><![CDATA[ xjx-0276 ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih:b7698849cf65b4a22b7be5363b5ec47d9dba168e ]]></link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ xjx-0276 ]]></showrss:showname>
+		</item>
+		<item>
+			<title><![CDATA[ xb-483 ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih:203c9148afc86a6c511eb9366bc8e657ec28a88b ]]></link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ xb-483 ]]></showrss:showname>
+		</item>
+		<item>
+			<title><![CDATA[ xb-472 ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih:9c7d630d2dbc3ed2ac0183459f70cbd866d3cf8f ]]></link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ xb-472 ]]></showrss:showname>
+		</item>
+		<item>
+			<title><![CDATA[ 031425-001-carib ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih:fd71dee84c571d259ffd7c617addff048f710258 ]]></link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ 031425-001-carib ]]></showrss:showname>
+		</item>
+		<item>
+			<title><![CDATA[ 031425-001-carib ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih:e1dc9abea4d1772fd9f1b739940cb4ff285fc109 ]]></link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ 031425-001-carib ]]></showrss:showname>
 		</item>
 		<item>
 			<title><![CDATA[ xjx-0274 ]]></title>
