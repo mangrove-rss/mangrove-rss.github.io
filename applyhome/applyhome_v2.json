@@ -283,6 +283,30 @@
 		"apply_nums": "1세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940064&pblancNo=2025940064&houseSecd=11",
+		"in_date": "20250324",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(3차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940066&pblancNo=2025940066&houseSecd=11",
+		"in_date": "20250324",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "양평동 동문 디 이스트(3차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940063&pblancNo=2025940063&houseSecd=11",
+		"in_date": "20250324",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "한신더휴 하이엔에듀포레(2차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000063&pblancNo=2025000063&houseSecd=01",
 		"in_date": "20250325",
 		"hsecd": "01",
@@ -361,6 +385,32 @@
 		"apply_nums": "22세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910052&pblancNo=2025910052&houseSecd=04",
+		"in_date": "20250325",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "파주 운정신도시 A39BL 호반써밋",
+		"addr": "경기도 파주시 운정3지구 A39블록",
+		"short_addr": "경기도 파주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "파주시",
+		"apply_nums": "4세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910049&pblancNo=2025910049&houseSecd=04",
+		"in_date": "20250325",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "효성해링턴 플레이스 목감역(무순위 12차)",
+		"addr": "경기도 시흥시 논곡동 378",
+		"short_addr": "경기도 시흥시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "시흥시",
+		"apply_nums": "9세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930012&pblancNo=2025930012&houseSecd=06",
 		"in_date": "20250325",
 		"hsecd": "06",
@@ -372,6 +422,14 @@
 		"addr_lv1": "전라남도",
 		"addr_lv2": "무안군",
 		"apply_nums": "4세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940064&pblancNo=2025940064&houseSecd=11",
+		"in_date": "20250325",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(3차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000063&pblancNo=2025000063&houseSecd=01",
@@ -424,5 +482,57 @@
 		"addr_lv1": "강원특별자치도",
 		"addr_lv2": "원주시",
 		"apply_nums": "508세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000078&pblancNo=2025000078&houseSecd=01",
+		"in_date": "20250331",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "선화동 참좋은아파트 우선분양전환 후 잔여세대",
+		"addr": "대전광역시 중구 선화동 83-1",
+		"short_addr": "대전광역시 중구",
+		"addr_lv1": "대전광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "123세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000079&pblancNo=2025000079&houseSecd=01",
+		"in_date": "20250331",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "판암동 참좋은아파트 우선분양전환 후 잔여세대",
+		"addr": "대전광역시 동구 판암동 335-7",
+		"short_addr": "대전광역시 동구",
+		"addr_lv1": "대전광역시",
+		"addr_lv2": "동구",
+		"apply_nums": "29세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000078&pblancNo=2025000078&houseSecd=01",
+		"in_date": "20250401",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "선화동 참좋은아파트 우선분양전환 후 잔여세대",
+		"addr": "대전광역시 중구 선화동 83-1",
+		"short_addr": "대전광역시 중구",
+		"addr_lv1": "대전광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "123세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000079&pblancNo=2025000079&houseSecd=01",
+		"in_date": "20250401",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "판암동 참좋은아파트 우선분양전환 후 잔여세대",
+		"addr": "대전광역시 동구 판암동 335-7",
+		"short_addr": "대전광역시 동구",
+		"addr_lv1": "대전광역시",
+		"addr_lv2": "동구",
+		"apply_nums": "29세대"
 	}
 ]
