@@ -1,91 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950009&pblancNo=2025950009&houseSecd=02",
-		"in_date": "20250317",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "더샵 강동센트럴시티",
-		"addr": "서울특별시 강동구 천호동 400-100번지 일대",
-		"short_addr": "서울특별시 강동구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강동구",
-		"apply_nums": "6세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910047&pblancNo=2025910047&houseSecd=04",
-		"in_date": "20250317",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "광주태전 경남아너스빌 리미티드(3차)",
-		"addr": "경기도 광주시 장지동 695-14",
-		"short_addr": "경기도 광주시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "광주시",
-		"apply_nums": "5세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910044&pblancNo=2025910044&houseSecd=04",
-		"in_date": "20250317",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "이천자이 더 파크",
-		"addr": "경기도 이천시 관고동 산13-1번지 일원",
-		"short_addr": "경기도 이천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "이천시",
-		"apply_nums": "3세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910046&pblancNo=2025910046&houseSecd=04",
-		"in_date": "20250317",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "힐스테이트 광교중앙역 퍼스트",
-		"addr": "경기도 수원시 영통구 광교택지개발지구 C6블록",
-		"short_addr": "경기도 수원시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "수원시",
-		"apply_nums": "1세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930010&pblancNo=2025930010&houseSecd=06",
-		"in_date": "20250317",
-		"hsecd": "06",
-		"rse": "07",
-		"type": "",
-		"name": "창원자이 시그니처",
-		"addr": "경상남도 창원시 성산구 원이대로878번길 16 일원",
-		"short_addr": "경상남도 창원시",
-		"addr_lv1": "경상남도",
-		"addr_lv2": "창원시",
-		"apply_nums": "3세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930011&pblancNo=2025930011&houseSecd=06",
-		"in_date": "20250317",
-		"hsecd": "06",
-		"rse": "07",
-		"type": "",
-		"name": "힐스테이트 광교중앙역 퍼스트 (계약취소주택)",
-		"addr": "경기도 수원시 영통구 광교택지개발지구 C6블록",
-		"short_addr": "경기도 수원시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "수원시",
-		"apply_nums": "1세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940057&pblancNo=2025940057&houseSecd=11",
-		"in_date": "20250317",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "세종 5-1 양우내안애 아스펜"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940058&pblancNo=2025940058&houseSecd=11",
 		"in_date": "20250318",
 		"hsecd": "11",
@@ -432,6 +346,14 @@
 		"name": "리아츠 더 인천(3차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940060&pblancNo=2025940060&houseSecd=11",
+		"in_date": "20250325",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "용인 에버랜드역 칸타빌"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000063&pblancNo=2025000063&houseSecd=01",
 		"in_date": "20250326",
 		"hsecd": "01",
@@ -484,6 +406,56 @@
 		"apply_nums": "508세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930009&pblancNo=2025930009&houseSecd=06",
+		"in_date": "20250326",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "대전 도마·변동 11구역 호반써밋 그랜드센트럴",
+		"addr": "대전광역시 서구 도산로 79",
+		"short_addr": "대전광역시 서구",
+		"addr_lv1": "대전광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940071&pblancNo=2025940071&houseSecd=11",
+		"in_date": "20250326",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "용인 둔전역 에피트"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940067&pblancNo=2025940067&houseSecd=11",
+		"in_date": "20250327",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "안양 아르테자이"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940067&pblancNo=2025940067&houseSecd=11",
+		"in_date": "20250328",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "안양 아르테자이"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000052&pblancNo=2025000052&houseSecd=01",
+		"in_date": "20250331",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "대전 도마·변동 11구역 호반써밋 그랜드센트럴(조합원 취소분)",
+		"addr": "대전광역시 서구 도산로 79",
+		"short_addr": "대전광역시 서구",
+		"addr_lv1": "대전광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "4세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000078&pblancNo=2025000078&houseSecd=01",
 		"in_date": "20250331",
 		"hsecd": "01",
@@ -508,6 +480,19 @@
 		"addr_lv1": "대전광역시",
 		"addr_lv2": "동구",
 		"apply_nums": "29세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000052&pblancNo=2025000052&houseSecd=01",
+		"in_date": "20250401",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "대전 도마·변동 11구역 호반써밋 그랜드센트럴(조합원 취소분)",
+		"addr": "대전광역시 서구 도산로 79",
+		"short_addr": "대전광역시 서구",
+		"addr_lv1": "대전광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "4세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000078&pblancNo=2025000078&houseSecd=01",
