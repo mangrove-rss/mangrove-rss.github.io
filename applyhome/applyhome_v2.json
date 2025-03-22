@@ -1,43 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850003&pblancNo=2025850003&houseSecd=03",
-		"in_date": "20250319",
-		"hsecd": "03",
-		"rse": "04",
-		"type": "",
-		"name": "서울은평뉴타운 디에트르 더 퍼스트"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910037&pblancNo=2025910037&houseSecd=04",
-		"in_date": "20250319",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "당진 수청2지구 RH-3블록 호반써밋 시그니처 3차",
-		"addr": "충청남도 당진시 수청동 1543",
-		"short_addr": "충청남도 당진시",
-		"addr_lv1": "충청남도",
-		"addr_lv2": "당진시",
-		"apply_nums": "1세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940056&pblancNo=2025940056&houseSecd=11",
-		"in_date": "20250319",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "광명 유승한내들 라포레(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940058&pblancNo=2025940058&houseSecd=11",
-		"in_date": "20250319",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "엘리프 하이디움 1단지"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850003&pblancNo=2025850003&houseSecd=03",
 		"in_date": "20250320",
 		"hsecd": "03",
 		"rse": "04",
