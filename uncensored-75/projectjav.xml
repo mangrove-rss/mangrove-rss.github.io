@@ -10,12 +10,6 @@
 			<showrss:showname><![CDATA[ HEYZO-3551 ]]></showrss:showname>
 		</item>
 		<item>
-			<title><![CDATA[ HEYZO-3583 ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:35781191623b5d905ebe1f818dcc92825fa16ea2 ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ HEYZO-3583 ]]></showrss:showname>
-		</item>
-		<item>
 			<title><![CDATA[ 032825-001-carib ]]></title>
 			<link><![CDATA[ magnet:?xt=urn:btih:54f6077a88e3a969ddb5b94f43920999b8601e18 ]]></link>
 			<showrss:showid></showrss:showid>
@@ -26,6 +20,12 @@
 			<link><![CDATA[ magnet:?xt=urn:btih:d5d19cdd1fe2d2aa423762dace03f4cea61b6a80 ]]></link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ 032725_001-1pondo ]]></showrss:showname>
+		</item>
+		<item>
+			<title><![CDATA[ HEYZO-3583 ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih:35781191623b5d905ebe1f818dcc92825fa16ea2 ]]></link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ HEYZO-3583 ]]></showrss:showname>
 		</item>
 		<item>
 			<title><![CDATA[ senn-067 ]]></title>
