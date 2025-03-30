@@ -1,14 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940067&pblancNo=2025940067&houseSecd=11",
-		"in_date": "20250327",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "안양 아르테자이"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940067&pblancNo=2025940067&houseSecd=11",
 		"in_date": "20250328",
 		"hsecd": "11",
 		"rse": "11",
@@ -326,5 +318,71 @@
 		"addr_lv1": "경상북도",
 		"addr_lv2": "포항시",
 		"apply_nums": "999세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940077&pblancNo=2025940077&houseSecd=11",
+		"in_date": "20250402",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "고촌센트럴자이(3차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940068&pblancNo=2025940068&houseSecd=11",
+		"in_date": "20250402",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "곤지암역 제일풍경채"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940065&pblancNo=2025940065&houseSecd=11",
+		"in_date": "20250402",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "천안역 경남아너스빌 어반하이츠"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940077&pblancNo=2025940077&houseSecd=11",
+		"in_date": "20250403",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "고촌센트럴자이(3차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940077&pblancNo=2025940077&houseSecd=11",
+		"in_date": "20250404",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "고촌센트럴자이(3차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910054&pblancNo=2025910054&houseSecd=04",
+		"in_date": "20250407",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "에스아이팰리스 올림픽공원(3차)",
+		"addr": "서울특별시 강동구 성내동 459-3",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "35세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910054&pblancNo=2025910054&houseSecd=04",
+		"in_date": "20250408",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "에스아이팰리스 올림픽공원(3차)",
+		"addr": "서울특별시 강동구 성내동 459-3",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "35세대"
 	}
 ]
