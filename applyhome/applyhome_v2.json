@@ -243,6 +243,22 @@
 		"name": "고촌센트럴자이(3차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940080&pblancNo=2025940080&houseSecd=11",
+		"in_date": "20250404",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "연신내 양우내안애 퍼스티지(6차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940072&pblancNo=2025940072&houseSecd=11",
+		"in_date": "20250404",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "조례 한양수자인"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910054&pblancNo=2025910054&houseSecd=04",
 		"in_date": "20250407",
 		"hsecd": "04",
@@ -282,6 +298,22 @@
 		"apply_nums": "7세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940075&pblancNo=2025940075&houseSecd=11",
+		"in_date": "20250407",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "그란츠 리버파크(4차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940073&pblancNo=2025940073&houseSecd=11",
+		"in_date": "20250407",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "힐스테이트 오산더클래스"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910054&pblancNo=2025910054&houseSecd=04",
 		"in_date": "20250408",
 		"hsecd": "04",
@@ -306,6 +338,14 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "연수구",
 		"apply_nums": "7세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940075&pblancNo=2025940075&houseSecd=11",
+		"in_date": "20250408",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "그란츠 리버파크(4차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000089&pblancNo=2025000089&houseSecd=01",
