@@ -112,6 +112,24 @@
 			<showrss:showname><![CDATA[ xb-504 ]]></showrss:showname>
 		</item>
 		<item>
+			<title><![CDATA[ xb-500 ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih:c13817f4c3ba3711d66645366cd8d2e63980c010 ]]></link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ xb-500 ]]></showrss:showname>
+		</item>
+		<item>
+			<title><![CDATA[ 040125_001-1pondo ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih:f95d9eecebc4ce4c196d467897bf1f2b75212a1b ]]></link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ 040125_001-1pondo ]]></showrss:showname>
+		</item>
+		<item>
+			<title><![CDATA[ 040125-001-carib ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih:5acfe5ddaaccd631643a340e8719dd9fcaed5e2b ]]></link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ 040125-001-carib ]]></showrss:showname>
+		</item>
+		<item>
 			<title><![CDATA[ 031525_001-1pondo ]]></title>
 			<link><![CDATA[ magnet:?xt=urn:btih:994bfc81020000fc45831c2a201910bc11145008 ]]></link>
 			<showrss:showid></showrss:showid>
@@ -308,24 +326,6 @@
 			<link><![CDATA[ magnet:?xt=urn:btih:7b68beac6eb5e4228a3e316b46fa3b186bbaa817 ]]></link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ HEYZO-3552 ]]></showrss:showname>
-		</item>
-		<item>
-			<title><![CDATA[ HEYZO-3551 ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:11f5c6d13c0d9368b497d741091f265fd351f2da ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ HEYZO-3551 ]]></showrss:showname>
-		</item>
-		<item>
-			<title><![CDATA[ HEYZO-3583 ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:35781191623b5d905ebe1f818dcc92825fa16ea2 ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ HEYZO-3583 ]]></showrss:showname>
-		</item>
-		<item>
-			<title><![CDATA[ 032725_001-1pondo ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:d5d19cdd1fe2d2aa423762dace03f4cea61b6a80 ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ 032725_001-1pondo ]]></showrss:showname>
 		</item>
 	</channel>
 </rss>
