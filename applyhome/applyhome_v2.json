@@ -306,6 +306,14 @@
 		"name": "그란츠 리버파크(4차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940079&pblancNo=2025940079&houseSecd=11",
+		"in_date": "20250407",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "평택 고덕국제신도시 A50블록 미래도 파밀리에"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940073&pblancNo=2025940073&houseSecd=11",
 		"in_date": "20250407",
 		"hsecd": "11",
@@ -327,6 +335,32 @@
 		"apply_nums": "35세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910056&pblancNo=2025910056&houseSecd=04",
+		"in_date": "20250408",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "자라섬 수자인 리버페스타",
+		"addr": "경기도 가평군 가평읍 달전리 284-7번지 일원",
+		"short_addr": "경기도 가평군",
+		"addr_lv1": "경기도",
+		"addr_lv2": "가평군",
+		"apply_nums": "10세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910062&pblancNo=2025910062&houseSecd=04",
+		"in_date": "20250408",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "포레나 영흥숲(2차)",
+		"addr": "경기도 수원시 영통구 원천동 333-1",
+		"short_addr": "경기도 수원시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "수원시",
+		"apply_nums": "2세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930014&pblancNo=2025930014&houseSecd=06",
 		"in_date": "20250408",
 		"hsecd": "06",
@@ -346,6 +380,19 @@
 		"rse": "11",
 		"type": "",
 		"name": "그란츠 리버파크(4차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910056&pblancNo=2025910056&houseSecd=04",
+		"in_date": "20250409",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "자라섬 수자인 리버페스타",
+		"addr": "경기도 가평군 가평읍 달전리 284-7번지 일원",
+		"short_addr": "경기도 가평군",
+		"addr_lv1": "경기도",
+		"addr_lv2": "가평군",
+		"apply_nums": "10세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000089&pblancNo=2025000089&houseSecd=01",
