@@ -1,29 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940077&pblancNo=2025940077&houseSecd=11",
-		"in_date": "20250404",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "고촌센트럴자이(3차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940080&pblancNo=2025940080&houseSecd=11",
-		"in_date": "20250404",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "연신내 양우내안애 퍼스티지(6차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940072&pblancNo=2025940072&houseSecd=11",
-		"in_date": "20250404",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "조례 한양수자인"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910054&pblancNo=2025910054&houseSecd=04",
 		"in_date": "20250407",
 		"hsecd": "04",
