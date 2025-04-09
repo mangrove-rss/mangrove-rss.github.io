@@ -382,6 +382,22 @@
 		"apply_nums": "4세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940084&pblancNo=2025940084&houseSecd=11",
+		"in_date": "20250414",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "e편한세상 동인천 베이프런트(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940092&pblancNo=2025940092&houseSecd=11",
+		"in_date": "20250414",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천 임의공급(4차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000100&pblancNo=2025000100&houseSecd=01",
 		"in_date": "20250415",
 		"hsecd": "01",
@@ -447,6 +463,35 @@
 		"apply_nums": "20세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910053&pblancNo=2025910053&houseSecd=04",
+		"in_date": "20250415",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "곤지암역 제일풍경채 (4차)",
+		"addr": "경기도 광주시 곤지암읍 곤지암리 636번지(곤지암역세권  A1-1블록)",
+		"short_addr": "경기도 광주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "광주시",
+		"apply_nums": "21세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940084&pblancNo=2025940084&houseSecd=11",
+		"in_date": "20250415",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "e편한세상 동인천 베이프런트(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940092&pblancNo=2025940092&houseSecd=11",
+		"in_date": "20250415",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천 임의공급(4차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000100&pblancNo=2025000100&houseSecd=01",
 		"in_date": "20250416",
 		"hsecd": "01",
@@ -499,6 +544,14 @@
 		"apply_nums": "660세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940092&pblancNo=2025940092&houseSecd=11",
+		"in_date": "20250416",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천 임의공급(4차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000100&pblancNo=2025000100&houseSecd=01",
 		"in_date": "20250417",
 		"hsecd": "01",
@@ -525,6 +578,14 @@
 		"apply_nums": "5세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940092&pblancNo=2025940092&houseSecd=11",
+		"in_date": "20250417",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천 임의공급(4차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950012&pblancNo=2025950012&houseSecd=02",
 		"in_date": "20250418",
 		"hsecd": "02",
@@ -536,6 +597,14 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "성북구",
 		"apply_nums": "5세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940092&pblancNo=2025940092&houseSecd=11",
+		"in_date": "20250418",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천 임의공급(4차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950012&pblancNo=2025950012&houseSecd=02",
