@@ -357,17 +357,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ 040125-001-carib ]]></showrss:showname>
 		</item>
-		<item>
-			<title><![CDATA[ dsambd-06 ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:6677ad1795465e909c67174fb6ec69169451989c ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ dsambd-06 ]]></showrss:showname>
-		</item>
-		<item>
-			<title><![CDATA[ xb-506 ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:5daa2a698eb6b5a5287e0547bc6542860ba89db4 ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ xb-506 ]]></showrss:showname>
-		</item>
 	</channel>
 </rss>
