@@ -1,69 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910054&pblancNo=2025910054&houseSecd=04",
-		"in_date": "20250407",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "에스아이팰리스 올림픽공원(3차)",
-		"addr": "서울특별시 강동구 성내동 459-3",
-		"short_addr": "서울특별시 강동구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강동구",
-		"apply_nums": "35세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930015&pblancNo=2025930015&houseSecd=06",
-		"in_date": "20250407",
-		"hsecd": "06",
-		"rse": "07",
-		"type": "",
-		"name": "화성동탄2지구 C-2블록 동탄역 금강펜테리움 더 시글로",
-		"addr": "경기도 화성시 영천동 849 동탄역 금강펜테리움 더 시글로",
-		"short_addr": "경기도 화성시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "화성시",
-		"apply_nums": "1세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930014&pblancNo=2025930014&houseSecd=06",
-		"in_date": "20250407",
-		"hsecd": "06",
-		"rse": "07",
-		"type": "",
-		"name": "힐스테이트 송도 더스카이",
-		"addr": "인천광역시 연수구 송도동 30-2",
-		"short_addr": "인천광역시 연수구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "연수구",
-		"apply_nums": "7세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940075&pblancNo=2025940075&houseSecd=11",
-		"in_date": "20250407",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "그란츠 리버파크(4차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940079&pblancNo=2025940079&houseSecd=11",
-		"in_date": "20250407",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "평택 고덕국제신도시 A50블록 미래도 파밀리에"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940073&pblancNo=2025940073&houseSecd=11",
-		"in_date": "20250407",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "힐스테이트 오산더클래스"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910054&pblancNo=2025910054&houseSecd=04",
 		"in_date": "20250408",
 		"hsecd": "04",
 		"rse": "06",
@@ -484,6 +421,30 @@
 		"name": "e편한세상 동인천 베이프런트(2차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940087&pblancNo=2025940087&houseSecd=11",
+		"in_date": "20250415",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "e편한세상 제물포역 파크메종(조합원 취소분)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940090&pblancNo=2025940090&houseSecd=11",
+		"in_date": "20250415",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "계양 롯데캐슬 파크시티 1단지(공 3블럭)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940076&pblancNo=2025940076&houseSecd=11",
+		"in_date": "20250415",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "공주 유구 라트라움"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940092&pblancNo=2025940092&houseSecd=11",
 		"in_date": "20250415",
 		"hsecd": "11",
@@ -544,6 +505,40 @@
 		"apply_nums": "660세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850005&pblancNo=2025850005&houseSecd=03",
+		"in_date": "20250416",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "서울은평뉴타운 디에트르 더 퍼스트"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910063&pblancNo=2025910063&houseSecd=04",
+		"in_date": "20250416",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "파주운정3지구 A42블록 신영지웰 운정신도시",
+		"addr": "경기도 파주시 동패동 2110번지(파주운정3지구 A42BL 공동주택용지)",
+		"short_addr": "경기도 파주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "파주시",
+		"apply_nums": "2세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930016&pblancNo=2025930016&houseSecd=06",
+		"in_date": "20250416",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "파주운정3지구 A42블록 신영지웰 운정신도시",
+		"addr": "경기도 파주시 동패동 2110번지(파주운정3지구 A42BL 공동주택용지)",
+		"short_addr": "경기도 파주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "파주시",
+		"apply_nums": "3세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940092&pblancNo=2025940092&houseSecd=11",
 		"in_date": "20250416",
 		"hsecd": "11",
@@ -563,6 +558,14 @@
 		"addr_lv1": "충청북도",
 		"addr_lv2": "청주시",
 		"apply_nums": "576세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850005&pblancNo=2025850005&houseSecd=03",
+		"in_date": "20250417",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "서울은평뉴타운 디에트르 더 퍼스트"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950012&pblancNo=2025950012&houseSecd=02",
@@ -633,6 +636,32 @@
 		"apply_nums": "5세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000098&pblancNo=2025000098&houseSecd=01",
+		"in_date": "20250421",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "해링턴 스퀘어 산곡역",
+		"addr": "인천광역시 부평구 산곡1동 87-903번지 일원",
+		"short_addr": "인천광역시 부평구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "부평구",
+		"apply_nums": "1248세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000109&pblancNo=2025000109&houseSecd=01",
+		"in_date": "20250421",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "해운대 하이루프33",
+		"addr": "부산광역시 해운대구 중동 1394-72 외 3필지 ",
+		"short_addr": "부산광역시 해운대구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "해운대구",
+		"apply_nums": "44세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950012&pblancNo=2025950012&houseSecd=02",
 		"in_date": "20250421",
 		"hsecd": "02",
@@ -644,5 +673,44 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "성북구",
 		"apply_nums": "5세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000098&pblancNo=2025000098&houseSecd=01",
+		"in_date": "20250422",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "해링턴 스퀘어 산곡역",
+		"addr": "인천광역시 부평구 산곡1동 87-903번지 일원",
+		"short_addr": "인천광역시 부평구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "부평구",
+		"apply_nums": "1248세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000109&pblancNo=2025000109&houseSecd=01",
+		"in_date": "20250422",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "해운대 하이루프33",
+		"addr": "부산광역시 해운대구 중동 1394-72 외 3필지 ",
+		"short_addr": "부산광역시 해운대구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "해운대구",
+		"apply_nums": "44세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000098&pblancNo=2025000098&houseSecd=01",
+		"in_date": "20250423",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "해링턴 스퀘어 산곡역",
+		"addr": "인천광역시 부평구 산곡1동 87-903번지 일원",
+		"short_addr": "인천광역시 부평구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "부평구",
+		"apply_nums": "1248세대"
 	}
 ]
