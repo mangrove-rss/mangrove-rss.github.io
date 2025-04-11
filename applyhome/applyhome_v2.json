@@ -1,89 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910054&pblancNo=2025910054&houseSecd=04",
-		"in_date": "20250408",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "에스아이팰리스 올림픽공원(3차)",
-		"addr": "서울특별시 강동구 성내동 459-3",
-		"short_addr": "서울특별시 강동구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강동구",
-		"apply_nums": "35세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910056&pblancNo=2025910056&houseSecd=04",
-		"in_date": "20250408",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "자라섬 수자인 리버페스타",
-		"addr": "경기도 가평군 가평읍 달전리 284-7번지 일원",
-		"short_addr": "경기도 가평군",
-		"addr_lv1": "경기도",
-		"addr_lv2": "가평군",
-		"apply_nums": "10세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910062&pblancNo=2025910062&houseSecd=04",
-		"in_date": "20250408",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "포레나 영흥숲(2차)",
-		"addr": "경기도 수원시 영통구 원천동 333-1",
-		"short_addr": "경기도 수원시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "수원시",
-		"apply_nums": "2세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930014&pblancNo=2025930014&houseSecd=06",
-		"in_date": "20250408",
-		"hsecd": "06",
-		"rse": "07",
-		"type": "",
-		"name": "힐스테이트 송도 더스카이",
-		"addr": "인천광역시 연수구 송도동 30-2",
-		"short_addr": "인천광역시 연수구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "연수구",
-		"apply_nums": "7세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940075&pblancNo=2025940075&houseSecd=11",
-		"in_date": "20250408",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "그란츠 리버파크(4차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940074&pblancNo=2025940074&houseSecd=11",
-		"in_date": "20250408",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "의정부 롯데캐슬 나리벡시티"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940078&pblancNo=2025940078&houseSecd=11",
-		"in_date": "20250408",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "평택 푸르지오 센터파인"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940070&pblancNo=2025940070&houseSecd=11",
-		"in_date": "20250408",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "평택 화양 동문 디 이스트"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910058&pblancNo=2025910058&houseSecd=04",
 		"in_date": "20250409",
 		"hsecd": "04",
@@ -649,6 +565,19 @@
 		"apply_nums": "1248세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000116&pblancNo=2025000116&houseSecd=01",
+		"in_date": "20250421",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "회천중앙역 로제비앙 그랜드센텀",
+		"addr": "경기도 양주시 회정동 양주신도시 회천지구 A11블록",
+		"short_addr": "경기도 양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "양주시",
+		"apply_nums": "642세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000109&pblancNo=2025000109&houseSecd=01",
 		"in_date": "20250421",
 		"hsecd": "01",
@@ -688,6 +617,19 @@
 		"apply_nums": "1248세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000116&pblancNo=2025000116&houseSecd=01",
+		"in_date": "20250422",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "회천중앙역 로제비앙 그랜드센텀",
+		"addr": "경기도 양주시 회정동 양주신도시 회천지구 A11블록",
+		"short_addr": "경기도 양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "양주시",
+		"apply_nums": "642세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000109&pblancNo=2025000109&houseSecd=01",
 		"in_date": "20250422",
 		"hsecd": "01",
@@ -712,5 +654,18 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "부평구",
 		"apply_nums": "1248세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000116&pblancNo=2025000116&houseSecd=01",
+		"in_date": "20250423",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "회천중앙역 로제비앙 그랜드센텀",
+		"addr": "경기도 양주시 회정동 양주신도시 회천지구 A11블록",
+		"short_addr": "경기도 양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "양주시",
+		"apply_nums": "642세대"
 	}
 ]
