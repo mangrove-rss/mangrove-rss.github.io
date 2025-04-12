@@ -1,52 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910058&pblancNo=2025910058&houseSecd=04",
-		"in_date": "20250409",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "안양 어반포레 자연앤e편한세상(국민)",
-		"addr": "경기도 안양시 만안구 안양동 618번지 일원",
-		"short_addr": "경기도 안양시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "안양시",
-		"apply_nums": "2세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910061&pblancNo=2025910061&houseSecd=04",
-		"in_date": "20250409",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "에비뉴 청계 II(9차)",
-		"addr": "서울특별시 종로구 숭인동 1420",
-		"short_addr": "서울특별시 종로구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "종로구",
-		"apply_nums": "21세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910056&pblancNo=2025910056&houseSecd=04",
-		"in_date": "20250409",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "자라섬 수자인 리버페스타",
-		"addr": "경기도 가평군 가평읍 달전리 284-7번지 일원",
-		"short_addr": "경기도 가평군",
-		"addr_lv1": "경기도",
-		"addr_lv2": "가평군",
-		"apply_nums": "10세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940078&pblancNo=2025940078&houseSecd=11",
-		"in_date": "20250409",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "평택 푸르지오 센터파인"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000089&pblancNo=2025000089&houseSecd=01",
 		"in_date": "20250410",
 		"hsecd": "01",
