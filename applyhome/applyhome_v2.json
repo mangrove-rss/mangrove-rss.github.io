@@ -1,40 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000089&pblancNo=2025000089&houseSecd=01",
-		"in_date": "20250410",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "강릉 영무예다음 어반포레",
-		"addr": "강원특별자치도 강릉시 홍제동 265-18번지 외 45필지",
-		"short_addr": "강원특별자치도 강릉시",
-		"addr_lv1": "강원특별자치도",
-		"addr_lv2": "강릉시",
-		"apply_nums": "148세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000099&pblancNo=2025000099&houseSecd=01",
-		"in_date": "20250410",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "구리 한양립스",
-		"addr": "경기도 구리시 수택동 266-2 일원",
-		"short_addr": "경기도 구리시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "구리시",
-		"apply_nums": "68세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940078&pblancNo=2025940078&houseSecd=11",
-		"in_date": "20250410",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "평택 푸르지오 센터파인"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000089&pblancNo=2025000089&houseSecd=01",
 		"in_date": "20250411",
 		"hsecd": "01",
 		"rse": "02",
@@ -408,6 +374,14 @@
 		"apply_nums": "3세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940086&pblancNo=2025940086&houseSecd=11",
+		"in_date": "20250416",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "광명 유승한내들 라포레(3차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940092&pblancNo=2025940092&houseSecd=11",
 		"in_date": "20250416",
 		"hsecd": "11",
@@ -450,12 +424,28 @@
 		"apply_nums": "5세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940086&pblancNo=2025940086&houseSecd=11",
+		"in_date": "20250417",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "광명 유승한내들 라포레(3차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940092&pblancNo=2025940092&houseSecd=11",
 		"in_date": "20250417",
 		"hsecd": "11",
 		"rse": "11",
 		"type": "",
 		"name": "리아츠 더 인천 임의공급(4차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940089&pblancNo=2025940089&houseSecd=11",
+		"in_date": "20250417",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "호반써밋 개봉(5차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950012&pblancNo=2025950012&houseSecd=02",
@@ -477,6 +467,22 @@
 		"rse": "11",
 		"type": "",
 		"name": "리아츠 더 인천 임의공급(4차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940089&pblancNo=2025940089&houseSecd=11",
+		"in_date": "20250418",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "호반써밋 개봉(5차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940085&pblancNo=2025940085&houseSecd=11",
+		"in_date": "20250418",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "힐스테이트 인덕원역 베르텍스"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950012&pblancNo=2025950012&houseSecd=02",
@@ -492,6 +498,14 @@
 		"apply_nums": "5세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940085&pblancNo=2025940085&houseSecd=11",
+		"in_date": "20250419",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "힐스테이트 인덕원역 베르텍스"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950012&pblancNo=2025950012&houseSecd=02",
 		"in_date": "20250420",
 		"hsecd": "02",
@@ -503,6 +517,14 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "성북구",
 		"apply_nums": "5세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940085&pblancNo=2025940085&houseSecd=11",
+		"in_date": "20250420",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "힐스테이트 인덕원역 베르텍스"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000098&pblancNo=2025000098&houseSecd=01",
@@ -555,6 +577,14 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "성북구",
 		"apply_nums": "5세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940085&pblancNo=2025940085&houseSecd=11",
+		"in_date": "20250421",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "힐스테이트 인덕원역 베르텍스"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000098&pblancNo=2025000098&houseSecd=01",
