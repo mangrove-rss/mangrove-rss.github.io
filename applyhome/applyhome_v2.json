@@ -1,55 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000089&pblancNo=2025000089&houseSecd=01",
-		"in_date": "20250411",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "강릉 영무예다음 어반포레",
-		"addr": "강원특별자치도 강릉시 홍제동 265-18번지 외 45필지",
-		"short_addr": "강원특별자치도 강릉시",
-		"addr_lv1": "강원특별자치도",
-		"addr_lv2": "강릉시",
-		"apply_nums": "148세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000099&pblancNo=2025000099&houseSecd=01",
-		"in_date": "20250411",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "구리 한양립스",
-		"addr": "경기도 구리시 수택동 266-2 일원",
-		"short_addr": "경기도 구리시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "구리시",
-		"apply_nums": "68세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940081&pblancNo=2025940081&houseSecd=11",
-		"in_date": "20250411",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "부천아테라자이(부천괴안지구 B-2블록) 7차"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940082&pblancNo=2025940082&houseSecd=11",
-		"in_date": "20250411",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "엘리프 하이디움 1단지(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940083&pblancNo=2025940083&houseSecd=11",
-		"in_date": "20250411",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "엘리프 하이디움 2단지(2차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000104&pblancNo=2025000104&houseSecd=01",
 		"in_date": "20250414",
 		"hsecd": "01",
