@@ -555,12 +555,62 @@
 		"apply_nums": "1세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940091&pblancNo=2025940091&houseSecd=11",
+		"in_date": "20250421",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "개봉 루브루(6차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940096&pblancNo=2025940096&houseSecd=11",
+		"in_date": "20250421",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "연신내 양우내안애 퍼스티지(7차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940088&pblancNo=2025940088&houseSecd=11",
+		"in_date": "20250421",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "용인 에버랜드역 칸타빌(2차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940085&pblancNo=2025940085&houseSecd=11",
 		"in_date": "20250421",
 		"hsecd": "11",
 		"rse": "11",
 		"type": "",
 		"name": "힐스테이트 인덕원역 베르텍스"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000114&pblancNo=2025000114&houseSecd=01",
+		"in_date": "20250422",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "용인 푸르지오 원클러스터 2단지",
+		"addr": "경기도 용인시 처인구 남동 산 126-1일원 (A2BL)",
+		"short_addr": "경기도 용인시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "용인시",
+		"apply_nums": "1804세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000115&pblancNo=2025000115&houseSecd=01",
+		"in_date": "20250422",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "용인 푸르지오 원클러스터 3단지",
+		"addr": "경기도 용인시 처인구 남동 243일원 (A3BL)",
+		"short_addr": "경기도 용인시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "용인시",
+		"apply_nums": "239세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000098&pblancNo=2025000098&houseSecd=01",
@@ -615,6 +665,40 @@
 		"apply_nums": "3세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940091&pblancNo=2025940091&houseSecd=11",
+		"in_date": "20250422",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "개봉 루브루(6차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000114&pblancNo=2025000114&houseSecd=01",
+		"in_date": "20250423",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "용인 푸르지오 원클러스터 2단지",
+		"addr": "경기도 용인시 처인구 남동 산 126-1일원 (A2BL)",
+		"short_addr": "경기도 용인시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "용인시",
+		"apply_nums": "1804세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000115&pblancNo=2025000115&houseSecd=01",
+		"in_date": "20250423",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "용인 푸르지오 원클러스터 3단지",
+		"addr": "경기도 용인시 처인구 남동 243일원 (A3BL)",
+		"short_addr": "경기도 용인시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "용인시",
+		"apply_nums": "239세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000098&pblancNo=2025000098&houseSecd=01",
 		"in_date": "20250423",
 		"hsecd": "01",
@@ -639,5 +723,31 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "양주시",
 		"apply_nums": "642세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000114&pblancNo=2025000114&houseSecd=01",
+		"in_date": "20250424",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "용인 푸르지오 원클러스터 2단지",
+		"addr": "경기도 용인시 처인구 남동 산 126-1일원 (A2BL)",
+		"short_addr": "경기도 용인시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "용인시",
+		"apply_nums": "1804세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000115&pblancNo=2025000115&houseSecd=01",
+		"in_date": "20250424",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "용인 푸르지오 원클러스터 3단지",
+		"addr": "경기도 용인시 처인구 남동 243일원 (A3BL)",
+		"short_addr": "경기도 용인시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "용인시",
+		"apply_nums": "239세대"
 	}
 ]
