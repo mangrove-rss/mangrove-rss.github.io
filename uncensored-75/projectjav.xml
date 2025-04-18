@@ -21,11 +21,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ cwpbd-152 ]]></showrss:showname>
 		</item>
-		<item>
-			<title><![CDATA[ 041625-001-carib ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:d1e4a55dd94891ee8238f8f7ad99322f48f20078 ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ 041625-001-carib ]]></showrss:showname>
-		</item>
 	</channel>
 </rss>
