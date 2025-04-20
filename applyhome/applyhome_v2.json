@@ -1,63 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000100&pblancNo=2025000100&houseSecd=01",
-		"in_date": "20250417",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "청주테크노폴리스 아테라 2차(A7BL)",
-		"addr": "충청북도 청주시 흥덕구 문암동 30-19번지 일원(청주테크노폴리스 A7BL)",
-		"short_addr": "충청북도 청주시",
-		"addr_lv1": "충청북도",
-		"addr_lv2": "청주시",
-		"apply_nums": "576세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850005&pblancNo=2025850005&houseSecd=03",
-		"in_date": "20250417",
-		"hsecd": "03",
-		"rse": "04",
-		"type": "",
-		"name": "서울은평뉴타운 디에트르 더 퍼스트"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950012&pblancNo=2025950012&houseSecd=02",
-		"in_date": "20250417",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "상월곡역 장위아트포레(도시형생활주택)",
-		"addr": "서울특별시 성북구 석관동 338-18",
-		"short_addr": "서울특별시 성북구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "성북구",
-		"apply_nums": "5세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940086&pblancNo=2025940086&houseSecd=11",
-		"in_date": "20250417",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "광명 유승한내들 라포레(3차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940092&pblancNo=2025940092&houseSecd=11",
-		"in_date": "20250417",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "리아츠 더 인천 임의공급(4차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940089&pblancNo=2025940089&houseSecd=11",
-		"in_date": "20250417",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "호반써밋 개봉(5차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950012&pblancNo=2025950012&houseSecd=02",
 		"in_date": "20250418",
 		"hsecd": "02",
@@ -414,6 +356,14 @@
 		"apply_nums": "12세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940094&pblancNo=2025940094&houseSecd=11",
+		"in_date": "20250423",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "순천 푸르지오 더 퍼스트"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940095&pblancNo=2025940095&houseSecd=11",
 		"in_date": "20250423",
 		"hsecd": "11",
@@ -586,6 +536,19 @@
 		"apply_nums": "307세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910064&pblancNo=2025910064&houseSecd=04",
+		"in_date": "20250428",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "어반클라쎄목동(7차)",
+		"addr": "서울특별시 양천구 신목로2길 7-12 (신정동, 어반클라쎄 목동)",
+		"short_addr": "서울특별시 양천구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "양천구",
+		"apply_nums": "10세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000112&pblancNo=2025000112&houseSecd=01",
 		"in_date": "20250429",
 		"hsecd": "01",
@@ -714,6 +677,19 @@
 		"addr_lv1": "울산광역시",
 		"addr_lv2": "울주군",
 		"apply_nums": "307세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910064&pblancNo=2025910064&houseSecd=04",
+		"in_date": "20250429",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "어반클라쎄목동(7차)",
+		"addr": "서울특별시 양천구 신목로2길 7-12 (신정동, 어반클라쎄 목동)",
+		"short_addr": "서울특별시 양천구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "양천구",
+		"apply_nums": "10세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000112&pblancNo=2025000112&houseSecd=01",
