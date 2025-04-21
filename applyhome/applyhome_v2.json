@@ -1,43 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950012&pblancNo=2025950012&houseSecd=02",
-		"in_date": "20250418",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "상월곡역 장위아트포레(도시형생활주택)",
-		"addr": "서울특별시 성북구 석관동 338-18",
-		"short_addr": "서울특별시 성북구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "성북구",
-		"apply_nums": "5세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940092&pblancNo=2025940092&houseSecd=11",
-		"in_date": "20250418",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "리아츠 더 인천 임의공급(4차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940089&pblancNo=2025940089&houseSecd=11",
-		"in_date": "20250418",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "호반써밋 개봉(5차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940085&pblancNo=2025940085&houseSecd=11",
-		"in_date": "20250418",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "힐스테이트 인덕원역 베르텍스"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950012&pblancNo=2025950012&houseSecd=02",
 		"in_date": "20250419",
 		"hsecd": "02",
 		"rse": "05",
@@ -820,5 +783,31 @@
 		"addr_lv1": "울산광역시",
 		"addr_lv2": "울주군",
 		"apply_nums": "307세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000154&pblancNo=2025000154&houseSecd=01",
+		"in_date": "20250502",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "더샵 송도마리나베이(조합원 자격상실세대 3회차)",
+		"addr": "인천광역시 연수구 송도동 308-1번지(송도국제도시 송도랜드마크시티 6,8공구 A1블록)",
+		"short_addr": "인천광역시 연수구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "연수구",
+		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000154&pblancNo=2025000154&houseSecd=01",
+		"in_date": "20250507",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "더샵 송도마리나베이(조합원 자격상실세대 3회차)",
+		"addr": "인천광역시 연수구 송도동 308-1번지(송도국제도시 송도랜드마크시티 6,8공구 A1블록)",
+		"short_addr": "인천광역시 연수구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "연수구",
+		"apply_nums": "1세대"
 	}
 ]
