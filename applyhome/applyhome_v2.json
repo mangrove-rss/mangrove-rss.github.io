@@ -1,115 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000098&pblancNo=2025000098&houseSecd=01",
-		"in_date": "20250421",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "해링턴 스퀘어 산곡역",
-		"addr": "인천광역시 부평구 산곡1동 87-903번지 일원",
-		"short_addr": "인천광역시 부평구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "부평구",
-		"apply_nums": "1248세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000116&pblancNo=2025000116&houseSecd=01",
-		"in_date": "20250421",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "회천중앙역 로제비앙 그랜드센텀",
-		"addr": "경기도 양주시 회정동 양주신도시 회천지구 A11블록",
-		"short_addr": "경기도 양주시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "양주시",
-		"apply_nums": "642세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000109&pblancNo=2025000109&houseSecd=01",
-		"in_date": "20250421",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "해운대 하이루프33",
-		"addr": "부산광역시 해운대구 중동 1394-72 외 3필지 ",
-		"short_addr": "부산광역시 해운대구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "해운대구",
-		"apply_nums": "44세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950012&pblancNo=2025950012&houseSecd=02",
-		"in_date": "20250421",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "상월곡역 장위아트포레(도시형생활주택)",
-		"addr": "서울특별시 성북구 석관동 338-18",
-		"short_addr": "서울특별시 성북구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "성북구",
-		"apply_nums": "5세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910066&pblancNo=2025910066&houseSecd=04",
-		"in_date": "20250421",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "그란츠 리버파크(3차)",
-		"addr": "서울특별시 강동구 성내동 15번지 일대",
-		"short_addr": "서울특별시 강동구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강동구",
-		"apply_nums": "3세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910065&pblancNo=2025910065&houseSecd=04",
-		"in_date": "20250421",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "김포한강Ｃc－０３ 금성백조 구래역 예미지",
-		"addr": "경기도 김포시 솔터로 22 (구래동)",
-		"short_addr": "경기도 김포시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "김포시",
-		"apply_nums": "1세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940091&pblancNo=2025940091&houseSecd=11",
-		"in_date": "20250421",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "개봉 루브루(6차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940096&pblancNo=2025940096&houseSecd=11",
-		"in_date": "20250421",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "연신내 양우내안애 퍼스티지(7차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940088&pblancNo=2025940088&houseSecd=11",
-		"in_date": "20250421",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "용인 에버랜드역 칸타빌(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940085&pblancNo=2025940085&houseSecd=11",
-		"in_date": "20250421",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "힐스테이트 인덕원역 베르텍스"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000114&pblancNo=2025000114&houseSecd=01",
 		"in_date": "20250422",
 		"hsecd": "01",
@@ -613,6 +503,35 @@
 		"apply_nums": "10세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910067&pblancNo=2025910067&houseSecd=04",
+		"in_date": "20250429",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "효성해링턴 플레이스 목감역(무순위 13차)",
+		"addr": "경기도 시흥시 논곡동 378",
+		"short_addr": "경기도 시흥시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "시흥시",
+		"apply_nums": "7세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940098&pblancNo=2025940098&houseSecd=11",
+		"in_date": "20250429",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "덕계역 한신더휴 포레스트"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940097&pblancNo=2025940097&houseSecd=11",
+		"in_date": "20250429",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "세종 5-1 양우내안애 아스펜 (2차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000112&pblancNo=2025000112&houseSecd=01",
 		"in_date": "20250430",
 		"hsecd": "01",
@@ -743,6 +662,64 @@
 		"apply_nums": "307세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850006&pblancNo=2025850006&houseSecd=03",
+		"in_date": "20250430",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "대전관평 예미지 어반코어(1345)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850007&pblancNo=2025850007&houseSecd=03",
+		"in_date": "20250430",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "대전관평 예미지 어반코어(1356)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910068&pblancNo=2025910068&houseSecd=04",
+		"in_date": "20250430",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "브라운스톤 여월(3차)",
+		"addr": "경기도 부천시 오정구 성곡로28번길 43 (여월동 9-28)",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910070&pblancNo=2025910070&houseSecd=04",
+		"in_date": "20250430",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "에스아이팰리스 올림픽공원(4차) ",
+		"addr": "서울특별시 강동구 성내동 459-3",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "10세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850006&pblancNo=2025850006&houseSecd=03",
+		"in_date": "20250501",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "대전관평 예미지 어반코어(1345)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850007&pblancNo=2025850007&houseSecd=03",
+		"in_date": "20250501",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "대전관평 예미지 어반코어(1356)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000154&pblancNo=2025000154&houseSecd=01",
 		"in_date": "20250502",
 		"hsecd": "01",
@@ -754,6 +731,86 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "연수구",
 		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850006&pblancNo=2025850006&houseSecd=03",
+		"in_date": "20250502",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "대전관평 예미지 어반코어(1345)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850007&pblancNo=2025850007&houseSecd=03",
+		"in_date": "20250502",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "대전관평 예미지 어반코어(1356)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850006&pblancNo=2025850006&houseSecd=03",
+		"in_date": "20250503",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "대전관평 예미지 어반코어(1345)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850007&pblancNo=2025850007&houseSecd=03",
+		"in_date": "20250503",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "대전관평 예미지 어반코어(1356)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850006&pblancNo=2025850006&houseSecd=03",
+		"in_date": "20250504",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "대전관평 예미지 어반코어(1345)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850007&pblancNo=2025850007&houseSecd=03",
+		"in_date": "20250504",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "대전관평 예미지 어반코어(1356)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850006&pblancNo=2025850006&houseSecd=03",
+		"in_date": "20250505",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "대전관평 예미지 어반코어(1345)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850007&pblancNo=2025850007&houseSecd=03",
+		"in_date": "20250505",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "대전관평 예미지 어반코어(1356)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850006&pblancNo=2025850006&houseSecd=03",
+		"in_date": "20250506",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "대전관평 예미지 어반코어(1345)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850007&pblancNo=2025850007&houseSecd=03",
+		"in_date": "20250506",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "대전관평 예미지 어반코어(1356)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000151&pblancNo=2025000151&houseSecd=01",
@@ -795,6 +852,30 @@
 		"apply_nums": "1세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850006&pblancNo=2025850006&houseSecd=03",
+		"in_date": "20250507",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "대전관평 예미지 어반코어(1345)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850007&pblancNo=2025850007&houseSecd=03",
+		"in_date": "20250507",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "대전관평 예미지 어반코어(1356)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940101&pblancNo=2025940101&houseSecd=11",
+		"in_date": "20250507",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "인천 유림노르웨이숲 에듀오션(8차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000151&pblancNo=2025000151&houseSecd=01",
 		"in_date": "20250508",
 		"hsecd": "01",
@@ -819,6 +900,14 @@
 		"addr_lv1": "충청남도",
 		"addr_lv2": "서산시",
 		"apply_nums": "93세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940101&pblancNo=2025940101&houseSecd=11",
+		"in_date": "20250508",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "인천 유림노르웨이숲 에듀오션(8차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000151&pblancNo=2025000151&houseSecd=01",
