@@ -1,108 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000114&pblancNo=2025000114&houseSecd=01",
-		"in_date": "20250422",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "용인 푸르지오 원클러스터 2단지",
-		"addr": "경기도 용인시 처인구 남동 산 126-1일원 (A2BL)",
-		"short_addr": "경기도 용인시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "용인시",
-		"apply_nums": "1804세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000115&pblancNo=2025000115&houseSecd=01",
-		"in_date": "20250422",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "용인 푸르지오 원클러스터 3단지",
-		"addr": "경기도 용인시 처인구 남동 243일원 (A3BL)",
-		"short_addr": "경기도 용인시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "용인시",
-		"apply_nums": "239세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000098&pblancNo=2025000098&houseSecd=01",
-		"in_date": "20250422",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "해링턴 스퀘어 산곡역",
-		"addr": "인천광역시 부평구 산곡1동 87-903번지 일원",
-		"short_addr": "인천광역시 부평구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "부평구",
-		"apply_nums": "1248세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000116&pblancNo=2025000116&houseSecd=01",
-		"in_date": "20250422",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "회천중앙역 로제비앙 그랜드센텀",
-		"addr": "경기도 양주시 회정동 양주신도시 회천지구 A11블록",
-		"short_addr": "경기도 양주시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "양주시",
-		"apply_nums": "642세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000109&pblancNo=2025000109&houseSecd=01",
-		"in_date": "20250422",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "해운대 하이루프33",
-		"addr": "부산광역시 해운대구 중동 1394-72 외 3필지 ",
-		"short_addr": "부산광역시 해운대구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "해운대구",
-		"apply_nums": "44세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910066&pblancNo=2025910066&houseSecd=04",
-		"in_date": "20250422",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "그란츠 리버파크(3차)",
-		"addr": "서울특별시 강동구 성내동 15번지 일대",
-		"short_addr": "서울특별시 강동구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강동구",
-		"apply_nums": "3세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940091&pblancNo=2025940091&houseSecd=11",
-		"in_date": "20250422",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "개봉 루브루(6차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940093&pblancNo=2025940093&houseSecd=11",
-		"in_date": "20250422",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "아산자이 그랜드파크 1단지"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940095&pblancNo=2025940095&houseSecd=11",
-		"in_date": "20250422",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "안성당왕 경남아너스빌 하이스트"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000114&pblancNo=2025000114&houseSecd=01",
 		"in_date": "20250423",
 		"hsecd": "01",
 		"rse": "02",
@@ -704,6 +602,19 @@
 		"apply_nums": "10세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930017&pblancNo=2025930017&houseSecd=06",
+		"in_date": "20250430",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "동성로 SK 리더스뷰",
+		"addr": "대구광역시 중구 공평로 36(삼덕동2가)",
+		"short_addr": "대구광역시 중구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "1세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850006&pblancNo=2025850006&houseSecd=03",
 		"in_date": "20250501",
 		"hsecd": "03",
@@ -826,6 +737,32 @@
 		"apply_nums": "69세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000127&pblancNo=2025000127&houseSecd=01",
+		"in_date": "20250507",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "북수원이목지구 대방 디에트르 더 리체Ⅱ(A3BL)",
+		"addr": "경기도 수원시 장안구 이목동 종전부동산 이목지구 도시개발사업 A3블록 공동주택용지",
+		"short_addr": "경기도 수원시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "수원시",
+		"apply_nums": "1744세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000157&pblancNo=2025000157&houseSecd=01",
+		"in_date": "20250507",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "해운대경동리인뷰",
+		"addr": "부산광역시 해운대구 중동 1156-2번지 일원",
+		"short_addr": "부산광역시 해운대구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "해운대구",
+		"apply_nums": "166세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000149&pblancNo=2025000149&houseSecd=01",
 		"in_date": "20250507",
 		"hsecd": "01",
@@ -889,6 +826,32 @@
 		"apply_nums": "69세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000127&pblancNo=2025000127&houseSecd=01",
+		"in_date": "20250508",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "북수원이목지구 대방 디에트르 더 리체Ⅱ(A3BL)",
+		"addr": "경기도 수원시 장안구 이목동 종전부동산 이목지구 도시개발사업 A3블록 공동주택용지",
+		"short_addr": "경기도 수원시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "수원시",
+		"apply_nums": "1744세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000157&pblancNo=2025000157&houseSecd=01",
+		"in_date": "20250508",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "해운대경동리인뷰",
+		"addr": "부산광역시 해운대구 중동 1156-2번지 일원",
+		"short_addr": "부산광역시 해운대구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "해운대구",
+		"apply_nums": "166세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000149&pblancNo=2025000149&houseSecd=01",
 		"in_date": "20250508",
 		"hsecd": "01",
@@ -921,5 +884,31 @@
 		"addr_lv1": "부산광역시",
 		"addr_lv2": "부산진구",
 		"apply_nums": "69세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000127&pblancNo=2025000127&houseSecd=01",
+		"in_date": "20250509",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "북수원이목지구 대방 디에트르 더 리체Ⅱ(A3BL)",
+		"addr": "경기도 수원시 장안구 이목동 종전부동산 이목지구 도시개발사업 A3블록 공동주택용지",
+		"short_addr": "경기도 수원시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "수원시",
+		"apply_nums": "1744세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000157&pblancNo=2025000157&houseSecd=01",
+		"in_date": "20250509",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "해운대경동리인뷰",
+		"addr": "부산광역시 해운대구 중동 1156-2번지 일원",
+		"short_addr": "부산광역시 해운대구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "해운대구",
+		"apply_nums": "166세대"
 	}
 ]
