@@ -4,6 +4,30 @@
 		<link></link>
 		<description></description>
 		<item>
+			<title><![CDATA[ HEYZO-3595 ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih:7e1b44bdfd0cdba192927112726ba380f69e65f7 ]]></link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ HEYZO-3595 ]]></showrss:showname>
+		</item>
+		<item>
+			<title><![CDATA[ 091424-001-carib ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih:92bf90929c1b34386ae834f50cdfdba62802df61 ]]></link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ 091424-001-carib ]]></showrss:showname>
+		</item>
+		<item>
+			<title><![CDATA[ 091424-001-carib ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih:ffc56fcfe319caf1e8bc4fa67db66c0268eb9b97 ]]></link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ 091424-001-carib ]]></showrss:showname>
+		</item>
+		<item>
+			<title><![CDATA[ 091424-001-carib ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih:8e2e7d4e952cd4233c959eae79725bbc372d7ce0 ]]></link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ 091424-001-carib ]]></showrss:showname>
+		</item>
+		<item>
 			<title><![CDATA[ 042525_001-1pondo ]]></title>
 			<link><![CDATA[ magnet:?xt=urn:btih:4508dbcc5187d2786268e0a53f13ff0860639bd3 ]]></link>
 			<showrss:showid></showrss:showid>
@@ -278,30 +302,6 @@
 			<link><![CDATA[ magnet:?xt=urn:btih:32be3686c9be90eb62c6add29d7d5e154607fa75 ]]></link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ HEYZO-3568 ]]></showrss:showname>
-		</item>
-		<item>
-			<title><![CDATA[ 010225-001-carib ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:7060298768d5712f88660d640a64929478210759 ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ 010225-001-carib ]]></showrss:showname>
-		</item>
-		<item>
-			<title><![CDATA[ 010225-001-carib ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:3ec7088c43eadf67fecf3105eb3659e3c1b309d8 ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ 010225-001-carib ]]></showrss:showname>
-		</item>
-		<item>
-			<title><![CDATA[ 010225-001-carib ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:ddfdd4f627a3f4108956ad03d03d6c87b22af5cd ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ 010225-001-carib ]]></showrss:showname>
-		</item>
-		<item>
-			<title><![CDATA[ 010225-001-carib ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:29f9f199c5329c576899488fdb55ddf1eed2548c ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ 010225-001-carib ]]></showrss:showname>
 		</item>
 	</channel>
 </rss>
