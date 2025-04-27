@@ -1,39 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000114&pblancNo=2025000114&houseSecd=01",
-		"in_date": "20250424",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "용인 푸르지오 원클러스터 2단지",
-		"addr": "경기도 용인시 처인구 남동 산 126-1일원 (A2BL)",
-		"short_addr": "경기도 용인시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "용인시",
-		"apply_nums": "1804세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000115&pblancNo=2025000115&houseSecd=01",
-		"in_date": "20250424",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "용인 푸르지오 원클러스터 3단지",
-		"addr": "경기도 용인시 처인구 남동 243일원 (A3BL)",
-		"short_addr": "경기도 용인시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "용인시",
-		"apply_nums": "239세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940095&pblancNo=2025940095&houseSecd=11",
-		"in_date": "20250424",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "안성당왕 경남아너스빌 하이스트"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000112&pblancNo=2025000112&houseSecd=01",
 		"in_date": "20250428",
 		"hsecd": "01",
