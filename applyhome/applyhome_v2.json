@@ -698,6 +698,43 @@
 		"name": "대전관평 예미지 어반코어(1356)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850009&pblancNo=2025850009&houseSecd=03",
+		"in_date": "20250507",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "북수원 이목 시티프라디움 더블리스"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910072&pblancNo=2025910072&houseSecd=04",
+		"in_date": "20250507",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "e편한세상 제천 더프라임",
+		"addr": "충청북도 제천시 장락동 469-7번지 외 8필지",
+		"short_addr": "충청북도 제천시",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "제천시",
+		"apply_nums": "20세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940104&pblancNo=2025940104&houseSecd=11",
+		"in_date": "20250507",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(5차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940100&pblancNo=2025940100&houseSecd=11",
+		"in_date": "20250507",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "아크로 베스티뉴"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940101&pblancNo=2025940101&houseSecd=11",
 		"in_date": "20250507",
 		"hsecd": "11",
@@ -758,6 +795,30 @@
 		"apply_nums": "93세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850009&pblancNo=2025850009&houseSecd=03",
+		"in_date": "20250508",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "북수원 이목 시티프라디움 더블리스"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940099&pblancNo=2025940099&houseSecd=11",
+		"in_date": "20250508",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "VIORR(비오르)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940104&pblancNo=2025940104&houseSecd=11",
+		"in_date": "20250508",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(5차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940101&pblancNo=2025940101&houseSecd=11",
 		"in_date": "20250508",
 		"hsecd": "11",
@@ -803,5 +864,139 @@
 		"addr_lv1": "부산광역시",
 		"addr_lv2": "해운대구",
 		"apply_nums": "166세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850009&pblancNo=2025850009&houseSecd=03",
+		"in_date": "20250509",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "북수원 이목 시티프라디움 더블리스"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940099&pblancNo=2025940099&houseSecd=11",
+		"in_date": "20250509",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "VIORR(비오르)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940104&pblancNo=2025940104&houseSecd=11",
+		"in_date": "20250509",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(5차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940104&pblancNo=2025940104&houseSecd=11",
+		"in_date": "20250510",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(5차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940104&pblancNo=2025940104&houseSecd=11",
+		"in_date": "20250511",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(5차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000139&pblancNo=2025000139&houseSecd=01",
+		"in_date": "20250512",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "고양 더샵포레나",
+		"addr": "경기도 고양시 덕양구 주교동 559-1번지 일대",
+		"short_addr": "경기도 고양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "고양시",
+		"apply_nums": "636세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000168&pblancNo=2025000168&houseSecd=01",
+		"in_date": "20250512",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "더파크 수성못",
+		"addr": "대구광역시 수성구 지산동 1055-1번지 일원",
+		"short_addr": "대구광역시 수성구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "수성구",
+		"apply_nums": "108세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940104&pblancNo=2025940104&houseSecd=11",
+		"in_date": "20250512",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(5차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000139&pblancNo=2025000139&houseSecd=01",
+		"in_date": "20250513",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "고양 더샵포레나",
+		"addr": "경기도 고양시 덕양구 주교동 559-1번지 일대",
+		"short_addr": "경기도 고양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "고양시",
+		"apply_nums": "636세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000168&pblancNo=2025000168&houseSecd=01",
+		"in_date": "20250513",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "더파크 수성못",
+		"addr": "대구광역시 수성구 지산동 1055-1번지 일원",
+		"short_addr": "대구광역시 수성구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "수성구",
+		"apply_nums": "108세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940104&pblancNo=2025940104&houseSecd=11",
+		"in_date": "20250513",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(5차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000139&pblancNo=2025000139&houseSecd=01",
+		"in_date": "20250514",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "고양 더샵포레나",
+		"addr": "경기도 고양시 덕양구 주교동 559-1번지 일대",
+		"short_addr": "경기도 고양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "고양시",
+		"apply_nums": "636세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000168&pblancNo=2025000168&houseSecd=01",
+		"in_date": "20250514",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "더파크 수성못",
+		"addr": "대구광역시 수성구 지산동 1055-1번지 일원",
+		"short_addr": "대구광역시 수성구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "수성구",
+		"apply_nums": "108세대"
 	}
 ]
