@@ -206,6 +206,19 @@
 		"name": "북수원 이목 시티프라디움 더블리스"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950014&pblancNo=2025950014&houseSecd=02",
+		"in_date": "20250507",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "푸르지오 스타셀라49",
+		"addr": "인천광역시 서구 청라동 6-7, 6-8번지(인천경제자유구역 청라국제도시 C18BL) 일대",
+		"short_addr": "인천광역시 서구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "50세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910072&pblancNo=2025910072&houseSecd=04",
 		"in_date": "20250507",
 		"hsecd": "04",
@@ -217,6 +230,19 @@
 		"addr_lv1": "충청북도",
 		"addr_lv2": "제천시",
 		"apply_nums": "20세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910073&pblancNo=2025910073&houseSecd=04",
+		"in_date": "20250507",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "에비뉴 청계 II(10차)",
+		"addr": "서울특별시 종로구 숭인동 1420번지",
+		"short_addr": "서울특별시 종로구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "종로구",
+		"apply_nums": "18세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940104&pblancNo=2025940104&houseSecd=11",
@@ -303,6 +329,19 @@
 		"name": "북수원 이목 시티프라디움 더블리스"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950014&pblancNo=2025950014&houseSecd=02",
+		"in_date": "20250508",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "푸르지오 스타셀라49",
+		"addr": "인천광역시 서구 청라동 6-7, 6-8번지(인천경제자유구역 청라국제도시 C18BL) 일대",
+		"short_addr": "인천광역시 서구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "50세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940099&pblancNo=2025940099&houseSecd=11",
 		"in_date": "20250508",
 		"hsecd": "11",
@@ -311,12 +350,28 @@
 		"name": "VIORR(비오르)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940103&pblancNo=2025940103&houseSecd=11",
+		"in_date": "20250508",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "고촌센트럴자이(4차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940104&pblancNo=2025940104&houseSecd=11",
 		"in_date": "20250508",
 		"hsecd": "11",
 		"rse": "11",
 		"type": "",
 		"name": "리아츠 더 인천(5차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940106&pblancNo=2025940106&houseSecd=11",
+		"in_date": "20250508",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "부천아테라자이(부천괴안지구 B-2블록) 8차"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940101&pblancNo=2025940101&houseSecd=11",
@@ -380,6 +435,14 @@
 		"rse": "11",
 		"type": "",
 		"name": "VIORR(비오르)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940103&pblancNo=2025940103&houseSecd=11",
+		"in_date": "20250509",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "고촌센트럴자이(4차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940104&pblancNo=2025940104&houseSecd=11",
