@@ -15,5 +15,17 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ 나는 solo 나는 솔로.e199.250430.1080p.h264-f1rst.mp4 ]]></showrss:showname>
 		</item>
+		<item>
+			<title><![CDATA[ 라디오스타.e912.250430.1080p.h264-f1rst.mp4 ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih:d4870b96aeb70e2b4d22a11fcf5d4ce4dafd3e66 ]]></link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ 라디오스타.e912.250430.1080p.h264-f1rst.mp4 ]]></showrss:showname>
+		</item>
+		<item>
+			<title><![CDATA[ 살아보고서.e06.250430.1080p.h264-f1rst.mp4 ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih:5318b72c24fd7b0cc54e5a1af371079992788943 ]]></link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ 살아보고서.e06.250430.1080p.h264-f1rst.mp4 ]]></showrss:showname>
+		</item>
 	</channel>
 </rss>
