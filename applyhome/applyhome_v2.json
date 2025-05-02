@@ -232,6 +232,19 @@
 		"apply_nums": "20세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910074&pblancNo=2025910074&houseSecd=04",
+		"in_date": "20250507",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "세운 푸르지오 헤리시티 아파트 (4차)",
+		"addr": "서울특별시 중구 마른내로 79 (인현동2가, 세운 푸르지오 헤리시티)",
+		"short_addr": "서울특별시 중구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "중구",
+		"apply_nums": "1세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910073&pblancNo=2025910073&houseSecd=04",
 		"in_date": "20250507",
 		"hsecd": "04",
@@ -340,6 +353,19 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "서구",
 		"apply_nums": "50세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910074&pblancNo=2025910074&houseSecd=04",
+		"in_date": "20250508",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "세운 푸르지오 헤리시티 아파트 (4차)",
+		"addr": "서울특별시 중구 마른내로 79 (인현동2가, 세운 푸르지오 헤리시티)",
+		"short_addr": "서울특별시 중구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "중구",
+		"apply_nums": "1세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940099&pblancNo=2025940099&houseSecd=11",
@@ -495,6 +521,19 @@
 		"apply_nums": "108세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000165&pblancNo=2025000165&houseSecd=01",
+		"in_date": "20250512",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "에코델타시티 중흥S-클래스 에듀리버",
+		"addr": "부산광역시 강서구 강동동 에코델타시티 4BL",
+		"short_addr": "부산광역시 강서구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "강서구",
+		"apply_nums": "728세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000161&pblancNo=2025000161&houseSecd=01",
 		"in_date": "20250512",
 		"hsecd": "01",
@@ -542,6 +581,19 @@
 		"apply_nums": "108세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000165&pblancNo=2025000165&houseSecd=01",
+		"in_date": "20250513",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "에코델타시티 중흥S-클래스 에듀리버",
+		"addr": "부산광역시 강서구 강동동 에코델타시티 4BL",
+		"short_addr": "부산광역시 강서구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "강서구",
+		"apply_nums": "728세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000161&pblancNo=2025000161&houseSecd=01",
 		"in_date": "20250513",
 		"hsecd": "01",
@@ -587,6 +639,19 @@
 		"addr_lv1": "대구광역시",
 		"addr_lv2": "수성구",
 		"apply_nums": "108세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000165&pblancNo=2025000165&houseSecd=01",
+		"in_date": "20250514",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "에코델타시티 중흥S-클래스 에듀리버",
+		"addr": "부산광역시 강서구 강동동 에코델타시티 4BL",
+		"short_addr": "부산광역시 강서구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "강서구",
+		"apply_nums": "728세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000161&pblancNo=2025000161&houseSecd=01",
