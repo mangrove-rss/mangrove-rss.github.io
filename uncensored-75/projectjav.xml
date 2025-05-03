@@ -201,17 +201,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ HEYZO-3594 ]]></showrss:showname>
 		</item>
-		<item>
-			<title><![CDATA[ 042525-001-carib ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:3e988d9b986d16464f4499b30b98e8485b60d654 ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ 042525-001-carib ]]></showrss:showname>
-		</item>
-		<item>
-			<title><![CDATA[ 042525-001-carib ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:68c5f087cd6b8de1d97d095d029394e20d658fdd ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ 042525-001-carib ]]></showrss:showname>
-		</item>
 	</channel>
 </rss>
