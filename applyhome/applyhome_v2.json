@@ -1,42 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000154&pblancNo=2025000154&houseSecd=01",
-		"in_date": "20250502",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "더샵 송도마리나베이(조합원 자격상실세대 3회차)",
-		"addr": "인천광역시 연수구 송도동 308-1번지(송도국제도시 송도랜드마크시티 6,8공구 A1블록)",
-		"short_addr": "인천광역시 연수구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "연수구",
-		"apply_nums": "1세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850006&pblancNo=2025850006&houseSecd=03",
-		"in_date": "20250502",
-		"hsecd": "03",
-		"rse": "04",
-		"type": "",
-		"name": "대전관평 예미지 어반코어(1345)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850007&pblancNo=2025850007&houseSecd=03",
-		"in_date": "20250502",
-		"hsecd": "03",
-		"rse": "04",
-		"type": "",
-		"name": "대전관평 예미지 어반코어(1356)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940102&pblancNo=2025940102&houseSecd=11",
-		"in_date": "20250502",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "연신내 양우내안애 퍼스티지(8차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850006&pblancNo=2025850006&houseSecd=03",
 		"in_date": "20250503",
 		"hsecd": "03",
