@@ -1,22 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850006&pblancNo=2025850006&houseSecd=03",
-		"in_date": "20250504",
-		"hsecd": "03",
-		"rse": "04",
-		"type": "",
-		"name": "대전관평 예미지 어반코어(1345)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850007&pblancNo=2025850007&houseSecd=03",
-		"in_date": "20250504",
-		"hsecd": "03",
-		"rse": "04",
-		"type": "",
-		"name": "대전관평 예미지 어반코어(1356)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850006&pblancNo=2025850006&houseSecd=03",
 		"in_date": "20250505",
 		"hsecd": "03",
 		"rse": "04",
@@ -189,6 +173,14 @@
 		"apply_nums": "18세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940104&pblancNo=2025940104&houseSecd=11",
+		"in_date": "20250507",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(5차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940100&pblancNo=2025940100&houseSecd=11",
 		"in_date": "20250507",
 		"hsecd": "11",
@@ -307,6 +299,14 @@
 		"name": "고촌센트럴자이(4차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940104&pblancNo=2025940104&houseSecd=11",
+		"in_date": "20250508",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(5차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940106&pblancNo=2025940106&houseSecd=11",
 		"in_date": "20250508",
 		"hsecd": "11",
@@ -384,6 +384,38 @@
 		"rse": "11",
 		"type": "",
 		"name": "고촌센트럴자이(4차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940104&pblancNo=2025940104&houseSecd=11",
+		"in_date": "20250509",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(5차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940105&pblancNo=2025940105&houseSecd=11",
+		"in_date": "20250509",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "서울원 아이파크 임의공급(3차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940104&pblancNo=2025940104&houseSecd=11",
+		"in_date": "20250510",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(5차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940104&pblancNo=2025940104&houseSecd=11",
+		"in_date": "20250511",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(5차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000139&pblancNo=2025000139&houseSecd=01",
@@ -464,6 +496,14 @@
 		"apply_nums": "1세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940104&pblancNo=2025940104&houseSecd=11",
+		"in_date": "20250512",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(5차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000139&pblancNo=2025000139&houseSecd=01",
 		"in_date": "20250513",
 		"hsecd": "01",
@@ -527,6 +567,14 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "중구",
 		"apply_nums": "28세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940104&pblancNo=2025940104&houseSecd=11",
+		"in_date": "20250513",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(5차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000139&pblancNo=2025000139&houseSecd=01",
