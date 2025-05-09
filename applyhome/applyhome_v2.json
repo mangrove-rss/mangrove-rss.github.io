@@ -1,21 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850006&pblancNo=2025850006&houseSecd=03",
-		"in_date": "20250506",
-		"hsecd": "03",
-		"rse": "04",
-		"type": "",
-		"name": "대전관평 예미지 어반코어(1345)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850007&pblancNo=2025850007&houseSecd=03",
-		"in_date": "20250506",
-		"hsecd": "03",
-		"rse": "04",
-		"type": "",
-		"name": "대전관평 예미지 어반코어(1356)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000151&pblancNo=2025000151&houseSecd=01",
 		"in_date": "20250507",
 		"hsecd": "01",
@@ -642,6 +626,19 @@
 		"apply_nums": "28세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930020&pblancNo=2025930020&houseSecd=06",
+		"in_date": "20250514",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "두류역자이",
+		"addr": "대구광역시 서구 내당동 220-1번지 일원",
+		"short_addr": "대구광역시 서구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "2세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930019&pblancNo=2025930019&houseSecd=06",
 		"in_date": "20250514",
 		"hsecd": "06",
@@ -655,6 +652,19 @@
 		"apply_nums": "5세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930020&pblancNo=2025930020&houseSecd=06",
+		"in_date": "20250515",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "두류역자이",
+		"addr": "대구광역시 서구 내당동 220-1번지 일원",
+		"short_addr": "대구광역시 서구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "2세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000164&pblancNo=2025000164&houseSecd=01",
 		"in_date": "20250519",
 		"hsecd": "01",
@@ -705,6 +715,32 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "화성시",
 		"apply_nums": "403세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000148&pblancNo=2025000148&houseSecd=01",
+		"in_date": "20250519",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "벤처밸리 푸르지오",
+		"addr": "대구광역시 동구 신천동 311-4번지 일원",
+		"short_addr": "대구광역시 동구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "동구",
+		"apply_nums": "540세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000176&pblancNo=2025000176&houseSecd=01",
+		"in_date": "20250519",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "의성 골든렉시움",
+		"addr": "경상북도 의성군 의성읍 의성사곡로 2 (골든렉시움)",
+		"short_addr": "경상북도 의성군",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "의성군",
+		"apply_nums": "90세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000177&pblancNo=2025000177&houseSecd=01",
@@ -720,6 +756,19 @@
 		"apply_nums": "483세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000053&pblancNo=2025000053&houseSecd=01",
+		"in_date": "20250519",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "더샵 금정위버시티(조합원 취소분)",
+		"addr": "부산광역시 금정구 부곡동 200-1번지 일원",
+		"short_addr": "부산광역시 금정구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "금정구",
+		"apply_nums": "30세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000164&pblancNo=2025000164&houseSecd=01",
 		"in_date": "20250520",
 		"hsecd": "01",
@@ -770,6 +819,32 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "화성시",
 		"apply_nums": "403세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000148&pblancNo=2025000148&houseSecd=01",
+		"in_date": "20250520",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "벤처밸리 푸르지오",
+		"addr": "대구광역시 동구 신천동 311-4번지 일원",
+		"short_addr": "대구광역시 동구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "동구",
+		"apply_nums": "540세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000176&pblancNo=2025000176&houseSecd=01",
+		"in_date": "20250520",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "의성 골든렉시움",
+		"addr": "경상북도 의성군 의성읍 의성사곡로 2 (골든렉시움)",
+		"short_addr": "경상북도 의성군",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "의성군",
+		"apply_nums": "90세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000177&pblancNo=2025000177&houseSecd=01",
@@ -785,6 +860,19 @@
 		"apply_nums": "483세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000053&pblancNo=2025000053&houseSecd=01",
+		"in_date": "20250520",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "더샵 금정위버시티(조합원 취소분)",
+		"addr": "부산광역시 금정구 부곡동 200-1번지 일원",
+		"short_addr": "부산광역시 금정구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "금정구",
+		"apply_nums": "30세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000164&pblancNo=2025000164&houseSecd=01",
 		"in_date": "20250521",
 		"hsecd": "01",
@@ -835,6 +923,32 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "화성시",
 		"apply_nums": "403세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000148&pblancNo=2025000148&houseSecd=01",
+		"in_date": "20250521",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "벤처밸리 푸르지오",
+		"addr": "대구광역시 동구 신천동 311-4번지 일원",
+		"short_addr": "대구광역시 동구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "동구",
+		"apply_nums": "540세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000176&pblancNo=2025000176&houseSecd=01",
+		"in_date": "20250521",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "의성 골든렉시움",
+		"addr": "경상북도 의성군 의성읍 의성사곡로 2 (골든렉시움)",
+		"short_addr": "경상북도 의성군",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "의성군",
+		"apply_nums": "90세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000177&pblancNo=2025000177&houseSecd=01",
