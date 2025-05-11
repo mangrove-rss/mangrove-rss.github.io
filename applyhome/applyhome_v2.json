@@ -1,132 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000151&pblancNo=2025000151&houseSecd=01",
-		"in_date": "20250508",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "디 에이션 파크 부산",
-		"addr": "부산광역시 부산진구 범전로 7 ",
-		"short_addr": "부산광역시 부산진구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "부산진구",
-		"apply_nums": "69세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000127&pblancNo=2025000127&houseSecd=01",
-		"in_date": "20250508",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "북수원이목지구 대방 디에트르 더 리체Ⅱ(A3BL)",
-		"addr": "경기도 수원시 장안구 이목동 종전부동산 이목지구 도시개발사업 A3블록 공동주택용지",
-		"short_addr": "경기도 수원시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "수원시",
-		"apply_nums": "1744세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000157&pblancNo=2025000157&houseSecd=01",
-		"in_date": "20250508",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "해운대경동리인뷰",
-		"addr": "부산광역시 해운대구 중동 1156-2번지 일원",
-		"short_addr": "부산광역시 해운대구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "해운대구",
-		"apply_nums": "166세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000149&pblancNo=2025000149&houseSecd=01",
-		"in_date": "20250508",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "서산 테크노밸리 고운하이츠 우선분양전환 후 잔여세대",
-		"addr": "충청남도 서산시 성연면 일람리 서산테크노밸리 A10b, A11b (성연3로 11) ",
-		"short_addr": "충청남도 서산시",
-		"addr_lv1": "충청남도",
-		"addr_lv2": "서산시",
-		"apply_nums": "93세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850009&pblancNo=2025850009&houseSecd=03",
-		"in_date": "20250508",
-		"hsecd": "03",
-		"rse": "04",
-		"type": "",
-		"name": "북수원 이목 시티프라디움 더블리스"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950014&pblancNo=2025950014&houseSecd=02",
-		"in_date": "20250508",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "푸르지오 스타셀라49",
-		"addr": "인천광역시 서구 청라동 6-7, 6-8번지(인천경제자유구역 청라국제도시 C18BL) 일대",
-		"short_addr": "인천광역시 서구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "서구",
-		"apply_nums": "50세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910074&pblancNo=2025910074&houseSecd=04",
-		"in_date": "20250508",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "세운 푸르지오 헤리시티 아파트 (4차)",
-		"addr": "서울특별시 중구 마른내로 79 (인현동2가, 세운 푸르지오 헤리시티)",
-		"short_addr": "서울특별시 중구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "중구",
-		"apply_nums": "1세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940099&pblancNo=2025940099&houseSecd=11",
-		"in_date": "20250508",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "VIORR(비오르)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940103&pblancNo=2025940103&houseSecd=11",
-		"in_date": "20250508",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "고촌센트럴자이(4차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940104&pblancNo=2025940104&houseSecd=11",
-		"in_date": "20250508",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "리아츠 더 인천(5차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940106&pblancNo=2025940106&houseSecd=11",
-		"in_date": "20250508",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "부천아테라자이(부천괴안지구 B-2블록) 8차"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940101&pblancNo=2025940101&houseSecd=11",
-		"in_date": "20250508",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "인천 유림노르웨이숲 에듀오션(8차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000151&pblancNo=2025000151&houseSecd=01",
 		"in_date": "20250509",
 		"hsecd": "01",
 		"rse": "03",
@@ -797,5 +671,31 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "은평구",
 		"apply_nums": "483세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000190&pblancNo=2025000190&houseSecd=01",
+		"in_date": "20250522",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "전주·완주 혁신도시 에코르 2단지 공가세대 일반공급",
+		"addr": "전북특별자치도 완주군 이서면 지사제로 29 (혁신도시 에코르 2단지 아파트)",
+		"short_addr": "전북특별자치도 완주군",
+		"addr_lv1": "전북특별자치도",
+		"addr_lv2": "완주군",
+		"apply_nums": "28세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000190&pblancNo=2025000190&houseSecd=01",
+		"in_date": "20250523",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "전주·완주 혁신도시 에코르 2단지 공가세대 일반공급",
+		"addr": "전북특별자치도 완주군 이서면 지사제로 29 (혁신도시 에코르 2단지 아파트)",
+		"short_addr": "전북특별자치도 완주군",
+		"addr_lv1": "전북특별자치도",
+		"addr_lv2": "완주군",
+		"apply_nums": "28세대"
 	}
 ]
