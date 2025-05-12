@@ -1,84 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000151&pblancNo=2025000151&houseSecd=01",
-		"in_date": "20250509",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "디 에이션 파크 부산",
-		"addr": "부산광역시 부산진구 범전로 7 ",
-		"short_addr": "부산광역시 부산진구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "부산진구",
-		"apply_nums": "69세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000127&pblancNo=2025000127&houseSecd=01",
-		"in_date": "20250509",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "북수원이목지구 대방 디에트르 더 리체Ⅱ(A3BL)",
-		"addr": "경기도 수원시 장안구 이목동 종전부동산 이목지구 도시개발사업 A3블록 공동주택용지",
-		"short_addr": "경기도 수원시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "수원시",
-		"apply_nums": "1744세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000157&pblancNo=2025000157&houseSecd=01",
-		"in_date": "20250509",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "해운대경동리인뷰",
-		"addr": "부산광역시 해운대구 중동 1156-2번지 일원",
-		"short_addr": "부산광역시 해운대구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "해운대구",
-		"apply_nums": "166세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850009&pblancNo=2025850009&houseSecd=03",
-		"in_date": "20250509",
-		"hsecd": "03",
-		"rse": "04",
-		"type": "",
-		"name": "북수원 이목 시티프라디움 더블리스"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940099&pblancNo=2025940099&houseSecd=11",
-		"in_date": "20250509",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "VIORR(비오르)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940103&pblancNo=2025940103&houseSecd=11",
-		"in_date": "20250509",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "고촌센트럴자이(4차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940104&pblancNo=2025940104&houseSecd=11",
-		"in_date": "20250509",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "리아츠 더 인천(5차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940105&pblancNo=2025940105&houseSecd=11",
-		"in_date": "20250509",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "서울원 아이파크 임의공급(3차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940104&pblancNo=2025940104&houseSecd=11",
 		"in_date": "20250510",
 		"hsecd": "11",
@@ -374,6 +295,14 @@
 		"apply_nums": "2세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940109&pblancNo=2025940109&houseSecd=11",
+		"in_date": "20250515",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "양평동 동문 디 이스트(4차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000164&pblancNo=2025000164&houseSecd=01",
 		"in_date": "20250519",
 		"hsecd": "01",
@@ -476,6 +405,27 @@
 		"addr_lv1": "부산광역시",
 		"addr_lv2": "금정구",
 		"apply_nums": "30세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850010&pblancNo=2025850010&houseSecd=03",
+		"in_date": "20250519",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "서울은평뉴타운 디에트르 더 퍼스트"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950016&pblancNo=2025950016&houseSecd=02",
+		"in_date": "20250519",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "더샵 강동센트럴시티",
+		"addr": "서울특별시 강동구 천호동 410-100번지 일대",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "6세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000164&pblancNo=2025000164&houseSecd=01",
