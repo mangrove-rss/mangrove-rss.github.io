@@ -1,14 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940104&pblancNo=2025940104&houseSecd=11",
-		"in_date": "20250510",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "리아츠 더 인천(5차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940104&pblancNo=2025940104&houseSecd=11",
 		"in_date": "20250511",
 		"hsecd": "11",
 		"rse": "11",
@@ -303,6 +295,22 @@
 		"name": "양평동 동문 디 이스트(4차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940110&pblancNo=2025940110&houseSecd=11",
+		"in_date": "20250516",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "블랑 써밋 74"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940111&pblancNo=2025940111&houseSecd=11",
+		"in_date": "20250516",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "엘리프 하이디움 2단지(3차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000164&pblancNo=2025000164&houseSecd=01",
 		"in_date": "20250519",
 		"hsecd": "01",
@@ -428,6 +436,19 @@
 		"apply_nums": "6세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950018&pblancNo=2025950018&houseSecd=02",
+		"in_date": "20250519",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "잠실시그니처 오피스텔",
+		"addr": "서울특별시 송파구 오금로11길 61-15 (방이동)",
+		"short_addr": "서울특별시 송파구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "송파구",
+		"apply_nums": "31세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000164&pblancNo=2025000164&houseSecd=01",
 		"in_date": "20250520",
 		"hsecd": "01",
@@ -530,6 +551,19 @@
 		"addr_lv1": "부산광역시",
 		"addr_lv2": "금정구",
 		"apply_nums": "30세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950018&pblancNo=2025950018&houseSecd=02",
+		"in_date": "20250520",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "잠실시그니처 오피스텔",
+		"addr": "서울특별시 송파구 오금로11길 61-15 (방이동)",
+		"short_addr": "서울특별시 송파구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "송파구",
+		"apply_nums": "31세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000164&pblancNo=2025000164&houseSecd=01",
