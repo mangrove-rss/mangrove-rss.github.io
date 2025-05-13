@@ -22,12 +22,6 @@
 			<showrss:showname><![CDATA[ xb-567 ]]></showrss:showname>
 		</item>
 		<item>
-			<title><![CDATA[ xb-569 ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:d22301b2c0e115ab374bfb8a9bad8f936461220a ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ xb-569 ]]></showrss:showname>
-		</item>
-		<item>
 			<title><![CDATA[ msd-205 ]]></title>
 			<link><![CDATA[ magnet:?xt=urn:btih:b46e7bd4f4d2a1b8b9205346ff1a110dd294d1dc ]]></link>
 			<showrss:showid></showrss:showid>
@@ -44,6 +38,12 @@
 			<link><![CDATA[ magnet:?xt=urn:btih:406ffde540a000d79b242c29fdad30785d6b864f ]]></link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ xb-562 ]]></showrss:showname>
+		</item>
+		<item>
+			<title><![CDATA[ xb-569 ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih:d22301b2c0e115ab374bfb8a9bad8f936461220a ]]></link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ xb-569 ]]></showrss:showname>
 		</item>
 		<item>
 			<title><![CDATA[ 051125-001-carib ]]></title>
