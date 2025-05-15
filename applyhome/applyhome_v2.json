@@ -1,92 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000139&pblancNo=2025000139&houseSecd=01",
-		"in_date": "20250512",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "고양 더샵포레나",
-		"addr": "경기도 고양시 덕양구 주교동 559-1번지 일대",
-		"short_addr": "경기도 고양시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "고양시",
-		"apply_nums": "636세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000168&pblancNo=2025000168&houseSecd=01",
-		"in_date": "20250512",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "더파크 수성못",
-		"addr": "대구광역시 수성구 지산동 1055-1번지 일원",
-		"short_addr": "대구광역시 수성구",
-		"addr_lv1": "대구광역시",
-		"addr_lv2": "수성구",
-		"apply_nums": "108세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000165&pblancNo=2025000165&houseSecd=01",
-		"in_date": "20250512",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "에코델타시티 중흥S-클래스 에듀리버",
-		"addr": "부산광역시 강서구 강동동 에코델타시티 4BL",
-		"short_addr": "부산광역시 강서구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "강서구",
-		"apply_nums": "728세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000161&pblancNo=2025000161&houseSecd=01",
-		"in_date": "20250512",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "트리븐 안동",
-		"addr": "경상북도 안동시 용상동 산46-1번지 일원",
-		"short_addr": "경상북도 안동시",
-		"addr_lv1": "경상북도",
-		"addr_lv2": "안동시",
-		"apply_nums": "418세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950015&pblancNo=2025950015&houseSecd=02",
-		"in_date": "20250512",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "세운 푸르지오 G-팰리스 1 (생활숙박시설)",
-		"addr": "서울특별시 중구 입정동 97-8번지 일원",
-		"short_addr": "서울특별시 중구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "중구",
-		"apply_nums": "28세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930018&pblancNo=2025930018&houseSecd=06",
-		"in_date": "20250512",
-		"hsecd": "06",
-		"rse": "07",
-		"type": "",
-		"name": "오포자이 디오브 C-4BL",
-		"addr": "경기도 광주시 고산동 705번지",
-		"short_addr": "경기도 광주시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "광주시",
-		"apply_nums": "1세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940104&pblancNo=2025940104&houseSecd=11",
-		"in_date": "20250512",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "리아츠 더 인천(5차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000139&pblancNo=2025000139&houseSecd=01",
 		"in_date": "20250513",
 		"hsecd": "01",
 		"rse": "02",
@@ -657,6 +571,19 @@
 		"apply_nums": "483세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910075&pblancNo=2025910075&houseSecd=04",
+		"in_date": "20250521",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "에스아이팰리스 강동 센텀Ⅱ",
+		"addr": "서울특별시 강동구 길동 386-4 ",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "25세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000190&pblancNo=2025000190&houseSecd=01",
 		"in_date": "20250522",
 		"hsecd": "01",
@@ -668,6 +595,19 @@
 		"addr_lv1": "전북특별자치도",
 		"addr_lv2": "완주군",
 		"apply_nums": "28세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910075&pblancNo=2025910075&houseSecd=04",
+		"in_date": "20250522",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "에스아이팰리스 강동 센텀Ⅱ",
+		"addr": "서울특별시 강동구 길동 386-4 ",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "25세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000190&pblancNo=2025000190&houseSecd=01",
