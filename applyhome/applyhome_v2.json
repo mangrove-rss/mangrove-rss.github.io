@@ -1,95 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000139&pblancNo=2025000139&houseSecd=01",
-		"in_date": "20250513",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "고양 더샵포레나",
-		"addr": "경기도 고양시 덕양구 주교동 559-1번지 일대",
-		"short_addr": "경기도 고양시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "고양시",
-		"apply_nums": "636세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000168&pblancNo=2025000168&houseSecd=01",
-		"in_date": "20250513",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "더파크 수성못",
-		"addr": "대구광역시 수성구 지산동 1055-1번지 일원",
-		"short_addr": "대구광역시 수성구",
-		"addr_lv1": "대구광역시",
-		"addr_lv2": "수성구",
-		"apply_nums": "108세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000165&pblancNo=2025000165&houseSecd=01",
-		"in_date": "20250513",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "에코델타시티 중흥S-클래스 에듀리버",
-		"addr": "부산광역시 강서구 강동동 에코델타시티 4BL",
-		"short_addr": "부산광역시 강서구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "강서구",
-		"apply_nums": "728세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000161&pblancNo=2025000161&houseSecd=01",
-		"in_date": "20250513",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "트리븐 안동",
-		"addr": "경상북도 안동시 용상동 산46-1번지 일원",
-		"short_addr": "경상북도 안동시",
-		"addr_lv1": "경상북도",
-		"addr_lv2": "안동시",
-		"apply_nums": "418세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950015&pblancNo=2025950015&houseSecd=02",
-		"in_date": "20250513",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "세운 푸르지오 G-팰리스 1 (생활숙박시설)",
-		"addr": "서울특별시 중구 입정동 97-8번지 일원",
-		"short_addr": "서울특별시 중구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "중구",
-		"apply_nums": "28세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940108&pblancNo=2025940108&houseSecd=11",
-		"in_date": "20250513",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "거제역 양우내안애 아시아드"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940104&pblancNo=2025940104&houseSecd=11",
-		"in_date": "20250513",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "리아츠 더 인천(5차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940107&pblancNo=2025940107&houseSecd=11",
-		"in_date": "20250513",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "힐스테이트 두정역"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000139&pblancNo=2025000139&houseSecd=01",
 		"in_date": "20250514",
 		"hsecd": "01",
 		"rse": "03",
@@ -636,6 +547,19 @@
 		"apply_nums": "10세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000118&pblancNo=2025000118&houseSecd=01",
+		"in_date": "20250526",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "평택 브레인시티 10BL 앤네이처 미래도",
+		"addr": "경기도 평택시 브레인시티 일반산업단지 공동 10BL 공동주택용지",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "1413세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000186&pblancNo=2025000186&houseSecd=01",
 		"in_date": "20250527",
 		"hsecd": "01",
@@ -649,6 +573,19 @@
 		"apply_nums": "10세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000118&pblancNo=2025000118&houseSecd=01",
+		"in_date": "20250527",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "평택 브레인시티 10BL 앤네이처 미래도",
+		"addr": "경기도 평택시 브레인시티 일반산업단지 공동 10BL 공동주택용지",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "1413세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000186&pblancNo=2025000186&houseSecd=01",
 		"in_date": "20250528",
 		"hsecd": "01",
@@ -660,5 +597,18 @@
 		"addr_lv1": "광주광역시",
 		"addr_lv2": "서구",
 		"apply_nums": "10세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000118&pblancNo=2025000118&houseSecd=01",
+		"in_date": "20250528",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "평택 브레인시티 10BL 앤네이처 미래도",
+		"addr": "경기도 평택시 브레인시티 일반산업단지 공동 10BL 공동주택용지",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "1413세대"
 	}
 ]
