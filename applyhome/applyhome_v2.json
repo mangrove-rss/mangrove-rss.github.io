@@ -1,26 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930020&pblancNo=2025930020&houseSecd=06",
-		"in_date": "20250515",
-		"hsecd": "06",
-		"rse": "07",
-		"type": "",
-		"name": "두류역자이",
-		"addr": "대구광역시 서구 내당동 220-1번지 일원",
-		"short_addr": "대구광역시 서구",
-		"addr_lv1": "대구광역시",
-		"addr_lv2": "서구",
-		"apply_nums": "2세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940109&pblancNo=2025940109&houseSecd=11",
-		"in_date": "20250515",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "양평동 동문 디 이스트(4차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940110&pblancNo=2025940110&houseSecd=11",
 		"in_date": "20250516",
 		"hsecd": "11",
@@ -402,6 +381,14 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "강동구",
 		"apply_nums": "25세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940113&pblancNo=2025940113&houseSecd=11",
+		"in_date": "20250521",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "엘리프 하이디움 1단지(3차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000190&pblancNo=2025000190&houseSecd=01",
