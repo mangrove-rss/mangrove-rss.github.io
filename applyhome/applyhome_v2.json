@@ -440,6 +440,19 @@
 		"apply_nums": "1413세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950017&pblancNo=2025950017&houseSecd=02",
+		"in_date": "20250526",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "과천자이엘라 에디션 오피스텔",
+		"addr": "경기도 과천시 과천지식정보타운 상업 4BL",
+		"short_addr": "경기도 과천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "과천시",
+		"apply_nums": "5세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000186&pblancNo=2025000186&houseSecd=01",
 		"in_date": "20250527",
 		"hsecd": "01",
