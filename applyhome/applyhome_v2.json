@@ -503,5 +503,44 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "평택시",
 		"apply_nums": "1413세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000167&pblancNo=2025000167&houseSecd=01",
+		"in_date": "20250602",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "리버센 SK VIEW 롯데캐슬",
+		"addr": "서울특별시 중랑구 중화동 331-1번지 일원",
+		"short_addr": "서울특별시 중랑구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "중랑구",
+		"apply_nums": "30세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000167&pblancNo=2025000167&houseSecd=01",
+		"in_date": "20250604",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "리버센 SK VIEW 롯데캐슬",
+		"addr": "서울특별시 중랑구 중화동 331-1번지 일원",
+		"short_addr": "서울특별시 중랑구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "중랑구",
+		"apply_nums": "30세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000167&pblancNo=2025000167&houseSecd=01",
+		"in_date": "20250605",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "리버센 SK VIEW 롯데캐슬",
+		"addr": "서울특별시 중랑구 중화동 331-1번지 일원",
+		"short_addr": "서울특별시 중랑구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "중랑구",
+		"apply_nums": "30세대"
 	}
 ]
