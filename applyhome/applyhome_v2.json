@@ -1,152 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000164&pblancNo=2025000164&houseSecd=01",
-		"in_date": "20250519",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "고척 푸르지오 힐스테이트",
-		"addr": "서울특별시 구로구 고척동 148-1",
-		"short_addr": "서울특별시 구로구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "구로구",
-		"apply_nums": "576세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000147&pblancNo=2025000147&houseSecd=01",
-		"in_date": "20250519",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "동탄 꿈의숲 자연앤 데시앙(A78BL)",
-		"addr": "경기도 화성시 산척동 746번지 (화성동탄2 택지개발사업지구 A78BL)",
-		"short_addr": "경기도 화성시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "화성시",
-		"apply_nums": "1170세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000152&pblancNo=2025000152&houseSecd=01",
-		"in_date": "20250519",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "동탄 포레파크 자연앤 푸르지오(A76-2BL)(국민)",
-		"addr": "경기도 화성시 산척동 749번지 (화성동탄2 택지개발사업지구 A76-2BL)",
-		"short_addr": "경기도 화성시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "화성시",
-		"apply_nums": "1121세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000150&pblancNo=2025000150&houseSecd=01",
-		"in_date": "20250519",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "동탄 포레파크 자연앤 푸르지오(A76-2BL)(민영)",
-		"addr": "경기도 화성시 산척동 749번지 (화성동탄2 택지개발사업지구 A76-2BL)",
-		"short_addr": "경기도 화성시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "화성시",
-		"apply_nums": "403세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000148&pblancNo=2025000148&houseSecd=01",
-		"in_date": "20250519",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "벤처밸리 푸르지오",
-		"addr": "대구광역시 동구 신천동 311-4번지 일원",
-		"short_addr": "대구광역시 동구",
-		"addr_lv1": "대구광역시",
-		"addr_lv2": "동구",
-		"apply_nums": "540세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000176&pblancNo=2025000176&houseSecd=01",
-		"in_date": "20250519",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "의성 골든렉시움",
-		"addr": "경상북도 의성군 의성읍 의성사곡로 2 (골든렉시움)",
-		"short_addr": "경상북도 의성군",
-		"addr_lv1": "경상북도",
-		"addr_lv2": "의성군",
-		"apply_nums": "90세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000177&pblancNo=2025000177&houseSecd=01",
-		"in_date": "20250519",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "힐스테이트 메디알레",
-		"addr": "서울특별시 은평구 대조동 88, 89번지 일원",
-		"short_addr": "서울특별시 은평구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "은평구",
-		"apply_nums": "483세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000053&pblancNo=2025000053&houseSecd=01",
-		"in_date": "20250519",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "더샵 금정위버시티(조합원 취소분)",
-		"addr": "부산광역시 금정구 부곡동 200-1번지 일원",
-		"short_addr": "부산광역시 금정구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "금정구",
-		"apply_nums": "30세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850010&pblancNo=2025850010&houseSecd=03",
-		"in_date": "20250519",
-		"hsecd": "03",
-		"rse": "04",
-		"type": "",
-		"name": "서울은평뉴타운 디에트르 더 퍼스트"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950016&pblancNo=2025950016&houseSecd=02",
-		"in_date": "20250519",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "더샵 강동센트럴시티",
-		"addr": "서울특별시 강동구 천호동 410-100번지 일대",
-		"short_addr": "서울특별시 강동구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강동구",
-		"apply_nums": "6세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950018&pblancNo=2025950018&houseSecd=02",
-		"in_date": "20250519",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "잠실시그니처 오피스텔",
-		"addr": "서울특별시 송파구 오금로11길 61-15 (방이동)",
-		"short_addr": "서울특별시 송파구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "송파구",
-		"apply_nums": "31세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940112&pblancNo=2025940112&houseSecd=11",
-		"in_date": "20250519",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "e편한세상 제물포역 파크메종(조합원 취소분)(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000164&pblancNo=2025000164&houseSecd=01",
 		"in_date": "20250520",
 		"hsecd": "01",
 		"rse": "02",
@@ -479,6 +333,22 @@
 		"apply_nums": "1413세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940117&pblancNo=2025940117&houseSecd=11",
+		"in_date": "20250527",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "부천아테라자이(부천괴안지구 B-2블록) 9차"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940114&pblancNo=2025940114&houseSecd=11",
+		"in_date": "20250527",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "연신내 양우내안애 퍼스티지(9차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000186&pblancNo=2025000186&houseSecd=01",
 		"in_date": "20250528",
 		"hsecd": "01",
@@ -503,6 +373,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "평택시",
 		"apply_nums": "1413세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910076&pblancNo=2025910076&houseSecd=04",
+		"in_date": "20250528",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "화성비봉 공공주택지구 B2블록 호반써밋",
+		"addr": "경기도 화성시 비봉면 새비봉서로 130 (화성비봉 호반써밋)",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "2세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000167&pblancNo=2025000167&houseSecd=01",
