@@ -1,32 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000190&pblancNo=2025000190&houseSecd=01",
-		"in_date": "20250522",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "전주·완주 혁신도시 에코르 2단지 공가세대 일반공급",
-		"addr": "전북특별자치도 완주군 이서면 지사제로 29 (혁신도시 에코르 2단지 아파트)",
-		"short_addr": "전북특별자치도 완주군",
-		"addr_lv1": "전북특별자치도",
-		"addr_lv2": "완주군",
-		"apply_nums": "28세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910075&pblancNo=2025910075&houseSecd=04",
-		"in_date": "20250522",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "에스아이팰리스 강동 센텀Ⅱ",
-		"addr": "서울특별시 강동구 길동 386-4 ",
-		"short_addr": "서울특별시 강동구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강동구",
-		"apply_nums": "25세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000190&pblancNo=2025000190&houseSecd=01",
 		"in_date": "20250523",
 		"hsecd": "01",
 		"rse": "03",
@@ -157,6 +131,14 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "화성시",
 		"apply_nums": "2세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940115&pblancNo=2025940115&houseSecd=11",
+		"in_date": "20250529",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "반월역 동문 디 이스트(2차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000194&pblancNo=2025000194&houseSecd=01",
