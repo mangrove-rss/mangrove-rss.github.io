@@ -128,6 +128,22 @@
 		"name": "반월역 동문 디 이스트(2차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940120&pblancNo=2025940120&houseSecd=11",
+		"in_date": "20250530",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "금정역 개성로니엘"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940116&pblancNo=2025940116&houseSecd=11",
+		"in_date": "20250530",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "세종 5-1 양우내안애 아스펜(3차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000194&pblancNo=2025000194&houseSecd=01",
 		"in_date": "20250602",
 		"hsecd": "01",
@@ -243,5 +259,44 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "중랑구",
 		"apply_nums": "30세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000191&pblancNo=2025000191&houseSecd=01",
+		"in_date": "20250609",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "두산위브 트레지움 월산",
+		"addr": "광주광역시 남구 월산동 243-1번지 일원",
+		"short_addr": "광주광역시 남구",
+		"addr_lv1": "광주광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "71세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000191&pblancNo=2025000191&houseSecd=01",
+		"in_date": "20250610",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "두산위브 트레지움 월산",
+		"addr": "광주광역시 남구 월산동 243-1번지 일원",
+		"short_addr": "광주광역시 남구",
+		"addr_lv1": "광주광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "71세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000191&pblancNo=2025000191&houseSecd=01",
+		"in_date": "20250611",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "두산위브 트레지움 월산",
+		"addr": "광주광역시 남구 월산동 243-1번지 일원",
+		"short_addr": "광주광역시 남구",
+		"addr_lv1": "광주광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "71세대"
 	}
 ]
