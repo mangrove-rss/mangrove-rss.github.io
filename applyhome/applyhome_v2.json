@@ -157,6 +157,19 @@
 		"apply_nums": "613세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000178&pblancNo=2025000178&houseSecd=01",
+		"in_date": "20250602",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "더샵 광양레이크센텀 (2회차)",
+		"addr": "전라남도 광양시 마동 348-4번지 일원",
+		"short_addr": "전라남도 광양시",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "광양시",
+		"apply_nums": "208세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000195&pblancNo=2025000195&houseSecd=01",
 		"in_date": "20250602",
 		"hsecd": "01",
@@ -183,6 +196,14 @@
 		"apply_nums": "30세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940118&pblancNo=2025940118&houseSecd=11",
+		"in_date": "20250602",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "한신더휴 하이엔에듀포레(3차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000194&pblancNo=2025000194&houseSecd=01",
 		"in_date": "20250604",
 		"hsecd": "01",
@@ -194,6 +215,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "강동구",
 		"apply_nums": "613세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000178&pblancNo=2025000178&houseSecd=01",
+		"in_date": "20250604",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "더샵 광양레이크센텀 (2회차)",
+		"addr": "전라남도 광양시 마동 348-4번지 일원",
+		"short_addr": "전라남도 광양시",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "광양시",
+		"apply_nums": "208세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000195&pblancNo=2025000195&houseSecd=01",
@@ -233,6 +267,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "강동구",
 		"apply_nums": "613세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000178&pblancNo=2025000178&houseSecd=01",
+		"in_date": "20250605",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "더샵 광양레이크센텀 (2회차)",
+		"addr": "전라남도 광양시 마동 348-4번지 일원",
+		"short_addr": "전라남도 광양시",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "광양시",
+		"apply_nums": "208세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000195&pblancNo=2025000195&houseSecd=01",
