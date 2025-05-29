@@ -1,45 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000186&pblancNo=2025000186&houseSecd=01",
-		"in_date": "20250526",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "상무 양우내안애 퍼스트힐(조합원 취소분)",
-		"addr": "광주광역시 서구 마륵동 47-7 일원",
-		"short_addr": "광주광역시 서구",
-		"addr_lv1": "광주광역시",
-		"addr_lv2": "서구",
-		"apply_nums": "10세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000118&pblancNo=2025000118&houseSecd=01",
-		"in_date": "20250526",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "평택 브레인시티 10BL 앤네이처 미래도",
-		"addr": "경기도 평택시 브레인시티 일반산업단지 공동 10BL 공동주택용지",
-		"short_addr": "경기도 평택시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "평택시",
-		"apply_nums": "1413세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950017&pblancNo=2025950017&houseSecd=02",
-		"in_date": "20250526",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "과천자이엘라 에디션 오피스텔",
-		"addr": "경기도 과천시 과천지식정보타운 상업 4BL",
-		"short_addr": "경기도 과천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "과천시",
-		"apply_nums": "5세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000186&pblancNo=2025000186&houseSecd=01",
 		"in_date": "20250527",
 		"hsecd": "01",
 		"rse": "02",
@@ -256,6 +217,84 @@
 		"apply_nums": "30세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950020&pblancNo=2025950020&houseSecd=02",
+		"in_date": "20250604",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "동탄 대방 엘리움 레이크파크",
+		"addr": "경기도 화성시 송동 725-9번지",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "6세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950021&pblancNo=2025950021&houseSecd=02",
+		"in_date": "20250604",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "동탄2신도시 동탄역 대방 엘리움 더 시그니처(C18BL)",
+		"addr": "경기도 화성시 오산동 동탄2택지개발지구 C18BL",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "10세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950022&pblancNo=2025950022&houseSecd=02",
+		"in_date": "20250604",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "동탄2신도시 동탄역 디에트르 퍼스티지 오피스텔",
+		"addr": "경기도 화성시 오산동 979번지",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "3세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910081&pblancNo=2025910081&houseSecd=04",
+		"in_date": "20250604",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "양평 우방아이유쉘 에코리버",
+		"addr": "경기도 양평군 강상면 병산2지구 공동주택용지 C블록 2롯트",
+		"short_addr": "경기도 양평군",
+		"addr_lv1": "경기도",
+		"addr_lv2": "양평군",
+		"apply_nums": "15세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910078&pblancNo=2025910078&houseSecd=04",
+		"in_date": "20250604",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "에비뉴 청계 II(11차)",
+		"addr": "서울특별시 종로구 숭인동 1420",
+		"short_addr": "서울특별시 종로구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "종로구",
+		"apply_nums": "16세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930021&pblancNo=2025930021&houseSecd=06",
+		"in_date": "20250604",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "에코델타시티 대성베르힐 17블록",
+		"addr": "부산광역시 강서구 강동동 에코델타시티 17블록",
+		"short_addr": "부산광역시 강서구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "강서구",
+		"apply_nums": "5세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000194&pblancNo=2025000194&houseSecd=01",
 		"in_date": "20250605",
 		"hsecd": "01",
@@ -308,6 +347,19 @@
 		"apply_nums": "30세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930021&pblancNo=2025930021&houseSecd=06",
+		"in_date": "20250605",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "에코델타시티 대성베르힐 17블록",
+		"addr": "부산광역시 강서구 강동동 에코델타시티 17블록",
+		"short_addr": "부산광역시 강서구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "강서구",
+		"apply_nums": "5세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000191&pblancNo=2025000191&houseSecd=01",
 		"in_date": "20250609",
 		"hsecd": "01",
@@ -319,6 +371,45 @@
 		"addr_lv1": "광주광역시",
 		"addr_lv2": "남구",
 		"apply_nums": "71세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000196&pblancNo=2025000196&houseSecd=01",
+		"in_date": "20250609",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "오산 세교2지구 A12블록 공공분양주택 입주자모집",
+		"addr": "경기도 오산시 벌음동 382번지 일원(오산세교2 택지개발지구 A12BL) ",
+		"short_addr": "경기도 오산시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "오산시",
+		"apply_nums": "433세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910077&pblancNo=2025910077&houseSecd=04",
+		"in_date": "20250609",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "그란츠 리버파크(4차)",
+		"addr": "서울특별시 강동구 천호대로 1050 (성내동, 그란츠 리버파크)",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "3세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910080&pblancNo=2025910080&houseSecd=04",
+		"in_date": "20250609",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "에스아이팰리스 올림픽공원 (5차)",
+		"addr": "서울특별시 강동구 성내동 459-3",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "9세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000191&pblancNo=2025000191&houseSecd=01",
@@ -334,6 +425,45 @@
 		"apply_nums": "71세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000196&pblancNo=2025000196&houseSecd=01",
+		"in_date": "20250610",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "오산 세교2지구 A12블록 공공분양주택 입주자모집",
+		"addr": "경기도 오산시 벌음동 382번지 일원(오산세교2 택지개발지구 A12BL) ",
+		"short_addr": "경기도 오산시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "오산시",
+		"apply_nums": "433세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910077&pblancNo=2025910077&houseSecd=04",
+		"in_date": "20250610",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "그란츠 리버파크(4차)",
+		"addr": "서울특별시 강동구 천호대로 1050 (성내동, 그란츠 리버파크)",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "3세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910080&pblancNo=2025910080&houseSecd=04",
+		"in_date": "20250610",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "에스아이팰리스 올림픽공원 (5차)",
+		"addr": "서울특별시 강동구 성내동 459-3",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "9세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000191&pblancNo=2025000191&houseSecd=01",
 		"in_date": "20250611",
 		"hsecd": "01",
@@ -345,5 +475,34 @@
 		"addr_lv1": "광주광역시",
 		"addr_lv2": "남구",
 		"apply_nums": "71세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000196&pblancNo=2025000196&houseSecd=01",
+		"in_date": "20250611",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "오산 세교2지구 A12블록 공공분양주택 입주자모집",
+		"addr": "경기도 오산시 벌음동 382번지 일원(오산세교2 택지개발지구 A12BL) ",
+		"short_addr": "경기도 오산시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "오산시",
+		"apply_nums": "433세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940119&pblancNo=2025940119&houseSecd=11",
+		"in_date": "20250612",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "VIORR(비오르)(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940119&pblancNo=2025940119&houseSecd=11",
+		"in_date": "20250613",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "VIORR(비오르)(2차)"
 	}
 ]
