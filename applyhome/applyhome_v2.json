@@ -1,48 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000186&pblancNo=2025000186&houseSecd=01",
-		"in_date": "20250527",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "상무 양우내안애 퍼스트힐(조합원 취소분)",
-		"addr": "광주광역시 서구 마륵동 47-7 일원",
-		"short_addr": "광주광역시 서구",
-		"addr_lv1": "광주광역시",
-		"addr_lv2": "서구",
-		"apply_nums": "10세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000118&pblancNo=2025000118&houseSecd=01",
-		"in_date": "20250527",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "평택 브레인시티 10BL 앤네이처 미래도",
-		"addr": "경기도 평택시 브레인시티 일반산업단지 공동 10BL 공동주택용지",
-		"short_addr": "경기도 평택시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "평택시",
-		"apply_nums": "1413세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940117&pblancNo=2025940117&houseSecd=11",
-		"in_date": "20250527",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "부천아테라자이(부천괴안지구 B-2블록) 9차"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940114&pblancNo=2025940114&houseSecd=11",
-		"in_date": "20250527",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "연신내 양우내안애 퍼스티지(9차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000186&pblancNo=2025000186&houseSecd=01",
 		"in_date": "20250528",
 		"hsecd": "01",
 		"rse": "03",
@@ -386,6 +344,19 @@
 		"apply_nums": "433세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000200&pblancNo=2025000200&houseSecd=01",
+		"in_date": "20250609",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "평택 고덕국제신도시 A48블록 금성백조 예미지",
+		"addr": "경기도 평택시 고덕국제화계획지구 A-48블록",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "431세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910077&pblancNo=2025910077&houseSecd=04",
 		"in_date": "20250609",
 		"hsecd": "04",
@@ -438,6 +409,19 @@
 		"apply_nums": "433세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000200&pblancNo=2025000200&houseSecd=01",
+		"in_date": "20250610",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "평택 고덕국제신도시 A48블록 금성백조 예미지",
+		"addr": "경기도 평택시 고덕국제화계획지구 A-48블록",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "431세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910077&pblancNo=2025910077&houseSecd=04",
 		"in_date": "20250610",
 		"hsecd": "04",
@@ -488,6 +472,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "오산시",
 		"apply_nums": "433세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000200&pblancNo=2025000200&houseSecd=01",
+		"in_date": "20250611",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "평택 고덕국제신도시 A48블록 금성백조 예미지",
+		"addr": "경기도 평택시 고덕국제화계획지구 A-48블록",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "431세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940119&pblancNo=2025940119&houseSecd=11",
