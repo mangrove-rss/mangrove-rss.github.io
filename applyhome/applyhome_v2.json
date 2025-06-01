@@ -294,6 +294,19 @@
 		"apply_nums": "431세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910079&pblancNo=2025910079&houseSecd=04",
+		"in_date": "20250609",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "곤지암역 제일풍경채 (5차)",
+		"addr": "경기도 광주시 곤지암읍 곤지암리636번지(곤지암역세권  A1-1블록)",
+		"short_addr": "경기도 광주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "광주시",
+		"apply_nums": "21세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910077&pblancNo=2025910077&houseSecd=04",
 		"in_date": "20250609",
 		"hsecd": "04",
