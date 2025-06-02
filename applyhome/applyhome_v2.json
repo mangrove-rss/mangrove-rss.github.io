@@ -437,6 +437,19 @@
 		"apply_nums": "431세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000197&pblancNo=2025000197&houseSecd=01",
+		"in_date": "20250612",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "안성 아양지구 B-3-1BL 영무예다음",
+		"addr": "경기도 안성시 옥산동 556(아양지구 B-3-1BL)",
+		"short_addr": "경기도 안성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "안성시",
+		"apply_nums": "288세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940119&pblancNo=2025940119&houseSecd=11",
 		"in_date": "20250612",
 		"hsecd": "11",
@@ -445,11 +458,37 @@
 		"name": "VIORR(비오르)(2차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000197&pblancNo=2025000197&houseSecd=01",
+		"in_date": "20250613",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "안성 아양지구 B-3-1BL 영무예다음",
+		"addr": "경기도 안성시 옥산동 556(아양지구 B-3-1BL)",
+		"short_addr": "경기도 안성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "안성시",
+		"apply_nums": "288세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940119&pblancNo=2025940119&houseSecd=11",
 		"in_date": "20250613",
 		"hsecd": "11",
 		"rse": "11",
 		"type": "",
 		"name": "VIORR(비오르)(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000197&pblancNo=2025000197&houseSecd=01",
+		"in_date": "20250616",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "안성 아양지구 B-3-1BL 영무예다음",
+		"addr": "경기도 안성시 옥산동 556(아양지구 B-3-1BL)",
+		"short_addr": "경기도 안성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "안성시",
+		"apply_nums": "288세대"
 	}
 ]
