@@ -76,18 +76,6 @@
 			<showrss:showname><![CDATA[ ebod-205 e-body beast response rate three ]]></showrss:showname>
 		</item>
 		<item>
-			<title><![CDATA[ ddhg-001 ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:7986e88b01ddba6e03c407cbf86bf56d18a53802 ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ ddhg-001 ]]></showrss:showname>
-		</item>
-		<item>
-			<title><![CDATA[ ddhg-001 ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:27a0bbc6143235a6dbc070897517cb025456b42f ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ ddhg-001 ]]></showrss:showname>
-		</item>
-		<item>
 			<title><![CDATA[ 060325_001-1pondo ]]></title>
 			<link><![CDATA[ magnet:?xt=urn:btih:39433266fe7fe410bad508deec3fe9eb79db36fa ]]></link>
 			<showrss:showid></showrss:showid>
@@ -110,6 +98,18 @@
 			<link><![CDATA[ magnet:?xt=urn:btih:22fd5db0502450a5dabaf2db116b4c227921eb23 ]]></link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ HEYZO-3603 ]]></showrss:showname>
+		</item>
+		<item>
+			<title><![CDATA[ ddhg-001 ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih:7986e88b01ddba6e03c407cbf86bf56d18a53802 ]]></link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ ddhg-001 ]]></showrss:showname>
+		</item>
+		<item>
+			<title><![CDATA[ ddhg-001 ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih:27a0bbc6143235a6dbc070897517cb025456b42f ]]></link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ ddhg-001 ]]></showrss:showname>
 		</item>
 		<item>
 			<title><![CDATA[ mxgs-792 shinsei ~ re born ~ nada jun ]]></title>
@@ -350,24 +350,6 @@
 			<link><![CDATA[ magnet:?xt=urn:btih:77163d8fafd590cf5b1adac6d6064a6826aca52e ]]></link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ 052825-001-carib ]]></showrss:showname>
-		</item>
-		<item>
-			<title><![CDATA[ HEYZO-3564 ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:2b8f0cebb4b060621a8337174ab171f519e47b68 ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ HEYZO-3564 ]]></showrss:showname>
-		</item>
-		<item>
-			<title><![CDATA[ HEYZO-3564 ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:1ed578f6f18584c1bd096c1e71ca21e97ad5c2fd ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ HEYZO-3564 ]]></showrss:showname>
-		</item>
-		<item>
-			<title><![CDATA[ HEYZO-3564 ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:051ab1fe94dc7a80c85160ba473340cfb8d31957 ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ HEYZO-3564 ]]></showrss:showname>
 		</item>
 	</channel>
 </rss>
