@@ -372,6 +372,27 @@
 		"apply_nums": "431세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850011&pblancNo=2025850011&houseSecd=03",
+		"in_date": "20250610",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "북수원 이목 시티프라디움 더 블리스"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950024&pblancNo=2025950024&houseSecd=02",
+		"in_date": "20250610",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "당산역 더클래스 한강",
+		"addr": "서울특별시 영등포구 당산동6가 341-1",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "16세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910077&pblancNo=2025910077&houseSecd=04",
 		"in_date": "20250610",
 		"hsecd": "04",
@@ -396,6 +417,22 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "강동구",
 		"apply_nums": "9세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940125&pblancNo=2025940125&houseSecd=11",
+		"in_date": "20250610",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "고촌센트럴자이(5차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940122&pblancNo=2025940122&houseSecd=11",
+		"in_date": "20250610",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "남구로역 동일 센타시아(2차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000191&pblancNo=2025000191&houseSecd=01",
@@ -437,6 +474,43 @@
 		"apply_nums": "431세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850011&pblancNo=2025850011&houseSecd=03",
+		"in_date": "20250611",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "북수원 이목 시티프라디움 더 블리스"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950024&pblancNo=2025950024&houseSecd=02",
+		"in_date": "20250611",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "당산역 더클래스 한강",
+		"addr": "서울특별시 영등포구 당산동6가 341-1",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "16세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940125&pblancNo=2025940125&houseSecd=11",
+		"in_date": "20250611",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "고촌센트럴자이(5차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940123&pblancNo=2025940123&houseSecd=11",
+		"in_date": "20250611",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "효성해링턴 플레이스 안성 공도"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000197&pblancNo=2025000197&houseSecd=01",
 		"in_date": "20250612",
 		"hsecd": "01",
@@ -450,12 +524,33 @@
 		"apply_nums": "288세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950024&pblancNo=2025950024&houseSecd=02",
+		"in_date": "20250612",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "당산역 더클래스 한강",
+		"addr": "서울특별시 영등포구 당산동6가 341-1",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "16세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940119&pblancNo=2025940119&houseSecd=11",
 		"in_date": "20250612",
 		"hsecd": "11",
 		"rse": "11",
 		"type": "",
 		"name": "VIORR(비오르)(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940123&pblancNo=2025940123&houseSecd=11",
+		"in_date": "20250612",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "효성해링턴 플레이스 안성 공도"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000197&pblancNo=2025000197&houseSecd=01",
@@ -471,12 +566,72 @@
 		"apply_nums": "288세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950024&pblancNo=2025950024&houseSecd=02",
+		"in_date": "20250613",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "당산역 더클래스 한강",
+		"addr": "서울특별시 영등포구 당산동6가 341-1",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "16세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940119&pblancNo=2025940119&houseSecd=11",
 		"in_date": "20250613",
 		"hsecd": "11",
 		"rse": "11",
 		"type": "",
 		"name": "VIORR(비오르)(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940123&pblancNo=2025940123&houseSecd=11",
+		"in_date": "20250613",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "효성해링턴 플레이스 안성 공도"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950024&pblancNo=2025950024&houseSecd=02",
+		"in_date": "20250614",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "당산역 더클래스 한강",
+		"addr": "서울특별시 영등포구 당산동6가 341-1",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "16세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950024&pblancNo=2025950024&houseSecd=02",
+		"in_date": "20250615",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "당산역 더클래스 한강",
+		"addr": "서울특별시 영등포구 당산동6가 341-1",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "16세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000179&pblancNo=2025000179&houseSecd=01",
+		"in_date": "20250616",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "여주역 로제비앙 더센텀",
+		"addr": "경기도 여주시 홍문동 336-2번지 일원",
+		"short_addr": "경기도 여주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "여주시",
+		"apply_nums": "744세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000197&pblancNo=2025000197&houseSecd=01",
@@ -490,5 +645,57 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "안성시",
 		"apply_nums": "288세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950024&pblancNo=2025950024&houseSecd=02",
+		"in_date": "20250616",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "당산역 더클래스 한강",
+		"addr": "서울특별시 영등포구 당산동6가 341-1",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "16세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000179&pblancNo=2025000179&houseSecd=01",
+		"in_date": "20250617",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "여주역 로제비앙 더센텀",
+		"addr": "경기도 여주시 홍문동 336-2번지 일원",
+		"short_addr": "경기도 여주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "여주시",
+		"apply_nums": "744세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950024&pblancNo=2025950024&houseSecd=02",
+		"in_date": "20250617",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "당산역 더클래스 한강",
+		"addr": "서울특별시 영등포구 당산동6가 341-1",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "16세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000179&pblancNo=2025000179&houseSecd=01",
+		"in_date": "20250618",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "여주역 로제비앙 더센텀",
+		"addr": "경기도 여주시 홍문동 336-2번지 일원",
+		"short_addr": "경기도 여주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "여주시",
+		"apply_nums": "744세대"
 	}
 ]
