@@ -1,66 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000194&pblancNo=2025000194&houseSecd=01",
-		"in_date": "20250602",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "고덕강일 대성베르힐",
-		"addr": "서울특별시 강동구 상일동 43번지 일원(서울고덕강일 공공주택지구 12블럭)",
-		"short_addr": "서울특별시 강동구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강동구",
-		"apply_nums": "613세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000178&pblancNo=2025000178&houseSecd=01",
-		"in_date": "20250602",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "더샵 광양레이크센텀 (2회차)",
-		"addr": "전라남도 광양시 마동 348-4번지 일원",
-		"short_addr": "전라남도 광양시",
-		"addr_lv1": "전라남도",
-		"addr_lv2": "광양시",
-		"apply_nums": "208세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000195&pblancNo=2025000195&houseSecd=01",
-		"in_date": "20250602",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "디 아테온(THE ATHEON)",
-		"addr": "서울특별시 강동구 길동 336-1번지",
-		"short_addr": "서울특별시 강동구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강동구",
-		"apply_nums": "64세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000167&pblancNo=2025000167&houseSecd=01",
-		"in_date": "20250602",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "리버센 SK VIEW 롯데캐슬",
-		"addr": "서울특별시 중랑구 중화동 331-1번지 일원",
-		"short_addr": "서울특별시 중랑구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "중랑구",
-		"apply_nums": "30세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940118&pblancNo=2025940118&houseSecd=11",
-		"in_date": "20250602",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "한신더휴 하이엔에듀포레(3차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000194&pblancNo=2025000194&houseSecd=01",
 		"in_date": "20250604",
 		"hsecd": "01",
 		"rse": "02",
@@ -634,6 +574,19 @@
 		"apply_nums": "744세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000199&pblancNo=2025000199&houseSecd=01",
+		"in_date": "20250616",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "진위역 서희스타힐스 더 파크뷰(3차)",
+		"addr": "경기도 평택시 진위면 갈곶리 239-60번지 일원",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "53세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000197&pblancNo=2025000197&houseSecd=01",
 		"in_date": "20250616",
 		"hsecd": "01",
@@ -673,6 +626,19 @@
 		"apply_nums": "744세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000199&pblancNo=2025000199&houseSecd=01",
+		"in_date": "20250617",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "진위역 서희스타힐스 더 파크뷰(3차)",
+		"addr": "경기도 평택시 진위면 갈곶리 239-60번지 일원",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "53세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950024&pblancNo=2025950024&houseSecd=02",
 		"in_date": "20250617",
 		"hsecd": "02",
@@ -697,5 +663,18 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "여주시",
 		"apply_nums": "744세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000199&pblancNo=2025000199&houseSecd=01",
+		"in_date": "20250618",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "진위역 서희스타힐스 더 파크뷰(3차)",
+		"addr": "경기도 평택시 진위면 갈곶리 239-60번지 일원",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "53세대"
 	}
 ]
