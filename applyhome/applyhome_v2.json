@@ -1,70 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000194&pblancNo=2025000194&houseSecd=01",
-		"in_date": "20250605",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "고덕강일 대성베르힐",
-		"addr": "서울특별시 강동구 상일동 43번지 일원(서울고덕강일 공공주택지구 12블럭)",
-		"short_addr": "서울특별시 강동구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강동구",
-		"apply_nums": "613세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000178&pblancNo=2025000178&houseSecd=01",
-		"in_date": "20250605",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "더샵 광양레이크센텀 (2회차)",
-		"addr": "전라남도 광양시 마동 348-4번지 일원",
-		"short_addr": "전라남도 광양시",
-		"addr_lv1": "전라남도",
-		"addr_lv2": "광양시",
-		"apply_nums": "208세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000195&pblancNo=2025000195&houseSecd=01",
-		"in_date": "20250605",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "디 아테온(THE ATHEON)",
-		"addr": "서울특별시 강동구 길동 336-1번지",
-		"short_addr": "서울특별시 강동구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강동구",
-		"apply_nums": "64세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000167&pblancNo=2025000167&houseSecd=01",
-		"in_date": "20250605",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "리버센 SK VIEW 롯데캐슬",
-		"addr": "서울특별시 중랑구 중화동 331-1번지 일원",
-		"short_addr": "서울특별시 중랑구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "중랑구",
-		"apply_nums": "30세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930021&pblancNo=2025930021&houseSecd=06",
-		"in_date": "20250605",
-		"hsecd": "06",
-		"rse": "07",
-		"type": "",
-		"name": "에코델타시티 대성베르힐 17블록",
-		"addr": "부산광역시 강서구 강동동 에코델타시티 17블록",
-		"short_addr": "부산광역시 강서구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "강서구",
-		"apply_nums": "5세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000191&pblancNo=2025000191&houseSecd=01",
 		"in_date": "20250609",
 		"hsecd": "01",
@@ -313,6 +248,14 @@
 		"name": "고촌센트럴자이(5차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940126&pblancNo=2025940126&houseSecd=11",
+		"in_date": "20250611",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(6차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940123&pblancNo=2025940123&houseSecd=11",
 		"in_date": "20250611",
 		"hsecd": "11",
@@ -353,6 +296,14 @@
 		"rse": "11",
 		"type": "",
 		"name": "VIORR(비오르)(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940126&pblancNo=2025940126&houseSecd=11",
+		"in_date": "20250612",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(6차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940123&pblancNo=2025940123&houseSecd=11",
@@ -397,6 +348,14 @@
 		"name": "VIORR(비오르)(2차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940126&pblancNo=2025940126&houseSecd=11",
+		"in_date": "20250613",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(6차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940123&pblancNo=2025940123&houseSecd=11",
 		"in_date": "20250613",
 		"hsecd": "11",
@@ -418,6 +377,14 @@
 		"apply_nums": "16세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940126&pblancNo=2025940126&houseSecd=11",
+		"in_date": "20250614",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(6차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950024&pblancNo=2025950024&houseSecd=02",
 		"in_date": "20250615",
 		"hsecd": "02",
@@ -429,6 +396,14 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "영등포구",
 		"apply_nums": "16세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940126&pblancNo=2025940126&houseSecd=11",
+		"in_date": "20250615",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(6차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000179&pblancNo=2025000179&houseSecd=01",
@@ -483,6 +458,35 @@
 		"apply_nums": "16세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950023&pblancNo=2025950023&houseSecd=02",
+		"in_date": "20250616",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "수원 금호 리첸시아 퍼스티지 2단지",
+		"addr": "경기도 수원시 권선구 고색2지구 상업업무용지 B1-2블록 (고색2지구 B1블록 2로트)",
+		"short_addr": "경기도 수원시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "수원시",
+		"apply_nums": "30세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940126&pblancNo=2025940126&houseSecd=11",
+		"in_date": "20250616",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(6차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940127&pblancNo=2025940127&houseSecd=11",
+		"in_date": "20250616",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "호반써밋 개봉(6차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000179&pblancNo=2025000179&houseSecd=01",
 		"in_date": "20250617",
 		"hsecd": "01",
@@ -520,6 +524,22 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "영등포구",
 		"apply_nums": "16세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940126&pblancNo=2025940126&houseSecd=11",
+		"in_date": "20250617",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(6차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940127&pblancNo=2025940127&houseSecd=11",
+		"in_date": "20250617",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "호반써밋 개봉(6차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000179&pblancNo=2025000179&houseSecd=01",
