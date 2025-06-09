@@ -306,6 +306,14 @@
 		"name": "리아츠 더 인천(6차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940124&pblancNo=2025940124&houseSecd=11",
+		"in_date": "20250612",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "신도림역 동문 디 이스트(3차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940123&pblancNo=2025940123&houseSecd=11",
 		"in_date": "20250612",
 		"hsecd": "11",
@@ -354,6 +362,14 @@
 		"rse": "11",
 		"type": "",
 		"name": "리아츠 더 인천(6차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940124&pblancNo=2025940124&houseSecd=11",
+		"in_date": "20250613",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "신도림역 동문 디 이스트(3차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940123&pblancNo=2025940123&houseSecd=11",
@@ -443,6 +459,14 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "안성시",
 		"apply_nums": "288세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850012&pblancNo=2025850012&houseSecd=03",
+		"in_date": "20250616",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "서울은평뉴타운 디에트르 더퍼스트(3-14BL)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950024&pblancNo=2025950024&houseSecd=02",
@@ -513,6 +537,14 @@
 		"apply_nums": "53세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850012&pblancNo=2025850012&houseSecd=03",
+		"in_date": "20250617",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "서울은평뉴타운 디에트르 더퍼스트(3-14BL)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950024&pblancNo=2025950024&houseSecd=02",
 		"in_date": "20250617",
 		"hsecd": "02",
@@ -566,5 +598,31 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "평택시",
 		"apply_nums": "53세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000217&pblancNo=2025000217&houseSecd=01",
+		"in_date": "20250620",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "선운지구다사로움 공가세대 일반공급",
+		"addr": "광주광역시 광산구 선운로 34 (선암동, 선운지구다사로움아파트)",
+		"short_addr": "광주광역시 광산구",
+		"addr_lv1": "광주광역시",
+		"addr_lv2": "광산구",
+		"apply_nums": "28세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000217&pblancNo=2025000217&houseSecd=01",
+		"in_date": "20250623",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "선운지구다사로움 공가세대 일반공급",
+		"addr": "광주광역시 광산구 선운로 34 (선암동, 선운지구다사로움아파트)",
+		"short_addr": "광주광역시 광산구",
+		"addr_lv1": "광주광역시",
+		"addr_lv2": "광산구",
+		"apply_nums": "28세대"
 	}
 ]
