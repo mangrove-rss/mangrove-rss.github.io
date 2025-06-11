@@ -495,12 +495,41 @@
 		"apply_nums": "30세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930022&pblancNo=2025930022&houseSecd=06",
+		"in_date": "20250616",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "안산 푸르지오 브리파크",
+		"addr": "경기도 안산시 단원구 라성로 15(원곡동)",
+		"short_addr": "경기도 안산시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "안산시",
+		"apply_nums": "8세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940126&pblancNo=2025940126&houseSecd=11",
 		"in_date": "20250616",
 		"hsecd": "11",
 		"rse": "11",
 		"type": "",
 		"name": "리아츠 더 인천(6차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940131&pblancNo=2025940131&houseSecd=11",
+		"in_date": "20250616",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "엘리프 미아역 2단지(4차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940129&pblancNo=2025940129&houseSecd=11",
+		"in_date": "20250616",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "연신내 양우내안애 퍼스티지(10차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940127&pblancNo=2025940127&houseSecd=11",
@@ -556,6 +585,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "영등포구",
 		"apply_nums": "16세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930022&pblancNo=2025930022&houseSecd=06",
+		"in_date": "20250617",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "안산 푸르지오 브리파크",
+		"addr": "경기도 안산시 단원구 라성로 15(원곡동)",
+		"short_addr": "경기도 안산시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "안산시",
+		"apply_nums": "8세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940126&pblancNo=2025940126&houseSecd=11",
