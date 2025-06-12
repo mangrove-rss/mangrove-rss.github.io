@@ -1,84 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000191&pblancNo=2025000191&houseSecd=01",
-		"in_date": "20250609",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "두산위브 트레지움 월산",
-		"addr": "광주광역시 남구 월산동 243-1번지 일원",
-		"short_addr": "광주광역시 남구",
-		"addr_lv1": "광주광역시",
-		"addr_lv2": "남구",
-		"apply_nums": "71세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000196&pblancNo=2025000196&houseSecd=01",
-		"in_date": "20250609",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "오산 세교2지구 A12블록 공공분양주택 입주자모집",
-		"addr": "경기도 오산시 벌음동 382번지 일원(오산세교2 택지개발지구 A12BL) ",
-		"short_addr": "경기도 오산시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "오산시",
-		"apply_nums": "433세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000200&pblancNo=2025000200&houseSecd=01",
-		"in_date": "20250609",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "평택 고덕국제신도시 A48블록 금성백조 예미지",
-		"addr": "경기도 평택시 고덕국제화계획지구 A-48블록",
-		"short_addr": "경기도 평택시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "평택시",
-		"apply_nums": "431세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910079&pblancNo=2025910079&houseSecd=04",
-		"in_date": "20250609",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "곤지암역 제일풍경채 (5차)",
-		"addr": "경기도 광주시 곤지암읍 곤지암리636번지(곤지암역세권  A1-1블록)",
-		"short_addr": "경기도 광주시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "광주시",
-		"apply_nums": "21세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910077&pblancNo=2025910077&houseSecd=04",
-		"in_date": "20250609",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "그란츠 리버파크(4차)",
-		"addr": "서울특별시 강동구 천호대로 1050 (성내동, 그란츠 리버파크)",
-		"short_addr": "서울특별시 강동구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강동구",
-		"apply_nums": "3세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910080&pblancNo=2025910080&houseSecd=04",
-		"in_date": "20250609",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "에스아이팰리스 올림픽공원 (5차)",
-		"addr": "서울특별시 강동구 성내동 459-3",
-		"short_addr": "서울특별시 강동구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강동구",
-		"apply_nums": "9세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000191&pblancNo=2025000191&houseSecd=01",
 		"in_date": "20250610",
 		"hsecd": "01",
 		"rse": "02",
@@ -608,6 +530,30 @@
 		"name": "리아츠 더 인천(6차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940121&pblancNo=2025940121&houseSecd=11",
+		"in_date": "20250617",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "신영지웰 평택화양"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940132&pblancNo=2025940132&houseSecd=11",
+		"in_date": "20250617",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "아산자이 그랜드파크 2단지"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940130&pblancNo=2025940130&houseSecd=11",
+		"in_date": "20250617",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "엘리프 미아역 1단지(2차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940127&pblancNo=2025940127&houseSecd=11",
 		"in_date": "20250617",
 		"hsecd": "11",
@@ -642,6 +588,113 @@
 		"apply_nums": "53세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950026&pblancNo=2025950026&houseSecd=02",
+		"in_date": "20250618",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "상봉역 유보라 퍼스트리브",
+		"addr": "서울특별시 중랑구 망우로 322",
+		"short_addr": "서울특별시 중랑구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "중랑구",
+		"apply_nums": "25세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950025&pblancNo=2025950025&houseSecd=02",
+		"in_date": "20250618",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "여의도 하이앤드 1ST",
+		"addr": "서울특별시 영등포구 영등포동3가 1-1",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "45세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910089&pblancNo=2025910089&houseSecd=04",
+		"in_date": "20250618",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "북수원이목지구 대방 디에트르 더 리체Ⅱ(A3BL)",
+		"addr": "경기도 수원시 장안구 이목동 종전부동산 이목지구 도시개발사업 A3블록 공동주택용지",
+		"short_addr": "경기도 수원시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "수원시",
+		"apply_nums": "277세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930024&pblancNo=2025930024&houseSecd=06",
+		"in_date": "20250618",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "에코델타시티 푸르지오 린(27BL)",
+		"addr": "부산광역시 강서구 에코델타시티 27BL",
+		"short_addr": "부산광역시 강서구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "강서구",
+		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940132&pblancNo=2025940132&houseSecd=11",
+		"in_date": "20250618",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "아산자이 그랜드파크 2단지"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950026&pblancNo=2025950026&houseSecd=02",
+		"in_date": "20250619",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "상봉역 유보라 퍼스트리브",
+		"addr": "서울특별시 중랑구 망우로 322",
+		"short_addr": "서울특별시 중랑구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "중랑구",
+		"apply_nums": "25세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950025&pblancNo=2025950025&houseSecd=02",
+		"in_date": "20250619",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "여의도 하이앤드 1ST",
+		"addr": "서울특별시 영등포구 영등포동3가 1-1",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "45세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910089&pblancNo=2025910089&houseSecd=04",
+		"in_date": "20250619",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "북수원이목지구 대방 디에트르 더 리체Ⅱ(A3BL)",
+		"addr": "경기도 수원시 장안구 이목동 종전부동산 이목지구 도시개발사업 A3블록 공동주택용지",
+		"short_addr": "경기도 수원시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "수원시",
+		"apply_nums": "277세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940132&pblancNo=2025940132&houseSecd=11",
+		"in_date": "20250619",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "아산자이 그랜드파크 2단지"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000217&pblancNo=2025000217&houseSecd=01",
 		"in_date": "20250620",
 		"hsecd": "01",
@@ -655,6 +708,45 @@
 		"apply_nums": "28세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950025&pblancNo=2025950025&houseSecd=02",
+		"in_date": "20250620",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "여의도 하이앤드 1ST",
+		"addr": "서울특별시 영등포구 영등포동3가 1-1",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "45세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950025&pblancNo=2025950025&houseSecd=02",
+		"in_date": "20250621",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "여의도 하이앤드 1ST",
+		"addr": "서울특별시 영등포구 영등포동3가 1-1",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "45세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950025&pblancNo=2025950025&houseSecd=02",
+		"in_date": "20250622",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "여의도 하이앤드 1ST",
+		"addr": "서울특별시 영등포구 영등포동3가 1-1",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "45세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000217&pblancNo=2025000217&houseSecd=01",
 		"in_date": "20250623",
 		"hsecd": "01",
@@ -666,5 +758,18 @@
 		"addr_lv1": "광주광역시",
 		"addr_lv2": "광산구",
 		"apply_nums": "28세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950025&pblancNo=2025950025&houseSecd=02",
+		"in_date": "20250623",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "여의도 하이앤드 1ST",
+		"addr": "서울특별시 영등포구 영등포동3가 1-1",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "45세대"
 	}
 ]
