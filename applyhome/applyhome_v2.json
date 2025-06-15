@@ -1,64 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000197&pblancNo=2025000197&houseSecd=01",
-		"in_date": "20250612",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "안성 아양지구 B-3-1BL 영무예다음",
-		"addr": "경기도 안성시 옥산동 556(아양지구 B-3-1BL)",
-		"short_addr": "경기도 안성시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "안성시",
-		"apply_nums": "288세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950024&pblancNo=2025950024&houseSecd=02",
-		"in_date": "20250612",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "당산역 더클래스 한강",
-		"addr": "서울특별시 영등포구 당산동6가 341-1",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "16세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940119&pblancNo=2025940119&houseSecd=11",
-		"in_date": "20250612",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "VIORR(비오르)(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940126&pblancNo=2025940126&houseSecd=11",
-		"in_date": "20250612",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "리아츠 더 인천(6차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940124&pblancNo=2025940124&houseSecd=11",
-		"in_date": "20250612",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "신도림역 동문 디 이스트(3차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940123&pblancNo=2025940123&houseSecd=11",
-		"in_date": "20250612",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "효성해링턴 플레이스 안성 공도"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000197&pblancNo=2025000197&houseSecd=01",
 		"in_date": "20250613",
 		"hsecd": "01",
 		"rse": "02",
@@ -480,6 +422,14 @@
 		"apply_nums": "2세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940137&pblancNo=2025940137&houseSecd=11",
+		"in_date": "20250618",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "광명 유승한내들 라포레(4차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940132&pblancNo=2025940132&houseSecd=11",
 		"in_date": "20250618",
 		"hsecd": "11",
@@ -512,6 +462,14 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "영등포구",
 		"apply_nums": "45세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940137&pblancNo=2025940137&houseSecd=11",
+		"in_date": "20250619",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "광명 유승한내들 라포레(4차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940132&pblancNo=2025940132&houseSecd=11",
@@ -624,6 +582,27 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "영등포구",
 		"apply_nums": "45세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930025&pblancNo=2025930025&houseSecd=06",
+		"in_date": "20250623",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "새절역 두산위브 트레지움 불법행위재공급",
+		"addr": "서울특별시 은평구 증산로15길 54 (신사동)",
+		"short_addr": "서울특별시 은평구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "은평구",
+		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940139&pblancNo=2025940139&houseSecd=11",
+		"in_date": "20250623",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "수지 몽펠리에 힐포레 2단지 임의공급"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000227&pblancNo=2025000227&houseSecd=01",
