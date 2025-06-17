@@ -1,27 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950024&pblancNo=2025950024&houseSecd=02",
-		"in_date": "20250614",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "당산역 더클래스 한강",
-		"addr": "서울특별시 영등포구 당산동6가 341-1",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "16세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940126&pblancNo=2025940126&houseSecd=11",
-		"in_date": "20250614",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "리아츠 더 인천(6차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950024&pblancNo=2025950024&houseSecd=02",
 		"in_date": "20250615",
 		"hsecd": "02",
 		"rse": "05",
@@ -448,6 +427,22 @@
 		"apply_nums": "45세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940141&pblancNo=2025940141&houseSecd=11",
+		"in_date": "20250620",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "북수원이목지구 대방 디에트르 더 리체Ⅱ(A3BL)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940134&pblancNo=2025940134&houseSecd=11",
+		"in_date": "20250620",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "힐스테이트 도안리버파크 3단지"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950025&pblancNo=2025950025&houseSecd=02",
 		"in_date": "20250621",
 		"hsecd": "02",
@@ -461,6 +456,14 @@
 		"apply_nums": "45세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940141&pblancNo=2025940141&houseSecd=11",
+		"in_date": "20250621",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "북수원이목지구 대방 디에트르 더 리체Ⅱ(A3BL)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950025&pblancNo=2025950025&houseSecd=02",
 		"in_date": "20250622",
 		"hsecd": "02",
@@ -472,6 +475,14 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "영등포구",
 		"apply_nums": "45세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940141&pblancNo=2025940141&houseSecd=11",
+		"in_date": "20250622",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "북수원이목지구 대방 디에트르 더 리체Ⅱ(A3BL)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000227&pblancNo=2025000227&houseSecd=01",
@@ -537,6 +548,14 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "은평구",
 		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940141&pblancNo=2025940141&houseSecd=11",
+		"in_date": "20250623",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "북수원이목지구 대방 디에트르 더 리체Ⅱ(A3BL)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940139&pblancNo=2025940139&houseSecd=11",
