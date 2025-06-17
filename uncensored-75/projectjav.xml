@@ -64,6 +64,12 @@
 			<showrss:showname><![CDATA[ 061525-001-carib ]]></showrss:showname>
 		</item>
 		<item>
+			<title><![CDATA[ HEYZO-3610 ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih:1f2fc3f84ce697b582033683785565764add80dd ]]></link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ HEYZO-3610 ]]></showrss:showname>
+		</item>
+		<item>
 			<title><![CDATA[ HEYZO-3609 ]]></title>
 			<link><![CDATA[ magnet:?xt=urn:btih:38a841113cf0df15665ca2c6bb63edeba2bdfc42 ]]></link>
 			<showrss:showid></showrss:showid>
@@ -74,12 +80,6 @@
 			<link><![CDATA[ magnet:?xt=urn:btih:e4575eb38d1be7b5f5b22fb2ce7967db26abba47 ]]></link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ HEYZO-3609 ]]></showrss:showname>
-		</item>
-		<item>
-			<title><![CDATA[ HEYZO-3610 ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:1f2fc3f84ce697b582033683785565764add80dd ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ HEYZO-3610 ]]></showrss:showname>
 		</item>
 		<item>
 			<title><![CDATA[ HEYZO-3570 ]]></title>
@@ -104,24 +104,6 @@
 			<link><![CDATA[ magnet:?xt=urn:btih:cd1262257395226ce992bafbd6e0b24c132b5350 ]]></link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ 061425_001-1pondo ]]></showrss:showname>
-		</item>
-		<item>
-			<title><![CDATA[ HEYZO-3641 ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:954cc5b4975ac71c913a8b14ab1901084ccdfc86 ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ HEYZO-3641 ]]></showrss:showname>
-		</item>
-		<item>
-			<title><![CDATA[ HEYZO-3641 ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:7d2f329a111bb904eb4d232cb920f0cfe3a403b6 ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ HEYZO-3641 ]]></showrss:showname>
-		</item>
-		<item>
-			<title><![CDATA[ HEYZO-3608 ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:b56f359c83ca011bed007ab1ce377e14be4607ec ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ HEYZO-3608 ]]></showrss:showname>
 		</item>
 	</channel>
 </rss>
