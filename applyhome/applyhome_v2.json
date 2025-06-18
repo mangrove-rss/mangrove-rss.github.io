@@ -1,26 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950024&pblancNo=2025950024&houseSecd=02",
-		"in_date": "20250615",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "당산역 더클래스 한강",
-		"addr": "서울특별시 영등포구 당산동6가 341-1",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "16세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940126&pblancNo=2025940126&houseSecd=11",
-		"in_date": "20250615",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "리아츠 더 인천(6차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000179&pblancNo=2025000179&houseSecd=01",
 		"in_date": "20250616",
 		"hsecd": "01",
@@ -558,6 +537,14 @@
 		"name": "북수원이목지구 대방 디에트르 더 리체Ⅱ(A3BL)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940128&pblancNo=2025940128&houseSecd=11",
+		"in_date": "20250623",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "수유 시그니티(2차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940139&pblancNo=2025940139&houseSecd=11",
 		"in_date": "20250623",
 		"hsecd": "11",
@@ -592,6 +579,53 @@
 		"apply_nums": "1세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950029&pblancNo=2025950029&houseSecd=02",
+		"in_date": "20250624",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "서울G-밸리 라티포레스트 ",
+		"addr": "서울특별시 구로구 디지털로19길 3 (가리봉동)",
+		"short_addr": "서울특별시 구로구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "구로구",
+		"apply_nums": "18세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910088&pblancNo=2025910088&houseSecd=04",
+		"in_date": "20250624",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "힐스테이트 메디알레",
+		"addr": "서울특별시 은평구 대조동 88, 89번지 일원",
+		"short_addr": "서울특별시 은평구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "은평구",
+		"apply_nums": "109세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930023&pblancNo=2025930023&houseSecd=06",
+		"in_date": "20250624",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "인천 검단신도시 AB19블록 호반써밋",
+		"addr": "인천광역시 서구 불로동 검단신도시 AB19블록",
+		"short_addr": "인천광역시 서구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940128&pblancNo=2025940128&houseSecd=11",
+		"in_date": "20250624",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "수유 시그니티(2차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000227&pblancNo=2025000227&houseSecd=01",
 		"in_date": "20250625",
 		"hsecd": "01",
@@ -603,6 +637,84 @@
 		"addr_lv1": "충청북도",
 		"addr_lv2": "청주시",
 		"apply_nums": "650세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950029&pblancNo=2025950029&houseSecd=02",
+		"in_date": "20250625",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "서울G-밸리 라티포레스트 ",
+		"addr": "서울특별시 구로구 디지털로19길 3 (가리봉동)",
+		"short_addr": "서울특별시 구로구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "구로구",
+		"apply_nums": "18세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950029&pblancNo=2025950029&houseSecd=02",
+		"in_date": "20250626",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "서울G-밸리 라티포레스트 ",
+		"addr": "서울특별시 구로구 디지털로19길 3 (가리봉동)",
+		"short_addr": "서울특별시 구로구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "구로구",
+		"apply_nums": "18세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950029&pblancNo=2025950029&houseSecd=02",
+		"in_date": "20250627",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "서울G-밸리 라티포레스트 ",
+		"addr": "서울특별시 구로구 디지털로19길 3 (가리봉동)",
+		"short_addr": "서울특별시 구로구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "구로구",
+		"apply_nums": "18세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950029&pblancNo=2025950029&houseSecd=02",
+		"in_date": "20250628",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "서울G-밸리 라티포레스트 ",
+		"addr": "서울특별시 구로구 디지털로19길 3 (가리봉동)",
+		"short_addr": "서울특별시 구로구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "구로구",
+		"apply_nums": "18세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950029&pblancNo=2025950029&houseSecd=02",
+		"in_date": "20250629",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "서울G-밸리 라티포레스트 ",
+		"addr": "서울특별시 구로구 디지털로19길 3 (가리봉동)",
+		"short_addr": "서울특별시 구로구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "구로구",
+		"apply_nums": "18세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000234&pblancNo=2025000234&houseSecd=01",
+		"in_date": "20250630",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "ESTIA 신장림 센트럴",
+		"addr": "부산광역시 사하구 장림동 432번지 외 2필지",
+		"short_addr": "부산광역시 사하구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "사하구",
+		"apply_nums": "108세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000192&pblancNo=2025000192&houseSecd=01",
@@ -618,6 +730,32 @@
 		"apply_nums": "604세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950029&pblancNo=2025950029&houseSecd=02",
+		"in_date": "20250630",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "서울G-밸리 라티포레스트 ",
+		"addr": "서울특별시 구로구 디지털로19길 3 (가리봉동)",
+		"short_addr": "서울특별시 구로구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "구로구",
+		"apply_nums": "18세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000234&pblancNo=2025000234&houseSecd=01",
+		"in_date": "20250701",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "ESTIA 신장림 센트럴",
+		"addr": "부산광역시 사하구 장림동 432번지 외 2필지",
+		"short_addr": "부산광역시 사하구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "사하구",
+		"apply_nums": "108세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000192&pblancNo=2025000192&houseSecd=01",
 		"in_date": "20250701",
 		"hsecd": "01",
@@ -629,6 +767,19 @@
 		"addr_lv1": "대구광역시",
 		"addr_lv2": "수성구",
 		"apply_nums": "604세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000234&pblancNo=2025000234&houseSecd=01",
+		"in_date": "20250702",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "ESTIA 신장림 센트럴",
+		"addr": "부산광역시 사하구 장림동 432번지 외 2필지",
+		"short_addr": "부산광역시 사하구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "사하구",
+		"apply_nums": "108세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000192&pblancNo=2025000192&houseSecd=01",
