@@ -1,106 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000179&pblancNo=2025000179&houseSecd=01",
-		"in_date": "20250617",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "여주역 로제비앙 더센텀",
-		"addr": "경기도 여주시 홍문동 336-2번지 일원",
-		"short_addr": "경기도 여주시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "여주시",
-		"apply_nums": "744세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000199&pblancNo=2025000199&houseSecd=01",
-		"in_date": "20250617",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "진위역 서희스타힐스 더 파크뷰(3차)",
-		"addr": "경기도 평택시 진위면 갈곶리 239-60번지 일원",
-		"short_addr": "경기도 평택시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "평택시",
-		"apply_nums": "53세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850012&pblancNo=2025850012&houseSecd=03",
-		"in_date": "20250617",
-		"hsecd": "03",
-		"rse": "04",
-		"type": "",
-		"name": "서울은평뉴타운 디에트르 더퍼스트(3-14BL)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950024&pblancNo=2025950024&houseSecd=02",
-		"in_date": "20250617",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "당산역 더클래스 한강",
-		"addr": "서울특별시 영등포구 당산동6가 341-1",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "16세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930022&pblancNo=2025930022&houseSecd=06",
-		"in_date": "20250617",
-		"hsecd": "06",
-		"rse": "07",
-		"type": "",
-		"name": "안산 푸르지오 브리파크",
-		"addr": "경기도 안산시 단원구 라성로 15(원곡동)",
-		"short_addr": "경기도 안산시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "안산시",
-		"apply_nums": "8세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940126&pblancNo=2025940126&houseSecd=11",
-		"in_date": "20250617",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "리아츠 더 인천(6차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940121&pblancNo=2025940121&houseSecd=11",
-		"in_date": "20250617",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "신영지웰 평택화양"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940132&pblancNo=2025940132&houseSecd=11",
-		"in_date": "20250617",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "아산자이 그랜드파크 2단지"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940130&pblancNo=2025940130&houseSecd=11",
-		"in_date": "20250617",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "엘리프 미아역 1단지(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940127&pblancNo=2025940127&houseSecd=11",
-		"in_date": "20250617",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "호반써밋 개봉(6차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000179&pblancNo=2025000179&houseSecd=01",
 		"in_date": "20250618",
 		"hsecd": "01",
 		"rse": "03",
@@ -553,6 +453,19 @@
 		"apply_nums": "650세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950019&pblancNo=2025950019&houseSecd=02",
+		"in_date": "20250625",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "대연동 메트로타워2",
+		"addr": "부산광역시 남구 대연동 1739-24번지 ",
+		"short_addr": "부산광역시 남구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "99세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950029&pblancNo=2025950029&houseSecd=02",
 		"in_date": "20250625",
 		"hsecd": "02",
@@ -579,6 +492,19 @@
 		"apply_nums": "254세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950019&pblancNo=2025950019&houseSecd=02",
+		"in_date": "20250626",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "대연동 메트로타워2",
+		"addr": "부산광역시 남구 대연동 1739-24번지 ",
+		"short_addr": "부산광역시 남구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "99세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950029&pblancNo=2025950029&houseSecd=02",
 		"in_date": "20250626",
 		"hsecd": "02",
@@ -590,6 +516,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "구로구",
 		"apply_nums": "18세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950019&pblancNo=2025950019&houseSecd=02",
+		"in_date": "20250627",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "대연동 메트로타워2",
+		"addr": "부산광역시 남구 대연동 1739-24번지 ",
+		"short_addr": "부산광역시 남구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "99세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950029&pblancNo=2025950029&houseSecd=02",
@@ -644,6 +583,19 @@
 		"apply_nums": "108세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000205&pblancNo=2025000205&houseSecd=01",
+		"in_date": "20250630",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "동백호수공원 두산위브더제니스(조합원 취소분)",
+		"addr": "경기도 용인시 기흥구 동백동 478-10번지 일원",
+		"short_addr": "경기도 용인시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "용인시",
+		"apply_nums": "18세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000238&pblancNo=2025000238&houseSecd=01",
 		"in_date": "20250630",
 		"hsecd": "01",
@@ -668,6 +620,32 @@
 		"addr_lv1": "대구광역시",
 		"addr_lv2": "수성구",
 		"apply_nums": "604세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000233&pblancNo=2025000233&houseSecd=01",
+		"in_date": "20250630",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "해링턴 스퀘어 리버파크",
+		"addr": "경기도 광주시 역동 28-3번지 일원",
+		"short_addr": "경기도 광주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "광주시",
+		"apply_nums": "817세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000246&pblancNo=2025000246&houseSecd=01",
+		"in_date": "20250630",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "호현 센트럴 아이파크",
+		"addr": "경기도 안양시 만안구 박달2동 111-1번지 일원",
+		"short_addr": "경기도 안양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "안양시",
+		"apply_nums": "144세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950029&pblancNo=2025950029&houseSecd=02",
@@ -696,6 +674,19 @@
 		"apply_nums": "108세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000205&pblancNo=2025000205&houseSecd=01",
+		"in_date": "20250701",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "동백호수공원 두산위브더제니스(조합원 취소분)",
+		"addr": "경기도 용인시 기흥구 동백동 478-10번지 일원",
+		"short_addr": "경기도 용인시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "용인시",
+		"apply_nums": "18세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000238&pblancNo=2025000238&houseSecd=01",
 		"in_date": "20250701",
 		"hsecd": "01",
@@ -720,6 +711,32 @@
 		"addr_lv1": "대구광역시",
 		"addr_lv2": "수성구",
 		"apply_nums": "604세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000233&pblancNo=2025000233&houseSecd=01",
+		"in_date": "20250701",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "해링턴 스퀘어 리버파크",
+		"addr": "경기도 광주시 역동 28-3번지 일원",
+		"short_addr": "경기도 광주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "광주시",
+		"apply_nums": "817세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000246&pblancNo=2025000246&houseSecd=01",
+		"in_date": "20250701",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "호현 센트럴 아이파크",
+		"addr": "경기도 안양시 만안구 박달2동 111-1번지 일원",
+		"short_addr": "경기도 안양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "안양시",
+		"apply_nums": "144세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000234&pblancNo=2025000234&houseSecd=01",
@@ -735,6 +752,19 @@
 		"apply_nums": "108세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000205&pblancNo=2025000205&houseSecd=01",
+		"in_date": "20250702",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "동백호수공원 두산위브더제니스(조합원 취소분)",
+		"addr": "경기도 용인시 기흥구 동백동 478-10번지 일원",
+		"short_addr": "경기도 용인시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "용인시",
+		"apply_nums": "18세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000238&pblancNo=2025000238&houseSecd=01",
 		"in_date": "20250702",
 		"hsecd": "01",
@@ -759,5 +789,31 @@
 		"addr_lv1": "대구광역시",
 		"addr_lv2": "수성구",
 		"apply_nums": "604세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000233&pblancNo=2025000233&houseSecd=01",
+		"in_date": "20250702",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "해링턴 스퀘어 리버파크",
+		"addr": "경기도 광주시 역동 28-3번지 일원",
+		"short_addr": "경기도 광주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "광주시",
+		"apply_nums": "817세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000246&pblancNo=2025000246&houseSecd=01",
+		"in_date": "20250702",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "호현 센트럴 아이파크",
+		"addr": "경기도 안양시 만안구 박달2동 111-1번지 일원",
+		"short_addr": "경기도 안양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "안양시",
+		"apply_nums": "144세대"
 	}
 ]
