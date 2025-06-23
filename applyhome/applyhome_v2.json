@@ -1,47 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000217&pblancNo=2025000217&houseSecd=01",
-		"in_date": "20250620",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "선운지구다사로움 공가세대 일반공급",
-		"addr": "광주광역시 광산구 선운로 34 (선암동, 선운지구다사로움아파트)",
-		"short_addr": "광주광역시 광산구",
-		"addr_lv1": "광주광역시",
-		"addr_lv2": "광산구",
-		"apply_nums": "28세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950025&pblancNo=2025950025&houseSecd=02",
-		"in_date": "20250620",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "여의도 하이앤드 1ST",
-		"addr": "서울특별시 영등포구 영등포동3가 1-1",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "45세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940141&pblancNo=2025940141&houseSecd=11",
-		"in_date": "20250620",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "북수원이목지구 대방 디에트르 더 리체Ⅱ(A3BL)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940134&pblancNo=2025940134&houseSecd=11",
-		"in_date": "20250620",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "힐스테이트 도안리버파크 3단지"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950025&pblancNo=2025950025&houseSecd=02",
 		"in_date": "20250621",
 		"hsecd": "02",
@@ -494,6 +452,14 @@
 		"apply_nums": "144세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850014&pblancNo=2025850014&houseSecd=03",
+		"in_date": "20250630",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "동탄 파라곤 3차"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950029&pblancNo=2025950029&houseSecd=02",
 		"in_date": "20250630",
 		"hsecd": "02",
@@ -661,5 +627,44 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "안양시",
 		"apply_nums": "144세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000257&pblancNo=2025000257&houseSecd=01",
+		"in_date": "20250703",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "양산자이 파크팰리체",
+		"addr": "경상남도 양산시 평산동 47-1번지 일원",
+		"short_addr": "경상남도 양산시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "양산시",
+		"apply_nums": "842세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000257&pblancNo=2025000257&houseSecd=01",
+		"in_date": "20250704",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "양산자이 파크팰리체",
+		"addr": "경상남도 양산시 평산동 47-1번지 일원",
+		"short_addr": "경상남도 양산시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "양산시",
+		"apply_nums": "842세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000257&pblancNo=2025000257&houseSecd=01",
+		"in_date": "20250707",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "양산자이 파크팰리체",
+		"addr": "경상남도 양산시 평산동 47-1번지 일원",
+		"short_addr": "경상남도 양산시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "양산시",
+		"apply_nums": "842세대"
 	}
 ]
