@@ -1,27 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950025&pblancNo=2025950025&houseSecd=02",
-		"in_date": "20250621",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "여의도 하이앤드 1ST",
-		"addr": "서울특별시 영등포구 영등포동3가 1-1",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "45세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940141&pblancNo=2025940141&houseSecd=11",
-		"in_date": "20250621",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "북수원이목지구 대방 디에트르 더 리체Ⅱ(A3BL)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950025&pblancNo=2025950025&houseSecd=02",
 		"in_date": "20250622",
 		"hsecd": "02",
 		"rse": "05",
@@ -348,6 +327,22 @@
 		"apply_nums": "18세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940146&pblancNo=2025940146&houseSecd=11",
+		"in_date": "20250627",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "e편한세상 제물포역 파크메종(조합원 취소분)(3차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940136&pblancNo=2025940136&houseSecd=11",
+		"in_date": "20250627",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "왕길역 로열파크씨티 푸르지오"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950029&pblancNo=2025950029&houseSecd=02",
 		"in_date": "20250628",
 		"hsecd": "02",
@@ -361,6 +356,22 @@
 		"apply_nums": "18세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940146&pblancNo=2025940146&houseSecd=11",
+		"in_date": "20250628",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "e편한세상 제물포역 파크메종(조합원 취소분)(3차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940136&pblancNo=2025940136&houseSecd=11",
+		"in_date": "20250628",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "왕길역 로열파크씨티 푸르지오"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950029&pblancNo=2025950029&houseSecd=02",
 		"in_date": "20250629",
 		"hsecd": "02",
@@ -372,6 +383,22 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "구로구",
 		"apply_nums": "18세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940146&pblancNo=2025940146&houseSecd=11",
+		"in_date": "20250629",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "e편한세상 제물포역 파크메종(조합원 취소분)(3차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940136&pblancNo=2025940136&houseSecd=11",
+		"in_date": "20250629",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "왕길역 로열파크씨티 푸르지오"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000234&pblancNo=2025000234&houseSecd=01",
@@ -471,6 +498,22 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "구로구",
 		"apply_nums": "18세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940146&pblancNo=2025940146&houseSecd=11",
+		"in_date": "20250630",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "e편한세상 제물포역 파크메종(조합원 취소분)(3차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940136&pblancNo=2025940136&houseSecd=11",
+		"in_date": "20250630",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "왕길역 로열파크씨티 푸르지오"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000234&pblancNo=2025000234&houseSecd=01",
