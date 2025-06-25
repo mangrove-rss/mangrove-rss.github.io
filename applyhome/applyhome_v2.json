@@ -1,26 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950025&pblancNo=2025950025&houseSecd=02",
-		"in_date": "20250622",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "여의도 하이앤드 1ST",
-		"addr": "서울특별시 영등포구 영등포동3가 1-1",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "45세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940141&pblancNo=2025940141&houseSecd=11",
-		"in_date": "20250622",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "북수원이목지구 대방 디에트르 더 리체Ⅱ(A3BL)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000227&pblancNo=2025000227&houseSecd=01",
 		"in_date": "20250623",
 		"hsecd": "01",
@@ -343,6 +322,14 @@
 		"name": "왕길역 로열파크씨티 푸르지오"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940145&pblancNo=2025940145&houseSecd=11",
+		"in_date": "20250627",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "이천 부발역 에피트(2차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950029&pblancNo=2025950029&houseSecd=02",
 		"in_date": "20250628",
 		"hsecd": "02",
@@ -372,6 +359,14 @@
 		"name": "왕길역 로열파크씨티 푸르지오"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940145&pblancNo=2025940145&houseSecd=11",
+		"in_date": "20250628",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "이천 부발역 에피트(2차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950029&pblancNo=2025950029&houseSecd=02",
 		"in_date": "20250629",
 		"hsecd": "02",
@@ -399,6 +394,14 @@
 		"rse": "11",
 		"type": "",
 		"name": "왕길역 로열파크씨티 푸르지오"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940145&pblancNo=2025940145&houseSecd=11",
+		"in_date": "20250629",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "이천 부발역 에피트(2차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000234&pblancNo=2025000234&houseSecd=01",
@@ -487,6 +490,14 @@
 		"name": "동탄 파라곤 3차"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850008&pblancNo=2025850008&houseSecd=03",
+		"in_date": "20250630",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "파주금촌 금호어울림"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950029&pblancNo=2025950029&houseSecd=02",
 		"in_date": "20250630",
 		"hsecd": "02",
@@ -508,12 +519,36 @@
 		"name": "e편한세상 제물포역 파크메종(조합원 취소분)(3차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940148&pblancNo=2025940148&houseSecd=11",
+		"in_date": "20250630",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "가능역 하우스토리 리버블리스"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940136&pblancNo=2025940136&houseSecd=11",
 		"in_date": "20250630",
 		"hsecd": "11",
 		"rse": "11",
 		"type": "",
 		"name": "왕길역 로열파크씨티 푸르지오"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940142&pblancNo=2025940142&houseSecd=11",
+		"in_date": "20250630",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "원종 휴먼빌 클라츠"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940145&pblancNo=2025940145&houseSecd=11",
+		"in_date": "20250630",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "이천 부발역 에피트(2차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000234&pblancNo=2025000234&houseSecd=01",
@@ -592,6 +627,53 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "안양시",
 		"apply_nums": "144세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950028&pblancNo=2025950028&houseSecd=02",
+		"in_date": "20250701",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "e편한세상 성성호수공원",
+		"addr": "충청남도 천안시 서북구 업성동 465-6번지 일원",
+		"short_addr": "충청남도 천안시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "천안시",
+		"apply_nums": "265세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910087&pblancNo=2025910087&houseSecd=04",
+		"in_date": "20250701",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "효성해링턴 플레이스 목감역(14차)",
+		"addr": "경기도 시흥시 논곡동 378",
+		"short_addr": "경기도 시흥시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "시흥시",
+		"apply_nums": "10세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940148&pblancNo=2025940148&houseSecd=11",
+		"in_date": "20250701",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "가능역 하우스토리 리버블리스"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000244&pblancNo=2025000244&houseSecd=01",
+		"in_date": "20250702",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "아산탕정자이 센트럴시티(A2BL)",
+		"addr": "충청남도 아산시 탕정면 동산리 147-4 일원 (아산신도시 센트럴시티 도시개발사업 A2BL)",
+		"short_addr": "충청남도 아산시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "아산시",
+		"apply_nums": "1238세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000234&pblancNo=2025000234&houseSecd=01",
@@ -685,6 +767,19 @@
 		"apply_nums": "842세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000244&pblancNo=2025000244&houseSecd=01",
+		"in_date": "20250703",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "아산탕정자이 센트럴시티(A2BL)",
+		"addr": "충청남도 아산시 탕정면 동산리 147-4 일원 (아산신도시 센트럴시티 도시개발사업 A2BL)",
+		"short_addr": "충청남도 아산시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "아산시",
+		"apply_nums": "1238세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000257&pblancNo=2025000257&houseSecd=01",
 		"in_date": "20250704",
 		"hsecd": "01",
@@ -698,6 +793,58 @@
 		"apply_nums": "842세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000244&pblancNo=2025000244&houseSecd=01",
+		"in_date": "20250704",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "아산탕정자이 센트럴시티(A2BL)",
+		"addr": "충청남도 아산시 탕정면 동산리 147-4 일원 (아산신도시 센트럴시티 도시개발사업 A2BL)",
+		"short_addr": "충청남도 아산시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "아산시",
+		"apply_nums": "1238세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000250&pblancNo=2025000250&houseSecd=01",
+		"in_date": "20250707",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "오티에르 포레",
+		"addr": "서울특별시 성동구 성수동1가 656-421번지 일대",
+		"short_addr": "서울특별시 성동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "성동구",
+		"apply_nums": "88세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000262&pblancNo=2025000262&houseSecd=01",
+		"in_date": "20250707",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "광주 탄벌 서희스타힐스 1단지",
+		"addr": "경기도 광주시 탄벌동 509번지 일원(탄벌4지구 A1블럭)",
+		"short_addr": "경기도 광주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "광주시",
+		"apply_nums": "32세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000263&pblancNo=2025000263&houseSecd=01",
+		"in_date": "20250707",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "광주 탄벌 서희스타힐스 2단지",
+		"addr": "경기도 광주시 탄벌동 532-2번지 일원(탄벌4지구 A2블럭)",
+		"short_addr": "경기도 광주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "광주시",
+		"apply_nums": "34세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000257&pblancNo=2025000257&houseSecd=01",
 		"in_date": "20250707",
 		"hsecd": "01",
@@ -709,5 +856,57 @@
 		"addr_lv1": "경상남도",
 		"addr_lv2": "양산시",
 		"apply_nums": "842세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000250&pblancNo=2025000250&houseSecd=01",
+		"in_date": "20250708",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "오티에르 포레",
+		"addr": "서울특별시 성동구 성수동1가 656-421번지 일대",
+		"short_addr": "서울특별시 성동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "성동구",
+		"apply_nums": "88세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000262&pblancNo=2025000262&houseSecd=01",
+		"in_date": "20250708",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "광주 탄벌 서희스타힐스 1단지",
+		"addr": "경기도 광주시 탄벌동 509번지 일원(탄벌4지구 A1블럭)",
+		"short_addr": "경기도 광주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "광주시",
+		"apply_nums": "32세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000263&pblancNo=2025000263&houseSecd=01",
+		"in_date": "20250708",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "광주 탄벌 서희스타힐스 2단지",
+		"addr": "경기도 광주시 탄벌동 532-2번지 일원(탄벌4지구 A2블럭)",
+		"short_addr": "경기도 광주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "광주시",
+		"apply_nums": "34세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000250&pblancNo=2025000250&houseSecd=01",
+		"in_date": "20250709",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "오티에르 포레",
+		"addr": "서울특별시 성동구 성수동1가 656-421번지 일대",
+		"short_addr": "서울특별시 성동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "성동구",
+		"apply_nums": "88세대"
 	}
 ]
