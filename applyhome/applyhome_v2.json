@@ -1,103 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000227&pblancNo=2025000227&houseSecd=01",
-		"in_date": "20250623",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "동남 하늘채 에디크 공공분양주택",
-		"addr": "충청북도 청주시 상당구 방서동 805일원(동남지구 내 A2BL)",
-		"short_addr": "충청북도 청주시",
-		"addr_lv1": "충청북도",
-		"addr_lv2": "청주시",
-		"apply_nums": "650세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000226&pblancNo=2025000226&houseSecd=01",
-		"in_date": "20250623",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "리더스시티 5블록(보류지) 공공분양주택",
-		"addr": "대전광역시 동구 천동 228-9 (대전광역시 동구 안샘로 14번길 7)",
-		"short_addr": "대전광역시 동구",
-		"addr_lv1": "대전광역시",
-		"addr_lv2": "동구",
-		"apply_nums": "1세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000217&pblancNo=2025000217&houseSecd=01",
-		"in_date": "20250623",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "선운지구다사로움 공가세대 일반공급",
-		"addr": "광주광역시 광산구 선운로 34 (선암동, 선운지구다사로움아파트)",
-		"short_addr": "광주광역시 광산구",
-		"addr_lv1": "광주광역시",
-		"addr_lv2": "광산구",
-		"apply_nums": "28세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950025&pblancNo=2025950025&houseSecd=02",
-		"in_date": "20250623",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "여의도 하이앤드 1ST",
-		"addr": "서울특별시 영등포구 영등포동3가 1-1",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "45세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930025&pblancNo=2025930025&houseSecd=06",
-		"in_date": "20250623",
-		"hsecd": "06",
-		"rse": "07",
-		"type": "",
-		"name": "새절역 두산위브 트레지움 불법행위재공급",
-		"addr": "서울특별시 은평구 증산로15길 54 (신사동)",
-		"short_addr": "서울특별시 은평구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "은평구",
-		"apply_nums": "1세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940138&pblancNo=2025940138&houseSecd=11",
-		"in_date": "20250623",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "개봉 루브루(7차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940141&pblancNo=2025940141&houseSecd=11",
-		"in_date": "20250623",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "북수원이목지구 대방 디에트르 더 리체Ⅱ(A3BL)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940128&pblancNo=2025940128&houseSecd=11",
-		"in_date": "20250623",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "수유 시그니티(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940139&pblancNo=2025940139&houseSecd=11",
-		"in_date": "20250623",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "수지 몽펠리에 힐포레 2단지 임의공급"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000227&pblancNo=2025000227&houseSecd=01",
 		"in_date": "20250624",
 		"hsecd": "01",
 		"rse": "02",
@@ -655,12 +558,33 @@
 		"apply_nums": "10세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930027&pblancNo=2025930027&houseSecd=06",
+		"in_date": "20250701",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "용인 경남아너스빌 디센트 H2BL(2단지)",
+		"addr": "경기도 용인시 처인구 양지면 남곡리 147-15외 8필지(용인남곡2지구 H2BL)",
+		"short_addr": "경기도 용인시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "용인시",
+		"apply_nums": "1세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940148&pblancNo=2025940148&houseSecd=11",
 		"in_date": "20250701",
 		"hsecd": "11",
 		"rse": "11",
 		"type": "",
 		"name": "가능역 하우스토리 리버블리스"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940143&pblancNo=2025940143&houseSecd=11",
+		"in_date": "20250701",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "힐스테이트 가양 더와이즈"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000244&pblancNo=2025000244&houseSecd=01",
@@ -754,6 +678,32 @@
 		"apply_nums": "144세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910094&pblancNo=2025910094&houseSecd=04",
+		"in_date": "20250702",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "더샵 금정위버시티(조합원 취소분)",
+		"addr": "부산광역시 금정구 부곡동 200-1번지 일원",
+		"short_addr": "부산광역시 금정구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "금정구",
+		"apply_nums": "23세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910086&pblancNo=2025910086&houseSecd=04",
+		"in_date": "20250702",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "디오르나인 안양역",
+		"addr": "경기도 안양시 만안구 안양동 627-1,2,3번지",
+		"short_addr": "경기도 안양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "안양시",
+		"apply_nums": "46세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000257&pblancNo=2025000257&houseSecd=01",
 		"in_date": "20250703",
 		"hsecd": "01",
@@ -778,6 +728,19 @@
 		"addr_lv1": "충청남도",
 		"addr_lv2": "아산시",
 		"apply_nums": "1238세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910086&pblancNo=2025910086&houseSecd=04",
+		"in_date": "20250703",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "디오르나인 안양역",
+		"addr": "경기도 안양시 만안구 안양동 627-1,2,3번지",
+		"short_addr": "경기도 안양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "안양시",
+		"apply_nums": "46세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000257&pblancNo=2025000257&houseSecd=01",
@@ -806,6 +769,97 @@
 		"apply_nums": "1238세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910086&pblancNo=2025910086&houseSecd=04",
+		"in_date": "20250704",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "디오르나인 안양역",
+		"addr": "경기도 안양시 만안구 안양동 627-1,2,3번지",
+		"short_addr": "경기도 안양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "안양시",
+		"apply_nums": "46세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000207&pblancNo=2025000207&houseSecd=01",
+		"in_date": "20250707",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "고덕 자연앤 하우스디(A4BL)(국민)",
+		"addr": "경기도 평택시 고덕동 1858-2",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "328세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000206&pblancNo=2025000206&houseSecd=01",
+		"in_date": "20250707",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "고덕 자연앤 하우스디(A4BL)(민영)",
+		"addr": "경기도 평택시 고덕동 1858-2",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "189세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000239&pblancNo=2025000239&houseSecd=01",
+		"in_date": "20250707",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "대구 범어 2차 아이파크",
+		"addr": "대구광역시 수성구 범어동 650번지 일원",
+		"short_addr": "대구광역시 수성구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "수성구",
+		"apply_nums": "92세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000267&pblancNo=2025000267&houseSecd=01",
+		"in_date": "20250707",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "리버센트 푸르지오 위브",
+		"addr": "서울특별시 영등포구 영등포동5가 32-8번지 일원",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "175세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000258&pblancNo=2025000258&houseSecd=01",
+		"in_date": "20250707",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "브레인시티 메디스파크 로제비앙 모아엘가",
+		"addr": "경기도 평택시 장안동 평택브레인시티 일반산업단지 공동6BL",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "1215세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000163&pblancNo=2025000163&houseSecd=01",
+		"in_date": "20250707",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "쌍용 더 플래티넘 서면",
+		"addr": "부산광역시 부산진구 부전동 677번지 일원",
+		"short_addr": "부산광역시 부산진구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "부산진구",
+		"apply_nums": "432세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000250&pblancNo=2025000250&houseSecd=01",
 		"in_date": "20250707",
 		"hsecd": "01",
@@ -817,6 +871,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "성동구",
 		"apply_nums": "88세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000247&pblancNo=2025000247&houseSecd=01",
+		"in_date": "20250707",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "파크레스트 해남",
+		"addr": "전라남도 해남군 해남읍 구교리 49번지 일원",
+		"short_addr": "전라남도 해남군",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "해남군",
+		"apply_nums": "294세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000262&pblancNo=2025000262&houseSecd=01",
@@ -858,6 +925,84 @@
 		"apply_nums": "842세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000207&pblancNo=2025000207&houseSecd=01",
+		"in_date": "20250708",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "고덕 자연앤 하우스디(A4BL)(국민)",
+		"addr": "경기도 평택시 고덕동 1858-2",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "328세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000206&pblancNo=2025000206&houseSecd=01",
+		"in_date": "20250708",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "고덕 자연앤 하우스디(A4BL)(민영)",
+		"addr": "경기도 평택시 고덕동 1858-2",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "189세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000239&pblancNo=2025000239&houseSecd=01",
+		"in_date": "20250708",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "대구 범어 2차 아이파크",
+		"addr": "대구광역시 수성구 범어동 650번지 일원",
+		"short_addr": "대구광역시 수성구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "수성구",
+		"apply_nums": "92세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000267&pblancNo=2025000267&houseSecd=01",
+		"in_date": "20250708",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "리버센트 푸르지오 위브",
+		"addr": "서울특별시 영등포구 영등포동5가 32-8번지 일원",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "175세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000258&pblancNo=2025000258&houseSecd=01",
+		"in_date": "20250708",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "브레인시티 메디스파크 로제비앙 모아엘가",
+		"addr": "경기도 평택시 장안동 평택브레인시티 일반산업단지 공동6BL",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "1215세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000163&pblancNo=2025000163&houseSecd=01",
+		"in_date": "20250708",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "쌍용 더 플래티넘 서면",
+		"addr": "부산광역시 부산진구 부전동 677번지 일원",
+		"short_addr": "부산광역시 부산진구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "부산진구",
+		"apply_nums": "432세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000250&pblancNo=2025000250&houseSecd=01",
 		"in_date": "20250708",
 		"hsecd": "01",
@@ -869,6 +1014,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "성동구",
 		"apply_nums": "88세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000247&pblancNo=2025000247&houseSecd=01",
+		"in_date": "20250708",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "파크레스트 해남",
+		"addr": "전라남도 해남군 해남읍 구교리 49번지 일원",
+		"short_addr": "전라남도 해남군",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "해남군",
+		"apply_nums": "294세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000262&pblancNo=2025000262&houseSecd=01",
@@ -895,6 +1053,84 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "광주시",
 		"apply_nums": "34세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000207&pblancNo=2025000207&houseSecd=01",
+		"in_date": "20250709",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "고덕 자연앤 하우스디(A4BL)(국민)",
+		"addr": "경기도 평택시 고덕동 1858-2",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "328세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000206&pblancNo=2025000206&houseSecd=01",
+		"in_date": "20250709",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "고덕 자연앤 하우스디(A4BL)(민영)",
+		"addr": "경기도 평택시 고덕동 1858-2",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "189세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000239&pblancNo=2025000239&houseSecd=01",
+		"in_date": "20250709",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "대구 범어 2차 아이파크",
+		"addr": "대구광역시 수성구 범어동 650번지 일원",
+		"short_addr": "대구광역시 수성구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "수성구",
+		"apply_nums": "92세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000267&pblancNo=2025000267&houseSecd=01",
+		"in_date": "20250709",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "리버센트 푸르지오 위브",
+		"addr": "서울특별시 영등포구 영등포동5가 32-8번지 일원",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "175세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000258&pblancNo=2025000258&houseSecd=01",
+		"in_date": "20250709",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "브레인시티 메디스파크 로제비앙 모아엘가",
+		"addr": "경기도 평택시 장안동 평택브레인시티 일반산업단지 공동6BL",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "1215세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000163&pblancNo=2025000163&houseSecd=01",
+		"in_date": "20250709",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "쌍용 더 플래티넘 서면",
+		"addr": "부산광역시 부산진구 부전동 677번지 일원",
+		"short_addr": "부산광역시 부산진구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "부산진구",
+		"apply_nums": "432세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000250&pblancNo=2025000250&houseSecd=01",
@@ -908,5 +1144,18 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "성동구",
 		"apply_nums": "88세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000247&pblancNo=2025000247&houseSecd=01",
+		"in_date": "20250709",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "파크레스트 해남",
+		"addr": "전라남도 해남군 해남읍 구교리 49번지 일원",
+		"short_addr": "전라남도 해남군",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "해남군",
+		"apply_nums": "294세대"
 	}
 ]
