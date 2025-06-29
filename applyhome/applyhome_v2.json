@@ -1,32 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950019&pblancNo=2025950019&houseSecd=02",
-		"in_date": "20250626",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "대연동 메트로타워2",
-		"addr": "부산광역시 남구 대연동 1739-24번지 ",
-		"short_addr": "부산광역시 남구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "남구",
-		"apply_nums": "99세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950029&pblancNo=2025950029&houseSecd=02",
-		"in_date": "20250626",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "서울G-밸리 라티포레스트 ",
-		"addr": "서울특별시 구로구 디지털로19길 3 (가리봉동)",
-		"short_addr": "서울특별시 구로구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "구로구",
-		"apply_nums": "18세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950019&pblancNo=2025950019&houseSecd=02",
 		"in_date": "20250627",
 		"hsecd": "02",
 		"rse": "05",
@@ -558,6 +532,30 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "안양시",
 		"apply_nums": "46세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940156&pblancNo=2025940156&houseSecd=11",
+		"in_date": "20250702",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "라체르보 푸르지오 써밋"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940151&pblancNo=2025940151&houseSecd=11",
+		"in_date": "20250702",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "부천아테라자이(부천괴안지구 B-2블록)(10차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940155&pblancNo=2025940155&houseSecd=11",
+		"in_date": "20250702",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "양평동 동문 디 이스트(5차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000257&pblancNo=2025000257&houseSecd=01",
