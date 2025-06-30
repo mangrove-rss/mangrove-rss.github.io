@@ -1,276 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950019&pblancNo=2025950019&houseSecd=02",
-		"in_date": "20250627",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "대연동 메트로타워2",
-		"addr": "부산광역시 남구 대연동 1739-24번지 ",
-		"short_addr": "부산광역시 남구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "남구",
-		"apply_nums": "99세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950029&pblancNo=2025950029&houseSecd=02",
-		"in_date": "20250627",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "서울G-밸리 라티포레스트 ",
-		"addr": "서울특별시 구로구 디지털로19길 3 (가리봉동)",
-		"short_addr": "서울특별시 구로구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "구로구",
-		"apply_nums": "18세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940146&pblancNo=2025940146&houseSecd=11",
-		"in_date": "20250627",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "e편한세상 제물포역 파크메종(조합원 취소분)(3차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940136&pblancNo=2025940136&houseSecd=11",
-		"in_date": "20250627",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "왕길역 로열파크씨티 푸르지오"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940145&pblancNo=2025940145&houseSecd=11",
-		"in_date": "20250627",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "이천 부발역 에피트(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950029&pblancNo=2025950029&houseSecd=02",
-		"in_date": "20250628",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "서울G-밸리 라티포레스트 ",
-		"addr": "서울특별시 구로구 디지털로19길 3 (가리봉동)",
-		"short_addr": "서울특별시 구로구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "구로구",
-		"apply_nums": "18세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940146&pblancNo=2025940146&houseSecd=11",
-		"in_date": "20250628",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "e편한세상 제물포역 파크메종(조합원 취소분)(3차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940136&pblancNo=2025940136&houseSecd=11",
-		"in_date": "20250628",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "왕길역 로열파크씨티 푸르지오"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940145&pblancNo=2025940145&houseSecd=11",
-		"in_date": "20250628",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "이천 부발역 에피트(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950029&pblancNo=2025950029&houseSecd=02",
-		"in_date": "20250629",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "서울G-밸리 라티포레스트 ",
-		"addr": "서울특별시 구로구 디지털로19길 3 (가리봉동)",
-		"short_addr": "서울특별시 구로구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "구로구",
-		"apply_nums": "18세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940146&pblancNo=2025940146&houseSecd=11",
-		"in_date": "20250629",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "e편한세상 제물포역 파크메종(조합원 취소분)(3차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940136&pblancNo=2025940136&houseSecd=11",
-		"in_date": "20250629",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "왕길역 로열파크씨티 푸르지오"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940145&pblancNo=2025940145&houseSecd=11",
-		"in_date": "20250629",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "이천 부발역 에피트(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000234&pblancNo=2025000234&houseSecd=01",
-		"in_date": "20250630",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "ESTIA 신장림 센트럴",
-		"addr": "부산광역시 사하구 장림동 432번지 외 2필지",
-		"short_addr": "부산광역시 사하구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "사하구",
-		"apply_nums": "108세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000205&pblancNo=2025000205&houseSecd=01",
-		"in_date": "20250630",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "동백호수공원 두산위브더제니스(조합원 취소분)",
-		"addr": "경기도 용인시 기흥구 동백동 478-10번지 일원",
-		"short_addr": "경기도 용인시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "용인시",
-		"apply_nums": "18세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000238&pblancNo=2025000238&houseSecd=01",
-		"in_date": "20250630",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "봉선동 르오네뜨 2차",
-		"addr": "광주광역시 남구 봉선동 161번지 일원",
-		"short_addr": "광주광역시 남구",
-		"addr_lv1": "광주광역시",
-		"addr_lv2": "남구",
-		"apply_nums": "56세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000192&pblancNo=2025000192&houseSecd=01",
-		"in_date": "20250630",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "어나드 범어",
-		"addr": "대구광역시 수성구 범어동 1",
-		"short_addr": "대구광역시 수성구",
-		"addr_lv1": "대구광역시",
-		"addr_lv2": "수성구",
-		"apply_nums": "604세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000233&pblancNo=2025000233&houseSecd=01",
-		"in_date": "20250630",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "해링턴 스퀘어 리버파크",
-		"addr": "경기도 광주시 역동 28-3번지 일원",
-		"short_addr": "경기도 광주시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "광주시",
-		"apply_nums": "817세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000246&pblancNo=2025000246&houseSecd=01",
-		"in_date": "20250630",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "호현 센트럴 아이파크",
-		"addr": "경기도 안양시 만안구 박달2동 111-1번지 일원",
-		"short_addr": "경기도 안양시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "안양시",
-		"apply_nums": "144세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850014&pblancNo=2025850014&houseSecd=03",
-		"in_date": "20250630",
-		"hsecd": "03",
-		"rse": "04",
-		"type": "",
-		"name": "동탄 파라곤 3차"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850008&pblancNo=2025850008&houseSecd=03",
-		"in_date": "20250630",
-		"hsecd": "03",
-		"rse": "04",
-		"type": "",
-		"name": "파주금촌 금호어울림"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950029&pblancNo=2025950029&houseSecd=02",
-		"in_date": "20250630",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "서울G-밸리 라티포레스트 ",
-		"addr": "서울특별시 구로구 디지털로19길 3 (가리봉동)",
-		"short_addr": "서울특별시 구로구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "구로구",
-		"apply_nums": "18세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940146&pblancNo=2025940146&houseSecd=11",
-		"in_date": "20250630",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "e편한세상 제물포역 파크메종(조합원 취소분)(3차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940148&pblancNo=2025940148&houseSecd=11",
-		"in_date": "20250630",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "가능역 하우스토리 리버블리스"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940136&pblancNo=2025940136&houseSecd=11",
-		"in_date": "20250630",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "왕길역 로열파크씨티 푸르지오"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940142&pblancNo=2025940142&houseSecd=11",
-		"in_date": "20250630",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "원종 휴먼빌 클라츠"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940145&pblancNo=2025940145&houseSecd=11",
-		"in_date": "20250630",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "이천 부발역 에피트(2차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000234&pblancNo=2025000234&houseSecd=01",
 		"in_date": "20250701",
 		"hsecd": "01",
@@ -558,6 +287,14 @@
 		"name": "양평동 동문 디 이스트(5차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940144&pblancNo=2025940144&houseSecd=11",
+		"in_date": "20250702",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "중앙공원 롯데캐슬 시그니처 1BL"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000257&pblancNo=2025000257&houseSecd=01",
 		"in_date": "20250703",
 		"hsecd": "01",
@@ -597,6 +334,22 @@
 		"apply_nums": "46세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940153&pblancNo=2025940153&houseSecd=11",
+		"in_date": "20250703",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(7차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940147&pblancNo=2025940147&houseSecd=11",
+		"in_date": "20250703",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "오산세교2 한신더휴(A16블록)(2차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000257&pblancNo=2025000257&houseSecd=01",
 		"in_date": "20250704",
 		"hsecd": "01",
@@ -634,6 +387,30 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "안양시",
 		"apply_nums": "46세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940153&pblancNo=2025940153&houseSecd=11",
+		"in_date": "20250704",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(7차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940153&pblancNo=2025940153&houseSecd=11",
+		"in_date": "20250705",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(7차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940153&pblancNo=2025940153&houseSecd=11",
+		"in_date": "20250706",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(7차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000207&pblancNo=2025000207&houseSecd=01",
@@ -868,6 +645,14 @@
 		"addr_lv1": "경상남도",
 		"addr_lv2": "양산시",
 		"apply_nums": "842세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940153&pblancNo=2025940153&houseSecd=11",
+		"in_date": "20250707",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(7차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000242&pblancNo=2025000242&houseSecd=01",
@@ -1102,6 +887,27 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "광주시",
 		"apply_nums": "34세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910101&pblancNo=2025910101&houseSecd=04",
+		"in_date": "20250708",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "고척 푸르지오 힐스테이트",
+		"addr": "서울특별시 구로구 고척동 148-1",
+		"short_addr": "서울특별시 구로구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "구로구",
+		"apply_nums": "39세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940153&pblancNo=2025940153&houseSecd=11",
+		"in_date": "20250708",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(7차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000242&pblancNo=2025000242&houseSecd=01",
