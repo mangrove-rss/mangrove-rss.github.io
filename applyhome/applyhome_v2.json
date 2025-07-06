@@ -1,61 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000257&pblancNo=2025000257&houseSecd=01",
-		"in_date": "20250703",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "양산자이 파크팰리체",
-		"addr": "경상남도 양산시 평산동 47-1번지 일원",
-		"short_addr": "경상남도 양산시",
-		"addr_lv1": "경상남도",
-		"addr_lv2": "양산시",
-		"apply_nums": "842세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000244&pblancNo=2025000244&houseSecd=01",
-		"in_date": "20250703",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "아산탕정자이 센트럴시티(A2BL)",
-		"addr": "충청남도 아산시 탕정면 동산리 147-4 일원 (아산신도시 센트럴시티 도시개발사업 A2BL)",
-		"short_addr": "충청남도 아산시",
-		"addr_lv1": "충청남도",
-		"addr_lv2": "아산시",
-		"apply_nums": "1238세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910086&pblancNo=2025910086&houseSecd=04",
-		"in_date": "20250703",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "디오르나인 안양역",
-		"addr": "경기도 안양시 만안구 안양동 627-1,2,3번지",
-		"short_addr": "경기도 안양시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "안양시",
-		"apply_nums": "46세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940153&pblancNo=2025940153&houseSecd=11",
-		"in_date": "20250703",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "리아츠 더 인천(7차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940147&pblancNo=2025940147&houseSecd=11",
-		"in_date": "20250703",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "오산세교2 한신더휴(A16블록)(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000257&pblancNo=2025000257&houseSecd=01",
 		"in_date": "20250704",
 		"hsecd": "01",
 		"rse": "02",
@@ -1142,6 +1087,71 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "서초구",
 		"apply_nums": "40세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910100&pblancNo=2025910100&houseSecd=04",
+		"in_date": "20250714",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "원주혁신도시 제일풍경채 센텀포레",
+		"addr": "강원특별자치도 원주시 반곡동 1822-11",
+		"short_addr": "강원특별자치도 원주시",
+		"addr_lv1": "강원특별자치도",
+		"addr_lv2": "원주시",
+		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910098&pblancNo=2025910098&houseSecd=04",
+		"in_date": "20250714",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "파주 운정3지구 A10블록 제일풍경채 2차 그랑베뉴",
+		"addr": "경기도 파주시 운정3지구 A10블록",
+		"short_addr": "경기도 파주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "파주시",
+		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910096&pblancNo=2025910096&houseSecd=04",
+		"in_date": "20250714",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "파주 운정3지구 A5블록 제일풍경채 그랑퍼스트",
+		"addr": "경기도 파주시 운정3지구 A5블록",
+		"short_addr": "경기도 파주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "파주시",
+		"apply_nums": "3세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910097&pblancNo=2025910097&houseSecd=04",
+		"in_date": "20250714",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "파주 운정3지구 A7블록 제일풍경채 3차 그랑포레",
+		"addr": "경기도 파주시 운정3지구 A7블록",
+		"short_addr": "경기도 파주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "파주시",
+		"apply_nums": "3세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930030&pblancNo=2025930030&houseSecd=06",
+		"in_date": "20250714",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "원주혁신도시 제일풍경채 센텀포레",
+		"addr": "강원특별자치도 원주시 반곡동 1822-11",
+		"short_addr": "강원특별자치도 원주시",
+		"addr_lv1": "강원특별자치도",
+		"addr_lv2": "원주시",
+		"apply_nums": "1세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000253&pblancNo=2025000253&houseSecd=01",
