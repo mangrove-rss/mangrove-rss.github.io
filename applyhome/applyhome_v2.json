@@ -1,68 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000257&pblancNo=2025000257&houseSecd=01",
-		"in_date": "20250704",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "양산자이 파크팰리체",
-		"addr": "경상남도 양산시 평산동 47-1번지 일원",
-		"short_addr": "경상남도 양산시",
-		"addr_lv1": "경상남도",
-		"addr_lv2": "양산시",
-		"apply_nums": "842세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000244&pblancNo=2025000244&houseSecd=01",
-		"in_date": "20250704",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "아산탕정자이 센트럴시티(A2BL)",
-		"addr": "충청남도 아산시 탕정면 동산리 147-4 일원 (아산신도시 센트럴시티 도시개발사업 A2BL)",
-		"short_addr": "충청남도 아산시",
-		"addr_lv1": "충청남도",
-		"addr_lv2": "아산시",
-		"apply_nums": "1238세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910086&pblancNo=2025910086&houseSecd=04",
-		"in_date": "20250704",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "디오르나인 안양역",
-		"addr": "경기도 안양시 만안구 안양동 627-1,2,3번지",
-		"short_addr": "경기도 안양시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "안양시",
-		"apply_nums": "46세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940153&pblancNo=2025940153&houseSecd=11",
-		"in_date": "20250704",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "리아츠 더 인천(7차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940150&pblancNo=2025940150&houseSecd=11",
-		"in_date": "20250704",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "세종 5-1 양우내안애 아스펜(4차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940149&pblancNo=2025940149&houseSecd=11",
-		"in_date": "20250704",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "양주 덕정역 에피트(2차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940153&pblancNo=2025940153&houseSecd=11",
 		"in_date": "20250705",
 		"hsecd": "11",
@@ -1076,6 +1013,14 @@
 		"apply_nums": "15세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850016&pblancNo=2025850016&houseSecd=03",
+		"in_date": "20250714",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "북수원 이목 시티프라디움 더 블리스"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950035&pblancNo=2025950035&houseSecd=02",
 		"in_date": "20250714",
 		"hsecd": "02",
@@ -1089,6 +1034,32 @@
 		"apply_nums": "40세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910106&pblancNo=2025910106&houseSecd=04",
+		"in_date": "20250714",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "강동 디 아테온",
+		"addr": "서울특별시 강동구 길동 336-1번지",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "58세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910105&pblancNo=2025910105&houseSecd=04",
+		"in_date": "20250714",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "경산 하양 제일풍경채",
+		"addr": "경상북도 경산시 하양읍 서사리 278, 경산하양지구 A7BL",
+		"short_addr": "경상북도 경산시",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "경산시",
+		"apply_nums": "4세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910100&pblancNo=2025910100&houseSecd=04",
 		"in_date": "20250714",
 		"hsecd": "04",
@@ -1099,6 +1070,19 @@
 		"short_addr": "강원특별자치도 원주시",
 		"addr_lv1": "강원특별자치도",
 		"addr_lv2": "원주시",
+		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910099&pblancNo=2025910099&houseSecd=04",
+		"in_date": "20250714",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "익산 제일풍경채 어바니티",
+		"addr": "전북특별자치도 익산시 마동 433",
+		"short_addr": "전북특별자치도 익산시",
+		"addr_lv1": "전북특별자치도",
+		"addr_lv2": "익산시",
 		"apply_nums": "1세대"
 	},
 	{
@@ -1141,6 +1125,32 @@
 		"apply_nums": "3세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930028&pblancNo=2025930028&houseSecd=06",
+		"in_date": "20250714",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "송파 위례리슈빌 FIRST CLASS",
+		"addr": "서울특별시 송파구 위례송파로 124 (거여동, 송파 위례 리슈빌 퍼스트클래스)",
+		"short_addr": "서울특별시 송파구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "송파구",
+		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930031&pblancNo=2025930031&houseSecd=06",
+		"in_date": "20250714",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "신검단중앙역 제일풍경채 어바니티 2차",
+		"addr": "인천광역시 서구 불로동 검단신도시 AB18블록",
+		"short_addr": "인천광역시 서구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "3세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930030&pblancNo=2025930030&houseSecd=06",
 		"in_date": "20250714",
 		"hsecd": "06",
@@ -1152,6 +1162,19 @@
 		"addr_lv1": "강원특별자치도",
 		"addr_lv2": "원주시",
 		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930029&pblancNo=2025930029&houseSecd=06",
+		"in_date": "20250714",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "익산 제일풍경채 어바니티",
+		"addr": "전북특별자치도 익산시 마동 433",
+		"short_addr": "전북특별자치도 익산시",
+		"addr_lv1": "전북특별자치도",
+		"addr_lv2": "익산시",
+		"apply_nums": "4세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000253&pblancNo=2025000253&houseSecd=01",
@@ -1243,6 +1266,40 @@
 		"addr_lv1": "광주광역시",
 		"addr_lv2": "북구",
 		"apply_nums": "15세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850016&pblancNo=2025850016&houseSecd=03",
+		"in_date": "20250715",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "북수원 이목 시티프라디움 더 블리스"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930031&pblancNo=2025930031&houseSecd=06",
+		"in_date": "20250715",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "신검단중앙역 제일풍경채 어바니티 2차",
+		"addr": "인천광역시 서구 불로동 검단신도시 AB18블록",
+		"short_addr": "인천광역시 서구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "3세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930029&pblancNo=2025930029&houseSecd=06",
+		"in_date": "20250715",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "익산 제일풍경채 어바니티",
+		"addr": "전북특별자치도 익산시 마동 433",
+		"short_addr": "전북특별자치도 익산시",
+		"addr_lv1": "전북특별자치도",
+		"addr_lv2": "익산시",
+		"apply_nums": "4세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000253&pblancNo=2025000253&houseSecd=01",
