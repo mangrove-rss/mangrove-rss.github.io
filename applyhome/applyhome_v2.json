@@ -1,13 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940153&pblancNo=2025940153&houseSecd=11",
-		"in_date": "20250706",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "리아츠 더 인천(7차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000207&pblancNo=2025000207&houseSecd=01",
 		"in_date": "20250707",
 		"hsecd": "01",
@@ -1078,6 +1070,19 @@
 		"apply_nums": "1세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910092&pblancNo=2025910092&houseSecd=04",
+		"in_date": "20250714",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "인천 영종하늘도시 A25블록 대성베르힐",
+		"addr": "인천광역시 중구 운남동 1709-1(영종하늘도시 A25블록)",
+		"short_addr": "인천광역시 중구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "13세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910098&pblancNo=2025910098&houseSecd=04",
 		"in_date": "20250714",
 		"hsecd": "04",
@@ -1305,12 +1310,56 @@
 		"name": "북수원 이목 시티프라디움 더 블리스"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950034&pblancNo=2025950034&houseSecd=02",
+		"in_date": "20250715",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "더 파크사이드 스위트",
+		"addr": "서울특별시 용산구 이태원동 22-34번지 일원",
+		"short_addr": "서울특별시 용산구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "용산구",
+		"apply_nums": "775세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950036&pblancNo=2025950036&houseSecd=02",
+		"in_date": "20250715",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "도심역 한양수자인 리버파인",
+		"addr": "경기도 남양주시 와부읍 도곡리 931-5번지 일원(도심역 한양수자인 리버파인)",
+		"short_addr": "경기도 남양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "남양주시",
+		"apply_nums": "25세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910092&pblancNo=2025910092&houseSecd=04",
+		"in_date": "20250715",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "인천 영종하늘도시 A25블록 대성베르힐",
+		"addr": "인천광역시 중구 운남동 1709-1(영종하늘도시 A25블록)",
+		"short_addr": "인천광역시 중구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "13세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930031&pblancNo=2025930031&houseSecd=06",
 		"in_date": "20250715",
 		"hsecd": "06",
 		"rse": "07",
 		"type": "",
-		"name": "신검단중앙역 제일풍경채 어바니티 2차"
+		"name": "신검단중앙역 제일풍경채 어바니티 2차",
+		"addr": "인천광역시 서구 불로동 검단신도시 AB18블록",
+		"short_addr": "인천광역시 서구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "3세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930029&pblancNo=2025930029&houseSecd=06",
@@ -1318,7 +1367,12 @@
 		"hsecd": "06",
 		"rse": "07",
 		"type": "",
-		"name": "익산 제일풍경채 어바니티"
+		"name": "익산 제일풍경채 어바니티",
+		"addr": "전북특별자치도 익산시 마동 433",
+		"short_addr": "전북특별자치도 익산시",
+		"addr_lv1": "전북특별자치도",
+		"addr_lv2": "익산시",
+		"apply_nums": "4세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940165&pblancNo=2025940165&houseSecd=11",
@@ -1342,7 +1396,12 @@
 		"hsecd": "01",
 		"rse": "03",
 		"type": "APT 2순위",
-		"name": "검단호수공원역 중흥S-클래스"
+		"name": "검단호수공원역 중흥S-클래스",
+		"addr": "인천광역시 서구 검단신도시 AA24BL(불로동)",
+		"short_addr": "인천광역시 서구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "1010세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000282&pblancNo=2025000282&houseSecd=01",
@@ -1350,7 +1409,12 @@
 		"hsecd": "01",
 		"rse": "03",
 		"type": "APT 2순위",
-		"name": "두류센트레빌 더 파크(조합원 취소분)"
+		"name": "두류센트레빌 더 파크(조합원 취소분)",
+		"addr": "대구광역시 달서구 두류동 638-19번지 일원",
+		"short_addr": "대구광역시 달서구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "달서구",
+		"apply_nums": "27세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000248&pblancNo=2025000248&houseSecd=01",
@@ -1358,7 +1422,12 @@
 		"hsecd": "01",
 		"rse": "03",
 		"type": "APT 2순위",
-		"name": "아산 신창1차 광신프로그레스"
+		"name": "아산 신창1차 광신프로그레스",
+		"addr": "충청남도 아산시 신창면 남성리 177-3번지 일원",
+		"short_addr": "충청남도 아산시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "아산시",
+		"apply_nums": "450세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000271&pblancNo=2025000271&houseSecd=01",
@@ -1366,7 +1435,12 @@
 		"hsecd": "01",
 		"rse": "03",
 		"type": "APT 2순위",
-		"name": "해링턴플레이스 풍무(1BL)"
+		"name": "해링턴플레이스 풍무(1BL)",
+		"addr": "경기도 김포시 풍무동 483-7번지 일대 (경기도 김포시 풍무 양도지구 도시개발사업 공동주택 1단지)",
+		"short_addr": "경기도 김포시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "김포시",
+		"apply_nums": "670세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000273&pblancNo=2025000273&houseSecd=01",
@@ -1374,7 +1448,12 @@
 		"hsecd": "01",
 		"rse": "03",
 		"type": "APT 2순위",
-		"name": "해링턴플레이스 풍무(2BL)"
+		"name": "해링턴플레이스 풍무(2BL)",
+		"addr": "경기도 김포시 풍무동 143-1번지 일대 (경기도 김포시 풍무 양도지구 도시개발사업 공동주택 2단지)",
+		"short_addr": "경기도 김포시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "김포시",
+		"apply_nums": "664세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000274&pblancNo=2025000274&houseSecd=01",
@@ -1382,6 +1461,24 @@
 		"hsecd": "01",
 		"rse": "03",
 		"type": "APT 2순위",
-		"name": "해링턴플레이스 풍무(3BL)"
+		"name": "해링턴플레이스 풍무(3BL)",
+		"addr": "경기도 김포시 풍무동 370-37번지 일대 (경기도 김포시 풍무 양도지구 도시개발사업 공동주택 3단지)",
+		"short_addr": "경기도 김포시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "김포시",
+		"apply_nums": "239세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950036&pblancNo=2025950036&houseSecd=02",
+		"in_date": "20250716",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "도심역 한양수자인 리버파인",
+		"addr": "경기도 남양주시 와부읍 도곡리 931-5번지 일원(도심역 한양수자인 리버파인)",
+		"short_addr": "경기도 남양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "남양주시",
+		"apply_nums": "25세대"
 	}
 ]
