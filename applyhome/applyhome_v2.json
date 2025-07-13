@@ -1,91 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000242&pblancNo=2025000242&houseSecd=01",
-		"in_date": "20250710",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "부발역 에피트 에디션",
-		"addr": "경기도 이천시 부발읍 아미리 산111 일원",
-		"short_addr": "경기도 이천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "이천시",
-		"apply_nums": "706세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950032&pblancNo=2025950032&houseSecd=02",
-		"in_date": "20250710",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "동탄 대방 엘리움 레이크파크",
-		"addr": "경기도 화성시 송동 725-9번지",
-		"short_addr": "경기도 화성시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "화성시",
-		"apply_nums": "4세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950033&pblancNo=2025950033&houseSecd=02",
-		"in_date": "20250710",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "동탄2신도시 동탄역 대방 엘리움 더 시그니처(C18BL)",
-		"addr": "경기도 화성시 오산동 동탄2택지개발지구 C18BL",
-		"short_addr": "경기도 화성시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "화성시",
-		"apply_nums": "8세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950031&pblancNo=2025950031&houseSecd=02",
-		"in_date": "20250710",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "동탄역 디에트르 퍼스티지",
-		"addr": "경기도 화성시 오산동 979번지",
-		"short_addr": "경기도 화성시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "화성시",
-		"apply_nums": "2세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950030&pblancNo=2025950030&houseSecd=02",
-		"in_date": "20250710",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "음성 석미아데나 센트럴",
-		"addr": "충청북도 음성군 음성읍 읍내리 419번지 일대",
-		"short_addr": "충청북도 음성군",
-		"addr_lv1": "충청북도",
-		"addr_lv2": "음성군",
-		"apply_nums": "245세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910090&pblancNo=2025910090&houseSecd=04",
-		"in_date": "20250710",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "올림픽파크 포레온(무순위 2차)",
-		"addr": "서울특별시 강동구 둔촌1동 170-1 일대",
-		"short_addr": "서울특별시 강동구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강동구",
-		"apply_nums": "4세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940158&pblancNo=2025940158&houseSecd=11",
-		"in_date": "20250710",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "평택 푸르지오 센터파인 (2차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910090&pblancNo=2025910090&houseSecd=04",
 		"in_date": "20250711",
 		"hsecd": "04",
@@ -738,6 +652,30 @@
 		"apply_nums": "75세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940170&pblancNo=2025940170&houseSecd=11",
+		"in_date": "20250716",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "고촌센트럴자이(6차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940159&pblancNo=2025940159&houseSecd=11",
+		"in_date": "20250716",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "남구로역 동일 센타시아(3차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940171&pblancNo=2025940171&houseSecd=11",
+		"in_date": "20250716",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "한신더휴 하이엔에듀포레(4차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000189&pblancNo=2025000189&houseSecd=01",
 		"in_date": "20250717",
 		"hsecd": "01",
@@ -757,6 +695,14 @@
 		"rse": "04",
 		"type": "",
 		"name": "서울은평뉴타운 디에트르 더 퍼스트(3-14BL)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940170&pblancNo=2025940170&houseSecd=11",
+		"in_date": "20250717",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "고촌센트럴자이(6차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000189&pblancNo=2025000189&houseSecd=01",
@@ -835,6 +781,19 @@
 		"addr_lv1": "제주특별자치도",
 		"addr_lv2": "제주시",
 		"apply_nums": "83세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910114&pblancNo=2025910114&houseSecd=04",
+		"in_date": "20250721",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "여주역 로제비앙 더센텀",
+		"addr": "경기도 여주시 홍문동 336-2번지 일원",
+		"short_addr": "경기도 여주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "여주시",
+		"apply_nums": "1세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2024000694&pblancNo=2024000694&houseSecd=01",
