@@ -1,18 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910090&pblancNo=2025910090&houseSecd=04",
-		"in_date": "20250711",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "올림픽파크 포레온(무순위 2차)",
-		"addr": "서울특별시 강동구 둔촌1동 170-1 일대",
-		"short_addr": "서울특별시 강동구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강동구",
-		"apply_nums": "4세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000253&pblancNo=2025000253&houseSecd=01",
 		"in_date": "20250714",
 		"hsecd": "01",
