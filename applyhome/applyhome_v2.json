@@ -881,6 +881,14 @@
 		"name": "광장 르엣지29"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940172&pblancNo=2025940172&houseSecd=11",
+		"in_date": "20250721",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "덕계역 한신더휴 포레스트"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940160&pblancNo=2025940160&houseSecd=11",
 		"in_date": "20250721",
 		"hsecd": "11",
@@ -962,12 +970,33 @@
 		"apply_nums": "83세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850013&pblancNo=2025850013&houseSecd=03",
+		"in_date": "20250722",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "부경경마공원역 대방 디에트르 더리버(AP1BL)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850004&pblancNo=2025850004&houseSecd=03",
 		"in_date": "20250722",
 		"hsecd": "03",
 		"rse": "04",
 		"type": "",
 		"name": "여수 원더라움 더힐"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950037&pblancNo=2025950037&houseSecd=02",
+		"in_date": "20250722",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "청라 피크원 푸르지오",
+		"addr": "인천광역시 서구 청라동 86-6번지(인천경제자유구역 청라국제도시 B1BL) 일대",
+		"short_addr": "인천광역시 서구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "1056세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940160&pblancNo=2025940160&houseSecd=11",
@@ -1028,6 +1057,14 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "의정부시",
 		"apply_nums": "674세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850013&pblancNo=2025850013&houseSecd=03",
+		"in_date": "20250723",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "부경경마공원역 대방 디에트르 더리버(AP1BL)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000031&pblancNo=2025000031&houseSecd=01",
