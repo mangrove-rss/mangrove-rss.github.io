@@ -1,35 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000189&pblancNo=2025000189&houseSecd=01",
-		"in_date": "20250717",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "클러스터용인 경남아너스빌",
-		"addr": "경기도 용인시 처인구 양지면 양지리713(양지지구1BL)",
-		"short_addr": "경기도 용인시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "용인시",
-		"apply_nums": "997세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850017&pblancNo=2025850017&houseSecd=03",
-		"in_date": "20250717",
-		"hsecd": "03",
-		"rse": "04",
-		"type": "",
-		"name": "서울은평뉴타운 디에트르 더 퍼스트(3-14BL)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940170&pblancNo=2025940170&houseSecd=11",
-		"in_date": "20250717",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "고촌센트럴자이(6차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000189&pblancNo=2025000189&houseSecd=01",
 		"in_date": "20250718",
 		"hsecd": "01",
 		"rse": "03",
@@ -435,6 +406,46 @@
 		"apply_nums": "1세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940175&pblancNo=2025940175&houseSecd=11",
+		"in_date": "20250723",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(8차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940175&pblancNo=2025940175&houseSecd=11",
+		"in_date": "20250724",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(8차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940175&pblancNo=2025940175&houseSecd=11",
+		"in_date": "20250725",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(8차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940175&pblancNo=2025940175&houseSecd=11",
+		"in_date": "20250726",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(8차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940175&pblancNo=2025940175&houseSecd=11",
+		"in_date": "20250727",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(8차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000290&pblancNo=2025000290&houseSecd=01",
 		"in_date": "20250728",
 		"hsecd": "01",
@@ -500,6 +511,14 @@
 		"apply_nums": "418세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940175&pblancNo=2025940175&houseSecd=11",
+		"in_date": "20250728",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(8차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000290&pblancNo=2025000290&houseSecd=01",
 		"in_date": "20250729",
 		"hsecd": "01",
@@ -565,6 +584,14 @@
 		"apply_nums": "418세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940175&pblancNo=2025940175&houseSecd=11",
+		"in_date": "20250729",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(8차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000290&pblancNo=2025000290&houseSecd=01",
 		"in_date": "20250730",
 		"hsecd": "01",
@@ -628,5 +655,83 @@
 		"addr_lv1": "강원특별자치도",
 		"addr_lv2": "삼척시",
 		"apply_nums": "418세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950040&pblancNo=2025950040&houseSecd=02",
+		"in_date": "20250731",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "당산역 더클래스 한강",
+		"addr": "서울특별시 영등포구 당산동6가 341-1번지",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "9세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950040&pblancNo=2025950040&houseSecd=02",
+		"in_date": "20250801",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "당산역 더클래스 한강",
+		"addr": "서울특별시 영등포구 당산동6가 341-1번지",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "9세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950040&pblancNo=2025950040&houseSecd=02",
+		"in_date": "20250802",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "당산역 더클래스 한강",
+		"addr": "서울특별시 영등포구 당산동6가 341-1번지",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "9세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950040&pblancNo=2025950040&houseSecd=02",
+		"in_date": "20250803",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "당산역 더클래스 한강",
+		"addr": "서울특별시 영등포구 당산동6가 341-1번지",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "9세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950040&pblancNo=2025950040&houseSecd=02",
+		"in_date": "20250804",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "당산역 더클래스 한강",
+		"addr": "서울특별시 영등포구 당산동6가 341-1번지",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "9세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950040&pblancNo=2025950040&houseSecd=02",
+		"in_date": "20250805",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "당산역 더클래스 한강",
+		"addr": "서울특별시 영등포구 당산동6가 341-1번지",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "9세대"
 	}
 ]
