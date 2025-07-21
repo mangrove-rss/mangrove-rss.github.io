@@ -1,42 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000189&pblancNo=2025000189&houseSecd=01",
-		"in_date": "20250718",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "클러스터용인 경남아너스빌",
-		"addr": "경기도 용인시 처인구 양지면 양지리713(양지지구1BL)",
-		"short_addr": "경기도 용인시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "용인시",
-		"apply_nums": "997세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940168&pblancNo=2025940168&houseSecd=11",
-		"in_date": "20250718",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "광장 르엣지29"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940167&pblancNo=2025940167&houseSecd=11",
-		"in_date": "20250718",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "부천아테라자이(부천괴안지구 B-2블록)(11차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940164&pblancNo=2025940164&houseSecd=11",
-		"in_date": "20250718",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "진천 금호어울림 센트럴파크"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940168&pblancNo=2025940168&houseSecd=11",
 		"in_date": "20250719",
 		"hsecd": "11",
@@ -511,6 +474,32 @@
 		"apply_nums": "418세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910095&pblancNo=2025910095&houseSecd=04",
+		"in_date": "20250728",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "에스아이팰리스 강동 센텀Ⅱ",
+		"addr": "서울특별시 강동구 길동 386-4 (길동, 에스아이팰리스 강동 센텀2)",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "15세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910115&pblancNo=2025910115&houseSecd=04",
+		"in_date": "20250728",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "파주운정3지구 A42블록 신영지웰 운정신도시(2차)",
+		"addr": "경기도 파주시 동패동 2110번지",
+		"short_addr": "경기도 파주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "파주시",
+		"apply_nums": "3세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940175&pblancNo=2025940175&houseSecd=11",
 		"in_date": "20250728",
 		"hsecd": "11",
@@ -582,6 +571,19 @@
 		"addr_lv1": "강원특별자치도",
 		"addr_lv2": "삼척시",
 		"apply_nums": "418세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910095&pblancNo=2025910095&houseSecd=04",
+		"in_date": "20250729",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "에스아이팰리스 강동 센텀Ⅱ",
+		"addr": "서울특별시 강동구 길동 386-4 (길동, 에스아이팰리스 강동 센텀2)",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "15세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940175&pblancNo=2025940175&houseSecd=11",
