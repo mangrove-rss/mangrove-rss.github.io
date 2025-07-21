@@ -183,23 +183,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ HEYZO-3631 ]]></showrss:showname>
 		</item>
-		<item>
-			<title><![CDATA[ 071225-001-carib ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:fc770fa0f9a4fbddb7176500785e92b865aa9586 ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ 071225-001-carib ]]></showrss:showname>
-		</item>
-		<item>
-			<title><![CDATA[ HEYZO-3630 ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:538a923e866f628a613ad81b6917a3d418703c83 ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ HEYZO-3630 ]]></showrss:showname>
-		</item>
-		<item>
-			<title><![CDATA[ HEYZO-3630 ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:aaad1a7699aede5fe26ede269de1918d4a3ce05a ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ HEYZO-3630 ]]></showrss:showname>
-		</item>
 	</channel>
 </rss>
