@@ -1,22 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940168&pblancNo=2025940168&houseSecd=11",
-		"in_date": "20250719",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "광장 르엣지29"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940164&pblancNo=2025940164&houseSecd=11",
-		"in_date": "20250719",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "진천 금호어울림 센트럴파크"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940168&pblancNo=2025940168&houseSecd=11",
 		"in_date": "20250720",
 		"hsecd": "11",
 		"rse": "11",
@@ -487,6 +471,19 @@
 		"apply_nums": "15세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910117&pblancNo=2025910117&houseSecd=04",
+		"in_date": "20250728",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "진위역 서희스타힐스 더 파크뷰",
+		"addr": "경기도 평택시 진위면 갈곶리 239-60번지 일원",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "24세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910115&pblancNo=2025910115&houseSecd=04",
 		"in_date": "20250728",
 		"hsecd": "04",
@@ -672,6 +669,19 @@
 		"apply_nums": "9세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000304&pblancNo=2025000304&houseSecd=01",
+		"in_date": "20250801",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "광양만권경제자유구역 신대배후단지 B-6BL 중흥S-클래스 5단지",
+		"addr": "전라남도 순천시 해룡면 신대로 97,중흥S클래스 5단지 514동",
+		"short_addr": "전라남도 순천시",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "순천시",
+		"apply_nums": "25세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950040&pblancNo=2025950040&houseSecd=02",
 		"in_date": "20250801",
 		"hsecd": "02",
@@ -711,6 +721,32 @@
 		"apply_nums": "9세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000312&pblancNo=2025000312&houseSecd=01",
+		"in_date": "20250804",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "선화동 참좋은아파트 우선분양전환 후 잔여세대(2차)",
+		"addr": "대전광역시 중구 선화동 83-1 (선화동, 참좋은아파트)",
+		"short_addr": "대전광역시 중구",
+		"addr_lv1": "대전광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "2세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000304&pblancNo=2025000304&houseSecd=01",
+		"in_date": "20250804",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "광양만권경제자유구역 신대배후단지 B-6BL 중흥S-클래스 5단지",
+		"addr": "전라남도 순천시 해룡면 신대로 97,중흥S클래스 5단지 514동",
+		"short_addr": "전라남도 순천시",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "순천시",
+		"apply_nums": "25세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950040&pblancNo=2025950040&houseSecd=02",
 		"in_date": "20250804",
 		"hsecd": "02",
@@ -722,6 +758,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "영등포구",
 		"apply_nums": "9세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000312&pblancNo=2025000312&houseSecd=01",
+		"in_date": "20250805",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "선화동 참좋은아파트 우선분양전환 후 잔여세대(2차)",
+		"addr": "대전광역시 중구 선화동 83-1 (선화동, 참좋은아파트)",
+		"short_addr": "대전광역시 중구",
+		"addr_lv1": "대전광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "2세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950040&pblancNo=2025950040&houseSecd=02",
