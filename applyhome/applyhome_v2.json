@@ -1,14 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940175&pblancNo=2025940175&houseSecd=11",
-		"in_date": "20250726",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "리아츠 더 인천(8차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940175&pblancNo=2025940175&houseSecd=11",
 		"in_date": "20250727",
 		"hsecd": "11",
 		"rse": "11",
@@ -308,6 +300,14 @@
 		"apply_nums": "9세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940177&pblancNo=2025940177&houseSecd=11",
+		"in_date": "20250731",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "신도림역 동문 디 이스트(4차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940176&pblancNo=2025940176&houseSecd=11",
 		"in_date": "20250731",
 		"hsecd": "11",
@@ -342,6 +342,30 @@
 		"apply_nums": "9세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940183&pblancNo=2025940183&houseSecd=11",
+		"in_date": "20250801",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "부천아테라자이(부천괴안지구 B-2블록)(12차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940177&pblancNo=2025940177&houseSecd=11",
+		"in_date": "20250801",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "신도림역 동문 디 이스트(4차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940178&pblancNo=2025940178&houseSecd=11",
+		"in_date": "20250801",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "의정부역 다채로움(2차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940176&pblancNo=2025940176&houseSecd=11",
 		"in_date": "20250801",
 		"hsecd": "11",
@@ -363,6 +387,14 @@
 		"apply_nums": "9세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940178&pblancNo=2025940178&houseSecd=11",
+		"in_date": "20250802",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "의정부역 다채로움(2차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950040&pblancNo=2025950040&houseSecd=02",
 		"in_date": "20250803",
 		"hsecd": "02",
@@ -374,6 +406,14 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "영등포구",
 		"apply_nums": "9세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940178&pblancNo=2025940178&houseSecd=11",
+		"in_date": "20250803",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "의정부역 다채로움(2차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000281&pblancNo=2025000281&houseSecd=01",
@@ -478,6 +518,27 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "영등포구",
 		"apply_nums": "9세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910120&pblancNo=2025910120&houseSecd=04",
+		"in_date": "20250804",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "아산탕정자이 센트럴시티(A2BL)",
+		"addr": "충청남도 아산시 탕정면 동산리 147-4 일원 (아산신도시 센트럴시티 도시개발사업 A2BL)",
+		"short_addr": "충청남도 아산시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "아산시",
+		"apply_nums": "669세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940178&pblancNo=2025940178&houseSecd=11",
+		"in_date": "20250804",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "의정부역 다채로움(2차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000270&pblancNo=2025000270&houseSecd=01",
