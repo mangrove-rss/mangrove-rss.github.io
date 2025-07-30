@@ -1,13 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940175&pblancNo=2025940175&houseSecd=11",
-		"in_date": "20250727",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "리아츠 더 인천(8차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000290&pblancNo=2025000290&houseSecd=01",
 		"in_date": "20250728",
 		"hsecd": "01",
@@ -350,6 +342,14 @@
 		"name": "부천아테라자이(부천괴안지구 B-2블록)(12차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940180&pblancNo=2025940180&houseSecd=11",
+		"in_date": "20250801",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "세종 5-1 양우내안애 아스펜(5차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940177&pblancNo=2025940177&houseSecd=11",
 		"in_date": "20250801",
 		"hsecd": "11",
@@ -531,6 +531,40 @@
 		"addr_lv1": "충청남도",
 		"addr_lv2": "아산시",
 		"apply_nums": "669세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910119&pblancNo=2025910119&houseSecd=04",
+		"in_date": "20250804",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "어나드 범어",
+		"addr": "대구광역시 수성구 범어동 1",
+		"short_addr": "대구광역시 수성구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "수성구",
+		"apply_nums": "53세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910116&pblancNo=2025910116&houseSecd=04",
+		"in_date": "20250804",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "호현 센트럴 아이파크",
+		"addr": "경기도 안양시 만안구 박달2동 111-1번지 일원",
+		"short_addr": "경기도 안양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "안양시",
+		"apply_nums": "100세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940179&pblancNo=2025940179&houseSecd=11",
+		"in_date": "20250804",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "원종 휴먼빌 클라츠(2차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940178&pblancNo=2025940178&houseSecd=11",
