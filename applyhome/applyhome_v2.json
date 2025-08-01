@@ -478,6 +478,19 @@
 		"apply_nums": "434세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910118&pblancNo=2025910118&houseSecd=04",
+		"in_date": "20250806",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "해링턴 스퀘어 리버파크",
+		"addr": "경기도 광주시 역동 28-3번지 일원",
+		"short_addr": "경기도 광주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "광주시",
+		"apply_nums": "240세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000270&pblancNo=2025000270&houseSecd=01",
 		"in_date": "20250807",
 		"hsecd": "01",
