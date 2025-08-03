@@ -491,6 +491,14 @@
 		"apply_nums": "240세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940184&pblancNo=2025940184&houseSecd=11",
+		"in_date": "20250806",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "북수원이목지구 대방 디에트르 더 리체Ⅱ(A3BL) (3차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000270&pblancNo=2025000270&houseSecd=01",
 		"in_date": "20250807",
 		"hsecd": "01",
@@ -502,6 +510,14 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "동대문구",
 		"apply_nums": "82세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940184&pblancNo=2025940184&houseSecd=11",
+		"in_date": "20250807",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "북수원이목지구 대방 디에트르 더 리체Ⅱ(A3BL) (3차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000266&pblancNo=2025000266&houseSecd=01",
@@ -528,6 +544,22 @@
 		"addr_lv1": "부산광역시",
 		"addr_lv2": "수영구",
 		"apply_nums": "835세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850019&pblancNo=2025850019&houseSecd=03",
+		"in_date": "20250811",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "대전관평 예미지 어반코어(1345)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850020&pblancNo=2025850020&houseSecd=03",
+		"in_date": "20250811",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "대전관평 예미지 어반코어(1356)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950042&pblancNo=2025950042&houseSecd=02",
@@ -567,6 +599,22 @@
 		"addr_lv1": "부산광역시",
 		"addr_lv2": "수영구",
 		"apply_nums": "835세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850019&pblancNo=2025850019&houseSecd=03",
+		"in_date": "20250812",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "대전관평 예미지 어반코어(1345)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850020&pblancNo=2025850020&houseSecd=03",
+		"in_date": "20250812",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "대전관평 예미지 어반코어(1356)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950042&pblancNo=2025950042&houseSecd=02",
