@@ -1,71 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000304&pblancNo=2025000304&houseSecd=01",
-		"in_date": "20250801",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "광양만권경제자유구역 신대배후단지 B-6BL 중흥S-클래스 5단지",
-		"addr": "전라남도 순천시 해룡면 신대로 97,중흥S클래스 5단지 514동",
-		"short_addr": "전라남도 순천시",
-		"addr_lv1": "전라남도",
-		"addr_lv2": "순천시",
-		"apply_nums": "25세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950040&pblancNo=2025950040&houseSecd=02",
-		"in_date": "20250801",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "당산역 더클래스 한강",
-		"addr": "서울특별시 영등포구 당산동6가 341-1번지",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "9세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940183&pblancNo=2025940183&houseSecd=11",
-		"in_date": "20250801",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "부천아테라자이(부천괴안지구 B-2블록)(12차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940180&pblancNo=2025940180&houseSecd=11",
-		"in_date": "20250801",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "세종 5-1 양우내안애 아스펜(5차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940177&pblancNo=2025940177&houseSecd=11",
-		"in_date": "20250801",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "신도림역 동문 디 이스트(4차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940178&pblancNo=2025940178&houseSecd=11",
-		"in_date": "20250801",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "의정부역 다채로움(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940176&pblancNo=2025940176&houseSecd=11",
-		"in_date": "20250801",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "호반써밋 개봉(7차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950040&pblancNo=2025950040&houseSecd=02",
 		"in_date": "20250802",
 		"hsecd": "02",
@@ -491,6 +425,14 @@
 		"apply_nums": "240세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940188&pblancNo=2025940188&houseSecd=11",
+		"in_date": "20250806",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "강동 디 아테온(THE ATHEON)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940184&pblancNo=2025940184&houseSecd=11",
 		"in_date": "20250806",
 		"hsecd": "11",
@@ -520,6 +462,14 @@
 		"name": "북수원이목지구 대방 디에트르 더 리체Ⅱ(A3BL) (3차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940190&pblancNo=2025940190&houseSecd=11",
+		"in_date": "20250807",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "서울원 아이파크(4차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000266&pblancNo=2025000266&houseSecd=01",
 		"in_date": "20250811",
 		"hsecd": "01",
@@ -573,6 +523,58 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "영등포구",
 		"apply_nums": "11세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910127&pblancNo=2025910127&houseSecd=04",
+		"in_date": "20250811",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "광주탄벌 서희스타힐스1단지",
+		"addr": "경기도 광주시 탄벌동 509번지 일원(탄벌4지구 A1블럭)",
+		"short_addr": "경기도 광주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "광주시",
+		"apply_nums": "17세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910110&pblancNo=2025910110&houseSecd=04",
+		"in_date": "20250811",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "어반클라쎄목동(7차)",
+		"addr": "서울특별시 양천구 신목로2길 7-12 (신정동, 어반클라쎄 목동)",
+		"short_addr": "서울특별시 양천구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "양천구",
+		"apply_nums": "8세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910128&pblancNo=2025910128&houseSecd=04",
+		"in_date": "20250811",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "오산 세교2지구 A12블록 공공분양주택",
+		"addr": "경기도 오산시 벌음동 382번지(오산세교2 택지개발지구 A12BL)",
+		"short_addr": "경기도 오산시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "오산시",
+		"apply_nums": "125세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910122&pblancNo=2025910122&houseSecd=04",
+		"in_date": "20250811",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "오퍼스 한강 스위첸",
+		"addr": "경기도 김포시 고촌읍 향산리 588-11번지 일원",
+		"short_addr": "경기도 김포시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "김포시",
+		"apply_nums": "510세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000266&pblancNo=2025000266&houseSecd=01",
@@ -630,6 +632,19 @@
 		"apply_nums": "11세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910110&pblancNo=2025910110&houseSecd=04",
+		"in_date": "20250812",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "어반클라쎄목동(7차)",
+		"addr": "서울특별시 양천구 신목로2길 7-12 (신정동, 어반클라쎄 목동)",
+		"short_addr": "서울특별시 양천구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "양천구",
+		"apply_nums": "8세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000266&pblancNo=2025000266&houseSecd=01",
 		"in_date": "20250813",
 		"hsecd": "01",
@@ -667,5 +682,44 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "영등포구",
 		"apply_nums": "11세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000328&pblancNo=2025000328&houseSecd=01",
+		"in_date": "20250825",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "디에이치 아델스타",
+		"addr": "경기도 과천시 주암동 63-9번지 일원",
+		"short_addr": "경기도 과천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "과천시",
+		"apply_nums": "348세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000328&pblancNo=2025000328&houseSecd=01",
+		"in_date": "20250826",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "디에이치 아델스타",
+		"addr": "경기도 과천시 주암동 63-9번지 일원",
+		"short_addr": "경기도 과천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "과천시",
+		"apply_nums": "348세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000328&pblancNo=2025000328&houseSecd=01",
+		"in_date": "20250827",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "디에이치 아델스타",
+		"addr": "경기도 과천시 주암동 63-9번지 일원",
+		"short_addr": "경기도 과천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "과천시",
+		"apply_nums": "348세대"
 	}
 ]
