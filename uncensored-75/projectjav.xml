@@ -40,16 +40,10 @@
 			<showrss:showname><![CDATA[ 080825_001-1pondo ]]></showrss:showname>
 		</item>
 		<item>
-			<title><![CDATA[ 080725-001-carib ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:47a48ce8777de923e3e30ec701fdf70eb20082e1 ]]></link>
+			<title><![CDATA[ HEYZO-3649 ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih:d87a42bf2052d84744b6397ad7cca432d6b5644b ]]></link>
 			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ 080725-001-carib ]]></showrss:showname>
-		</item>
-		<item>
-			<title><![CDATA[ 080725-001-carib ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:19402c2b22d790ba9a3d9c9e60d9c75241e7fa85 ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ 080725-001-carib ]]></showrss:showname>
+			<showrss:showname><![CDATA[ HEYZO-3649 ]]></showrss:showname>
 		</item>
 		<item>
 			<title><![CDATA[ 080725_001-1pondo ]]></title>
@@ -62,6 +56,18 @@
 			<link><![CDATA[ magnet:?xt=urn:btih:df6db81b505e853bd02c872cab5d1aaece31b7cc ]]></link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ 080725_001-1pondo ]]></showrss:showname>
+		</item>
+		<item>
+			<title><![CDATA[ 080725-001-carib ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih:47a48ce8777de923e3e30ec701fdf70eb20082e1 ]]></link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ 080725-001-carib ]]></showrss:showname>
+		</item>
+		<item>
+			<title><![CDATA[ 080725-001-carib ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih:19402c2b22d790ba9a3d9c9e60d9c75241e7fa85 ]]></link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ 080725-001-carib ]]></showrss:showname>
 		</item>
 		<item>
 			<title><![CDATA[ 071125-001-carib ]]></title>
@@ -80,12 +86,6 @@
 			<link><![CDATA[ magnet:?xt=urn:btih:487049f1eb3f62cf7d8a086c799fb321d74b807c ]]></link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ 071125-001-carib ]]></showrss:showname>
-		</item>
-		<item>
-			<title><![CDATA[ HEYZO-3649 ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:d87a42bf2052d84744b6397ad7cca432d6b5644b ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ HEYZO-3649 ]]></showrss:showname>
 		</item>
 		<item>
 			<title><![CDATA[ 080625-002-carib ]]></title>
@@ -143,13 +143,13 @@
 		</item>
 		<item>
 			<title><![CDATA[ HEYZO-3630 ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:c72f1ce23c1fff35204a307359ad7c056f47bbee ]]></link>
+			<link><![CDATA[ magnet:?xt=urn:btih:538a923e866f628a613ad81b6917a3d418703c83 ]]></link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ HEYZO-3630 ]]></showrss:showname>
 		</item>
 		<item>
 			<title><![CDATA[ HEYZO-3630 ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:538a923e866f628a613ad81b6917a3d418703c83 ]]></link>
+			<link><![CDATA[ magnet:?xt=urn:btih:c72f1ce23c1fff35204a307359ad7c056f47bbee ]]></link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ HEYZO-3630 ]]></showrss:showname>
 		</item>
@@ -176,12 +176,6 @@
 			<link><![CDATA[ magnet:?xt=urn:btih:9cd87d636d0bef0a526dde229eea38b4cc26b79c ]]></link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ HEYZO-3628 ]]></showrss:showname>
-		</item>
-		<item>
-			<title><![CDATA[ xb-653 ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:c893afd83a1db79d985daa98dca94bf5d0dae1bb ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ xb-653 ]]></showrss:showname>
 		</item>
 		<item>
 			<title><![CDATA[ xb-668 ]]></title>
@@ -212,6 +206,12 @@
 			<link><![CDATA[ magnet:?xt=urn:btih:e77a09d1358ffad4d2634d69362cb77297bb2248 ]]></link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ xb-669 ]]></showrss:showname>
+		</item>
+		<item>
+			<title><![CDATA[ xb-653 ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih:c893afd83a1db79d985daa98dca94bf5d0dae1bb ]]></link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ xb-653 ]]></showrss:showname>
 		</item>
 		<item>
 			<title><![CDATA[ 080525_001-1pondo ]]></title>
