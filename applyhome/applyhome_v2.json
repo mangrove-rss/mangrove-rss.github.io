@@ -1,34 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000270&pblancNo=2025000270&houseSecd=01",
-		"in_date": "20250807",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "제기동역 아이파크",
-		"addr": "서울특별시 동대문구 제기동 892-68번지 일원",
-		"short_addr": "서울특별시 동대문구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "동대문구",
-		"apply_nums": "82세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940184&pblancNo=2025940184&houseSecd=11",
-		"in_date": "20250807",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "북수원이목지구 대방 디에트르 더 리체Ⅱ(A3BL) (3차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940190&pblancNo=2025940190&houseSecd=11",
-		"in_date": "20250807",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "서울원 아이파크(4차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940197&pblancNo=2025940197&houseSecd=11",
 		"in_date": "20250808",
 		"hsecd": "11",
@@ -523,12 +494,36 @@
 		"apply_nums": "1세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940195&pblancNo=2025940195&houseSecd=11",
+		"in_date": "20250813",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "남구로역 동일 센타시아(4차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940199&pblancNo=2025940199&houseSecd=11",
+		"in_date": "20250813",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(9차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940186&pblancNo=2025940186&houseSecd=11",
 		"in_date": "20250813",
 		"hsecd": "11",
 		"rse": "11",
 		"type": "",
 		"name": "북구청역 푸르지오 에듀포레"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940194&pblancNo=2025940194&houseSecd=11",
+		"in_date": "20250813",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "평촌 어바인퍼스트"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000338&pblancNo=2025000338&houseSecd=01",
@@ -583,6 +578,54 @@
 		"apply_nums": "2세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940195&pblancNo=2025940195&houseSecd=11",
+		"in_date": "20250814",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "남구로역 동일 센타시아(4차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940199&pblancNo=2025940199&houseSecd=11",
+		"in_date": "20250814",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(9차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940194&pblancNo=2025940194&houseSecd=11",
+		"in_date": "20250814",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "평촌 어바인퍼스트"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940199&pblancNo=2025940199&houseSecd=11",
+		"in_date": "20250815",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(9차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940199&pblancNo=2025940199&houseSecd=11",
+		"in_date": "20250816",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(9차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940199&pblancNo=2025940199&houseSecd=11",
+		"in_date": "20250817",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(9차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000340&pblancNo=2025000340&houseSecd=01",
 		"in_date": "20250818",
 		"hsecd": "01",
@@ -609,6 +652,14 @@
 		"apply_nums": "927세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940199&pblancNo=2025940199&houseSecd=11",
+		"in_date": "20250818",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(9차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000340&pblancNo=2025000340&houseSecd=01",
 		"in_date": "20250819",
 		"hsecd": "01",
@@ -633,6 +684,14 @@
 		"addr_lv1": "강원특별자치도",
 		"addr_lv2": "원주시",
 		"apply_nums": "927세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940199&pblancNo=2025940199&houseSecd=11",
+		"in_date": "20250819",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(9차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000340&pblancNo=2025000340&houseSecd=01",
