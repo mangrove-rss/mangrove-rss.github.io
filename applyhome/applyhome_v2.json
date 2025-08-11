@@ -1,14 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940197&pblancNo=2025940197&houseSecd=11",
-		"in_date": "20250808",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "대전 하늘채 루시에르(1회차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940197&pblancNo=2025940197&houseSecd=11",
 		"in_date": "20250809",
 		"hsecd": "11",
 		"rse": "11",
@@ -502,6 +494,14 @@
 		"name": "남구로역 동일 센타시아(4차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940187&pblancNo=2025940187&houseSecd=11",
+		"in_date": "20250813",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "대전 에테르 스위첸(3차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940199&pblancNo=2025940199&houseSecd=11",
 		"in_date": "20250813",
 		"hsecd": "11",
@@ -586,6 +586,14 @@
 		"name": "남구로역 동일 센타시아(4차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940187&pblancNo=2025940187&houseSecd=11",
+		"in_date": "20250814",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "대전 에테르 스위첸(3차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940199&pblancNo=2025940199&houseSecd=11",
 		"in_date": "20250814",
 		"hsecd": "11",
@@ -650,6 +658,19 @@
 		"addr_lv1": "강원특별자치도",
 		"addr_lv2": "원주시",
 		"apply_nums": "927세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910136&pblancNo=2025910136&houseSecd=04",
+		"in_date": "20250818",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "화성 비봉 B-4BL 우미린",
+		"addr": "비봉면 삼화리 500(화성비봉 공공주택지구 B-4블럭)",
+		"short_addr": "비봉면 삼화리",
+		"addr_lv1": "비봉면",
+		"addr_lv2": "삼화리",
+		"apply_nums": "1세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940199&pblancNo=2025940199&houseSecd=11",
