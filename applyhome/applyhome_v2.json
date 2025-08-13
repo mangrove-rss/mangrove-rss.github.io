@@ -1,13 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940197&pblancNo=2025940197&houseSecd=11",
-		"in_date": "20250810",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "대전 하늘채 루시에르(1회차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000266&pblancNo=2025000266&houseSecd=01",
 		"in_date": "20250811",
 		"hsecd": "01",
@@ -785,6 +777,53 @@
 		"apply_nums": "927세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850022&pblancNo=2025850022&houseSecd=03",
+		"in_date": "20250819",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "북수원 이목 시티프라디움 더 블리스"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910149&pblancNo=2025910149&houseSecd=04",
+		"in_date": "20250819",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "청계 노르웨이숲(2차)",
+		"addr": "서울특별시 중구 황학동 1756번지 일원",
+		"short_addr": "서울특별시 중구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "중구",
+		"apply_nums": "59세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910145&pblancNo=2025910145&houseSecd=04",
+		"in_date": "20250819",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "파주 운정신도시 우미 린 파크힐스",
+		"addr": "경기도 파주시 초롱꽃로 79 (운정3지구 A33블록(동패동))",
+		"short_addr": "경기도 파주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "파주시",
+		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930038&pblancNo=2025930038&houseSecd=06",
+		"in_date": "20250819",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "힐스테이트 레이크 송도 4차",
+		"addr": "인천광역시 연수구 송도동 397-2번지 (A16BL)",
+		"short_addr": "인천광역시 연수구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "연수구",
+		"apply_nums": "1세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940199&pblancNo=2025940199&houseSecd=11",
 		"in_date": "20250819",
 		"hsecd": "11",
@@ -817,6 +856,27 @@
 		"addr_lv1": "강원특별자치도",
 		"addr_lv2": "원주시",
 		"apply_nums": "927세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850022&pblancNo=2025850022&houseSecd=03",
+		"in_date": "20250820",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "북수원 이목 시티프라디움 더 블리스"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910149&pblancNo=2025910149&houseSecd=04",
+		"in_date": "20250820",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "청계 노르웨이숲(2차)",
+		"addr": "서울특별시 중구 황학동 1756번지 일원",
+		"short_addr": "서울특별시 중구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "중구",
+		"apply_nums": "59세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000328&pblancNo=2025000328&houseSecd=01",
