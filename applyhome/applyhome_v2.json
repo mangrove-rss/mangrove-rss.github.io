@@ -1,193 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000266&pblancNo=2025000266&houseSecd=01",
-		"in_date": "20250811",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "김해 삼계 동일스위트",
-		"addr": "경상남도 김해시 삼계동 397-1번지 일원",
-		"short_addr": "경상남도 김해시",
-		"addr_lv1": "경상남도",
-		"addr_lv2": "김해시",
-		"apply_nums": "299세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000311&pblancNo=2025000311&houseSecd=01",
-		"in_date": "20250811",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "써밋 리미티드 남천",
-		"addr": "부산광역시 수영구 남천동 545-2번지 일원",
-		"short_addr": "부산광역시 수영구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "수영구",
-		"apply_nums": "835세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850019&pblancNo=2025850019&houseSecd=03",
-		"in_date": "20250811",
-		"hsecd": "03",
-		"rse": "04",
-		"type": "",
-		"name": "대전관평 예미지 어반코어(1345)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850020&pblancNo=2025850020&houseSecd=03",
-		"in_date": "20250811",
-		"hsecd": "03",
-		"rse": "04",
-		"type": "",
-		"name": "대전관평 예미지 어반코어(1356)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950047&pblancNo=2025950047&houseSecd=02",
-		"in_date": "20250811",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "금정역 개성로니엘 오피스텔",
-		"addr": "경기도 군포시 금정동 77-4번지 일원",
-		"short_addr": "경기도 군포시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "군포시",
-		"apply_nums": "3세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950042&pblancNo=2025950042&houseSecd=02",
-		"in_date": "20250811",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "디마크 당산(도시형생활주택)",
-		"addr": "서울특별시 영등포구 당산동6가 331-1번지 일원",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "11세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910127&pblancNo=2025910127&houseSecd=04",
-		"in_date": "20250811",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "광주탄벌 서희스타힐스1단지",
-		"addr": "경기도 광주시 탄벌동 509번지 일원(탄벌4지구 A1블럭)",
-		"short_addr": "경기도 광주시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "광주시",
-		"apply_nums": "17세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910124&pblancNo=2025910124&houseSecd=04",
-		"in_date": "20250811",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "봉선동 르오네뜨 2차",
-		"addr": "광주광역시 남구 봉선동 161번지 일원",
-		"short_addr": "광주광역시 남구",
-		"addr_lv1": "광주광역시",
-		"addr_lv2": "남구",
-		"apply_nums": "51세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910132&pblancNo=2025910132&houseSecd=04",
-		"in_date": "20250811",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "송도역 한신더휴 프레스턴",
-		"addr": "인천광역시 연수구 청학동 96-4 일원",
-		"short_addr": "인천광역시 연수구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "연수구",
-		"apply_nums": "167세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910123&pblancNo=2025910123&houseSecd=04",
-		"in_date": "20250811",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "쌍용 더 플래티넘 동래 아시아드",
-		"addr": "부산광역시 동래구 온천동 1370-1번지 일원",
-		"short_addr": "부산광역시 동래구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "동래구",
-		"apply_nums": "59세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910110&pblancNo=2025910110&houseSecd=04",
-		"in_date": "20250811",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "어반클라쎄목동(7차)",
-		"addr": "서울특별시 양천구 신목로2길 7-12 (신정동, 어반클라쎄 목동)",
-		"short_addr": "서울특별시 양천구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "양천구",
-		"apply_nums": "8세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910128&pblancNo=2025910128&houseSecd=04",
-		"in_date": "20250811",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "오산 세교2지구 A12블록 공공분양주택",
-		"addr": "경기도 오산시 벌음동 382번지(오산세교2 택지개발지구 A12BL)",
-		"short_addr": "경기도 오산시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "오산시",
-		"apply_nums": "125세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910122&pblancNo=2025910122&houseSecd=04",
-		"in_date": "20250811",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "오퍼스 한강 스위첸",
-		"addr": "경기도 김포시 고촌읍 향산리 588-11번지 일원",
-		"short_addr": "경기도 김포시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "김포시",
-		"apply_nums": "510세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910121&pblancNo=2025910121&houseSecd=04",
-		"in_date": "20250811",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "울산 우정 에피트(조합원 취소분)",
-		"addr": "울산광역시 중구 우정동 274-85번지 일원",
-		"short_addr": "울산광역시 중구",
-		"addr_lv1": "울산광역시",
-		"addr_lv2": "중구",
-		"apply_nums": "26세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940189&pblancNo=2025940189&houseSecd=11",
-		"in_date": "20250811",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "개봉 루브루(8차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940197&pblancNo=2025940197&houseSecd=11",
-		"in_date": "20250811",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "대전 하늘채 루시에르(1회차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000338&pblancNo=2025000338&houseSecd=01",
 		"in_date": "20250812",
 		"hsecd": "01",
@@ -879,6 +691,19 @@
 		"apply_nums": "59세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000358&pblancNo=2025000358&houseSecd=01",
+		"in_date": "20250825",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "더폴 우정",
+		"addr": "울산광역시 중구 우정동 92-1번지 일원",
+		"short_addr": "울산광역시 중구",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "316세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000328&pblancNo=2025000328&houseSecd=01",
 		"in_date": "20250825",
 		"hsecd": "01",
@@ -892,6 +717,19 @@
 		"apply_nums": "348세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000358&pblancNo=2025000358&houseSecd=01",
+		"in_date": "20250826",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "더폴 우정",
+		"addr": "울산광역시 중구 우정동 92-1번지 일원",
+		"short_addr": "울산광역시 중구",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "316세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000328&pblancNo=2025000328&houseSecd=01",
 		"in_date": "20250826",
 		"hsecd": "01",
@@ -903,6 +741,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "과천시",
 		"apply_nums": "348세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000358&pblancNo=2025000358&houseSecd=01",
+		"in_date": "20250827",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "더폴 우정",
+		"addr": "울산광역시 중구 우정동 92-1번지 일원",
+		"short_addr": "울산광역시 중구",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "316세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000328&pblancNo=2025000328&houseSecd=01",
