@@ -1,14 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940199&pblancNo=2025940199&houseSecd=11",
-		"in_date": "20250815",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "리아츠 더 인천(9차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940199&pblancNo=2025940199&houseSecd=11",
 		"in_date": "20250816",
 		"hsecd": "11",
 		"rse": "11",
@@ -301,6 +293,30 @@
 		"name": "북수원이목지구 대방 디에트르 더 리체Ⅱ(A3BL) (4차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940202&pblancNo=2025940202&houseSecd=11",
+		"in_date": "20250821",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "힐스테이트 속초"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940206&pblancNo=2025940206&houseSecd=11",
+		"in_date": "20250822",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "효성해링턴 플레이스 목감역"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940202&pblancNo=2025940202&houseSecd=11",
+		"in_date": "20250822",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "힐스테이트 속초"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000358&pblancNo=2025000358&houseSecd=01",
 		"in_date": "20250825",
 		"hsecd": "01",
@@ -338,6 +354,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "중랑구",
 		"apply_nums": "15세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910146&pblancNo=2025910146&houseSecd=04",
+		"in_date": "20250825",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "두류센트레빌 더 파크(조합원 취소분)",
+		"addr": "대구광역시 달서구 두류동 638-19번지 일원",
+		"short_addr": "대구광역시 달서구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "달서구",
+		"apply_nums": "9세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000358&pblancNo=2025000358&houseSecd=01",
@@ -403,5 +432,81 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "과천시",
 		"apply_nums": "348세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940196&pblancNo=2025940196&houseSecd=11",
+		"in_date": "20250827",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "힐트리움 송파"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940196&pblancNo=2025940196&houseSecd=11",
+		"in_date": "20250828",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "힐트리움 송파"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000353&pblancNo=2025000353&houseSecd=01",
+		"in_date": "20250829",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "잠실 르엘",
+		"addr": "서울특별시 송파구 신천동 17-6번지 일대",
+		"short_addr": "서울특별시 송파구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "송파구",
+		"apply_nums": "216세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940196&pblancNo=2025940196&houseSecd=11",
+		"in_date": "20250829",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "힐트리움 송파"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000353&pblancNo=2025000353&houseSecd=01",
+		"in_date": "20250901",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "잠실 르엘",
+		"addr": "서울특별시 송파구 신천동 17-6번지 일대",
+		"short_addr": "서울특별시 송파구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "송파구",
+		"apply_nums": "216세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000353&pblancNo=2025000353&houseSecd=01",
+		"in_date": "20250902",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "잠실 르엘",
+		"addr": "서울특별시 송파구 신천동 17-6번지 일대",
+		"short_addr": "서울특별시 송파구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "송파구",
+		"apply_nums": "216세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000353&pblancNo=2025000353&houseSecd=01",
+		"in_date": "20250903",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "잠실 르엘",
+		"addr": "서울특별시 송파구 신천동 17-6번지 일대",
+		"short_addr": "서울특별시 송파구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "송파구",
+		"apply_nums": "216세대"
 	}
 ]
