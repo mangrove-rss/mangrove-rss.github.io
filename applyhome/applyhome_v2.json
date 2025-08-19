@@ -1,14 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940199&pblancNo=2025940199&houseSecd=11",
-		"in_date": "20250816",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "리아츠 더 인천(9차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940199&pblancNo=2025940199&houseSecd=11",
 		"in_date": "20250817",
 		"hsecd": "11",
 		"rse": "11",
@@ -301,6 +293,22 @@
 		"name": "힐스테이트 속초"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940203&pblancNo=2025940203&houseSecd=11",
+		"in_date": "20250822",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "부천아테라자이(부천괴안지구 B-2블록)(13차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940205&pblancNo=2025940205&houseSecd=11",
+		"in_date": "20250822",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "해링턴 스퀘어 산곡역"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940206&pblancNo=2025940206&houseSecd=11",
 		"in_date": "20250822",
 		"hsecd": "11",
@@ -343,6 +351,14 @@
 		"apply_nums": "348세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850023&pblancNo=2025850023&houseSecd=03",
+		"in_date": "20250825",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "여수 원더라움 더힐"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950048&pblancNo=2025950048&houseSecd=02",
 		"in_date": "20250825",
 		"hsecd": "02",
@@ -356,6 +372,32 @@
 		"apply_nums": "15세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950051&pblancNo=2025950051&houseSecd=02",
+		"in_date": "20250825",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "시흥 신천역 해링턴타워709",
+		"addr": "경기도 시흥시 신천동 709-11",
+		"short_addr": "경기도 시흥시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "시흥시",
+		"apply_nums": "90세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950050&pblancNo=2025950050&houseSecd=02",
+		"in_date": "20250825",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "힐스테이트 둔산",
+		"addr": "대전광역시 서구 탄방동 591번지, 592번지(2필지)",
+		"short_addr": "대전광역시 서구",
+		"addr_lv1": "대전광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "600세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910146&pblancNo=2025910146&houseSecd=04",
 		"in_date": "20250825",
 		"hsecd": "04",
@@ -367,6 +409,32 @@
 		"addr_lv1": "대구광역시",
 		"addr_lv2": "달서구",
 		"apply_nums": "9세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910104&pblancNo=2025910104&houseSecd=04",
+		"in_date": "20250825",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "송도국제도시 F19-1BL 더샵 송도센터니얼",
+		"addr": "인천광역시 연수구 송도동 105-2번지 (F19-1블록)",
+		"short_addr": "인천광역시 연수구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "연수구",
+		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910148&pblancNo=2025910148&houseSecd=04",
+		"in_date": "20250825",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "신분평 더웨이시티 제일풍경채",
+		"addr": "충청북도 청주시 서원구 장성동 장성지구 A1블럭(장성동 204번지 일원)",
+		"short_addr": "충청북도 청주시",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "청주시",
+		"apply_nums": "195세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000358&pblancNo=2025000358&houseSecd=01",
@@ -393,6 +461,14 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "과천시",
 		"apply_nums": "348세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850023&pblancNo=2025850023&houseSecd=03",
+		"in_date": "20250826",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "여수 원더라움 더힐"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950048&pblancNo=2025950048&houseSecd=02",
