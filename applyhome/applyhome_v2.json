@@ -1,13 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940199&pblancNo=2025940199&houseSecd=11",
-		"in_date": "20250817",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "리아츠 더 인천(9차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000340&pblancNo=2025000340&houseSecd=01",
 		"in_date": "20250818",
 		"hsecd": "01",
@@ -463,6 +455,14 @@
 		"apply_nums": "348세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850025&pblancNo=2025850025&houseSecd=03",
+		"in_date": "20250826",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "부경경마공원역 대방 디에트르 더리버(AP1BL)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850023&pblancNo=2025850023&houseSecd=03",
 		"in_date": "20250826",
 		"hsecd": "03",
@@ -508,6 +508,14 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "과천시",
 		"apply_nums": "348세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850025&pblancNo=2025850025&houseSecd=03",
+		"in_date": "20250827",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "부경경마공원역 대방 디에트르 더리버(AP1BL)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940196&pblancNo=2025940196&houseSecd=11",
