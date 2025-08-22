@@ -1,87 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000340&pblancNo=2025000340&houseSecd=01",
-		"in_date": "20250819",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "서면 써밋 더뉴",
-		"addr": "부산광역시 부산진구 전포동 668-1번지 일원",
-		"short_addr": "부산광역시 부산진구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "부산진구",
-		"apply_nums": "919세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000329&pblancNo=2025000329&houseSecd=01",
-		"in_date": "20250819",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "원주역 우미 린 더 스텔라 ",
-		"addr": "강원특별자치도 원주시 남원주역세권 AC-5블럭(무실동 2006번지)",
-		"short_addr": "강원특별자치도 원주시",
-		"addr_lv1": "강원특별자치도",
-		"addr_lv2": "원주시",
-		"apply_nums": "927세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850022&pblancNo=2025850022&houseSecd=03",
-		"in_date": "20250819",
-		"hsecd": "03",
-		"rse": "04",
-		"type": "",
-		"name": "북수원 이목 시티프라디움 더 블리스"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910149&pblancNo=2025910149&houseSecd=04",
-		"in_date": "20250819",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "청계 노르웨이숲(2차)",
-		"addr": "서울특별시 중구 황학동 1756번지 일원",
-		"short_addr": "서울특별시 중구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "중구",
-		"apply_nums": "59세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910145&pblancNo=2025910145&houseSecd=04",
-		"in_date": "20250819",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "파주 운정신도시 우미 린 파크힐스",
-		"addr": "경기도 파주시 초롱꽃로 79 (운정3지구 A33블록(동패동))",
-		"short_addr": "경기도 파주시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "파주시",
-		"apply_nums": "1세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930038&pblancNo=2025930038&houseSecd=06",
-		"in_date": "20250819",
-		"hsecd": "06",
-		"rse": "07",
-		"type": "",
-		"name": "힐스테이트 레이크 송도 4차",
-		"addr": "인천광역시 연수구 송도동 397-2번지 (A16BL)",
-		"short_addr": "인천광역시 연수구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "연수구",
-		"apply_nums": "1세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940199&pblancNo=2025940199&houseSecd=11",
-		"in_date": "20250819",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "리아츠 더 인천(9차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000340&pblancNo=2025000340&houseSecd=01",
 		"in_date": "20250820",
 		"hsecd": "01",
 		"rse": "03",
@@ -524,6 +443,71 @@
 		"apply_nums": "17세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000387&pblancNo=2025000387&houseSecd=01",
+		"in_date": "20250901",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "에코델타시티 푸르지오 트레파크(11BL)",
+		"addr": "부산광역시 강서구 강동동 에코델타시티 내 공동 11BL",
+		"short_addr": "부산광역시 강서구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "강서구",
+		"apply_nums": "1370세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000302&pblancNo=2025000302&houseSecd=01",
+		"in_date": "20250901",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "엘리프 검단 포레듀(AA32블록)",
+		"addr": "인천광역시 서구 검단신도시 AA32BL(마전동)",
+		"short_addr": "인천광역시 서구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "669세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000378&pblancNo=2025000378&houseSecd=01",
+		"in_date": "20250901",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "용인 고진역 대광로제비앙",
+		"addr": "경기도 용인고림지구 H5BL(경기도 용인시 처인구 고림동 646-2 일원)",
+		"short_addr": "경기도 용인고림지구",
+		"addr_lv1": "경기도",
+		"addr_lv2": "용인고림지구",
+		"apply_nums": "860세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000370&pblancNo=2025000370&houseSecd=01",
+		"in_date": "20250901",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "지웰 엘리움 양주 덕계역",
+		"addr": "경기도 양주시 덕계동 152번지 일원(양주 덕계공업지구 특별계획구역 복합용지 2BL)",
+		"short_addr": "경기도 양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "양주시",
+		"apply_nums": "1355세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000341&pblancNo=2025000341&houseSecd=01",
+		"in_date": "20250901",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "춘천 레이크시티 2차 아이파크",
+		"addr": "강원특별자치도 춘천시 삼천동 22-1번지 일원",
+		"short_addr": "강원특별자치도 춘천시",
+		"addr_lv1": "강원특별자치도",
+		"addr_lv2": "춘천시",
+		"apply_nums": "218세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000353&pblancNo=2025000353&houseSecd=01",
 		"in_date": "20250901",
 		"hsecd": "01",
@@ -558,6 +542,45 @@
 		"name": "광명 소하 파크타워"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000387&pblancNo=2025000387&houseSecd=01",
+		"in_date": "20250902",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "에코델타시티 푸르지오 트레파크(11BL)",
+		"addr": "부산광역시 강서구 강동동 에코델타시티 내 공동 11BL",
+		"short_addr": "부산광역시 강서구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "강서구",
+		"apply_nums": "1370세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000302&pblancNo=2025000302&houseSecd=01",
+		"in_date": "20250902",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "엘리프 검단 포레듀(AA32블록)",
+		"addr": "인천광역시 서구 검단신도시 AA32BL(마전동)",
+		"short_addr": "인천광역시 서구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "669세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000378&pblancNo=2025000378&houseSecd=01",
+		"in_date": "20250902",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "용인 고진역 대광로제비앙",
+		"addr": "경기도 용인고림지구 H5BL(경기도 용인시 처인구 고림동 646-2 일원)",
+		"short_addr": "경기도 용인고림지구",
+		"addr_lv1": "경기도",
+		"addr_lv2": "용인고림지구",
+		"apply_nums": "860세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000353&pblancNo=2025000353&houseSecd=01",
 		"in_date": "20250902",
 		"hsecd": "01",
@@ -569,6 +592,32 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "송파구",
 		"apply_nums": "216세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000370&pblancNo=2025000370&houseSecd=01",
+		"in_date": "20250902",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "지웰 엘리움 양주 덕계역",
+		"addr": "경기도 양주시 덕계동 152번지 일원(양주 덕계공업지구 특별계획구역 복합용지 2BL)",
+		"short_addr": "경기도 양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "양주시",
+		"apply_nums": "1355세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000341&pblancNo=2025000341&houseSecd=01",
+		"in_date": "20250902",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "춘천 레이크시티 2차 아이파크",
+		"addr": "강원특별자치도 춘천시 삼천동 22-1번지 일원",
+		"short_addr": "강원특별자치도 춘천시",
+		"addr_lv1": "강원특별자치도",
+		"addr_lv2": "춘천시",
+		"apply_nums": "218세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950052&pblancNo=2025950052&houseSecd=02",
@@ -590,6 +639,45 @@
 		"rse": "11",
 		"type": "",
 		"name": "광명 소하 파크타워"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000387&pblancNo=2025000387&houseSecd=01",
+		"in_date": "20250903",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "에코델타시티 푸르지오 트레파크(11BL)",
+		"addr": "부산광역시 강서구 강동동 에코델타시티 내 공동 11BL",
+		"short_addr": "부산광역시 강서구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "강서구",
+		"apply_nums": "1370세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000302&pblancNo=2025000302&houseSecd=01",
+		"in_date": "20250903",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "엘리프 검단 포레듀(AA32블록)",
+		"addr": "인천광역시 서구 검단신도시 AA32BL(마전동)",
+		"short_addr": "인천광역시 서구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "669세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000378&pblancNo=2025000378&houseSecd=01",
+		"in_date": "20250903",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "용인 고진역 대광로제비앙",
+		"addr": "경기도 용인고림지구 H5BL(경기도 용인시 처인구 고림동 646-2 일원)",
+		"short_addr": "경기도 용인고림지구",
+		"addr_lv1": "경기도",
+		"addr_lv2": "용인고림지구",
+		"apply_nums": "860세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000353&pblancNo=2025000353&houseSecd=01",
@@ -603,5 +691,31 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "송파구",
 		"apply_nums": "216세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000370&pblancNo=2025000370&houseSecd=01",
+		"in_date": "20250903",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "지웰 엘리움 양주 덕계역",
+		"addr": "경기도 양주시 덕계동 152번지 일원(양주 덕계공업지구 특별계획구역 복합용지 2BL)",
+		"short_addr": "경기도 양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "양주시",
+		"apply_nums": "1355세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000341&pblancNo=2025000341&houseSecd=01",
+		"in_date": "20250903",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "춘천 레이크시티 2차 아이파크",
+		"addr": "강원특별자치도 춘천시 삼천동 22-1번지 일원",
+		"short_addr": "강원특별자치도 춘천시",
+		"addr_lv1": "강원특별자치도",
+		"addr_lv2": "춘천시",
+		"apply_nums": "218세대"
 	}
 ]
