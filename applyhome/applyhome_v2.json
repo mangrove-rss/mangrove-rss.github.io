@@ -1,53 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940200&pblancNo=2025940200&houseSecd=11",
-		"in_date": "20250821",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "북수원이목지구 대방 디에트르 더 리체Ⅱ(A3BL) (4차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940202&pblancNo=2025940202&houseSecd=11",
-		"in_date": "20250821",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "힐스테이트 속초"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940203&pblancNo=2025940203&houseSecd=11",
-		"in_date": "20250822",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "부천아테라자이(부천괴안지구 B-2블록)(13차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940205&pblancNo=2025940205&houseSecd=11",
-		"in_date": "20250822",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "해링턴 스퀘어 산곡역"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940206&pblancNo=2025940206&houseSecd=11",
-		"in_date": "20250822",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "효성해링턴 플레이스 목감역"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940202&pblancNo=2025940202&houseSecd=11",
-		"in_date": "20250822",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "힐스테이트 속초"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000358&pblancNo=2025000358&houseSecd=01",
 		"in_date": "20250825",
 		"hsecd": "01",
@@ -291,6 +243,14 @@
 		"apply_nums": "2세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940209&pblancNo=2025940209&houseSecd=11",
+		"in_date": "20250827",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "고촌센트럴자이(7차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940196&pblancNo=2025940196&houseSecd=11",
 		"in_date": "20250827",
 		"hsecd": "11",
@@ -310,6 +270,14 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "성동구",
 		"apply_nums": "17세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940209&pblancNo=2025940209&houseSecd=11",
+		"in_date": "20250828",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "고촌센트럴자이(7차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940196&pblancNo=2025940196&houseSecd=11",
@@ -654,5 +622,44 @@
 		"addr_lv1": "강원특별자치도",
 		"addr_lv2": "춘천시",
 		"apply_nums": "218세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000357&pblancNo=2025000357&houseSecd=01",
+		"in_date": "20250904",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "탑석 푸르지오 파크7",
+		"addr": "경기도 의정부시 용현동 267-8번지 일원",
+		"short_addr": "경기도 의정부시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "의정부시",
+		"apply_nums": "935세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000357&pblancNo=2025000357&houseSecd=01",
+		"in_date": "20250905",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "탑석 푸르지오 파크7",
+		"addr": "경기도 의정부시 용현동 267-8번지 일원",
+		"short_addr": "경기도 의정부시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "의정부시",
+		"apply_nums": "935세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000357&pblancNo=2025000357&houseSecd=01",
+		"in_date": "20250908",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "탑석 푸르지오 파크7",
+		"addr": "경기도 의정부시 용현동 267-8번지 일원",
+		"short_addr": "경기도 의정부시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "의정부시",
+		"apply_nums": "935세대"
 	}
 ]
