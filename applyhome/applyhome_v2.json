@@ -314,6 +314,14 @@
 		"apply_nums": "17세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940213&pblancNo=2025940213&houseSecd=11",
+		"in_date": "20250829",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "도곡 아테라"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940196&pblancNo=2025940196&houseSecd=11",
 		"in_date": "20250829",
 		"hsecd": "11",
@@ -437,6 +445,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "성동구",
 		"apply_nums": "17세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910151&pblancNo=2025910151&houseSecd=04",
+		"in_date": "20250901",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "힐스테이트 회룡역파크뷰",
+		"addr": "경기도 의정부시 호원동 281-21번지 일원",
+		"short_addr": "경기도 의정부시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "의정부시",
+		"apply_nums": "80세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940133&pblancNo=2025940133&houseSecd=11",
