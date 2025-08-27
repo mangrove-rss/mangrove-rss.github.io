@@ -15,17 +15,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ 082625_001-1pondo ]]></showrss:showname>
 		</item>
-		<item>
-			<title><![CDATA[ 082625-001-carib ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:59fd121291fcb8d7ee9eace56aebde0d8377bb28 ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ 082625-001-carib ]]></showrss:showname>
-		</item>
-		<item>
-			<title><![CDATA[ HEYZO-3662 ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:1e6c5c2c72af80930814f640d43b2d94483a9f2f ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ HEYZO-3662 ]]></showrss:showname>
-		</item>
 	</channel>
 </rss>
