@@ -447,6 +447,19 @@
 		"apply_nums": "17세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910152&pblancNo=2025910152&houseSecd=04",
+		"in_date": "20250901",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "르엘 리버파크 센텀",
+		"addr": "부산광역시 해운대구 재송동 856-6번지 일원",
+		"short_addr": "부산광역시 해운대구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "해운대구",
+		"apply_nums": "672세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910151&pblancNo=2025910151&houseSecd=04",
 		"in_date": "20250901",
 		"hsecd": "04",
@@ -557,6 +570,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "성동구",
 		"apply_nums": "17세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910147&pblancNo=2025910147&houseSecd=04",
+		"in_date": "20250902",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "위파크 마륵공원",
+		"addr": "광주광역시 서구 금호동 산109번지 일원",
+		"short_addr": "광주광역시 서구",
+		"addr_lv1": "광주광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "1세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940133&pblancNo=2025940133&houseSecd=11",
