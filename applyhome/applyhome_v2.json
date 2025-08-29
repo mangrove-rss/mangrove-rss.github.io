@@ -1,77 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000358&pblancNo=2025000358&houseSecd=01",
-		"in_date": "20250826",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "더폴 우정",
-		"addr": "울산광역시 중구 우정동 92-1번지 일원",
-		"short_addr": "울산광역시 중구",
-		"addr_lv1": "울산광역시",
-		"addr_lv2": "중구",
-		"apply_nums": "316세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000328&pblancNo=2025000328&houseSecd=01",
-		"in_date": "20250826",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "디에이치 아델스타",
-		"addr": "경기도 과천시 주암동 63-9번지 일원",
-		"short_addr": "경기도 과천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "과천시",
-		"apply_nums": "348세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850025&pblancNo=2025850025&houseSecd=03",
-		"in_date": "20250826",
-		"hsecd": "03",
-		"rse": "04",
-		"type": "",
-		"name": "부경경마공원역 대방 디에트르 더리버(AP1BL)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850023&pblancNo=2025850023&houseSecd=03",
-		"in_date": "20250826",
-		"hsecd": "03",
-		"rse": "04",
-		"type": "",
-		"name": "여수 원더라움 더힐"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950048&pblancNo=2025950048&houseSecd=02",
-		"in_date": "20250826",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "상봉역 유보라 퍼스트리브",
-		"addr": "서울특별시 중랑구 망우로 322",
-		"short_addr": "서울특별시 중랑구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "중랑구",
-		"apply_nums": "15세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940207&pblancNo=2025940207&houseSecd=11",
-		"in_date": "20250826",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "드파인 광안(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940208&pblancNo=2025940208&houseSecd=11",
-		"in_date": "20250826",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "양주 백석 모아엘가 그랑데"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000358&pblancNo=2025000358&houseSecd=01",
 		"in_date": "20250827",
 		"hsecd": "01",
 		"rse": "03",
@@ -650,6 +579,32 @@
 		"apply_nums": "695세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000397&pblancNo=2025000397&houseSecd=01",
+		"in_date": "20250908",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "두산위브 더센트럴 도화",
+		"addr": "인천광역시 미추홀구 도화동 53-28번지 일원",
+		"short_addr": "인천광역시 미추홀구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "미추홀구",
+		"apply_nums": "412세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000372&pblancNo=2025000372&houseSecd=01",
+		"in_date": "20250908",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "두산위브 센트럴파크 강화",
+		"addr": "인천광역시 강화군 선원면 창리 501번지 일원",
+		"short_addr": "인천광역시 강화군",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "강화군",
+		"apply_nums": "371세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000365&pblancNo=2025000365&houseSecd=01",
 		"in_date": "20250908",
 		"hsecd": "01",
@@ -663,6 +618,32 @@
 		"apply_nums": "615세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000251&pblancNo=2025000251&houseSecd=01",
+		"in_date": "20250908",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "오정 해모로 스마트시티",
+		"addr": "경기도 부천시 오정구 오정동 613번지 일원",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "47세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000366&pblancNo=2025000366&houseSecd=01",
+		"in_date": "20250908",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "천안 아이파크 시티 2단지",
+		"addr": "충청남도 천안시 서북구 부대동 409-1 외 46필지",
+		"short_addr": "충청남도 천안시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "천안시",
+		"apply_nums": "977세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000388&pblancNo=2025000388&houseSecd=01",
 		"in_date": "20250908",
 		"hsecd": "01",
@@ -674,6 +655,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "마포구",
 		"apply_nums": "52세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000398&pblancNo=2025000398&houseSecd=01",
+		"in_date": "20250908",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "명지화전 우방아이유쉘 우선분양전환 후 잔여세대",
+		"addr": "부산광역시 강서구 화전동 558",
+		"short_addr": "부산광역시 강서구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "강서구",
+		"apply_nums": "305세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000357&pblancNo=2025000357&houseSecd=01",
@@ -715,6 +709,32 @@
 		"apply_nums": "695세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000397&pblancNo=2025000397&houseSecd=01",
+		"in_date": "20250909",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "두산위브 더센트럴 도화",
+		"addr": "인천광역시 미추홀구 도화동 53-28번지 일원",
+		"short_addr": "인천광역시 미추홀구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "미추홀구",
+		"apply_nums": "412세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000372&pblancNo=2025000372&houseSecd=01",
+		"in_date": "20250909",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "두산위브 센트럴파크 강화",
+		"addr": "인천광역시 강화군 선원면 창리 501번지 일원",
+		"short_addr": "인천광역시 강화군",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "강화군",
+		"apply_nums": "371세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000365&pblancNo=2025000365&houseSecd=01",
 		"in_date": "20250909",
 		"hsecd": "01",
@@ -728,6 +748,32 @@
 		"apply_nums": "615세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000251&pblancNo=2025000251&houseSecd=01",
+		"in_date": "20250909",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "오정 해모로 스마트시티",
+		"addr": "경기도 부천시 오정구 오정동 613번지 일원",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "47세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000366&pblancNo=2025000366&houseSecd=01",
+		"in_date": "20250909",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "천안 아이파크 시티 2단지",
+		"addr": "충청남도 천안시 서북구 부대동 409-1 외 46필지",
+		"short_addr": "충청남도 천안시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "천안시",
+		"apply_nums": "977세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000388&pblancNo=2025000388&houseSecd=01",
 		"in_date": "20250909",
 		"hsecd": "01",
@@ -739,6 +785,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "마포구",
 		"apply_nums": "52세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000398&pblancNo=2025000398&houseSecd=01",
+		"in_date": "20250909",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "명지화전 우방아이유쉘 우선분양전환 후 잔여세대",
+		"addr": "부산광역시 강서구 화전동 558",
+		"short_addr": "부산광역시 강서구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "강서구",
+		"apply_nums": "305세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000399&pblancNo=2025000399&houseSecd=01",
@@ -767,6 +826,32 @@
 		"apply_nums": "695세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000397&pblancNo=2025000397&houseSecd=01",
+		"in_date": "20250910",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "두산위브 더센트럴 도화",
+		"addr": "인천광역시 미추홀구 도화동 53-28번지 일원",
+		"short_addr": "인천광역시 미추홀구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "미추홀구",
+		"apply_nums": "412세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000372&pblancNo=2025000372&houseSecd=01",
+		"in_date": "20250910",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "두산위브 센트럴파크 강화",
+		"addr": "인천광역시 강화군 선원면 창리 501번지 일원",
+		"short_addr": "인천광역시 강화군",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "강화군",
+		"apply_nums": "371세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000365&pblancNo=2025000365&houseSecd=01",
 		"in_date": "20250910",
 		"hsecd": "01",
@@ -778,6 +863,32 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "수원시",
 		"apply_nums": "615세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000251&pblancNo=2025000251&houseSecd=01",
+		"in_date": "20250910",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "오정 해모로 스마트시티",
+		"addr": "경기도 부천시 오정구 오정동 613번지 일원",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "47세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000366&pblancNo=2025000366&houseSecd=01",
+		"in_date": "20250910",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "천안 아이파크 시티 2단지",
+		"addr": "충청남도 천안시 서북구 부대동 409-1 외 46필지",
+		"short_addr": "충청남도 천안시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "천안시",
+		"apply_nums": "977세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000388&pblancNo=2025000388&houseSecd=01",
