@@ -1,102 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950052&pblancNo=2025950052&houseSecd=02",
-		"in_date": "20250828",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "왕십리역 어반홈스",
-		"addr": "서울특별시 성동구 도선동 116,117번지",
-		"short_addr": "서울특별시 성동구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "성동구",
-		"apply_nums": "17세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940209&pblancNo=2025940209&houseSecd=11",
-		"in_date": "20250828",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "고촌센트럴자이(7차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940196&pblancNo=2025940196&houseSecd=11",
-		"in_date": "20250828",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "힐트리움 송파"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000353&pblancNo=2025000353&houseSecd=01",
-		"in_date": "20250829",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "잠실 르엘",
-		"addr": "서울특별시 송파구 신천동 17-6번지 일대",
-		"short_addr": "서울특별시 송파구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "송파구",
-		"apply_nums": "216세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950052&pblancNo=2025950052&houseSecd=02",
-		"in_date": "20250829",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "왕십리역 어반홈스",
-		"addr": "서울특별시 성동구 도선동 116,117번지",
-		"short_addr": "서울특별시 성동구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "성동구",
-		"apply_nums": "17세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940213&pblancNo=2025940213&houseSecd=11",
-		"in_date": "20250829",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "도곡 아테라"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940196&pblancNo=2025940196&houseSecd=11",
-		"in_date": "20250829",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "힐트리움 송파"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950052&pblancNo=2025950052&houseSecd=02",
-		"in_date": "20250830",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "왕십리역 어반홈스",
-		"addr": "서울특별시 성동구 도선동 116,117번지",
-		"short_addr": "서울특별시 성동구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "성동구",
-		"apply_nums": "17세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950052&pblancNo=2025950052&houseSecd=02",
-		"in_date": "20250831",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "왕십리역 어반홈스",
-		"addr": "서울특별시 성동구 도선동 116,117번지",
-		"short_addr": "서울특별시 성동구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "성동구",
-		"apply_nums": "17세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000387&pblancNo=2025000387&houseSecd=01",
 		"in_date": "20250901",
 		"hsecd": "01",
@@ -438,6 +341,14 @@
 		"apply_nums": "4세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940211&pblancNo=2025940211&houseSecd=11",
+		"in_date": "20250903",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "북수원이목지구 대방 디에트르 더 리체Ⅱ(A3BL) (5차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000357&pblancNo=2025000357&houseSecd=01",
 		"in_date": "20250904",
 		"hsecd": "01",
@@ -462,6 +373,14 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "화성시",
 		"apply_nums": "4세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940211&pblancNo=2025940211&houseSecd=11",
+		"in_date": "20250904",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "북수원이목지구 대방 디에트르 더 리체Ⅱ(A3BL) (5차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000357&pblancNo=2025000357&houseSecd=01",
@@ -607,6 +526,32 @@
 		"apply_nums": "935세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910154&pblancNo=2025910154&houseSecd=04",
+		"in_date": "20250908",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "송도자이 크리스탈오션",
+		"addr": "인천광역시 연수구 송도동 396-7 (A10블록)",
+		"short_addr": "인천광역시 연수구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "연수구",
+		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930041&pblancNo=2025930041&houseSecd=06",
+		"in_date": "20250908",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "송도자이 크리스탈오션",
+		"addr": "인천광역시 연수구 송도동 396-7 (A10블록)",
+		"short_addr": "인천광역시 연수구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "연수구",
+		"apply_nums": "2세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000399&pblancNo=2025000399&houseSecd=01",
 		"in_date": "20250909",
 		"hsecd": "01",
@@ -722,6 +667,19 @@
 		"addr_lv1": "부산광역시",
 		"addr_lv2": "강서구",
 		"apply_nums": "305세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930041&pblancNo=2025930041&houseSecd=06",
+		"in_date": "20250909",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "송도자이 크리스탈오션",
+		"addr": "인천광역시 연수구 송도동 396-7 (A10블록)",
+		"short_addr": "인천광역시 연수구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "연수구",
+		"apply_nums": "2세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000399&pblancNo=2025000399&houseSecd=01",
