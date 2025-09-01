@@ -341,12 +341,36 @@
 		"apply_nums": "4세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940210&pblancNo=2025940210&houseSecd=11",
+		"in_date": "20250903",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "강동 디 아테온(THE ATHEON) (2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940217&pblancNo=2025940217&houseSecd=11",
+		"in_date": "20250903",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천 (10차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940211&pblancNo=2025940211&houseSecd=11",
 		"in_date": "20250903",
 		"hsecd": "11",
 		"rse": "11",
 		"type": "",
 		"name": "북수원이목지구 대방 디에트르 더 리체Ⅱ(A3BL) (5차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940212&pblancNo=2025940212&houseSecd=11",
+		"in_date": "20250903",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "힐스테이트 레이크 송도 4차"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000357&pblancNo=2025000357&houseSecd=01",
@@ -375,12 +399,36 @@
 		"apply_nums": "4세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940210&pblancNo=2025940210&houseSecd=11",
+		"in_date": "20250904",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "강동 디 아테온(THE ATHEON) (2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940217&pblancNo=2025940217&houseSecd=11",
+		"in_date": "20250904",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천 (10차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940211&pblancNo=2025940211&houseSecd=11",
 		"in_date": "20250904",
 		"hsecd": "11",
 		"rse": "11",
 		"type": "",
 		"name": "북수원이목지구 대방 디에트르 더 리체Ⅱ(A3BL) (5차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940212&pblancNo=2025940212&houseSecd=11",
+		"in_date": "20250904",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "힐스테이트 레이크 송도 4차"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000357&pblancNo=2025000357&houseSecd=01",
@@ -394,6 +442,30 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "의정부시",
 		"apply_nums": "935세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940217&pblancNo=2025940217&houseSecd=11",
+		"in_date": "20250905",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천 (10차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940217&pblancNo=2025940217&houseSecd=11",
+		"in_date": "20250906",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천 (10차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940217&pblancNo=2025940217&houseSecd=11",
+		"in_date": "20250907",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천 (10차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000399&pblancNo=2025000399&houseSecd=01",
@@ -539,6 +611,19 @@
 		"apply_nums": "1세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910163&pblancNo=2025910163&houseSecd=04",
+		"in_date": "20250908",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "오산 세교2지구 A12블록 공공분양주택(2차)",
+		"addr": "경기도 오산시 벌음동 382번지 (오산세교2 택지개발지구 A12BL) ",
+		"short_addr": "경기도 오산시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "오산시",
+		"apply_nums": "40세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930041&pblancNo=2025930041&houseSecd=06",
 		"in_date": "20250908",
 		"hsecd": "06",
@@ -550,6 +635,14 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "연수구",
 		"apply_nums": "2세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940217&pblancNo=2025940217&houseSecd=11",
+		"in_date": "20250908",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천 (10차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000399&pblancNo=2025000399&houseSecd=01",
