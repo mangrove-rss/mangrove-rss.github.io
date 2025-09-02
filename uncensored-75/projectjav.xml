@@ -100,18 +100,6 @@
 			<showrss:showname><![CDATA[ 083025_001-1pondo ]]></showrss:showname>
 		</item>
 		<item>
-			<title><![CDATA[ 083025-001-carib ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:0a49417ae288a57e62464f5f348012c3804ed0ec ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ 083025-001-carib ]]></showrss:showname>
-		</item>
-		<item>
-			<title><![CDATA[ 083025-001-carib ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:f6c28e43861cb2c4a6dc11acfbf9f6e0c75de90f ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ 083025-001-carib ]]></showrss:showname>
-		</item>
-		<item>
 			<title><![CDATA[ HEYZO-3663 ]]></title>
 			<link><![CDATA[ magnet:?xt=urn:btih:1df86df2477db5224a154ce0906697d6068f2288 ]]></link>
 			<showrss:showid></showrss:showid>
@@ -122,6 +110,18 @@
 			<link><![CDATA[ magnet:?xt=urn:btih:3fdeec8ffed68198ab55905f4ec8556cc8694b32 ]]></link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ HEYZO-3663 ]]></showrss:showname>
+		</item>
+		<item>
+			<title><![CDATA[ 083025-001-carib ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih:0a49417ae288a57e62464f5f348012c3804ed0ec ]]></link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ 083025-001-carib ]]></showrss:showname>
+		</item>
+		<item>
+			<title><![CDATA[ 083025-001-carib ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih:f6c28e43861cb2c4a6dc11acfbf9f6e0c75de90f ]]></link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ 083025-001-carib ]]></showrss:showname>
 		</item>
 		<item>
 			<title><![CDATA[ 011225-001-carib ]]></title>
@@ -167,13 +167,13 @@
 		</item>
 		<item>
 			<title><![CDATA[ 082825_001-1pondo ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:d6e3da3053d71c9999bbe9076886b8e9e38cf824 ]]></link>
+			<link><![CDATA[ magnet:?xt=urn:btih:3ba0ef72b62d2b564fbd9df56b4d54c554996058 ]]></link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ 082825_001-1pondo ]]></showrss:showname>
 		</item>
 		<item>
 			<title><![CDATA[ 082825_001-1pondo ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:3ba0ef72b62d2b564fbd9df56b4d54c554996058 ]]></link>
+			<link><![CDATA[ magnet:?xt=urn:btih:d6e3da3053d71c9999bbe9076886b8e9e38cf824 ]]></link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ 082825_001-1pondo ]]></showrss:showname>
 		</item>
