@@ -452,6 +452,14 @@
 		"name": "리아츠 더 인천 (10차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940215&pblancNo=2025940215&houseSecd=11",
+		"in_date": "20250905",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "부천아테라자이(부천괴안지구 B-2블록)(14차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940217&pblancNo=2025940217&houseSecd=11",
 		"in_date": "20250906",
 		"hsecd": "11",
@@ -611,6 +619,19 @@
 		"apply_nums": "1세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910155&pblancNo=2025910155&houseSecd=04",
+		"in_date": "20250908",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "에코델타시티 대성베르힐 17블록",
+		"addr": "부산광역시 강서구 강동동 에코델타시티 17블록",
+		"short_addr": "부산광역시 강서구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "강서구",
+		"apply_nums": "3세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910163&pblancNo=2025910163&houseSecd=04",
 		"in_date": "20250908",
 		"hsecd": "04",
@@ -622,6 +643,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "오산시",
 		"apply_nums": "40세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910156&pblancNo=2025910156&houseSecd=04",
+		"in_date": "20250908",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "청주 센텀 푸르지오 자이",
+		"addr": "충청북도 청주시 서원구 사직동 247-1번지 일원",
+		"short_addr": "충청북도 청주시",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "청주시",
+		"apply_nums": "700세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930041&pblancNo=2025930041&houseSecd=06",
