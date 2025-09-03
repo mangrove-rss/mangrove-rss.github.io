@@ -606,6 +606,19 @@
 		"apply_nums": "935세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910160&pblancNo=2025910160&houseSecd=04",
+		"in_date": "20250908",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "대야미역 금강펜테리움 레이크포레(B1BL)",
+		"addr": "경기도 군포시 군포대야미 공공주택지구 B1블럭(경기도 군포시 속달동 90-3번지 일원) ",
+		"short_addr": "경기도 군포시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "군포시",
+		"apply_nums": "195세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910154&pblancNo=2025910154&houseSecd=04",
 		"in_date": "20250908",
 		"hsecd": "04",
@@ -677,6 +690,14 @@
 		"rse": "11",
 		"type": "",
 		"name": "리아츠 더 인천 (10차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940220&pblancNo=2025940220&houseSecd=11",
+		"in_date": "20250908",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "부평 하우스토리 어반그린"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000399&pblancNo=2025000399&houseSecd=01",
@@ -796,6 +817,58 @@
 		"apply_nums": "305세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910157&pblancNo=2025910157&houseSecd=04",
+		"in_date": "20250909",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "대전 씨엘리오 스위첸(5차)",
+		"addr": "대전광역시 서구 용문동 593-11번지 외 6필지",
+		"short_addr": "대전광역시 서구",
+		"addr_lv1": "대전광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910161&pblancNo=2025910161&houseSecd=04",
+		"in_date": "20250909",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "정읍 상동 예다음2차",
+		"addr": "전북특별자치도 정읍시 상동 90-5번지 일원",
+		"short_addr": "전북특별자치도 정읍시",
+		"addr_lv1": "전북특별자치도",
+		"addr_lv2": "정읍시",
+		"apply_nums": "116세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910164&pblancNo=2025910164&houseSecd=04",
+		"in_date": "20250909",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "해링턴플레이스 풍무(3BL)",
+		"addr": "경기도 김포시 풍무동 370-37번지 일대 (경기도 김포시 풍무 양도지구 도시개발사업 공동주택 3단지)",
+		"short_addr": "경기도 김포시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "김포시",
+		"apply_nums": "35세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930042&pblancNo=2025930042&houseSecd=06",
+		"in_date": "20250909",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "대전 씨엘리오 스위첸",
+		"addr": "대전광역시 서구 용문동 593-11번지 외 6필지",
+		"short_addr": "대전광역시 서구",
+		"addr_lv1": "대전광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "1세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930041&pblancNo=2025930041&houseSecd=06",
 		"in_date": "20250909",
 		"hsecd": "06",
@@ -807,6 +880,27 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "연수구",
 		"apply_nums": "2세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930039&pblancNo=2025930039&houseSecd=06",
+		"in_date": "20250909",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "위파크 마륵공원",
+		"addr": "광주광역시 서구 금호동 산 109 일원",
+		"short_addr": "광주광역시 서구",
+		"addr_lv1": "광주광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940220&pblancNo=2025940220&houseSecd=11",
+		"in_date": "20250909",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "부평 하우스토리 어반그린"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000399&pblancNo=2025000399&houseSecd=01",
@@ -911,5 +1005,13 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "마포구",
 		"apply_nums": "52세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940220&pblancNo=2025940220&houseSecd=11",
+		"in_date": "20250910",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "부평 하우스토리 어반그린"
 	}
 ]
