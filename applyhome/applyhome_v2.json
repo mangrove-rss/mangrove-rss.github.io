@@ -1,131 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000387&pblancNo=2025000387&houseSecd=01",
-		"in_date": "20250901",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "에코델타시티 푸르지오 트레파크(11BL)",
-		"addr": "부산광역시 강서구 강동동 에코델타시티 내 공동 11BL",
-		"short_addr": "부산광역시 강서구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "강서구",
-		"apply_nums": "1370세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000302&pblancNo=2025000302&houseSecd=01",
-		"in_date": "20250901",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "엘리프 검단 포레듀(AA32블록)",
-		"addr": "인천광역시 서구 검단신도시 AA32BL(마전동)",
-		"short_addr": "인천광역시 서구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "서구",
-		"apply_nums": "669세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000378&pblancNo=2025000378&houseSecd=01",
-		"in_date": "20250901",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "용인 고진역 대광로제비앙",
-		"addr": "경기도 용인고림지구 H5BL(경기도 용인시 처인구 고림동 646-2 일원)",
-		"short_addr": "경기도 용인고림지구",
-		"addr_lv1": "경기도",
-		"addr_lv2": "용인고림지구",
-		"apply_nums": "860세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000370&pblancNo=2025000370&houseSecd=01",
-		"in_date": "20250901",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "지웰 엘리움 양주 덕계역",
-		"addr": "경기도 양주시 덕계동 152번지 일원(양주 덕계공업지구 특별계획구역 복합용지 2BL)",
-		"short_addr": "경기도 양주시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "양주시",
-		"apply_nums": "1355세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000341&pblancNo=2025000341&houseSecd=01",
-		"in_date": "20250901",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "춘천 레이크시티 2차 아이파크",
-		"addr": "강원특별자치도 춘천시 삼천동 22-1번지 일원",
-		"short_addr": "강원특별자치도 춘천시",
-		"addr_lv1": "강원특별자치도",
-		"addr_lv2": "춘천시",
-		"apply_nums": "218세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000353&pblancNo=2025000353&houseSecd=01",
-		"in_date": "20250901",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "잠실 르엘",
-		"addr": "서울특별시 송파구 신천동 17-6번지 일대",
-		"short_addr": "서울특별시 송파구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "송파구",
-		"apply_nums": "216세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950052&pblancNo=2025950052&houseSecd=02",
-		"in_date": "20250901",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "왕십리역 어반홈스",
-		"addr": "서울특별시 성동구 도선동 116,117번지",
-		"short_addr": "서울특별시 성동구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "성동구",
-		"apply_nums": "17세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910152&pblancNo=2025910152&houseSecd=04",
-		"in_date": "20250901",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "르엘 리버파크 센텀",
-		"addr": "부산광역시 해운대구 재송동 856-6번지 일원",
-		"short_addr": "부산광역시 해운대구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "해운대구",
-		"apply_nums": "672세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910151&pblancNo=2025910151&houseSecd=04",
-		"in_date": "20250901",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "힐스테이트 회룡역파크뷰",
-		"addr": "경기도 의정부시 호원동 281-21번지 일원",
-		"short_addr": "경기도 의정부시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "의정부시",
-		"apply_nums": "80세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940133&pblancNo=2025940133&houseSecd=11",
-		"in_date": "20250901",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "광명 소하 파크타워"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000387&pblancNo=2025000387&houseSecd=01",
 		"in_date": "20250902",
 		"hsecd": "01",
 		"rse": "02",
@@ -903,6 +778,14 @@
 		"name": "부평 하우스토리 어반그린"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940214&pblancNo=2025940214&houseSecd=11",
+		"in_date": "20250909",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "제주 중부공원 제일풍경채 센트럴파크(3차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000399&pblancNo=2025000399&houseSecd=01",
 		"in_date": "20250910",
 		"hsecd": "01",
@@ -1007,11 +890,63 @@
 		"apply_nums": "52세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910165&pblancNo=2025910165&houseSecd=04",
+		"in_date": "20250910",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "트리븐 삼척",
+		"addr": "강원특별자치도 삼척시 교동 205-6번지 일원",
+		"short_addr": "강원특별자치도 삼척시",
+		"addr_lv1": "강원특별자치도",
+		"addr_lv2": "삼척시",
+		"apply_nums": "11세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910168&pblancNo=2025910168&houseSecd=04",
+		"in_date": "20250910",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "파주운정 경남아너스빌 리버(A48블록)(2차)",
+		"addr": "경기도 파주시 파주운정3지구 A48BL 공동주택용지",
+		"short_addr": "경기도 파주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "파주시",
+		"apply_nums": "6세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940220&pblancNo=2025940220&houseSecd=11",
 		"in_date": "20250910",
 		"hsecd": "11",
 		"rse": "11",
 		"type": "",
 		"name": "부평 하우스토리 어반그린"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000417&pblancNo=2025000417&houseSecd=01",
+		"in_date": "20250915",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "문수데시앙2단지 공가세대 일반공급",
+		"addr": "울산광역시 울주군 청량읍 율리영해2길 7 (문수데시앙 2단지 아파트)",
+		"short_addr": "울산광역시 울주군",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "울주군",
+		"apply_nums": "27세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000417&pblancNo=2025000417&houseSecd=01",
+		"in_date": "20250916",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "문수데시앙2단지 공가세대 일반공급",
+		"addr": "울산광역시 울주군 청량읍 율리영해2길 7 (문수데시앙 2단지 아파트)",
+		"short_addr": "울산광역시 울주군",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "울주군",
+		"apply_nums": "27세대"
 	}
 ]
