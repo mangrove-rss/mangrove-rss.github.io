@@ -22,6 +22,30 @@
 			<showrss:showname><![CDATA[ HEYZO-3697 ]]></showrss:showname>
 		</item>
 		<item>
+			<title><![CDATA[ 090625-001-carib ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih:e20f12ed793dfa34a98a1cae5f4f99272687eef1 ]]></link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ 090625-001-carib ]]></showrss:showname>
+		</item>
+		<item>
+			<title><![CDATA[ 090525-001-carib ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih:0032b22db70ed5bfab6ec52f83bf08aa9dbd3b63 ]]></link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ 090525-001-carib ]]></showrss:showname>
+		</item>
+		<item>
+			<title><![CDATA[ 090625_001-1pondo ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih:37965356a36cc989d7966f21ce770d955a288583 ]]></link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ 090625_001-1pondo ]]></showrss:showname>
+		</item>
+		<item>
+			<title><![CDATA[ HEYZO-3669 ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih:cd69b38c65a308adbc12003f441856ceabbbae36 ]]></link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ HEYZO-3669 ]]></showrss:showname>
+		</item>
+		<item>
 			<title><![CDATA[ mxgs-792 shinsei ~ re born ~ nada jun ]]></title>
 			<link><![CDATA[ magnet:?xt=urn:btih:f9ef7c871bb11d2d00e318801c974737c84e34c7 ]]></link>
 			<showrss:showid></showrss:showid>
@@ -482,18 +506,6 @@
 			<link><![CDATA[ magnet:?xt=urn:btih:20dee0f066a309e0be3ef72ba301721bec4ac636 ]]></link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ 082725-001-carib ]]></showrss:showname>
-		</item>
-		<item>
-			<title><![CDATA[ 082625_001-1pondo ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:9d1cec9c64eaabe14d80a0a9d6fb097858cfd59d ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ 082625_001-1pondo ]]></showrss:showname>
-		</item>
-		<item>
-			<title><![CDATA[ 082625_001-1pondo ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:46ab19395102d785eecb0e76027c73da411d752d ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ 082625_001-1pondo ]]></showrss:showname>
 		</item>
 	</channel>
 </rss>
