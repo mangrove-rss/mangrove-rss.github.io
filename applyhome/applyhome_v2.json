@@ -1,34 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000357&pblancNo=2025000357&houseSecd=01",
-		"in_date": "20250905",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "탑석 푸르지오 파크7",
-		"addr": "경기도 의정부시 용현동 267-8번지 일원",
-		"short_addr": "경기도 의정부시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "의정부시",
-		"apply_nums": "935세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940217&pblancNo=2025940217&houseSecd=11",
-		"in_date": "20250905",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "리아츠 더 인천 (10차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940215&pblancNo=2025940215&houseSecd=11",
-		"in_date": "20250905",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "부천아테라자이(부천괴안지구 B-2블록)(14차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940217&pblancNo=2025940217&houseSecd=11",
 		"in_date": "20250906",
 		"hsecd": "11",
@@ -740,6 +711,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "양천구",
 		"apply_nums": "8세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910166&pblancNo=2025910166&houseSecd=04",
+		"in_date": "20250915",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "힐스테이트 불로 포레스트(2차)",
+		"addr": "인천광역시 서구 불로동 864번지",
+		"short_addr": "인천광역시 서구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "11세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940216&pblancNo=2025940216&houseSecd=11",
