@@ -1,14 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940217&pblancNo=2025940217&houseSecd=11",
-		"in_date": "20250906",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "리아츠 더 인천 (10차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940217&pblancNo=2025940217&houseSecd=11",
 		"in_date": "20250907",
 		"hsecd": "11",
 		"rse": "11",
@@ -650,6 +642,22 @@
 		"name": "힐스테이트 용인마크밸리(2차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940225&pblancNo=2025940225&houseSecd=11",
+		"in_date": "20250912",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "목동 중앙하이츠"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940219&pblancNo=2025940219&houseSecd=11",
+		"in_date": "20250912",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "호현 센트럴 아이파크"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940216&pblancNo=2025940216&houseSecd=11",
 		"in_date": "20250912",
 		"hsecd": "11",
@@ -658,12 +666,44 @@
 		"name": "힐스테이트 용인마크밸리(2차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940225&pblancNo=2025940225&houseSecd=11",
+		"in_date": "20250913",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "목동 중앙하이츠"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940219&pblancNo=2025940219&houseSecd=11",
+		"in_date": "20250913",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "호현 센트럴 아이파크"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940216&pblancNo=2025940216&houseSecd=11",
 		"in_date": "20250913",
 		"hsecd": "11",
 		"rse": "11",
 		"type": "",
 		"name": "힐스테이트 용인마크밸리(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940225&pblancNo=2025940225&houseSecd=11",
+		"in_date": "20250914",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "목동 중앙하이츠"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940219&pblancNo=2025940219&houseSecd=11",
+		"in_date": "20250914",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "호현 센트럴 아이파크"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940216&pblancNo=2025940216&houseSecd=11",
@@ -700,6 +740,40 @@
 		"apply_nums": "27세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850027&pblancNo=2025850027&houseSecd=03",
+		"in_date": "20250915",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "북수원 이목 시티프라디움 더 블리스"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910171&pblancNo=2025910171&houseSecd=04",
+		"in_date": "20250915",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "세종자이 더 시티(산울마을2단지)",
+		"addr": "세종특별자치시 산울동 259번지 일원(행정중심복합도시 6-3생활권 L1블록)",
+		"short_addr": "세종특별자치시 산울동",
+		"addr_lv1": "세종특별자치시",
+		"addr_lv2": "산울동",
+		"apply_nums": "2세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910159&pblancNo=2025910159&houseSecd=04",
+		"in_date": "20250915",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "써밋 리미티드 남천",
+		"addr": "부산광역시 수영구 남천동 545-2번지 일원",
+		"short_addr": "부산광역시 수영구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "수영구",
+		"apply_nums": "200세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910170&pblancNo=2025910170&houseSecd=04",
 		"in_date": "20250915",
 		"hsecd": "04",
@@ -713,6 +787,32 @@
 		"apply_nums": "8세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910158&pblancNo=2025910158&houseSecd=04",
+		"in_date": "20250915",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "춘천 동문 디 이스트 어반포레",
+		"addr": "강원특별자치도 춘천시 동면 만천리 811-21번지 외 10필지",
+		"short_addr": "강원특별자치도 춘천시",
+		"addr_lv1": "강원특별자치도",
+		"addr_lv2": "춘천시",
+		"apply_nums": "22세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910153&pblancNo=2025910153&houseSecd=04",
+		"in_date": "20250915",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "평촌 트리지아",
+		"addr": "경기도 안양시 동안구 귀인로 98번길 12 일대",
+		"short_addr": "경기도 안양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "안양시",
+		"apply_nums": "1세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910166&pblancNo=2025910166&houseSecd=04",
 		"in_date": "20250915",
 		"hsecd": "04",
@@ -724,6 +824,22 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "서구",
 		"apply_nums": "11세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940225&pblancNo=2025940225&houseSecd=11",
+		"in_date": "20250915",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "목동 중앙하이츠"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940219&pblancNo=2025940219&houseSecd=11",
+		"in_date": "20250915",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "호현 센트럴 아이파크"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940216&pblancNo=2025940216&houseSecd=11",
@@ -758,6 +874,14 @@
 		"addr_lv1": "울산광역시",
 		"addr_lv2": "울주군",
 		"apply_nums": "27세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850027&pblancNo=2025850027&houseSecd=03",
+		"in_date": "20250916",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "북수원 이목 시티프라디움 더 블리스"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910170&pblancNo=2025910170&houseSecd=04",
