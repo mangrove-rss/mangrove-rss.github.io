@@ -1,13 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940217&pblancNo=2025940217&houseSecd=11",
-		"in_date": "20250907",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "리아츠 더 인천 (10차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000399&pblancNo=2025000399&houseSecd=01",
 		"in_date": "20250908",
 		"hsecd": "01",
@@ -834,6 +826,14 @@
 		"name": "목동 중앙하이츠"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940226&pblancNo=2025940226&houseSecd=11",
+		"in_date": "20250915",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "평촌 한신더휴"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940219&pblancNo=2025940219&houseSecd=11",
 		"in_date": "20250915",
 		"hsecd": "11",
@@ -884,6 +884,14 @@
 		"name": "북수원 이목 시티프라디움 더 블리스"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850026&pblancNo=2025850026&houseSecd=03",
+		"in_date": "20250916",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "서울은평뉴타운 디에트르 더 퍼스트(3-14BL)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910170&pblancNo=2025910170&houseSecd=04",
 		"in_date": "20250916",
 		"hsecd": "04",
@@ -916,5 +924,13 @@
 		"addr_lv1": "경상북도",
 		"addr_lv2": "고령군",
 		"apply_nums": "463세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850026&pblancNo=2025850026&houseSecd=03",
+		"in_date": "20250917",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "서울은평뉴타운 디에트르 더 퍼스트(3-14BL)"
 	}
 ]
