@@ -1,30 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940225&pblancNo=2025940225&houseSecd=11",
-		"in_date": "20250912",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "목동 중앙하이츠"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940219&pblancNo=2025940219&houseSecd=11",
-		"in_date": "20250912",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "호현 센트럴 아이파크"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940216&pblancNo=2025940216&houseSecd=11",
-		"in_date": "20250912",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "힐스테이트 용인마크밸리(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940225&pblancNo=2025940225&houseSecd=11",
 		"in_date": "20250913",
 		"hsecd": "11",
 		"rse": "11",
@@ -446,6 +422,30 @@
 		"apply_nums": "2세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940235&pblancNo=2025940235&houseSecd=11",
+		"in_date": "20250918",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "북수원이목지구 대방 디에트르 더 리체Ⅱ(A3BL) (6차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940228&pblancNo=2025940228&houseSecd=11",
+		"in_date": "20250918",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "서울원 아이파크(5차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940227&pblancNo=2025940227&houseSecd=11",
+		"in_date": "20250918",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "신도림역 동문 디 이스트(5차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000413&pblancNo=2025000413&houseSecd=01",
 		"in_date": "20250919",
 		"hsecd": "01",
@@ -467,6 +467,22 @@
 		"name": "대전 에테르 스위첸(4차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940235&pblancNo=2025940235&houseSecd=11",
+		"in_date": "20250919",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "북수원이목지구 대방 디에트르 더 리체Ⅱ(A3BL) (6차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940227&pblancNo=2025940227&houseSecd=11",
+		"in_date": "20250919",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "신도림역 동문 디 이스트(5차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000436&pblancNo=2025000436&houseSecd=01",
 		"in_date": "20250922",
 		"hsecd": "01",
@@ -519,6 +535,32 @@
 		"apply_nums": "53세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910176&pblancNo=2025910176&houseSecd=04",
+		"in_date": "20250922",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "선운지구다사로움 공가세대 일반공급",
+		"addr": "광주광역시 광산구 선운로 34 (선암동, 선운지구다사로움아파트)",
+		"short_addr": "광주광역시 광산구",
+		"addr_lv1": "광주광역시",
+		"addr_lv2": "광산구",
+		"apply_nums": "4세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930043&pblancNo=2025930043&houseSecd=06",
+		"in_date": "20250922",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "힐스테이트 e편한세상 문정",
+		"addr": "서울특별시 송파구 송이로31길 20 (문정동, 힐스테이트e편한세상문정)",
+		"short_addr": "서울특별시 송파구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "송파구",
+		"apply_nums": "3세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000436&pblancNo=2025000436&houseSecd=01",
 		"in_date": "20250923",
 		"hsecd": "01",
@@ -571,6 +613,32 @@
 		"apply_nums": "53세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910176&pblancNo=2025910176&houseSecd=04",
+		"in_date": "20250923",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "선운지구다사로움 공가세대 일반공급",
+		"addr": "광주광역시 광산구 선운로 34 (선암동, 선운지구다사로움아파트)",
+		"short_addr": "광주광역시 광산구",
+		"addr_lv1": "광주광역시",
+		"addr_lv2": "광산구",
+		"apply_nums": "4세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930043&pblancNo=2025930043&houseSecd=06",
+		"in_date": "20250923",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "힐스테이트 e편한세상 문정",
+		"addr": "서울특별시 송파구 송이로31길 20 (문정동, 힐스테이트e편한세상문정)",
+		"short_addr": "서울특별시 송파구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "송파구",
+		"apply_nums": "3세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000436&pblancNo=2025000436&houseSecd=01",
 		"in_date": "20250924",
 		"hsecd": "01",
@@ -621,5 +689,18 @@
 		"addr_lv1": "광주광역시",
 		"addr_lv2": "남구",
 		"apply_nums": "53세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910176&pblancNo=2025910176&houseSecd=04",
+		"in_date": "20250924",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "선운지구다사로움 공가세대 일반공급",
+		"addr": "광주광역시 광산구 선운로 34 (선암동, 선운지구다사로움아파트)",
+		"short_addr": "광주광역시 광산구",
+		"addr_lv1": "광주광역시",
+		"addr_lv2": "광산구",
+		"apply_nums": "4세대"
 	}
 ]
