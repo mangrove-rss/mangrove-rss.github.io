@@ -1,30 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940225&pblancNo=2025940225&houseSecd=11",
-		"in_date": "20250913",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "목동 중앙하이츠"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940219&pblancNo=2025940219&houseSecd=11",
-		"in_date": "20250913",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "호현 센트럴 아이파크"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940216&pblancNo=2025940216&houseSecd=11",
-		"in_date": "20250913",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "힐스테이트 용인마크밸리(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940225&pblancNo=2025940225&houseSecd=11",
 		"in_date": "20250914",
 		"hsecd": "11",
 		"rse": "11",
@@ -459,12 +435,28 @@
 		"apply_nums": "268세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940234&pblancNo=2025940234&houseSecd=11",
+		"in_date": "20250919",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "e편한세상 제물포역 파크메종(조합원 취소분)(4차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940223&pblancNo=2025940223&houseSecd=11",
 		"in_date": "20250919",
 		"hsecd": "11",
 		"rse": "11",
 		"type": "",
 		"name": "대전 에테르 스위첸(4차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940233&pblancNo=2025940233&houseSecd=11",
+		"in_date": "20250919",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "부천아테라자이(부천괴안지구 B-2블록)(15차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940235&pblancNo=2025940235&houseSecd=11",
@@ -483,6 +475,46 @@
 		"name": "신도림역 동문 디 이스트(5차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940229&pblancNo=2025940229&houseSecd=11",
+		"in_date": "20250919",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "의정부역 다채로움(3차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940234&pblancNo=2025940234&houseSecd=11",
+		"in_date": "20250920",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "e편한세상 제물포역 파크메종(조합원 취소분)(4차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940229&pblancNo=2025940229&houseSecd=11",
+		"in_date": "20250920",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "의정부역 다채로움(3차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940234&pblancNo=2025940234&houseSecd=11",
+		"in_date": "20250921",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "e편한세상 제물포역 파크메종(조합원 취소분)(4차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940229&pblancNo=2025940229&houseSecd=11",
+		"in_date": "20250921",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "의정부역 다채로움(3차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000436&pblancNo=2025000436&houseSecd=01",
 		"in_date": "20250922",
 		"hsecd": "01",
@@ -535,6 +567,45 @@
 		"apply_nums": "53세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950057&pblancNo=2025950057&houseSecd=02",
+		"in_date": "20250922",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "여의도 현대마에스트로",
+		"addr": "서울특별시 영등포구 여의도동 15-11번지",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "8세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910167&pblancNo=2025910167&houseSecd=04",
+		"in_date": "20250922",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "동탄 꿈의숲 자연앤 데시앙(A78BL)",
+		"addr": "경기도 화성시 산척동 746번지 (화성동탄2 택지개발사업지구 A78BL)",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "6세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910177&pblancNo=2025910177&houseSecd=04",
+		"in_date": "20250922",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "서면 써밋 더뉴",
+		"addr": "부산광역시 부산진구 전포동 668-1번지 일원",
+		"short_addr": "부산광역시 부산진구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "부산진구",
+		"apply_nums": "222세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910176&pblancNo=2025910176&houseSecd=04",
 		"in_date": "20250922",
 		"hsecd": "04",
@@ -548,6 +619,19 @@
 		"apply_nums": "4세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910174&pblancNo=2025910174&houseSecd=04",
+		"in_date": "20250922",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "청계 노르웨이숲(3차)",
+		"addr": "서울특별시 중구 황학동 1756번지 일원",
+		"short_addr": "서울특별시 중구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "중구",
+		"apply_nums": "42세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930043&pblancNo=2025930043&houseSecd=06",
 		"in_date": "20250922",
 		"hsecd": "06",
@@ -559,6 +643,38 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "송파구",
 		"apply_nums": "3세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940234&pblancNo=2025940234&houseSecd=11",
+		"in_date": "20250922",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "e편한세상 제물포역 파크메종(조합원 취소분)(4차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940232&pblancNo=2025940232&houseSecd=11",
+		"in_date": "20250922",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "서면 써밋 더뉴"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940229&pblancNo=2025940229&houseSecd=11",
+		"in_date": "20250922",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "의정부역 다채로움(3차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940236&pblancNo=2025940236&houseSecd=11",
+		"in_date": "20250922",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "천호역 마에스트로(5차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000436&pblancNo=2025000436&houseSecd=01",
@@ -637,6 +753,14 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "송파구",
 		"apply_nums": "3세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940236&pblancNo=2025940236&houseSecd=11",
+		"in_date": "20250923",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "천호역 마에스트로(5차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000436&pblancNo=2025000436&houseSecd=01",
