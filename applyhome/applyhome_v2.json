@@ -1,29 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940225&pblancNo=2025940225&houseSecd=11",
-		"in_date": "20250914",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "목동 중앙하이츠"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940219&pblancNo=2025940219&houseSecd=11",
-		"in_date": "20250914",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "호현 센트럴 아이파크"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940216&pblancNo=2025940216&houseSecd=11",
-		"in_date": "20250914",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "힐스테이트 용인마크밸리(2차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000259&pblancNo=2025000259&houseSecd=01",
 		"in_date": "20250915",
 		"hsecd": "01",
@@ -661,6 +637,14 @@
 		"name": "서면 써밋 더뉴"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940237&pblancNo=2025940237&houseSecd=11",
+		"in_date": "20250922",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "원종 휴먼빌 클라츠(3차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940229&pblancNo=2025940229&houseSecd=11",
 		"in_date": "20250922",
 		"hsecd": "11",
@@ -675,6 +659,14 @@
 		"rse": "11",
 		"type": "",
 		"name": "천호역 마에스트로(5차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940239&pblancNo=2025940239&houseSecd=11",
+		"in_date": "20250922",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "호반써밋 개봉(8차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000436&pblancNo=2025000436&houseSecd=01",
@@ -727,6 +719,14 @@
 		"addr_lv1": "광주광역시",
 		"addr_lv2": "남구",
 		"apply_nums": "53세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850028&pblancNo=2025850028&houseSecd=03",
+		"in_date": "20250923",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "부경경마공원역 대방 디에트르 더리버(AP1BL)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910176&pblancNo=2025910176&houseSecd=04",
@@ -763,6 +763,14 @@
 		"name": "천호역 마에스트로(5차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940239&pblancNo=2025940239&houseSecd=11",
+		"in_date": "20250923",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "호반써밋 개봉(8차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000436&pblancNo=2025000436&houseSecd=01",
 		"in_date": "20250924",
 		"hsecd": "01",
@@ -813,6 +821,14 @@
 		"addr_lv1": "광주광역시",
 		"addr_lv2": "남구",
 		"apply_nums": "53세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850028&pblancNo=2025850028&houseSecd=03",
+		"in_date": "20250924",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "부경경마공원역 대방 디에트르 더리버(AP1BL)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910176&pblancNo=2025910176&houseSecd=04",
