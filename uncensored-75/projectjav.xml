@@ -27,23 +27,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ HEYZO-3676 ]]></showrss:showname>
 		</item>
-		<item>
-			<title><![CDATA[ abp-893 ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:9dabc665d761b19f4a7fc6953c46156889d03a1c ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ abp-893 ]]></showrss:showname>
-		</item>
-		<item>
-			<title><![CDATA[ abp-893 ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:4d167946185765ef66206275b8716840e649a7e5 ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ abp-893 ]]></showrss:showname>
-		</item>
-		<item>
-			<title><![CDATA[ abp-893 ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:d1cc0ad637443d263bcb562d895c5cc3402b4232 ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ abp-893 ]]></showrss:showname>
-		</item>
 	</channel>
 </rss>
