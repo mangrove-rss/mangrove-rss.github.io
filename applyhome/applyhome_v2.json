@@ -1,82 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000413&pblancNo=2025000413&houseSecd=01",
-		"in_date": "20250918",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "퀸즈이즈카운티",
-		"addr": "부산광역시 동구 범일동 828-9번지",
-		"short_addr": "부산광역시 동구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "동구",
-		"apply_nums": "268세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950055&pblancNo=2025950055&houseSecd=02",
-		"in_date": "20250918",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "동탄 대방 엘리움 레이크파크",
-		"addr": "경기도 화성시 송동 725-9",
-		"short_addr": "경기도 화성시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "화성시",
-		"apply_nums": "4세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950054&pblancNo=2025950054&houseSecd=02",
-		"in_date": "20250918",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "동탄2신도시 동탄역 대방 엘리움 더 시그니처(C18BL)",
-		"addr": "경기도 화성시 오산동 동탄2택지개발지구 C18BL",
-		"short_addr": "경기도 화성시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "화성시",
-		"apply_nums": "8세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950056&pblancNo=2025950056&houseSecd=02",
-		"in_date": "20250918",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "동탄역 디에트르 퍼스티지",
-		"addr": "경기도 화성시 오산동 979번지",
-		"short_addr": "경기도 화성시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "화성시",
-		"apply_nums": "2세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940235&pblancNo=2025940235&houseSecd=11",
-		"in_date": "20250918",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "북수원이목지구 대방 디에트르 더 리체Ⅱ(A3BL) (6차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940228&pblancNo=2025940228&houseSecd=11",
-		"in_date": "20250918",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "서울원 아이파크(5차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940227&pblancNo=2025940227&houseSecd=11",
-		"in_date": "20250918",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "신도림역 동문 디 이스트(5차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000413&pblancNo=2025000413&houseSecd=01",
 		"in_date": "20250919",
 		"hsecd": "01",
 		"rse": "03",
@@ -535,6 +459,62 @@
 		"apply_nums": "1세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940241&pblancNo=2025940241&houseSecd=11",
+		"in_date": "20250924",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천 (11차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940238&pblancNo=2025940238&houseSecd=11",
+		"in_date": "20250924",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "진위역 서희스타힐스 더 파크뷰"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940241&pblancNo=2025940241&houseSecd=11",
+		"in_date": "20250925",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천 (11차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940238&pblancNo=2025940238&houseSecd=11",
+		"in_date": "20250925",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "진위역 서희스타힐스 더 파크뷰"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940241&pblancNo=2025940241&houseSecd=11",
+		"in_date": "20250926",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천 (11차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940241&pblancNo=2025940241&houseSecd=11",
+		"in_date": "20250927",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천 (11차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940241&pblancNo=2025940241&houseSecd=11",
+		"in_date": "20250928",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천 (11차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000435&pblancNo=2025000435&houseSecd=01",
 		"in_date": "20250929",
 		"hsecd": "01",
@@ -767,6 +747,27 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "오산시",
 		"apply_nums": "17세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930044&pblancNo=2025930044&houseSecd=06",
+		"in_date": "20250929",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "도심역 한양수자인 리버파인",
+		"addr": "경기도 남양주시 와부읍 도곡리 931-5번지 일원",
+		"short_addr": "경기도 남양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "남양주시",
+		"apply_nums": "2세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940241&pblancNo=2025940241&houseSecd=11",
+		"in_date": "20250929",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천 (11차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000435&pblancNo=2025000435&houseSecd=01",
@@ -1001,6 +1002,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "오산시",
 		"apply_nums": "17세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930044&pblancNo=2025930044&houseSecd=06",
+		"in_date": "20250930",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "도심역 한양수자인 리버파인",
+		"addr": "경기도 남양주시 와부읍 도곡리 931-5번지 일원",
+		"short_addr": "경기도 남양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "남양주시",
+		"apply_nums": "2세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000435&pblancNo=2025000435&houseSecd=01",
