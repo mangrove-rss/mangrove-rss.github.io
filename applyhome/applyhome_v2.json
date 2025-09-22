@@ -1,66 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000413&pblancNo=2025000413&houseSecd=01",
-		"in_date": "20250919",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "퀸즈이즈카운티",
-		"addr": "부산광역시 동구 범일동 828-9번지",
-		"short_addr": "부산광역시 동구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "동구",
-		"apply_nums": "268세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940234&pblancNo=2025940234&houseSecd=11",
-		"in_date": "20250919",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "e편한세상 제물포역 파크메종(조합원 취소분)(4차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940223&pblancNo=2025940223&houseSecd=11",
-		"in_date": "20250919",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "대전 에테르 스위첸(4차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940233&pblancNo=2025940233&houseSecd=11",
-		"in_date": "20250919",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "부천아테라자이(부천괴안지구 B-2블록)(15차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940235&pblancNo=2025940235&houseSecd=11",
-		"in_date": "20250919",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "북수원이목지구 대방 디에트르 더 리체Ⅱ(A3BL) (6차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940227&pblancNo=2025940227&houseSecd=11",
-		"in_date": "20250919",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "신도림역 동문 디 이스트(5차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940229&pblancNo=2025940229&houseSecd=11",
-		"in_date": "20250919",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "의정부역 다채로움(3차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940234&pblancNo=2025940234&houseSecd=11",
 		"in_date": "20250920",
 		"hsecd": "11",
@@ -467,6 +406,14 @@
 		"name": "리아츠 더 인천 (11차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940230&pblancNo=2025940230&houseSecd=11",
+		"in_date": "20250924",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "선운지구다사로움 공가세대 일반공급"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940238&pblancNo=2025940238&houseSecd=11",
 		"in_date": "20250924",
 		"hsecd": "11",
@@ -483,6 +430,14 @@
 		"name": "리아츠 더 인천 (11차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940230&pblancNo=2025940230&houseSecd=11",
+		"in_date": "20250925",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "선운지구다사로움 공가세대 일반공급"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940238&pblancNo=2025940238&houseSecd=11",
 		"in_date": "20250925",
 		"hsecd": "11",
@@ -497,6 +452,14 @@
 		"rse": "11",
 		"type": "",
 		"name": "리아츠 더 인천 (11차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940230&pblancNo=2025940230&houseSecd=11",
+		"in_date": "20250926",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "선운지구다사로움 공가세대 일반공급"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940241&pblancNo=2025940241&houseSecd=11",
