@@ -1,22 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940234&pblancNo=2025940234&houseSecd=11",
-		"in_date": "20250920",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "e편한세상 제물포역 파크메종(조합원 취소분)(4차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940229&pblancNo=2025940229&houseSecd=11",
-		"in_date": "20250920",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "의정부역 다채로움(3차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940234&pblancNo=2025940234&houseSecd=11",
 		"in_date": "20250921",
 		"hsecd": "11",
 		"rse": "11",
@@ -446,6 +430,14 @@
 		"name": "진위역 서희스타힐스 더 파크뷰"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940242&pblancNo=2025940242&houseSecd=11",
+		"in_date": "20250926",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "대야미역 금강펜테리움 레이크포레(B1BL)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940241&pblancNo=2025940241&houseSecd=11",
 		"in_date": "20250926",
 		"hsecd": "11",
@@ -710,6 +702,45 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "오산시",
 		"apply_nums": "17세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910172&pblancNo=2025910172&houseSecd=04",
+		"in_date": "20250929",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "고덕 자연앤 하우스디(A4BL)(국민)",
+		"addr": "경기도 평택시 고덕동 1858-2번지(고덕국제화계획지구 A4BL)",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "89세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910173&pblancNo=2025910173&houseSecd=04",
+		"in_date": "20250929",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "고덕 자연앤 하우스디(A4BL)(민영)",
+		"addr": "경기도 평택시 고덕동 1858-2번지(고덕국제화계획지구 A4BL)",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "60세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910179&pblancNo=2025910179&houseSecd=04",
+		"in_date": "20250929",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "송파 위례 리슈빌 FIRST CLASS",
+		"addr": "서울특별시 송파구 위례송파로 124 (거여동, 송파 위례 리슈빌)",
+		"short_addr": "서울특별시 송파구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "송파구",
+		"apply_nums": "1세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930044&pblancNo=2025930044&houseSecd=06",
