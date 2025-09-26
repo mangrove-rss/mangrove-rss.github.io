@@ -1,108 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000436&pblancNo=2025000436&houseSecd=01",
-		"in_date": "20250923",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "더 퍼스트 데시앙",
-		"addr": "광주광역시 남구 덕림중앙3길 8 ",
-		"short_addr": "광주광역시 남구",
-		"addr_lv1": "광주광역시",
-		"addr_lv2": "남구",
-		"apply_nums": "71세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000367&pblancNo=2025000367&houseSecd=01",
-		"in_date": "20250923",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "서면 어반센트 데시앙",
-		"addr": "부산광역시 부산진구 부암동 690-8번지 일원",
-		"short_addr": "부산광역시 부산진구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "부산진구",
-		"apply_nums": "211세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000319&pblancNo=2025000319&houseSecd=01",
-		"in_date": "20250923",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "인천 힐스테이트 숭의역",
-		"addr": "인천광역시 미추홀구 인주대로 5 (숭의동, 힐스테이트 숭의역)",
-		"short_addr": "인천광역시 미추홀구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "미추홀구",
-		"apply_nums": "17세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000424&pblancNo=2025000424&houseSecd=01",
-		"in_date": "20250923",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "힐스테이트 지석",
-		"addr": "광주광역시 남구 지석동 506번지 일원",
-		"short_addr": "광주광역시 남구",
-		"addr_lv1": "광주광역시",
-		"addr_lv2": "남구",
-		"apply_nums": "53세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850028&pblancNo=2025850028&houseSecd=03",
-		"in_date": "20250923",
-		"hsecd": "03",
-		"rse": "04",
-		"type": "",
-		"name": "부경경마공원역 대방 디에트르 더리버(AP1BL)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910176&pblancNo=2025910176&houseSecd=04",
-		"in_date": "20250923",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "선운지구다사로움 공가세대 일반공급",
-		"addr": "광주광역시 광산구 선운로 34 (선암동, 선운지구다사로움아파트)",
-		"short_addr": "광주광역시 광산구",
-		"addr_lv1": "광주광역시",
-		"addr_lv2": "광산구",
-		"apply_nums": "4세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930043&pblancNo=2025930043&houseSecd=06",
-		"in_date": "20250923",
-		"hsecd": "06",
-		"rse": "07",
-		"type": "",
-		"name": "힐스테이트 e편한세상 문정",
-		"addr": "서울특별시 송파구 송이로31길 20 (문정동, 힐스테이트e편한세상문정)",
-		"short_addr": "서울특별시 송파구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "송파구",
-		"apply_nums": "3세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940236&pblancNo=2025940236&houseSecd=11",
-		"in_date": "20250923",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "천호역 마에스트로(5차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940239&pblancNo=2025940239&houseSecd=11",
-		"in_date": "20250923",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "호반써밋 개봉(8차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000436&pblancNo=2025000436&houseSecd=01",
 		"in_date": "20250924",
 		"hsecd": "01",
 		"rse": "03",
@@ -1059,6 +957,19 @@
 		"apply_nums": "189세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950058&pblancNo=2025950058&houseSecd=02",
+		"in_date": "20251001",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "숭의역 라온프라이빗 스카이브 오피스텔",
+		"addr": "인천광역시 중구 신흥동3가 7-79번지 외 25필지",
+		"short_addr": "인천광역시 중구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "168세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910184&pblancNo=2025910184&houseSecd=04",
 		"in_date": "20251001",
 		"hsecd": "04",
@@ -1070,6 +981,32 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "용인고림지구",
 		"apply_nums": "89세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000412&pblancNo=2025000412&houseSecd=01",
+		"in_date": "20251010",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "식사 푸르지오 파크센트",
+		"addr": "경기도 고양시 일산동구 식사동 1126번지 일대",
+		"short_addr": "경기도 고양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "고양시",
+		"apply_nums": "36세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000412&pblancNo=2025000412&houseSecd=01",
+		"in_date": "20251013",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "식사 푸르지오 파크센트",
+		"addr": "경기도 고양시 일산동구 식사동 1126번지 일대",
+		"short_addr": "경기도 고양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "고양시",
+		"apply_nums": "36세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000400&pblancNo=2025000400&houseSecd=01",
@@ -1109,6 +1046,19 @@
 		"addr_lv1": "충청북도",
 		"addr_lv2": "청주시",
 		"apply_nums": "459세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000412&pblancNo=2025000412&houseSecd=01",
+		"in_date": "20251014",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "식사 푸르지오 파크센트",
+		"addr": "경기도 고양시 일산동구 식사동 1126번지 일대",
+		"short_addr": "경기도 고양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "고양시",
+		"apply_nums": "36세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000400&pblancNo=2025000400&houseSecd=01",
