@@ -1,29 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940242&pblancNo=2025940242&houseSecd=11",
-		"in_date": "20250926",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "대야미역 금강펜테리움 레이크포레(B1BL)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940241&pblancNo=2025940241&houseSecd=11",
-		"in_date": "20250926",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "리아츠 더 인천 (11차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940230&pblancNo=2025940230&houseSecd=11",
-		"in_date": "20250926",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "선운지구다사로움 공가세대 일반공급"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940241&pblancNo=2025940241&houseSecd=11",
 		"in_date": "20250927",
 		"hsecd": "11",
@@ -950,6 +926,19 @@
 		"apply_nums": "36세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910186&pblancNo=2025910186&houseSecd=04",
+		"in_date": "20251010",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "브라운스톤 여월(5차)",
+		"addr": "경기도 부천시 오정구 성곡로28번길 43 (여월동 9-28)",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "1세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910182&pblancNo=2025910182&houseSecd=04",
 		"in_date": "20251010",
 		"hsecd": "04",
@@ -961,6 +950,32 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "양평군",
 		"apply_nums": "11세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910187&pblancNo=2025910187&houseSecd=04",
+		"in_date": "20251010",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "오산 세교2지구 A12블록 공공분양주택(3차)",
+		"addr": "경기도 오산시 벌음동 382번지 (오산세교2 택지개발지구 A12BL) ",
+		"short_addr": "경기도 오산시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "오산시",
+		"apply_nums": "7세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910183&pblancNo=2025910183&houseSecd=04",
+		"in_date": "20251010",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "탑석 푸르지오 파크7",
+		"addr": "경기도 의정부시 용현동 267-8번지 일원",
+		"short_addr": "경기도 의정부시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "의정부시",
+		"apply_nums": "121세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940244&pblancNo=2025940244&houseSecd=11",
