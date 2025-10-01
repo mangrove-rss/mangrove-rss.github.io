@@ -400,6 +400,19 @@
 		"apply_nums": "7세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910180&pblancNo=2025910180&houseSecd=04",
+		"in_date": "20251010",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "익산자이 그랜드파크",
+		"addr": "전북특별자치도 익산시 마동 434",
+		"short_addr": "전북특별자치도 익산시",
+		"addr_lv1": "전북특별자치도",
+		"addr_lv2": "익산시",
+		"apply_nums": "2세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910183&pblancNo=2025910183&houseSecd=04",
 		"in_date": "20251010",
 		"hsecd": "04",
@@ -411,6 +424,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "의정부시",
 		"apply_nums": "121세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930045&pblancNo=2025930045&houseSecd=06",
+		"in_date": "20251010",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "익산자이 그랜드파크",
+		"addr": "전북특별자치도 익산시 마동 434",
+		"short_addr": "전북특별자치도 익산시",
+		"addr_lv1": "전북특별자치도",
+		"addr_lv2": "익산시",
+		"apply_nums": "4세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940244&pblancNo=2025940244&houseSecd=11",
@@ -447,6 +473,19 @@
 		"apply_nums": "116세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950061&pblancNo=2025950061&houseSecd=02",
+		"in_date": "20251013",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "보라매 휴마레 도시형생활주택",
+		"addr": "서울특별시 동작구 신대방동 725번지",
+		"short_addr": "서울특별시 동작구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "동작구",
+		"apply_nums": "10세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950049&pblancNo=2025950049&houseSecd=02",
 		"in_date": "20251013",
 		"hsecd": "02",
@@ -471,6 +510,14 @@
 		"addr_lv1": "세종특별자치시",
 		"addr_lv2": "조치원읍",
 		"apply_nums": "3세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940243&pblancNo=2025940243&houseSecd=11",
+		"in_date": "20251013",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "강동구 둔촌 월드메르디앙 올림픽파크"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000445&pblancNo=2025000445&houseSecd=01",
@@ -510,6 +557,14 @@
 		"addr_lv1": "충청남도",
 		"addr_lv2": "천안시",
 		"apply_nums": "116세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940243&pblancNo=2025940243&houseSecd=11",
+		"in_date": "20251014",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "강동구 둔촌 월드메르디앙 올림픽파크"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000445&pblancNo=2025000445&houseSecd=01",
