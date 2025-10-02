@@ -447,6 +447,19 @@
 		"name": "북수원이목지구 대방 디에트르 더 리체Ⅱ(A3BL) (7차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000438&pblancNo=2025000438&houseSecd=01",
+		"in_date": "20251013",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "송정공원역 대라수 우선 분양전환 후 잔여세대",
+		"addr": "광주광역시 광산구 송도로 346 (신촌동, 송정공원역대라수아파트)",
+		"short_addr": "광주광역시 광산구",
+		"addr_lv1": "광주광역시",
+		"addr_lv2": "광산구",
+		"apply_nums": "37세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000412&pblancNo=2025000412&houseSecd=01",
 		"in_date": "20251013",
 		"hsecd": "01",
@@ -533,6 +546,32 @@
 		"apply_nums": "459세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000430&pblancNo=2025000430&houseSecd=01",
+		"in_date": "20251014",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "힐스테이트 이수역센트럴",
+		"addr": "서울특별시 동작구 사당동 155-4번지 일원",
+		"short_addr": "서울특별시 동작구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "동작구",
+		"apply_nums": "170세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000438&pblancNo=2025000438&houseSecd=01",
+		"in_date": "20251014",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "송정공원역 대라수 우선 분양전환 후 잔여세대",
+		"addr": "광주광역시 광산구 송도로 346 (신촌동, 송정공원역대라수아파트)",
+		"short_addr": "광주광역시 광산구",
+		"addr_lv1": "광주광역시",
+		"addr_lv2": "광산구",
+		"apply_nums": "37세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000412&pblancNo=2025000412&houseSecd=01",
 		"in_date": "20251014",
 		"hsecd": "01",
@@ -580,6 +619,19 @@
 		"apply_nums": "459세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000430&pblancNo=2025000430&houseSecd=01",
+		"in_date": "20251015",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "힐스테이트 이수역센트럴",
+		"addr": "서울특별시 동작구 사당동 155-4번지 일원",
+		"short_addr": "서울특별시 동작구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "동작구",
+		"apply_nums": "170세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000445&pblancNo=2025000445&houseSecd=01",
 		"in_date": "20251016",
 		"hsecd": "01",
@@ -591,5 +643,18 @@
 		"addr_lv1": "충청북도",
 		"addr_lv2": "청주시",
 		"apply_nums": "459세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000430&pblancNo=2025000430&houseSecd=01",
+		"in_date": "20251016",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "힐스테이트 이수역센트럴",
+		"addr": "서울특별시 동작구 사당동 155-4번지 일원",
+		"short_addr": "서울특별시 동작구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "동작구",
+		"apply_nums": "170세대"
 	}
 ]
