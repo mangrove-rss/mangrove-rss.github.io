@@ -123,5 +123,23 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ HEYZO-3689 ]]></showrss:showname>
 		</item>
+		<item>
+			<title><![CDATA[ 082325-001-carib ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih:d99402f8960e64ffba4ad76686cb5c3845af3a7e ]]></link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ 082325-001-carib ]]></showrss:showname>
+		</item>
+		<item>
+			<title><![CDATA[ 082325-001-carib ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih:2ce16987b05adc590eba44f7076ee822f2397a01 ]]></link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ 082325-001-carib ]]></showrss:showname>
+		</item>
+		<item>
+			<title><![CDATA[ 082325-001-carib ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih:3d3749fda00d0e24fe9dabaf3d582cb5a2baa15c ]]></link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ 082325-001-carib ]]></showrss:showname>
+		</item>
 	</channel>
 </rss>
