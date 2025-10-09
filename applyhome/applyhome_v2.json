@@ -1,14 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940244&pblancNo=2025940244&houseSecd=11",
-		"in_date": "20251006",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "북수원이목지구 대방 디에트르 더 리체Ⅱ(A3BL) (7차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940244&pblancNo=2025940244&houseSecd=11",
 		"in_date": "20251007",
 		"hsecd": "11",
 		"rse": "11",
@@ -316,6 +308,19 @@
 		"apply_nums": "170세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910181&pblancNo=2025910181&houseSecd=04",
+		"in_date": "20251015",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "원주역 우미 린 더 스텔라 ",
+		"addr": "강원특별자치도 원주시 남원주역세권 AC-5블럭(무실동 2006번지)",
+		"short_addr": "강원특별자치도 원주시",
+		"addr_lv1": "강원특별자치도",
+		"addr_lv2": "원주시",
+		"apply_nums": "20세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000445&pblancNo=2025000445&houseSecd=01",
 		"in_date": "20251016",
 		"hsecd": "01",
@@ -340,5 +345,96 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "동작구",
 		"apply_nums": "170세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000462&pblancNo=2025000462&houseSecd=01",
+		"in_date": "20251020",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "더파크 비스타동원",
+		"addr": "부산광역시 사상구 감전동 산1-9일원",
+		"short_addr": "부산광역시 사상구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "사상구",
+		"apply_nums": "852세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000449&pblancNo=2025000449&houseSecd=01",
+		"in_date": "20251020",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "회천중앙역 파라곤",
+		"addr": "경기도 양주시 회천지구 A10-1BL",
+		"short_addr": "경기도 양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "양주시",
+		"apply_nums": "845세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000462&pblancNo=2025000462&houseSecd=01",
+		"in_date": "20251021",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "더파크 비스타동원",
+		"addr": "부산광역시 사상구 감전동 산1-9일원",
+		"short_addr": "부산광역시 사상구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "사상구",
+		"apply_nums": "852세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000449&pblancNo=2025000449&houseSecd=01",
+		"in_date": "20251021",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "회천중앙역 파라곤",
+		"addr": "경기도 양주시 회천지구 A10-1BL",
+		"short_addr": "경기도 양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "양주시",
+		"apply_nums": "845세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950060&pblancNo=2025950060&houseSecd=02",
+		"in_date": "20251021",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "신대방역 더하이브퍼스트",
+		"addr": "서울특별시 관악구 신림동 505-1",
+		"short_addr": "서울특별시 관악구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "관악구",
+		"apply_nums": "141세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000462&pblancNo=2025000462&houseSecd=01",
+		"in_date": "20251022",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "더파크 비스타동원",
+		"addr": "부산광역시 사상구 감전동 산1-9일원",
+		"short_addr": "부산광역시 사상구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "사상구",
+		"apply_nums": "852세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000449&pblancNo=2025000449&houseSecd=01",
+		"in_date": "20251022",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "회천중앙역 파라곤",
+		"addr": "경기도 양주시 회천지구 A10-1BL",
+		"short_addr": "경기도 양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "양주시",
+		"apply_nums": "845세대"
 	}
 ]
