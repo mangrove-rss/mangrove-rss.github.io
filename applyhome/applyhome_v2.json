@@ -1,104 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000412&pblancNo=2025000412&houseSecd=01",
-		"in_date": "20251010",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "식사 푸르지오 파크센트",
-		"addr": "경기도 고양시 일산동구 식사동 1126번지 일대",
-		"short_addr": "경기도 고양시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "고양시",
-		"apply_nums": "36세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910186&pblancNo=2025910186&houseSecd=04",
-		"in_date": "20251010",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "브라운스톤 여월(5차)",
-		"addr": "경기도 부천시 오정구 성곡로28번길 43 (여월동 9-28)",
-		"short_addr": "경기도 부천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "부천시",
-		"apply_nums": "1세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910182&pblancNo=2025910182&houseSecd=04",
-		"in_date": "20251010",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "양평 우방아이유쉘 에코리버(2차)",
-		"addr": "경기도 양평군 강상면 병산2지구 공동주택용지 C블록 2롯트",
-		"short_addr": "경기도 양평군",
-		"addr_lv1": "경기도",
-		"addr_lv2": "양평군",
-		"apply_nums": "11세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910187&pblancNo=2025910187&houseSecd=04",
-		"in_date": "20251010",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "오산 세교2지구 A12블록 공공분양주택(3차)",
-		"addr": "경기도 오산시 벌음동 382번지 (오산세교2 택지개발지구 A12BL) ",
-		"short_addr": "경기도 오산시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "오산시",
-		"apply_nums": "7세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910180&pblancNo=2025910180&houseSecd=04",
-		"in_date": "20251010",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "익산자이 그랜드파크",
-		"addr": "전북특별자치도 익산시 마동 434",
-		"short_addr": "전북특별자치도 익산시",
-		"addr_lv1": "전북특별자치도",
-		"addr_lv2": "익산시",
-		"apply_nums": "2세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910183&pblancNo=2025910183&houseSecd=04",
-		"in_date": "20251010",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "탑석 푸르지오 파크7",
-		"addr": "경기도 의정부시 용현동 267-8번지 일원",
-		"short_addr": "경기도 의정부시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "의정부시",
-		"apply_nums": "121세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930045&pblancNo=2025930045&houseSecd=06",
-		"in_date": "20251010",
-		"hsecd": "06",
-		"rse": "07",
-		"type": "",
-		"name": "익산자이 그랜드파크",
-		"addr": "전북특별자치도 익산시 마동 434",
-		"short_addr": "전북특별자치도 익산시",
-		"addr_lv1": "전북특별자치도",
-		"addr_lv2": "익산시",
-		"apply_nums": "4세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940244&pblancNo=2025940244&houseSecd=11",
-		"in_date": "20251010",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "북수원이목지구 대방 디에트르 더 리체Ⅱ(A3BL) (7차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000438&pblancNo=2025000438&houseSecd=01",
 		"in_date": "20251013",
 		"hsecd": "01",
@@ -347,6 +248,22 @@
 		"apply_nums": "170세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940249&pblancNo=2025940249&houseSecd=11",
+		"in_date": "20251016",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "엘리프 미아역 1단지(3차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940251&pblancNo=2025940251&houseSecd=11",
+		"in_date": "20251016",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "호현 센트럴 아이파크(2차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940248&pblancNo=2025940248&houseSecd=11",
 		"in_date": "20251016",
 		"hsecd": "11",
@@ -361,6 +278,30 @@
 		"rse": "11",
 		"type": "",
 		"name": "힐스테이트 속초(임의공급 2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940251&pblancNo=2025940251&houseSecd=11",
+		"in_date": "20251017",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "호현 센트럴 아이파크(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940251&pblancNo=2025940251&houseSecd=11",
+		"in_date": "20251018",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "호현 센트럴 아이파크(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940251&pblancNo=2025940251&houseSecd=11",
+		"in_date": "20251019",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "호현 센트럴 아이파크(2차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000462&pblancNo=2025000462&houseSecd=01",
@@ -402,6 +343,71 @@
 		"apply_nums": "17세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910188&pblancNo=2025910188&houseSecd=04",
+		"in_date": "20251020",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "래미안 센트리폴(1BL)",
+		"addr": "인천광역시 연수구 옥련동 송도역세권 도시개발구역 A1블록 ",
+		"short_addr": "인천광역시 연수구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "연수구",
+		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910189&pblancNo=2025910189&houseSecd=04",
+		"in_date": "20251020",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "래미안 센트리폴(2BL)",
+		"addr": "인천광역시 연수구 옥련동 송도역세권 도시개발구역 A2블록 ",
+		"short_addr": "인천광역시 연수구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "연수구",
+		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910190&pblancNo=2025910190&houseSecd=04",
+		"in_date": "20251020",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "에스아이팰리스 올림픽공원(6차)",
+		"addr": "서울특별시 강동구 성내동 459-3",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "9세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910192&pblancNo=2025910192&houseSecd=04",
+		"in_date": "20251020",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "천안 아이파크 시티 2단지",
+		"addr": "충청남도 천안시 서북구 부대동 409-1 외 46필지",
+		"short_addr": "충청남도 천안시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "천안시",
+		"apply_nums": "635세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910194&pblancNo=2025910194&houseSecd=04",
+		"in_date": "20251020",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "평택 고덕국제신도시 힐스테이트 고덕 스카이시티",
+		"addr": "경기도 평택시 고덕국제대로 99, 힐스테이트 고덕 스카이시티",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "2세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930047&pblancNo=2025930047&houseSecd=06",
 		"in_date": "20251020",
 		"hsecd": "06",
@@ -413,6 +419,14 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "연수구",
 		"apply_nums": "2세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940251&pblancNo=2025940251&houseSecd=11",
+		"in_date": "20251020",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "호현 센트럴 아이파크(2차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000462&pblancNo=2025000462&houseSecd=01",
@@ -478,6 +492,27 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "연수구",
 		"apply_nums": "13세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910190&pblancNo=2025910190&houseSecd=04",
+		"in_date": "20251021",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "에스아이팰리스 올림픽공원(6차)",
+		"addr": "서울특별시 강동구 성내동 459-3",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "9세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940251&pblancNo=2025940251&houseSecd=11",
+		"in_date": "20251021",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "호현 센트럴 아이파크(2차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000462&pblancNo=2025000462&houseSecd=01",
