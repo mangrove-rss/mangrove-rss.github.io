@@ -280,6 +280,14 @@
 		"name": "힐스테이트 속초(임의공급 2차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940253&pblancNo=2025940253&houseSecd=11",
+		"in_date": "20251017",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "부천아테라자이(부천괴안지구 B-2블록)(16차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940251&pblancNo=2025940251&houseSecd=11",
 		"in_date": "20251017",
 		"hsecd": "11",
@@ -382,6 +390,19 @@
 		"apply_nums": "9세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910193&pblancNo=2025910193&houseSecd=04",
+		"in_date": "20251020",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "엘리프 검단 포레듀(AA32블록)",
+		"addr": "인천광역시 서구 검단신도시 AA32BL(마전동)",
+		"short_addr": "인천광역시 서구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "43세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910192&pblancNo=2025910192&houseSecd=04",
 		"in_date": "20251020",
 		"hsecd": "04",
@@ -419,6 +440,14 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "연수구",
 		"apply_nums": "2세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940252&pblancNo=2025940252&houseSecd=11",
+		"in_date": "20251020",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "엘리프 검단 포레듀(AA32블록)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940251&pblancNo=2025940251&houseSecd=11",
