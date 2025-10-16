@@ -1,91 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000438&pblancNo=2025000438&houseSecd=01",
-		"in_date": "20251013",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "송정공원역 대라수 우선 분양전환 후 잔여세대",
-		"addr": "광주광역시 광산구 송도로 346 (신촌동, 송정공원역대라수아파트)",
-		"short_addr": "광주광역시 광산구",
-		"addr_lv1": "광주광역시",
-		"addr_lv2": "광산구",
-		"apply_nums": "37세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000412&pblancNo=2025000412&houseSecd=01",
-		"in_date": "20251013",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "식사 푸르지오 파크센트",
-		"addr": "경기도 고양시 일산동구 식사동 1126번지 일대",
-		"short_addr": "경기도 고양시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "고양시",
-		"apply_nums": "36세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000400&pblancNo=2025000400&houseSecd=01",
-		"in_date": "20251013",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "천안 백석 중흥S-클래스 우선 분양전환 후 잔여세대",
-		"addr": "충청남도 천안시 서북구 한들1로 152-9 (백석동, 백석마을중흥S클래스아파트)",
-		"short_addr": "충청남도 천안시",
-		"addr_lv1": "충청남도",
-		"addr_lv2": "천안시",
-		"apply_nums": "116세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950061&pblancNo=2025950061&houseSecd=02",
-		"in_date": "20251013",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "보라매 휴마레 도시형생활주택",
-		"addr": "서울특별시 동작구 신대방동 725번지",
-		"short_addr": "서울특별시 동작구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "동작구",
-		"apply_nums": "10세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950049&pblancNo=2025950049&houseSecd=02",
-		"in_date": "20251013",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "힐스테이트 용인포레(기업형민간임대)",
-		"addr": "경기도 용인시 처인구 삼가동 447-15번지 일원",
-		"short_addr": "경기도 용인시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "용인시",
-		"apply_nums": "390세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910185&pblancNo=2025910185&houseSecd=04",
-		"in_date": "20251013",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "엘리프 세종(3차)",
-		"addr": "세종특별자치시 조치원읍 봉산리 379번지 일원",
-		"short_addr": "세종특별자치시 조치원읍",
-		"addr_lv1": "세종특별자치시",
-		"addr_lv2": "조치원읍",
-		"apply_nums": "3세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940243&pblancNo=2025940243&houseSecd=11",
-		"in_date": "20251013",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "강동구 둔촌 월드메르디앙 올림픽파크"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000445&pblancNo=2025000445&houseSecd=01",
 		"in_date": "20251014",
 		"hsecd": "01",
@@ -604,6 +518,14 @@
 		"apply_nums": "9세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940246&pblancNo=2025940246&houseSecd=11",
+		"in_date": "20251021",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "원종 휴먼빌 클라츠(4차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940251&pblancNo=2025940251&houseSecd=11",
 		"in_date": "20251021",
 		"hsecd": "11",
@@ -659,6 +581,14 @@
 		"name": "부경경마공원역 대방 디에트르 더리버(AP1BL)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850018&pblancNo=2025850018&houseSecd=03",
+		"in_date": "20251022",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "서면 지원 더뷰 드림아파트(공공지원민간임대)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950062&pblancNo=2025950062&houseSecd=02",
 		"in_date": "20251022",
 		"hsecd": "02",
@@ -672,6 +602,27 @@
 		"apply_nums": "17세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910196&pblancNo=2025910196&houseSecd=04",
+		"in_date": "20251022",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "춘천 레이크시티 2차 아이파크",
+		"addr": "강원특별자치도 춘천시 삼천동 22-1번지 일원",
+		"short_addr": "강원특별자치도 춘천시",
+		"addr_lv1": "강원특별자치도",
+		"addr_lv2": "춘천시",
+		"apply_nums": "7세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850018&pblancNo=2025850018&houseSecd=03",
+		"in_date": "20251023",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "서면 지원 더뷰 드림아파트(공공지원민간임대)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950062&pblancNo=2025950062&houseSecd=02",
 		"in_date": "20251023",
 		"hsecd": "02",
@@ -683,5 +634,109 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "영등포구",
 		"apply_nums": "17세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910198&pblancNo=2025910198&houseSecd=04",
+		"in_date": "20251024",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "어반클라쎄목동(9차)",
+		"addr": "서울특별시 양천구 신목로2길 7-12 (신정동, 어반클라쎄 목동)",
+		"short_addr": "서울특별시 양천구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "양천구",
+		"apply_nums": "7세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910198&pblancNo=2025910198&houseSecd=04",
+		"in_date": "20251025",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "어반클라쎄목동(9차)",
+		"addr": "서울특별시 양천구 신목로2길 7-12 (신정동, 어반클라쎄 목동)",
+		"short_addr": "서울특별시 양천구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "양천구",
+		"apply_nums": "7세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910198&pblancNo=2025910198&houseSecd=04",
+		"in_date": "20251026",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "어반클라쎄목동(9차)",
+		"addr": "서울특별시 양천구 신목로2길 7-12 (신정동, 어반클라쎄 목동)",
+		"short_addr": "서울특별시 양천구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "양천구",
+		"apply_nums": "7세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000499&pblancNo=2025000499&houseSecd=01",
+		"in_date": "20251027",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "김포 풍무역세권 B5블록 호반써밋",
+		"addr": "김포 풍무역세권 B5블록(경기도 김포시 사우동 475-2 일원)",
+		"short_addr": "김포 풍무역세권",
+		"addr_lv1": "김포",
+		"addr_lv2": "풍무역세권",
+		"apply_nums": "956세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910198&pblancNo=2025910198&houseSecd=04",
+		"in_date": "20251027",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "어반클라쎄목동(9차)",
+		"addr": "서울특별시 양천구 신목로2길 7-12 (신정동, 어반클라쎄 목동)",
+		"short_addr": "서울특별시 양천구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "양천구",
+		"apply_nums": "7세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000499&pblancNo=2025000499&houseSecd=01",
+		"in_date": "20251028",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "김포 풍무역세권 B5블록 호반써밋",
+		"addr": "김포 풍무역세권 B5블록(경기도 김포시 사우동 475-2 일원)",
+		"short_addr": "김포 풍무역세권",
+		"addr_lv1": "김포",
+		"addr_lv2": "풍무역세권",
+		"apply_nums": "956세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910198&pblancNo=2025910198&houseSecd=04",
+		"in_date": "20251028",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "어반클라쎄목동(9차)",
+		"addr": "서울특별시 양천구 신목로2길 7-12 (신정동, 어반클라쎄 목동)",
+		"short_addr": "서울특별시 양천구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "양천구",
+		"apply_nums": "7세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000499&pblancNo=2025000499&houseSecd=01",
+		"in_date": "20251029",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "김포 풍무역세권 B5블록 호반써밋",
+		"addr": "김포 풍무역세권 B5블록(경기도 김포시 사우동 475-2 일원)",
+		"short_addr": "김포 풍무역세권",
+		"addr_lv1": "김포",
+		"addr_lv2": "풍무역세권",
+		"apply_nums": "956세대"
 	}
 ]
