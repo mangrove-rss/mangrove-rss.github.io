@@ -1,79 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000445&pblancNo=2025000445&houseSecd=01",
-		"in_date": "20251014",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "청주 롯데캐슬 시그니처",
-		"addr": "충청북도 청주시 흥덕구 강서동40-41번지 일원",
-		"short_addr": "충청북도 청주시",
-		"addr_lv1": "충청북도",
-		"addr_lv2": "청주시",
-		"apply_nums": "459세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000430&pblancNo=2025000430&houseSecd=01",
-		"in_date": "20251014",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "힐스테이트 이수역센트럴",
-		"addr": "서울특별시 동작구 사당동 155-4번지 일원",
-		"short_addr": "서울특별시 동작구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "동작구",
-		"apply_nums": "170세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000438&pblancNo=2025000438&houseSecd=01",
-		"in_date": "20251014",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "송정공원역 대라수 우선 분양전환 후 잔여세대",
-		"addr": "광주광역시 광산구 송도로 346 (신촌동, 송정공원역대라수아파트)",
-		"short_addr": "광주광역시 광산구",
-		"addr_lv1": "광주광역시",
-		"addr_lv2": "광산구",
-		"apply_nums": "37세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000412&pblancNo=2025000412&houseSecd=01",
-		"in_date": "20251014",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "식사 푸르지오 파크센트",
-		"addr": "경기도 고양시 일산동구 식사동 1126번지 일대",
-		"short_addr": "경기도 고양시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "고양시",
-		"apply_nums": "36세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000400&pblancNo=2025000400&houseSecd=01",
-		"in_date": "20251014",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "천안 백석 중흥S-클래스 우선 분양전환 후 잔여세대",
-		"addr": "충청남도 천안시 서북구 한들1로 152-9 (백석동, 백석마을중흥S클래스아파트)",
-		"short_addr": "충청남도 천안시",
-		"addr_lv1": "충청남도",
-		"addr_lv2": "천안시",
-		"apply_nums": "116세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940243&pblancNo=2025940243&houseSecd=11",
-		"in_date": "20251014",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "강동구 둔촌 월드메르디앙 올림픽파크"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000445&pblancNo=2025000445&houseSecd=01",
 		"in_date": "20251015",
 		"hsecd": "01",
 		"rse": "02",
@@ -343,19 +270,6 @@
 		"apply_nums": "635세대"
 	},
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910194&pblancNo=2025910194&houseSecd=04",
-		"in_date": "20251020",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "평택 고덕국제신도시 힐스테이트 고덕 스카이시티",
-		"addr": "경기도 평택시 고덕국제대로 99, 힐스테이트 고덕 스카이시티",
-		"short_addr": "경기도 평택시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "평택시",
-		"apply_nums": "2세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930047&pblancNo=2025930047&houseSecd=06",
 		"in_date": "20251020",
 		"hsecd": "06",
@@ -589,6 +503,19 @@
 		"name": "서면 지원 더뷰 드림아파트(공공지원민간임대)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950041&pblancNo=2025950041&houseSecd=02",
+		"in_date": "20251022",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "서면 지원 더뷰 드림오피스텔",
+		"addr": "부산광역시 부산진구 부전동 390-1",
+		"short_addr": "부산광역시 부산진구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "부산진구",
+		"apply_nums": "64세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950062&pblancNo=2025950062&houseSecd=02",
 		"in_date": "20251022",
 		"hsecd": "02",
@@ -621,6 +548,19 @@
 		"rse": "04",
 		"type": "",
 		"name": "서면 지원 더뷰 드림아파트(공공지원민간임대)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950041&pblancNo=2025950041&houseSecd=02",
+		"in_date": "20251023",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "서면 지원 더뷰 드림오피스텔",
+		"addr": "부산광역시 부산진구 부전동 390-1",
+		"short_addr": "부산광역시 부산진구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "부산진구",
+		"apply_nums": "64세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950062&pblancNo=2025950062&houseSecd=02",
@@ -688,6 +628,58 @@
 		"apply_nums": "956세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000466&pblancNo=2025000466&houseSecd=01",
+		"in_date": "20251027",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "두산위브더제니스 청주 센트럴파크",
+		"addr": "충청북도 청주시 흥덕구 신봉동 528번지 외 3필지",
+		"short_addr": "충청북도 청주시",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "청주시",
+		"apply_nums": "705세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000467&pblancNo=2025000467&houseSecd=01",
+		"in_date": "20251027",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "오룡2지구 지엔하임 37블록",
+		"addr": "전라남도 무안군 일로읍 오룡리 288(오룡지구 37BL)",
+		"short_addr": "전라남도 무안군",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "무안군",
+		"apply_nums": "371세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000468&pblancNo=2025000468&houseSecd=01",
+		"in_date": "20251027",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "오룡2지구 지엔하임 38블록",
+		"addr": "전라남도 무안군 일로읍 오룡리 290(오룡지구 38BL)",
+		"short_addr": "전라남도 무안군",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "무안군",
+		"apply_nums": "422세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000509&pblancNo=2025000509&houseSecd=01",
+		"in_date": "20251027",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "천안 휴먼빌 퍼스트시티",
+		"addr": "충청남도 천안시 서북구 부대동 416-1번지 일원",
+		"short_addr": "충청남도 천안시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "천안시",
+		"apply_nums": "1232세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910198&pblancNo=2025910198&houseSecd=04",
 		"in_date": "20251027",
 		"hsecd": "04",
@@ -699,6 +691,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "양천구",
 		"apply_nums": "7세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930048&pblancNo=2025930048&houseSecd=06",
+		"in_date": "20251027",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "구미 원호자이 더 포레",
+		"addr": "경상북도 구미시 고아읍 원호리 808번지",
+		"short_addr": "경상북도 구미시",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "구미시",
+		"apply_nums": "3세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000499&pblancNo=2025000499&houseSecd=01",
@@ -714,6 +719,58 @@
 		"apply_nums": "956세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000466&pblancNo=2025000466&houseSecd=01",
+		"in_date": "20251028",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "두산위브더제니스 청주 센트럴파크",
+		"addr": "충청북도 청주시 흥덕구 신봉동 528번지 외 3필지",
+		"short_addr": "충청북도 청주시",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "청주시",
+		"apply_nums": "705세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000467&pblancNo=2025000467&houseSecd=01",
+		"in_date": "20251028",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "오룡2지구 지엔하임 37블록",
+		"addr": "전라남도 무안군 일로읍 오룡리 288(오룡지구 37BL)",
+		"short_addr": "전라남도 무안군",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "무안군",
+		"apply_nums": "371세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000468&pblancNo=2025000468&houseSecd=01",
+		"in_date": "20251028",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "오룡2지구 지엔하임 38블록",
+		"addr": "전라남도 무안군 일로읍 오룡리 290(오룡지구 38BL)",
+		"short_addr": "전라남도 무안군",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "무안군",
+		"apply_nums": "422세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000509&pblancNo=2025000509&houseSecd=01",
+		"in_date": "20251028",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "천안 휴먼빌 퍼스트시티",
+		"addr": "충청남도 천안시 서북구 부대동 416-1번지 일원",
+		"short_addr": "충청남도 천안시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "천안시",
+		"apply_nums": "1232세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910198&pblancNo=2025910198&houseSecd=04",
 		"in_date": "20251028",
 		"hsecd": "04",
@@ -727,6 +784,19 @@
 		"apply_nums": "7세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930048&pblancNo=2025930048&houseSecd=06",
+		"in_date": "20251028",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "구미 원호자이 더 포레",
+		"addr": "경상북도 구미시 고아읍 원호리 808번지",
+		"short_addr": "경상북도 구미시",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "구미시",
+		"apply_nums": "3세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000499&pblancNo=2025000499&houseSecd=01",
 		"in_date": "20251029",
 		"hsecd": "01",
@@ -738,5 +808,57 @@
 		"addr_lv1": "김포",
 		"addr_lv2": "풍무역세권",
 		"apply_nums": "956세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000466&pblancNo=2025000466&houseSecd=01",
+		"in_date": "20251029",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "두산위브더제니스 청주 센트럴파크",
+		"addr": "충청북도 청주시 흥덕구 신봉동 528번지 외 3필지",
+		"short_addr": "충청북도 청주시",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "청주시",
+		"apply_nums": "705세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000467&pblancNo=2025000467&houseSecd=01",
+		"in_date": "20251029",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "오룡2지구 지엔하임 37블록",
+		"addr": "전라남도 무안군 일로읍 오룡리 288(오룡지구 37BL)",
+		"short_addr": "전라남도 무안군",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "무안군",
+		"apply_nums": "371세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000468&pblancNo=2025000468&houseSecd=01",
+		"in_date": "20251029",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "오룡2지구 지엔하임 38블록",
+		"addr": "전라남도 무안군 일로읍 오룡리 290(오룡지구 38BL)",
+		"short_addr": "전라남도 무안군",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "무안군",
+		"apply_nums": "422세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000509&pblancNo=2025000509&houseSecd=01",
+		"in_date": "20251029",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "천안 휴먼빌 퍼스트시티",
+		"addr": "충청남도 천안시 서북구 부대동 416-1번지 일원",
+		"short_addr": "충청남도 천안시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "천안시",
+		"apply_nums": "1232세대"
 	}
 ]
