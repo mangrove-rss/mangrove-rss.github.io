@@ -1,14 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940251&pblancNo=2025940251&houseSecd=11",
-		"in_date": "20251018",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "호현 센트럴 아이파크(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940251&pblancNo=2025940251&houseSecd=11",
 		"in_date": "20251019",
 		"hsecd": "11",
 		"rse": "11",
@@ -655,6 +647,14 @@
 		"apply_nums": "1232세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850031&pblancNo=2025850031&houseSecd=03",
+		"in_date": "20251027",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "북수원 이목 시티프라디움 더 블리스"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910198&pblancNo=2025910198&houseSecd=04",
 		"in_date": "20251027",
 		"hsecd": "04",
@@ -879,6 +879,19 @@
 		"apply_nums": "27세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000508&pblancNo=2025000508&houseSecd=01",
+		"in_date": "20251031",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "제천 신백 선광로즈웰아파트 우선 분양전환 후 잔여세대",
+		"addr": "충청북도 제천시 신백동 209-8외 4필지",
+		"short_addr": "충청북도 제천시",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "제천시",
+		"apply_nums": "182세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000500&pblancNo=2025000500&houseSecd=01",
 		"in_date": "20251031",
 		"hsecd": "01",
@@ -890,5 +903,18 @@
 		"addr_lv1": "전북특별자치도",
 		"addr_lv2": "완주군",
 		"apply_nums": "27세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000508&pblancNo=2025000508&houseSecd=01",
+		"in_date": "20251103",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "제천 신백 선광로즈웰아파트 우선 분양전환 후 잔여세대",
+		"addr": "충청북도 제천시 신백동 209-8외 4필지",
+		"short_addr": "충청북도 제천시",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "제천시",
+		"apply_nums": "182세대"
 	}
 ]
