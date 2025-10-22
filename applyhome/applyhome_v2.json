@@ -1,13 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940251&pblancNo=2025940251&houseSecd=11",
-		"in_date": "20251019",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "호현 센트럴 아이파크(2차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000462&pblancNo=2025000462&houseSecd=01",
 		"in_date": "20251020",
 		"hsecd": "01",
@@ -655,6 +647,19 @@
 		"name": "북수원 이목 시티프라디움 더 블리스"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910199&pblancNo=2025910199&houseSecd=04",
+		"in_date": "20251027",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "서면 어반센트 데시앙",
+		"addr": "부산광역시 부산진구 부암동 690-8번지 일원",
+		"short_addr": "부산광역시 부산진구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "부산진구",
+		"apply_nums": "153세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910198&pblancNo=2025910198&houseSecd=04",
 		"in_date": "20251027",
 		"hsecd": "04",
@@ -760,6 +765,19 @@
 		"addr_lv1": "충청남도",
 		"addr_lv2": "천안시",
 		"apply_nums": "1232세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910204&pblancNo=2025910204&houseSecd=04",
+		"in_date": "20251028",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "김해율하 더스카이시티 제니스앤프라우",
+		"addr": "경상남도 김해시 장유로 500",
+		"short_addr": "경상남도 김해시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "김해시",
+		"apply_nums": "1세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910198&pblancNo=2025910198&houseSecd=04",
