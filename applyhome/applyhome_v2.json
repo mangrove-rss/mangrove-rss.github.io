@@ -1,147 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000462&pblancNo=2025000462&houseSecd=01",
-		"in_date": "20251021",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "더파크 비스타동원",
-		"addr": "부산광역시 사상구 감전동 산1-9일원",
-		"short_addr": "부산광역시 사상구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "사상구",
-		"apply_nums": "852세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000443&pblancNo=2025000443&houseSecd=01",
-		"in_date": "20251021",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "두산위브더제니스 구미",
-		"addr": "경상북도 구미시 광평동 227번지 일원",
-		"short_addr": "경상북도 구미시",
-		"addr_lv1": "경상북도",
-		"addr_lv2": "구미시",
-		"apply_nums": "403세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000449&pblancNo=2025000449&houseSecd=01",
-		"in_date": "20251021",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "회천중앙역 파라곤",
-		"addr": "경기도 양주시 회천지구 A10-1BL",
-		"short_addr": "경기도 양주시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "양주시",
-		"apply_nums": "845세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850030&pblancNo=2025850030&houseSecd=03",
-		"in_date": "20251021",
-		"hsecd": "03",
-		"rse": "04",
-		"type": "",
-		"name": "부경경마공원역 대방 디에트르 더리버(AP1BL)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950060&pblancNo=2025950060&houseSecd=02",
-		"in_date": "20251021",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "신대방역 더하이브퍼스트",
-		"addr": "서울특별시 관악구 신림동 505-1",
-		"short_addr": "서울특별시 관악구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "관악구",
-		"apply_nums": "141세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950064&pblancNo=2025950064&houseSecd=02",
-		"in_date": "20251021",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "청라 피크원 푸르지오",
-		"addr": "인천광역시 서구 청라동 86-6번지(인천경제자유구역 청라국제도시 B1BL) 일대",
-		"short_addr": "인천광역시 서구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "서구",
-		"apply_nums": "37세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950062&pblancNo=2025950062&houseSecd=02",
-		"in_date": "20251021",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "파크라움 여의도",
-		"addr": "서울특별시 영등포구 여의도동 17-4번지",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "17세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910195&pblancNo=2025910195&houseSecd=04",
-		"in_date": "20251021",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "망포역 푸르지오 르마크",
-		"addr": "경기도 수원시 영통구 영통동 980-2번지 일원",
-		"short_addr": "경기도 수원시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "수원시",
-		"apply_nums": "24세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910191&pblancNo=2025910191&houseSecd=04",
-		"in_date": "20251021",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "송도자이 더 스타(2차)",
-		"addr": "인천광역시 연수구 송도동 396-11 (A17블록)",
-		"short_addr": "인천광역시 연수구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "연수구",
-		"apply_nums": "13세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910190&pblancNo=2025910190&houseSecd=04",
-		"in_date": "20251021",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "에스아이팰리스 올림픽공원(6차)",
-		"addr": "서울특별시 강동구 성내동 459-3",
-		"short_addr": "서울특별시 강동구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강동구",
-		"apply_nums": "9세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940246&pblancNo=2025940246&houseSecd=11",
-		"in_date": "20251021",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "원종 휴먼빌 클라츠(4차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940251&pblancNo=2025940251&houseSecd=11",
-		"in_date": "20251021",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "호현 센트럴 아이파크(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000462&pblancNo=2025000462&houseSecd=01",
 		"in_date": "20251022",
 		"hsecd": "01",
 		"rse": "03",
@@ -725,6 +584,19 @@
 		"apply_nums": "1232세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910203&pblancNo=2025910203&houseSecd=04",
+		"in_date": "20251029",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "대방역 여의도 더로드캐슬",
+		"addr": "서울특별시 영등포구 신길동 449-11",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "36세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910200&pblancNo=2025910200&houseSecd=04",
 		"in_date": "20251029",
 		"hsecd": "04",
@@ -751,6 +623,32 @@
 		"apply_nums": "27세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910203&pblancNo=2025910203&houseSecd=04",
+		"in_date": "20251030",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "대방역 여의도 더로드캐슬",
+		"addr": "서울특별시 영등포구 신길동 449-11",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "36세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910206&pblancNo=2025910206&houseSecd=04",
+		"in_date": "20251030",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "세종 한신휴플러스,제일풍경채 M1블록(가온마을3단지 한신더휴)",
+		"addr": "세종특별자치시 다정북로 109",
+		"short_addr": "세종특별자치시 다정북로",
+		"addr_lv1": "세종특별자치시",
+		"addr_lv2": "다정북로",
+		"apply_nums": "1세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000508&pblancNo=2025000508&houseSecd=01",
 		"in_date": "20251031",
 		"hsecd": "01",
@@ -777,6 +675,19 @@
 		"apply_nums": "27세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000486&pblancNo=2025000486&houseSecd=01",
+		"in_date": "20251103",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "김천혁신도시 동일하이빌 파크레인",
+		"addr": "경상북도 김천시 율곡동 1126",
+		"short_addr": "경상북도 김천시",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "김천시",
+		"apply_nums": "349세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000472&pblancNo=2025000472&houseSecd=01",
 		"in_date": "20251103",
 		"hsecd": "01",
@@ -788,6 +699,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "안양시",
 		"apply_nums": "47세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000487&pblancNo=2025000487&houseSecd=01",
+		"in_date": "20251103",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "운정 아이파크 시티",
+		"addr": "파주메디컬클러스터 도시개발구역 A2BL (경기도 파주시 서패동 432번지 일원)",
+		"short_addr": "파주메디컬클러스터 도시개발구역",
+		"addr_lv1": "파주메디컬클러스터",
+		"addr_lv2": "도시개발구역",
+		"apply_nums": "3250세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000498&pblancNo=2025000498&houseSecd=01",
@@ -814,6 +738,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "김포시",
 		"apply_nums": "1524세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000512&pblancNo=2025000512&houseSecd=01",
+		"in_date": "20251103",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "효성해링턴 플레이스 영주 더리버",
+		"addr": "경상북도 영주시 휴천동 612-2일원",
+		"short_addr": "경상북도 영주시",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "영주시",
+		"apply_nums": "445세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000508&pblancNo=2025000508&houseSecd=01",
@@ -842,6 +779,19 @@
 		"apply_nums": "959세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000486&pblancNo=2025000486&houseSecd=01",
+		"in_date": "20251104",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "김천혁신도시 동일하이빌 파크레인",
+		"addr": "경상북도 김천시 율곡동 1126",
+		"short_addr": "경상북도 김천시",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "김천시",
+		"apply_nums": "349세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000472&pblancNo=2025000472&houseSecd=01",
 		"in_date": "20251104",
 		"hsecd": "01",
@@ -853,6 +803,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "안양시",
 		"apply_nums": "47세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000487&pblancNo=2025000487&houseSecd=01",
+		"in_date": "20251104",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "운정 아이파크 시티",
+		"addr": "파주메디컬클러스터 도시개발구역 A2BL (경기도 파주시 서패동 432번지 일원)",
+		"short_addr": "파주메디컬클러스터 도시개발구역",
+		"addr_lv1": "파주메디컬클러스터",
+		"addr_lv2": "도시개발구역",
+		"apply_nums": "3250세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000498&pblancNo=2025000498&houseSecd=01",
@@ -879,6 +842,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "김포시",
 		"apply_nums": "1524세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000512&pblancNo=2025000512&houseSecd=01",
+		"in_date": "20251104",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "효성해링턴 플레이스 영주 더리버",
+		"addr": "경상북도 영주시 휴천동 612-2일원",
+		"short_addr": "경상북도 영주시",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "영주시",
+		"apply_nums": "445세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000425&pblancNo=2025000425&houseSecd=01",
@@ -894,6 +870,19 @@
 		"apply_nums": "959세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000486&pblancNo=2025000486&houseSecd=01",
+		"in_date": "20251105",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "김천혁신도시 동일하이빌 파크레인",
+		"addr": "경상북도 김천시 율곡동 1126",
+		"short_addr": "경상북도 김천시",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "김천시",
+		"apply_nums": "349세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000472&pblancNo=2025000472&houseSecd=01",
 		"in_date": "20251105",
 		"hsecd": "01",
@@ -905,6 +894,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "안양시",
 		"apply_nums": "47세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000487&pblancNo=2025000487&houseSecd=01",
+		"in_date": "20251105",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "운정 아이파크 시티",
+		"addr": "파주메디컬클러스터 도시개발구역 A2BL (경기도 파주시 서패동 432번지 일원)",
+		"short_addr": "파주메디컬클러스터 도시개발구역",
+		"addr_lv1": "파주메디컬클러스터",
+		"addr_lv2": "도시개발구역",
+		"apply_nums": "3250세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000498&pblancNo=2025000498&houseSecd=01",
@@ -931,6 +933,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "김포시",
 		"apply_nums": "1524세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000512&pblancNo=2025000512&houseSecd=01",
+		"in_date": "20251105",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "효성해링턴 플레이스 영주 더리버",
+		"addr": "경상북도 영주시 휴천동 612-2일원",
+		"short_addr": "경상북도 영주시",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "영주시",
+		"apply_nums": "445세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000425&pblancNo=2025000425&houseSecd=01",
