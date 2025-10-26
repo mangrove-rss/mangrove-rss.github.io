@@ -1,71 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850018&pblancNo=2025850018&houseSecd=03",
-		"in_date": "20251023",
-		"hsecd": "03",
-		"rse": "04",
-		"type": "",
-		"name": "서면 지원 더뷰 드림아파트(공공지원민간임대)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950041&pblancNo=2025950041&houseSecd=02",
-		"in_date": "20251023",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "서면 지원 더뷰 드림오피스텔",
-		"addr": "부산광역시 부산진구 부전동 390-1",
-		"short_addr": "부산광역시 부산진구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "부산진구",
-		"apply_nums": "64세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950062&pblancNo=2025950062&houseSecd=02",
-		"in_date": "20251023",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "파크라움 여의도",
-		"addr": "서울특별시 영등포구 여의도동 17-4번지",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "17세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940255&pblancNo=2025940255&houseSecd=11",
-		"in_date": "20251023",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "구리 한양립스"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940261&pblancNo=2025940261&houseSecd=11",
-		"in_date": "20251023",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "대전 하늘채 루시에르(1회차) (임의공급 2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940259&pblancNo=2025940259&houseSecd=11",
-		"in_date": "20251023",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "리아츠 더 인천 (12차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940254&pblancNo=2025940254&houseSecd=11",
-		"in_date": "20251023",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "클러스터용인 경남아너스빌 (임의공급 2차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910198&pblancNo=2025910198&houseSecd=04",
 		"in_date": "20251024",
 		"hsecd": "04",
@@ -484,6 +418,22 @@
 		"apply_nums": "34세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940266&pblancNo=2025940266&houseSecd=11",
+		"in_date": "20251029",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "고촌센트럴자이(8차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940264&pblancNo=2025940264&houseSecd=11",
+		"in_date": "20251029",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "진위역 서희스타힐스 더 파크뷰(2차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000500&pblancNo=2025000500&houseSecd=01",
 		"in_date": "20251030",
 		"hsecd": "01",
@@ -521,6 +471,22 @@
 		"addr_lv1": "세종특별자치시",
 		"addr_lv2": "다정북로",
 		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940266&pblancNo=2025940266&houseSecd=11",
+		"in_date": "20251030",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "고촌센트럴자이(8차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940264&pblancNo=2025940264&houseSecd=11",
+		"in_date": "20251030",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "진위역 서희스타힐스 더 파크뷰(2차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000508&pblancNo=2025000508&houseSecd=01",
