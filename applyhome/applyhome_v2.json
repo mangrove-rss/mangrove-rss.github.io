@@ -1,35 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910198&pblancNo=2025910198&houseSecd=04",
-		"in_date": "20251025",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "어반클라쎄목동(9차)",
-		"addr": "서울특별시 양천구 신목로2길 7-12 (신정동, 어반클라쎄 목동)",
-		"short_addr": "서울특별시 양천구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "양천구",
-		"apply_nums": "7세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940259&pblancNo=2025940259&houseSecd=11",
-		"in_date": "20251025",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "리아츠 더 인천 (12차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940254&pblancNo=2025940254&houseSecd=11",
-		"in_date": "20251025",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "클러스터용인 경남아너스빌 (임의공급 2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910198&pblancNo=2025910198&houseSecd=04",
 		"in_date": "20251026",
 		"hsecd": "04",
 		"rse": "06",
@@ -460,6 +431,14 @@
 		"apply_nums": "27세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940267&pblancNo=2025940267&houseSecd=11",
+		"in_date": "20251031",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "부천아테라자이(부천괴안지구 B-2블록)(17차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000486&pblancNo=2025000486&houseSecd=01",
 		"in_date": "20251103",
 		"hsecd": "01",
@@ -549,6 +528,71 @@
 		"addr_lv1": "충청북도",
 		"addr_lv2": "제천시",
 		"apply_nums": "182세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950063&pblancNo=2025950063&houseSecd=02",
+		"in_date": "20251103",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "평촌 롯데캐슬 르씨엘",
+		"addr": "경기도 안양시 동안구 평촌동 934번지",
+		"short_addr": "경기도 안양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "안양시",
+		"apply_nums": "900세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910212&pblancNo=2025910212&houseSecd=04",
+		"in_date": "20251103",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "더샵 신문그리니티 2차",
+		"addr": "경상남도 김해시 신문동 신문1지구 A17-1블럭 일원",
+		"short_addr": "경상남도 김해시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "김해시",
+		"apply_nums": "2세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910194&pblancNo=2025910194&houseSecd=04",
+		"in_date": "20251103",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "평택 고덕국제신도시 힐스테이트 고덕 스카이시티",
+		"addr": "경기도 평택시 고덕국제대로 99, 힐스테이트 고덕 스카이시티",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "2세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910205&pblancNo=2025910205&houseSecd=04",
+		"in_date": "20251103",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "홍대입구역 센트럴 아르떼 해모로",
+		"addr": "서울특별시 마포구 동교동 200-2번지 일원",
+		"short_addr": "서울특별시 마포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "마포구",
+		"apply_nums": "8세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930049&pblancNo=2025930049&houseSecd=06",
+		"in_date": "20251103",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "대구 동인동 센트럴 대원칸타빌",
+		"addr": "대구광역시 중구 태평로224(동인동1가413)",
+		"short_addr": "대구광역시 중구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "3세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000425&pblancNo=2025000425&houseSecd=01",
@@ -744,5 +788,83 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "미추홀구",
 		"apply_nums": "959세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000506&pblancNo=2025000506&houseSecd=01",
+		"in_date": "20251107",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "엠타워 디루체",
+		"addr": "경기도 부천시 소사구 심곡로10번길 68 ",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "32세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000457&pblancNo=2025000457&houseSecd=01",
+		"in_date": "20251110",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "효성해링턴 플레이스 여수",
+		"addr": "전라남도 여수시 학동 75-2, 75-3, 75-5, 76-4번지",
+		"short_addr": "전라남도 여수시",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "여수시",
+		"apply_nums": "278세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000506&pblancNo=2025000506&houseSecd=01",
+		"in_date": "20251110",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "엠타워 디루체",
+		"addr": "경기도 부천시 소사구 심곡로10번길 68 ",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "32세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000457&pblancNo=2025000457&houseSecd=01",
+		"in_date": "20251111",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "효성해링턴 플레이스 여수",
+		"addr": "전라남도 여수시 학동 75-2, 75-3, 75-5, 76-4번지",
+		"short_addr": "전라남도 여수시",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "여수시",
+		"apply_nums": "278세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000457&pblancNo=2025000457&houseSecd=01",
+		"in_date": "20251112",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "효성해링턴 플레이스 여수",
+		"addr": "전라남도 여수시 학동 75-2, 75-3, 75-5, 76-4번지",
+		"short_addr": "전라남도 여수시",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "여수시",
+		"apply_nums": "278세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910209&pblancNo=2025910209&houseSecd=04",
+		"in_date": "20251112",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "e편한세상 시흥장현 퍼스트베뉴",
+		"addr": "경기도 시흥시 장현천로 155(시흥장현 공공주택지구 B-10블록)",
+		"short_addr": "경기도 시흥시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "시흥시",
+		"apply_nums": "2세대"
 	}
 ]
