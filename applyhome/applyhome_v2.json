@@ -427,6 +427,14 @@
 		"name": "고강역 중앙하이츠 포레"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940272&pblancNo=2025940272&houseSecd=11",
+		"in_date": "20251105",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "반월역 동문 디 이스트(3차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000425&pblancNo=2025000425&houseSecd=01",
 		"in_date": "20251106",
 		"hsecd": "01",
@@ -508,6 +516,14 @@
 		"name": "고강역 중앙하이츠 포레"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940272&pblancNo=2025940272&houseSecd=11",
+		"in_date": "20251106",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "반월역 동문 디 이스트(3차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000506&pblancNo=2025000506&houseSecd=01",
 		"in_date": "20251107",
 		"hsecd": "01",
@@ -532,6 +548,14 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "강서구",
 		"apply_nums": "6세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940272&pblancNo=2025940272&houseSecd=11",
+		"in_date": "20251107",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "반월역 동문 디 이스트(3차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950069&pblancNo=2025950069&houseSecd=02",
@@ -709,6 +733,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "강서구",
 		"apply_nums": "6세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910217&pblancNo=2025910217&houseSecd=04",
+		"in_date": "20251110",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "양평 우방아이유쉘 에코리버(3차)",
+		"addr": "경기도 양평군 강상면 병산2지구 공동주택용지 C블록 2롯트",
+		"short_addr": "경기도 양평군",
+		"addr_lv1": "경기도",
+		"addr_lv2": "양평군",
+		"apply_nums": "10세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000501&pblancNo=2025000501&houseSecd=01",
