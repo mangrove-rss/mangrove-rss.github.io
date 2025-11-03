@@ -524,6 +524,14 @@
 		"name": "반월역 동문 디 이스트(3차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940269&pblancNo=2025940269&houseSecd=11",
+		"in_date": "20251106",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "신도림역 동문 디 이스트(6차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000506&pblancNo=2025000506&houseSecd=01",
 		"in_date": "20251107",
 		"hsecd": "01",
@@ -556,6 +564,14 @@
 		"rse": "11",
 		"type": "",
 		"name": "반월역 동문 디 이스트(3차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940269&pblancNo=2025940269&houseSecd=11",
+		"in_date": "20251107",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "신도림역 동문 디 이스트(6차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950069&pblancNo=2025950069&houseSecd=02",
@@ -722,6 +738,14 @@
 		"name": "운정신도시 푸르지오 더 스마트"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850032&pblancNo=2025850032&houseSecd=03",
+		"in_date": "20251110",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "이천 신안실크밸리 2차"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950069&pblancNo=2025950069&houseSecd=02",
 		"in_date": "20251110",
 		"hsecd": "02",
@@ -746,6 +770,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "양평군",
 		"apply_nums": "10세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910216&pblancNo=2025910216&houseSecd=04",
+		"in_date": "20251110",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "오산 세교 우미 린 레이크시티(서2구역)",
+		"addr": "경기도 오산시 서동 40-2번지 일원(서2구역)",
+		"short_addr": "경기도 오산시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "오산시",
+		"apply_nums": "272세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000501&pblancNo=2025000501&houseSecd=01",
@@ -995,6 +1032,19 @@
 		"apply_nums": "2세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000551&pblancNo=2025000551&houseSecd=01",
+		"in_date": "20251113",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "동래 에코팰리스 아시아드 리안",
+		"addr": "부산광역시 동래구 온천동 1250-1번지 일원",
+		"short_addr": "부산광역시 동래구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "동래구",
+		"apply_nums": "291세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000527&pblancNo=2025000527&houseSecd=01",
 		"in_date": "20251113",
 		"hsecd": "01",
@@ -1006,5 +1056,31 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "서초구",
 		"apply_nums": "506세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000551&pblancNo=2025000551&houseSecd=01",
+		"in_date": "20251114",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "동래 에코팰리스 아시아드 리안",
+		"addr": "부산광역시 동래구 온천동 1250-1번지 일원",
+		"short_addr": "부산광역시 동래구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "동래구",
+		"apply_nums": "291세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000551&pblancNo=2025000551&houseSecd=01",
+		"in_date": "20251117",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "동래 에코팰리스 아시아드 리안",
+		"addr": "부산광역시 동래구 온천동 1250-1번지 일원",
+		"short_addr": "부산광역시 동래구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "동래구",
+		"apply_nums": "291세대"
 	}
 ]
