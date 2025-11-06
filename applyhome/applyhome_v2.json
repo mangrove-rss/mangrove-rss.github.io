@@ -1,161 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000486&pblancNo=2025000486&houseSecd=01",
-		"in_date": "20251103",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "김천혁신도시 동일하이빌 파크레인",
-		"addr": "경상북도 김천시 율곡동 1126",
-		"short_addr": "경상북도 김천시",
-		"addr_lv1": "경상북도",
-		"addr_lv2": "김천시",
-		"apply_nums": "349세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000472&pblancNo=2025000472&houseSecd=01",
-		"in_date": "20251103",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "만안역 중앙하이츠 포레",
-		"addr": "경기도 안양시 만안구 석수동 284-1",
-		"short_addr": "경기도 안양시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "안양시",
-		"apply_nums": "47세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000487&pblancNo=2025000487&houseSecd=01",
-		"in_date": "20251103",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "운정 아이파크 시티",
-		"addr": "파주메디컬클러스터 도시개발구역 A2BL (경기도 파주시 서패동 432번지 일원)",
-		"short_addr": "파주메디컬클러스터 도시개발구역",
-		"addr_lv1": "파주메디컬클러스터",
-		"addr_lv2": "도시개발구역",
-		"apply_nums": "3250세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000498&pblancNo=2025000498&houseSecd=01",
-		"in_date": "20251103",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "트리븐 서산",
-		"addr": "충청남도 서산시 예천동 688번지 일원",
-		"short_addr": "충청남도 서산시",
-		"addr_lv1": "충청남도",
-		"addr_lv2": "서산시",
-		"apply_nums": "829세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000514&pblancNo=2025000514&houseSecd=01",
-		"in_date": "20251103",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "풍무역 푸르지오 더 마크",
-		"addr": "경기도 김포시 사우동 428-3 일원 (풍무역세권 도시개발사업 B3블록)",
-		"short_addr": "경기도 김포시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "김포시",
-		"apply_nums": "1524세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000512&pblancNo=2025000512&houseSecd=01",
-		"in_date": "20251103",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "효성해링턴 플레이스 영주 더리버",
-		"addr": "경상북도 영주시 휴천동 612-2일원",
-		"short_addr": "경상북도 영주시",
-		"addr_lv1": "경상북도",
-		"addr_lv2": "영주시",
-		"apply_nums": "445세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000508&pblancNo=2025000508&houseSecd=01",
-		"in_date": "20251103",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "제천 신백 선광로즈웰아파트 우선 분양전환 후 잔여세대",
-		"addr": "충청북도 제천시 신백동 209-8외 4필지",
-		"short_addr": "충청북도 제천시",
-		"addr_lv1": "충청북도",
-		"addr_lv2": "제천시",
-		"apply_nums": "182세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950063&pblancNo=2025950063&houseSecd=02",
-		"in_date": "20251103",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "평촌 롯데캐슬 르씨엘",
-		"addr": "경기도 안양시 동안구 평촌동 934번지",
-		"short_addr": "경기도 안양시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "안양시",
-		"apply_nums": "900세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910212&pblancNo=2025910212&houseSecd=04",
-		"in_date": "20251103",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "더샵 신문그리니티 2차",
-		"addr": "경상남도 김해시 신문동 신문1지구 A17-1블럭 일원",
-		"short_addr": "경상남도 김해시",
-		"addr_lv1": "경상남도",
-		"addr_lv2": "김해시",
-		"apply_nums": "2세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910194&pblancNo=2025910194&houseSecd=04",
-		"in_date": "20251103",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "평택 고덕국제신도시 힐스테이트 고덕 스카이시티",
-		"addr": "경기도 평택시 고덕국제대로 99, 힐스테이트 고덕 스카이시티",
-		"short_addr": "경기도 평택시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "평택시",
-		"apply_nums": "2세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910205&pblancNo=2025910205&houseSecd=04",
-		"in_date": "20251103",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "홍대입구역 센트럴 아르떼 해모로",
-		"addr": "서울특별시 마포구 동교동 200-2번지 일원",
-		"short_addr": "서울특별시 마포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "마포구",
-		"apply_nums": "8세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930049&pblancNo=2025930049&houseSecd=06",
-		"in_date": "20251103",
-		"hsecd": "06",
-		"rse": "07",
-		"type": "",
-		"name": "대구 동인동 센트럴 대원칸타빌",
-		"addr": "대구광역시 중구 태평로224(동인동1가413)",
-		"short_addr": "대구광역시 중구",
-		"addr_lv1": "대구광역시",
-		"addr_lv2": "중구",
-		"apply_nums": "3세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000425&pblancNo=2025000425&houseSecd=01",
 		"in_date": "20251104",
 		"hsecd": "01",
@@ -1038,6 +882,19 @@
 		"apply_nums": "165세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930052&pblancNo=2025930052&houseSecd=06",
+		"in_date": "20251111",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "회천중앙역 로제비앙 그랜드센텀",
+		"addr": "경기도 양주시 회정동 양주신도시 회천지구 A11블록",
+		"short_addr": "경기도 양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "양주시",
+		"apply_nums": "2세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940270&pblancNo=2025940270&houseSecd=11",
 		"in_date": "20251111",
 		"hsecd": "11",
@@ -1158,6 +1015,19 @@
 		"apply_nums": "278세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950072&pblancNo=2025950072&houseSecd=02",
+		"in_date": "20251112",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "왕십리역 어반홈스",
+		"addr": "서울특별시 성동구 도선동 114,115번지",
+		"short_addr": "서울특별시 성동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "성동구",
+		"apply_nums": "22세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910209&pblancNo=2025910209&houseSecd=04",
 		"in_date": "20251112",
 		"hsecd": "04",
@@ -1171,6 +1041,19 @@
 		"apply_nums": "2세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910202&pblancNo=2025910202&houseSecd=04",
+		"in_date": "20251112",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "동탄신도시 금강펜테리움 6차 센트럴파크(A59블럭)(2차)",
+		"addr": "경기도 화성시 신동 동탄2택지개발지구(A-59블럭)",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "1세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910208&pblancNo=2025910208&houseSecd=04",
 		"in_date": "20251112",
 		"hsecd": "04",
@@ -1182,6 +1065,32 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "구리시",
 		"apply_nums": "211세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910207&pblancNo=2025910207&houseSecd=04",
+		"in_date": "20251112",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "힐스테이트 가야 2단지",
+		"addr": "부산광역시 부산진구 가야동 197-3번지 일원",
+		"short_addr": "부산광역시 부산진구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "부산진구",
+		"apply_nums": "51세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910218&pblancNo=2025910218&houseSecd=04",
+		"in_date": "20251112",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "힐스테이트 사직 아시아드",
+		"addr": "부산광역시 동래구 사직2동 630번지 일원",
+		"short_addr": "부산광역시 동래구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "동래구",
+		"apply_nums": "26세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940274&pblancNo=2025940274&houseSecd=11",
@@ -1218,6 +1127,19 @@
 		"apply_nums": "506세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950072&pblancNo=2025950072&houseSecd=02",
+		"in_date": "20251113",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "왕십리역 어반홈스",
+		"addr": "서울특별시 성동구 도선동 114,115번지",
+		"short_addr": "서울특별시 성동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "성동구",
+		"apply_nums": "22세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940274&pblancNo=2025940274&houseSecd=11",
 		"in_date": "20251113",
 		"hsecd": "11",
@@ -1252,12 +1174,77 @@
 		"apply_nums": "658세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950072&pblancNo=2025950072&houseSecd=02",
+		"in_date": "20251114",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "왕십리역 어반홈스",
+		"addr": "서울특별시 성동구 도선동 114,115번지",
+		"short_addr": "서울특별시 성동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "성동구",
+		"apply_nums": "22세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940274&pblancNo=2025940274&houseSecd=11",
 		"in_date": "20251114",
 		"hsecd": "11",
 		"rse": "11",
 		"type": "",
 		"name": "탑석 푸르지오 파크7"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950072&pblancNo=2025950072&houseSecd=02",
+		"in_date": "20251115",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "왕십리역 어반홈스",
+		"addr": "서울특별시 성동구 도선동 114,115번지",
+		"short_addr": "서울특별시 성동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "성동구",
+		"apply_nums": "22세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950072&pblancNo=2025950072&houseSecd=02",
+		"in_date": "20251116",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "왕십리역 어반홈스",
+		"addr": "서울특별시 성동구 도선동 114,115번지",
+		"short_addr": "서울특별시 성동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "성동구",
+		"apply_nums": "22세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000464&pblancNo=2025000464&houseSecd=01",
+		"in_date": "20251117",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "김해 안동 에피트",
+		"addr": "경상남도 김해시 안동 118-1번지 일원",
+		"short_addr": "경상남도 김해시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "김해시",
+		"apply_nums": "765세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000555&pblancNo=2025000555&houseSecd=01",
+		"in_date": "20251117",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "풍무역세권 수자인 그라센트 1차",
+		"addr": "경기도 김포시 풍무역세권도시개발사업 B2BL(사우동 173-1번지 일원)",
+		"short_addr": "경기도 김포시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "김포시",
+		"apply_nums": "1071세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000551&pblancNo=2025000551&houseSecd=01",
@@ -1284,5 +1271,115 @@
 		"addr_lv1": "부산광역시",
 		"addr_lv2": "강서구",
 		"apply_nums": "658세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950072&pblancNo=2025950072&houseSecd=02",
+		"in_date": "20251117",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "왕십리역 어반홈스",
+		"addr": "서울특별시 성동구 도선동 114,115번지",
+		"short_addr": "서울특별시 성동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "성동구",
+		"apply_nums": "22세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000464&pblancNo=2025000464&houseSecd=01",
+		"in_date": "20251118",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "김해 안동 에피트",
+		"addr": "경상남도 김해시 안동 118-1번지 일원",
+		"short_addr": "경상남도 김해시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "김해시",
+		"apply_nums": "765세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000555&pblancNo=2025000555&houseSecd=01",
+		"in_date": "20251118",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "풍무역세권 수자인 그라센트 1차",
+		"addr": "경기도 김포시 풍무역세권도시개발사업 B2BL(사우동 173-1번지 일원)",
+		"short_addr": "경기도 김포시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "김포시",
+		"apply_nums": "1071세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950072&pblancNo=2025950072&houseSecd=02",
+		"in_date": "20251118",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "왕십리역 어반홈스",
+		"addr": "서울특별시 성동구 도선동 114,115번지",
+		"short_addr": "서울특별시 성동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "성동구",
+		"apply_nums": "22세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000464&pblancNo=2025000464&houseSecd=01",
+		"in_date": "20251119",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "김해 안동 에피트",
+		"addr": "경상남도 김해시 안동 118-1번지 일원",
+		"short_addr": "경상남도 김해시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "김해시",
+		"apply_nums": "765세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000555&pblancNo=2025000555&houseSecd=01",
+		"in_date": "20251119",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "풍무역세권 수자인 그라센트 1차",
+		"addr": "경기도 김포시 풍무역세권도시개발사업 B2BL(사우동 173-1번지 일원)",
+		"short_addr": "경기도 김포시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "김포시",
+		"apply_nums": "1071세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940275&pblancNo=2025940275&houseSecd=11",
+		"in_date": "20251121",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "광명 소하 파크타워(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940275&pblancNo=2025940275&houseSecd=11",
+		"in_date": "20251122",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "광명 소하 파크타워(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940275&pblancNo=2025940275&houseSecd=11",
+		"in_date": "20251123",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "광명 소하 파크타워(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940275&pblancNo=2025940275&houseSecd=11",
+		"in_date": "20251124",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "광명 소하 파크타워(2차)"
 	}
 ]
