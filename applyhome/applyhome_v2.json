@@ -1,105 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000425&pblancNo=2025000425&houseSecd=01",
-		"in_date": "20251104",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "인하대역 수자인 로이센트",
-		"addr": "인천광역시 미추홀구 용현동 604-7번지 일원 (용현·학익 2-2블록 인하대역 1구역 내)",
-		"short_addr": "인천광역시 미추홀구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "미추홀구",
-		"apply_nums": "959세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000486&pblancNo=2025000486&houseSecd=01",
-		"in_date": "20251104",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "김천혁신도시 동일하이빌 파크레인",
-		"addr": "경상북도 김천시 율곡동 1126",
-		"short_addr": "경상북도 김천시",
-		"addr_lv1": "경상북도",
-		"addr_lv2": "김천시",
-		"apply_nums": "349세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000472&pblancNo=2025000472&houseSecd=01",
-		"in_date": "20251104",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "만안역 중앙하이츠 포레",
-		"addr": "경기도 안양시 만안구 석수동 284-1",
-		"short_addr": "경기도 안양시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "안양시",
-		"apply_nums": "47세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000487&pblancNo=2025000487&houseSecd=01",
-		"in_date": "20251104",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "운정 아이파크 시티",
-		"addr": "파주메디컬클러스터 도시개발구역 A2BL (경기도 파주시 서패동 432번지 일원)",
-		"short_addr": "파주메디컬클러스터 도시개발구역",
-		"addr_lv1": "파주메디컬클러스터",
-		"addr_lv2": "도시개발구역",
-		"apply_nums": "3250세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000498&pblancNo=2025000498&houseSecd=01",
-		"in_date": "20251104",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "트리븐 서산",
-		"addr": "충청남도 서산시 예천동 688번지 일원",
-		"short_addr": "충청남도 서산시",
-		"addr_lv1": "충청남도",
-		"addr_lv2": "서산시",
-		"apply_nums": "829세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000514&pblancNo=2025000514&houseSecd=01",
-		"in_date": "20251104",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "풍무역 푸르지오 더 마크",
-		"addr": "경기도 김포시 사우동 428-3 일원 (풍무역세권 도시개발사업 B3블록)",
-		"short_addr": "경기도 김포시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "김포시",
-		"apply_nums": "1524세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000512&pblancNo=2025000512&houseSecd=01",
-		"in_date": "20251104",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "효성해링턴 플레이스 영주 더리버",
-		"addr": "경상북도 영주시 휴천동 612-2일원",
-		"short_addr": "경상북도 영주시",
-		"addr_lv1": "경상북도",
-		"addr_lv2": "영주시",
-		"apply_nums": "445세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940265&pblancNo=2025940265&houseSecd=11",
-		"in_date": "20251104",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "고강역 중앙하이츠 포레"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000425&pblancNo=2025000425&houseSecd=01",
 		"in_date": "20251105",
 		"hsecd": "01",
 		"rse": "02",
@@ -1234,6 +1135,19 @@
 		"apply_nums": "765세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000515&pblancNo=2025000515&houseSecd=01",
+		"in_date": "20251117",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "문수로 코아루 에듀스카이",
+		"addr": "울산광역시 남구 신정동 1335-7번지 외 4필지",
+		"short_addr": "울산광역시 남구",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "123세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000555&pblancNo=2025000555&houseSecd=01",
 		"in_date": "20251117",
 		"hsecd": "01",
@@ -1245,6 +1159,32 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "김포시",
 		"apply_nums": "1071세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000469&pblancNo=2025000469&houseSecd=01",
+		"in_date": "20251117",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "효성해링턴 플레이스 양평",
+		"addr": "경기도 양평군 양평읍 오빈리 140-1번지 일원",
+		"short_addr": "경기도 양평군",
+		"addr_lv1": "경기도",
+		"addr_lv2": "양평군",
+		"apply_nums": "455세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000556&pblancNo=2025000556&houseSecd=01",
+		"in_date": "20251117",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "힐스테이트 광명 11",
+		"addr": "경기도 광명시 광명4동 158-403번지 및 철산4동 467-83번지 일원",
+		"short_addr": "경기도 광명시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "광명시",
+		"apply_nums": "652세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000551&pblancNo=2025000551&houseSecd=01",
@@ -1286,6 +1226,19 @@
 		"apply_nums": "22세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950038&pblancNo=2025950038&houseSecd=02",
+		"in_date": "20251117",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "청량리역 요진 와이시티 도시형생활주택",
+		"addr": "서울특별시 동대문구 청량리동 368번지 일원",
+		"short_addr": "서울특별시 동대문구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "동대문구",
+		"apply_nums": "130세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000464&pblancNo=2025000464&houseSecd=01",
 		"in_date": "20251118",
 		"hsecd": "01",
@@ -1299,6 +1252,19 @@
 		"apply_nums": "765세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000515&pblancNo=2025000515&houseSecd=01",
+		"in_date": "20251118",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "문수로 코아루 에듀스카이",
+		"addr": "울산광역시 남구 신정동 1335-7번지 외 4필지",
+		"short_addr": "울산광역시 남구",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "123세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000555&pblancNo=2025000555&houseSecd=01",
 		"in_date": "20251118",
 		"hsecd": "01",
@@ -1310,6 +1276,32 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "김포시",
 		"apply_nums": "1071세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000469&pblancNo=2025000469&houseSecd=01",
+		"in_date": "20251118",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "효성해링턴 플레이스 양평",
+		"addr": "경기도 양평군 양평읍 오빈리 140-1번지 일원",
+		"short_addr": "경기도 양평군",
+		"addr_lv1": "경기도",
+		"addr_lv2": "양평군",
+		"apply_nums": "455세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000556&pblancNo=2025000556&houseSecd=01",
+		"in_date": "20251118",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "힐스테이트 광명 11",
+		"addr": "경기도 광명시 광명4동 158-403번지 및 철산4동 467-83번지 일원",
+		"short_addr": "경기도 광명시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "광명시",
+		"apply_nums": "652세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950072&pblancNo=2025950072&houseSecd=02",
@@ -1338,6 +1330,19 @@
 		"apply_nums": "765세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000515&pblancNo=2025000515&houseSecd=01",
+		"in_date": "20251119",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "문수로 코아루 에듀스카이",
+		"addr": "울산광역시 남구 신정동 1335-7번지 외 4필지",
+		"short_addr": "울산광역시 남구",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "123세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000555&pblancNo=2025000555&houseSecd=01",
 		"in_date": "20251119",
 		"hsecd": "01",
@@ -1349,6 +1354,32 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "김포시",
 		"apply_nums": "1071세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000469&pblancNo=2025000469&houseSecd=01",
+		"in_date": "20251119",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "효성해링턴 플레이스 양평",
+		"addr": "경기도 양평군 양평읍 오빈리 140-1번지 일원",
+		"short_addr": "경기도 양평군",
+		"addr_lv1": "경기도",
+		"addr_lv2": "양평군",
+		"apply_nums": "455세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000556&pblancNo=2025000556&houseSecd=01",
+		"in_date": "20251119",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "힐스테이트 광명 11",
+		"addr": "경기도 광명시 광명4동 158-403번지 및 철산4동 467-83번지 일원",
+		"short_addr": "경기도 광명시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "광명시",
+		"apply_nums": "652세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940275&pblancNo=2025940275&houseSecd=11",
