@@ -88,5 +88,11 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ stars-141 ]]></showrss:showname>
 		</item>
+		<item>
+			<title><![CDATA[ xb-969 ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih:d4c7118abe6162103db7b296239638d5ae648303 ]]></link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ xb-969 ]]></showrss:showname>
+		</item>
 	</channel>
 </rss>
