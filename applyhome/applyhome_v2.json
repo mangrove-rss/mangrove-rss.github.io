@@ -1,102 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000425&pblancNo=2025000425&houseSecd=01",
-		"in_date": "20251106",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "인하대역 수자인 로이센트",
-		"addr": "인천광역시 미추홀구 용현동 604-7번지 일원 (용현·학익 2-2블록 인하대역 1구역 내)",
-		"short_addr": "인천광역시 미추홀구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "미추홀구",
-		"apply_nums": "959세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850029&pblancNo=2025850029&houseSecd=03",
-		"in_date": "20251106",
-		"hsecd": "03",
-		"rse": "04",
-		"type": "",
-		"name": "오산 세교2지구 M1블록 더샵 오산역아크시티"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950065&pblancNo=2025950065&houseSecd=02",
-		"in_date": "20251106",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "동탄2신도시 대방 엘리움 레이크파크",
-		"addr": "경기도 화성시 송동 725-9",
-		"short_addr": "경기도 화성시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "화성시",
-		"apply_nums": "4세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950067&pblancNo=2025950067&houseSecd=02",
-		"in_date": "20251106",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "동탄2신도시 동탄역 대방 엘리움 더 시그니처(C18BL)",
-		"addr": "경기도 화성시 오산동 동탄2택지개발지구 C18BL",
-		"short_addr": "경기도 화성시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "화성시",
-		"apply_nums": "8세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950066&pblancNo=2025950066&houseSecd=02",
-		"in_date": "20251106",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "동탄2신도시 동탄역 디에트르 퍼스티지",
-		"addr": "경기도 화성시 오산동 979번지",
-		"short_addr": "경기도 화성시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "화성시",
-		"apply_nums": "2세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950069&pblancNo=2025950069&houseSecd=02",
-		"in_date": "20251106",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "염창역 더채움",
-		"addr": "서울특별시 강서구 염창동 262-5번지",
-		"short_addr": "서울특별시 강서구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강서구",
-		"apply_nums": "6세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940265&pblancNo=2025940265&houseSecd=11",
-		"in_date": "20251106",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "고강역 중앙하이츠 포레"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940272&pblancNo=2025940272&houseSecd=11",
-		"in_date": "20251106",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "반월역 동문 디 이스트(3차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940269&pblancNo=2025940269&houseSecd=11",
-		"in_date": "20251106",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "신도림역 동문 디 이스트(6차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000506&pblancNo=2025000506&houseSecd=01",
 		"in_date": "20251107",
 		"hsecd": "01",
@@ -1059,6 +962,19 @@
 		"apply_nums": "130세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910220&pblancNo=2025910220&houseSecd=04",
+		"in_date": "20251117",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "파주운정 경남아너스빌 디원(A18블록) (2차)",
+		"addr": "경기도 파주시 파주운정3지구 A18BL 공동주택용지",
+		"short_addr": "경기도 파주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "파주시",
+		"apply_nums": "3세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000464&pblancNo=2025000464&houseSecd=01",
 		"in_date": "20251118",
 		"hsecd": "01",
@@ -1200,6 +1116,58 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "광명시",
 		"apply_nums": "652세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000530&pblancNo=2025000530&houseSecd=01",
+		"in_date": "20251120",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "남양주 별내리슈빌아파트 분양전환 후 잔여세대",
+		"addr": "경기도 남양주시 별내5로 119, 별내리슈빌 아파트",
+		"short_addr": "경기도 남양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "남양주시",
+		"apply_nums": "34세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000315&pblancNo=2025000315&houseSecd=01",
+		"in_date": "20251120",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "마린시티",
+		"addr": "경상북도 울진군 후포면 후포리 581-1",
+		"short_addr": "경상북도 울진군",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "울진군",
+		"apply_nums": "30세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000530&pblancNo=2025000530&houseSecd=01",
+		"in_date": "20251121",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "남양주 별내리슈빌아파트 분양전환 후 잔여세대",
+		"addr": "경기도 남양주시 별내5로 119, 별내리슈빌 아파트",
+		"short_addr": "경기도 남양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "남양주시",
+		"apply_nums": "34세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000315&pblancNo=2025000315&houseSecd=01",
+		"in_date": "20251121",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "마린시티",
+		"addr": "경상북도 울진군 후포면 후포리 581-1",
+		"short_addr": "경상북도 울진군",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "울진군",
+		"apply_nums": "30세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940275&pblancNo=2025940275&houseSecd=11",
