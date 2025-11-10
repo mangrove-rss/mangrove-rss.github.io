@@ -1,55 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000506&pblancNo=2025000506&houseSecd=01",
-		"in_date": "20251107",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "엠타워 디루체",
-		"addr": "경기도 부천시 소사구 심곡로10번길 68 ",
-		"short_addr": "경기도 부천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "부천시",
-		"apply_nums": "32세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950069&pblancNo=2025950069&houseSecd=02",
-		"in_date": "20251107",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "염창역 더채움",
-		"addr": "서울특별시 강서구 염창동 262-5번지",
-		"short_addr": "서울특별시 강서구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강서구",
-		"apply_nums": "6세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940272&pblancNo=2025940272&houseSecd=11",
-		"in_date": "20251107",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "반월역 동문 디 이스트(3차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940269&pblancNo=2025940269&houseSecd=11",
-		"in_date": "20251107",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "신도림역 동문 디 이스트(6차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940273&pblancNo=2025940273&houseSecd=11",
-		"in_date": "20251107",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "원종 휴먼빌 클라츠(5차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950069&pblancNo=2025950069&houseSecd=02",
 		"in_date": "20251108",
 		"hsecd": "02",
@@ -725,6 +675,14 @@
 		"name": "탑석 푸르지오 파크7"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940271&pblancNo=2025940271&houseSecd=11",
+		"in_date": "20251112",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "힐스테이트 용인마크밸리(3차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000551&pblancNo=2025000551&houseSecd=01",
 		"in_date": "20251113",
 		"hsecd": "01",
@@ -772,6 +730,22 @@
 		"name": "탑석 푸르지오 파크7"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940277&pblancNo=2025940277&houseSecd=11",
+		"in_date": "20251113",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "힐스테이트 레이크 송도 4차(임의공급 3차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940271&pblancNo=2025940271&houseSecd=11",
+		"in_date": "20251113",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "힐스테이트 용인마크밸리(3차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000551&pblancNo=2025000551&houseSecd=01",
 		"in_date": "20251114",
 		"hsecd": "01",
@@ -819,6 +793,22 @@
 		"name": "탑석 푸르지오 파크7"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940277&pblancNo=2025940277&houseSecd=11",
+		"in_date": "20251114",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "힐스테이트 레이크 송도 4차(임의공급 3차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940271&pblancNo=2025940271&houseSecd=11",
+		"in_date": "20251114",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "힐스테이트 용인마크밸리(3차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950072&pblancNo=2025950072&houseSecd=02",
 		"in_date": "20251115",
 		"hsecd": "02",
@@ -832,6 +822,14 @@
 		"apply_nums": "22세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940271&pblancNo=2025940271&houseSecd=11",
+		"in_date": "20251115",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "힐스테이트 용인마크밸리(3차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950072&pblancNo=2025950072&houseSecd=02",
 		"in_date": "20251116",
 		"hsecd": "02",
@@ -843,6 +841,14 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "성동구",
 		"apply_nums": "22세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940271&pblancNo=2025940271&houseSecd=11",
+		"in_date": "20251116",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "힐스테이트 용인마크밸리(3차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000464&pblancNo=2025000464&houseSecd=01",
@@ -949,6 +955,19 @@
 		"apply_nums": "22세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950070&pblancNo=2025950070&houseSecd=02",
+		"in_date": "20251117",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "잠실 테라412",
+		"addr": "서울특별시 송파구 방이동 41-2",
+		"short_addr": "서울특별시 송파구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "송파구",
+		"apply_nums": "16세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950038&pblancNo=2025950038&houseSecd=02",
 		"in_date": "20251117",
 		"hsecd": "02",
@@ -962,6 +981,32 @@
 		"apply_nums": "130세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910213&pblancNo=2025910213&houseSecd=04",
+		"in_date": "20251117",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "베뉴브 해운대",
+		"addr": "부산광역시 해운대구 우동 1074번지 일원",
+		"short_addr": "부산광역시 해운대구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "해운대구",
+		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910225&pblancNo=2025910225&houseSecd=04",
+		"in_date": "20251117",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "상봉 센트럴 아이파크",
+		"addr": "서울특별시 중랑구 망우동 506-1",
+		"short_addr": "서울특별시 중랑구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "중랑구",
+		"apply_nums": "115세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910220&pblancNo=2025910220&houseSecd=04",
 		"in_date": "20251117",
 		"hsecd": "04",
@@ -973,6 +1018,27 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "파주시",
 		"apply_nums": "3세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910224&pblancNo=2025910224&houseSecd=04",
+		"in_date": "20251117",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "한화포레나 울산무거",
+		"addr": "울산광역시 남구 무거동 1422-5번지 일원",
+		"short_addr": "울산광역시 남구",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "8세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940271&pblancNo=2025940271&houseSecd=11",
+		"in_date": "20251117",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "힐스테이트 용인마크밸리(3차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000464&pblancNo=2025000464&houseSecd=01",
@@ -1051,6 +1117,27 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "성동구",
 		"apply_nums": "22세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950070&pblancNo=2025950070&houseSecd=02",
+		"in_date": "20251118",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "잠실 테라412",
+		"addr": "서울특별시 송파구 방이동 41-2",
+		"short_addr": "서울특별시 송파구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "송파구",
+		"apply_nums": "16세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940271&pblancNo=2025940271&houseSecd=11",
+		"in_date": "20251118",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "힐스테이트 용인마크밸리(3차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000464&pblancNo=2025000464&houseSecd=01",
