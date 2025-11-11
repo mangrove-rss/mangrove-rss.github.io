@@ -1,19 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950069&pblancNo=2025950069&houseSecd=02",
-		"in_date": "20251108",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "염창역 더채움",
-		"addr": "서울특별시 강서구 염창동 262-5번지",
-		"short_addr": "서울특별시 강서구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강서구",
-		"apply_nums": "6세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950069&pblancNo=2025950069&houseSecd=02",
 		"in_date": "20251109",
 		"hsecd": "02",
 		"rse": "05",
@@ -785,12 +772,28 @@
 		"apply_nums": "22세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940280&pblancNo=2025940280&houseSecd=11",
+		"in_date": "20251114",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "상봉 라온프라이빗"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940274&pblancNo=2025940274&houseSecd=11",
 		"in_date": "20251114",
 		"hsecd": "11",
 		"rse": "11",
 		"type": "",
 		"name": "탑석 푸르지오 파크7"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940279&pblancNo=2025940279&houseSecd=11",
+		"in_date": "20251114",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "평택화양 서희스타힐스 센트럴파크"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940277&pblancNo=2025940277&houseSecd=11",
@@ -1005,6 +1008,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "중랑구",
 		"apply_nums": "115세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910219&pblancNo=2025910219&houseSecd=04",
+		"in_date": "20251117",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "에코델타시티 푸르지오 트레파크(11BL)",
+		"addr": "부산광역시 강서구 강동동 일원(에코델타시티 11BL)",
+		"short_addr": "부산광역시 강서구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "강서구",
+		"apply_nums": "19세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910220&pblancNo=2025910220&houseSecd=04",
@@ -1287,5 +1303,18 @@
 		"rse": "11",
 		"type": "",
 		"name": "광명 소하 파크타워(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950073&pblancNo=2025950073&houseSecd=02",
+		"in_date": "20251125",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "보라매 휴마레",
+		"addr": "서울특별시 동작구 신대방동 725",
+		"short_addr": "서울특별시 동작구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "동작구",
+		"apply_nums": "5세대"
 	}
 ]
