@@ -1,18 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950069&pblancNo=2025950069&houseSecd=02",
-		"in_date": "20251109",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "염창역 더채움",
-		"addr": "서울특별시 강서구 염창동 262-5번지",
-		"short_addr": "서울특별시 강서구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강서구",
-		"apply_nums": "6세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000501&pblancNo=2025000501&houseSecd=01",
 		"in_date": "20251110",
 		"hsecd": "01",
@@ -1122,6 +1109,14 @@
 		"apply_nums": "652세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850034&pblancNo=2025850034&houseSecd=03",
+		"in_date": "20251118",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "부경경마공원역 대방 디에트르 더리버(AP1BL)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950072&pblancNo=2025950072&houseSecd=02",
 		"in_date": "20251118",
 		"hsecd": "02",
@@ -1219,6 +1214,14 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "광명시",
 		"apply_nums": "652세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850034&pblancNo=2025850034&houseSecd=03",
+		"in_date": "20251119",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "부경경마공원역 대방 디에트르 더리버(AP1BL)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000530&pblancNo=2025000530&houseSecd=01",
