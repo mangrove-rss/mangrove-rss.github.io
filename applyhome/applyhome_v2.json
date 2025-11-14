@@ -1,190 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000501&pblancNo=2025000501&houseSecd=01",
-		"in_date": "20251111",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "더샵 분당티에르원",
-		"addr": "경기도 성남시 분당구 정자동 88번지 일원",
-		"short_addr": "경기도 성남시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "성남시",
-		"apply_nums": "102세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000541&pblancNo=2025000541&houseSecd=01",
-		"in_date": "20251111",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "도룡자이 라피크",
-		"addr": "대전광역시 유성구 도룡동 382번지 일원",
-		"short_addr": "대전광역시 유성구",
-		"addr_lv1": "대전광역시",
-		"addr_lv2": "유성구",
-		"apply_nums": "299세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000527&pblancNo=2025000527&houseSecd=01",
-		"in_date": "20251111",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "반포 래미안 트리니원",
-		"addr": "서울특별시 서초구 반포동 1109번지 일대",
-		"short_addr": "서울특별시 서초구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "서초구",
-		"apply_nums": "506세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000529&pblancNo=2025000529&houseSecd=01",
-		"in_date": "20251111",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "브레인시티 비스타동원",
-		"addr": "경기도 평택시 장안동 평택브레인시티 일반산업단지 공동4BL",
-		"short_addr": "경기도 평택시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "평택시",
-		"apply_nums": "1600세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000295&pblancNo=2025000295&houseSecd=01",
-		"in_date": "20251111",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "엘리프 한신더휴 수원 C3블록(본청약)",
-		"addr": "경기도 수원시 권선구 당수1지구 공공주택지구 내 C3블록",
-		"short_addr": "경기도 수원시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "수원시",
-		"apply_nums": "440세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000307&pblancNo=2025000307&houseSecd=01",
-		"in_date": "20251111",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "엘리프 한신더휴 수원 D3블록(본청약)",
-		"addr": "경기도 수원시 권선구 당수1지구 공공주택지구 내 D3블록",
-		"short_addr": "경기도 수원시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "수원시",
-		"apply_nums": "640세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000519&pblancNo=2025000519&houseSecd=01",
-		"in_date": "20251111",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "해링턴플레이스 명륜역",
-		"addr": "부산광역시 동래구 온천동 460-24번지 일원",
-		"short_addr": "부산광역시 동래구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "동래구",
-		"apply_nums": "242세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000457&pblancNo=2025000457&houseSecd=01",
-		"in_date": "20251111",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "효성해링턴 플레이스 여수",
-		"addr": "전라남도 여수시 학동 75-2, 75-3, 75-5, 76-4번지",
-		"short_addr": "전라남도 여수시",
-		"addr_lv1": "전라남도",
-		"addr_lv2": "여수시",
-		"apply_nums": "278세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000535&pblancNo=2025000535&houseSecd=01",
-		"in_date": "20251111",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "두류센트레빌 더 파크(조합원 취소분)(2회차)",
-		"addr": "대구광역시 달서구 두류동 638-19번지 일원",
-		"short_addr": "대구광역시 달서구",
-		"addr_lv1": "대구광역시",
-		"addr_lv2": "달서구",
-		"apply_nums": "1세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950071&pblancNo=2025950071&houseSecd=02",
-		"in_date": "20251111",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "북수원자이렉스비아",
-		"addr": "경기도 수원시 장안구 정자동 530-6번지 일원 (111-1구역주택재개발정비사업)",
-		"short_addr": "경기도 수원시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "수원시",
-		"apply_nums": "40세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950069&pblancNo=2025950069&houseSecd=02",
-		"in_date": "20251111",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "염창역 더채움",
-		"addr": "서울특별시 강서구 염창동 262-5번지",
-		"short_addr": "서울특별시 강서구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강서구",
-		"apply_nums": "6세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910211&pblancNo=2025910211&houseSecd=04",
-		"in_date": "20251111",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "두산위브앤수자인 부평 더퍼스트",
-		"addr": "인천광역시 부평구 부개동 13-5번지 일원",
-		"short_addr": "인천광역시 부평구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "부평구",
-		"apply_nums": "165세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930052&pblancNo=2025930052&houseSecd=06",
-		"in_date": "20251111",
-		"hsecd": "06",
-		"rse": "07",
-		"type": "",
-		"name": "회천중앙역 로제비앙 그랜드센텀",
-		"addr": "경기도 양주시 회정동 양주신도시 회천지구 A11블록",
-		"short_addr": "경기도 양주시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "양주시",
-		"apply_nums": "2세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940270&pblancNo=2025940270&houseSecd=11",
-		"in_date": "20251111",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "개봉 루브루(10차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940274&pblancNo=2025940274&houseSecd=11",
-		"in_date": "20251111",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "탑석 푸르지오 파크7"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000527&pblancNo=2025000527&houseSecd=01",
 		"in_date": "20251112",
 		"hsecd": "01",
@@ -877,6 +692,19 @@
 		"name": "힐스테이트 용인마크밸리(3차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000565&pblancNo=2025000565&houseSecd=01",
+		"in_date": "20251119",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "대상 웰라움 순창",
+		"addr": "전북특별자치도 순창군 순창읍 순화리 951 번지 일원",
+		"short_addr": "전북특별자치도 순창군",
+		"addr_lv1": "전북특별자치도",
+		"addr_lv2": "순창군",
+		"apply_nums": "264세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000464&pblancNo=2025000464&houseSecd=01",
 		"in_date": "20251119",
 		"hsecd": "01",
@@ -976,6 +804,32 @@
 		"apply_nums": "94세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910222&pblancNo=2025910222&houseSecd=04",
+		"in_date": "20251119",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "청주 롯데캐슬 시그니처",
+		"addr": "충청북도 청주시 흥덕구 강서동40-41번지 일원",
+		"short_addr": "충청북도 청주시",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "청주시",
+		"apply_nums": "178세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930051&pblancNo=2025930051&houseSecd=06",
+		"in_date": "20251119",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "배방 필하우스 리버시티",
+		"addr": "충청남도 아산시 배방읍 북수리 1577,1578번지",
+		"short_addr": "충청남도 아산시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "아산시",
+		"apply_nums": "1세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930053&pblancNo=2025930053&houseSecd=06",
 		"in_date": "20251119",
 		"hsecd": "06",
@@ -1002,6 +856,19 @@
 		"apply_nums": "34세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000565&pblancNo=2025000565&houseSecd=01",
+		"in_date": "20251120",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "대상 웰라움 순창",
+		"addr": "전북특별자치도 순창군 순창읍 순화리 951 번지 일원",
+		"short_addr": "전북특별자치도 순창군",
+		"addr_lv1": "전북특별자치도",
+		"addr_lv2": "순창군",
+		"apply_nums": "264세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000315&pblancNo=2025000315&houseSecd=01",
 		"in_date": "20251120",
 		"hsecd": "01",
@@ -1041,6 +908,14 @@
 		"apply_nums": "4세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940283&pblancNo=2025940283&houseSecd=11",
+		"in_date": "20251120",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "방배 더 유엘 포레"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000530&pblancNo=2025000530&houseSecd=01",
 		"in_date": "20251121",
 		"hsecd": "01",
@@ -1052,6 +927,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "남양주시",
 		"apply_nums": "34세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000565&pblancNo=2025000565&houseSecd=01",
+		"in_date": "20251121",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "대상 웰라움 순창",
+		"addr": "전북특별자치도 순창군 순창읍 순화리 951 번지 일원",
+		"short_addr": "전북특별자치도 순창군",
+		"addr_lv1": "전북특별자치도",
+		"addr_lv2": "순창군",
+		"apply_nums": "264세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000315&pblancNo=2025000315&houseSecd=01",
@@ -1088,6 +976,14 @@
 		"name": "광명 소하 파크타워(2차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940283&pblancNo=2025940283&houseSecd=11",
+		"in_date": "20251121",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "방배 더 유엘 포레"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950075&pblancNo=2025950075&houseSecd=02",
 		"in_date": "20251122",
 		"hsecd": "02",
@@ -1130,6 +1026,84 @@
 		"name": "광명 소하 파크타워(2차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000537&pblancNo=2025000537&houseSecd=01",
+		"in_date": "20251124",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "성남복정1지구 B1블록 복정역 에피트",
+		"addr": "경기도 성남시 수정구 복정동 243번지 일원",
+		"short_addr": "경기도 성남시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "성남시",
+		"apply_nums": "315세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000420&pblancNo=2025000420&houseSecd=01",
+		"in_date": "20251124",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "성산 더리브 포레스트",
+		"addr": "경상남도 창원시 성산구 신촌동 34-1번지 일원 ",
+		"short_addr": "경상남도 창원시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "창원시",
+		"apply_nums": "143세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000532&pblancNo=2025000532&houseSecd=01",
+		"in_date": "20251124",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "송천 아르티엠 더 숲",
+		"addr": "전북특별자치도 전주시 덕진구 송천동1가 12-4번지 일원",
+		"short_addr": "전북특별자치도 전주시",
+		"addr_lv1": "전북특별자치도",
+		"addr_lv2": "전주시",
+		"apply_nums": "244세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000546&pblancNo=2025000546&houseSecd=01",
+		"in_date": "20251124",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "시흥거모지구 대방 엘리움 더 루체Ⅰ(S-2BL)",
+		"addr": "경기도 시흥시 시흥거모 공공주택지구 S-2블럭(경기도 시흥시 거모동 일원)",
+		"short_addr": "경기도 시흥시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "시흥시",
+		"apply_nums": "382세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000547&pblancNo=2025000547&houseSecd=01",
+		"in_date": "20251124",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "시흥거모지구 대방 엘리움 더 루체Ⅱ(B-2BL)",
+		"addr": "경기도 시흥시 시흥거모 공공주택지구 B-2블럭(경기도 시흥시 거모동 일원)",
+		"short_addr": "경기도 시흥시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "시흥시",
+		"apply_nums": "270세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000550&pblancNo=2025000550&houseSecd=01",
+		"in_date": "20251124",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "엘리프 원종",
+		"addr": "경기도 부천시 오정구 원종동 298-1번지 일원",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "98세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000542&pblancNo=2025000542&houseSecd=01",
 		"in_date": "20251124",
 		"hsecd": "01",
@@ -1154,6 +1128,19 @@
 		"addr_lv1": "충청남도",
 		"addr_lv2": "천안시",
 		"apply_nums": "48세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000526&pblancNo=2025000526&houseSecd=01",
+		"in_date": "20251124",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "김해율하 더스카이시티 제니스앤프라우(조합원취소분)",
+		"addr": "경상남도 김해시 장유로 500",
+		"short_addr": "경상남도 김해시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "김해시",
+		"apply_nums": "27세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950075&pblancNo=2025950075&houseSecd=02",
@@ -1177,6 +1164,84 @@
 		"name": "광명 소하 파크타워(2차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000537&pblancNo=2025000537&houseSecd=01",
+		"in_date": "20251125",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "성남복정1지구 B1블록 복정역 에피트",
+		"addr": "경기도 성남시 수정구 복정동 243번지 일원",
+		"short_addr": "경기도 성남시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "성남시",
+		"apply_nums": "315세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000420&pblancNo=2025000420&houseSecd=01",
+		"in_date": "20251125",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "성산 더리브 포레스트",
+		"addr": "경상남도 창원시 성산구 신촌동 34-1번지 일원 ",
+		"short_addr": "경상남도 창원시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "창원시",
+		"apply_nums": "143세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000532&pblancNo=2025000532&houseSecd=01",
+		"in_date": "20251125",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "송천 아르티엠 더 숲",
+		"addr": "전북특별자치도 전주시 덕진구 송천동1가 12-4번지 일원",
+		"short_addr": "전북특별자치도 전주시",
+		"addr_lv1": "전북특별자치도",
+		"addr_lv2": "전주시",
+		"apply_nums": "244세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000546&pblancNo=2025000546&houseSecd=01",
+		"in_date": "20251125",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "시흥거모지구 대방 엘리움 더 루체Ⅰ(S-2BL)",
+		"addr": "경기도 시흥시 시흥거모 공공주택지구 S-2블럭(경기도 시흥시 거모동 일원)",
+		"short_addr": "경기도 시흥시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "시흥시",
+		"apply_nums": "382세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000547&pblancNo=2025000547&houseSecd=01",
+		"in_date": "20251125",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "시흥거모지구 대방 엘리움 더 루체Ⅱ(B-2BL)",
+		"addr": "경기도 시흥시 시흥거모 공공주택지구 B-2블럭(경기도 시흥시 거모동 일원)",
+		"short_addr": "경기도 시흥시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "시흥시",
+		"apply_nums": "270세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000550&pblancNo=2025000550&houseSecd=01",
+		"in_date": "20251125",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "엘리프 원종",
+		"addr": "경기도 부천시 오정구 원종동 298-1번지 일원",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "98세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000542&pblancNo=2025000542&houseSecd=01",
 		"in_date": "20251125",
 		"hsecd": "01",
@@ -1201,6 +1266,19 @@
 		"addr_lv1": "충청남도",
 		"addr_lv2": "천안시",
 		"apply_nums": "48세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000526&pblancNo=2025000526&houseSecd=01",
+		"in_date": "20251125",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "김해율하 더스카이시티 제니스앤프라우(조합원취소분)",
+		"addr": "경상남도 김해시 장유로 500",
+		"short_addr": "경상남도 김해시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "김해시",
+		"apply_nums": "27세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950075&pblancNo=2025950075&houseSecd=02",
@@ -1229,6 +1307,84 @@
 		"apply_nums": "5세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000537&pblancNo=2025000537&houseSecd=01",
+		"in_date": "20251126",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "성남복정1지구 B1블록 복정역 에피트",
+		"addr": "경기도 성남시 수정구 복정동 243번지 일원",
+		"short_addr": "경기도 성남시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "성남시",
+		"apply_nums": "315세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000420&pblancNo=2025000420&houseSecd=01",
+		"in_date": "20251126",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "성산 더리브 포레스트",
+		"addr": "경상남도 창원시 성산구 신촌동 34-1번지 일원 ",
+		"short_addr": "경상남도 창원시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "창원시",
+		"apply_nums": "143세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000532&pblancNo=2025000532&houseSecd=01",
+		"in_date": "20251126",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "송천 아르티엠 더 숲",
+		"addr": "전북특별자치도 전주시 덕진구 송천동1가 12-4번지 일원",
+		"short_addr": "전북특별자치도 전주시",
+		"addr_lv1": "전북특별자치도",
+		"addr_lv2": "전주시",
+		"apply_nums": "244세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000546&pblancNo=2025000546&houseSecd=01",
+		"in_date": "20251126",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "시흥거모지구 대방 엘리움 더 루체Ⅰ(S-2BL)",
+		"addr": "경기도 시흥시 시흥거모 공공주택지구 S-2블럭(경기도 시흥시 거모동 일원)",
+		"short_addr": "경기도 시흥시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "시흥시",
+		"apply_nums": "382세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000547&pblancNo=2025000547&houseSecd=01",
+		"in_date": "20251126",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "시흥거모지구 대방 엘리움 더 루체Ⅱ(B-2BL)",
+		"addr": "경기도 시흥시 시흥거모 공공주택지구 B-2블럭(경기도 시흥시 거모동 일원)",
+		"short_addr": "경기도 시흥시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "시흥시",
+		"apply_nums": "270세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000550&pblancNo=2025000550&houseSecd=01",
+		"in_date": "20251126",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "엘리프 원종",
+		"addr": "경기도 부천시 오정구 원종동 298-1번지 일원",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "98세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000542&pblancNo=2025000542&houseSecd=01",
 		"in_date": "20251126",
 		"hsecd": "01",
@@ -1253,5 +1409,18 @@
 		"addr_lv1": "충청남도",
 		"addr_lv2": "천안시",
 		"apply_nums": "48세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000537&pblancNo=2025000537&houseSecd=01",
+		"in_date": "20251127",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "성남복정1지구 B1블록 복정역 에피트",
+		"addr": "경기도 성남시 수정구 복정동 243번지 일원",
+		"short_addr": "경기도 성남시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "성남시",
+		"apply_nums": "315세대"
 	}
 ]
