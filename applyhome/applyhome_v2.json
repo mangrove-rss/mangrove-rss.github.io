@@ -1,84 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000551&pblancNo=2025000551&houseSecd=01",
-		"in_date": "20251114",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "동래 에코팰리스 아시아드 리안",
-		"addr": "부산광역시 동래구 온천동 1250-1번지 일원",
-		"short_addr": "부산광역시 동래구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "동래구",
-		"apply_nums": "291세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000548&pblancNo=2025000548&houseSecd=01",
-		"in_date": "20251114",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "명지화전 우방아이유쉘 우선분양전환 후 잔여세대(2차)",
-		"addr": "부산광역시 강서구 화전동 558",
-		"short_addr": "부산광역시 강서구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "강서구",
-		"apply_nums": "658세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950072&pblancNo=2025950072&houseSecd=02",
-		"in_date": "20251114",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "왕십리역 어반홈스",
-		"addr": "서울특별시 성동구 도선동 114,115번지",
-		"short_addr": "서울특별시 성동구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "성동구",
-		"apply_nums": "22세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940280&pblancNo=2025940280&houseSecd=11",
-		"in_date": "20251114",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "상봉 라온프라이빗"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940274&pblancNo=2025940274&houseSecd=11",
-		"in_date": "20251114",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "탑석 푸르지오 파크7"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940279&pblancNo=2025940279&houseSecd=11",
-		"in_date": "20251114",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "평택화양 서희스타힐스 센트럴파크"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940277&pblancNo=2025940277&houseSecd=11",
-		"in_date": "20251114",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "힐스테이트 레이크 송도 4차(임의공급 3차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940271&pblancNo=2025940271&houseSecd=11",
-		"in_date": "20251114",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "힐스테이트 용인마크밸리(3차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950072&pblancNo=2025950072&houseSecd=02",
 		"in_date": "20251115",
 		"hsecd": "02",
@@ -582,12 +503,36 @@
 		"apply_nums": "4세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940284&pblancNo=2025940284&houseSecd=11",
+		"in_date": "20251119",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천 (13차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940281&pblancNo=2025940281&houseSecd=11",
+		"in_date": "20251119",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "브라운스톤 인터포레(4차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940278&pblancNo=2025940278&houseSecd=11",
 		"in_date": "20251119",
 		"hsecd": "11",
 		"rse": "11",
 		"type": "",
 		"name": "오산 SK VIEW 1차"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940276&pblancNo=2025940276&houseSecd=11",
+		"in_date": "20251119",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "효성해링턴 플레이스 목감역(2차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000530&pblancNo=2025000530&houseSecd=01",
@@ -655,12 +600,28 @@
 		"apply_nums": "4세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940284&pblancNo=2025940284&houseSecd=11",
+		"in_date": "20251120",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천 (13차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940283&pblancNo=2025940283&houseSecd=11",
 		"in_date": "20251120",
 		"hsecd": "11",
 		"rse": "11",
 		"type": "",
 		"name": "방배 더 유엘 포레"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940276&pblancNo=2025940276&houseSecd=11",
+		"in_date": "20251120",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "효성해링턴 플레이스 목감역(2차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000530&pblancNo=2025000530&houseSecd=01",
@@ -723,6 +684,14 @@
 		"name": "광명 소하 파크타워(2차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940284&pblancNo=2025940284&houseSecd=11",
+		"in_date": "20251121",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천 (13차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940283&pblancNo=2025940283&houseSecd=11",
 		"in_date": "20251121",
 		"hsecd": "11",
@@ -752,6 +721,14 @@
 		"name": "광명 소하 파크타워(2차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940284&pblancNo=2025940284&houseSecd=11",
+		"in_date": "20251122",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천 (13차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950075&pblancNo=2025950075&houseSecd=02",
 		"in_date": "20251123",
 		"hsecd": "02",
@@ -771,6 +748,14 @@
 		"rse": "11",
 		"type": "",
 		"name": "광명 소하 파크타워(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940284&pblancNo=2025940284&houseSecd=11",
+		"in_date": "20251123",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천 (13차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000537&pblancNo=2025000537&houseSecd=01",
@@ -903,12 +888,46 @@
 		"apply_nums": "8세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950076&pblancNo=2025950076&houseSecd=02",
+		"in_date": "20251124",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "종로 어반더힐",
+		"addr": "서울특별시 종로구 종로 365번지",
+		"short_addr": "서울특별시 종로구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "종로구",
+		"apply_nums": "11세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910221&pblancNo=2025910221&houseSecd=04",
+		"in_date": "20251124",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "평택 고덕 국제신도시 A-55 대광로제비앙 모아엘가(2차)",
+		"addr": "경기도 평택시 고덕국제8로 10(고덕동 2705-1)",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "6세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940275&pblancNo=2025940275&houseSecd=11",
 		"in_date": "20251124",
 		"hsecd": "11",
 		"rse": "11",
 		"type": "",
 		"name": "광명 소하 파크타워(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940284&pblancNo=2025940284&houseSecd=11",
+		"in_date": "20251124",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천 (13차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000537&pblancNo=2025000537&houseSecd=01",
@@ -1052,6 +1071,27 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "동작구",
 		"apply_nums": "5세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950076&pblancNo=2025950076&houseSecd=02",
+		"in_date": "20251125",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "종로 어반더힐",
+		"addr": "서울특별시 종로구 종로 365번지",
+		"short_addr": "서울특별시 종로구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "종로구",
+		"apply_nums": "11세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940284&pblancNo=2025940284&houseSecd=11",
+		"in_date": "20251125",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천 (13차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000537&pblancNo=2025000537&houseSecd=01",
