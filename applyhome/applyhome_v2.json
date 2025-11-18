@@ -1,27 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950072&pblancNo=2025950072&houseSecd=02",
-		"in_date": "20251115",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "왕십리역 어반홈스",
-		"addr": "서울특별시 성동구 도선동 114,115번지",
-		"short_addr": "서울특별시 성동구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "성동구",
-		"apply_nums": "22세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940271&pblancNo=2025940271&houseSecd=11",
-		"in_date": "20251115",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "힐스테이트 용인마크밸리(3차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950072&pblancNo=2025950072&houseSecd=02",
 		"in_date": "20251116",
 		"hsecd": "02",
 		"rse": "05",
@@ -624,6 +603,30 @@
 		"name": "효성해링턴 플레이스 목감역(2차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940286&pblancNo=2025940286&houseSecd=11",
+		"in_date": "20251120",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "힐스테이트 도안리버파크 1단지"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940287&pblancNo=2025940287&houseSecd=11",
+		"in_date": "20251120",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "힐스테이트 도안리버파크 2단지"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940288&pblancNo=2025940288&houseSecd=11",
+		"in_date": "20251120",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "힐스테이트 도안리버파크 3단지"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000530&pblancNo=2025000530&houseSecd=01",
 		"in_date": "20251121",
 		"hsecd": "01",
@@ -700,6 +703,38 @@
 		"name": "방배 더 유엘 포레"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940285&pblancNo=2025940285&houseSecd=11",
+		"in_date": "20251121",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "석남역 센트럴파크 그랑베르"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940286&pblancNo=2025940286&houseSecd=11",
+		"in_date": "20251121",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "힐스테이트 도안리버파크 1단지"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940287&pblancNo=2025940287&houseSecd=11",
+		"in_date": "20251121",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "힐스테이트 도안리버파크 2단지"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940288&pblancNo=2025940288&houseSecd=11",
+		"in_date": "20251121",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "힐스테이트 도안리버파크 3단지"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950075&pblancNo=2025950075&houseSecd=02",
 		"in_date": "20251122",
 		"hsecd": "02",
@@ -729,6 +764,14 @@
 		"name": "리아츠 더 인천 (13차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940285&pblancNo=2025940285&houseSecd=11",
+		"in_date": "20251122",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "석남역 센트럴파크 그랑베르"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950075&pblancNo=2025950075&houseSecd=02",
 		"in_date": "20251123",
 		"hsecd": "02",
@@ -756,6 +799,14 @@
 		"rse": "11",
 		"type": "",
 		"name": "리아츠 더 인천 (13차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940285&pblancNo=2025940285&houseSecd=11",
+		"in_date": "20251123",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "석남역 센트럴파크 그랑베르"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000537&pblancNo=2025000537&houseSecd=01",
@@ -901,6 +952,19 @@
 		"apply_nums": "11세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910230&pblancNo=2025910230&houseSecd=04",
+		"in_date": "20251124",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "인천 힐스테이트 숭의역",
+		"addr": "인천광역시 미추홀구 인주대로 5 (숭의동, 힐스테이트 숭의역)",
+		"short_addr": "인천광역시 미추홀구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "미추홀구",
+		"apply_nums": "17세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910221&pblancNo=2025910221&houseSecd=04",
 		"in_date": "20251124",
 		"hsecd": "04",
@@ -928,6 +992,14 @@
 		"rse": "11",
 		"type": "",
 		"name": "리아츠 더 인천 (13차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940285&pblancNo=2025940285&houseSecd=11",
+		"in_date": "20251124",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "석남역 센트럴파크 그랑베르"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000537&pblancNo=2025000537&houseSecd=01",
@@ -1092,6 +1164,14 @@
 		"rse": "11",
 		"type": "",
 		"name": "리아츠 더 인천 (13차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940285&pblancNo=2025940285&houseSecd=11",
+		"in_date": "20251125",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "석남역 센트럴파크 그랑베르"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000537&pblancNo=2025000537&houseSecd=01",
