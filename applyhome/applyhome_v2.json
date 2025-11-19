@@ -1,26 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950072&pblancNo=2025950072&houseSecd=02",
-		"in_date": "20251116",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "왕십리역 어반홈스",
-		"addr": "서울특별시 성동구 도선동 114,115번지",
-		"short_addr": "서울특별시 성동구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "성동구",
-		"apply_nums": "22세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940271&pblancNo=2025940271&houseSecd=11",
-		"in_date": "20251116",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "힐스테이트 용인마크밸리(3차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000464&pblancNo=2025000464&houseSecd=01",
 		"in_date": "20251117",
 		"hsecd": "01",
@@ -1002,6 +981,14 @@
 		"name": "석남역 센트럴파크 그랑베르"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940292&pblancNo=2025940292&houseSecd=11",
+		"in_date": "20251124",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "연수 서해그랑블 5단지(2차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000537&pblancNo=2025000537&houseSecd=01",
 		"in_date": "20251125",
 		"hsecd": "01",
@@ -1156,6 +1143,32 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "종로구",
 		"apply_nums": "11세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910227&pblancNo=2025910227&houseSecd=04",
+		"in_date": "20251125",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "식사 푸르지오 파크센트",
+		"addr": "경기도 고양시 일산동구 식사동 1126번지 일대",
+		"short_addr": "경기도 고양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "고양시",
+		"apply_nums": "33세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910232&pblancNo=2025910232&houseSecd=04",
+		"in_date": "20251125",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "회천중앙역 파라곤",
+		"addr": "경기도 양주시 회천지구 A10-1BL",
+		"short_addr": "경기도 양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "양주시",
+		"apply_nums": "22세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940284&pblancNo=2025940284&houseSecd=11",
