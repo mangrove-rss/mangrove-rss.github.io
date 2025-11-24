@@ -1,113 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000530&pblancNo=2025000530&houseSecd=01",
-		"in_date": "20251121",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "남양주 별내리슈빌아파트 분양전환 후 잔여세대",
-		"addr": "경기도 남양주시 별내5로 119, 별내리슈빌 아파트",
-		"short_addr": "경기도 남양주시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "남양주시",
-		"apply_nums": "34세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000565&pblancNo=2025000565&houseSecd=01",
-		"in_date": "20251121",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "대상 웰라움 순창",
-		"addr": "전북특별자치도 순창군 순창읍 순화리 951 번지 일원",
-		"short_addr": "전북특별자치도 순창군",
-		"addr_lv1": "전북특별자치도",
-		"addr_lv2": "순창군",
-		"apply_nums": "264세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000315&pblancNo=2025000315&houseSecd=01",
-		"in_date": "20251121",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "마린시티",
-		"addr": "경상북도 울진군 후포면 후포리 581-1",
-		"short_addr": "경상북도 울진군",
-		"addr_lv1": "경상북도",
-		"addr_lv2": "울진군",
-		"apply_nums": "30세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950075&pblancNo=2025950075&houseSecd=02",
-		"in_date": "20251121",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "당산역 더클래스 한강",
-		"addr": "서울특별시 영등포구 당산동6가 341-1번지",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "8세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940275&pblancNo=2025940275&houseSecd=11",
-		"in_date": "20251121",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "광명 소하 파크타워(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940284&pblancNo=2025940284&houseSecd=11",
-		"in_date": "20251121",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "리아츠 더 인천 (13차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940283&pblancNo=2025940283&houseSecd=11",
-		"in_date": "20251121",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "방배 더 유엘 포레"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940285&pblancNo=2025940285&houseSecd=11",
-		"in_date": "20251121",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "석남역 센트럴파크 그랑베르"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940286&pblancNo=2025940286&houseSecd=11",
-		"in_date": "20251121",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "힐스테이트 도안리버파크 1단지"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940287&pblancNo=2025940287&houseSecd=11",
-		"in_date": "20251121",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "힐스테이트 도안리버파크 2단지"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940288&pblancNo=2025940288&houseSecd=11",
-		"in_date": "20251121",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "힐스테이트 도안리버파크 3단지"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950075&pblancNo=2025950075&houseSecd=02",
 		"in_date": "20251122",
 		"hsecd": "02",
@@ -770,12 +662,28 @@
 		"name": "e편한세상 제물포역 파크메종(조합원 취소분)(5차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940293&pblancNo=2025940293&houseSecd=11",
+		"in_date": "20251127",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "송도 하늘채 아이비원"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940290&pblancNo=2025940290&houseSecd=11",
 		"in_date": "20251127",
 		"hsecd": "11",
 		"rse": "11",
 		"type": "",
 		"name": "힐스테이트 회룡역파크뷰"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940293&pblancNo=2025940293&houseSecd=11",
+		"in_date": "20251128",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "송도 하늘채 아이비원"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000590&pblancNo=2025000590&houseSecd=01",
@@ -893,6 +801,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "고양시",
 		"apply_nums": "20세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910233&pblancNo=2025910233&houseSecd=04",
+		"in_date": "20251201",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "천왕역 모아엘가 트레뷰 (9차)",
+		"addr": "서울특별시 구로구 오리로 1165",
+		"short_addr": "서울특별시 구로구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "구로구",
+		"apply_nums": "10세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000573&pblancNo=2025000573&houseSecd=01",
