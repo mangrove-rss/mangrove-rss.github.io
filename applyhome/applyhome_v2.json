@@ -1,43 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950075&pblancNo=2025950075&houseSecd=02",
-		"in_date": "20251122",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "당산역 더클래스 한강",
-		"addr": "서울특별시 영등포구 당산동6가 341-1번지",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "8세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940275&pblancNo=2025940275&houseSecd=11",
-		"in_date": "20251122",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "광명 소하 파크타워(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940284&pblancNo=2025940284&houseSecd=11",
-		"in_date": "20251122",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "리아츠 더 인천 (13차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940285&pblancNo=2025940285&houseSecd=11",
-		"in_date": "20251122",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "석남역 센트럴파크 그랑베르"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950075&pblancNo=2025950075&houseSecd=02",
 		"in_date": "20251123",
 		"hsecd": "02",
 		"rse": "05",
@@ -803,6 +766,45 @@
 		"apply_nums": "20세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910238&pblancNo=2025910238&houseSecd=04",
+		"in_date": "20251201",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "더파크 비스타동원",
+		"addr": "부산광역시 사상구 감전동 산1-9일원",
+		"short_addr": "부산광역시 사상구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "사상구",
+		"apply_nums": "20세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910237&pblancNo=2025910237&houseSecd=04",
+		"in_date": "20251201",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "두산위브더제니스 구미",
+		"addr": "경상북도 구미시 광평동 227번지 일원",
+		"short_addr": "경상북도 구미시",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "구미시",
+		"apply_nums": "114세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910234&pblancNo=2025910234&houseSecd=04",
+		"in_date": "20251201",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "두산위브더제니스 청주 센트럴파크",
+		"addr": "충청북도 청주시 흥덕구 신봉동 528번지 외 3필지",
+		"short_addr": "충청북도 청주시",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "청주시",
+		"apply_nums": "455세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910233&pblancNo=2025910233&houseSecd=04",
 		"in_date": "20251201",
 		"hsecd": "04",
@@ -814,6 +816,40 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "구로구",
 		"apply_nums": "10세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910226&pblancNo=2025910226&houseSecd=04",
+		"in_date": "20251201",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "한화포레나 청주매봉"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910239&pblancNo=2025910239&houseSecd=04",
+		"in_date": "20251201",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "힐스테이트 오산 더퍼스트(조합원 자격상실 및 제명세대)",
+		"addr": "경기도 오산시 경기대로 24-27 (갈곶동, 힐스테이트오산더퍼스트)",
+		"short_addr": "경기도 오산시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "오산시",
+		"apply_nums": "12세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930046&pblancNo=2025930046&houseSecd=06",
+		"in_date": "20251201",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "청량리역 롯데캐슬 SKY-L65",
+		"addr": "서울특별시 동대문구 전농동 620-47번지 일원",
+		"short_addr": "서울특별시 동대문구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "동대문구",
+		"apply_nums": "3세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000573&pblancNo=2025000573&houseSecd=01",
@@ -925,12 +961,7 @@
 		"hsecd": "01",
 		"rse": "02",
 		"type": "APT 1순위",
-		"name": "의왕시청역 SK VIEW IPARK",
-		"addr": "경기도 의왕시 고천동 265번지 일원",
-		"short_addr": "경기도 의왕시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "의왕시",
-		"apply_nums": "958세대"
+		"name": "의왕시청역 SK VIEW IPARK"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000564&pblancNo=2025000564&houseSecd=01",
@@ -1149,12 +1180,7 @@
 		"hsecd": "01",
 		"rse": "03",
 		"type": "APT 2순위",
-		"name": "김포북변 칸타빌 디 에디션",
-		"addr": "경기도 김포시 북변동 224-67 일원",
-		"short_addr": "경기도 김포시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "김포시",
-		"apply_nums": "612세대"
+		"name": "김포북변 칸타빌 디 에디션"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000423&pblancNo=2025000423&houseSecd=01",
@@ -1162,12 +1188,7 @@
 		"hsecd": "01",
 		"rse": "03",
 		"type": "APT 2순위",
-		"name": "안양자이 헤리티온",
-		"addr": "경기도 안양시 만안구 안양동 398-32번지 일원",
-		"short_addr": "경기도 안양시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "안양시",
-		"apply_nums": "639세대"
+		"name": "안양자이 헤리티온"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000549&pblancNo=2025000549&houseSecd=01",
@@ -1175,12 +1196,7 @@
 		"hsecd": "01",
 		"rse": "03",
 		"type": "APT 2순위",
-		"name": "의왕시청역 SK VIEW IPARK",
-		"addr": "경기도 의왕시 고천동 265번지 일원",
-		"short_addr": "경기도 의왕시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "의왕시",
-		"apply_nums": "958세대"
+		"name": "의왕시청역 SK VIEW IPARK"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000567&pblancNo=2025000567&houseSecd=01",
@@ -1188,12 +1204,7 @@
 		"hsecd": "01",
 		"rse": "02",
 		"type": "APT 1순위",
-		"name": "여월 중앙하이츠 아르비채",
-		"addr": "경기도 부천시 오정구 여월동 8-9번지 외 4필지",
-		"short_addr": "경기도 부천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "부천시",
-		"apply_nums": "37세대"
+		"name": "여월 중앙하이츠 아르비채"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000585&pblancNo=2025000585&houseSecd=01",
@@ -1201,12 +1212,7 @@
 		"hsecd": "01",
 		"rse": "02",
 		"type": "APT 1순위",
-		"name": "인천 검단신도시 AB13블록 호반써밋Ⅲ(본청약)",
-		"addr": "인천 검단신도시 AB13블록 (인천광역시 서구 원당동 1063-2 일원)",
-		"short_addr": "인천 검단신도시",
-		"addr_lv1": "인천",
-		"addr_lv2": "검단신도시",
-		"apply_nums": "492세대"
+		"name": "인천 검단신도시 AB13블록 호반써밋Ⅲ(본청약)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000583&pblancNo=2025000583&houseSecd=01",
@@ -1214,12 +1220,7 @@
 		"hsecd": "01",
 		"rse": "03",
 		"type": "APT 2순위",
-		"name": "영도갤럭시타운 도련2차",
-		"addr": "제주특별자치도 제주시 도련일동 2878",
-		"short_addr": "제주특별자치도 제주시",
-		"addr_lv1": "제주특별자치도",
-		"addr_lv2": "제주시",
-		"apply_nums": "113세대"
+		"name": "영도갤럭시타운 도련2차"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000567&pblancNo=2025000567&houseSecd=01",
@@ -1227,12 +1228,7 @@
 		"hsecd": "01",
 		"rse": "03",
 		"type": "APT 2순위",
-		"name": "여월 중앙하이츠 아르비채",
-		"addr": "경기도 부천시 오정구 여월동 8-9번지 외 4필지",
-		"short_addr": "경기도 부천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "부천시",
-		"apply_nums": "37세대"
+		"name": "여월 중앙하이츠 아르비채"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000585&pblancNo=2025000585&houseSecd=01",
@@ -1240,11 +1236,6 @@
 		"hsecd": "01",
 		"rse": "03",
 		"type": "APT 2순위",
-		"name": "인천 검단신도시 AB13블록 호반써밋Ⅲ(본청약)",
-		"addr": "인천 검단신도시 AB13블록 (인천광역시 서구 원당동 1063-2 일원)",
-		"short_addr": "인천 검단신도시",
-		"addr_lv1": "인천",
-		"addr_lv2": "검단신도시",
-		"apply_nums": "492세대"
+		"name": "인천 검단신도시 AB13블록 호반써밋Ⅲ(본청약)"
 	}
 ]
