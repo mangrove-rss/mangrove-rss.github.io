@@ -1,42 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950075&pblancNo=2025950075&houseSecd=02",
-		"in_date": "20251123",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "당산역 더클래스 한강",
-		"addr": "서울특별시 영등포구 당산동6가 341-1번지",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "8세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940275&pblancNo=2025940275&houseSecd=11",
-		"in_date": "20251123",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "광명 소하 파크타워(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940284&pblancNo=2025940284&houseSecd=11",
-		"in_date": "20251123",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "리아츠 더 인천 (13차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940285&pblancNo=2025940285&houseSecd=11",
-		"in_date": "20251123",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "석남역 센트럴파크 그랑베르"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000537&pblancNo=2025000537&houseSecd=01",
 		"in_date": "20251124",
 		"hsecd": "01",
@@ -823,7 +786,12 @@
 		"hsecd": "04",
 		"rse": "06",
 		"type": "무순위/취소후재공급",
-		"name": "한화포레나 청주매봉"
+		"name": "한화포레나 청주매봉",
+		"addr": "충청북도 청주시 서원구 매봉로 131",
+		"short_addr": "충청북도 청주시",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "청주시",
+		"apply_nums": "1세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910239&pblancNo=2025910239&houseSecd=04",
@@ -961,7 +929,12 @@
 		"hsecd": "01",
 		"rse": "02",
 		"type": "APT 1순위",
-		"name": "의왕시청역 SK VIEW IPARK"
+		"name": "의왕시청역 SK VIEW IPARK",
+		"addr": "경기도 의왕시 고천동 265번지 일원",
+		"short_addr": "경기도 의왕시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "의왕시",
+		"apply_nums": "958세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000564&pblancNo=2025000564&houseSecd=01",
@@ -996,6 +969,45 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "고양시",
 		"apply_nums": "20세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910241&pblancNo=2025910241&houseSecd=04",
+		"in_date": "20251202",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "대방역 여의도 더로드캐슬",
+		"addr": "서울특별시 영등포구 신길동 449-11",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "36세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910235&pblancNo=2025910235&houseSecd=04",
+		"in_date": "20251202",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "오룡2지구 지엔하임 37블록",
+		"addr": "전라남도 무안군 일로읍 오룡리 288(오룡지구 37BL)",
+		"short_addr": "전라남도 무안군",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "무안군",
+		"apply_nums": "202세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910236&pblancNo=2025910236&houseSecd=04",
+		"in_date": "20251202",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "오룡2지구 지엔하임 38블록",
+		"addr": "전라남도 무안군 일로읍 오룡리 290(오룡지구 38BL)",
+		"short_addr": "전라남도 무안군",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "무안군",
+		"apply_nums": "135세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000573&pblancNo=2025000573&houseSecd=01",
@@ -1136,6 +1148,19 @@
 		"name": "북수원 이목 시티프라디움 더 블리스"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910241&pblancNo=2025910241&houseSecd=04",
+		"in_date": "20251203",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "대방역 여의도 더로드캐슬",
+		"addr": "서울특별시 영등포구 신길동 449-11",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "36세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000567&pblancNo=2025000567&houseSecd=01",
 		"in_date": "20251204",
 		"hsecd": "01",
@@ -1180,7 +1205,12 @@
 		"hsecd": "01",
 		"rse": "03",
 		"type": "APT 2순위",
-		"name": "김포북변 칸타빌 디 에디션"
+		"name": "김포북변 칸타빌 디 에디션",
+		"addr": "경기도 김포시 북변동 224-67 일원",
+		"short_addr": "경기도 김포시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "김포시",
+		"apply_nums": "612세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000423&pblancNo=2025000423&houseSecd=01",
@@ -1188,7 +1218,12 @@
 		"hsecd": "01",
 		"rse": "03",
 		"type": "APT 2순위",
-		"name": "안양자이 헤리티온"
+		"name": "안양자이 헤리티온",
+		"addr": "경기도 안양시 만안구 안양동 398-32번지 일원",
+		"short_addr": "경기도 안양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "안양시",
+		"apply_nums": "639세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000549&pblancNo=2025000549&houseSecd=01",
@@ -1197,6 +1232,14 @@
 		"rse": "03",
 		"type": "APT 2순위",
 		"name": "의왕시청역 SK VIEW IPARK"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910241&pblancNo=2025910241&houseSecd=04",
+		"in_date": "20251204",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "대방역 여의도 더로드캐슬"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000567&pblancNo=2025000567&houseSecd=01",
@@ -1223,6 +1266,22 @@
 		"name": "영도갤럭시타운 도련2차"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910241&pblancNo=2025910241&houseSecd=04",
+		"in_date": "20251205",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "대방역 여의도 더로드캐슬"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000592&pblancNo=2025000592&houseSecd=01",
+		"in_date": "20251208",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "이안 연동스퀘어"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000567&pblancNo=2025000567&houseSecd=01",
 		"in_date": "20251208",
 		"hsecd": "01",
@@ -1237,5 +1296,13 @@
 		"rse": "03",
 		"type": "APT 2순위",
 		"name": "인천 검단신도시 AB13블록 호반써밋Ⅲ(본청약)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000592&pblancNo=2025000592&houseSecd=01",
+		"in_date": "20251209",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "이안 연동스퀘어"
 	}
 ]
