@@ -1,50 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000537&pblancNo=2025000537&houseSecd=01",
-		"in_date": "20251127",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "성남복정1지구 B1블록 복정역 에피트",
-		"addr": "경기도 성남시 수정구 복정동 243번지 일원",
-		"short_addr": "경기도 성남시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "성남시",
-		"apply_nums": "315세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940291&pblancNo=2025940291&houseSecd=11",
-		"in_date": "20251127",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "e편한세상 제물포역 파크메종(조합원 취소분)(5차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940293&pblancNo=2025940293&houseSecd=11",
-		"in_date": "20251127",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "송도 하늘채 아이비원"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940290&pblancNo=2025940290&houseSecd=11",
-		"in_date": "20251127",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "힐스테이트 회룡역파크뷰"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940293&pblancNo=2025940293&houseSecd=11",
-		"in_date": "20251128",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "송도 하늘채 아이비원"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000590&pblancNo=2025000590&houseSecd=01",
 		"in_date": "20251201",
 		"hsecd": "01",
@@ -961,6 +916,19 @@
 		"apply_nums": "492세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910248&pblancNo=2025910248&houseSecd=04",
+		"in_date": "20251208",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "어반클라쎄목동(10차)",
+		"addr": "서울특별시 양천구 신목로2길 7-12 (신정동, 어반클라쎄 목동)",
+		"short_addr": "서울특별시 양천구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "양천구",
+		"apply_nums": "6세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000586&pblancNo=2025000586&houseSecd=01",
 		"in_date": "20251209",
 		"hsecd": "01",
@@ -1063,6 +1031,32 @@
 		"addr_lv1": "제주특별자치도",
 		"addr_lv2": "제주시",
 		"apply_nums": "96세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910248&pblancNo=2025910248&houseSecd=04",
+		"in_date": "20251209",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "어반클라쎄목동(10차)",
+		"addr": "서울특별시 양천구 신목로2길 7-12 (신정동, 어반클라쎄 목동)",
+		"short_addr": "서울특별시 양천구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "양천구",
+		"apply_nums": "6세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930054&pblancNo=2025930054&houseSecd=06",
+		"in_date": "20251209",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "신검단중앙역 금강펜테리움 센트럴파크",
+		"addr": "인천광역시 서구 불로동 971(신검단중앙역 금강펜테리움 센트럴파크)",
+		"short_addr": "인천광역시 서구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "1세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000586&pblancNo=2025000586&houseSecd=01",
