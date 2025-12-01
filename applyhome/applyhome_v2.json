@@ -734,6 +734,14 @@
 		"apply_nums": "2세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940296&pblancNo=2025940296&houseSecd=11",
+		"in_date": "20251204",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "신도림역 동문 디 이스트(7차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000567&pblancNo=2025000567&houseSecd=01",
 		"in_date": "20251205",
 		"hsecd": "01",
@@ -784,6 +792,14 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "영등포구",
 		"apply_nums": "36세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940296&pblancNo=2025940296&houseSecd=11",
+		"in_date": "20251205",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "신도림역 동문 디 이스트(7차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000586&pblancNo=2025000586&houseSecd=01",
@@ -914,6 +930,19 @@
 		"addr_lv1": "인천",
 		"addr_lv2": "검단신도시",
 		"apply_nums": "492세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910243&pblancNo=2025910243&houseSecd=04",
+		"in_date": "20251208",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "김포 풍무역세권 B5블록 호반써밋",
+		"addr": "김포 풍무역세권 B5블록(경기도 김포시 사우동 475-2 일원)",
+		"short_addr": "김포 풍무역세권",
+		"addr_lv1": "김포",
+		"addr_lv2": "풍무역세권",
+		"apply_nums": "73세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910248&pblancNo=2025910248&houseSecd=04",
