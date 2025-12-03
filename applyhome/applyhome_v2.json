@@ -958,6 +958,58 @@
 		"apply_nums": "6세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910246&pblancNo=2025910246&houseSecd=04",
+		"in_date": "20251208",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "운정 아이파크 포레스트",
+		"addr": "파주메디컬클러스터 도시개발구역 A2BL (경기도 파주시 서패동 432번지 일원)",
+		"short_addr": "파주메디컬클러스터 도시개발구역",
+		"addr_lv1": "파주메디컬클러스터",
+		"addr_lv2": "도시개발구역",
+		"apply_nums": "311세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910242&pblancNo=2025910242&houseSecd=04",
+		"in_date": "20251208",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "인하대역 수자인 로이센트",
+		"addr": "인천광역시 미추홀구 용현동 604-7번지 일원 (용현·학익 2-2블록 인하대역 1구역 내)",
+		"short_addr": "인천광역시 미추홀구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "미추홀구",
+		"apply_nums": "169세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910247&pblancNo=2025910247&houseSecd=04",
+		"in_date": "20251208",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "트리븐 서산",
+		"addr": "충청남도 서산시 예천동 688번지 일원",
+		"short_addr": "충청남도 서산시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "서산시",
+		"apply_nums": "472세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910245&pblancNo=2025910245&houseSecd=04",
+		"in_date": "20251208",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "효성해링턴 플레이스 영주 더리버",
+		"addr": "경상북도 영주시 휴천동 612-2일원",
+		"short_addr": "경상북도 영주시",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "영주시",
+		"apply_nums": "176세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000586&pblancNo=2025000586&houseSecd=01",
 		"in_date": "20251209",
 		"hsecd": "01",
@@ -1073,6 +1125,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "양천구",
 		"apply_nums": "6세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910252&pblancNo=2025910252&houseSecd=04",
+		"in_date": "20251209",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "청계 노르웨이숲(5차)",
+		"addr": "서울특별시 중구 황학동 1756번지 일원",
+		"short_addr": "서울특별시 중구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "중구",
+		"apply_nums": "30세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930054&pblancNo=2025930054&houseSecd=06",
