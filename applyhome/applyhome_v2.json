@@ -1,65 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000567&pblancNo=2025000567&houseSecd=01",
-		"in_date": "20251205",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "여월 중앙하이츠 아르비채",
-		"addr": "경기도 부천시 오정구 여월동 8-9번지 외 4필지",
-		"short_addr": "경기도 부천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "부천시",
-		"apply_nums": "37세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000585&pblancNo=2025000585&houseSecd=01",
-		"in_date": "20251205",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "인천 검단신도시 AB13블록 호반써밋Ⅲ(본청약)",
-		"addr": "인천 검단신도시 AB13블록 (인천광역시 서구 원당동 1063-2 일원)",
-		"short_addr": "인천 검단신도시",
-		"addr_lv1": "인천",
-		"addr_lv2": "검단신도시",
-		"apply_nums": "492세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000583&pblancNo=2025000583&houseSecd=01",
-		"in_date": "20251205",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "영도갤럭시타운 도련2차",
-		"addr": "제주특별자치도 제주시 도련일동 2878",
-		"short_addr": "제주특별자치도 제주시",
-		"addr_lv1": "제주특별자치도",
-		"addr_lv2": "제주시",
-		"apply_nums": "113세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910241&pblancNo=2025910241&houseSecd=04",
-		"in_date": "20251205",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "대방역 여의도 더로드캐슬",
-		"addr": "서울특별시 영등포구 신길동 449-11",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "36세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940296&pblancNo=2025940296&houseSecd=11",
-		"in_date": "20251205",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "신도림역 동문 디 이스트(7차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000586&pblancNo=2025000586&houseSecd=01",
 		"in_date": "20251208",
 		"hsecd": "01",
@@ -540,6 +480,22 @@
 		"rse": "11",
 		"type": "",
 		"name": "수원이목지구 대방 디에트르 더 리체Ⅱ(A3BL) (9차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940301&pblancNo=2025940301&houseSecd=11",
+		"in_date": "20251211",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "힐스테이트 레이크 송도 4차(임의공급 4차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940301&pblancNo=2025940301&houseSecd=11",
+		"in_date": "20251212",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "힐스테이트 레이크 송도 4차(임의공급 4차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000582&pblancNo=2025000582&houseSecd=01",
