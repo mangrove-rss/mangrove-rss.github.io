@@ -490,6 +490,14 @@
 		"name": "힐스테이트 레이크 송도 4차(임의공급 4차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940297&pblancNo=2025940297&houseSecd=11",
+		"in_date": "20251212",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "대전 문화공원 수자인"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940301&pblancNo=2025940301&houseSecd=11",
 		"in_date": "20251212",
 		"hsecd": "11",
@@ -522,6 +530,32 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "강남구",
 		"apply_nums": "87세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950080&pblancNo=2025950080&houseSecd=02",
+		"in_date": "20251215",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "힐스테이트 용인포레(기업형민간임대)　",
+		"addr": "경기도 용인시 처인구 삼가동 447-15번지 일원",
+		"short_addr": "경기도 용인시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "용인시",
+		"apply_nums": "105세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910249&pblancNo=2025910249&houseSecd=04",
+		"in_date": "20251215",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "효성해링턴 플레이스 여수",
+		"addr": "전라남도 여수시 학동 75-2, 75-3, 75-5, 76-4번지",
+		"short_addr": "전라남도 여수시",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "여수시",
+		"apply_nums": "31세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930056&pblancNo=2025930056&houseSecd=06",
@@ -561,6 +595,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "강남구",
 		"apply_nums": "87세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950080&pblancNo=2025950080&houseSecd=02",
+		"in_date": "20251216",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "힐스테이트 용인포레(기업형민간임대)　",
+		"addr": "경기도 용인시 처인구 삼가동 447-15번지 일원",
+		"short_addr": "경기도 용인시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "용인시",
+		"apply_nums": "105세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000566&pblancNo=2025000566&houseSecd=01",
