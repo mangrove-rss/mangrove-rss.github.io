@@ -532,6 +532,19 @@
 		"apply_nums": "87세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950079&pblancNo=2025950079&houseSecd=02",
+		"in_date": "20251215",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "해링턴 스퀘어 과천",
+		"addr": "경기도 과천시 과천지식정보타운 공공주택지구 일반상업 5BL",
+		"short_addr": "경기도 과천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "과천시",
+		"apply_nums": "359세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950080&pblancNo=2025950080&houseSecd=02",
 		"in_date": "20251215",
 		"hsecd": "02",
@@ -543,6 +556,32 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "용인시",
 		"apply_nums": "105세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910253&pblancNo=2025910253&houseSecd=04",
+		"in_date": "20251215",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "도룡자이 라피크",
+		"addr": "대전광역시 유성구 도룡동 382번지 일원",
+		"short_addr": "대전광역시 유성구",
+		"addr_lv1": "대전광역시",
+		"addr_lv2": "유성구",
+		"apply_nums": "83세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910255&pblancNo=2025910255&houseSecd=04",
+		"in_date": "20251215",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "만안역 중앙하이츠 포레",
+		"addr": "경기도 안양시 만안구 석수동 284-1",
+		"short_addr": "경기도 안양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "안양시",
+		"apply_nums": "39세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910249&pblancNo=2025910249&houseSecd=04",
@@ -571,6 +610,22 @@
 		"apply_nums": "1세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940303&pblancNo=2025940303&houseSecd=11",
+		"in_date": "20251215",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "시흥 은계 에피트"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940300&pblancNo=2025940300&houseSecd=11",
+		"in_date": "20251215",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "중흥S-클래스 힐더포레"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000582&pblancNo=2025000582&houseSecd=01",
 		"in_date": "20251216",
 		"hsecd": "01",
@@ -595,6 +650,14 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "강남구",
 		"apply_nums": "87세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850038&pblancNo=2025850038&houseSecd=03",
+		"in_date": "20251216",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "부경경마공원역 대방 디에트르 더리버(AP1BL)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950080&pblancNo=2025950080&houseSecd=02",
@@ -634,6 +697,14 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "연수구",
 		"apply_nums": "501세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850038&pblancNo=2025850038&houseSecd=03",
+		"in_date": "20251217",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "부경경마공원역 대방 디에트르 더리버(AP1BL)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000566&pblancNo=2025000566&houseSecd=01",
