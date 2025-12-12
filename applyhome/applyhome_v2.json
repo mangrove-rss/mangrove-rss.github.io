@@ -1,136 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000586&pblancNo=2025000586&houseSecd=01",
-		"in_date": "20251209",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "e편한세상 내포 에듀플라츠(공공주택)",
-		"addr": "충청남도 홍성군 홍북읍 신경리 929번지 (충청남도 내포신도시 RH-14BL)",
-		"short_addr": "충청남도 홍성군",
-		"addr_lv1": "충청남도",
-		"addr_lv2": "홍성군",
-		"apply_nums": "605세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000587&pblancNo=2025000587&houseSecd=01",
-		"in_date": "20251209",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "e편한세상 내포 에듀플라츠(민영주택)",
-		"addr": "충청남도 홍성군 홍북읍 신경리 929번지 (충청남도 내포신도시 RH-14BL)",
-		"short_addr": "충청남도 홍성군",
-		"addr_lv1": "충청남도",
-		"addr_lv2": "홍성군",
-		"apply_nums": "122세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000554&pblancNo=2025000554&houseSecd=01",
-		"in_date": "20251209",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "서수원 에피트 센트럴마크(M1BL)",
-		"addr": "경기도 수원시 권선구 당수동 3001번지 일원 (수원당수 공공주택지구 M1BL)",
-		"short_addr": "경기도 수원시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "수원시",
-		"apply_nums": "190세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000553&pblancNo=2025000553&houseSecd=01",
-		"in_date": "20251209",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "서수원 에피트 센트럴마크(M2BL)",
-		"addr": "경기도 수원시 권선구 당수동 3002번지 일원 (수원당수 공공주택지구 M2BL)",
-		"short_addr": "경기도 수원시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "수원시",
-		"apply_nums": "280세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000591&pblancNo=2025000591&houseSecd=01",
-		"in_date": "20251209",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "시흥거모 엘가 로제비앙",
-		"addr": "경기도 시흥시 시흥거모 공공주택지구 B-6BL",
-		"short_addr": "경기도 시흥시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "시흥시",
-		"apply_nums": "480세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000545&pblancNo=2025000545&houseSecd=01",
-		"in_date": "20251209",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "이천 증포5지구 칸타빌 에듀파크",
-		"addr": "경기도 이천시 증포동 107-2번지 일원",
-		"short_addr": "경기도 이천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "이천시",
-		"apply_nums": "355세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000601&pblancNo=2025000601&houseSecd=01",
-		"in_date": "20251209",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "창원 센트럴 아이파크",
-		"addr": "경상남도 창원시 성산구 신월동 90번지 일원",
-		"short_addr": "경상남도 창원시",
-		"addr_lv1": "경상남도",
-		"addr_lv2": "창원시",
-		"apply_nums": "36세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000592&pblancNo=2025000592&houseSecd=01",
-		"in_date": "20251209",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "이안 연동스퀘어",
-		"addr": "제주특별자치도 제주시 연동 282-4 외 4필지",
-		"short_addr": "제주특별자치도 제주시",
-		"addr_lv1": "제주특별자치도",
-		"addr_lv2": "제주시",
-		"apply_nums": "96세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910248&pblancNo=2025910248&houseSecd=04",
-		"in_date": "20251209",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "어반클라쎄목동(10차)",
-		"addr": "서울특별시 양천구 신목로2길 7-12 (신정동, 어반클라쎄 목동)",
-		"short_addr": "서울특별시 양천구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "양천구",
-		"apply_nums": "6세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930054&pblancNo=2025930054&houseSecd=06",
-		"in_date": "20251209",
-		"hsecd": "06",
-		"rse": "07",
-		"type": "",
-		"name": "신검단중앙역 금강펜테리움 센트럴파크",
-		"addr": "인천광역시 서구 불로동 971(신검단중앙역 금강펜테리움 센트럴파크)",
-		"short_addr": "인천광역시 서구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "서구",
-		"apply_nums": "1세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000586&pblancNo=2025000586&houseSecd=01",
 		"in_date": "20251210",
 		"hsecd": "01",
 		"rse": "03",
@@ -520,6 +390,19 @@
 		"name": "힐스테이트 용인마크밸리(4차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000524&pblancNo=2025000524&houseSecd=01",
+		"in_date": "20251217",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "용인 푸르지오 원클러스터파크",
+		"addr": "경기도 용인시 처인구 양지면 양지리 산97-12번지 일원",
+		"short_addr": "경기도 용인시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "용인시",
+		"apply_nums": "710세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000566&pblancNo=2025000566&houseSecd=01",
 		"in_date": "20251217",
 		"hsecd": "01",
@@ -622,6 +505,19 @@
 		"name": "힐스테이트 용인마크밸리(4차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000524&pblancNo=2025000524&houseSecd=01",
+		"in_date": "20251218",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "용인 푸르지오 원클러스터파크",
+		"addr": "경기도 용인시 처인구 양지면 양지리 산97-12번지 일원",
+		"short_addr": "경기도 용인시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "용인시",
+		"apply_nums": "710세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000566&pblancNo=2025000566&houseSecd=01",
 		"in_date": "20251218",
 		"hsecd": "01",
@@ -703,6 +599,19 @@
 		"name": "힐스테이트 용인마크밸리(4차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000524&pblancNo=2025000524&houseSecd=01",
+		"in_date": "20251219",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "용인 푸르지오 원클러스터파크",
+		"addr": "경기도 용인시 처인구 양지면 양지리 산97-12번지 일원",
+		"short_addr": "경기도 용인시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "용인시",
+		"apply_nums": "710세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940305&pblancNo=2025940305&houseSecd=11",
 		"in_date": "20251219",
 		"hsecd": "11",
@@ -764,6 +673,32 @@
 		"apply_nums": "1009세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000552&pblancNo=2025000552&houseSecd=01",
+		"in_date": "20251222",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "한화포레나 부산대연",
+		"addr": "부산광역시 남구 대연동 455-25번지",
+		"short_addr": "부산광역시 남구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "104세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000615&pblancNo=2025000615&houseSecd=01",
+		"in_date": "20251222",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "둔산 자이 아이파크",
+		"addr": "대전광역시 서구 탄방동 514-360번지 일원",
+		"short_addr": "대전광역시 서구",
+		"addr_lv1": "대전광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "12세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940305&pblancNo=2025940305&houseSecd=11",
 		"in_date": "20251222",
 		"hsecd": "11",
@@ -793,6 +728,32 @@
 		"apply_nums": "1009세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000552&pblancNo=2025000552&houseSecd=01",
+		"in_date": "20251223",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "한화포레나 부산대연",
+		"addr": "부산광역시 남구 대연동 455-25번지",
+		"short_addr": "부산광역시 남구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "104세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000615&pblancNo=2025000615&houseSecd=01",
+		"in_date": "20251223",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "둔산 자이 아이파크",
+		"addr": "대전광역시 서구 탄방동 514-360번지 일원",
+		"short_addr": "대전광역시 서구",
+		"addr_lv1": "대전광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "12세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000581&pblancNo=2025000581&houseSecd=01",
 		"in_date": "20251224",
 		"hsecd": "01",
@@ -804,5 +765,18 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "이천시",
 		"apply_nums": "1009세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000552&pblancNo=2025000552&houseSecd=01",
+		"in_date": "20251224",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "한화포레나 부산대연",
+		"addr": "부산광역시 남구 대연동 455-25번지",
+		"short_addr": "부산광역시 남구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "104세대"
 	}
 ]
