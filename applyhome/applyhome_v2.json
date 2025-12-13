@@ -1,133 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000586&pblancNo=2025000586&houseSecd=01",
-		"in_date": "20251210",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "e편한세상 내포 에듀플라츠(공공주택)",
-		"addr": "충청남도 홍성군 홍북읍 신경리 929번지 (충청남도 내포신도시 RH-14BL)",
-		"short_addr": "충청남도 홍성군",
-		"addr_lv1": "충청남도",
-		"addr_lv2": "홍성군",
-		"apply_nums": "605세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000587&pblancNo=2025000587&houseSecd=01",
-		"in_date": "20251210",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "e편한세상 내포 에듀플라츠(민영주택)",
-		"addr": "충청남도 홍성군 홍북읍 신경리 929번지 (충청남도 내포신도시 RH-14BL)",
-		"short_addr": "충청남도 홍성군",
-		"addr_lv1": "충청남도",
-		"addr_lv2": "홍성군",
-		"apply_nums": "122세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000554&pblancNo=2025000554&houseSecd=01",
-		"in_date": "20251210",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "서수원 에피트 센트럴마크(M1BL)",
-		"addr": "경기도 수원시 권선구 당수동 3001번지 일원 (수원당수 공공주택지구 M1BL)",
-		"short_addr": "경기도 수원시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "수원시",
-		"apply_nums": "190세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000553&pblancNo=2025000553&houseSecd=01",
-		"in_date": "20251210",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "서수원 에피트 센트럴마크(M2BL)",
-		"addr": "경기도 수원시 권선구 당수동 3002번지 일원 (수원당수 공공주택지구 M2BL)",
-		"short_addr": "경기도 수원시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "수원시",
-		"apply_nums": "280세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000591&pblancNo=2025000591&houseSecd=01",
-		"in_date": "20251210",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "시흥거모 엘가 로제비앙",
-		"addr": "경기도 시흥시 시흥거모 공공주택지구 B-6BL",
-		"short_addr": "경기도 시흥시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "시흥시",
-		"apply_nums": "480세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000545&pblancNo=2025000545&houseSecd=01",
-		"in_date": "20251210",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "이천 증포5지구 칸타빌 에듀파크",
-		"addr": "경기도 이천시 증포동 107-2번지 일원",
-		"short_addr": "경기도 이천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "이천시",
-		"apply_nums": "355세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000601&pblancNo=2025000601&houseSecd=01",
-		"in_date": "20251210",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "창원 센트럴 아이파크",
-		"addr": "경상남도 창원시 성산구 신월동 90번지 일원",
-		"short_addr": "경상남도 창원시",
-		"addr_lv1": "경상남도",
-		"addr_lv2": "창원시",
-		"apply_nums": "36세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850037&pblancNo=2025850037&houseSecd=03",
-		"in_date": "20251210",
-		"hsecd": "03",
-		"rse": "04",
-		"type": "",
-		"name": "서면 지원 더뷰 드림아파트(공공지원민간임대)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910244&pblancNo=2025910244&houseSecd=04",
-		"in_date": "20251210",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "해링턴 플레이스 명륜역",
-		"addr": "부산광역시 동래구 온천동 460-24번지 일원",
-		"short_addr": "부산광역시 동래구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "동래구",
-		"apply_nums": "24세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940302&pblancNo=2025940302&houseSecd=11",
-		"in_date": "20251210",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "수원이목지구 대방 디에트르 더 리체Ⅱ(A3BL) (9차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940298&pblancNo=2025940298&houseSecd=11",
-		"in_date": "20251210",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "안성 아양지구 B-2블록 금성백조 예미지"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850037&pblancNo=2025850037&houseSecd=03",
 		"in_date": "20251211",
 		"hsecd": "03",
@@ -562,12 +434,7 @@
 		"hsecd": "02",
 		"rse": "05",
 		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "동탄2신도시 동탄역 디에트르 퍼스티지",
-		"addr": "경기도 화성시 오산동 979번지",
-		"short_addr": "경기도 화성시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "화성시",
-		"apply_nums": "3세대"
+		"name": "동탄2신도시 동탄역 디에트르 퍼스티지"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950078&pblancNo=2025950078&houseSecd=02",
@@ -720,12 +587,7 @@
 		"hsecd": "01",
 		"rse": "02",
 		"type": "APT 1순위",
-		"name": "이천 중리지구 B3블록 금성백조 예미지",
-		"addr": "경기도 이천시 중리지구 B3블록(중리동 518번지)",
-		"short_addr": "경기도 이천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "이천시",
-		"apply_nums": "1009세대"
+		"name": "이천 중리지구 B3블록 금성백조 예미지"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000552&pblancNo=2025000552&houseSecd=01",
@@ -733,12 +595,7 @@
 		"hsecd": "01",
 		"rse": "02",
 		"type": "APT 1순위",
-		"name": "한화포레나 부산대연",
-		"addr": "부산광역시 남구 대연동 455-25번지",
-		"short_addr": "부산광역시 남구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "남구",
-		"apply_nums": "104세대"
+		"name": "한화포레나 부산대연"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000615&pblancNo=2025000615&houseSecd=01",
