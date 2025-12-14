@@ -418,17 +418,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ 093025_001-1pondo ]]></showrss:showname>
 		</item>
-		<item>
-			<title><![CDATA[ 100525_001-1pondo ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:2b7e49b150de2e54102650a5fed061ea42b949a8 ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ 100525_001-1pondo ]]></showrss:showname>
-		</item>
-		<item>
-			<title><![CDATA[ HEYZO-3735 ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:c9e2cd6cf04314af26ebf98806540dcf0ce59500 ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ HEYZO-3735 ]]></showrss:showname>
-		</item>
 	</channel>
 </rss>
