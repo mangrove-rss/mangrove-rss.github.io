@@ -484,6 +484,14 @@
 		"name": "석남역 센트럴파크 그랑베르(2차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940306&pblancNo=2025940306&houseSecd=11",
+		"in_date": "20251219",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "탑석 푸르지오 파크7 (2차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940299&pblancNo=2025940299&houseSecd=11",
 		"in_date": "20251219",
 		"hsecd": "11",
@@ -500,6 +508,14 @@
 		"name": "리아츠 더 인천 (14차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940306&pblancNo=2025940306&houseSecd=11",
+		"in_date": "20251220",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "탑석 푸르지오 파크7 (2차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940299&pblancNo=2025940299&houseSecd=11",
 		"in_date": "20251220",
 		"hsecd": "11",
@@ -514,6 +530,14 @@
 		"rse": "11",
 		"type": "",
 		"name": "리아츠 더 인천 (14차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940306&pblancNo=2025940306&houseSecd=11",
+		"in_date": "20251221",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "탑석 푸르지오 파크7 (2차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940299&pblancNo=2025940299&houseSecd=11",
@@ -563,6 +587,22 @@
 		"apply_nums": "12세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850039&pblancNo=2025850039&houseSecd=03",
+		"in_date": "20251222",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "북수원 이목 시티프라디움 더블리스"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850040&pblancNo=2025850040&houseSecd=03",
+		"in_date": "20251222",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "운정신도시 푸르지오 더 스마트"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950077&pblancNo=2025950077&houseSecd=02",
 		"in_date": "20251222",
 		"hsecd": "02",
@@ -589,12 +629,33 @@
 		"apply_nums": "5세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910260&pblancNo=2025910260&houseSecd=04",
+		"in_date": "20251222",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "화성 비봉지구 B3블록 예미지 센트럴에듀",
+		"addr": "경기도 화성시 비봉면 새비봉서로 20 (화성비봉지구 B-3블록 예미지 센트럴 에듀)",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "2세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940305&pblancNo=2025940305&houseSecd=11",
 		"in_date": "20251222",
 		"hsecd": "11",
 		"rse": "11",
 		"type": "",
 		"name": "리아츠 더 인천 (14차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940306&pblancNo=2025940306&houseSecd=11",
+		"in_date": "20251222",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "탑석 푸르지오 파크7 (2차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940299&pblancNo=2025940299&houseSecd=11",
@@ -642,6 +703,14 @@
 		"addr_lv1": "대전광역시",
 		"addr_lv2": "서구",
 		"apply_nums": "12세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850039&pblancNo=2025850039&houseSecd=03",
+		"in_date": "20251223",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "북수원 이목 시티프라디움 더블리스"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000581&pblancNo=2025000581&houseSecd=01",
