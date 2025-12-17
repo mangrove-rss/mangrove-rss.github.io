@@ -616,6 +616,19 @@
 		"apply_nums": "29세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950085&pblancNo=2025950085&houseSecd=02",
+		"in_date": "20251222",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "목동 로프트하임",
+		"addr": "서울특별시 양천구 신정동 323번지 일대",
+		"short_addr": "서울특별시 양천구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "양천구",
+		"apply_nums": "30세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910259&pblancNo=2025910259&houseSecd=04",
 		"in_date": "20251222",
 		"hsecd": "04",
@@ -640,6 +653,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "화성시",
 		"apply_nums": "2세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930057&pblancNo=2025930057&houseSecd=06",
+		"in_date": "20251222",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "디에이치 자이 개포",
+		"addr": "서울특별시 강남구 영동대로 22, 디에이치 자이 개포",
+		"short_addr": "서울특별시 강남구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강남구",
+		"apply_nums": "1세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940305&pblancNo=2025940305&houseSecd=11",
@@ -711,6 +737,32 @@
 		"rse": "04",
 		"type": "",
 		"name": "북수원 이목 시티프라디움 더블리스"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950085&pblancNo=2025950085&houseSecd=02",
+		"in_date": "20251223",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "목동 로프트하임",
+		"addr": "서울특별시 양천구 신정동 323번지 일대",
+		"short_addr": "서울특별시 양천구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "양천구",
+		"apply_nums": "30세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910256&pblancNo=2025910256&houseSecd=04",
+		"in_date": "20251223",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "풍무역세권 수자인 그라센트 1차",
+		"addr": "경기도 김포시 풍무역세권도시개발사업 B2BL(사우동 173-1번지 일원)",
+		"short_addr": "경기도 김포시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "김포시",
+		"apply_nums": "140세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000581&pblancNo=2025000581&houseSecd=01",
