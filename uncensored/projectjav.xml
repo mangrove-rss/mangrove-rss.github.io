@@ -490,11 +490,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ 091725-001-carib ]]></showrss:showname>
 		</item>
-		<item>
-			<title><![CDATA[ 091825_001-1pondo ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:05b4447d3b2ed540f939bc4e87ff90897660a0f2 ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ 091825_001-1pondo ]]></showrss:showname>
-		</item>
 	</channel>
 </rss>
