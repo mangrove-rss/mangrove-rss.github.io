@@ -472,23 +472,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ 092125-001-carib ]]></showrss:showname>
 		</item>
-		<item>
-			<title><![CDATA[ 091625-001-carib ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:c2a12f042c2374da7c0d9834f544f7c5db7b59be ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ 091625-001-carib ]]></showrss:showname>
-		</item>
-		<item>
-			<title><![CDATA[ 092125_001-1pondo ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:6ebff0fe9d0d349e976742e1a8e88460b3447010 ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ 092125_001-1pondo ]]></showrss:showname>
-		</item>
-		<item>
-			<title><![CDATA[ 091725-001-carib ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:0cc98c83c7aaf920c18de5e636e0161c184f4ae7 ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ 091725-001-carib ]]></showrss:showname>
-		</item>
 	</channel>
 </rss>
