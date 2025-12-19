@@ -1,107 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000582&pblancNo=2025000582&houseSecd=01",
-		"in_date": "20251216",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "송도 한내들 센트럴리버",
-		"addr": "인천광역시 연수구 송도동 543번지(송도국제도시 11공구 RC3BL)",
-		"short_addr": "인천광역시 연수구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "연수구",
-		"apply_nums": "501세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000566&pblancNo=2025000566&houseSecd=01",
-		"in_date": "20251216",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "역삼센트럴자이",
-		"addr": "서울특별시 강남구 역삼동 758번지 일원",
-		"short_addr": "서울특별시 강남구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강남구",
-		"apply_nums": "87세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850038&pblancNo=2025850038&houseSecd=03",
-		"in_date": "20251216",
-		"hsecd": "03",
-		"rse": "04",
-		"type": "",
-		"name": "부경경마공원역 대방 디에트르 더리버(AP1BL)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950084&pblancNo=2025950084&houseSecd=02",
-		"in_date": "20251216",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "철산역 프론트타워",
-		"addr": "경기도 광명시 철산동 472-33번지 외 12필지",
-		"short_addr": "경기도 광명시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "광명시",
-		"apply_nums": "117세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950080&pblancNo=2025950080&houseSecd=02",
-		"in_date": "20251216",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "힐스테이트 용인포레(기업형민간임대)　",
-		"addr": "경기도 용인시 처인구 삼가동 447-15번지 일원",
-		"short_addr": "경기도 용인시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "용인시",
-		"apply_nums": "105세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910250&pblancNo=2025910250&houseSecd=04",
-		"in_date": "20251216",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "엘리프 한신더휴 수원 C3블록",
-		"addr": "경기도 수원시 권선구 당수1지구 공공주택지구 내 C3블록",
-		"short_addr": "경기도 수원시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "수원시",
-		"apply_nums": "127세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910251&pblancNo=2025910251&houseSecd=04",
-		"in_date": "20251216",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "엘리프 한신더휴 수원 D3블록",
-		"addr": "경기도 수원시 권선구 당수1지구 공공주택지구 내 D3블록",
-		"short_addr": "경기도 수원시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "수원시",
-		"apply_nums": "130세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940305&pblancNo=2025940305&houseSecd=11",
-		"in_date": "20251216",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "리아츠 더 인천 (14차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940299&pblancNo=2025940299&houseSecd=11",
-		"in_date": "20251216",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "힐스테이트 용인마크밸리(4차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000524&pblancNo=2025000524&houseSecd=01",
 		"in_date": "20251217",
 		"hsecd": "01",
@@ -661,6 +559,19 @@
 		"name": "클러스터용인 경남아너스빌(3차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000619&pblancNo=2025000619&houseSecd=01",
+		"in_date": "20251224",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "안동리첼스카이파크",
+		"addr": "경상북도 안동시 송현동 529-1번지 일원",
+		"short_addr": "경상북도 안동시",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "안동시",
+		"apply_nums": "264세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000581&pblancNo=2025000581&houseSecd=01",
 		"in_date": "20251224",
 		"hsecd": "01",
@@ -703,6 +614,19 @@
 		"name": "클러스터용인 경남아너스빌(3차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000619&pblancNo=2025000619&houseSecd=01",
+		"in_date": "20251226",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "안동리첼스카이파크",
+		"addr": "경상북도 안동시 송현동 529-1번지 일원",
+		"short_addr": "경상북도 안동시",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "안동시",
+		"apply_nums": "264세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940307&pblancNo=2025940307&houseSecd=11",
 		"in_date": "20251226",
 		"hsecd": "11",
@@ -737,6 +661,58 @@
 		"apply_nums": "480세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000634&pblancNo=2025000634&houseSecd=01",
+		"in_date": "20251229",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "영종국제도시 신일 비아프 크레스트(1단지)",
+		"addr": "인천광역시 중구 운남동 1695-2(영종하늘도시 A19BL) ",
+		"short_addr": "인천광역시 중구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "444세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000635&pblancNo=2025000635&houseSecd=01",
+		"in_date": "20251229",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "영종국제도시 신일 비아프 크레스트(2단지)",
+		"addr": "인천광역시 중구 운남동 1696-1(영종하늘도시 A20BL)",
+		"short_addr": "인천광역시 중구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "516세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000632&pblancNo=2025000632&houseSecd=01",
+		"in_date": "20251229",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "용인 푸르지오 클루센트",
+		"addr": "경기도 용인시 처인구 역북동 811번지 (신대지구 A1 블록)",
+		"short_addr": "경기도 용인시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "용인시",
+		"apply_nums": "784세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000602&pblancNo=2025000602&houseSecd=01",
+		"in_date": "20251229",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "인천영종국제도시 디에트르 라 메르Ⅰ(RC4-1,2BL)(본청약)",
+		"addr": "인천광역시 중구 중산동 1958-8,9 (인천광역시 중구 중산동 RC4-1,2BL)",
+		"short_addr": "인천광역시 중구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "903세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000610&pblancNo=2025000610&houseSecd=01",
 		"in_date": "20251229",
 		"hsecd": "01",
@@ -750,6 +726,32 @@
 		"apply_nums": "704세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000605&pblancNo=2025000605&houseSecd=01",
+		"in_date": "20251229",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "힐스테이트 선암호수공원 1단지",
+		"addr": "울산광역시 남구 야음동 830-1 일원",
+		"short_addr": "울산광역시 남구",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "438세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000606&pblancNo=2025000606&houseSecd=01",
+		"in_date": "20251229",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "힐스테이트 선암호수공원 2단지",
+		"addr": "울산광역시 남구 야음동 829-20 일원",
+		"short_addr": "울산광역시 남구",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "193세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000616&pblancNo=2025000616&houseSecd=01",
 		"in_date": "20251229",
 		"hsecd": "01",
@@ -763,6 +765,19 @@
 		"apply_nums": "18세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000619&pblancNo=2025000619&houseSecd=01",
+		"in_date": "20251229",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "안동리첼스카이파크",
+		"addr": "경상북도 안동시 송현동 529-1번지 일원",
+		"short_addr": "경상북도 안동시",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "안동시",
+		"apply_nums": "264세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000629&pblancNo=2025000629&houseSecd=01",
 		"in_date": "20251230",
 		"hsecd": "01",
@@ -789,6 +804,58 @@
 		"apply_nums": "480세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000634&pblancNo=2025000634&houseSecd=01",
+		"in_date": "20251230",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "영종국제도시 신일 비아프 크레스트(1단지)",
+		"addr": "인천광역시 중구 운남동 1695-2(영종하늘도시 A19BL) ",
+		"short_addr": "인천광역시 중구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "444세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000635&pblancNo=2025000635&houseSecd=01",
+		"in_date": "20251230",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "영종국제도시 신일 비아프 크레스트(2단지)",
+		"addr": "인천광역시 중구 운남동 1696-1(영종하늘도시 A20BL)",
+		"short_addr": "인천광역시 중구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "516세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000632&pblancNo=2025000632&houseSecd=01",
+		"in_date": "20251230",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "용인 푸르지오 클루센트",
+		"addr": "경기도 용인시 처인구 역북동 811번지 (신대지구 A1 블록)",
+		"short_addr": "경기도 용인시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "용인시",
+		"apply_nums": "784세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000602&pblancNo=2025000602&houseSecd=01",
+		"in_date": "20251230",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "인천영종국제도시 디에트르 라 메르Ⅰ(RC4-1,2BL)(본청약)",
+		"addr": "인천광역시 중구 중산동 1958-8,9 (인천광역시 중구 중산동 RC4-1,2BL)",
+		"short_addr": "인천광역시 중구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "903세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000610&pblancNo=2025000610&houseSecd=01",
 		"in_date": "20251230",
 		"hsecd": "01",
@@ -800,6 +867,32 @@
 		"addr_lv1": "울산광역시",
 		"addr_lv2": "중구",
 		"apply_nums": "704세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000605&pblancNo=2025000605&houseSecd=01",
+		"in_date": "20251230",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "힐스테이트 선암호수공원 1단지",
+		"addr": "울산광역시 남구 야음동 830-1 일원",
+		"short_addr": "울산광역시 남구",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "438세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000606&pblancNo=2025000606&houseSecd=01",
+		"in_date": "20251230",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "힐스테이트 선암호수공원 2단지",
+		"addr": "울산광역시 남구 야음동 829-20 일원",
+		"short_addr": "울산광역시 남구",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "193세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000616&pblancNo=2025000616&houseSecd=01",
@@ -841,6 +934,58 @@
 		"apply_nums": "474세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000634&pblancNo=2025000634&houseSecd=01",
+		"in_date": "20251231",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "영종국제도시 신일 비아프 크레스트(1단지)",
+		"addr": "인천광역시 중구 운남동 1695-2(영종하늘도시 A19BL) ",
+		"short_addr": "인천광역시 중구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "444세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000635&pblancNo=2025000635&houseSecd=01",
+		"in_date": "20251231",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "영종국제도시 신일 비아프 크레스트(2단지)",
+		"addr": "인천광역시 중구 운남동 1696-1(영종하늘도시 A20BL)",
+		"short_addr": "인천광역시 중구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "516세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000632&pblancNo=2025000632&houseSecd=01",
+		"in_date": "20251231",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "용인 푸르지오 클루센트",
+		"addr": "경기도 용인시 처인구 역북동 811번지 (신대지구 A1 블록)",
+		"short_addr": "경기도 용인시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "용인시",
+		"apply_nums": "784세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000602&pblancNo=2025000602&houseSecd=01",
+		"in_date": "20251231",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "인천영종국제도시 디에트르 라 메르Ⅰ(RC4-1,2BL)(본청약)",
+		"addr": "인천광역시 중구 중산동 1958-8,9 (인천광역시 중구 중산동 RC4-1,2BL)",
+		"short_addr": "인천광역시 중구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "903세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000610&pblancNo=2025000610&houseSecd=01",
 		"in_date": "20251231",
 		"hsecd": "01",
@@ -852,6 +997,32 @@
 		"addr_lv1": "울산광역시",
 		"addr_lv2": "중구",
 		"apply_nums": "704세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000605&pblancNo=2025000605&houseSecd=01",
+		"in_date": "20251231",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "힐스테이트 선암호수공원 1단지",
+		"addr": "울산광역시 남구 야음동 830-1 일원",
+		"short_addr": "울산광역시 남구",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "438세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000606&pblancNo=2025000606&houseSecd=01",
+		"in_date": "20251231",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "힐스테이트 선암호수공원 2단지",
+		"addr": "울산광역시 남구 야음동 829-20 일원",
+		"short_addr": "울산광역시 남구",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "193세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000622&pblancNo=2025000622&houseSecd=01",
