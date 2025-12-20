@@ -53,16 +53,16 @@
 			<showrss:showname><![CDATA[ n0880 ]]></showrss:showname>
 		</item>
 		<item>
-			<title><![CDATA[ 121925-001-carib ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:40a68a91126aaa5bd307ec84095e83e13c325c3b ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ 121925-001-carib ]]></showrss:showname>
-		</item>
-		<item>
 			<title><![CDATA[ HEYZO-3776 ]]></title>
 			<link><![CDATA[ magnet:?xt=urn:btih:d061ba5c80c08869e7fb11570eba7c51c7c0250e ]]></link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ HEYZO-3776 ]]></showrss:showname>
+		</item>
+		<item>
+			<title><![CDATA[ 121925-001-carib ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih:40a68a91126aaa5bd307ec84095e83e13c325c3b ]]></link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ 121925-001-carib ]]></showrss:showname>
 		</item>
 		<item>
 			<title><![CDATA[ 112425-001-carib ]]></title>
@@ -83,6 +83,12 @@
 			<showrss:showname><![CDATA[ 112425-001-carib ]]></showrss:showname>
 		</item>
 		<item>
+			<title><![CDATA[ HEYZO-3742 ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih:9567104e02dc3ffbd308ec9b2205f812baf57494 ]]></link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ HEYZO-3742 ]]></showrss:showname>
+		</item>
+		<item>
 			<title><![CDATA[ 121825_001-1pondo ]]></title>
 			<link><![CDATA[ magnet:?xt=urn:btih:1fee778832168389a6c00342d22c142aed827a92 ]]></link>
 			<showrss:showid></showrss:showid>
@@ -93,12 +99,6 @@
 			<link><![CDATA[ magnet:?xt=urn:btih:9e0f9b24da137ea654dea0a03029f9fb9a171f45 ]]></link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ 121825-001-carib ]]></showrss:showname>
-		</item>
-		<item>
-			<title><![CDATA[ HEYZO-3742 ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:9567104e02dc3ffbd308ec9b2205f812baf57494 ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ HEYZO-3742 ]]></showrss:showname>
 		</item>
 		<item>
 			<title><![CDATA[ 121725-001-carib ]]></title>
@@ -131,6 +131,12 @@
 			<showrss:showname><![CDATA[ 112125-001-carib ]]></showrss:showname>
 		</item>
 		<item>
+			<title><![CDATA[ 121625_001-1pondo ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih:046ed49b9a15c140fe8830429a61ba04a80a4104 ]]></link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ 121625_001-1pondo ]]></showrss:showname>
+		</item>
+		<item>
 			<title><![CDATA[ HEYZO-3741 ]]></title>
 			<link><![CDATA[ magnet:?xt=urn:btih:cf13579960786fd0f63ce76325160def8064713a ]]></link>
 			<showrss:showid></showrss:showid>
@@ -141,12 +147,6 @@
 			<link><![CDATA[ magnet:?xt=urn:btih:d45059786a4a765b6e09d3aec31ee0bf406c196d ]]></link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ HEYZO-3741 ]]></showrss:showname>
-		</item>
-		<item>
-			<title><![CDATA[ 121625_001-1pondo ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:046ed49b9a15c140fe8830429a61ba04a80a4104 ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ 121625_001-1pondo ]]></showrss:showname>
 		</item>
 		<item>
 			<title><![CDATA[ 121425_001-1pondo ]]></title>
