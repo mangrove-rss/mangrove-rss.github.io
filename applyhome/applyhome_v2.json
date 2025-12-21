@@ -1,108 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000524&pblancNo=2025000524&houseSecd=01",
-		"in_date": "20251218",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "용인 푸르지오 원클러스터파크",
-		"addr": "경기도 용인시 처인구 양지면 양지리 산97-12번지 일원",
-		"short_addr": "경기도 용인시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "용인시",
-		"apply_nums": "710세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000566&pblancNo=2025000566&houseSecd=01",
-		"in_date": "20251218",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "역삼센트럴자이",
-		"addr": "서울특별시 강남구 역삼동 758번지 일원",
-		"short_addr": "서울특별시 강남구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강남구",
-		"apply_nums": "87세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950081&pblancNo=2025950081&houseSecd=02",
-		"in_date": "20251218",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "동탄2신도시 대방 엘리움 레이크파크",
-		"addr": "경기도 화성시 송동 725-9",
-		"short_addr": "경기도 화성시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "화성시",
-		"apply_nums": "6세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950083&pblancNo=2025950083&houseSecd=02",
-		"in_date": "20251218",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "동탄2신도시 동탄역 대방 엘리움 더 시그니처(C18BL)",
-		"addr": "경기도 화성시 오산동 동탄2택지개발지구 C18BL",
-		"short_addr": "경기도 화성시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "화성시",
-		"apply_nums": "8세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950082&pblancNo=2025950082&houseSecd=02",
-		"in_date": "20251218",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "동탄2신도시 동탄역 디에트르 퍼스티지",
-		"addr": "경기도 화성시 오산동 979번지",
-		"short_addr": "경기도 화성시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "화성시",
-		"apply_nums": "3세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950078&pblancNo=2025950078&houseSecd=02",
-		"in_date": "20251218",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "라비움 한강(도시형생활주택)",
-		"addr": "서울특별시 마포구 합정동 381-49번지 일원",
-		"short_addr": "서울특별시 마포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "마포구",
-		"apply_nums": "165세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940305&pblancNo=2025940305&houseSecd=11",
-		"in_date": "20251218",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "리아츠 더 인천 (14차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940308&pblancNo=2025940308&houseSecd=11",
-		"in_date": "20251218",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "석남역 센트럴파크 그랑베르(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940299&pblancNo=2025940299&houseSecd=11",
-		"in_date": "20251218",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "힐스테이트 용인마크밸리(4차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000524&pblancNo=2025000524&houseSecd=01",
 		"in_date": "20251219",
 		"hsecd": "01",
 		"rse": "03",
@@ -647,6 +545,19 @@
 		"apply_nums": "264세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910261&pblancNo=2025910261&houseSecd=04",
+		"in_date": "20251229",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "북서울자이 폴라리스(2차)",
+		"addr": "서울특별시 강북구 미아동 791-364번지일대 (미아3구역주택재개발 정비사업)",
+		"short_addr": "서울특별시 강북구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강북구",
+		"apply_nums": "2세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000629&pblancNo=2025000629&houseSecd=01",
 		"in_date": "20251230",
 		"hsecd": "01",
@@ -894,6 +805,19 @@
 		"apply_nums": "193세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000617&pblancNo=2025000617&houseSecd=01",
+		"in_date": "20260102",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "영종하늘도시 대라수 어썸(A50BL)",
+		"addr": "인천광역시 중구 영종하늘도시 A50BL(중산동 1958-1번지)",
+		"short_addr": "인천광역시 중구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "297세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000622&pblancNo=2025000622&houseSecd=01",
 		"in_date": "20260102",
 		"hsecd": "01",
@@ -905,5 +829,31 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "용인시",
 		"apply_nums": "480세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000617&pblancNo=2025000617&houseSecd=01",
+		"in_date": "20260105",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "영종하늘도시 대라수 어썸(A50BL)",
+		"addr": "인천광역시 중구 영종하늘도시 A50BL(중산동 1958-1번지)",
+		"short_addr": "인천광역시 중구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "297세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000617&pblancNo=2025000617&houseSecd=01",
+		"in_date": "20260106",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "영종하늘도시 대라수 어썸(A50BL)",
+		"addr": "인천광역시 중구 영종하늘도시 A50BL(중산동 1958-1번지)",
+		"short_addr": "인천광역시 중구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "297세대"
 	}
 ]
