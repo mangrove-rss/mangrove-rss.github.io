@@ -1,50 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000524&pblancNo=2025000524&houseSecd=01",
-		"in_date": "20251219",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "용인 푸르지오 원클러스터파크",
-		"addr": "경기도 용인시 처인구 양지면 양지리 산97-12번지 일원",
-		"short_addr": "경기도 용인시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "용인시",
-		"apply_nums": "710세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940305&pblancNo=2025940305&houseSecd=11",
-		"in_date": "20251219",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "리아츠 더 인천 (14차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940308&pblancNo=2025940308&houseSecd=11",
-		"in_date": "20251219",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "석남역 센트럴파크 그랑베르(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940306&pblancNo=2025940306&houseSecd=11",
-		"in_date": "20251219",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "탑석 푸르지오 파크7 (2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940299&pblancNo=2025940299&houseSecd=11",
-		"in_date": "20251219",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "힐스테이트 용인마크밸리(4차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940305&pblancNo=2025940305&houseSecd=11",
 		"in_date": "20251220",
 		"hsecd": "11",
@@ -543,6 +498,19 @@
 		"addr_lv1": "경상북도",
 		"addr_lv2": "안동시",
 		"apply_nums": "264세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910257&pblancNo=2025910257&houseSecd=04",
+		"in_date": "20251229",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "김해 안동 에피트",
+		"addr": "경상남도 김해시 안동 118-1번지 일원",
+		"short_addr": "경상남도 김해시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "김해시",
+		"apply_nums": "4세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910261&pblancNo=2025910261&houseSecd=04",
