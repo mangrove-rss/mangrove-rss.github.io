@@ -1,86 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000581&pblancNo=2025000581&houseSecd=01",
-		"in_date": "20251223",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "이천 중리지구 B3블록 금성백조 예미지",
-		"addr": "경기도 이천시 중리지구 B3블록(중리동 518번지)",
-		"short_addr": "경기도 이천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "이천시",
-		"apply_nums": "1009세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000552&pblancNo=2025000552&houseSecd=01",
-		"in_date": "20251223",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "한화포레나 부산대연",
-		"addr": "부산광역시 남구 대연동 455-25번지",
-		"short_addr": "부산광역시 남구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "남구",
-		"apply_nums": "104세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000615&pblancNo=2025000615&houseSecd=01",
-		"in_date": "20251223",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "둔산 자이 아이파크",
-		"addr": "대전광역시 서구 탄방동 514-360번지 일원",
-		"short_addr": "대전광역시 서구",
-		"addr_lv1": "대전광역시",
-		"addr_lv2": "서구",
-		"apply_nums": "12세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025850039&pblancNo=2025850039&houseSecd=03",
-		"in_date": "20251223",
-		"hsecd": "03",
-		"rse": "04",
-		"type": "",
-		"name": "북수원 이목 시티프라디움 더블리스"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950085&pblancNo=2025950085&houseSecd=02",
-		"in_date": "20251223",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "목동 로프트하임",
-		"addr": "서울특별시 양천구 신정동 323번지 일대",
-		"short_addr": "서울특별시 양천구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "양천구",
-		"apply_nums": "30세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910256&pblancNo=2025910256&houseSecd=04",
-		"in_date": "20251223",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "풍무역세권 수자인 그라센트 1차",
-		"addr": "경기도 김포시 풍무역세권도시개발사업 B2BL(사우동 173-1번지 일원)",
-		"short_addr": "경기도 김포시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "김포시",
-		"apply_nums": "140세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940307&pblancNo=2025940307&houseSecd=11",
-		"in_date": "20251223",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "클러스터용인 경남아너스빌(3차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000619&pblancNo=2025000619&houseSecd=01",
 		"in_date": "20251224",
 		"hsecd": "01",
@@ -651,6 +570,19 @@
 		"apply_nums": "480세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000624&pblancNo=2025000624&houseSecd=01",
+		"in_date": "20260105",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "해남 남외리 정하 에코프라임",
+		"addr": "전라남도 해남군 해남읍 남외리 410번지 일원",
+		"short_addr": "전라남도 해남군",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "해남군",
+		"apply_nums": "305세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000617&pblancNo=2025000617&houseSecd=01",
 		"in_date": "20260105",
 		"hsecd": "01",
@@ -677,6 +609,19 @@
 		"apply_nums": "48세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000624&pblancNo=2025000624&houseSecd=01",
+		"in_date": "20260106",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "해남 남외리 정하 에코프라임",
+		"addr": "전라남도 해남군 해남읍 남외리 410번지 일원",
+		"short_addr": "전라남도 해남군",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "해남군",
+		"apply_nums": "305세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000617&pblancNo=2025000617&houseSecd=01",
 		"in_date": "20260106",
 		"hsecd": "01",
@@ -701,5 +646,18 @@
 		"addr_lv1": "전북특별자치도",
 		"addr_lv2": "전주시",
 		"apply_nums": "48세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000624&pblancNo=2025000624&houseSecd=01",
+		"in_date": "20260107",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "해남 남외리 정하 에코프라임",
+		"addr": "전라남도 해남군 해남읍 남외리 410번지 일원",
+		"short_addr": "전라남도 해남군",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "해남군",
+		"apply_nums": "305세대"
 	}
 ]
