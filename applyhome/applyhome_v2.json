@@ -1,61 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000619&pblancNo=2025000619&houseSecd=01",
-		"in_date": "20251224",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "안동리첼스카이파크",
-		"addr": "경상북도 안동시 송현동 529-1번지 일원",
-		"short_addr": "경상북도 안동시",
-		"addr_lv1": "경상북도",
-		"addr_lv2": "안동시",
-		"apply_nums": "264세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000581&pblancNo=2025000581&houseSecd=01",
-		"in_date": "20251224",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "이천 중리지구 B3블록 금성백조 예미지",
-		"addr": "경기도 이천시 중리지구 B3블록(중리동 518번지)",
-		"short_addr": "경기도 이천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "이천시",
-		"apply_nums": "1009세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000552&pblancNo=2025000552&houseSecd=01",
-		"in_date": "20251224",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "한화포레나 부산대연",
-		"addr": "부산광역시 남구 대연동 455-25번지",
-		"short_addr": "부산광역시 남구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "남구",
-		"apply_nums": "104세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940307&pblancNo=2025940307&houseSecd=11",
-		"in_date": "20251224",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "클러스터용인 경남아너스빌(3차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940307&pblancNo=2025940307&houseSecd=11",
-		"in_date": "20251225",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "클러스터용인 경남아너스빌(3차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000619&pblancNo=2025000619&houseSecd=01",
 		"in_date": "20251226",
 		"hsecd": "01",
 		"rse": "02",
@@ -609,6 +554,40 @@
 		"apply_nums": "48세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910268&pblancNo=2025910268&houseSecd=04",
+		"in_date": "20260105",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "시흥거모지구 대방 엘리움 더 루체Ⅰ(S-2BL)",
+		"addr": "경기도 시흥시 시흥거모 공공주택지구 S-2블럭(경기도 시흥시 거모동 일원)",
+		"short_addr": "경기도 시흥시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "시흥시",
+		"apply_nums": "213세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910269&pblancNo=2025910269&houseSecd=04",
+		"in_date": "20260105",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "시흥거모지구 대방 엘리움 더 루체Ⅱ(B-2BL)",
+		"addr": "경기도 시흥시 시흥거모 공공주택지구 B-2블럭(경기도 시흥시 거모동 일원)",
+		"short_addr": "경기도 시흥시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "시흥시",
+		"apply_nums": "263세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940311&pblancNo=2025940311&houseSecd=11",
+		"in_date": "20260105",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "수원이목지구 대방 디에트르 더 리체Ⅱ(A3BL) (10차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000624&pblancNo=2025000624&houseSecd=01",
 		"in_date": "20260106",
 		"hsecd": "01",
@@ -646,6 +625,14 @@
 		"addr_lv1": "전북특별자치도",
 		"addr_lv2": "전주시",
 		"apply_nums": "48세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940311&pblancNo=2025940311&houseSecd=11",
+		"in_date": "20260106",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "수원이목지구 대방 디에트르 더 리체Ⅱ(A3BL) (10차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000624&pblancNo=2025000624&houseSecd=01",
