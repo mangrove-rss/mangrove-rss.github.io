@@ -1,26 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000619&pblancNo=2025000619&houseSecd=01",
-		"in_date": "20251226",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "안동리첼스카이파크",
-		"addr": "경상북도 안동시 송현동 529-1번지 일원",
-		"short_addr": "경상북도 안동시",
-		"addr_lv1": "경상북도",
-		"addr_lv2": "안동시",
-		"apply_nums": "264세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940307&pblancNo=2025940307&houseSecd=11",
-		"in_date": "20251226",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "클러스터용인 경남아너스빌(3차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000629&pblancNo=2025000629&houseSecd=01",
 		"in_date": "20251229",
 		"hsecd": "01",
