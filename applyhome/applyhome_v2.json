@@ -625,5 +625,44 @@
 		"addr_lv1": "전라남도",
 		"addr_lv2": "해남군",
 		"apply_nums": "305세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000650&pblancNo=2025000650&houseSecd=01",
+		"in_date": "20260112",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "힐스테이트 물금센트럴",
+		"addr": "경상남도 양산시 물금읍 범어리 502-3번지 일원",
+		"short_addr": "경상남도 양산시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "양산시",
+		"apply_nums": "162세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000650&pblancNo=2025000650&houseSecd=01",
+		"in_date": "20260113",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "힐스테이트 물금센트럴",
+		"addr": "경상남도 양산시 물금읍 범어리 502-3번지 일원",
+		"short_addr": "경상남도 양산시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "양산시",
+		"apply_nums": "162세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000650&pblancNo=2025000650&houseSecd=01",
+		"in_date": "20260114",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "힐스테이트 물금센트럴",
+		"addr": "경상남도 양산시 물금읍 범어리 502-3번지 일원",
+		"short_addr": "경상남도 양산시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "양산시",
+		"apply_nums": "162세대"
 	}
 ]
