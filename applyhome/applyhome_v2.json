@@ -258,6 +258,14 @@
 		"apply_nums": "4세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940313&pblancNo=2025940313&houseSecd=11",
+		"in_date": "20260107",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "두산위브앤수자인 부평 더퍼스트"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950087&pblancNo=2025950087&houseSecd=02",
 		"in_date": "20260108",
 		"hsecd": "02",
@@ -308,6 +316,19 @@
 		"addr_lv1": "경상남도",
 		"addr_lv2": "양산시",
 		"apply_nums": "162세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910266&pblancNo=2025910266&houseSecd=04",
+		"in_date": "20260112",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "청계 노르웨이숲(5차)",
+		"addr": "서울특별시 중구 황학동 1756번지 일원",
+		"short_addr": "서울특별시 중구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "중구",
+		"apply_nums": "46세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000595&pblancNo=2025000595&houseSecd=01",
