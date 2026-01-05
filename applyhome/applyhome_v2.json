@@ -1,57 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000617&pblancNo=2025000617&houseSecd=01",
-		"in_date": "20260102",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "영종하늘도시 대라수 어썸(A50BL)",
-		"addr": "인천광역시 중구 영종하늘도시 A50BL(중산동 1958-1번지)",
-		"short_addr": "인천광역시 중구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "중구",
-		"apply_nums": "297세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000620&pblancNo=2025000620&houseSecd=01",
-		"in_date": "20260102",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "전주 에코시티 더 클래스",
-		"addr": "전북특별자치도 전주시 덕진구 호성동2가 801-31번지 일원",
-		"short_addr": "전북특별자치도 전주시",
-		"addr_lv1": "전북특별자치도",
-		"addr_lv2": "전주시",
-		"apply_nums": "48세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000640&pblancNo=2025000640&houseSecd=01",
-		"in_date": "20260102",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "강릉역 경남아너스빌 더 센트로(조합원 취소분)",
-		"addr": "강원특별자치도 강릉시 명륜로 85번지",
-		"short_addr": "강원특별자치도 강릉시",
-		"addr_lv1": "강원특별자치도",
-		"addr_lv2": "강릉시",
-		"apply_nums": "16세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000622&pblancNo=2025000622&houseSecd=01",
-		"in_date": "20260102",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "수지자이 에디시온",
-		"addr": "경기도 용인시 수지구 풍덕천동 71-1번지 일원",
-		"short_addr": "경기도 용인시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "용인시",
-		"apply_nums": "480세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000624&pblancNo=2025000624&houseSecd=01",
 		"in_date": "20260105",
 		"hsecd": "01",
@@ -279,6 +227,22 @@
 		"apply_nums": "7세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940315&pblancNo=2025940315&houseSecd=11",
+		"in_date": "20260108",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "고촌센트럴자이(9차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940309&pblancNo=2025940309&houseSecd=11",
+		"in_date": "20260108",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "더샵 송파루미스타(3차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950087&pblancNo=2025950087&houseSecd=02",
 		"in_date": "20260109",
 		"hsecd": "02",
@@ -290,6 +254,22 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "광명시",
 		"apply_nums": "7세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940315&pblancNo=2025940315&houseSecd=11",
+		"in_date": "20260109",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "고촌센트럴자이(9차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940309&pblancNo=2025940309&houseSecd=11",
+		"in_date": "20260109",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "더샵 송파루미스타(3차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000595&pblancNo=2025000595&houseSecd=01",
@@ -316,6 +296,45 @@
 		"addr_lv1": "경상남도",
 		"addr_lv2": "양산시",
 		"apply_nums": "162세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950090&pblancNo=2025950090&houseSecd=02",
+		"in_date": "20260112",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "동탄2신도시 대방 엘리움 레이크파크",
+		"addr": "경기도 화성시 송동 725-9",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "10세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950091&pblancNo=2025950091&houseSecd=02",
+		"in_date": "20260112",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "동탄2신도시 동탄역 디에트르 퍼스티지",
+		"addr": "경기도 화성시 오산동 979번지",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "3세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910270&pblancNo=2025910270&houseSecd=04",
+		"in_date": "20260112",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "성산 더리브 포레스트",
+		"addr": "경상남도 창원시 성산구 신촌동 34-1번지 일원 ",
+		"short_addr": "경상남도 창원시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "창원시",
+		"apply_nums": "21세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910266&pblancNo=2025910266&houseSecd=04",
@@ -355,6 +374,32 @@
 		"addr_lv1": "경상남도",
 		"addr_lv2": "양산시",
 		"apply_nums": "162세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950090&pblancNo=2025950090&houseSecd=02",
+		"in_date": "20260113",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "동탄2신도시 대방 엘리움 레이크파크",
+		"addr": "경기도 화성시 송동 725-9",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "10세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950091&pblancNo=2025950091&houseSecd=02",
+		"in_date": "20260113",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "동탄2신도시 동탄역 디에트르 퍼스티지",
+		"addr": "경기도 화성시 오산동 979번지",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "3세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000595&pblancNo=2025000595&houseSecd=01",
