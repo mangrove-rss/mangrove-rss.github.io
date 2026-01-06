@@ -272,6 +272,30 @@
 		"name": "더샵 송파루미스타(3차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940001&pblancNo=2026940001&houseSecd=11",
+		"in_date": "20260109",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천 (15차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940001&pblancNo=2026940001&houseSecd=11",
+		"in_date": "20260110",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천 (15차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940001&pblancNo=2026940001&houseSecd=11",
+		"in_date": "20260111",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천 (15차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000595&pblancNo=2025000595&houseSecd=01",
 		"in_date": "20260112",
 		"hsecd": "01",
@@ -322,6 +346,32 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "화성시",
 		"apply_nums": "3세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910271&pblancNo=2025910271&houseSecd=04",
+		"in_date": "20260112",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "고덕 자연앤 하우스디(A4BL)(국민)(3차)",
+		"addr": "경기도 평택시 고덕동 1858-2번지(고덕국제화계획지구 A4BL)",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "3세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910272&pblancNo=2025910272&houseSecd=04",
+		"in_date": "20260112",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "고덕 자연앤 하우스디(A4BL)(민영)(3차)",
+		"addr": "경기도 평택시 고덕동 1858-2번지(고덕국제화계획지구 A4BL)",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "51세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910270&pblancNo=2025910270&houseSecd=04",
@@ -350,6 +400,27 @@
 		"apply_nums": "46세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910274&pblancNo=2025910274&houseSecd=04",
+		"in_date": "20260112",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "화성 남양뉴타운 우미 린 에듀하이",
+		"addr": "경기도 화성시 남양읍 남양리 2198 (남양뉴타운 B16BL)",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "176세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940001&pblancNo=2026940001&houseSecd=11",
+		"in_date": "20260112",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천 (15차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000595&pblancNo=2025000595&houseSecd=01",
 		"in_date": "20260113",
 		"hsecd": "01",
@@ -400,6 +471,14 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "화성시",
 		"apply_nums": "3세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940001&pblancNo=2026940001&houseSecd=11",
+		"in_date": "20260113",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천 (15차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000595&pblancNo=2025000595&houseSecd=01",
