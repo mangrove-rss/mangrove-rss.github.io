@@ -374,6 +374,19 @@
 		"apply_nums": "51세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910277&pblancNo=2025910277&houseSecd=04",
+		"in_date": "20260112",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "더샵 오창프레스티지",
+		"addr": "충청북도 청주시 청원구 오창읍 양청리 814-2",
+		"short_addr": "충청북도 청주시",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "청주시",
+		"apply_nums": "18세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910270&pblancNo=2025910270&houseSecd=04",
 		"in_date": "20260112",
 		"hsecd": "04",
@@ -385,6 +398,19 @@
 		"addr_lv1": "경상남도",
 		"addr_lv2": "창원시",
 		"apply_nums": "21세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910006&pblancNo=2026910006&houseSecd=04",
+		"in_date": "20260112",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "안양자이 헤리티온",
+		"addr": "경기도 안양시 만안구 안양동 398-32번지 일원",
+		"short_addr": "경기도 안양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "안양시",
+		"apply_nums": "241세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910266&pblancNo=2025910266&houseSecd=04",
@@ -419,6 +445,14 @@
 		"rse": "11",
 		"type": "",
 		"name": "리아츠 더 인천 (15차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940314&pblancNo=2025940314&houseSecd=11",
+		"in_date": "20260112",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "연수 서해그랑블 5단지(4차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000595&pblancNo=2025000595&houseSecd=01",
