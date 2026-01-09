@@ -1,53 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000624&pblancNo=2025000624&houseSecd=01",
-		"in_date": "20260106",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "해남 남외리 정하 에코프라임",
-		"addr": "전라남도 해남군 해남읍 남외리 410번지 일원",
-		"short_addr": "전라남도 해남군",
-		"addr_lv1": "전라남도",
-		"addr_lv2": "해남군",
-		"apply_nums": "305세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000617&pblancNo=2025000617&houseSecd=01",
-		"in_date": "20260106",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "영종하늘도시 대라수 어썸(A50BL)",
-		"addr": "인천광역시 중구 영종하늘도시 A50BL(중산동 1958-1번지)",
-		"short_addr": "인천광역시 중구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "중구",
-		"apply_nums": "297세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000620&pblancNo=2025000620&houseSecd=01",
-		"in_date": "20260106",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "전주 에코시티 더 클래스",
-		"addr": "전북특별자치도 전주시 덕진구 호성동2가 801-31번지 일원",
-		"short_addr": "전북특별자치도 전주시",
-		"addr_lv1": "전북특별자치도",
-		"addr_lv2": "전주시",
-		"apply_nums": "48세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940311&pblancNo=2025940311&houseSecd=11",
-		"in_date": "20260106",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "수원이목지구 대방 디에트르 더 리체Ⅱ(A3BL) (10차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000624&pblancNo=2025000624&houseSecd=01",
 		"in_date": "20260107",
 		"hsecd": "01",
 		"rse": "03",
@@ -484,6 +437,32 @@
 		"apply_nums": "1세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910280&pblancNo=2025910280&houseSecd=04",
+		"in_date": "20260114",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "서수원 에피트 센트럴마크(M1BL)",
+		"addr": "경기도 수원시 권선구 당수동 3001번지 일원 (수원당수 공공주택지구 M1BL)",
+		"short_addr": "경기도 수원시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "수원시",
+		"apply_nums": "48세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910279&pblancNo=2025910279&houseSecd=04",
+		"in_date": "20260114",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "서수원 에피트 센트럴마크(M2BL)",
+		"addr": "경기도 수원시 권선구 당수동 3002번지 일원 (수원당수 공공주택지구 M2BL)",
+		"short_addr": "경기도 수원시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "수원시",
+		"apply_nums": "62세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910002&pblancNo=2026910002&houseSecd=04",
 		"in_date": "20260114",
 		"hsecd": "04",
@@ -549,6 +528,19 @@
 		"apply_nums": "200세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000660&pblancNo=2025000660&houseSecd=01",
+		"in_date": "20260119",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "드파인 연희",
+		"addr": "서울특별시 서대문구 연희동 533-5번지 일원",
+		"short_addr": "서울특별시 서대문구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "서대문구",
+		"apply_nums": "332세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000656&pblancNo=2025000656&houseSecd=01",
 		"in_date": "20260119",
 		"hsecd": "01",
@@ -560,6 +552,45 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "김포시",
 		"apply_nums": "385세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950089&pblancNo=2025950089&houseSecd=02",
+		"in_date": "20260119",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "범일역 신화하니엘 팔라시오",
+		"addr": "부산광역시 동구 범일동 830-179",
+		"short_addr": "부산광역시 동구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "동구",
+		"apply_nums": "5세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000628&pblancNo=2025000628&houseSecd=01",
+		"in_date": "20260120",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "북오산자이 리버블시티",
+		"addr": "경기도 오산시 내삼미동 905 일원",
+		"short_addr": "경기도 오산시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "오산시",
+		"apply_nums": "1275세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000660&pblancNo=2025000660&houseSecd=01",
+		"in_date": "20260120",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "드파인 연희",
+		"addr": "서울특별시 서대문구 연희동 533-5번지 일원",
+		"short_addr": "서울특별시 서대문구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "서대문구",
+		"apply_nums": "332세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000656&pblancNo=2025000656&houseSecd=01",
@@ -575,6 +606,45 @@
 		"apply_nums": "385세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950089&pblancNo=2025950089&houseSecd=02",
+		"in_date": "20260120",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "범일역 신화하니엘 팔라시오",
+		"addr": "부산광역시 동구 범일동 830-179",
+		"short_addr": "부산광역시 동구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "동구",
+		"apply_nums": "5세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000660&pblancNo=2025000660&houseSecd=01",
+		"in_date": "20260121",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "드파인 연희",
+		"addr": "서울특별시 서대문구 연희동 533-5번지 일원",
+		"short_addr": "서울특별시 서대문구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "서대문구",
+		"apply_nums": "332세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000628&pblancNo=2025000628&houseSecd=01",
+		"in_date": "20260121",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "북오산자이 리버블시티",
+		"addr": "경기도 오산시 내삼미동 905 일원",
+		"short_addr": "경기도 오산시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "오산시",
+		"apply_nums": "1275세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000656&pblancNo=2025000656&houseSecd=01",
 		"in_date": "20260121",
 		"hsecd": "01",
@@ -586,5 +656,44 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "김포시",
 		"apply_nums": "385세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950089&pblancNo=2025950089&houseSecd=02",
+		"in_date": "20260121",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "범일역 신화하니엘 팔라시오",
+		"addr": "부산광역시 동구 범일동 830-179",
+		"short_addr": "부산광역시 동구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "동구",
+		"apply_nums": "5세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000660&pblancNo=2025000660&houseSecd=01",
+		"in_date": "20260122",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "드파인 연희",
+		"addr": "서울특별시 서대문구 연희동 533-5번지 일원",
+		"short_addr": "서울특별시 서대문구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "서대문구",
+		"apply_nums": "332세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000628&pblancNo=2025000628&houseSecd=01",
+		"in_date": "20260122",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "북오산자이 리버블시티",
+		"addr": "경기도 오산시 내삼미동 905 일원",
+		"short_addr": "경기도 오산시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "오산시",
+		"apply_nums": "1275세대"
 	}
 ]
