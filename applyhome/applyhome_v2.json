@@ -1,42 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950087&pblancNo=2025950087&houseSecd=02",
-		"in_date": "20260109",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "광명 퍼스트 스위첸",
-		"addr": "경기도 광명시 광명동 344번지",
-		"short_addr": "경기도 광명시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "광명시",
-		"apply_nums": "7세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940315&pblancNo=2025940315&houseSecd=11",
-		"in_date": "20260109",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "고촌센트럴자이(9차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940309&pblancNo=2025940309&houseSecd=11",
-		"in_date": "20260109",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "더샵 송파루미스타(3차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940001&pblancNo=2026940001&houseSecd=11",
-		"in_date": "20260109",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "리아츠 더 인천 (15차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940001&pblancNo=2026940001&houseSecd=11",
 		"in_date": "20260110",
 		"hsecd": "11",
@@ -496,6 +459,19 @@
 		"apply_nums": "35세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910009&pblancNo=2026910009&houseSecd=04",
+		"in_date": "20260119",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "여월 중앙하이츠 아르비채",
+		"addr": "경기도 부천시 오정구 여월동 8-9번지 외 4필지",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "20세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910003&pblancNo=2026910003&houseSecd=04",
 		"in_date": "20260119",
 		"hsecd": "04",
@@ -533,6 +509,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "용인시",
 		"apply_nums": "3세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910011&pblancNo=2026910011&houseSecd=04",
+		"in_date": "20260119",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "의왕시청역 SK VIEW IPARK",
+		"addr": "경기도 의왕시 고천동 265번지 일원",
+		"short_addr": "경기도 의왕시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "의왕시",
+		"apply_nums": "6세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000628&pblancNo=2025000628&houseSecd=01",
