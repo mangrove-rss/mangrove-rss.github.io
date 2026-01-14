@@ -1,13 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940001&pblancNo=2026940001&houseSecd=11",
-		"in_date": "20260111",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "리아츠 더 인천 (15차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000595&pblancNo=2025000595&houseSecd=01",
 		"in_date": "20260112",
 		"hsecd": "01",
@@ -516,6 +508,14 @@
 		"apply_nums": "6세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940004&pblancNo=2026940004&houseSecd=11",
+		"in_date": "20260119",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "엘리프 미아역 1단지(4차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000628&pblancNo=2025000628&houseSecd=01",
 		"in_date": "20260120",
 		"hsecd": "01",
@@ -581,6 +581,19 @@
 		"apply_nums": "35세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910013&pblancNo=2026910013&houseSecd=04",
+		"in_date": "20260120",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "엘리프 원종",
+		"addr": "경기도 부천시 오정구 원종동 298-1번지 일원",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "64세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000660&pblancNo=2025000660&houseSecd=01",
 		"in_date": "20260121",
 		"hsecd": "01",
@@ -631,6 +644,19 @@
 		"addr_lv1": "부산광역시",
 		"addr_lv2": "동구",
 		"apply_nums": "5세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910008&pblancNo=2026910008&houseSecd=04",
+		"in_date": "20260121",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "엘리프 세종 스마트시티",
+		"addr": "세종특별자치시 합강동 5101-9번지 일원(행정중심복합도시 5-1생활권 L9BL)",
+		"short_addr": "세종특별자치시 합강동",
+		"addr_lv1": "세종특별자치시",
+		"addr_lv2": "합강동",
+		"apply_nums": "35세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000660&pblancNo=2025000660&houseSecd=01",
