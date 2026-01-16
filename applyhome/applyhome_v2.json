@@ -1,82 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000595&pblancNo=2025000595&houseSecd=01",
-		"in_date": "20260113",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "더샵 분당센트로",
-		"addr": "경기도 성남시 분당구 미금로 66",
-		"short_addr": "경기도 성남시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "성남시",
-		"apply_nums": "84세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000650&pblancNo=2025000650&houseSecd=01",
-		"in_date": "20260113",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "힐스테이트 물금센트럴",
-		"addr": "경상남도 양산시 물금읍 범어리 502-3번지 일원",
-		"short_addr": "경상남도 양산시",
-		"addr_lv1": "경상남도",
-		"addr_lv2": "양산시",
-		"apply_nums": "162세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950090&pblancNo=2025950090&houseSecd=02",
-		"in_date": "20260113",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "동탄2신도시 대방 엘리움 레이크파크",
-		"addr": "경기도 화성시 송동 725-9",
-		"short_addr": "경기도 화성시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "화성시",
-		"apply_nums": "10세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950091&pblancNo=2025950091&houseSecd=02",
-		"in_date": "20260113",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "동탄2신도시 동탄역 디에트르 퍼스티지",
-		"addr": "경기도 화성시 오산동 979번지",
-		"short_addr": "경기도 화성시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "화성시",
-		"apply_nums": "3세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940001&pblancNo=2026940001&houseSecd=11",
-		"in_date": "20260113",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "리아츠 더 인천 (15차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940002&pblancNo=2026940002&houseSecd=11",
-		"in_date": "20260113",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "엘리프 한신더휴 수원 C3블록"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940003&pblancNo=2026940003&houseSecd=11",
-		"in_date": "20260113",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "엘리프 한신더휴 수원 D3블록"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000595&pblancNo=2025000595&houseSecd=01",
 		"in_date": "20260114",
 		"hsecd": "01",
 		"rse": "03",
@@ -276,7 +200,7 @@
 		"hsecd": "04",
 		"rse": "06",
 		"type": "무순위/취소후재공급",
-		"name": "에스아이팰리스 올림픽공원",
+		"name": "에스아이팰리스 올림픽공원 (7차)",
 		"addr": "서울특별시 강동구 성내동 459-3",
 		"short_addr": "서울특별시 강동구",
 		"addr_lv1": "서울특별시",
@@ -427,7 +351,7 @@
 		"hsecd": "04",
 		"rse": "06",
 		"type": "무순위/취소후재공급",
-		"name": "에스아이팰리스 올림픽공원",
+		"name": "에스아이팰리스 올림픽공원 (7차)",
 		"addr": "서울특별시 강동구 성내동 459-3",
 		"short_addr": "서울특별시 강동구",
 		"addr_lv1": "서울특별시",
@@ -446,6 +370,14 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "부천시",
 		"apply_nums": "64세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940008&pblancNo=2026940008&houseSecd=11",
+		"in_date": "20260120",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "도룡자이 라피크"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000660&pblancNo=2025000660&houseSecd=01",
@@ -592,5 +524,83 @@
 		"rse": "04",
 		"type": "",
 		"name": "서면 지원 더뷰 드림아파트(공공지원민간임대)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000004&pblancNo=2026000004&houseSecd=01",
+		"in_date": "20260126",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "남울산 노르웨이숲(조합원 취소분)",
+		"addr": "울산광역시 울주군 온양읍 발리 440-1번지 일원",
+		"short_addr": "울산광역시 울주군",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "울주군",
+		"apply_nums": "31세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000639&pblancNo=2025000639&houseSecd=01",
+		"in_date": "20260126",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "서귀포시 서홍동 형남아파트6차",
+		"addr": "제주특별자치도 서귀포시 서홍동 384-5번지 일원",
+		"short_addr": "제주특별자치도 서귀포시",
+		"addr_lv1": "제주특별자치도",
+		"addr_lv2": "서귀포시",
+		"apply_nums": "94세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000004&pblancNo=2026000004&houseSecd=01",
+		"in_date": "20260127",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "남울산 노르웨이숲(조합원 취소분)",
+		"addr": "울산광역시 울주군 온양읍 발리 440-1번지 일원",
+		"short_addr": "울산광역시 울주군",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "울주군",
+		"apply_nums": "31세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000639&pblancNo=2025000639&houseSecd=01",
+		"in_date": "20260127",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "서귀포시 서홍동 형남아파트6차",
+		"addr": "제주특별자치도 서귀포시 서홍동 384-5번지 일원",
+		"short_addr": "제주특별자치도 서귀포시",
+		"addr_lv1": "제주특별자치도",
+		"addr_lv2": "서귀포시",
+		"apply_nums": "94세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000004&pblancNo=2026000004&houseSecd=01",
+		"in_date": "20260128",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "남울산 노르웨이숲(조합원 취소분)",
+		"addr": "울산광역시 울주군 온양읍 발리 440-1번지 일원",
+		"short_addr": "울산광역시 울주군",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "울주군",
+		"apply_nums": "31세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000639&pblancNo=2025000639&houseSecd=01",
+		"in_date": "20260128",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "서귀포시 서홍동 형남아파트6차",
+		"addr": "제주특별자치도 서귀포시 서홍동 384-5번지 일원",
+		"short_addr": "제주특별자치도 서귀포시",
+		"addr_lv1": "제주특별자치도",
+		"addr_lv2": "서귀포시",
+		"apply_nums": "94세대"
 	}
 ]
