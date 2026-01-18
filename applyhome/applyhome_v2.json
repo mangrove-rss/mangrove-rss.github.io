@@ -1,18 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930060&pblancNo=2025930060&houseSecd=06",
-		"in_date": "20260115",
-		"hsecd": "06",
-		"rse": "07",
-		"type": "",
-		"name": "해링턴 플레이스 테크노폴리스",
-		"addr": "충청북도 청주시 흥덕구 송절동 1195번지 (청주테크노폴리스 S2BL)",
-		"short_addr": "충청북도 청주시",
-		"addr_lv1": "충청북도",
-		"addr_lv2": "청주시",
-		"apply_nums": "6세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950088&pblancNo=2025950088&houseSecd=02",
 		"in_date": "20260116",
 		"hsecd": "02",
@@ -375,6 +362,38 @@
 		"apply_nums": "2세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940005&pblancNo=2026940005&houseSecd=11",
+		"in_date": "20260121",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "두산위브앤수자인 부평 더퍼스트(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940012&pblancNo=2026940012&houseSecd=11",
+		"in_date": "20260121",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "수원이목지구 대방 디에트르 더 리체Ⅱ(A3BL) (11차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940007&pblancNo=2026940007&houseSecd=11",
+		"in_date": "20260121",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "인하대역 수자인 로이센트"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940009&pblancNo=2026940009&houseSecd=11",
+		"in_date": "20260121",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "힐스테이트 용인마크밸리(5차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000660&pblancNo=2025000660&houseSecd=01",
 		"in_date": "20260122",
 		"hsecd": "01",
@@ -409,6 +428,70 @@
 		"name": "서면 지원 더뷰 드림아파트(공공지원민간임대)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940012&pblancNo=2026940012&houseSecd=11",
+		"in_date": "20260122",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "수원이목지구 대방 디에트르 더 리체Ⅱ(A3BL) (11차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940009&pblancNo=2026940009&houseSecd=11",
+		"in_date": "20260122",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "힐스테이트 용인마크밸리(5차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940011&pblancNo=2026940011&houseSecd=11",
+		"in_date": "20260123",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "시흥 은계 에피트(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940009&pblancNo=2026940009&houseSecd=11",
+		"in_date": "20260123",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "힐스테이트 용인마크밸리(5차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940011&pblancNo=2026940011&houseSecd=11",
+		"in_date": "20260124",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "시흥 은계 에피트(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940009&pblancNo=2026940009&houseSecd=11",
+		"in_date": "20260124",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "힐스테이트 용인마크밸리(5차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940011&pblancNo=2026940011&houseSecd=11",
+		"in_date": "20260125",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "시흥 은계 에피트(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940009&pblancNo=2026940009&houseSecd=11",
+		"in_date": "20260125",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "힐스테이트 용인마크밸리(5차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000004&pblancNo=2026000004&houseSecd=01",
 		"in_date": "20260126",
 		"hsecd": "01",
@@ -435,6 +518,35 @@
 		"apply_nums": "94세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910017&pblancNo=2026910017&houseSecd=04",
+		"in_date": "20260126",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "어반클라쎄목동(11차)",
+		"addr": "서울특별시 양천구 신목로2길 7-12 (신정동, 어반클라쎄목동)",
+		"short_addr": "서울특별시 양천구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "양천구",
+		"apply_nums": "5세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940011&pblancNo=2026940011&houseSecd=11",
+		"in_date": "20260126",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "시흥 은계 에피트(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940009&pblancNo=2026940009&houseSecd=11",
+		"in_date": "20260126",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "힐스테이트 용인마크밸리(5차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000004&pblancNo=2026000004&houseSecd=01",
 		"in_date": "20260127",
 		"hsecd": "01",
@@ -459,6 +571,27 @@
 		"addr_lv1": "제주특별자치도",
 		"addr_lv2": "서귀포시",
 		"apply_nums": "94세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910017&pblancNo=2026910017&houseSecd=04",
+		"in_date": "20260127",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "어반클라쎄목동(11차)",
+		"addr": "서울특별시 양천구 신목로2길 7-12 (신정동, 어반클라쎄목동)",
+		"short_addr": "서울특별시 양천구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "양천구",
+		"apply_nums": "5세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940009&pblancNo=2026940009&houseSecd=11",
+		"in_date": "20260127",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "힐스테이트 용인마크밸리(5차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000004&pblancNo=2026000004&houseSecd=01",
