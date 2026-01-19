@@ -1,18 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950088&pblancNo=2025950088&houseSecd=02",
-		"in_date": "20260116",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "힐스테이트 오송역퍼스트",
-		"addr": "충청북도 청주시 흥덕구 오송역세권지구 A블럭 1로트",
-		"short_addr": "충청북도 청주시",
-		"addr_lv1": "충청북도",
-		"addr_lv2": "청주시",
-		"apply_nums": "200세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000660&pblancNo=2025000660&houseSecd=01",
 		"in_date": "20260119",
 		"hsecd": "01",
@@ -436,6 +423,14 @@
 		"name": "수원이목지구 대방 디에트르 더 리체Ⅱ(A3BL) (11차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940013&pblancNo=2026940013&houseSecd=11",
+		"in_date": "20260122",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "신도림역 동문 디 이스트(8차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940009&pblancNo=2026940009&houseSecd=11",
 		"in_date": "20260122",
 		"hsecd": "11",
@@ -452,6 +447,14 @@
 		"name": "시흥 은계 에피트(2차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940013&pblancNo=2026940013&houseSecd=11",
+		"in_date": "20260123",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "신도림역 동문 디 이스트(8차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940009&pblancNo=2026940009&houseSecd=11",
 		"in_date": "20260123",
 		"hsecd": "11",
@@ -518,6 +521,19 @@
 		"apply_nums": "94세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910016&pblancNo=2026910016&houseSecd=04",
+		"in_date": "20260126",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "경산 하양 제일풍경채(2차)",
+		"addr": "경상북도 경산시 하양읍 서사리 278번지 일원(경산하양지구 A7BL)",
+		"short_addr": "경상북도 경산시",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "경산시",
+		"apply_nums": "3세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910017&pblancNo=2026910017&houseSecd=04",
 		"in_date": "20260126",
 		"hsecd": "04",
@@ -529,6 +545,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "양천구",
 		"apply_nums": "5세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910015&pblancNo=2026910015&houseSecd=04",
+		"in_date": "20260126",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "파주 운정3지구 A5블록 제일풍경채 그랑퍼스트(2차)",
+		"addr": "경기도 파주시 운정3지구 A5블록",
+		"short_addr": "경기도 파주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "파주시",
+		"apply_nums": "1세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940011&pblancNo=2026940011&houseSecd=11",
@@ -573,6 +602,19 @@
 		"apply_nums": "94세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910016&pblancNo=2026910016&houseSecd=04",
+		"in_date": "20260127",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "경산 하양 제일풍경채(2차)",
+		"addr": "경상북도 경산시 하양읍 서사리 278번지 일원(경산하양지구 A7BL)",
+		"short_addr": "경상북도 경산시",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "경산시",
+		"apply_nums": "3세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910017&pblancNo=2026910017&houseSecd=04",
 		"in_date": "20260127",
 		"hsecd": "04",
@@ -618,5 +660,18 @@
 		"addr_lv1": "제주특별자치도",
 		"addr_lv2": "서귀포시",
 		"apply_nums": "94세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910016&pblancNo=2026910016&houseSecd=04",
+		"in_date": "20260128",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "경산 하양 제일풍경채(2차)",
+		"addr": "경상북도 경산시 하양읍 서사리 278번지 일원(경산하양지구 A7BL)",
+		"short_addr": "경상북도 경산시",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "경산시",
+		"apply_nums": "3세대"
 	}
 ]
