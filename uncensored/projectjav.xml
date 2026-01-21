@@ -5,6 +5,12 @@
 		<link></link>
 		<description></description>
 		<item>
+			<title><![CDATA[ n0954 ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih:d7e55aeba4aa66d66371613c8334c6fc05b37ed5 ]]></link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ n0954 ]]></showrss:showname>
+		</item>
+		<item>
 			<title><![CDATA[ HEYZO-3702 ]]></title>
 			<link><![CDATA[ magnet:?xt=urn:btih:51b59482a277262d19ab6ced6d4a3137b091bebc ]]></link>
 			<showrss:showid></showrss:showid>
@@ -603,18 +609,6 @@
 			<link><![CDATA[ magnet:?xt=urn:btih:e29fc485146157bda2083181ccaff03cef1d1b20 ]]></link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ xb-1301 ]]></showrss:showname>
-		</item>
-		<item>
-			<title><![CDATA[ 101025-001-carib ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:5620a95a89290fa310da762204861e6dbd68dfc7 ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ 101025-001-carib ]]></showrss:showname>
-		</item>
-		<item>
-			<title><![CDATA[ 101025-001-carib ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:17c6e02c70214cdc503bec3fe01b261666314303 ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ 101025-001-carib ]]></showrss:showname>
 		</item>
 	</channel>
 </rss>
