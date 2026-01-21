@@ -576,6 +576,14 @@
 		"name": "시흥 은계 에피트(2차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940015&pblancNo=2026940015&houseSecd=11",
+		"in_date": "20260126",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "식사 푸르지오 파크센트"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940009&pblancNo=2026940009&houseSecd=11",
 		"in_date": "20260126",
 		"hsecd": "11",
@@ -621,6 +629,19 @@
 		"addr_lv1": "경상북도",
 		"addr_lv2": "경산시",
 		"apply_nums": "3세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910012&pblancNo=2026910012&houseSecd=04",
+		"in_date": "20260127",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "안동리첼스카이파크",
+		"addr": "경상북도 안동시 송현동 529-1번지 일원",
+		"short_addr": "경상북도 안동시",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "안동시",
+		"apply_nums": "108세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910017&pblancNo=2026910017&houseSecd=04",
