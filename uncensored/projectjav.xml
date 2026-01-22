@@ -688,17 +688,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ 011526_001-1pondo ]]></showrss:showname>
 		</item>
-		<item>
-			<title><![CDATA[ mdl-0011 ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:a9c105337bb681aa51fa2aad14655b715245871a ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ mdl-0011 ]]></showrss:showname>
-		</item>
-		<item>
-			<title><![CDATA[ mdl-0011 ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:2cc80ade65573b1c005b1f61b5a01c4cc9401442 ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ mdl-0011 ]]></showrss:showname>
-		</item>
 	</channel>
 </rss>
