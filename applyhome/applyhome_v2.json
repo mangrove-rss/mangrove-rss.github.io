@@ -1,143 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000660&pblancNo=2025000660&houseSecd=01",
-		"in_date": "20260119",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "드파인 연희",
-		"addr": "서울특별시 서대문구 연희동 533-5번지 일원",
-		"short_addr": "서울특별시 서대문구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "서대문구",
-		"apply_nums": "332세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000656&pblancNo=2025000656&houseSecd=01",
-		"in_date": "20260119",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "사우역 지엔하임",
-		"addr": "경기도 김포시 사우동 사우4구역 공동1블록",
-		"short_addr": "경기도 김포시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "김포시",
-		"apply_nums": "385세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2025950089&pblancNo=2025950089&houseSecd=02",
-		"in_date": "20260119",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "범일역 신화하니엘 팔라시오",
-		"addr": "부산광역시 동구 범일동 830-179",
-		"short_addr": "부산광역시 동구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "동구",
-		"apply_nums": "5세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950001&pblancNo=2026950001&houseSecd=02",
-		"in_date": "20260119",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "청량리역 요진 와이시티 오피스텔",
-		"addr": "서울특별시 동대문구 청량리동 368번지 일원",
-		"short_addr": "서울특별시 동대문구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "동대문구",
-		"apply_nums": "10세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910001&pblancNo=2026910001&houseSecd=04",
-		"in_date": "20260119",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "에스아이팰리스 올림픽공원 (7차)",
-		"addr": "서울특별시 강동구 성내동 459-3",
-		"short_addr": "서울특별시 강동구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강동구",
-		"apply_nums": "35세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910009&pblancNo=2026910009&houseSecd=04",
-		"in_date": "20260119",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "여월 중앙하이츠 아르비채",
-		"addr": "경기도 부천시 오정구 여월동 8-9번지 외 4필지",
-		"short_addr": "경기도 부천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "부천시",
-		"apply_nums": "20세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910003&pblancNo=2026910003&houseSecd=04",
-		"in_date": "20260119",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "용인 경남아너스빌 디센트 H2BL(1단지)",
-		"addr": "경기도 용인시 처인구 양지면 남곡리 147-19외 12필지(용인남곡2지구 H1BL)",
-		"short_addr": "경기도 용인시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "용인시",
-		"apply_nums": "2세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910004&pblancNo=2026910004&houseSecd=04",
-		"in_date": "20260119",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "용인 경남아너스빌 디센트 H3BL(2단지)",
-		"addr": "경기도 용인시 처인구 양지면 남곡리 147-15외 8필지(용인남곡2지구 H2BL)",
-		"short_addr": "경기도 용인시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "용인시",
-		"apply_nums": "4세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910005&pblancNo=2026910005&houseSecd=04",
-		"in_date": "20260119",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "용인 경남아너스빌 디센트 H4BL(3단지)",
-		"addr": "경기도 용인시 처인구 양지면 남곡리 147-21외 11필지(용인남곡2지구 H3BL)",
-		"short_addr": "경기도 용인시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "용인시",
-		"apply_nums": "3세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910011&pblancNo=2026910011&houseSecd=04",
-		"in_date": "20260119",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "의왕시청역 SK VIEW IPARK",
-		"addr": "경기도 의왕시 고천동 265번지 일원",
-		"short_addr": "경기도 의왕시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "의왕시",
-		"apply_nums": "6세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940004&pblancNo=2026940004&houseSecd=11",
-		"in_date": "20260119",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "엘리프 미아역 1단지(4차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000628&pblancNo=2025000628&houseSecd=01",
 		"in_date": "20260120",
 		"hsecd": "01",
@@ -618,6 +480,14 @@
 		"apply_nums": "94세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850002&pblancNo=2026850002&houseSecd=03",
+		"in_date": "20260127",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "부경경마공원역 대방 디에트르 더리버(AP1BL)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910016&pblancNo=2026910016&houseSecd=04",
 		"in_date": "20260127",
 		"hsecd": "04",
@@ -657,6 +527,14 @@
 		"apply_nums": "5세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940006&pblancNo=2026940006&houseSecd=11",
+		"in_date": "20260127",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "석남역 센트럴파크 그랑베르(3차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940009&pblancNo=2026940009&houseSecd=11",
 		"in_date": "20260127",
 		"hsecd": "11",
@@ -689,6 +567,14 @@
 		"addr_lv1": "제주특별자치도",
 		"addr_lv2": "서귀포시",
 		"apply_nums": "94세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850002&pblancNo=2026850002&houseSecd=03",
+		"in_date": "20260128",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "부경경마공원역 대방 디에트르 더리버(AP1BL)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910016&pblancNo=2026910016&houseSecd=04",
