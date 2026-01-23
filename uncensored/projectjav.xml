@@ -682,11 +682,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ 011526-001-carib ]]></showrss:showname>
 		</item>
-		<item>
-			<title><![CDATA[ 011526_001-1pondo ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:65ba20b4559627ccbab511da72de1e7c9faf78b1 ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ 011526_001-1pondo ]]></showrss:showname>
-		</item>
 	</channel>
 </rss>
