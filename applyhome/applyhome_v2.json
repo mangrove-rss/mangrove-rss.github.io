@@ -1,63 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000660&pblancNo=2025000660&houseSecd=01",
-		"in_date": "20260122",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "드파인 연희",
-		"addr": "서울특별시 서대문구 연희동 533-5번지 일원",
-		"short_addr": "서울특별시 서대문구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "서대문구",
-		"apply_nums": "332세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000628&pblancNo=2025000628&houseSecd=01",
-		"in_date": "20260122",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "북오산자이 리버블시티",
-		"addr": "경기도 오산시 내삼미동 905 일원",
-		"short_addr": "경기도 오산시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "오산시",
-		"apply_nums": "1275세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850001&pblancNo=2026850001&houseSecd=03",
-		"in_date": "20260122",
-		"hsecd": "03",
-		"rse": "04",
-		"type": "",
-		"name": "서면 지원 더뷰 드림아파트(공공지원민간임대)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940012&pblancNo=2026940012&houseSecd=11",
-		"in_date": "20260122",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "수원이목지구 대방 디에트르 더 리체Ⅱ(A3BL) (11차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940013&pblancNo=2026940013&houseSecd=11",
-		"in_date": "20260122",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "신도림역 동문 디 이스트(8차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940009&pblancNo=2026940009&houseSecd=11",
-		"in_date": "20260122",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "힐스테이트 용인마크밸리(5차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940014&pblancNo=2026940014&houseSecd=11",
 		"in_date": "20260123",
 		"hsecd": "11",
@@ -394,6 +336,30 @@
 		"apply_nums": "2세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940018&pblancNo=2026940018&houseSecd=11",
+		"in_date": "20260128",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "시흥거모지구 대방 엘리움 더 루체Ⅰ(S-2BL)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940019&pblancNo=2026940019&houseSecd=11",
+		"in_date": "20260128",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "시흥거모지구 대방 엘리움 더 루체Ⅱ(B-2BL)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940017&pblancNo=2026940017&houseSecd=11",
+		"in_date": "20260128",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "왕길역 아테라"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950005&pblancNo=2026950005&houseSecd=02",
 		"in_date": "20260129",
 		"hsecd": "02",
@@ -431,6 +397,45 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "안양시",
 		"apply_nums": "407세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950006&pblancNo=2026950006&houseSecd=02",
+		"in_date": "20260202",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "청라 피크원 푸르지오",
+		"addr": "인천광역시 서구 청라동 86-6번지(인천경제자유구역 청라국제도시 B1BL) 일대",
+		"short_addr": "인천광역시 서구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "15세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910275&pblancNo=2025910275&houseSecd=04",
+		"in_date": "20260202",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "시티오씨엘 8단지",
+		"addr": "인천광역시 미추홀구 학익동 인천 용현·학익 1블록 도시개발구역 공동2BL",
+		"short_addr": "인천광역시 미추홀구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "미추홀구",
+		"apply_nums": "36세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910024&pblancNo=2026910024&houseSecd=04",
+		"in_date": "20260202",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "용인 푸르지오 클루센트",
+		"addr": "경기도 용인시 처인구 역북동 811번지 (신대지구 A1 블록)",
+		"short_addr": "경기도 용인시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "용인시",
+		"apply_nums": "120세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000657&pblancNo=2025000657&houseSecd=01",
