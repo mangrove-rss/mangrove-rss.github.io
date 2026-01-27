@@ -1,22 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940011&pblancNo=2026940011&houseSecd=11",
-		"in_date": "20260124",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "시흥 은계 에피트(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940009&pblancNo=2026940009&houseSecd=11",
-		"in_date": "20260124",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "힐스테이트 용인마크밸리(5차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940011&pblancNo=2026940011&houseSecd=11",
 		"in_date": "20260125",
 		"hsecd": "11",
 		"rse": "11",
@@ -354,6 +338,14 @@
 		"apply_nums": "2세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940020&pblancNo=2026940020&houseSecd=11",
+		"in_date": "20260129",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "고덕 자연앤 하우스디(A4BL)(국민)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940010&pblancNo=2026940010&houseSecd=11",
 		"in_date": "20260129",
 		"hsecd": "11",
@@ -373,6 +365,14 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "안양시",
 		"apply_nums": "407세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850004&pblancNo=2026850004&houseSecd=03",
+		"in_date": "20260202",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "북수원 이목 시티프라디움 더블리스"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950007&pblancNo=2026950007&houseSecd=02",
@@ -401,6 +401,19 @@
 		"apply_nums": "15세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950004&pblancNo=2026950004&houseSecd=02",
+		"in_date": "20260202",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "청량리역 롯데캐슬 SKY-L65",
+		"addr": "서울특별시 동대문구 전농동 620-47번지 일대",
+		"short_addr": "서울특별시 동대문구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "동대문구",
+		"apply_nums": "50세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910275&pblancNo=2025910275&houseSecd=04",
 		"in_date": "20260202",
 		"hsecd": "04",
@@ -412,6 +425,19 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "미추홀구",
 		"apply_nums": "36세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910030&pblancNo=2026910030&houseSecd=04",
+		"in_date": "20260202",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "안양자이 헤리티온(2차)",
+		"addr": "경기도 안양시 만안구 안양동 398-32번지 일원",
+		"short_addr": "경기도 안양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "안양시",
+		"apply_nums": "116세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910024&pblancNo=2026910024&houseSecd=04",
@@ -438,6 +464,58 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "이천시",
 		"apply_nums": "198세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910027&pblancNo=2026910027&houseSecd=04",
+		"in_date": "20260202",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "인천영종국제도시 디에트르 라 메르Ⅰ(RC4-1,2BL)",
+		"addr": "인천광역시 중구 중산동 1958-8,9 (인천광역시 중구 중산동 RC4-1,2BL)",
+		"short_addr": "인천광역시 중구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "118세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910028&pblancNo=2026910028&houseSecd=04",
+		"in_date": "20260202",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "태화강 센트럴 아이파크",
+		"addr": "울산광역시 중구 반구동 554-5번지 일원",
+		"short_addr": "울산광역시 중구",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "300세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910021&pblancNo=2026910021&houseSecd=04",
+		"in_date": "20260202",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "힐스테이트 선암호수공원 1단지",
+		"addr": "울산광역시 남구 야음동 830-1번지 일원",
+		"short_addr": "울산광역시 남구",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "110세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910022&pblancNo=2026910022&houseSecd=04",
+		"in_date": "20260202",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "힐스테이트 선암호수공원 2단지",
+		"addr": "울산광역시 남구 야음동 829-20번지 일원",
+		"short_addr": "울산광역시 남구",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "152세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000657&pblancNo=2025000657&houseSecd=01",
@@ -485,6 +563,32 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "송파구",
 		"apply_nums": "9세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950004&pblancNo=2026950004&houseSecd=02",
+		"in_date": "20260203",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "청량리역 롯데캐슬 SKY-L65",
+		"addr": "서울특별시 동대문구 전농동 620-47번지 일대",
+		"short_addr": "서울특별시 동대문구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "동대문구",
+		"apply_nums": "50세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910031&pblancNo=2026910031&houseSecd=04",
+		"in_date": "20260203",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "영종국제도시 신일 비아프 크레스트(2단지)",
+		"addr": "인천광역시 중구 운남동 1696-1(영종하늘도시 A20BL)",
+		"short_addr": "인천광역시 중구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "20세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000657&pblancNo=2025000657&houseSecd=01",
