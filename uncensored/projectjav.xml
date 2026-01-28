@@ -11,12 +11,6 @@
 			<showrss:showname><![CDATA[ Heyzo-3770 ]]></showrss:showname>
 		</item>
 		<item>
-			<title><![CDATA[ 012026_01-10mu ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:18d503844de7053f639cde408436cf982470c6ce ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ 012026_01-10mu ]]></showrss:showname>
-		</item>
-		<item>
 			<title><![CDATA[ 012426_01-10mu ]]></title>
 			<link><![CDATA[ magnet:?xt=urn:btih:8c85c9821227cdf93224edfd399e14548c66770f ]]></link>
 			<showrss:showid></showrss:showid>
@@ -27,6 +21,12 @@
 			<link><![CDATA[ magnet:?xt=urn:btih:13891222b5a350dfd9c8f54440021b92e74eaf75 ]]></link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ 012726_001-1pondo ]]></showrss:showname>
+		</item>
+		<item>
+			<title><![CDATA[ 012026_01-10mu ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih:18d503844de7053f639cde408436cf982470c6ce ]]></link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ 012026_01-10mu ]]></showrss:showname>
 		</item>
 		<item>
 			<title><![CDATA[ 012726-001-Carib ]]></title>
@@ -195,30 +195,6 @@
 			<link><![CDATA[ magnet:?xt=urn:btih:a544c31daa609e89f1e660616870194fe576eae4 ]]></link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ 012226_001-1pondo ]]></showrss:showname>
-		</item>
-		<item>
-			<title><![CDATA[ N0954 ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:d7e55aeba4aa66d66371613c8334c6fc05b37ed5 ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ N0954 ]]></showrss:showname>
-		</item>
-		<item>
-			<title><![CDATA[ 012126-001-Carib ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:75788b3d9f7c5be0ad9da6301eb7dc9fafecf40a ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ 012126-001-Carib ]]></showrss:showname>
-		</item>
-		<item>
-			<title><![CDATA[ Heyzo-3766 ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:be8ac5a290b0141ec5a52334f763ae6205dc2c49 ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ Heyzo-3766 ]]></showrss:showname>
-		</item>
-		<item>
-			<title><![CDATA[ Heyzo-3766 ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:5391373a2fbb0b4da12997605b0fd81470e3d145 ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ Heyzo-3766 ]]></showrss:showname>
 		</item>
 	</channel>
 </rss>
