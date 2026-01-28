@@ -1,21 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940011&pblancNo=2026940011&houseSecd=11",
-		"in_date": "20260125",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "시흥 은계 에피트(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940009&pblancNo=2026940009&houseSecd=11",
-		"in_date": "20260125",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "힐스테이트 용인마크밸리(5차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000004&pblancNo=2026000004&houseSecd=01",
 		"in_date": "20260126",
 		"hsecd": "01",
@@ -414,6 +398,32 @@
 		"apply_nums": "50세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910026&pblancNo=2026910026&houseSecd=04",
+		"in_date": "20260202",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "동래 푸르지오 에듀포레",
+		"addr": "부산광역시 동래구 안락동 1230번지 일원",
+		"short_addr": "부산광역시 동래구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "동래구",
+		"apply_nums": "33세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910018&pblancNo=2026910018&houseSecd=04",
+		"in_date": "20260202",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "수지자이 에디시온",
+		"addr": "경기도 용인시 수지구 풍덕천동 71-1번지 일원",
+		"short_addr": "경기도 용인시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "용인시",
+		"apply_nums": "258세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2025910275&pblancNo=2025910275&houseSecd=04",
 		"in_date": "20260202",
 		"hsecd": "04",
@@ -518,6 +528,14 @@
 		"apply_nums": "152세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940016&pblancNo=2026940016&houseSecd=11",
+		"in_date": "20260202",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "동래 푸르지오 에듀포레"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000657&pblancNo=2025000657&houseSecd=01",
 		"in_date": "20260203",
 		"hsecd": "01",
@@ -576,6 +594,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "동대문구",
 		"apply_nums": "50세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910033&pblancNo=2026910033&houseSecd=04",
+		"in_date": "20260203",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "강릉역 경남아너스빌 더 센트로(조합원 취소분)",
+		"addr": "강원특별자치도 강릉시 명륜로 85번지",
+		"short_addr": "강원특별자치도 강릉시",
+		"addr_lv1": "강원특별자치도",
+		"addr_lv2": "강릉시",
+		"apply_nums": "7세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910031&pblancNo=2026910031&houseSecd=04",
