@@ -1,95 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000004&pblancNo=2026000004&houseSecd=01",
-		"in_date": "20260126",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "남울산 노르웨이숲(조합원 취소분)",
-		"addr": "울산광역시 울주군 온양읍 발리 440-1번지 일원",
-		"short_addr": "울산광역시 울주군",
-		"addr_lv1": "울산광역시",
-		"addr_lv2": "울주군",
-		"apply_nums": "31세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000639&pblancNo=2025000639&houseSecd=01",
-		"in_date": "20260126",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "서귀포시 서홍동 형남아파트6차",
-		"addr": "제주특별자치도 서귀포시 서홍동 384-5번지 일원",
-		"short_addr": "제주특별자치도 서귀포시",
-		"addr_lv1": "제주특별자치도",
-		"addr_lv2": "서귀포시",
-		"apply_nums": "94세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910016&pblancNo=2026910016&houseSecd=04",
-		"in_date": "20260126",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "경산 하양 제일풍경채(2차)",
-		"addr": "경상북도 경산시 하양읍 서사리 278번지 일원(경산하양지구 A7BL)",
-		"short_addr": "경상북도 경산시",
-		"addr_lv1": "경상북도",
-		"addr_lv2": "경산시",
-		"apply_nums": "3세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910017&pblancNo=2026910017&houseSecd=04",
-		"in_date": "20260126",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "어반클라쎄목동(11차)",
-		"addr": "서울특별시 양천구 신목로2길 7-12 (신정동, 어반클라쎄목동)",
-		"short_addr": "서울특별시 양천구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "양천구",
-		"apply_nums": "5세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910015&pblancNo=2026910015&houseSecd=04",
-		"in_date": "20260126",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "파주 운정3지구 A5블록 제일풍경채 그랑퍼스트(2차)",
-		"addr": "경기도 파주시 운정3지구 A5블록",
-		"short_addr": "경기도 파주시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "파주시",
-		"apply_nums": "1세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940011&pblancNo=2026940011&houseSecd=11",
-		"in_date": "20260126",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "시흥 은계 에피트(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940015&pblancNo=2026940015&houseSecd=11",
-		"in_date": "20260126",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "식사 푸르지오 파크센트"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940009&pblancNo=2026940009&houseSecd=11",
-		"in_date": "20260126",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "힐스테이트 용인마크밸리(5차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000004&pblancNo=2026000004&houseSecd=01",
 		"in_date": "20260127",
 		"hsecd": "01",
 		"rse": "02",
@@ -648,6 +559,71 @@
 		"apply_nums": "407세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910023&pblancNo=2026910023&houseSecd=04",
+		"in_date": "20260204",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "덕소 강변 스타힐스",
+		"addr": "경기도 남양주시 와부읍 도곡리 981-3번지 일원",
+		"short_addr": "경기도 남양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "남양주시",
+		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910025&pblancNo=2026910025&houseSecd=04",
+		"in_date": "20260204",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "파주 운정신도시 A11블록 중흥S-클래스 에듀하이",
+		"addr": "경기도 파주시 운정3택지개발지구 A11블록 중흥S-클래스 에듀하이(경기도 파주시 다율동)",
+		"short_addr": "경기도 파주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "파주시",
+		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910032&pblancNo=2026910032&houseSecd=04",
+		"in_date": "20260204",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "힐스테이트 초곡 (2차)",
+		"addr": "경상북도 포항시 북구 흥해읍 초곡리 1867",
+		"short_addr": "경상북도 포항시",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "포항시",
+		"apply_nums": "10세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026930002&pblancNo=2026930002&houseSecd=06",
+		"in_date": "20260204",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "창원 롯데캐슬 포레스트 1BL",
+		"addr": "경상남도 창원시 의창구 사화동 162번지 외 32필지",
+		"short_addr": "경상남도 창원시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "창원시",
+		"apply_nums": "2세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026930003&pblancNo=2026930003&houseSecd=06",
+		"in_date": "20260204",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "창원 롯데캐슬 포레스트 2BL",
+		"addr": "경상남도 창원시 의창구 사화동 147번지 외 43필지",
+		"short_addr": "경상남도 창원시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "창원시",
+		"apply_nums": "2세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000009&pblancNo=2026000009&houseSecd=01",
 		"in_date": "20260205",
 		"hsecd": "01",
@@ -687,6 +663,32 @@
 		"apply_nums": "341세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000002&pblancNo=2026000002&houseSecd=01",
+		"in_date": "20260209",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "e편한세상 센텀 하이베뉴",
+		"addr": "부산광역시 해운대구 재송동 1030번지 일원",
+		"short_addr": "부산광역시 해운대구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "해운대구",
+		"apply_nums": "166세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000572&pblancNo=2025000572&houseSecd=01",
+		"in_date": "20260209",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "포레나더샵 인천시청역",
+		"addr": "인천광역시 남동구 간석1동 311-1번지 일원",
+		"short_addr": "인천광역시 남동구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "남동구",
+		"apply_nums": "735세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000009&pblancNo=2026000009&houseSecd=01",
 		"in_date": "20260209",
 		"hsecd": "01",
@@ -698,5 +700,57 @@
 		"addr_lv1": "대전광역시",
 		"addr_lv2": "중구",
 		"apply_nums": "341세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000002&pblancNo=2026000002&houseSecd=01",
+		"in_date": "20260210",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "e편한세상 센텀 하이베뉴",
+		"addr": "부산광역시 해운대구 재송동 1030번지 일원",
+		"short_addr": "부산광역시 해운대구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "해운대구",
+		"apply_nums": "166세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000572&pblancNo=2025000572&houseSecd=01",
+		"in_date": "20260210",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "포레나더샵 인천시청역",
+		"addr": "인천광역시 남동구 간석1동 311-1번지 일원",
+		"short_addr": "인천광역시 남동구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "남동구",
+		"apply_nums": "735세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000002&pblancNo=2026000002&houseSecd=01",
+		"in_date": "20260211",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "e편한세상 센텀 하이베뉴",
+		"addr": "부산광역시 해운대구 재송동 1030번지 일원",
+		"short_addr": "부산광역시 해운대구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "해운대구",
+		"apply_nums": "166세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000572&pblancNo=2025000572&houseSecd=01",
+		"in_date": "20260211",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "포레나더샵 인천시청역",
+		"addr": "인천광역시 남동구 간석1동 311-1번지 일원",
+		"short_addr": "인천광역시 남동구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "남동구",
+		"apply_nums": "735세대"
 	}
 ]
