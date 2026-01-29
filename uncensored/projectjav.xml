@@ -23,16 +23,22 @@
 			<showrss:showname><![CDATA[ 012826-001-Carib ]]></showrss:showname>
 		</item>
 		<item>
-			<title><![CDATA[ 012726-001-Carib ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:acc3d19301f0551d8ff8c2c45c8cad68d39f443e ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ 012726-001-Carib ]]></showrss:showname>
-		</item>
-		<item>
 			<title><![CDATA[ 012726_001-1pondo ]]></title>
 			<link><![CDATA[ magnet:?xt=urn:btih:13891222b5a350dfd9c8f54440021b92e74eaf75 ]]></link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ 012726_001-1pondo ]]></showrss:showname>
+		</item>
+		<item>
+			<title><![CDATA[ 012426_01-10mu ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih:8c85c9821227cdf93224edfd399e14548c66770f ]]></link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ 012426_01-10mu ]]></showrss:showname>
+		</item>
+		<item>
+			<title><![CDATA[ 012726-001-Carib ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih:acc3d19301f0551d8ff8c2c45c8cad68d39f443e ]]></link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ 012726-001-Carib ]]></showrss:showname>
 		</item>
 		<item>
 			<title><![CDATA[ 012026_01-10mu ]]></title>
@@ -41,10 +47,28 @@
 			<showrss:showname><![CDATA[ 012026_01-10mu ]]></showrss:showname>
 		</item>
 		<item>
-			<title><![CDATA[ 012426_01-10mu ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:8c85c9821227cdf93224edfd399e14548c66770f ]]></link>
+			<title><![CDATA[ 011826_01-10mu ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih:75553aeaaf0a4093b73834ba45c001b6f422ebd1 ]]></link>
 			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ 012426_01-10mu ]]></showrss:showname>
+			<showrss:showname><![CDATA[ 011826_01-10mu ]]></showrss:showname>
+		</item>
+		<item>
+			<title><![CDATA[ 012526_01-10mu ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih:47d3540f0bb9b99831571d21686b14c9ddffc1db ]]></link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ 012526_01-10mu ]]></showrss:showname>
+		</item>
+		<item>
+			<title><![CDATA[ 011726_01-10mu ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih:d8d53a59e60b91cc3b3ddde17513ad6a02c3f95f ]]></link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ 011726_01-10mu ]]></showrss:showname>
+		</item>
+		<item>
+			<title><![CDATA[ 012226_01-10mu ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih:c15c28c304fe04dc4270d01895aceee52145f831 ]]></link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ 012226_01-10mu ]]></showrss:showname>
 		</item>
 		<item>
 			<title><![CDATA[ 121914-760-Carib ]]></title>
@@ -65,24 +89,6 @@
 			<showrss:showname><![CDATA[ 011726_100-Paco ]]></showrss:showname>
 		</item>
 		<item>
-			<title><![CDATA[ 012226_01-10mu ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:c15c28c304fe04dc4270d01895aceee52145f831 ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ 012226_01-10mu ]]></showrss:showname>
-		</item>
-		<item>
-			<title><![CDATA[ 012526_01-10mu ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:47d3540f0bb9b99831571d21686b14c9ddffc1db ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ 012526_01-10mu ]]></showrss:showname>
-		</item>
-		<item>
-			<title><![CDATA[ 011826_01-10mu ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:75553aeaaf0a4093b73834ba45c001b6f422ebd1 ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ 011826_01-10mu ]]></showrss:showname>
-		</item>
-		<item>
 			<title><![CDATA[ 011326_01-10mu ]]></title>
 			<link><![CDATA[ magnet:?xt=urn:btih:d978512ddc6fbdbbc47d02e1b6749c99074a19ea ]]></link>
 			<showrss:showid></showrss:showid>
@@ -95,20 +101,14 @@
 			<showrss:showname><![CDATA[ 011326_01-10mu ]]></showrss:showname>
 		</item>
 		<item>
-			<title><![CDATA[ 011726_01-10mu ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:d8d53a59e60b91cc3b3ddde17513ad6a02c3f95f ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ 011726_01-10mu ]]></showrss:showname>
-		</item>
-		<item>
 			<title><![CDATA[ Heyzo-3769 ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:2d59a9e388e2b5a55f9fba3473a55dee0b8f598b ]]></link>
+			<link><![CDATA[ magnet:?xt=urn:btih:abdf8e04359701b56deecd46af0a0392345dfbe2 ]]></link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ Heyzo-3769 ]]></showrss:showname>
 		</item>
 		<item>
 			<title><![CDATA[ Heyzo-3769 ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:abdf8e04359701b56deecd46af0a0392345dfbe2 ]]></link>
+			<link><![CDATA[ magnet:?xt=urn:btih:2d59a9e388e2b5a55f9fba3473a55dee0b8f598b ]]></link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ Heyzo-3769 ]]></showrss:showname>
 		</item>
