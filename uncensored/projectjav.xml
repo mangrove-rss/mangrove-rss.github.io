@@ -5,6 +5,12 @@
 		<link></link>
 		<description></description>
 		<item>
+			<title><![CDATA[ 013026-001-Carib ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih:9e67ea336e8186415d3b1d563968aab94159b963 ]]></link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ 013026-001-Carib ]]></showrss:showname>
+		</item>
+		<item>
 			<title><![CDATA[ 012926_01-10mu ]]></title>
 			<link><![CDATA[ magnet:?xt=urn:btih:f8451dd090963e0c4ed4e0a1d35d1b8b43c70d64 ]]></link>
 			<showrss:showid></showrss:showid>
@@ -15,24 +21,6 @@
 			<link><![CDATA[ magnet:?xt=urn:btih:b103abb4269ea6bdc127843f55fc2e09c7153f60 ]]></link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ 012726_100-Paco ]]></showrss:showname>
-		</item>
-		<item>
-			<title><![CDATA[ 012226_100-Paco ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:b7f1f39362e5adaa227af29bff02dfa4aa0bf9fb ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ 012226_100-Paco ]]></showrss:showname>
-		</item>
-		<item>
-			<title><![CDATA[ 012426_100-Paco ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:021f352c315a791fcacc472313a1ac1f864fa75a ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ 012426_100-Paco ]]></showrss:showname>
-		</item>
-		<item>
-			<title><![CDATA[ 012426_100-Paco ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:c127351efc791793e57fdc5ddc6a889c14cfacf9 ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ 012426_100-Paco ]]></showrss:showname>
 		</item>
 	</channel>
 </rss>
