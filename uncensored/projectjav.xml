@@ -46,23 +46,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ 012726_100-Paco ]]></showrss:showname>
 		</item>
-		<item>
-			<title><![CDATA[ 012726_01-10mu ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:5173b1880b5a4b30c041a37141b7512e33558576 ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ 012726_01-10mu ]]></showrss:showname>
-		</item>
-		<item>
-			<title><![CDATA[ 012726_01-10mu ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:d5721fe53e87f8003d2af59b16911427b0c948ea ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ 012726_01-10mu ]]></showrss:showname>
-		</item>
-		<item>
-			<title><![CDATA[ 012226_100-Paco ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:b7f1f39362e5adaa227af29bff02dfa4aa0bf9fb ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ 012226_100-Paco ]]></showrss:showname>
-		</item>
 	</channel>
 </rss>
