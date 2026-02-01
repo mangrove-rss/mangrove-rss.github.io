@@ -375,6 +375,22 @@
 		"apply_nums": "2세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940021&pblancNo=2026940021&houseSecd=11",
+		"in_date": "20260204",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "강동구 둔촌 월드메르디앙 올림픽파크(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940022&pblancNo=2026940022&houseSecd=11",
+		"in_date": "20260204",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "두산위브앤수자인 부평 더퍼스트(3차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000009&pblancNo=2026000009&houseSecd=01",
 		"in_date": "20260205",
 		"hsecd": "01",
@@ -464,6 +480,19 @@
 		"addr_lv1": "대전광역시",
 		"addr_lv2": "중구",
 		"apply_nums": "341세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026930001&pblancNo=2026930001&houseSecd=06",
+		"in_date": "20260209",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "에코델타시티 푸르지오 센터파크(18BL)",
+		"addr": "부산광역시 강서구 강동동 에코델타시티 내 공동 18BL",
+		"short_addr": "부산광역시 강서구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "강서구",
+		"apply_nums": "2세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000002&pblancNo=2026000002&houseSecd=01",
