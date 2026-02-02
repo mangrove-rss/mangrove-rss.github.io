@@ -571,5 +571,31 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "남동구",
 		"apply_nums": "735세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000022&pblancNo=2026000022&houseSecd=01",
+		"in_date": "20260213",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "울산 우정혁신도시 B1블록(골드클래스) 분양전환 후 잔여세대",
+		"addr": "울산광역시 중구 종가로 760 (장현동, 골드클래스)",
+		"short_addr": "울산광역시 중구",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "34세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000022&pblancNo=2026000022&houseSecd=01",
+		"in_date": "20260219",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "울산 우정혁신도시 B1블록(골드클래스) 분양전환 후 잔여세대",
+		"addr": "울산광역시 중구 종가로 760 (장현동, 골드클래스)",
+		"short_addr": "울산광역시 중구",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "34세대"
 	}
 ]
