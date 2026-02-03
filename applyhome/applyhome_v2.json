@@ -495,6 +495,19 @@
 		"apply_nums": "2세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026930004&pblancNo=2026930004&houseSecd=06",
+		"in_date": "20260209",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "청주 테크노폴리스 A9BL 힐데스하임",
+		"addr": "충청북도 청주시 흥덕구 송절동 1196번지 일원(청주 테크노폴리스 A9블록)",
+		"short_addr": "충청북도 청주시",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "청주시",
+		"apply_nums": "1세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000002&pblancNo=2026000002&houseSecd=01",
 		"in_date": "20260210",
 		"hsecd": "01",
