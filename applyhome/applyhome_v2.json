@@ -1,18 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000009&pblancNo=2026000009&houseSecd=01",
-		"in_date": "20260206",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "대전 하늘채 루시에르(2회차)",
-		"addr": "대전광역시 중구 선화동 95-3 일원",
-		"short_addr": "대전광역시 중구",
-		"addr_lv1": "대전광역시",
-		"addr_lv2": "중구",
-		"apply_nums": "341세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000002&pblancNo=2026000002&houseSecd=01",
 		"in_date": "20260209",
 		"hsecd": "01",
@@ -234,6 +221,22 @@
 		"apply_nums": "6세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940025&pblancNo=2026940025&houseSecd=11",
+		"in_date": "20260211",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "수원이목지구 대방 디에트르 더 리체Ⅱ(A3BL) (12차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940026&pblancNo=2026940026&houseSecd=11",
+		"in_date": "20260211",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "이문 아이파크 자이"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950008&pblancNo=2026950008&houseSecd=02",
 		"in_date": "20260212",
 		"hsecd": "02",
@@ -273,6 +276,22 @@
 		"apply_nums": "5세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940025&pblancNo=2026940025&houseSecd=11",
+		"in_date": "20260212",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "수원이목지구 대방 디에트르 더 리체Ⅱ(A3BL) (12차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940023&pblancNo=2026940023&houseSecd=11",
+		"in_date": "20260212",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "중흥S-클래스 힐더포레(2차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000022&pblancNo=2026000022&houseSecd=01",
 		"in_date": "20260213",
 		"hsecd": "01",
@@ -297,6 +316,14 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "광명시",
 		"apply_nums": "5세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940023&pblancNo=2026940023&houseSecd=11",
+		"in_date": "20260213",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "중흥S-클래스 힐더포레(2차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950008&pblancNo=2026950008&houseSecd=02",
@@ -390,6 +417,14 @@
 		"apply_nums": "34세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850008&pblancNo=2026850008&houseSecd=03",
+		"in_date": "20260219",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "부경경마공원역 대방 디에트르 더리버(AP1BL)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950008&pblancNo=2026950008&houseSecd=02",
 		"in_date": "20260219",
 		"hsecd": "02",
@@ -414,6 +449,14 @@
 		"addr_lv1": "광주광역시",
 		"addr_lv2": "남구",
 		"apply_nums": "9세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850008&pblancNo=2026850008&houseSecd=03",
+		"in_date": "20260220",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "부경경마공원역 대방 디에트르 더리버(AP1BL)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950008&pblancNo=2026950008&houseSecd=02",
