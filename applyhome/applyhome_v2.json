@@ -486,12 +486,33 @@
 		"apply_nums": "5세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910038&pblancNo=2026910038&houseSecd=04",
+		"in_date": "20260219",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "전주 에코시티 더 클래스",
+		"addr": "전북특별자치도 전주시 덕진구 호성동2가 801-31번지 일원",
+		"short_addr": "전북특별자치도 전주시",
+		"addr_lv1": "전북특별자치도",
+		"addr_lv2": "전주시",
+		"apply_nums": "44세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940027&pblancNo=2026940027&houseSecd=11",
 		"in_date": "20260219",
 		"hsecd": "11",
 		"rse": "11",
 		"type": "",
 		"name": "인천영종국제도시 디에트르 라 메르Ⅰ(RC4-1,2BL)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940029&pblancNo=2026940029&houseSecd=11",
+		"in_date": "20260219",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "힐스테이트 용인마크밸리(6차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000024&pblancNo=2026000024&houseSecd=01",
@@ -526,6 +547,62 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "광명시",
 		"apply_nums": "5세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940029&pblancNo=2026940029&houseSecd=11",
+		"in_date": "20260220",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "힐스테이트 용인마크밸리(6차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940029&pblancNo=2026940029&houseSecd=11",
+		"in_date": "20260221",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "힐스테이트 용인마크밸리(6차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940029&pblancNo=2026940029&houseSecd=11",
+		"in_date": "20260222",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "힐스테이트 용인마크밸리(6차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940029&pblancNo=2026940029&houseSecd=11",
+		"in_date": "20260223",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "힐스테이트 용인마크밸리(6차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940310&pblancNo=2025940310&houseSecd=11",
+		"in_date": "20260224",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "두산위브 더센트럴 부평"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940029&pblancNo=2026940029&houseSecd=11",
+		"in_date": "20260224",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "힐스테이트 용인마크밸리(6차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940310&pblancNo=2025940310&houseSecd=11",
+		"in_date": "20260225",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "두산위브 더센트럴 부평"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000019&pblancNo=2026000019&houseSecd=01",
