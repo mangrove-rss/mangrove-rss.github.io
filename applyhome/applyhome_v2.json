@@ -1,84 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000002&pblancNo=2026000002&houseSecd=01",
-		"in_date": "20260209",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "e편한세상 센텀 하이베뉴",
-		"addr": "부산광역시 해운대구 재송동 1030번지 일원",
-		"short_addr": "부산광역시 해운대구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "해운대구",
-		"apply_nums": "166세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000010&pblancNo=2026000010&houseSecd=01",
-		"in_date": "20260209",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "두산위브 더센트럴 부평(조합원 취소분)",
-		"addr": "인천광역시 부평구 삼산동 191번지 일원",
-		"short_addr": "인천광역시 부평구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "부평구",
-		"apply_nums": "41세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000572&pblancNo=2025000572&houseSecd=01",
-		"in_date": "20260209",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "포레나더샵 인천시청역",
-		"addr": "인천광역시 남동구 간석1동 311-1번지 일원",
-		"short_addr": "인천광역시 남동구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "남동구",
-		"apply_nums": "735세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000009&pblancNo=2026000009&houseSecd=01",
-		"in_date": "20260209",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "대전 하늘채 루시에르(2회차)",
-		"addr": "대전광역시 중구 선화동 95-3 일원",
-		"short_addr": "대전광역시 중구",
-		"addr_lv1": "대전광역시",
-		"addr_lv2": "중구",
-		"apply_nums": "341세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026930001&pblancNo=2026930001&houseSecd=06",
-		"in_date": "20260209",
-		"hsecd": "06",
-		"rse": "07",
-		"type": "",
-		"name": "에코델타시티 푸르지오 센터파크(18BL)",
-		"addr": "부산광역시 강서구 강동동 에코델타시티 내 공동 18BL",
-		"short_addr": "부산광역시 강서구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "강서구",
-		"apply_nums": "2세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026930004&pblancNo=2026930004&houseSecd=06",
-		"in_date": "20260209",
-		"hsecd": "06",
-		"rse": "07",
-		"type": "",
-		"name": "청주 테크노폴리스 A9BL 힐데스하임",
-		"addr": "충청북도 청주시 흥덕구 송절동 1196번지 일원(청주 테크노폴리스 A9블록)",
-		"short_addr": "충청북도 청주시",
-		"addr_lv1": "충청북도",
-		"addr_lv2": "청주시",
-		"apply_nums": "1세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000002&pblancNo=2026000002&houseSecd=01",
 		"in_date": "20260210",
 		"hsecd": "01",
 		"rse": "02",
@@ -473,6 +395,14 @@
 		"name": "부경경마공원역 대방 디에트르 더리버(AP1BL)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850007&pblancNo=2026850007&houseSecd=03",
+		"in_date": "20260219",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "양주역 중흥S-클래스"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950008&pblancNo=2026950008&houseSecd=02",
 		"in_date": "20260219",
 		"hsecd": "02",
@@ -486,6 +416,32 @@
 		"apply_nums": "5세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950011&pblancNo=2026950011&houseSecd=02",
+		"in_date": "20260219",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "수원성 중흥S-클래스",
+		"addr": "경기도 수원시 팔달구 지동 349-1번지 일원 (제115-10구역 주택재개발 정비사업)",
+		"short_addr": "경기도 수원시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "수원시",
+		"apply_nums": "59세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950012&pblancNo=2026950012&houseSecd=02",
+		"in_date": "20260219",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "힐스테이트 용인포레(기업형민간임대)",
+		"addr": "경기도 용인시 처인구 삼가동 447-15번지 일원",
+		"short_addr": "경기도 용인시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "용인시",
+		"apply_nums": "47세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910038&pblancNo=2026910038&houseSecd=04",
 		"in_date": "20260219",
 		"hsecd": "04",
@@ -497,6 +453,19 @@
 		"addr_lv1": "전북특별자치도",
 		"addr_lv2": "전주시",
 		"apply_nums": "44세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910035&pblancNo=2026910035&houseSecd=04",
+		"in_date": "20260219",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "힐스테이트 물금센트럴",
+		"addr": "경상남도 양산시 물금읍 범어리 502-3번지 일원",
+		"short_addr": "경상남도 양산시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "양산시",
+		"apply_nums": "149세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940027&pblancNo=2026940027&houseSecd=11",
@@ -549,12 +518,49 @@
 		"apply_nums": "5세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950011&pblancNo=2026950011&houseSecd=02",
+		"in_date": "20260220",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "수원성 중흥S-클래스",
+		"addr": "경기도 수원시 팔달구 지동 349-1번지 일원 (제115-10구역 주택재개발 정비사업)",
+		"short_addr": "경기도 수원시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "수원시",
+		"apply_nums": "59세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940031&pblancNo=2026940031&houseSecd=11",
+		"in_date": "20260220",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "시흥 은계 에피트(3차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940030&pblancNo=2026940030&houseSecd=11",
+		"in_date": "20260220",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "시흥거모지구 대방 엘리움 더 루체Ⅰ(S-2BL)(2차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940029&pblancNo=2026940029&houseSecd=11",
 		"in_date": "20260220",
 		"hsecd": "11",
 		"rse": "11",
 		"type": "",
 		"name": "힐스테이트 용인마크밸리(6차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940031&pblancNo=2026940031&houseSecd=11",
+		"in_date": "20260221",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "시흥 은계 에피트(3차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940029&pblancNo=2026940029&houseSecd=11",
@@ -565,6 +571,14 @@
 		"name": "힐스테이트 용인마크밸리(6차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940031&pblancNo=2026940031&houseSecd=11",
+		"in_date": "20260222",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "시흥 은계 에피트(3차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940029&pblancNo=2026940029&houseSecd=11",
 		"in_date": "20260222",
 		"hsecd": "11",
@@ -573,12 +587,111 @@
 		"name": "힐스테이트 용인마크밸리(6차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000018&pblancNo=2026000018&houseSecd=01",
+		"in_date": "20260223",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "리첸시아 표선 IB EDU",
+		"addr": "제주특별자치도 서귀포시 표선면 표선리 2957(구 주소 : 536-1외 )   ",
+		"short_addr": "제주특별자치도 서귀포시",
+		"addr_lv1": "제주특별자치도",
+		"addr_lv2": "서귀포시",
+		"apply_nums": "50세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000017&pblancNo=2026000017&houseSecd=01",
+		"in_date": "20260223",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "쌍용 더 플래티넘 온수역",
+		"addr": "경기도 부천시 소사구 괴안동 201번지 일원",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "230세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000027&pblancNo=2026000027&houseSecd=01",
+		"in_date": "20260223",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "전주·완주 혁신도시 에코르 2단지 공가세대 일반공급",
+		"addr": "전북특별자치도 완주군 이서면 지사제로 29 (혁신도시 에코르 2단지 아파트)",
+		"short_addr": "전북특별자치도 완주군",
+		"addr_lv1": "전북특별자치도",
+		"addr_lv2": "완주군",
+		"apply_nums": "29세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910037&pblancNo=2026910037&houseSecd=04",
+		"in_date": "20260223",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "수지자이 에디시온(2차)",
+		"addr": "경기도 용인시 수지구 풍덕천동 71-1번지 일원",
+		"short_addr": "경기도 용인시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "용인시",
+		"apply_nums": "214세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940031&pblancNo=2026940031&houseSecd=11",
+		"in_date": "20260223",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "시흥 은계 에피트(3차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940029&pblancNo=2026940029&houseSecd=11",
 		"in_date": "20260223",
 		"hsecd": "11",
 		"rse": "11",
 		"type": "",
 		"name": "힐스테이트 용인마크밸리(6차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000018&pblancNo=2026000018&houseSecd=01",
+		"in_date": "20260224",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "리첸시아 표선 IB EDU",
+		"addr": "제주특별자치도 서귀포시 표선면 표선리 2957(구 주소 : 536-1외 )   ",
+		"short_addr": "제주특별자치도 서귀포시",
+		"addr_lv1": "제주특별자치도",
+		"addr_lv2": "서귀포시",
+		"apply_nums": "50세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000017&pblancNo=2026000017&houseSecd=01",
+		"in_date": "20260224",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "쌍용 더 플래티넘 온수역",
+		"addr": "경기도 부천시 소사구 괴안동 201번지 일원",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "230세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000027&pblancNo=2026000027&houseSecd=01",
+		"in_date": "20260224",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "전주·완주 혁신도시 에코르 2단지 공가세대 일반공급",
+		"addr": "전북특별자치도 완주군 이서면 지사제로 29 (혁신도시 에코르 2단지 아파트)",
+		"short_addr": "전북특별자치도 완주군",
+		"addr_lv1": "전북특별자치도",
+		"addr_lv2": "완주군",
+		"apply_nums": "29세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940310&pblancNo=2025940310&houseSecd=11",
@@ -595,6 +708,32 @@
 		"rse": "11",
 		"type": "",
 		"name": "힐스테이트 용인마크밸리(6차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000018&pblancNo=2026000018&houseSecd=01",
+		"in_date": "20260225",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "리첸시아 표선 IB EDU",
+		"addr": "제주특별자치도 서귀포시 표선면 표선리 2957(구 주소 : 536-1외 )   ",
+		"short_addr": "제주특별자치도 서귀포시",
+		"addr_lv1": "제주특별자치도",
+		"addr_lv2": "서귀포시",
+		"apply_nums": "50세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000017&pblancNo=2026000017&houseSecd=01",
+		"in_date": "20260225",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "쌍용 더 플래티넘 온수역",
+		"addr": "경기도 부천시 소사구 괴안동 201번지 일원",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "230세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025940310&pblancNo=2025940310&houseSecd=11",
@@ -616,6 +755,14 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "구리시",
 		"apply_nums": "1530세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940028&pblancNo=2026940028&houseSecd=11",
+		"in_date": "20260303",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "광명 소하 파크타워(3차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000019&pblancNo=2026000019&houseSecd=01",
