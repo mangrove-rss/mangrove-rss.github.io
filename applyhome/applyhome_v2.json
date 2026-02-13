@@ -1,45 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000002&pblancNo=2026000002&houseSecd=01",
-		"in_date": "20260210",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "e편한세상 센텀 하이베뉴",
-		"addr": "부산광역시 해운대구 재송동 1030번지 일원",
-		"short_addr": "부산광역시 해운대구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "해운대구",
-		"apply_nums": "166세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000010&pblancNo=2026000010&houseSecd=01",
-		"in_date": "20260210",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "두산위브 더센트럴 부평(조합원 취소분)",
-		"addr": "인천광역시 부평구 삼산동 191번지 일원",
-		"short_addr": "인천광역시 부평구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "부평구",
-		"apply_nums": "41세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000572&pblancNo=2025000572&houseSecd=01",
-		"in_date": "20260210",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "포레나더샵 인천시청역",
-		"addr": "인천광역시 남동구 간석1동 311-1번지 일원",
-		"short_addr": "인천광역시 남동구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "남동구",
-		"apply_nums": "735세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000002&pblancNo=2026000002&houseSecd=01",
 		"in_date": "20260211",
 		"hsecd": "01",
 		"rse": "03",
@@ -442,6 +403,19 @@
 		"apply_nums": "47세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910039&pblancNo=2026910039&houseSecd=04",
+		"in_date": "20260219",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "루원시티 대성베르힐 더 센트로",
+		"addr": "인천광역시 서구 서곶로 50 (루원시티 대성베르힐 더 센트로)",
+		"short_addr": "인천광역시 서구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "9세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910038&pblancNo=2026910038&houseSecd=04",
 		"in_date": "20260219",
 		"hsecd": "04",
@@ -587,6 +561,19 @@
 		"name": "힐스테이트 용인마크밸리(6차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000034&pblancNo=2026000034&houseSecd=01",
+		"in_date": "20260223",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "더 플래티넘 센트럴포레",
+		"addr": "경기도 양주시 삼숭동 187-47번지 일원",
+		"short_addr": "경기도 양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "양주시",
+		"apply_nums": "112세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000018&pblancNo=2026000018&houseSecd=01",
 		"in_date": "20260223",
 		"hsecd": "01",
@@ -655,6 +642,32 @@
 		"name": "힐스테이트 용인마크밸리(6차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000020&pblancNo=2026000020&houseSecd=01",
+		"in_date": "20260224",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "금정산 하늘채 루미엘",
+		"addr": "부산광역시 금정구 장전동 618-1번지 일원",
+		"short_addr": "부산광역시 금정구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "금정구",
+		"apply_nums": "213세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000034&pblancNo=2026000034&houseSecd=01",
+		"in_date": "20260224",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "더 플래티넘 센트럴포레",
+		"addr": "경기도 양주시 삼숭동 187-47번지 일원",
+		"short_addr": "경기도 양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "양주시",
+		"apply_nums": "112세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000018&pblancNo=2026000018&houseSecd=01",
 		"in_date": "20260224",
 		"hsecd": "01",
@@ -710,6 +723,32 @@
 		"name": "힐스테이트 용인마크밸리(6차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000020&pblancNo=2026000020&houseSecd=01",
+		"in_date": "20260225",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "금정산 하늘채 루미엘",
+		"addr": "부산광역시 금정구 장전동 618-1번지 일원",
+		"short_addr": "부산광역시 금정구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "금정구",
+		"apply_nums": "213세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000034&pblancNo=2026000034&houseSecd=01",
+		"in_date": "20260225",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "더 플래티넘 센트럴포레",
+		"addr": "경기도 양주시 삼숭동 187-47번지 일원",
+		"short_addr": "경기도 양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "양주시",
+		"apply_nums": "112세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000018&pblancNo=2026000018&houseSecd=01",
 		"in_date": "20260225",
 		"hsecd": "01",
@@ -742,6 +781,19 @@
 		"rse": "11",
 		"type": "",
 		"name": "두산위브 더센트럴 부평"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000020&pblancNo=2026000020&houseSecd=01",
+		"in_date": "20260226",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "금정산 하늘채 루미엘",
+		"addr": "부산광역시 금정구 장전동 618-1번지 일원",
+		"short_addr": "부산광역시 금정구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "금정구",
+		"apply_nums": "213세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000019&pblancNo=2026000019&houseSecd=01",
