@@ -29,18 +29,6 @@
 			<showrss:showname><![CDATA[ Mdl-0011 ]]></showrss:showname>
 		</item>
 		<item>
-			<title><![CDATA[ Xb-1508 ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:2d1e55b81b1dcb9c7280fb6ed40d5efd763901ed ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ Xb-1508 ]]></showrss:showname>
-		</item>
-		<item>
-			<title><![CDATA[ Msd-211 ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:e136ba87733887265832a8b4f33e21ab4f8fdff5 ]]></link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ Msd-211 ]]></showrss:showname>
-		</item>
-		<item>
 			<title><![CDATA[ 021226-001-Carib ]]></title>
 			<link><![CDATA[ magnet:?xt=urn:btih:a913824a02b2091a5146307aaf068d1d435a36cc ]]></link>
 			<showrss:showid></showrss:showid>
@@ -63,6 +51,12 @@
 			<link><![CDATA[ magnet:?xt=urn:btih:cb8420ebceefd00bd8d8fc36e35330f40b5e3cbc ]]></link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ Xb-1471 ]]></showrss:showname>
+		</item>
+		<item>
+			<title><![CDATA[ Xb-1508 ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih:2d1e55b81b1dcb9c7280fb6ed40d5efd763901ed ]]></link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ Xb-1508 ]]></showrss:showname>
 		</item>
 		<item>
 			<title><![CDATA[ Xb-1476 ]]></title>
@@ -93,6 +87,12 @@
 			<link><![CDATA[ magnet:?xt=urn:btih:531b66c39285c25dacd9ddebad179b126d1480ae ]]></link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname><![CDATA[ Heyzo-3819 ]]></showrss:showname>
+		</item>
+		<item>
+			<title><![CDATA[ Msd-211 ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih:e136ba87733887265832a8b4f33e21ab4f8fdff5 ]]></link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ Msd-211 ]]></showrss:showname>
 		</item>
 		<item>
 			<title><![CDATA[ 101825_001-1pondo ]]></title>
