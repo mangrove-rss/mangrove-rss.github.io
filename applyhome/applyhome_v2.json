@@ -1,47 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000022&pblancNo=2026000022&houseSecd=01",
-		"in_date": "20260213",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "울산 우정혁신도시 B1블록(골드클래스) 분양전환 후 잔여세대",
-		"addr": "울산광역시 중구 종가로 760 (장현동, 골드클래스)",
-		"short_addr": "울산광역시 중구",
-		"addr_lv1": "울산광역시",
-		"addr_lv2": "중구",
-		"apply_nums": "34세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950008&pblancNo=2026950008&houseSecd=02",
-		"in_date": "20260213",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "광명 퍼스트 스위첸",
-		"addr": "경기도 광명시 광명동 344번지",
-		"short_addr": "경기도 광명시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "광명시",
-		"apply_nums": "5세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940027&pblancNo=2026940027&houseSecd=11",
-		"in_date": "20260213",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "인천영종국제도시 디에트르 라 메르Ⅰ(RC4-1,2BL)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940023&pblancNo=2026940023&houseSecd=11",
-		"in_date": "20260213",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "중흥S-클래스 힐더포레(2차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950008&pblancNo=2026950008&houseSecd=02",
 		"in_date": "20260214",
 		"hsecd": "02",
