@@ -1,27 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950008&pblancNo=2026950008&houseSecd=02",
-		"in_date": "20260215",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "광명 퍼스트 스위첸",
-		"addr": "경기도 광명시 광명동 344번지",
-		"short_addr": "경기도 광명시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "광명시",
-		"apply_nums": "5세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940027&pblancNo=2026940027&houseSecd=11",
-		"in_date": "20260215",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "인천영종국제도시 디에트르 라 메르Ⅰ(RC4-1,2BL)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950008&pblancNo=2026950008&houseSecd=02",
 		"in_date": "20260216",
 		"hsecd": "02",
 		"rse": "05",
@@ -388,6 +367,14 @@
 		"apply_nums": "214세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940034&pblancNo=2026940034&houseSecd=11",
+		"in_date": "20260223",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(16차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940031&pblancNo=2026940031&houseSecd=11",
 		"in_date": "20260223",
 		"hsecd": "11",
@@ -477,6 +464,14 @@
 		"name": "두산위브 더센트럴 부평"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940034&pblancNo=2026940034&houseSecd=11",
+		"in_date": "20260224",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(16차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940029&pblancNo=2026940029&houseSecd=11",
 		"in_date": "20260224",
 		"hsecd": "11",
@@ -545,6 +540,14 @@
 		"name": "두산위브 더센트럴 부평"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940034&pblancNo=2026940034&houseSecd=11",
+		"in_date": "20260225",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(16차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000020&pblancNo=2026000020&houseSecd=01",
 		"in_date": "20260226",
 		"hsecd": "01",
@@ -556,6 +559,30 @@
 		"addr_lv1": "부산광역시",
 		"addr_lv2": "금정구",
 		"apply_nums": "213세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940034&pblancNo=2026940034&houseSecd=11",
+		"in_date": "20260226",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(16차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940034&pblancNo=2026940034&houseSecd=11",
+		"in_date": "20260227",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(16차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940035&pblancNo=2026940035&houseSecd=11",
+		"in_date": "20260227",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "왕길역 아테라(2차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000019&pblancNo=2026000019&houseSecd=01",
