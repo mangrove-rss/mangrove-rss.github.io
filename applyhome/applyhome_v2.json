@@ -1,22 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940031&pblancNo=2026940031&houseSecd=11",
-		"in_date": "20260221",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "시흥 은계 에피트(3차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940029&pblancNo=2026940029&houseSecd=11",
-		"in_date": "20260221",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "힐스테이트 용인마크밸리(6차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940031&pblancNo=2026940031&houseSecd=11",
 		"in_date": "20260222",
 		"hsecd": "11",
 		"rse": "11",
@@ -467,6 +451,45 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "오산시",
 		"apply_nums": "9세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910040&pblancNo=2026910040&houseSecd=04",
+		"in_date": "20260303",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "창원 포레힐스 데시앙(구 창원 감계 데시앙)(2차)",
+		"addr": "경상남도 창원시 의창구 북면 감계로187번길 9, 창원 포레힐스 데시앙(창원 북면 감계2지구 1-1BL)",
+		"short_addr": "경상남도 창원시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "창원시",
+		"apply_nums": "7세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910041&pblancNo=2026910041&houseSecd=04",
+		"in_date": "20260303",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "청계 노르웨이숲(6차)",
+		"addr": "서울특별시 중구 황학동 1756번지 일원",
+		"short_addr": "서울특별시 중구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "중구",
+		"apply_nums": "30세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026930005&pblancNo=2026930005&houseSecd=06",
+		"in_date": "20260303",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "무안 오룡지구 우미린 1차(43BL)",
+		"addr": "전라남도 무안군 일로읍 망월리 남악신도시 오룡지구 43BL",
+		"short_addr": "전라남도 무안군",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "무안군",
+		"apply_nums": "1세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940028&pblancNo=2026940028&houseSecd=11",
