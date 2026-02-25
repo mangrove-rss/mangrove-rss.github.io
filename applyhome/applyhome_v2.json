@@ -1,21 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940031&pblancNo=2026940031&houseSecd=11",
-		"in_date": "20260222",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "시흥 은계 에피트(3차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940029&pblancNo=2026940029&houseSecd=11",
-		"in_date": "20260222",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "힐스테이트 용인마크밸리(6차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000034&pblancNo=2026000034&houseSecd=01",
 		"in_date": "20260223",
 		"hsecd": "01",
@@ -453,6 +437,19 @@
 		"apply_nums": "9세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910048&pblancNo=2026910048&houseSecd=04",
+		"in_date": "20260303",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "사우역 지엔하임",
+		"addr": "경기도 김포시 사우동 사우4구역 공동1블록",
+		"short_addr": "경기도 김포시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "김포시",
+		"apply_nums": "3세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910040&pblancNo=2026910040&houseSecd=04",
 		"in_date": "20260303",
 		"hsecd": "04",
@@ -667,5 +664,31 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "노원구",
 		"apply_nums": "61세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950014&pblancNo=2026950014&houseSecd=02",
+		"in_date": "20260309",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "청량리역 요진 와이시티 도시형생활주택",
+		"addr": "서울특별시 동대문구 청량리동 368번지 일원",
+		"short_addr": "서울특별시 동대문구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "동대문구",
+		"apply_nums": "6세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950014&pblancNo=2026950014&houseSecd=02",
+		"in_date": "20260310",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "청량리역 요진 와이시티 도시형생활주택",
+		"addr": "서울특별시 동대문구 청량리동 368번지 일원",
+		"short_addr": "서울특별시 동대문구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "동대문구",
+		"apply_nums": "6세대"
 	}
 ]
