@@ -1,94 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000034&pblancNo=2026000034&houseSecd=01",
-		"in_date": "20260223",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "더 플래티넘 센트럴포레",
-		"addr": "경기도 양주시 삼숭동 187-47번지 일원",
-		"short_addr": "경기도 양주시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "양주시",
-		"apply_nums": "112세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000018&pblancNo=2026000018&houseSecd=01",
-		"in_date": "20260223",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "리첸시아 표선 IB EDU",
-		"addr": "제주특별자치도 서귀포시 표선면 표선리 2957(구 주소 : 536-1외 )   ",
-		"short_addr": "제주특별자치도 서귀포시",
-		"addr_lv1": "제주특별자치도",
-		"addr_lv2": "서귀포시",
-		"apply_nums": "50세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000017&pblancNo=2026000017&houseSecd=01",
-		"in_date": "20260223",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "쌍용 더 플래티넘 온수역",
-		"addr": "경기도 부천시 소사구 괴안동 201번지 일원",
-		"short_addr": "경기도 부천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "부천시",
-		"apply_nums": "230세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000027&pblancNo=2026000027&houseSecd=01",
-		"in_date": "20260223",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "전주·완주 혁신도시 에코르 2단지 공가세대 일반공급",
-		"addr": "전북특별자치도 완주군 이서면 지사제로 29 (혁신도시 에코르 2단지 아파트)",
-		"short_addr": "전북특별자치도 완주군",
-		"addr_lv1": "전북특별자치도",
-		"addr_lv2": "완주군",
-		"apply_nums": "29세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910037&pblancNo=2026910037&houseSecd=04",
-		"in_date": "20260223",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "수지자이 에디시온(2차)",
-		"addr": "경기도 용인시 수지구 풍덕천동 71-1번지 일원",
-		"short_addr": "경기도 용인시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "용인시",
-		"apply_nums": "214세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940034&pblancNo=2026940034&houseSecd=11",
-		"in_date": "20260223",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "리아츠 더 인천(16차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940031&pblancNo=2026940031&houseSecd=11",
-		"in_date": "20260223",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "시흥 은계 에피트(3차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940029&pblancNo=2026940029&houseSecd=11",
-		"in_date": "20260223",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "힐스테이트 용인마크밸리(6차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000020&pblancNo=2026000020&houseSecd=01",
 		"in_date": "20260224",
 		"hsecd": "01",
@@ -666,6 +577,32 @@
 		"apply_nums": "61세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000008&pblancNo=2026000008&houseSecd=01",
+		"in_date": "20260309",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "경산 상방공원 호반써밋 1단지",
+		"addr": "경상북도 경산시 상방동 71-1번지 일원",
+		"short_addr": "경상북도 경산시",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "경산시",
+		"apply_nums": "1004세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000510&pblancNo=2025000510&houseSecd=01",
+		"in_date": "20260309",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "두산위브 더센트럴 수원",
+		"addr": "경기도 수원시 장안구 영화동 93-6번지 일원",
+		"short_addr": "경기도 수원시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "수원시",
+		"apply_nums": "275세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950014&pblancNo=2026950014&houseSecd=02",
 		"in_date": "20260309",
 		"hsecd": "02",
@@ -679,6 +616,32 @@
 		"apply_nums": "6세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000008&pblancNo=2026000008&houseSecd=01",
+		"in_date": "20260310",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "경산 상방공원 호반써밋 1단지",
+		"addr": "경상북도 경산시 상방동 71-1번지 일원",
+		"short_addr": "경상북도 경산시",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "경산시",
+		"apply_nums": "1004세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000510&pblancNo=2025000510&houseSecd=01",
+		"in_date": "20260310",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "두산위브 더센트럴 수원",
+		"addr": "경기도 수원시 장안구 영화동 93-6번지 일원",
+		"short_addr": "경기도 수원시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "수원시",
+		"apply_nums": "275세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950014&pblancNo=2026950014&houseSecd=02",
 		"in_date": "20260310",
 		"hsecd": "02",
@@ -690,5 +653,31 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "동대문구",
 		"apply_nums": "6세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000008&pblancNo=2026000008&houseSecd=01",
+		"in_date": "20260311",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "경산 상방공원 호반써밋 1단지",
+		"addr": "경상북도 경산시 상방동 71-1번지 일원",
+		"short_addr": "경상북도 경산시",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "경산시",
+		"apply_nums": "1004세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000510&pblancNo=2025000510&houseSecd=01",
+		"in_date": "20260311",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "두산위브 더센트럴 수원",
+		"addr": "경기도 수원시 장안구 영화동 93-6번지 일원",
+		"short_addr": "경기도 수원시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "수원시",
+		"apply_nums": "275세대"
 	}
 ]
