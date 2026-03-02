@@ -268,6 +268,30 @@
 		"apply_nums": "1012세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940039&pblancNo=2026940039&houseSecd=11",
+		"in_date": "20260305",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "두산위브앤수자인 부평 더퍼스트 (4차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940038&pblancNo=2026940038&houseSecd=11",
+		"in_date": "20260305",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "수원이목지구 대방 디에트르 더 리체Ⅱ(A3BL) (13차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940042&pblancNo=2026940042&houseSecd=11",
+		"in_date": "20260305",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "식사 푸르지오 파크센트(2차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000645&pblancNo=2025000645&houseSecd=01",
 		"in_date": "20260306",
 		"hsecd": "01",
@@ -292,6 +316,14 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "노원구",
 		"apply_nums": "61세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940038&pblancNo=2026940038&houseSecd=11",
+		"in_date": "20260306",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "수원이목지구 대방 디에트르 더 리체Ⅱ(A3BL) (13차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000008&pblancNo=2026000008&houseSecd=01",
@@ -404,5 +436,44 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "수원시",
 		"apply_nums": "275세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000035&pblancNo=2026000035&houseSecd=01",
+		"in_date": "20260313",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "연수 월드메르디앙 어반포레",
+		"addr": "인천광역시 연수구 동춘동 1152번지 일원",
+		"short_addr": "인천광역시 연수구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "연수구",
+		"apply_nums": "133세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000035&pblancNo=2026000035&houseSecd=01",
+		"in_date": "20260316",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "연수 월드메르디앙 어반포레",
+		"addr": "인천광역시 연수구 동춘동 1152번지 일원",
+		"short_addr": "인천광역시 연수구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "연수구",
+		"apply_nums": "133세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000035&pblancNo=2026000035&houseSecd=01",
+		"in_date": "20260317",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "연수 월드메르디앙 어반포레",
+		"addr": "인천광역시 연수구 동춘동 1152번지 일원",
+		"short_addr": "인천광역시 연수구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "연수구",
+		"apply_nums": "133세대"
 	}
 ]
