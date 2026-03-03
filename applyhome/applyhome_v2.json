@@ -292,6 +292,14 @@
 		"name": "식사 푸르지오 파크센트(2차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940041&pblancNo=2026940041&houseSecd=11",
+		"in_date": "20260305",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "안양자이 헤리티온"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000645&pblancNo=2025000645&houseSecd=01",
 		"in_date": "20260306",
 		"hsecd": "01",
@@ -326,6 +334,14 @@
 		"name": "수원이목지구 대방 디에트르 더 리체Ⅱ(A3BL) (13차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940041&pblancNo=2026940041&houseSecd=11",
+		"in_date": "20260306",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "안양자이 헤리티온"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000008&pblancNo=2026000008&houseSecd=01",
 		"in_date": "20260309",
 		"hsecd": "01",
@@ -350,6 +366,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "수원시",
 		"apply_nums": "275세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950015&pblancNo=2026950015&houseSecd=02",
+		"in_date": "20260309",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "잠실 테라412",
+		"addr": "서울특별시 송파구 방이동 41-2",
+		"short_addr": "서울특별시 송파구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "송파구",
+		"apply_nums": "6세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950014&pblancNo=2026950014&houseSecd=02",
@@ -397,6 +426,19 @@
 		"rse": "04",
 		"type": "",
 		"name": "고덕국제신도시 서한 에듀센텀"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950015&pblancNo=2026950015&houseSecd=02",
+		"in_date": "20260310",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "잠실 테라412",
+		"addr": "서울특별시 송파구 방이동 41-2",
+		"short_addr": "서울특별시 송파구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "송파구",
+		"apply_nums": "6세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950014&pblancNo=2026950014&houseSecd=02",
