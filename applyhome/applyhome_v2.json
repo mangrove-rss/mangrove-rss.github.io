@@ -368,6 +368,14 @@
 		"apply_nums": "275세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850015&pblancNo=2026850015&houseSecd=03",
+		"in_date": "20260309",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "부경경마공원역 대방 디에트르 더리버(AP1BL)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950015&pblancNo=2026950015&houseSecd=02",
 		"in_date": "20260309",
 		"hsecd": "02",
@@ -391,6 +399,19 @@
 		"short_addr": "서울특별시 동대문구",
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "동대문구",
+		"apply_nums": "6세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910051&pblancNo=2026910051&houseSecd=04",
+		"in_date": "20260309",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "대전 하늘채 루시에르(2회차)",
+		"addr": "대전광역시 중구 선화동 95-3번지 일원",
+		"short_addr": "대전광역시 중구",
+		"addr_lv1": "대전광역시",
+		"addr_lv2": "중구",
 		"apply_nums": "6세대"
 	},
 	{
@@ -428,6 +449,14 @@
 		"name": "고덕국제신도시 서한 에듀센텀"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850015&pblancNo=2026850015&houseSecd=03",
+		"in_date": "20260310",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "부경경마공원역 대방 디에트르 더리버(AP1BL)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950015&pblancNo=2026950015&houseSecd=02",
 		"in_date": "20260310",
 		"hsecd": "02",
@@ -452,6 +481,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "동대문구",
 		"apply_nums": "6세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910058&pblancNo=2026910058&houseSecd=04",
+		"in_date": "20260310",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "평택화양 서희스타힐스 센트럴파크(조합원 취소분)",
+		"addr": "경기도 평택시 현덕면 화양리 평택화양지구 8블록(A8BL 2LOT)",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "45세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000008&pblancNo=2026000008&houseSecd=01",
