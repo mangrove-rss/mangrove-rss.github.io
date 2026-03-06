@@ -1,130 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000019&pblancNo=2026000019&houseSecd=01",
-		"in_date": "20260303",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "구리역 하이니티 리버파크",
-		"addr": "경기도 구리시 수택동 496-6 일대(수택E구역 주택재개발정비사업)",
-		"short_addr": "경기도 구리시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "구리시",
-		"apply_nums": "1530세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000014&pblancNo=2026000014&houseSecd=01",
-		"in_date": "20260303",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "천안 아이파크 시티 5단지",
-		"addr": "충청남도 천안시 서북구 성성동 60-9번지 일원",
-		"short_addr": "충청남도 천안시",
-		"addr_lv1": "충청남도",
-		"addr_lv2": "천안시",
-		"apply_nums": "837세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000015&pblancNo=2026000015&houseSecd=01",
-		"in_date": "20260303",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "천안 아이파크 시티 6단지",
-		"addr": "충청남도 천안시 서북구 성성동 39-7번지 일원",
-		"short_addr": "충청남도 천안시",
-		"addr_lv1": "충청남도",
-		"addr_lv2": "천안시",
-		"apply_nums": "1012세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000028&pblancNo=2026000028&houseSecd=01",
-		"in_date": "20260303",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "해링턴플레이스 노원 센트럴",
-		"addr": "서울특별시 노원구 노원로 495 (상계동 690)",
-		"short_addr": "서울특별시 노원구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "노원구",
-		"apply_nums": "61세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000030&pblancNo=2026000030&houseSecd=01",
-		"in_date": "20260303",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "힐스테이트 오산 더퍼스트(조합원 자격상실 및 제명세대)(2회차)",
-		"addr": "경기도 오산시 경기대로 24-27(갈곶동, 힐스테이트오산더퍼스트)",
-		"short_addr": "경기도 오산시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "오산시",
-		"apply_nums": "9세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910048&pblancNo=2026910048&houseSecd=04",
-		"in_date": "20260303",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "사우역 지엔하임",
-		"addr": "경기도 김포시 사우동 사우4구역 공동1블록",
-		"short_addr": "경기도 김포시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "김포시",
-		"apply_nums": "3세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910040&pblancNo=2026910040&houseSecd=04",
-		"in_date": "20260303",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "창원 포레힐스 데시앙(구 창원 감계 데시앙)(2차)",
-		"addr": "경상남도 창원시 의창구 북면 감계로187번길 9, 창원 포레힐스 데시앙(창원 북면 감계2지구 1-1BL)",
-		"short_addr": "경상남도 창원시",
-		"addr_lv1": "경상남도",
-		"addr_lv2": "창원시",
-		"apply_nums": "7세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910041&pblancNo=2026910041&houseSecd=04",
-		"in_date": "20260303",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "청계 노르웨이숲(6차)",
-		"addr": "서울특별시 중구 황학동 1756번지 일원",
-		"short_addr": "서울특별시 중구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "중구",
-		"apply_nums": "30세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026930005&pblancNo=2026930005&houseSecd=06",
-		"in_date": "20260303",
-		"hsecd": "06",
-		"rse": "07",
-		"type": "",
-		"name": "무안 오룡지구 우미린 1차(43BL)",
-		"addr": "전라남도 무안군 일로읍 망월리 남악신도시 오룡지구 43BL",
-		"short_addr": "전라남도 무안군",
-		"addr_lv1": "전라남도",
-		"addr_lv2": "무안군",
-		"apply_nums": "1세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940028&pblancNo=2026940028&houseSecd=11",
-		"in_date": "20260303",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "광명 소하 파크타워(3차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000645&pblancNo=2025000645&houseSecd=01",
 		"in_date": "20260304",
 		"hsecd": "01",
@@ -530,6 +405,14 @@
 		"name": "배방 필하우스 리버시티 (2차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940046&pblancNo=2026940046&houseSecd=11",
+		"in_date": "20260310",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "옥천역 금호어울림 더퍼스트"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000008&pblancNo=2026000008&houseSecd=01",
 		"in_date": "20260311",
 		"hsecd": "01",
@@ -562,6 +445,32 @@
 		"rse": "04",
 		"type": "",
 		"name": "서면 지원 더뷰 드림아파트(공공지원민간임대)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950019&pblancNo=2026950019&houseSecd=02",
+		"in_date": "20260311",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "동탄2신도시 대방 엘리움 레이크파크",
+		"addr": "경기도 화성시 송동 725-9번지",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "6세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950020&pblancNo=2026950020&houseSecd=02",
+		"in_date": "20260311",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "동탄2신도시 동탄역 디에트르 퍼스티지",
+		"addr": "경기도 화성시 오산동 979번지",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "5세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950017&pblancNo=2026950017&houseSecd=02",
@@ -622,6 +531,32 @@
 		"rse": "04",
 		"type": "",
 		"name": "서면 지원 더뷰 드림아파트(공공지원민간임대)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950019&pblancNo=2026950019&houseSecd=02",
+		"in_date": "20260312",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "동탄2신도시 대방 엘리움 레이크파크",
+		"addr": "경기도 화성시 송동 725-9번지",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "6세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950020&pblancNo=2026950020&houseSecd=02",
+		"in_date": "20260312",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "동탄2신도시 동탄역 디에트르 퍼스티지",
+		"addr": "경기도 화성시 오산동 979번지",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "5세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950017&pblancNo=2026950017&houseSecd=02",
@@ -728,6 +663,19 @@
 		"apply_nums": "10세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000036&pblancNo=2026000036&houseSecd=01",
+		"in_date": "20260316",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "e편한세상 여수 글렌츠",
+		"addr": "전라남도 여수시 신기동 3번지 일원",
+		"short_addr": "전라남도 여수시",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "여수시",
+		"apply_nums": "81세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000039&pblancNo=2026000039&houseSecd=01",
 		"in_date": "20260316",
 		"hsecd": "01",
@@ -741,6 +689,19 @@
 		"apply_nums": "272세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000043&pblancNo=2026000043&houseSecd=01",
+		"in_date": "20260316",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "부천역 에피트 어바닉",
+		"addr": "경기도 부천시 원미구 원미동 150-1외 2필지",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "93세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000046&pblancNo=2026000046&houseSecd=01",
 		"in_date": "20260316",
 		"hsecd": "01",
@@ -791,6 +752,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "성동구",
 		"apply_nums": "10세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000036&pblancNo=2026000036&houseSecd=01",
+		"in_date": "20260317",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "e편한세상 여수 글렌츠",
+		"addr": "전라남도 여수시 신기동 3번지 일원",
+		"short_addr": "전라남도 여수시",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "여수시",
+		"apply_nums": "81세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000039&pblancNo=2026000039&houseSecd=01",
@@ -806,6 +780,19 @@
 		"apply_nums": "272세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000043&pblancNo=2026000043&houseSecd=01",
+		"in_date": "20260317",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "부천역 에피트 어바닉",
+		"addr": "경기도 부천시 원미구 원미동 150-1외 2필지",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "93세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000046&pblancNo=2026000046&houseSecd=01",
 		"in_date": "20260317",
 		"hsecd": "01",
@@ -856,6 +843,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "성동구",
 		"apply_nums": "10세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000029&pblancNo=2026000029&houseSecd=01",
+		"in_date": "20260318",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "썬밸리 오드카운티 가평설악",
+		"addr": "경기도 가평군 설악면 신천리 산45-1번지 일원",
+		"short_addr": "경기도 가평군",
+		"addr_lv1": "경기도",
+		"addr_lv2": "가평군",
+		"apply_nums": "1039세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000039&pblancNo=2026000039&houseSecd=01",
@@ -871,6 +871,45 @@
 		"apply_nums": "272세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000036&pblancNo=2026000036&houseSecd=01",
+		"in_date": "20260318",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "e편한세상 여수 글렌츠",
+		"addr": "전라남도 여수시 신기동 3번지 일원",
+		"short_addr": "전라남도 여수시",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "여수시",
+		"apply_nums": "81세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000043&pblancNo=2026000043&houseSecd=01",
+		"in_date": "20260318",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "부천역 에피트 어바닉",
+		"addr": "경기도 부천시 원미구 원미동 150-1외 2필지",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "93세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000029&pblancNo=2026000029&houseSecd=01",
+		"in_date": "20260319",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "썬밸리 오드카운티 가평설악",
+		"addr": "경기도 가평군 설악면 신천리 산45-1번지 일원",
+		"short_addr": "경기도 가평군",
+		"addr_lv1": "경기도",
+		"addr_lv2": "가평군",
+		"apply_nums": "1039세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000039&pblancNo=2026000039&houseSecd=01",
 		"in_date": "20260319",
 		"hsecd": "01",
@@ -882,5 +921,18 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "강서구",
 		"apply_nums": "272세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000029&pblancNo=2026000029&houseSecd=01",
+		"in_date": "20260320",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "썬밸리 오드카운티 가평설악",
+		"addr": "경기도 가평군 설악면 신천리 산45-1번지 일원",
+		"short_addr": "경기도 가평군",
+		"addr_lv1": "경기도",
+		"addr_lv2": "가평군",
+		"apply_nums": "1039세대"
 	}
 ]
