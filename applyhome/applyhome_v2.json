@@ -1,47 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000645&pblancNo=2025000645&houseSecd=01",
-		"in_date": "20260306",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "이천시 장호원읍 5년 공공건설임대주택(카사펠리스이천) 임차인모집",
-		"addr": "경기도 이천시 장호원읍 이황리 355-7번지",
-		"short_addr": "경기도 이천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "이천시",
-		"apply_nums": "930세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000028&pblancNo=2026000028&houseSecd=01",
-		"in_date": "20260306",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "해링턴플레이스 노원 센트럴",
-		"addr": "서울특별시 노원구 노원로 495 (상계동 690)",
-		"short_addr": "서울특별시 노원구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "노원구",
-		"apply_nums": "61세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940038&pblancNo=2026940038&houseSecd=11",
-		"in_date": "20260306",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "수원이목지구 대방 디에트르 더 리체Ⅱ(A3BL) (13차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940041&pblancNo=2026940041&houseSecd=11",
-		"in_date": "20260306",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "안양자이 헤리티온"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000008&pblancNo=2026000008&houseSecd=01",
 		"in_date": "20260309",
 		"hsecd": "01",
@@ -374,6 +332,14 @@
 		"name": "여월 중앙하이츠 아르비채"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940045&pblancNo=2026940045&houseSecd=11",
+		"in_date": "20260311",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "힐스테이트 탑석(5차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850013&pblancNo=2026850013&houseSecd=03",
 		"in_date": "20260312",
 		"hsecd": "03",
@@ -455,6 +421,14 @@
 		"name": "고촌센트럴자이(10차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940050&pblancNo=2026940050&houseSecd=11",
+		"in_date": "20260312",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "신도림역 동문 디 이스트(9차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940051&pblancNo=2026940051&houseSecd=11",
 		"in_date": "20260312",
 		"hsecd": "11",
@@ -469,6 +443,14 @@
 		"rse": "11",
 		"type": "",
 		"name": "여월 중앙하이츠 아르비채"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940045&pblancNo=2026940045&houseSecd=11",
+		"in_date": "20260312",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "힐스테이트 탑석(5차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000035&pblancNo=2026000035&houseSecd=01",
@@ -508,6 +490,14 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "강동구",
 		"apply_nums": "28세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940050&pblancNo=2026940050&houseSecd=11",
+		"in_date": "20260313",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "신도림역 동문 디 이스트(9차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940051&pblancNo=2026940051&houseSecd=11",
@@ -583,6 +573,19 @@
 		"apply_nums": "93세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000038&pblancNo=2026000038&houseSecd=01",
+		"in_date": "20260316",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "상주자이르네",
+		"addr": "경상북도 상주시 함창읍 윤직리 840번지 일원",
+		"short_addr": "경상북도 상주시",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "상주시",
+		"apply_nums": "773세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000046&pblancNo=2026000046&houseSecd=01",
 		"in_date": "20260316",
 		"hsecd": "01",
@@ -607,6 +610,14 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "연수구",
 		"apply_nums": "133세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850016&pblancNo=2026850016&houseSecd=03",
+		"in_date": "20260316",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "운서역 푸르지오 더 스카이 2차"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950018&pblancNo=2026950018&houseSecd=02",
@@ -685,6 +696,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "부천시",
 		"apply_nums": "93세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000038&pblancNo=2026000038&houseSecd=01",
+		"in_date": "20260317",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "상주자이르네",
+		"addr": "경상북도 상주시 함창읍 윤직리 840번지 일원",
+		"short_addr": "경상북도 상주시",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "상주시",
+		"apply_nums": "773세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000046&pblancNo=2026000046&houseSecd=01",
@@ -802,6 +826,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "부천시",
 		"apply_nums": "93세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000038&pblancNo=2026000038&houseSecd=01",
+		"in_date": "20260318",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "상주자이르네",
+		"addr": "경상북도 상주시 함창읍 윤직리 840번지 일원",
+		"short_addr": "경상북도 상주시",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "상주시",
+		"apply_nums": "773세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000029&pblancNo=2026000029&houseSecd=01",
