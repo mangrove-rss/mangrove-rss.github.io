@@ -500,6 +500,14 @@
 		"name": "신도림역 동문 디 이스트(9차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940047&pblancNo=2026940047&houseSecd=11",
+		"in_date": "20260313",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "양주 회천지구 A-20BL 대광로제비앙 센트럴"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940051&pblancNo=2026940051&houseSecd=11",
 		"in_date": "20260313",
 		"hsecd": "11",
@@ -646,6 +654,32 @@
 		"apply_nums": "10세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910052&pblancNo=2026910052&houseSecd=04",
+		"in_date": "20260316",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "도안 푸르지오 디아델 29블록",
+		"addr": "대전광역시 유성구 용계동 70대 일원",
+		"short_addr": "대전광역시 유성구",
+		"addr_lv1": "대전광역시",
+		"addr_lv2": "유성구",
+		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910053&pblancNo=2026910053&houseSecd=04",
+		"in_date": "20260316",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "도안 푸르지오 디아델 31블록",
+		"addr": "대전광역시 유성구 용계동 73-48번지 일원",
+		"short_addr": "대전광역시 유성구",
+		"addr_lv1": "대전광역시",
+		"addr_lv2": "유성구",
+		"apply_nums": "1세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910046&pblancNo=2026910046&houseSecd=04",
 		"in_date": "20260316",
 		"hsecd": "04",
@@ -657,6 +691,32 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "강동구",
 		"apply_nums": "15세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910050&pblancNo=2026910050&houseSecd=04",
+		"in_date": "20260316",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "영등포자이 디그니티",
+		"addr": "서울특별시 영등포구 양평동1가 265-1 일원",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026930007&pblancNo=2026930007&houseSecd=06",
+		"in_date": "20260316",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "영등포자이 디그니티",
+		"addr": "서울특별시 영등포구 양평동1가 265-1 일원",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "2세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000036&pblancNo=2026000036&houseSecd=01",
@@ -774,6 +834,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "강동구",
 		"apply_nums": "15세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026930007&pblancNo=2026930007&houseSecd=06",
+		"in_date": "20260317",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "영등포자이 디그니티",
+		"addr": "서울특별시 영등포구 양평동1가 265-1 일원",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "2세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000029&pblancNo=2026000029&houseSecd=01",
