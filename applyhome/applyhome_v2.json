@@ -1,118 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850013&pblancNo=2026850013&houseSecd=03",
-		"in_date": "20260312",
-		"hsecd": "03",
-		"rse": "04",
-		"type": "",
-		"name": "서면 지원 더뷰 드림아파트(공공지원민간임대)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950019&pblancNo=2026950019&houseSecd=02",
-		"in_date": "20260312",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "동탄2신도시 대방 엘리움 레이크파크",
-		"addr": "경기도 화성시 송동 725-9번지",
-		"short_addr": "경기도 화성시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "화성시",
-		"apply_nums": "6세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950020&pblancNo=2026950020&houseSecd=02",
-		"in_date": "20260312",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "동탄2신도시 동탄역 디에트르 퍼스티지",
-		"addr": "경기도 화성시 오산동 979번지",
-		"short_addr": "경기도 화성시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "화성시",
-		"apply_nums": "5세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950017&pblancNo=2026950017&houseSecd=02",
-		"in_date": "20260312",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "안성 공도 센트럴카운티",
-		"addr": "경기도 안성시 공도읍 서동대로 4057",
-		"short_addr": "경기도 안성시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "안성시",
-		"apply_nums": "20세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950021&pblancNo=2026950021&houseSecd=02",
-		"in_date": "20260312",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "왕십리역 어반홈스 B동",
-		"addr": "서울특별시 성동구 도선동 116, 117번지",
-		"short_addr": "서울특별시 성동구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "성동구",
-		"apply_nums": "10세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910049&pblancNo=2026910049&houseSecd=04",
-		"in_date": "20260312",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "에스아이팰리스 올림픽공원(8차)",
-		"addr": "서울특별시 강동구 성내동 459-3",
-		"short_addr": "서울특별시 강동구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강동구",
-		"apply_nums": "28세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940044&pblancNo=2026940044&houseSecd=11",
-		"in_date": "20260312",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "고촌센트럴자이(10차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940050&pblancNo=2026940050&houseSecd=11",
-		"in_date": "20260312",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "신도림역 동문 디 이스트(9차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940051&pblancNo=2026940051&houseSecd=11",
-		"in_date": "20260312",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "엘리프원종"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940040&pblancNo=2026940040&houseSecd=11",
-		"in_date": "20260312",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "여월 중앙하이츠 아르비채"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940045&pblancNo=2026940045&houseSecd=11",
-		"in_date": "20260312",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "힐스테이트 탑석(5차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000035&pblancNo=2026000035&houseSecd=01",
 		"in_date": "20260313",
 		"hsecd": "01",
@@ -720,6 +607,14 @@
 		"apply_nums": "1세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940052&pblancNo=2026940052&houseSecd=11",
+		"in_date": "20260318",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "용인 푸르지오 원클러스터파크"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000029&pblancNo=2026000029&houseSecd=01",
 		"in_date": "20260319",
 		"hsecd": "01",
@@ -846,6 +741,32 @@
 		"addr_lv1": "광주광역시",
 		"addr_lv2": "동구",
 		"apply_nums": "33세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910057&pblancNo=2026910057&houseSecd=04",
+		"in_date": "20260323",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "대구 동인동 센트럴 대원칸타빌",
+		"addr": "대구광역시 중구 태평로224, 동인동1가413",
+		"short_addr": "대구광역시 중구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "3세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910065&pblancNo=2026910065&houseSecd=04",
+		"in_date": "20260323",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "화성 봉담자이 라젠느(4차)",
+		"addr": "경기도 화성특례시 효행구 봉담읍 동화서북안길 70",
+		"short_addr": "경기도 화성특례시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성특례시",
+		"apply_nums": "3세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940048&pblancNo=2026940048&houseSecd=11",
