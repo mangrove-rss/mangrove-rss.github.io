@@ -1,68 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000035&pblancNo=2026000035&houseSecd=01",
-		"in_date": "20260313",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "연수 월드메르디앙 어반포레",
-		"addr": "인천광역시 연수구 동춘동 1152번지 일원",
-		"short_addr": "인천광역시 연수구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "연수구",
-		"apply_nums": "133세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950021&pblancNo=2026950021&houseSecd=02",
-		"in_date": "20260313",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "왕십리역 어반홈스 B동",
-		"addr": "서울특별시 성동구 도선동 116, 117번지",
-		"short_addr": "서울특별시 성동구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "성동구",
-		"apply_nums": "10세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910049&pblancNo=2026910049&houseSecd=04",
-		"in_date": "20260313",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "에스아이팰리스 올림픽공원(8차)",
-		"addr": "서울특별시 강동구 성내동 459-3",
-		"short_addr": "서울특별시 강동구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강동구",
-		"apply_nums": "28세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940050&pblancNo=2026940050&houseSecd=11",
-		"in_date": "20260313",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "신도림역 동문 디 이스트(9차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940047&pblancNo=2026940047&houseSecd=11",
-		"in_date": "20260313",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "양주 회천지구 A-20BL 대광로제비앙 센트럴"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940051&pblancNo=2026940051&houseSecd=11",
-		"in_date": "20260313",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "엘리프원종"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950021&pblancNo=2026950021&houseSecd=02",
 		"in_date": "20260314",
 		"hsecd": "02",
@@ -615,6 +552,14 @@
 		"name": "용인 푸르지오 원클러스터파크"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940054&pblancNo=2026940054&houseSecd=11",
+		"in_date": "20260318",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "청계백상앨리츠"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000029&pblancNo=2026000029&houseSecd=01",
 		"in_date": "20260319",
 		"hsecd": "01",
@@ -641,6 +586,22 @@
 		"apply_nums": "272세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940054&pblancNo=2026940054&houseSecd=11",
+		"in_date": "20260319",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "청계백상앨리츠"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940053&pblancNo=2026940053&houseSecd=11",
+		"in_date": "20260319",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "파주 운정신도시 A2블록 호반써밋 이스트파크(3차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000029&pblancNo=2026000029&houseSecd=01",
 		"in_date": "20260320",
 		"hsecd": "01",
@@ -660,6 +621,14 @@
 		"rse": "11",
 		"type": "",
 		"name": "시흥 은계 에피트(4차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940054&pblancNo=2026940054&houseSecd=11",
+		"in_date": "20260320",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "청계백상앨리츠"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940048&pblancNo=2026940048&houseSecd=11",
@@ -894,6 +863,19 @@
 		"apply_nums": "427세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000057&pblancNo=2026000057&houseSecd=01",
+		"in_date": "20260326",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "에코델타시티 엘가 로제비앙",
+		"addr": "부산광역시 강서구 강동동 에코델타시티 5BL",
+		"short_addr": "부산광역시 강서구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "강서구",
+		"apply_nums": "998세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000023&pblancNo=2026000023&houseSecd=01",
 		"in_date": "20260326",
 		"hsecd": "01",
@@ -905,5 +887,31 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "영등포구",
 		"apply_nums": "138세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000057&pblancNo=2026000057&houseSecd=01",
+		"in_date": "20260327",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "에코델타시티 엘가 로제비앙",
+		"addr": "부산광역시 강서구 강동동 에코델타시티 5BL",
+		"short_addr": "부산광역시 강서구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "강서구",
+		"apply_nums": "998세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000057&pblancNo=2026000057&houseSecd=01",
+		"in_date": "20260330",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "에코델타시티 엘가 로제비앙",
+		"addr": "부산광역시 강서구 강동동 에코델타시티 5BL",
+		"short_addr": "부산광역시 강서구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "강서구",
+		"apply_nums": "998세대"
 	}
 ]
