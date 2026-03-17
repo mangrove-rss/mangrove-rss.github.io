@@ -1,19 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950021&pblancNo=2026950021&houseSecd=02",
-		"in_date": "20260314",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "왕십리역 어반홈스 B동",
-		"addr": "서울특별시 성동구 도선동 116, 117번지",
-		"short_addr": "서울특별시 성동구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "성동구",
-		"apply_nums": "10세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950021&pblancNo=2026950021&houseSecd=02",
 		"in_date": "20260315",
 		"hsecd": "02",
 		"rse": "05",
@@ -623,6 +610,14 @@
 		"name": "시흥 은계 에피트(4차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940057&pblancNo=2026940057&houseSecd=11",
+		"in_date": "20260320",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "인하대역 수자인 로이센트(2차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940054&pblancNo=2026940054&houseSecd=11",
 		"in_date": "20260320",
 		"hsecd": "11",
@@ -902,6 +897,19 @@
 		"apply_nums": "998세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000063&pblancNo=2026000063&houseSecd=01",
+		"in_date": "20260330",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "오션포레베네스트하우스(미단시티 공동8BL)",
+		"addr": "인천광역시 중구 자연대로 667(오션포레베네스트하우스)",
+		"short_addr": "인천광역시 중구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "253세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000057&pblancNo=2026000057&houseSecd=01",
 		"in_date": "20260330",
 		"hsecd": "01",
@@ -913,5 +921,31 @@
 		"addr_lv1": "부산광역시",
 		"addr_lv2": "강서구",
 		"apply_nums": "998세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000063&pblancNo=2026000063&houseSecd=01",
+		"in_date": "20260331",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "오션포레베네스트하우스(미단시티 공동8BL)",
+		"addr": "인천광역시 중구 자연대로 667(오션포레베네스트하우스)",
+		"short_addr": "인천광역시 중구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "253세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000063&pblancNo=2026000063&houseSecd=01",
+		"in_date": "20260401",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "오션포레베네스트하우스(미단시티 공동8BL)",
+		"addr": "인천광역시 중구 자연대로 667(오션포레베네스트하우스)",
+		"short_addr": "인천광역시 중구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "253세대"
 	}
 ]
