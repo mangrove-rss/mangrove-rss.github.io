@@ -1,48 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000029&pblancNo=2026000029&houseSecd=01",
-		"in_date": "20260319",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "썬밸리 오드카운티 가평설악",
-		"addr": "경기도 가평군 설악면 신천리 산45-1번지 일원",
-		"short_addr": "경기도 가평군",
-		"addr_lv1": "경기도",
-		"addr_lv2": "가평군",
-		"apply_nums": "1039세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000039&pblancNo=2026000039&houseSecd=01",
-		"in_date": "20260319",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "래미안 엘라비네",
-		"addr": "서울특별시 강서구 방화동 608-97번지 일대",
-		"short_addr": "서울특별시 강서구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강서구",
-		"apply_nums": "272세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940054&pblancNo=2026940054&houseSecd=11",
-		"in_date": "20260319",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "청계백상앨리츠"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940053&pblancNo=2026940053&houseSecd=11",
-		"in_date": "20260319",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "파주 운정신도시 A2블록 호반써밋 이스트파크(3차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000029&pblancNo=2026000029&houseSecd=01",
 		"in_date": "20260320",
 		"hsecd": "01",
 		"rse": "03",
@@ -385,6 +343,22 @@
 		"name": "김포 칸타빌 에디션"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940064&pblancNo=2026940064&houseSecd=11",
+		"in_date": "20260325",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(17차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940056&pblancNo=2026940056&houseSecd=11",
+		"in_date": "20260325",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "수원이목지구 대방 디에트르 더 리체Ⅱ(A3BL) (14차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000057&pblancNo=2026000057&houseSecd=01",
 		"in_date": "20260326",
 		"hsecd": "01",
@@ -445,6 +419,22 @@
 		"apply_nums": "4세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940064&pblancNo=2026940064&houseSecd=11",
+		"in_date": "20260326",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(17차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940056&pblancNo=2026940056&houseSecd=11",
+		"in_date": "20260326",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "수원이목지구 대방 디에트르 더 리체Ⅱ(A3BL) (14차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000057&pblancNo=2026000057&houseSecd=01",
 		"in_date": "20260327",
 		"hsecd": "01",
@@ -484,6 +474,30 @@
 		"apply_nums": "4세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940064&pblancNo=2026940064&houseSecd=11",
+		"in_date": "20260327",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(17차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940064&pblancNo=2026940064&houseSecd=11",
+		"in_date": "20260328",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(17차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940064&pblancNo=2026940064&houseSecd=11",
+		"in_date": "20260329",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(17차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000064&pblancNo=2026000064&houseSecd=01",
 		"in_date": "20260330",
 		"hsecd": "01",
@@ -549,6 +563,14 @@
 		"apply_nums": "998세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940064&pblancNo=2026940064&houseSecd=11",
+		"in_date": "20260330",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(17차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000051&pblancNo=2026000051&houseSecd=01",
 		"in_date": "20260331",
 		"hsecd": "01",
@@ -627,6 +649,14 @@
 		"apply_nums": "209세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940064&pblancNo=2026940064&houseSecd=11",
+		"in_date": "20260331",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(17차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000064&pblancNo=2026000064&houseSecd=01",
 		"in_date": "20260401",
 		"hsecd": "01",
@@ -705,6 +735,14 @@
 		"apply_nums": "209세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940062&pblancNo=2026940062&houseSecd=11",
+		"in_date": "20260401",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "왕길역 아테라(3차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000497&pblancNo=2025000497&houseSecd=01",
 		"in_date": "20260402",
 		"hsecd": "01",
@@ -742,6 +780,14 @@
 		"addr_lv1": "충청남도",
 		"addr_lv2": "아산시",
 		"apply_nums": "1638세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940062&pblancNo=2026940062&houseSecd=11",
+		"in_date": "20260402",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "왕길역 아테라(3차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000497&pblancNo=2025000497&houseSecd=01",
