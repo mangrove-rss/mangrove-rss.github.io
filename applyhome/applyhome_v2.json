@@ -1,14 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940048&pblancNo=2026940048&houseSecd=11",
-		"in_date": "20260321",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "시흥 은계 에피트(4차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940048&pblancNo=2026940048&houseSecd=11",
 		"in_date": "20260322",
 		"hsecd": "11",
 		"rse": "11",
@@ -453,6 +445,14 @@
 		"name": "리아츠 더 인천(17차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940059&pblancNo=2026940059&houseSecd=11",
+		"in_date": "20260327",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "영종하늘도시 대라수 어썸(A50BL)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940064&pblancNo=2026940064&houseSecd=11",
 		"in_date": "20260328",
 		"hsecd": "11",
@@ -547,6 +547,19 @@
 		"apply_nums": "6세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910068&pblancNo=2026910068&houseSecd=04",
+		"in_date": "20260330",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "금정산 하늘채 루미엘",
+		"addr": "부산광역시 금정구 장전동 618-1번지 일원",
+		"short_addr": "부산광역시 금정구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "금정구",
+		"apply_nums": "30세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910069&pblancNo=2026910069&houseSecd=04",
 		"in_date": "20260330",
 		"hsecd": "04",
@@ -571,6 +584,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "관악구",
 		"apply_nums": "4세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910070&pblancNo=2026910070&houseSecd=04",
+		"in_date": "20260330",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "쌍용 더 플래티넘 온수역",
+		"addr": "경기도 부천시 소사구 괴안동 201번지 일원",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "3세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910064&pblancNo=2026910064&houseSecd=04",
@@ -826,6 +852,19 @@
 		"name": "왕길역 아테라(3차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000081&pblancNo=2026000081&houseSecd=01",
+		"in_date": "20260403",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "선운지구다사로움 공가세대 일반공급",
+		"addr": "광주광역시 광산구 선운로 34 (선운지구다사로움아파트)",
+		"short_addr": "광주광역시 광산구",
+		"addr_lv1": "광주광역시",
+		"addr_lv2": "광산구",
+		"apply_nums": "27세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000497&pblancNo=2025000497&houseSecd=01",
 		"in_date": "20260403",
 		"hsecd": "01",
@@ -837,5 +876,18 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "서초구",
 		"apply_nums": "56세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000081&pblancNo=2026000081&houseSecd=01",
+		"in_date": "20260406",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "선운지구다사로움 공가세대 일반공급",
+		"addr": "광주광역시 광산구 선운로 34 (선운지구다사로움아파트)",
+		"short_addr": "광주광역시 광산구",
+		"addr_lv1": "광주광역시",
+		"addr_lv2": "광산구",
+		"apply_nums": "27세대"
 	}
 ]
