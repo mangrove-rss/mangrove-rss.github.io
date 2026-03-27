@@ -1,86 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000023&pblancNo=2026000023&houseSecd=01",
-		"in_date": "20260324",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "더샵 프리엘라",
-		"addr": "서울특별시 영등포구 문래동5가 22번지 일원 ",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "138세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000052&pblancNo=2026000052&houseSecd=01",
-		"in_date": "20260324",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "시흥거모B1 호반써밋",
-		"addr": "경기도 시흥시 거모동 1171번지 일원 (시흥거모지구 B1블럭)",
-		"short_addr": "경기도 시흥시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "시흥시",
-		"apply_nums": "310세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000044&pblancNo=2026000044&houseSecd=01",
-		"in_date": "20260324",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "용인 플랫폼시티 라온프라이빗 아르디에",
-		"addr": "경기도 용인시 기흥구 영덕동 55-1번지 일원",
-		"short_addr": "경기도 용인시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "용인시",
-		"apply_nums": "238세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000033&pblancNo=2026000033&houseSecd=01",
-		"in_date": "20260324",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "해링턴플레이스 오룡역",
-		"addr": "대전광역시 중구 용두동 722번지 일원",
-		"short_addr": "대전광역시 중구",
-		"addr_lv1": "대전광역시",
-		"addr_lv2": "중구",
-		"apply_nums": "427세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000574&pblancNo=2025000574&houseSecd=01",
-		"in_date": "20260324",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "무등산 더힐(조합원 취소분)",
-		"addr": "광주광역시 동구 지산동 317-19번지 일원",
-		"short_addr": "광주광역시 동구",
-		"addr_lv1": "광주광역시",
-		"addr_lv2": "동구",
-		"apply_nums": "33세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940049&pblancNo=2026940049&houseSecd=11",
-		"in_date": "20260324",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "김포 칸타빌 에디션"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940058&pblancNo=2026940058&houseSecd=11",
-		"in_date": "20260324",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "화곡더리브스카이"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000045&pblancNo=2026000045&houseSecd=01",
 		"in_date": "20260325",
 		"hsecd": "01",
@@ -947,6 +866,19 @@
 		"apply_nums": "1061세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000062&pblancNo=2026000062&houseSecd=01",
+		"in_date": "20260406",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "중앙하이츠 갈산역 센트럴",
+		"addr": "인천광역시 부평구 갈산동 181-11 외 1필지",
+		"short_addr": "인천광역시 부평구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "부평구",
+		"apply_nums": "50세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000070&pblancNo=2026000070&houseSecd=01",
 		"in_date": "20260406",
 		"hsecd": "01",
@@ -1046,6 +978,19 @@
 		"apply_nums": "1061세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000062&pblancNo=2026000062&houseSecd=01",
+		"in_date": "20260407",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "중앙하이츠 갈산역 센트럴",
+		"addr": "인천광역시 부평구 갈산동 181-11 외 1필지",
+		"short_addr": "인천광역시 부평구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "부평구",
+		"apply_nums": "50세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000070&pblancNo=2026000070&houseSecd=01",
 		"in_date": "20260407",
 		"hsecd": "01",
@@ -1122,6 +1067,19 @@
 		"addr_lv1": "부산광역시",
 		"addr_lv2": "사상구",
 		"apply_nums": "1061세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000062&pblancNo=2026000062&houseSecd=01",
+		"in_date": "20260408",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "중앙하이츠 갈산역 센트럴",
+		"addr": "인천광역시 부평구 갈산동 181-11 외 1필지",
+		"short_addr": "인천광역시 부평구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "부평구",
+		"apply_nums": "50세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000070&pblancNo=2026000070&houseSecd=01",
