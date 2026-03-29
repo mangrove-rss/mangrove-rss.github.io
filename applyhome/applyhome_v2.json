@@ -1,82 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000057&pblancNo=2026000057&houseSecd=01",
-		"in_date": "20260326",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "에코델타시티 엘가 로제비앙",
-		"addr": "부산광역시 강서구 강동동 에코델타시티 5BL",
-		"short_addr": "부산광역시 강서구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "강서구",
-		"apply_nums": "998세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000045&pblancNo=2026000045&houseSecd=01",
-		"in_date": "20260326",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "대전 롯데캐슬 더퍼스트(조합원 취소분)",
-		"addr": "대전광역시 동구 가오동 394번지 일원",
-		"short_addr": "대전광역시 동구",
-		"addr_lv1": "대전광역시",
-		"addr_lv2": "동구",
-		"apply_nums": "89세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000023&pblancNo=2026000023&houseSecd=01",
-		"in_date": "20260326",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "더샵 프리엘라",
-		"addr": "서울특별시 영등포구 문래동5가 22번지 일원 ",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "138세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850017&pblancNo=2026850017&houseSecd=03",
-		"in_date": "20260326",
-		"hsecd": "03",
-		"rse": "04",
-		"type": "",
-		"name": "부경경마공원역 대방 디에트르 더리버(AP1BL)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950024&pblancNo=2026950024&houseSecd=02",
-		"in_date": "20260326",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "대방역 여의도 더로드캐슬",
-		"addr": "서울특별시 영등포구 신길동 449-11",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "4세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940064&pblancNo=2026940064&houseSecd=11",
-		"in_date": "20260326",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "리아츠 더 인천(17차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940056&pblancNo=2026940056&houseSecd=11",
-		"in_date": "20260326",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "수원이목지구 대방 디에트르 더 리체Ⅱ(A3BL) (14차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000057&pblancNo=2026000057&houseSecd=01",
 		"in_date": "20260327",
 		"hsecd": "01",
 		"rse": "02",
@@ -787,6 +711,19 @@
 		"apply_nums": "27세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950025&pblancNo=2026950025&houseSecd=02",
+		"in_date": "20260406",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "당산역 더클래스 한강",
+		"addr": "서울특별시 영등포구 당산동6가 341-1번지",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "5세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940061&pblancNo=2026940061&houseSecd=11",
 		"in_date": "20260406",
 		"hsecd": "11",
@@ -886,6 +823,19 @@
 		"apply_nums": "55세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950025&pblancNo=2026950025&houseSecd=02",
+		"in_date": "20260407",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "당산역 더클래스 한강",
+		"addr": "서울특별시 영등포구 당산동6가 341-1번지",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "5세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000055&pblancNo=2026000055&houseSecd=01",
 		"in_date": "20260408",
 		"hsecd": "01",
@@ -977,6 +927,19 @@
 		"apply_nums": "55세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000040&pblancNo=2026000040&houseSecd=01",
+		"in_date": "20260409",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "구서 다움포레",
+		"addr": "부산광역시 금정구 구서동 203-14번지 일원",
+		"short_addr": "부산광역시 금정구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "금정구",
+		"apply_nums": "68세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000055&pblancNo=2026000055&houseSecd=01",
 		"in_date": "20260409",
 		"hsecd": "01",
@@ -988,5 +951,57 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "의정부시",
 		"apply_nums": "400세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950027&pblancNo=2026950027&houseSecd=02",
+		"in_date": "20260409",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "청량리역 요진 와이시티 도시형생활주택",
+		"addr": "서울특별시 동대문구 청량리동 368번지 일원",
+		"short_addr": "서울특별시 동대문구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "동대문구",
+		"apply_nums": "3세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000040&pblancNo=2026000040&houseSecd=01",
+		"in_date": "20260410",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "구서 다움포레",
+		"addr": "부산광역시 금정구 구서동 203-14번지 일원",
+		"short_addr": "부산광역시 금정구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "금정구",
+		"apply_nums": "68세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950027&pblancNo=2026950027&houseSecd=02",
+		"in_date": "20260410",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "청량리역 요진 와이시티 도시형생활주택",
+		"addr": "서울특별시 동대문구 청량리동 368번지 일원",
+		"short_addr": "서울특별시 동대문구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "동대문구",
+		"apply_nums": "3세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000040&pblancNo=2026000040&houseSecd=01",
+		"in_date": "20260413",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "구서 다움포레",
+		"addr": "부산광역시 금정구 구서동 203-14번지 일원",
+		"short_addr": "부산광역시 금정구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "금정구",
+		"apply_nums": "68세대"
 	}
 ]
