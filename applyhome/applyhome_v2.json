@@ -1,60 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000057&pblancNo=2026000057&houseSecd=01",
-		"in_date": "20260327",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "에코델타시티 엘가 로제비앙",
-		"addr": "부산광역시 강서구 강동동 에코델타시티 5BL",
-		"short_addr": "부산광역시 강서구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "강서구",
-		"apply_nums": "998세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000045&pblancNo=2026000045&houseSecd=01",
-		"in_date": "20260327",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "대전 롯데캐슬 더퍼스트(조합원 취소분)",
-		"addr": "대전광역시 동구 가오동 394번지 일원",
-		"short_addr": "대전광역시 동구",
-		"addr_lv1": "대전광역시",
-		"addr_lv2": "동구",
-		"apply_nums": "89세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950024&pblancNo=2026950024&houseSecd=02",
-		"in_date": "20260327",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "대방역 여의도 더로드캐슬",
-		"addr": "서울특별시 영등포구 신길동 449-11",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "4세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940064&pblancNo=2026940064&houseSecd=11",
-		"in_date": "20260327",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "리아츠 더 인천(17차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940059&pblancNo=2026940059&houseSecd=11",
-		"in_date": "20260327",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "영종하늘도시 대라수 어썸(A50BL)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940064&pblancNo=2026940064&houseSecd=11",
 		"in_date": "20260328",
 		"hsecd": "11",
@@ -724,6 +669,32 @@
 		"apply_nums": "5세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910076&pblancNo=2026910076&houseSecd=04",
+		"in_date": "20260406",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "힐스테이트 지석(조합원취소분)",
+		"addr": "광주광역시 남구 지석동 506번지 일원",
+		"short_addr": "광주광역시 남구",
+		"addr_lv1": "광주광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "9세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930058&pblancNo=2025930058&houseSecd=06",
+		"in_date": "20260406",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "힐스테이트 고덕 센트럴",
+		"addr": "경기도 평택시 고덕국제대로 77 (고덕동, 힐스테이트 고덕 센트럴)",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "3세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940061&pblancNo=2026940061&houseSecd=11",
 		"in_date": "20260406",
 		"hsecd": "11",
@@ -836,6 +807,19 @@
 		"apply_nums": "5세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930058&pblancNo=2025930058&houseSecd=06",
+		"in_date": "20260407",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "힐스테이트 고덕 센트럴",
+		"addr": "경기도 평택시 고덕국제대로 77 (고덕동, 힐스테이트 고덕 센트럴)",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "3세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000055&pblancNo=2026000055&houseSecd=01",
 		"in_date": "20260408",
 		"hsecd": "01",
@@ -940,6 +924,19 @@
 		"apply_nums": "68세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000048&pblancNo=2026000048&houseSecd=01",
+		"in_date": "20260409",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "이촌 르엘",
+		"addr": "서울특별시 용산구 이촌동 301-160 일원",
+		"short_addr": "서울특별시 용산구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "용산구",
+		"apply_nums": "88세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000055&pblancNo=2026000055&houseSecd=01",
 		"in_date": "20260409",
 		"hsecd": "01",
@@ -966,6 +963,19 @@
 		"apply_nums": "3세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000058&pblancNo=2026000058&houseSecd=01",
+		"in_date": "20260410",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "오티에르 반포",
+		"addr": "서울특별시 서초구 잠원동 59-10번지 외 3필지",
+		"short_addr": "서울특별시 서초구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "서초구",
+		"apply_nums": "86세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000040&pblancNo=2026000040&houseSecd=01",
 		"in_date": "20260410",
 		"hsecd": "01",
@@ -977,6 +987,19 @@
 		"addr_lv1": "부산광역시",
 		"addr_lv2": "금정구",
 		"apply_nums": "68세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000048&pblancNo=2026000048&houseSecd=01",
+		"in_date": "20260410",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "이촌 르엘",
+		"addr": "서울특별시 용산구 이촌동 301-160 일원",
+		"short_addr": "서울특별시 용산구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "용산구",
+		"apply_nums": "88세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950027&pblancNo=2026950027&houseSecd=02",
@@ -992,6 +1015,32 @@
 		"apply_nums": "3세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000058&pblancNo=2026000058&houseSecd=01",
+		"in_date": "20260413",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "오티에르 반포",
+		"addr": "서울특별시 서초구 잠원동 59-10번지 외 3필지",
+		"short_addr": "서울특별시 서초구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "서초구",
+		"apply_nums": "86세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000048&pblancNo=2026000048&houseSecd=01",
+		"in_date": "20260413",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "이촌 르엘",
+		"addr": "서울특별시 용산구 이촌동 301-160 일원",
+		"short_addr": "서울특별시 용산구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "용산구",
+		"apply_nums": "88세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000040&pblancNo=2026000040&houseSecd=01",
 		"in_date": "20260413",
 		"hsecd": "01",
@@ -1003,5 +1052,44 @@
 		"addr_lv1": "부산광역시",
 		"addr_lv2": "금정구",
 		"apply_nums": "68세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000058&pblancNo=2026000058&houseSecd=01",
+		"in_date": "20260414",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "오티에르 반포",
+		"addr": "서울특별시 서초구 잠원동 59-10번지 외 3필지",
+		"short_addr": "서울특별시 서초구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "서초구",
+		"apply_nums": "86세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000048&pblancNo=2026000048&houseSecd=01",
+		"in_date": "20260414",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "이촌 르엘",
+		"addr": "서울특별시 용산구 이촌동 301-160 일원",
+		"short_addr": "서울특별시 용산구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "용산구",
+		"apply_nums": "88세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000058&pblancNo=2026000058&houseSecd=01",
+		"in_date": "20260415",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "오티에르 반포",
+		"addr": "서울특별시 서초구 잠원동 59-10번지 외 3필지",
+		"short_addr": "서울특별시 서초구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "서초구",
+		"apply_nums": "86세대"
 	}
 ]
