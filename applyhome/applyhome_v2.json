@@ -561,6 +561,32 @@
 		"apply_nums": "5세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950026&pblancNo=2026950026&houseSecd=02",
+		"in_date": "20260407",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "청량리역 요진 와이시티 오피스텔",
+		"addr": "서울특별시 동대문구 청량리동 368번지 일원",
+		"short_addr": "서울특별시 동대문구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "동대문구",
+		"apply_nums": "3세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910075&pblancNo=2026910075&houseSecd=04",
+		"in_date": "20260407",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "울산 우정혁신도시 B1블록(골드클래스) 분양전환 후 잔여세대",
+		"addr": "울산광역시 중구 종가로 760 (장현동, 골드클래스)",
+		"short_addr": "울산광역시 중구",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "2세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930058&pblancNo=2025930058&houseSecd=06",
 		"in_date": "20260407",
 		"hsecd": "06",
@@ -676,6 +702,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "의정부시",
 		"apply_nums": "156세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950026&pblancNo=2026950026&houseSecd=02",
+		"in_date": "20260408",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "청량리역 요진 와이시티 오피스텔",
+		"addr": "서울특별시 동대문구 청량리동 368번지 일원",
+		"short_addr": "서울특별시 동대문구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "동대문구",
+		"apply_nums": "3세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000040&pblancNo=2026000040&houseSecd=01",
