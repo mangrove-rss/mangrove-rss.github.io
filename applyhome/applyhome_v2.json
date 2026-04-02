@@ -574,6 +574,19 @@
 		"apply_nums": "3세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910079&pblancNo=2026910079&houseSecd=04",
+		"in_date": "20260407",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "대방역 여의도 더로드캐슬(2차)",
+		"addr": "서울특별시 영등포구 신길동 449-11",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "6세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910075&pblancNo=2026910075&houseSecd=04",
 		"in_date": "20260407",
 		"hsecd": "04",
@@ -598,6 +611,14 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "평택시",
 		"apply_nums": "3세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940068&pblancNo=2026940068&houseSecd=11",
+		"in_date": "20260407",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "운정 아이파크 포레스트"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000055&pblancNo=2026000055&houseSecd=01",
@@ -691,6 +712,19 @@
 		"apply_nums": "55세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950028&pblancNo=2026950028&houseSecd=02",
+		"in_date": "20260408",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "왕십리역 어반홈스 A동",
+		"addr": "서울특별시 성동구 도선동 114,115번지",
+		"short_addr": "서울특별시 성동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "성동구",
+		"apply_nums": "10세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950022&pblancNo=2026950022&houseSecd=02",
 		"in_date": "20260408",
 		"hsecd": "02",
@@ -715,6 +749,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "동대문구",
 		"apply_nums": "3세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910079&pblancNo=2026910079&houseSecd=04",
+		"in_date": "20260408",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "대방역 여의도 더로드캐슬(2차)",
+		"addr": "서울특별시 영등포구 신길동 449-11",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "6세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000040&pblancNo=2026000040&houseSecd=01",
@@ -756,6 +803,19 @@
 		"apply_nums": "400세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950028&pblancNo=2026950028&houseSecd=02",
+		"in_date": "20260409",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "왕십리역 어반홈스 A동",
+		"addr": "서울특별시 성동구 도선동 114,115번지",
+		"short_addr": "서울특별시 성동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "성동구",
+		"apply_nums": "10세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950027&pblancNo=2026950027&houseSecd=02",
 		"in_date": "20260409",
 		"hsecd": "02",
@@ -767,6 +827,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "동대문구",
 		"apply_nums": "3세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910079&pblancNo=2026910079&houseSecd=04",
+		"in_date": "20260409",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "대방역 여의도 더로드캐슬(2차)",
+		"addr": "서울특별시 영등포구 신길동 449-11",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "6세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000058&pblancNo=2026000058&houseSecd=01",
@@ -808,6 +881,19 @@
 		"apply_nums": "88세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950028&pblancNo=2026950028&houseSecd=02",
+		"in_date": "20260410",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "왕십리역 어반홈스 A동",
+		"addr": "서울특별시 성동구 도선동 114,115번지",
+		"short_addr": "서울특별시 성동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "성동구",
+		"apply_nums": "10세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950027&pblancNo=2026950027&houseSecd=02",
 		"in_date": "20260410",
 		"hsecd": "02",
@@ -819,6 +905,82 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "동대문구",
 		"apply_nums": "3세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940069&pblancNo=2026940069&houseSecd=11",
+		"in_date": "20260410",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "시흥 은계 에피트(5차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950028&pblancNo=2026950028&houseSecd=02",
+		"in_date": "20260411",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "왕십리역 어반홈스 A동",
+		"addr": "서울특별시 성동구 도선동 114,115번지",
+		"short_addr": "서울특별시 성동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "성동구",
+		"apply_nums": "10세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940069&pblancNo=2026940069&houseSecd=11",
+		"in_date": "20260411",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "시흥 은계 에피트(5차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950028&pblancNo=2026950028&houseSecd=02",
+		"in_date": "20260412",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "왕십리역 어반홈스 A동",
+		"addr": "서울특별시 성동구 도선동 114,115번지",
+		"short_addr": "서울특별시 성동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "성동구",
+		"apply_nums": "10세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940069&pblancNo=2026940069&houseSecd=11",
+		"in_date": "20260412",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "시흥 은계 에피트(5차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000094&pblancNo=2026000094&houseSecd=01",
+		"in_date": "20260413",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "라클라체자이드파인",
+		"addr": "서울특별시 동작구 노량진동 294-220번지 일대",
+		"short_addr": "서울특별시 동작구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "동작구",
+		"apply_nums": "369세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000073&pblancNo=2026000073&houseSecd=01",
+		"in_date": "20260413",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "풍무역세권 수자인 그라센트 2차",
+		"addr": "경기도 김포시 풍무역세권도시개발사업 B1BL(김포시 사우동 167-1번지)",
+		"short_addr": "경기도 김포시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "김포시",
+		"apply_nums": "639세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000058&pblancNo=2026000058&houseSecd=01",
@@ -860,6 +1022,40 @@
 		"apply_nums": "68세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950028&pblancNo=2026950028&houseSecd=02",
+		"in_date": "20260413",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "왕십리역 어반홈스 A동",
+		"addr": "서울특별시 성동구 도선동 114,115번지",
+		"short_addr": "서울특별시 성동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "성동구",
+		"apply_nums": "10세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940069&pblancNo=2026940069&houseSecd=11",
+		"in_date": "20260413",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "시흥 은계 에피트(5차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000094&pblancNo=2026000094&houseSecd=01",
+		"in_date": "20260414",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "라클라체자이드파인",
+		"addr": "서울특별시 동작구 노량진동 294-220번지 일대",
+		"short_addr": "서울특별시 동작구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "동작구",
+		"apply_nums": "369세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000058&pblancNo=2026000058&houseSecd=01",
 		"in_date": "20260414",
 		"hsecd": "01",
@@ -871,6 +1067,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "서초구",
 		"apply_nums": "86세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000073&pblancNo=2026000073&houseSecd=01",
+		"in_date": "20260414",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "풍무역세권 수자인 그라센트 2차",
+		"addr": "경기도 김포시 풍무역세권도시개발사업 B1BL(김포시 사우동 167-1번지)",
+		"short_addr": "경기도 김포시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "김포시",
+		"apply_nums": "639세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000048&pblancNo=2026000048&houseSecd=01",
@@ -886,6 +1095,32 @@
 		"apply_nums": "88세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950028&pblancNo=2026950028&houseSecd=02",
+		"in_date": "20260414",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "왕십리역 어반홈스 A동",
+		"addr": "서울특별시 성동구 도선동 114,115번지",
+		"short_addr": "서울특별시 성동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "성동구",
+		"apply_nums": "10세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000094&pblancNo=2026000094&houseSecd=01",
+		"in_date": "20260415",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "라클라체자이드파인",
+		"addr": "서울특별시 동작구 노량진동 294-220번지 일대",
+		"short_addr": "서울특별시 동작구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "동작구",
+		"apply_nums": "369세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000058&pblancNo=2026000058&houseSecd=01",
 		"in_date": "20260415",
 		"hsecd": "01",
@@ -897,5 +1132,31 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "서초구",
 		"apply_nums": "86세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000073&pblancNo=2026000073&houseSecd=01",
+		"in_date": "20260415",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "풍무역세권 수자인 그라센트 2차",
+		"addr": "경기도 김포시 풍무역세권도시개발사업 B1BL(김포시 사우동 167-1번지)",
+		"short_addr": "경기도 김포시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "김포시",
+		"apply_nums": "639세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000094&pblancNo=2026000094&houseSecd=01",
+		"in_date": "20260416",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "라클라체자이드파인",
+		"addr": "서울특별시 동작구 노량진동 294-220번지 일대",
+		"short_addr": "서울특별시 동작구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "동작구",
+		"apply_nums": "369세대"
 	}
 ]
