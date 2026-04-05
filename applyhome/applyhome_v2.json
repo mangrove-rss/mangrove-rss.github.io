@@ -1,102 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000497&pblancNo=2025000497&houseSecd=01",
-		"in_date": "20260402",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "아크로 드 서초",
-		"addr": "서울특별시 서초구 서초동 1333번지 일원",
-		"short_addr": "서울특별시 서초구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "서초구",
-		"apply_nums": "56세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000078&pblancNo=2026000078&houseSecd=01",
-		"in_date": "20260402",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "천안 동일하이빌 파크레인",
-		"addr": "충청남도 천안시 서북구 직산읍 삼은리 78-2번지 일원",
-		"short_addr": "충청남도 천안시",
-		"addr_lv1": "충청남도",
-		"addr_lv2": "천안시",
-		"apply_nums": "895세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000064&pblancNo=2026000064&houseSecd=01",
-		"in_date": "20260402",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "더샵 신길센트럴시티",
-		"addr": "서울특별시 영등포구 신길동 413-8번지 일원",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "477세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000051&pblancNo=2026000051&houseSecd=01",
-		"in_date": "20260402",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "아산탕정자이 메트로시티(A3BL)",
-		"addr": "충청남도 아산시 탕정면 호산리 26번지 일원(아산신도시 센트럴시티 도시개발사업 A3BL)",
-		"short_addr": "충청남도 아산시",
-		"addr_lv1": "충청남도",
-		"addr_lv2": "아산시",
-		"apply_nums": "1638세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910072&pblancNo=2026910072&houseSecd=04",
-		"in_date": "20260402",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "북오산자이 리버블시티 (2차)",
-		"addr": "경기도 오산시 내삼미동 905 일원",
-		"short_addr": "경기도 오산시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "오산시",
-		"apply_nums": "72세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940066&pblancNo=2026940066&houseSecd=11",
-		"in_date": "20260402",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "고덕 자연앤 하우스디(A4BL)(국민)(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940067&pblancNo=2026940067&houseSecd=11",
-		"in_date": "20260402",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "고덕 자연앤 하우스디(A4BL)(민영)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940062&pblancNo=2026940062&houseSecd=11",
-		"in_date": "20260402",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "왕길역 아테라(3차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940061&pblancNo=2026940061&houseSecd=11",
-		"in_date": "20260402",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "힐스테이트 용인마크밸리(7차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000081&pblancNo=2026000081&houseSecd=01",
 		"in_date": "20260403",
 		"hsecd": "01",
@@ -967,12 +870,46 @@
 		"apply_nums": "10세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910082&pblancNo=2026910082&houseSecd=04",
+		"in_date": "20260413",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "어반클라쎄목동(12차)",
+		"addr": "서울특별시 양천구 신목로2길 7-12 (신정동, 어반클라쎄 목동)",
+		"short_addr": "서울특별시 양천구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "양천구",
+		"apply_nums": "3세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026930010&pblancNo=2026930010&houseSecd=06",
+		"in_date": "20260413",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "강동 헤리티지 자이",
+		"addr": "서울특별시 강동구 천중로 264 (길동, 강동 헤리티지 자이)",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "2세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940069&pblancNo=2026940069&houseSecd=11",
 		"in_date": "20260413",
 		"hsecd": "11",
 		"rse": "11",
 		"type": "",
 		"name": "시흥 은계 에피트(5차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940071&pblancNo=2026940071&houseSecd=11",
+		"in_date": "20260413",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "용인 푸르지오 원클러스터파크(2차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000094&pblancNo=2026000094&houseSecd=01",
@@ -1090,6 +1027,27 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "성동구",
 		"apply_nums": "10세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910082&pblancNo=2026910082&houseSecd=04",
+		"in_date": "20260414",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "어반클라쎄목동(12차)",
+		"addr": "서울특별시 양천구 신목로2길 7-12 (신정동, 어반클라쎄 목동)",
+		"short_addr": "서울특별시 양천구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "양천구",
+		"apply_nums": "3세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940071&pblancNo=2026940071&houseSecd=11",
+		"in_date": "20260414",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "용인 푸르지오 원클러스터파크(2차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000094&pblancNo=2026000094&houseSecd=01",
