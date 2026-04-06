@@ -1,52 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000081&pblancNo=2026000081&houseSecd=01",
-		"in_date": "20260403",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "선운지구다사로움 공가세대 일반공급",
-		"addr": "광주광역시 광산구 선운로 34 (선운지구다사로움아파트)",
-		"short_addr": "광주광역시 광산구",
-		"addr_lv1": "광주광역시",
-		"addr_lv2": "광산구",
-		"apply_nums": "27세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000497&pblancNo=2025000497&houseSecd=01",
-		"in_date": "20260403",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "아크로 드 서초",
-		"addr": "서울특별시 서초구 서초동 1333번지 일원",
-		"short_addr": "서울특별시 서초구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "서초구",
-		"apply_nums": "56세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000078&pblancNo=2026000078&houseSecd=01",
-		"in_date": "20260403",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "천안 동일하이빌 파크레인",
-		"addr": "충청남도 천안시 서북구 직산읍 삼은리 78-2번지 일원",
-		"short_addr": "충청남도 천안시",
-		"addr_lv1": "충청남도",
-		"addr_lv2": "천안시",
-		"apply_nums": "895세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940061&pblancNo=2026940061&houseSecd=11",
-		"in_date": "20260403",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "힐스테이트 용인마크밸리(7차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940061&pblancNo=2026940061&houseSecd=11",
 		"in_date": "20260404",
 		"hsecd": "11",
@@ -857,6 +810,32 @@
 		"apply_nums": "68세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950029&pblancNo=2026950029&houseSecd=02",
+		"in_date": "20260413",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "동탄2신도시 대방 엘리움 레이크파크",
+		"addr": "경기도 화성시 송동 725-9번지",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "6세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950030&pblancNo=2026950030&houseSecd=02",
+		"in_date": "20260413",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "동탄2신도시 동탄역 디에트르 퍼스티지",
+		"addr": "경기도 화성시 여울동 979번지",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "5세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950028&pblancNo=2026950028&houseSecd=02",
 		"in_date": "20260413",
 		"hsecd": "02",
@@ -1016,6 +995,32 @@
 		"apply_nums": "88세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950029&pblancNo=2026950029&houseSecd=02",
+		"in_date": "20260414",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "동탄2신도시 대방 엘리움 레이크파크",
+		"addr": "경기도 화성시 송동 725-9번지",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "6세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950030&pblancNo=2026950030&houseSecd=02",
+		"in_date": "20260414",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "동탄2신도시 동탄역 디에트르 퍼스티지",
+		"addr": "경기도 화성시 여울동 979번지",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "5세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950028&pblancNo=2026950028&houseSecd=02",
 		"in_date": "20260414",
 		"hsecd": "02",
@@ -1141,6 +1146,19 @@
 		"apply_nums": "639세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000069&pblancNo=2026000069&houseSecd=01",
+		"in_date": "20260416",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "야목역 서희스타힐스 그랜드힐",
+		"addr": "경기도 화성시 효행구 비봉면 구포리 614-18번지 일원",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "241세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000094&pblancNo=2026000094&houseSecd=01",
 		"in_date": "20260416",
 		"hsecd": "01",
@@ -1152,5 +1170,31 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "동작구",
 		"apply_nums": "369세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000069&pblancNo=2026000069&houseSecd=01",
+		"in_date": "20260417",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "야목역 서희스타힐스 그랜드힐",
+		"addr": "경기도 화성시 효행구 비봉면 구포리 614-18번지 일원",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "241세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000069&pblancNo=2026000069&houseSecd=01",
+		"in_date": "20260420",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "야목역 서희스타힐스 그랜드힐",
+		"addr": "경기도 화성시 효행구 비봉면 구포리 614-18번지 일원",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "241세대"
 	}
 ]
