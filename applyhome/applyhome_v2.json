@@ -1,14 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940061&pblancNo=2026940061&houseSecd=11",
-		"in_date": "20260404",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "힐스테이트 용인마크밸리(7차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940061&pblancNo=2026940061&houseSecd=11",
 		"in_date": "20260405",
 		"hsecd": "11",
 		"rse": "11",
@@ -810,6 +802,14 @@
 		"apply_nums": "68세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850021&pblancNo=2026850021&houseSecd=03",
+		"in_date": "20260413",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "부경경마공원역 대방 디에트르 더리버(AP1BL)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950029&pblancNo=2026950029&houseSecd=02",
 		"in_date": "20260413",
 		"hsecd": "02",
@@ -993,6 +993,14 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "용산구",
 		"apply_nums": "88세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850021&pblancNo=2026850021&houseSecd=03",
+		"in_date": "20260414",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "부경경마공원역 대방 디에트르 더리버(AP1BL)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950029&pblancNo=2026950029&houseSecd=02",
