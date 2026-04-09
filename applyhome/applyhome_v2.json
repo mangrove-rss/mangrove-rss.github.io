@@ -1,190 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940061&pblancNo=2026940061&houseSecd=11",
-		"in_date": "20260405",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "힐스테이트 용인마크밸리(7차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000065&pblancNo=2026000065&houseSecd=01",
-		"in_date": "20260406",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "검단호수공원역 파라곤(AA36BL)",
-		"addr": "인천광역시 서구 검단신도시 AA36BL(인천광역시 서구 불로동 589번지 일원)",
-		"short_addr": "인천광역시 서구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "서구",
-		"apply_nums": "569세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000012&pblancNo=2026000012&houseSecd=01",
-		"in_date": "20260406",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "경성대부경대역 비스타동원 더 프리미엄",
-		"addr": "부산광역시 남구 대연동 405번지",
-		"short_addr": "부산광역시 남구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "남구",
-		"apply_nums": "103세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000047&pblancNo=2026000047&houseSecd=01",
-		"in_date": "20260406",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "범어역 파크드림 디아르",
-		"addr": "대구광역시 수성구 수성동 4가 996번지 일원",
-		"short_addr": "대구광역시 수성구",
-		"addr_lv1": "대구광역시",
-		"addr_lv2": "수성구",
-		"apply_nums": "47세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000074&pblancNo=2026000074&houseSecd=01",
-		"in_date": "20260406",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "엄궁역 트라비스 하늘채",
-		"addr": "부산광역시 사상구 엄궁동 412번지 일원",
-		"short_addr": "부산광역시 사상구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "사상구",
-		"apply_nums": "1061세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000062&pblancNo=2026000062&houseSecd=01",
-		"in_date": "20260406",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "중앙하이츠 갈산역 센트럴",
-		"addr": "인천광역시 부평구 갈산동 181-11 외 1필지",
-		"short_addr": "인천광역시 부평구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "부평구",
-		"apply_nums": "50세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000070&pblancNo=2026000070&houseSecd=01",
-		"in_date": "20260406",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "힐스테이트 안양펠루스",
-		"addr": "경기도 안양시 만안구 안양동 395-1번지",
-		"short_addr": "경기도 안양시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "안양시",
-		"apply_nums": "55세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000081&pblancNo=2026000081&houseSecd=01",
-		"in_date": "20260406",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "선운지구다사로움 공가세대 일반공급",
-		"addr": "광주광역시 광산구 선운로 34 (선운지구다사로움아파트)",
-		"short_addr": "광주광역시 광산구",
-		"addr_lv1": "광주광역시",
-		"addr_lv2": "광산구",
-		"apply_nums": "27세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950025&pblancNo=2026950025&houseSecd=02",
-		"in_date": "20260406",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "당산역 더클래스 한강",
-		"addr": "서울특별시 영등포구 당산동6가 341-1번지",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "5세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910073&pblancNo=2026910073&houseSecd=04",
-		"in_date": "20260406",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "천안 아이파크 시티 5단지",
-		"addr": "충청남도 천안시 서북구 성성동 60-9번지 일원",
-		"short_addr": "충청남도 천안시",
-		"addr_lv1": "충청남도",
-		"addr_lv2": "천안시",
-		"apply_nums": "334세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910074&pblancNo=2026910074&houseSecd=04",
-		"in_date": "20260406",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "천안 아이파크 시티 6단지 ",
-		"addr": "충청남도 천안시 서북구 성성동 39-7번지 일원",
-		"short_addr": "충청남도 천안시",
-		"addr_lv1": "충청남도",
-		"addr_lv2": "천안시",
-		"apply_nums": "385세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910078&pblancNo=2026910078&houseSecd=04",
-		"in_date": "20260406",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "초혁신도시 반도유보라 마크브릿지",
-		"addr": "강원특별자치도 원주시 관설동 1805번지",
-		"short_addr": "강원특별자치도 원주시",
-		"addr_lv1": "강원특별자치도",
-		"addr_lv2": "원주시",
-		"apply_nums": "1세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910076&pblancNo=2026910076&houseSecd=04",
-		"in_date": "20260406",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "힐스테이트 지석(조합원취소분)",
-		"addr": "광주광역시 남구 지석동 506번지 일원",
-		"short_addr": "광주광역시 남구",
-		"addr_lv1": "광주광역시",
-		"addr_lv2": "남구",
-		"apply_nums": "9세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025930058&pblancNo=2025930058&houseSecd=06",
-		"in_date": "20260406",
-		"hsecd": "06",
-		"rse": "07",
-		"type": "",
-		"name": "힐스테이트 고덕 센트럴",
-		"addr": "경기도 평택시 고덕국제대로 77 (고덕동, 힐스테이트 고덕 센트럴)",
-		"short_addr": "경기도 평택시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "평택시",
-		"apply_nums": "3세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940061&pblancNo=2026940061&houseSecd=11",
-		"in_date": "20260406",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "힐스테이트 용인마크밸리(7차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000055&pblancNo=2026000055&houseSecd=01",
 		"in_date": "20260407",
 		"hsecd": "01",
@@ -875,6 +690,22 @@
 		"apply_nums": "2세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940075&pblancNo=2026940075&houseSecd=11",
+		"in_date": "20260413",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(18차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940070&pblancNo=2026940070&houseSecd=11",
+		"in_date": "20260413",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "수원이목지구 대방 디에트르 더 리체Ⅱ(A3BL) (15차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940069&pblancNo=2026940069&houseSecd=11",
 		"in_date": "20260413",
 		"hsecd": "11",
@@ -1042,6 +873,32 @@
 		"apply_nums": "10세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910083&pblancNo=2026910083&houseSecd=04",
+		"in_date": "20260414",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "두산위브 더센트럴 수원",
+		"addr": "경기도 수원시 장안구 영화동 93-6번지 일원",
+		"short_addr": "경기도 수원시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "수원시",
+		"apply_nums": "25세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910084&pblancNo=2026910084&houseSecd=04",
+		"in_date": "20260414",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "상주자이르네",
+		"addr": "경상북도 상주시 함창읍 윤직리 840번지 일원",
+		"short_addr": "경상북도 상주시",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "상주시",
+		"apply_nums": "257세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910082&pblancNo=2026910082&houseSecd=04",
 		"in_date": "20260414",
 		"hsecd": "04",
@@ -1055,12 +912,36 @@
 		"apply_nums": "3세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940075&pblancNo=2026940075&houseSecd=11",
+		"in_date": "20260414",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(18차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940070&pblancNo=2026940070&houseSecd=11",
+		"in_date": "20260414",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "수원이목지구 대방 디에트르 더 리체Ⅱ(A3BL) (15차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940071&pblancNo=2026940071&houseSecd=11",
 		"in_date": "20260414",
 		"hsecd": "11",
 		"rse": "11",
 		"type": "",
 		"name": "용인 푸르지오 원클러스터파크(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940074&pblancNo=2026940074&houseSecd=11",
+		"in_date": "20260414",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "화성 동탄2 A106BL 아테라 파밀리에(구 어울림 파밀리에) (2차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000094&pblancNo=2026000094&houseSecd=01",
@@ -1154,6 +1035,27 @@
 		"apply_nums": "639세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026930009&pblancNo=2026930009&houseSecd=06",
+		"in_date": "20260415",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "과천 디에트르 퍼스티지(S2BL)",
+		"addr": "경기도 과천시 지식정보타운 공공주택지구 S2BL",
+		"short_addr": "경기도 과천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "과천시",
+		"apply_nums": "6세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940075&pblancNo=2026940075&houseSecd=11",
+		"in_date": "20260415",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(18차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000069&pblancNo=2026000069&houseSecd=01",
 		"in_date": "20260416",
 		"hsecd": "01",
@@ -1180,6 +1082,27 @@
 		"apply_nums": "369세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026930009&pblancNo=2026930009&houseSecd=06",
+		"in_date": "20260416",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "과천 디에트르 퍼스티지(S2BL)",
+		"addr": "경기도 과천시 지식정보타운 공공주택지구 S2BL",
+		"short_addr": "경기도 과천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "과천시",
+		"apply_nums": "6세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940075&pblancNo=2026940075&houseSecd=11",
+		"in_date": "20260416",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(18차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000069&pblancNo=2026000069&houseSecd=01",
 		"in_date": "20260417",
 		"hsecd": "01",
@@ -1193,6 +1116,92 @@
 		"apply_nums": "241세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950031&pblancNo=2026950031&houseSecd=02",
+		"in_date": "20260417",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "영통역 우미 린",
+		"addr": "경기도 수원시 영통구 영통동 999-2",
+		"short_addr": "경기도 수원시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "수원시",
+		"apply_nums": "305세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940075&pblancNo=2026940075&houseSecd=11",
+		"in_date": "20260417",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(18차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950031&pblancNo=2026950031&houseSecd=02",
+		"in_date": "20260418",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "영통역 우미 린",
+		"addr": "경기도 수원시 영통구 영통동 999-2",
+		"short_addr": "경기도 수원시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "수원시",
+		"apply_nums": "305세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950031&pblancNo=2026950031&houseSecd=02",
+		"in_date": "20260419",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "영통역 우미 린",
+		"addr": "경기도 수원시 영통구 영통동 999-2",
+		"short_addr": "경기도 수원시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "수원시",
+		"apply_nums": "305세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000082&pblancNo=2026000082&houseSecd=01",
+		"in_date": "20260420",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "골드클래스 시그니처",
+		"addr": "전북특별자치도 전주시 덕진구 진북동 417-47번지 일원",
+		"short_addr": "전북특별자치도 전주시",
+		"addr_lv1": "전북특별자치도",
+		"addr_lv2": "전주시",
+		"apply_nums": "341세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000093&pblancNo=2026000093&houseSecd=01",
+		"in_date": "20260420",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "더샵 안동더퍼스트",
+		"addr": "경상북도 안동시 옥동 1069번지 일원",
+		"short_addr": "경상북도 안동시",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "안동시",
+		"apply_nums": "493세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000049&pblancNo=2026000049&houseSecd=01",
+		"in_date": "20260420",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "옥정중앙역 대방 디에트르(중상1, 복합1BL)",
+		"addr": "경기도 양주시 옥정동 962-9, 962-8번지(옥정지구 중상1, 복합1블럭)",
+		"short_addr": "경기도 양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "양주시",
+		"apply_nums": "2807세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000069&pblancNo=2026000069&houseSecd=01",
 		"in_date": "20260420",
 		"hsecd": "01",
@@ -1204,5 +1213,96 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "화성시",
 		"apply_nums": "241세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950031&pblancNo=2026950031&houseSecd=02",
+		"in_date": "20260420",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "영통역 우미 린",
+		"addr": "경기도 수원시 영통구 영통동 999-2",
+		"short_addr": "경기도 수원시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "수원시",
+		"apply_nums": "305세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000082&pblancNo=2026000082&houseSecd=01",
+		"in_date": "20260421",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "골드클래스 시그니처",
+		"addr": "전북특별자치도 전주시 덕진구 진북동 417-47번지 일원",
+		"short_addr": "전북특별자치도 전주시",
+		"addr_lv1": "전북특별자치도",
+		"addr_lv2": "전주시",
+		"apply_nums": "341세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000093&pblancNo=2026000093&houseSecd=01",
+		"in_date": "20260421",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "더샵 안동더퍼스트",
+		"addr": "경상북도 안동시 옥동 1069번지 일원",
+		"short_addr": "경상북도 안동시",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "안동시",
+		"apply_nums": "493세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000049&pblancNo=2026000049&houseSecd=01",
+		"in_date": "20260421",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "옥정중앙역 대방 디에트르(중상1, 복합1BL)",
+		"addr": "경기도 양주시 옥정동 962-9, 962-8번지(옥정지구 중상1, 복합1블럭)",
+		"short_addr": "경기도 양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "양주시",
+		"apply_nums": "2807세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000082&pblancNo=2026000082&houseSecd=01",
+		"in_date": "20260422",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "골드클래스 시그니처",
+		"addr": "전북특별자치도 전주시 덕진구 진북동 417-47번지 일원",
+		"short_addr": "전북특별자치도 전주시",
+		"addr_lv1": "전북특별자치도",
+		"addr_lv2": "전주시",
+		"apply_nums": "341세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000093&pblancNo=2026000093&houseSecd=01",
+		"in_date": "20260422",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "더샵 안동더퍼스트",
+		"addr": "경상북도 안동시 옥동 1069번지 일원",
+		"short_addr": "경상북도 안동시",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "안동시",
+		"apply_nums": "493세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000049&pblancNo=2026000049&houseSecd=01",
+		"in_date": "20260422",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "옥정중앙역 대방 디에트르(중상1, 복합1BL)",
+		"addr": "경기도 양주시 옥정동 962-9, 962-8번지(옥정지구 중상1, 복합1블럭)",
+		"short_addr": "경기도 양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "양주시",
+		"apply_nums": "2807세대"
 	}
 ]
