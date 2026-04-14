@@ -1,27 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950028&pblancNo=2026950028&houseSecd=02",
-		"in_date": "20260411",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "왕십리역 어반홈스 A동",
-		"addr": "서울특별시 성동구 도선동 114,115번지",
-		"short_addr": "서울특별시 성동구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "성동구",
-		"apply_nums": "10세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940069&pblancNo=2026940069&houseSecd=11",
-		"in_date": "20260411",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "시흥 은계 에피트(5차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950028&pblancNo=2026950028&houseSecd=02",
 		"in_date": "20260412",
 		"hsecd": "02",
 		"rse": "05",
@@ -679,6 +658,14 @@
 		"apply_nums": "305세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940078&pblancNo=2026940078&houseSecd=11",
+		"in_date": "20260417",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "검단 센트레빌 에듀시티(AB8BL)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940075&pblancNo=2026940075&houseSecd=11",
 		"in_date": "20260417",
 		"hsecd": "11",
@@ -898,6 +885,19 @@
 		"apply_nums": "305세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910086&pblancNo=2026910086&houseSecd=04",
+		"in_date": "20260420",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "e편한세상 여수 글렌츠",
+		"addr": "전라남도 여수시 신기동 3번지 일원",
+		"short_addr": "전라남도 여수시",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "여수시",
+		"apply_nums": "51세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910080&pblancNo=2026910080&houseSecd=04",
 		"in_date": "20260420",
 		"hsecd": "04",
@@ -909,6 +909,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "구리시",
 		"apply_nums": "341세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910081&pblancNo=2026910081&houseSecd=04",
+		"in_date": "20260420",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "부천역 에피트 어바닉",
+		"addr": "경기도 부천시 원미구 원미동 150-1외 2필지",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "62세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000082&pblancNo=2026000082&houseSecd=01",
