@@ -1,26 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950028&pblancNo=2026950028&houseSecd=02",
-		"in_date": "20260412",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "왕십리역 어반홈스 A동",
-		"addr": "서울특별시 성동구 도선동 114,115번지",
-		"short_addr": "서울특별시 성동구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "성동구",
-		"apply_nums": "10세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940069&pblancNo=2026940069&houseSecd=11",
-		"in_date": "20260412",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "시흥 은계 에피트(5차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000094&pblancNo=2026000094&houseSecd=01",
 		"in_date": "20260413",
 		"hsecd": "01",
@@ -924,6 +903,14 @@
 		"apply_nums": "62세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940076&pblancNo=2026940076&houseSecd=11",
+		"in_date": "20260420",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "화곡더리브스카이(2차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000082&pblancNo=2026000082&houseSecd=01",
 		"in_date": "20260421",
 		"hsecd": "01",
@@ -1080,6 +1067,19 @@
 		"apply_nums": "3세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910085&pblancNo=2026910085&houseSecd=04",
+		"in_date": "20260421",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "오산 세교2지구 A-21블록 모아미래도",
+		"addr": "경기도 오산시 죽담로 142(오산 세교2지구 모아미래도)",
+		"short_addr": "경기도 오산시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "오산시",
+		"apply_nums": "3세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910088&pblancNo=2026910088&houseSecd=04",
 		"in_date": "20260421",
 		"hsecd": "04",
@@ -1091,6 +1091,14 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "구로구",
 		"apply_nums": "19세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940076&pblancNo=2026940076&houseSecd=11",
+		"in_date": "20260421",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "화곡더리브스카이(2차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000082&pblancNo=2026000082&houseSecd=01",
