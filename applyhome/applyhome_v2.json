@@ -1,228 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000094&pblancNo=2026000094&houseSecd=01",
-		"in_date": "20260414",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "라클라체자이드파인",
-		"addr": "서울특별시 동작구 노량진동 294-220번지 일대",
-		"short_addr": "서울특별시 동작구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "동작구",
-		"apply_nums": "369세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000071&pblancNo=2026000071&houseSecd=01",
-		"in_date": "20260414",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "르네오션 고성 퍼스트뷰",
-		"addr": "강원특별자치도 고성군 토성면 청간리 1번지 외 16필지",
-		"short_addr": "강원특별자치도 고성군",
-		"addr_lv1": "강원특별자치도",
-		"addr_lv2": "고성군",
-		"apply_nums": "263세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000077&pblancNo=2026000077&houseSecd=01",
-		"in_date": "20260414",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "북전주 광신프로그레스",
-		"addr": "전북특별자치도 전주시 덕진구 고랑동 742번지 일원",
-		"short_addr": "전북특별자치도 전주시",
-		"addr_lv1": "전북특별자치도",
-		"addr_lv2": "전주시",
-		"apply_nums": "352세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000086&pblancNo=2026000086&houseSecd=01",
-		"in_date": "20260414",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "업성 푸르지오 레이크시티",
-		"addr": "충청남도 천안시 서북구 업성동 업성3도시개발구역 A1BL",
-		"short_addr": "충청남도 천안시",
-		"addr_lv1": "충청남도",
-		"addr_lv2": "천안시",
-		"apply_nums": "1460세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000058&pblancNo=2026000058&houseSecd=01",
-		"in_date": "20260414",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "오티에르 반포",
-		"addr": "서울특별시 서초구 잠원동 59-10번지 외 3필지",
-		"short_addr": "서울특별시 서초구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "서초구",
-		"apply_nums": "86세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000101&pblancNo=2026000101&houseSecd=01",
-		"in_date": "20260414",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "온천장 하늘채 엘리시움",
-		"addr": "부산광역시 동래구 온천동 147-52 일원",
-		"short_addr": "부산광역시 동래구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "동래구",
-		"apply_nums": "129세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000073&pblancNo=2026000073&houseSecd=01",
-		"in_date": "20260414",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "풍무역세권 수자인 그라센트 2차",
-		"addr": "경기도 김포시 풍무역세권도시개발사업 B1BL(김포시 사우동 167-1번지)",
-		"short_addr": "경기도 김포시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "김포시",
-		"apply_nums": "639세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000048&pblancNo=2026000048&houseSecd=01",
-		"in_date": "20260414",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "이촌 르엘",
-		"addr": "서울특별시 용산구 이촌동 301-160 일원",
-		"short_addr": "서울특별시 용산구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "용산구",
-		"apply_nums": "88세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850021&pblancNo=2026850021&houseSecd=03",
-		"in_date": "20260414",
-		"hsecd": "03",
-		"rse": "04",
-		"type": "",
-		"name": "부경경마공원역 대방 디에트르 더리버(AP1BL)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950029&pblancNo=2026950029&houseSecd=02",
-		"in_date": "20260414",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "동탄2신도시 대방 엘리움 레이크파크",
-		"addr": "경기도 화성시 송동 725-9번지",
-		"short_addr": "경기도 화성시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "화성시",
-		"apply_nums": "6세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950030&pblancNo=2026950030&houseSecd=02",
-		"in_date": "20260414",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "동탄2신도시 동탄역 디에트르 퍼스티지",
-		"addr": "경기도 화성시 여울동 979번지",
-		"short_addr": "경기도 화성시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "화성시",
-		"apply_nums": "5세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950028&pblancNo=2026950028&houseSecd=02",
-		"in_date": "20260414",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "왕십리역 어반홈스 A동",
-		"addr": "서울특별시 성동구 도선동 114,115번지",
-		"short_addr": "서울특별시 성동구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "성동구",
-		"apply_nums": "10세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910083&pblancNo=2026910083&houseSecd=04",
-		"in_date": "20260414",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "두산위브 더센트럴 수원",
-		"addr": "경기도 수원시 장안구 영화동 93-6번지 일원",
-		"short_addr": "경기도 수원시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "수원시",
-		"apply_nums": "25세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910084&pblancNo=2026910084&houseSecd=04",
-		"in_date": "20260414",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "상주자이르네",
-		"addr": "경상북도 상주시 함창읍 윤직리 840번지 일원",
-		"short_addr": "경상북도 상주시",
-		"addr_lv1": "경상북도",
-		"addr_lv2": "상주시",
-		"apply_nums": "257세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910082&pblancNo=2026910082&houseSecd=04",
-		"in_date": "20260414",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "어반클라쎄목동(12차)",
-		"addr": "서울특별시 양천구 신목로2길 7-12 (신정동, 어반클라쎄 목동)",
-		"short_addr": "서울특별시 양천구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "양천구",
-		"apply_nums": "3세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940075&pblancNo=2026940075&houseSecd=11",
-		"in_date": "20260414",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "리아츠 더 인천(18차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940070&pblancNo=2026940070&houseSecd=11",
-		"in_date": "20260414",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "수원이목지구 대방 디에트르 더 리체Ⅱ(A3BL) (15차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940071&pblancNo=2026940071&houseSecd=11",
-		"in_date": "20260414",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "용인 푸르지오 원클러스터파크(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940074&pblancNo=2026940074&houseSecd=11",
-		"in_date": "20260414",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "화성 동탄2 A106BL 아테라 파밀리에(구 어울림 파밀리에) (2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000094&pblancNo=2026000094&houseSecd=01",
 		"in_date": "20260415",
 		"hsecd": "01",
 		"rse": "02",
@@ -1117,6 +895,32 @@
 		"name": "엘리프 검단 포레듀(AA32블록)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000089&pblancNo=2026000089&houseSecd=01",
+		"in_date": "20260427",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "강릉 우미 린 더 프리미어",
+		"addr": "강원특별자치도 강릉시 송정동 1048번지 일원",
+		"short_addr": "강원특별자치도 강릉시",
+		"addr_lv1": "강원특별자치도",
+		"addr_lv2": "강릉시",
+		"apply_nums": "772세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000107&pblancNo=2026000107&houseSecd=01",
+		"in_date": "20260427",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "경기광주역 롯데캐슬 시그니처 1단지",
+		"addr": "경기도 광주시 양벌동 산54-3번지",
+		"short_addr": "경기도 광주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "광주시",
+		"apply_nums": "1077세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000124&pblancNo=2026000124&houseSecd=01",
 		"in_date": "20260427",
 		"hsecd": "01",
@@ -1128,6 +932,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "평택시",
 		"apply_nums": "630세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000114&pblancNo=2026000114&houseSecd=01",
+		"in_date": "20260427",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "공덕역자이르네",
+		"addr": "서울특별시 마포구 도화동 16-1번지 일원",
+		"short_addr": "서울특별시 마포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "마포구",
+		"apply_nums": "177세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000113&pblancNo=2026000113&houseSecd=01",
@@ -1169,6 +986,32 @@
 		"apply_nums": "62세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000089&pblancNo=2026000089&houseSecd=01",
+		"in_date": "20260428",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "강릉 우미 린 더 프리미어",
+		"addr": "강원특별자치도 강릉시 송정동 1048번지 일원",
+		"short_addr": "강원특별자치도 강릉시",
+		"addr_lv1": "강원특별자치도",
+		"addr_lv2": "강릉시",
+		"apply_nums": "772세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000107&pblancNo=2026000107&houseSecd=01",
+		"in_date": "20260428",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "경기광주역 롯데캐슬 시그니처 1단지",
+		"addr": "경기도 광주시 양벌동 산54-3번지",
+		"short_addr": "경기도 광주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "광주시",
+		"apply_nums": "1077세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000124&pblancNo=2026000124&houseSecd=01",
 		"in_date": "20260428",
 		"hsecd": "01",
@@ -1180,6 +1023,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "평택시",
 		"apply_nums": "630세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000114&pblancNo=2026000114&houseSecd=01",
+		"in_date": "20260428",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "공덕역자이르네",
+		"addr": "서울특별시 마포구 도화동 16-1번지 일원",
+		"short_addr": "서울특별시 마포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "마포구",
+		"apply_nums": "177세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000113&pblancNo=2026000113&houseSecd=01",
@@ -1208,6 +1064,45 @@
 		"apply_nums": "63세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000114&pblancNo=2026000114&houseSecd=01",
+		"in_date": "20260429",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "공덕역자이르네",
+		"addr": "서울특별시 마포구 도화동 16-1번지 일원",
+		"short_addr": "서울특별시 마포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "마포구",
+		"apply_nums": "177세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000089&pblancNo=2026000089&houseSecd=01",
+		"in_date": "20260429",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "강릉 우미 린 더 프리미어",
+		"addr": "강원특별자치도 강릉시 송정동 1048번지 일원",
+		"short_addr": "강원특별자치도 강릉시",
+		"addr_lv1": "강원특별자치도",
+		"addr_lv2": "강릉시",
+		"apply_nums": "772세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000107&pblancNo=2026000107&houseSecd=01",
+		"in_date": "20260429",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "경기광주역 롯데캐슬 시그니처 1단지",
+		"addr": "경기도 광주시 양벌동 산54-3번지",
+		"short_addr": "경기도 광주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "광주시",
+		"apply_nums": "1077세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000124&pblancNo=2026000124&houseSecd=01",
 		"in_date": "20260429",
 		"hsecd": "01",
@@ -1245,5 +1140,18 @@
 		"addr_lv1": "경상북도",
 		"addr_lv2": "구미시",
 		"apply_nums": "63세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000114&pblancNo=2026000114&houseSecd=01",
+		"in_date": "20260430",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "공덕역자이르네",
+		"addr": "서울특별시 마포구 도화동 16-1번지 일원",
+		"short_addr": "서울특별시 마포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "마포구",
+		"apply_nums": "177세대"
 	}
 ]
