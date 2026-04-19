@@ -1,61 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000069&pblancNo=2026000069&houseSecd=01",
-		"in_date": "20260416",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "야목역 서희스타힐스 그랜드힐",
-		"addr": "경기도 화성시 효행구 비봉면 구포리 614-18번지 일원",
-		"short_addr": "경기도 화성시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "화성시",
-		"apply_nums": "241세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000094&pblancNo=2026000094&houseSecd=01",
-		"in_date": "20260416",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "라클라체자이드파인",
-		"addr": "서울특별시 동작구 노량진동 294-220번지 일대",
-		"short_addr": "서울특별시 동작구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "동작구",
-		"apply_nums": "369세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026930009&pblancNo=2026930009&houseSecd=06",
-		"in_date": "20260416",
-		"hsecd": "06",
-		"rse": "07",
-		"type": "",
-		"name": "과천 디에트르 퍼스티지(S2BL)",
-		"addr": "경기도 과천시 지식정보타운 공공주택지구 S2BL",
-		"short_addr": "경기도 과천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "과천시",
-		"apply_nums": "6세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940075&pblancNo=2026940075&houseSecd=11",
-		"in_date": "20260416",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "리아츠 더 인천(18차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940073&pblancNo=2026940073&houseSecd=11",
-		"in_date": "20260416",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "중흥S-클래스 힐더포레(3차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000069&pblancNo=2026000069&houseSecd=01",
 		"in_date": "20260417",
 		"hsecd": "01",
 		"rse": "02",
