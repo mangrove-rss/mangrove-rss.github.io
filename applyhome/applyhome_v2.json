@@ -1,55 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000069&pblancNo=2026000069&houseSecd=01",
-		"in_date": "20260417",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "야목역 서희스타힐스 그랜드힐",
-		"addr": "경기도 화성시 효행구 비봉면 구포리 614-18번지 일원",
-		"short_addr": "경기도 화성시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "화성시",
-		"apply_nums": "241세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950031&pblancNo=2026950031&houseSecd=02",
-		"in_date": "20260417",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "영통역 우미 린",
-		"addr": "경기도 수원시 영통구 영통동 999-2",
-		"short_addr": "경기도 수원시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "수원시",
-		"apply_nums": "305세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940078&pblancNo=2026940078&houseSecd=11",
-		"in_date": "20260417",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "검단 센트레빌 에듀시티(AB8BL)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940075&pblancNo=2026940075&houseSecd=11",
-		"in_date": "20260417",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "리아츠 더 인천(18차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940073&pblancNo=2026940073&houseSecd=11",
-		"in_date": "20260417",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "중흥S-클래스 힐더포레(3차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950031&pblancNo=2026950031&houseSecd=02",
 		"in_date": "20260418",
 		"hsecd": "02",
@@ -819,6 +769,84 @@
 		"apply_nums": "62세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910094&pblancNo=2026910094&houseSecd=04",
+		"in_date": "20260427",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "동탄 파크릭스 A51-1BL",
+		"addr": "경기도 화성시 동탄구 동탄신리천로5길 130 (동탄 파크릭스 A51-1BL 아파트)",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "3세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910093&pblancNo=2026910093&houseSecd=04",
+		"in_date": "20260427",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "동탄 파크릭스 A51-2BL",
+		"addr": "경기도 화성시 동탄구 동탄신리천로5길 111 (동탄 파크릭스 A51-2BL 아파트)",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "3세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910092&pblancNo=2026910092&houseSecd=04",
+		"in_date": "20260427",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "동탄 파크릭스 A52BL",
+		"addr": "경기도 화성시 동탄구 동탄신리천로5길 79 (동탄 파크릭스 A52BL 아파트)",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910091&pblancNo=2026910091&houseSecd=04",
+		"in_date": "20260427",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "동탄 파크릭스 A55BL",
+		"addr": "경기도 화성시 동탄구 동탄신리천로5길 43 (동탄 파크릭스 A55BL 아파트)",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "8세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910097&pblancNo=2026910097&houseSecd=04",
+		"in_date": "20260427",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "래미안 엘라비네",
+		"addr": "서울특별시 강서구 방화동 608-97번지 일대",
+		"short_addr": "서울특별시 강서구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강서구",
+		"apply_nums": "56세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026930011&pblancNo=2026930011&houseSecd=06",
+		"in_date": "20260427",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "동탄 파크릭스 A51-1BL",
+		"addr": "경기도 화성시 동탄구 동탄신리천로5길 130 (동탄파크릭스 A51-1BL 아파트)",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "1세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000089&pblancNo=2026000089&houseSecd=01",
 		"in_date": "20260428",
 		"hsecd": "01",
@@ -973,6 +1001,19 @@
 		"addr_lv1": "경상북도",
 		"addr_lv2": "구미시",
 		"apply_nums": "63세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000130&pblancNo=2026000130&houseSecd=01",
+		"in_date": "20260430",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "PH159",
+		"addr": "제주특별자치도 제주시 조천읍 북촌리 1938번지 외 2필지",
+		"short_addr": "제주특별자치도 제주시",
+		"addr_lv1": "제주특별자치도",
+		"addr_lv2": "제주시",
+		"apply_nums": "49세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000114&pblancNo=2026000114&houseSecd=01",
@@ -986,5 +1027,57 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "마포구",
 		"apply_nums": "177세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000130&pblancNo=2026000130&houseSecd=01",
+		"in_date": "20260504",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "PH159",
+		"addr": "제주특별자치도 제주시 조천읍 북촌리 1938번지 외 2필지",
+		"short_addr": "제주특별자치도 제주시",
+		"addr_lv1": "제주특별자치도",
+		"addr_lv2": "제주시",
+		"apply_nums": "49세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000088&pblancNo=2026000088&houseSecd=01",
+		"in_date": "20260506",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "용인 양지 서희스타힐스 하이뷰",
+		"addr": "경기도 용인시 처인구 양지읍 양지리 산105-8번지 일원",
+		"short_addr": "경기도 용인시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "용인시",
+		"apply_nums": "547세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000088&pblancNo=2026000088&houseSecd=01",
+		"in_date": "20260507",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "용인 양지 서희스타힐스 하이뷰",
+		"addr": "경기도 용인시 처인구 양지읍 양지리 산105-8번지 일원",
+		"short_addr": "경기도 용인시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "용인시",
+		"apply_nums": "547세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000088&pblancNo=2026000088&houseSecd=01",
+		"in_date": "20260508",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "용인 양지 서희스타힐스 하이뷰",
+		"addr": "경기도 용인시 처인구 양지읍 양지리 산105-8번지 일원",
+		"short_addr": "경기도 용인시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "용인시",
+		"apply_nums": "547세대"
 	}
 ]
