@@ -1,19 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950031&pblancNo=2026950031&houseSecd=02",
-		"in_date": "20260418",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "영통역 우미 린",
-		"addr": "경기도 수원시 영통구 영통동 999-2",
-		"short_addr": "경기도 수원시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "수원시",
-		"apply_nums": "305세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950031&pblancNo=2026950031&houseSecd=02",
 		"in_date": "20260419",
 		"hsecd": "02",
 		"rse": "05",
@@ -834,6 +821,32 @@
 		"apply_nums": "56세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910095&pblancNo=2026910095&houseSecd=04",
+		"in_date": "20260427",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "용인 플랫폼시티 라온프라이빗 아르디에",
+		"addr": "경기도 용인시 기흥구 영덕동 55-1번지 일원",
+		"short_addr": "경기도 용인시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "용인시",
+		"apply_nums": "98세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026930014&pblancNo=2026930014&houseSecd=06",
+		"in_date": "20260427",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "광명자이더샵포레나",
+		"addr": "경기도 광명시 광명1동 9-8번지 일원",
+		"short_addr": "경기도 광명시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "광명시",
+		"apply_nums": "2세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026930011&pblancNo=2026930011&houseSecd=06",
 		"in_date": "20260427",
 		"hsecd": "06",
@@ -845,6 +858,14 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "화성시",
 		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940081&pblancNo=2026940081&houseSecd=11",
+		"in_date": "20260427",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "용인 플랫폼시티 라온프라이빗 아르디에"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000089&pblancNo=2026000089&houseSecd=01",
@@ -923,6 +944,19 @@
 		"addr_lv1": "경상북도",
 		"addr_lv2": "구미시",
 		"apply_nums": "63세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026930014&pblancNo=2026930014&houseSecd=06",
+		"in_date": "20260428",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "광명자이더샵포레나",
+		"addr": "경기도 광명시 광명1동 9-8번지 일원",
+		"short_addr": "경기도 광명시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "광명시",
+		"apply_nums": "2세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000114&pblancNo=2026000114&houseSecd=01",
