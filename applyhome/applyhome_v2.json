@@ -1,18 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950031&pblancNo=2026950031&houseSecd=02",
-		"in_date": "20260419",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "영통역 우미 린",
-		"addr": "경기도 수원시 영통구 영통동 999-2",
-		"short_addr": "경기도 수원시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "수원시",
-		"apply_nums": "305세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000082&pblancNo=2026000082&houseSecd=01",
 		"in_date": "20260420",
 		"hsecd": "01",
@@ -743,6 +730,19 @@
 		"apply_nums": "63세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950035&pblancNo=2026950035&houseSecd=02",
+		"in_date": "20260427",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "신촌 에르노 플레이스",
+		"addr": "서울특별시 서대문구 창천동 18-42번지 일대",
+		"short_addr": "서울특별시 서대문구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "서대문구",
+		"apply_nums": "144세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950033&pblancNo=2026950033&houseSecd=02",
 		"in_date": "20260427",
 		"hsecd": "02",
@@ -1037,6 +1037,14 @@
 		"apply_nums": "63세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940084&pblancNo=2026940084&houseSecd=11",
+		"in_date": "20260429",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "시흥 은계 에피트(6차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000130&pblancNo=2026000130&houseSecd=01",
 		"in_date": "20260430",
 		"hsecd": "01",
@@ -1061,6 +1069,14 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "마포구",
 		"apply_nums": "177세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940084&pblancNo=2026940084&houseSecd=11",
+		"in_date": "20260430",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "시흥 은계 에피트(6차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000130&pblancNo=2026000130&houseSecd=01",
