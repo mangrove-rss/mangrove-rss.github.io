@@ -1,220 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000082&pblancNo=2026000082&houseSecd=01",
-		"in_date": "20260421",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "골드클래스 시그니처",
-		"addr": "전북특별자치도 전주시 덕진구 진북동 417-47번지 일원",
-		"short_addr": "전북특별자치도 전주시",
-		"addr_lv1": "전북특별자치도",
-		"addr_lv2": "전주시",
-		"apply_nums": "341세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000093&pblancNo=2026000093&houseSecd=01",
-		"in_date": "20260421",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "더샵 안동더퍼스트",
-		"addr": "경상북도 안동시 옥동 1069번지 일원",
-		"short_addr": "경상북도 안동시",
-		"addr_lv1": "경상북도",
-		"addr_lv2": "안동시",
-		"apply_nums": "493세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000104&pblancNo=2026000104&houseSecd=01",
-		"in_date": "20260421",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "도안자이 센텀리체 1단지",
-		"addr": "대전광역시 유성구 도안 2-8지구 26블록(유성구 용계동 267-3번지 일원)",
-		"short_addr": "대전광역시 유성구",
-		"addr_lv1": "대전광역시",
-		"addr_lv2": "유성구",
-		"apply_nums": "946세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000105&pblancNo=2026000105&houseSecd=01",
-		"in_date": "20260421",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "도안자이 센텀리체 2단지",
-		"addr": "대전광역시 유성구 도안 2-6지구 30블록(유성구 용계동 299-7번지 일원)",
-		"short_addr": "대전광역시 유성구",
-		"addr_lv1": "대전광역시",
-		"addr_lv2": "유성구",
-		"apply_nums": "834세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000121&pblancNo=2026000121&houseSecd=01",
-		"in_date": "20260421",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "문수로 라티에르 673",
-		"addr": "울산광역시 남구 신정동 673-1번지 외 14필지",
-		"short_addr": "울산광역시 남구",
-		"addr_lv1": "울산광역시",
-		"addr_lv2": "남구",
-		"apply_nums": "199세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000109&pblancNo=2026000109&houseSecd=01",
-		"in_date": "20260421",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "아산경남아너스빌 랜드마크49",
-		"addr": "충청남도 아산시 온천동 14-7일원",
-		"short_addr": "충청남도 아산시",
-		"addr_lv1": "충청남도",
-		"addr_lv2": "아산시",
-		"apply_nums": "467세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000110&pblancNo=2026000110&houseSecd=01",
-		"in_date": "20260421",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "엘리프 창원",
-		"addr": "경상남도 창원시 의창구 창원명곡 공공주택지구 B-1BL",
-		"short_addr": "경상남도 창원시",
-		"addr_lv1": "경상남도",
-		"addr_lv2": "창원시",
-		"apply_nums": "349세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000049&pblancNo=2026000049&houseSecd=01",
-		"in_date": "20260421",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "옥정중앙역 대방 디에트르(중상1, 복합1BL)",
-		"addr": "경기도 양주시 옥정동 962-9, 962-8번지(옥정지구 중상1, 복합1블럭)",
-		"short_addr": "경기도 양주시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "양주시",
-		"apply_nums": "2807세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000112&pblancNo=2026000112&houseSecd=01",
-		"in_date": "20260421",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "용인 고림 동문 디 이스트",
-		"addr": "경기도 용인시 처인구 고림동 620번지 일원",
-		"short_addr": "경기도 용인시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "용인시",
-		"apply_nums": "350세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000087&pblancNo=2026000087&houseSecd=01",
-		"in_date": "20260421",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "청주 푸르지오 씨엘리체",
-		"addr": "충청북도 청주시 서원구 미평동 54-3번지 일원",
-		"short_addr": "충청북도 청주시",
-		"addr_lv1": "충청북도",
-		"addr_lv2": "청주시",
-		"apply_nums": "1351세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000085&pblancNo=2026000085&houseSecd=01",
-		"in_date": "20260421",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "힐스테이트 평거 센트럴",
-		"addr": "경상남도 진주시 평거동 148번지 외 4필지",
-		"short_addr": "경상남도 진주시",
-		"addr_lv1": "경상남도",
-		"addr_lv2": "진주시",
-		"apply_nums": "261세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910087&pblancNo=2026910087&houseSecd=04",
-		"in_date": "20260421",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "영종국제도시 A26BL 제일풍경채 디오션",
-		"addr": "인천광역시 중구 영종국제도시 A26BL",
-		"short_addr": "인천광역시 중구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "중구",
-		"apply_nums": "3세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910085&pblancNo=2026910085&houseSecd=04",
-		"in_date": "20260421",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "오산 세교2지구 A-21블록 모아미래도",
-		"addr": "경기도 오산시 죽담로 142(오산 세교2지구 모아미래도)",
-		"short_addr": "경기도 오산시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "오산시",
-		"apply_nums": "3세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910088&pblancNo=2026910088&houseSecd=04",
-		"in_date": "20260421",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "천왕역 모아엘가 트레뷰(10차)",
-		"addr": "서울특별시 구로구 오리로 1165",
-		"short_addr": "서울특별시 구로구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "구로구",
-		"apply_nums": "19세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940079&pblancNo=2026940079&houseSecd=11",
-		"in_date": "20260421",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "엘리프 검단 포레듀(AA32블록)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940080&pblancNo=2026940080&houseSecd=11",
-		"in_date": "20260421",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "용인 푸르지오 클루센트"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940076&pblancNo=2026940076&houseSecd=11",
-		"in_date": "20260421",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "화곡더리브스카이(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940072&pblancNo=2026940072&houseSecd=11",
-		"in_date": "20260421",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "효성해링턴 플레이스 영주 더리버"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000082&pblancNo=2026000082&houseSecd=01",
 		"in_date": "20260422",
 		"hsecd": "01",
 		"rse": "03",
@@ -902,6 +688,58 @@
 		"apply_nums": "897세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000090&pblancNo=2026000090&houseSecd=01",
+		"in_date": "20260504",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "소제지구 A3BL 중흥S-클래스 우미린",
+		"addr": "전라남도 여수시 소호동 828번지 일원 여수소제지구 A3블록",
+		"short_addr": "전라남도 여수시",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "여수시",
+		"apply_nums": "1095세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000091&pblancNo=2026000091&houseSecd=01",
+		"in_date": "20260504",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "소제지구 A4BL 중흥S-클래스 우미린",
+		"addr": "전라남도 여수시 소호동 828번지 일원 여수소제지구 A4블록",
+		"short_addr": "전라남도 여수시",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "여수시",
+		"apply_nums": "584세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000096&pblancNo=2026000096&houseSecd=01",
+		"in_date": "20260504",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "천안 동문 디 이스트 파크시티",
+		"addr": "충청남도 천안시 동남구 삼룡동 376-50번지 일원",
+		"short_addr": "충청남도 천안시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "천안시",
+		"apply_nums": "500세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000127&pblancNo=2026000127&houseSecd=01",
+		"in_date": "20260504",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "천안 휴먼빌 퍼스트시티(2회차)",
+		"addr": "충청남도 천안시 서북구 부대동 416-1번지 일원",
+		"short_addr": "충청남도 천안시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "천안시",
+		"apply_nums": "309세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000143&pblancNo=2026000143&houseSecd=01",
 		"in_date": "20260504",
 		"hsecd": "01",
@@ -941,6 +779,32 @@
 		"apply_nums": "138세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000090&pblancNo=2026000090&houseSecd=01",
+		"in_date": "20260505",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "소제지구 A3BL 중흥S-클래스 우미린",
+		"addr": "전라남도 여수시 소호동 828번지 일원 여수소제지구 A3블록",
+		"short_addr": "전라남도 여수시",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "여수시",
+		"apply_nums": "1095세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000091&pblancNo=2026000091&houseSecd=01",
+		"in_date": "20260505",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "소제지구 A4BL 중흥S-클래스 우미린",
+		"addr": "전라남도 여수시 소호동 828번지 일원 여수소제지구 A4블록",
+		"short_addr": "전라남도 여수시",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "여수시",
+		"apply_nums": "584세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000129&pblancNo=2026000129&houseSecd=01",
 		"in_date": "20260506",
 		"hsecd": "01",
@@ -952,6 +816,32 @@
 		"addr_lv1": "대전광역시",
 		"addr_lv2": "서구",
 		"apply_nums": "951세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000090&pblancNo=2026000090&houseSecd=01",
+		"in_date": "20260506",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "소제지구 A3BL 중흥S-클래스 우미린",
+		"addr": "전라남도 여수시 소호동 828번지 일원 여수소제지구 A3블록",
+		"short_addr": "전라남도 여수시",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "여수시",
+		"apply_nums": "1095세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000091&pblancNo=2026000091&houseSecd=01",
+		"in_date": "20260506",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "소제지구 A4BL 중흥S-클래스 우미린",
+		"addr": "전라남도 여수시 소호동 828번지 일원 여수소제지구 A4블록",
+		"short_addr": "전라남도 여수시",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "여수시",
+		"apply_nums": "584세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000149&pblancNo=2026000149&houseSecd=01",
@@ -993,6 +883,19 @@
 		"apply_nums": "547세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000102&pblancNo=2026000102&houseSecd=01",
+		"in_date": "20260506",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "울산신복역 비스타 메트로",
+		"addr": "울산광역시 남구 무거동 822-1번지 일원",
+		"short_addr": "울산광역시 남구",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "481세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000152&pblancNo=2026000152&houseSecd=01",
 		"in_date": "20260506",
 		"hsecd": "01",
@@ -1004,6 +907,32 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "부천시",
 		"apply_nums": "897세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000096&pblancNo=2026000096&houseSecd=01",
+		"in_date": "20260506",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "천안 동문 디 이스트 파크시티",
+		"addr": "충청남도 천안시 동남구 삼룡동 376-50번지 일원",
+		"short_addr": "충청남도 천안시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "천안시",
+		"apply_nums": "500세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000127&pblancNo=2026000127&houseSecd=01",
+		"in_date": "20260506",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "천안 휴먼빌 퍼스트시티(2회차)",
+		"addr": "충청남도 천안시 서북구 부대동 416-1번지 일원",
+		"short_addr": "충청남도 천안시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "천안시",
+		"apply_nums": "309세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000143&pblancNo=2026000143&houseSecd=01",
@@ -1032,6 +961,32 @@
 		"apply_nums": "951세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000090&pblancNo=2026000090&houseSecd=01",
+		"in_date": "20260507",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "소제지구 A3BL 중흥S-클래스 우미린",
+		"addr": "전라남도 여수시 소호동 828번지 일원 여수소제지구 A3블록",
+		"short_addr": "전라남도 여수시",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "여수시",
+		"apply_nums": "1095세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000091&pblancNo=2026000091&houseSecd=01",
+		"in_date": "20260507",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "소제지구 A4BL 중흥S-클래스 우미린",
+		"addr": "전라남도 여수시 소호동 828번지 일원 여수소제지구 A4블록",
+		"short_addr": "전라남도 여수시",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "여수시",
+		"apply_nums": "584세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000149&pblancNo=2026000149&houseSecd=01",
 		"in_date": "20260507",
 		"hsecd": "01",
@@ -1071,6 +1026,19 @@
 		"apply_nums": "547세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000102&pblancNo=2026000102&houseSecd=01",
+		"in_date": "20260507",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "울산신복역 비스타 메트로",
+		"addr": "울산광역시 남구 무거동 822-1번지 일원",
+		"short_addr": "울산광역시 남구",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "481세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000152&pblancNo=2026000152&houseSecd=01",
 		"in_date": "20260507",
 		"hsecd": "01",
@@ -1082,6 +1050,32 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "부천시",
 		"apply_nums": "897세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000096&pblancNo=2026000096&houseSecd=01",
+		"in_date": "20260507",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "천안 동문 디 이스트 파크시티",
+		"addr": "충청남도 천안시 동남구 삼룡동 376-50번지 일원",
+		"short_addr": "충청남도 천안시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "천안시",
+		"apply_nums": "500세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000127&pblancNo=2026000127&houseSecd=01",
+		"in_date": "20260507",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "천안 휴먼빌 퍼스트시티(2회차)",
+		"addr": "충청남도 천안시 서북구 부대동 416-1번지 일원",
+		"short_addr": "충청남도 천안시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "천안시",
+		"apply_nums": "309세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000143&pblancNo=2026000143&houseSecd=01",
@@ -1110,6 +1104,32 @@
 		"apply_nums": "951세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000090&pblancNo=2026000090&houseSecd=01",
+		"in_date": "20260508",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "소제지구 A3BL 중흥S-클래스 우미린",
+		"addr": "전라남도 여수시 소호동 828번지 일원 여수소제지구 A3블록",
+		"short_addr": "전라남도 여수시",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "여수시",
+		"apply_nums": "1095세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000091&pblancNo=2026000091&houseSecd=01",
+		"in_date": "20260508",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "소제지구 A4BL 중흥S-클래스 우미린",
+		"addr": "전라남도 여수시 소호동 828번지 일원 여수소제지구 A4블록",
+		"short_addr": "전라남도 여수시",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "여수시",
+		"apply_nums": "584세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000149&pblancNo=2026000149&houseSecd=01",
 		"in_date": "20260508",
 		"hsecd": "01",
@@ -1147,5 +1167,18 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "용인시",
 		"apply_nums": "547세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000102&pblancNo=2026000102&houseSecd=01",
+		"in_date": "20260508",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "울산신복역 비스타 메트로",
+		"addr": "울산광역시 남구 무거동 822-1번지 일원",
+		"short_addr": "울산광역시 남구",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "481세대"
 	}
 ]
