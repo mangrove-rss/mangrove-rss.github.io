@@ -1,14 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940079&pblancNo=2026940079&houseSecd=11",
-		"in_date": "20260423",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "엘리프 검단 포레듀(AA32블록)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940079&pblancNo=2026940079&houseSecd=11",
 		"in_date": "20260424",
 		"hsecd": "11",
 		"rse": "11",
@@ -430,6 +422,22 @@
 		"name": "시흥 은계 에피트(6차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940085&pblancNo=2026940085&houseSecd=11",
+		"in_date": "20260429",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "이안 센트럴 제기동역"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940083&pblancNo=2026940083&houseSecd=11",
+		"in_date": "20260429",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "한신더휴 하이엔에듀포레(5차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000130&pblancNo=2026000130&houseSecd=01",
 		"in_date": "20260430",
 		"hsecd": "01",
@@ -589,6 +597,32 @@
 		"apply_nums": "138세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910099&pblancNo=2026910099&houseSecd=04",
+		"in_date": "20260504",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "대전 롯데캐슬 더퍼스트(조합원 취소분)",
+		"addr": "대전광역시 동구 가오동 394번지 일원",
+		"short_addr": "대전광역시 동구",
+		"addr_lv1": "대전광역시",
+		"addr_lv2": "동구",
+		"apply_nums": "5세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910101&pblancNo=2026910101&houseSecd=04",
+		"in_date": "20260504",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "양주 옥정 린 파밀리에(6차)",
+		"addr": "경기도 양주시 옥정동 옥정택지개발지구 A-1BL (경기도 양주시 옥정동 868)",
+		"short_addr": "경기도 양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "양주시",
+		"apply_nums": "11세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000090&pblancNo=2026000090&houseSecd=01",
 		"in_date": "20260505",
 		"hsecd": "01",
@@ -758,6 +792,32 @@
 		"apply_nums": "60세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950034&pblancNo=2026950034&houseSecd=02",
+		"in_date": "20260506",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "구의역 에떼르넬비욘드",
+		"addr": "서울특별시 광진구 구의동 246-38, 39, 98",
+		"short_addr": "서울특별시 광진구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "광진구",
+		"apply_nums": "11세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000156&pblancNo=2026000156&houseSecd=01",
+		"in_date": "20260507",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "더 리치먼드 미아",
+		"addr": "서울특별시 강북구 미아동 703-13번지",
+		"short_addr": "서울특별시 강북구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강북구",
+		"apply_nums": "99세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000129&pblancNo=2026000129&houseSecd=01",
 		"in_date": "20260507",
 		"hsecd": "01",
@@ -901,6 +961,19 @@
 		"apply_nums": "60세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000156&pblancNo=2026000156&houseSecd=01",
+		"in_date": "20260508",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "더 리치먼드 미아",
+		"addr": "서울특별시 강북구 미아동 703-13번지",
+		"short_addr": "서울특별시 강북구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강북구",
+		"apply_nums": "99세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000129&pblancNo=2026000129&houseSecd=01",
 		"in_date": "20260508",
 		"hsecd": "01",
@@ -990,5 +1063,31 @@
 		"addr_lv1": "울산광역시",
 		"addr_lv2": "남구",
 		"apply_nums": "481세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000156&pblancNo=2026000156&houseSecd=01",
+		"in_date": "20260511",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "더 리치먼드 미아",
+		"addr": "서울특별시 강북구 미아동 703-13번지",
+		"short_addr": "서울특별시 강북구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강북구",
+		"apply_nums": "99세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000156&pblancNo=2026000156&houseSecd=01",
+		"in_date": "20260512",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "더 리치먼드 미아",
+		"addr": "서울특별시 강북구 미아동 703-13번지",
+		"short_addr": "서울특별시 강북구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강북구",
+		"apply_nums": "99세대"
 	}
 ]
