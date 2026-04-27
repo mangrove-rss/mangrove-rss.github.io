@@ -1,13 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940079&pblancNo=2026940079&houseSecd=11",
-		"in_date": "20260424",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "엘리프 검단 포레듀(AA32블록)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000089&pblancNo=2026000089&houseSecd=01",
 		"in_date": "20260427",
 		"hsecd": "01",
@@ -493,6 +485,46 @@
 		"name": "시흥 은계 에피트(6차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940082&pblancNo=2026940082&houseSecd=11",
+		"in_date": "20260430",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "안양자이 헤리티온(3차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940086&pblancNo=2026940086&houseSecd=11",
+		"in_date": "20260430",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "연수 월드메르디앙 어반포레"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940082&pblancNo=2026940082&houseSecd=11",
+		"in_date": "20260501",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "안양자이 헤리티온(3차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940082&pblancNo=2026940082&houseSecd=11",
+		"in_date": "20260502",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "안양자이 헤리티온(3차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940082&pblancNo=2026940082&houseSecd=11",
+		"in_date": "20260503",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "안양자이 헤리티온(3차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000152&pblancNo=2026000152&houseSecd=01",
 		"in_date": "20260504",
 		"hsecd": "01",
@@ -623,6 +655,27 @@
 		"apply_nums": "11세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910100&pblancNo=2026910100&houseSecd=04",
+		"in_date": "20260504",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "해링턴플레이스 노원 센트럴",
+		"addr": "서울특별시 노원구 노원로 495 (상계동 690)",
+		"short_addr": "서울특별시 노원구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "노원구",
+		"apply_nums": "58세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940082&pblancNo=2026940082&houseSecd=11",
+		"in_date": "20260504",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "안양자이 헤리티온(3차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000090&pblancNo=2026000090&houseSecd=01",
 		"in_date": "20260505",
 		"hsecd": "01",
@@ -647,6 +700,19 @@
 		"addr_lv1": "전라남도",
 		"addr_lv2": "여수시",
 		"apply_nums": "584세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910100&pblancNo=2026910100&houseSecd=04",
+		"in_date": "20260505",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "해링턴플레이스 노원 센트럴",
+		"addr": "서울특별시 노원구 노원로 495 (상계동 690)",
+		"short_addr": "서울특별시 노원구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "노원구",
+		"apply_nums": "58세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000129&pblancNo=2026000129&houseSecd=01",
@@ -805,6 +871,32 @@
 		"apply_nums": "11세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910104&pblancNo=2026910104&houseSecd=04",
+		"in_date": "20260506",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "청계 노르웨이숲(8차)",
+		"addr": "서울특별시 중구 황학동 1756번지 일원",
+		"short_addr": "서울특별시 중구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "중구",
+		"apply_nums": "23세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910100&pblancNo=2026910100&houseSecd=04",
+		"in_date": "20260506",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "해링턴플레이스 노원 센트럴",
+		"addr": "서울특별시 노원구 노원로 495 (상계동 690)",
+		"short_addr": "서울특별시 노원구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "노원구",
+		"apply_nums": "58세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000156&pblancNo=2026000156&houseSecd=01",
 		"in_date": "20260507",
 		"hsecd": "01",
@@ -961,6 +1053,19 @@
 		"apply_nums": "60세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000133&pblancNo=2026000133&houseSecd=01",
+		"in_date": "20260508",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "더샵 시에르네(조합원 취소분)",
+		"addr": "울산광역시 중구 학성동 397-1번지 일원",
+		"short_addr": "울산광역시 중구",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "36세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000156&pblancNo=2026000156&houseSecd=01",
 		"in_date": "20260508",
 		"hsecd": "01",
@@ -1078,6 +1183,19 @@
 		"apply_nums": "99세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000133&pblancNo=2026000133&houseSecd=01",
+		"in_date": "20260511",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "더샵 시에르네(조합원 취소분)",
+		"addr": "울산광역시 중구 학성동 397-1번지 일원",
+		"short_addr": "울산광역시 중구",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "36세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000156&pblancNo=2026000156&houseSecd=01",
 		"in_date": "20260512",
 		"hsecd": "01",
@@ -1089,5 +1207,18 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "강북구",
 		"apply_nums": "99세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000133&pblancNo=2026000133&houseSecd=01",
+		"in_date": "20260512",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "더샵 시에르네(조합원 취소분)",
+		"addr": "울산광역시 중구 학성동 397-1번지 일원",
+		"short_addr": "울산광역시 중구",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "36세대"
 	}
 ]
