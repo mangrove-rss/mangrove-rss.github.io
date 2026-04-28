@@ -629,6 +629,27 @@
 		"apply_nums": "138세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850024&pblancNo=2026850024&houseSecd=03",
+		"in_date": "20260504",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "운서역 푸르지오 더 스카이 2차"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950036&pblancNo=2026950036&houseSecd=02",
+		"in_date": "20260504",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "광명 퍼스트 스위첸",
+		"addr": "경기도 광명시 광명동 344번지",
+		"short_addr": "경기도 광명시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "광명시",
+		"apply_nums": "5세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910099&pblancNo=2026910099&houseSecd=04",
 		"in_date": "20260504",
 		"hsecd": "04",
@@ -655,6 +676,32 @@
 		"apply_nums": "11세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910102&pblancNo=2026910102&houseSecd=04",
+		"in_date": "20260504",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "창원자이 더 스카이",
+		"addr": "경상남도 창원시 성산구 중앙동 99-4,5,6",
+		"short_addr": "경상남도 창원시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "창원시",
+		"apply_nums": "431세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910098&pblancNo=2026910098&houseSecd=04",
+		"in_date": "20260504",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "한화포레나 부산당리",
+		"addr": "부산광역시 사하구 당리동 340-3번지 일원",
+		"short_addr": "부산광역시 사하구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "사하구",
+		"apply_nums": "6세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910100&pblancNo=2026910100&houseSecd=04",
 		"in_date": "20260504",
 		"hsecd": "04",
@@ -666,6 +713,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "노원구",
 		"apply_nums": "58세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910103&pblancNo=2026910103&houseSecd=04",
+		"in_date": "20260504",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "힐스테이트 금오 더퍼스트",
+		"addr": "경기도 의정부시 금오동 65-3번지 일원, 힐스테이트 금오 더퍼스트 (금오생활권1구역 주택재개발정비사업)",
+		"short_addr": "경기도 의정부시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "의정부시",
+		"apply_nums": "1세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940082&pblancNo=2026940082&houseSecd=11",
@@ -700,6 +760,19 @@
 		"addr_lv1": "전라남도",
 		"addr_lv2": "여수시",
 		"apply_nums": "584세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950036&pblancNo=2026950036&houseSecd=02",
+		"in_date": "20260505",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "광명 퍼스트 스위첸",
+		"addr": "경기도 광명시 광명동 344번지",
+		"short_addr": "경기도 광명시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "광명시",
+		"apply_nums": "5세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910100&pblancNo=2026910100&houseSecd=04",
@@ -858,6 +931,19 @@
 		"apply_nums": "60세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950036&pblancNo=2026950036&houseSecd=02",
+		"in_date": "20260506",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "광명 퍼스트 스위첸",
+		"addr": "경기도 광명시 광명동 344번지",
+		"short_addr": "경기도 광명시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "광명시",
+		"apply_nums": "5세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950034&pblancNo=2026950034&houseSecd=02",
 		"in_date": "20260506",
 		"hsecd": "02",
@@ -895,6 +981,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "노원구",
 		"apply_nums": "58세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026930013&pblancNo=2026930013&houseSecd=06",
+		"in_date": "20260506",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "동탄신도시 금강펜테리움 6차 센트럴파크(A59BL)",
+		"addr": "경기도 화성시 동탄구 신동 822 금강펜테리움6차센트럴파크 ",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "1세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000156&pblancNo=2026000156&houseSecd=01",
