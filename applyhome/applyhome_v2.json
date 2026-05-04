@@ -1,14 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940082&pblancNo=2026940082&houseSecd=11",
-		"in_date": "20260501",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "안양자이 헤리티온(3차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940082&pblancNo=2026940082&houseSecd=11",
 		"in_date": "20260502",
 		"hsecd": "11",
 		"rse": "11",
@@ -664,6 +656,14 @@
 		"apply_nums": "60세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940087&pblancNo=2026940087&houseSecd=11",
+		"in_date": "20260507",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "더샵 분당센트로"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940089&pblancNo=2026940089&houseSecd=11",
 		"in_date": "20260507",
 		"hsecd": "11",
@@ -797,6 +797,14 @@
 		"apply_nums": "481세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940087&pblancNo=2026940087&houseSecd=11",
+		"in_date": "20260508",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "더샵 분당센트로"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940090&pblancNo=2026940090&houseSecd=11",
 		"in_date": "20260508",
 		"hsecd": "11",
@@ -805,12 +813,28 @@
 		"name": "힐스테이트 용인마크밸리(8차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940087&pblancNo=2026940087&houseSecd=11",
+		"in_date": "20260509",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "더샵 분당센트로"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940090&pblancNo=2026940090&houseSecd=11",
 		"in_date": "20260509",
 		"hsecd": "11",
 		"rse": "11",
 		"type": "",
 		"name": "힐스테이트 용인마크밸리(8차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940087&pblancNo=2026940087&houseSecd=11",
+		"in_date": "20260510",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "더샵 분당센트로"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940090&pblancNo=2026940090&houseSecd=11",
@@ -962,6 +986,14 @@
 		"addr_lv1": "경상남도",
 		"addr_lv2": "거제시",
 		"apply_nums": "376세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940087&pblancNo=2026940087&houseSecd=11",
+		"in_date": "20260511",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "더샵 분당센트로"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940090&pblancNo=2026940090&houseSecd=11",
