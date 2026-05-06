@@ -1,13 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940082&pblancNo=2026940082&houseSecd=11",
-		"in_date": "20260503",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "안양자이 헤리티온(3차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000152&pblancNo=2026000152&houseSecd=01",
 		"in_date": "20260504",
 		"hsecd": "01",
@@ -1160,6 +1152,58 @@
 		"apply_nums": "376세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950039&pblancNo=2026950039&houseSecd=02",
+		"in_date": "20260512",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "강동 리버스시티",
+		"addr": "서울특별시 강동구 천호동 557번지",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "18세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950047&pblancNo=2026950047&houseSecd=02",
+		"in_date": "20260512",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "동탄2신도시 대방 엘리움 레이크파크",
+		"addr": "경기도 화성시 송동 725-9번지",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "6세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950046&pblancNo=2026950046&houseSecd=02",
+		"in_date": "20260512",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "동탄2신도시 동탄역 디에트르 퍼스티지",
+		"addr": "경기도 화성시 여울동 979번지",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "5세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910105&pblancNo=2026910105&houseSecd=04",
+		"in_date": "20260512",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "엄궁역 트라비스 하늘채",
+		"addr": "부산광역시 사상구 엄궁동 412번지 일원",
+		"short_addr": "부산광역시 사상구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "사상구",
+		"apply_nums": "272세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026930015&pblancNo=2026930015&houseSecd=06",
 		"in_date": "20260512",
 		"hsecd": "06",
@@ -1285,6 +1329,45 @@
 		"apply_nums": "466세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950039&pblancNo=2026950039&houseSecd=02",
+		"in_date": "20260513",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "강동 리버스시티",
+		"addr": "서울특별시 강동구 천호동 557번지",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "18세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950047&pblancNo=2026950047&houseSecd=02",
+		"in_date": "20260513",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "동탄2신도시 대방 엘리움 레이크파크",
+		"addr": "경기도 화성시 송동 725-9번지",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "6세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950046&pblancNo=2026950046&houseSecd=02",
+		"in_date": "20260513",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "동탄2신도시 동탄역 디에트르 퍼스티지",
+		"addr": "경기도 화성시 여울동 979번지",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "5세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026930015&pblancNo=2026930015&houseSecd=06",
 		"in_date": "20260513",
 		"hsecd": "06",
@@ -1350,6 +1433,58 @@
 		"apply_nums": "299세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950037&pblancNo=2026950037&houseSecd=02",
+		"in_date": "20260515",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "파크라움 여의도",
+		"addr": "서울특별시 영등포구 여의도동 17-4번지",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "10세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950037&pblancNo=2026950037&houseSecd=02",
+		"in_date": "20260516",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "파크라움 여의도",
+		"addr": "서울특별시 영등포구 여의도동 17-4번지",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "10세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950037&pblancNo=2026950037&houseSecd=02",
+		"in_date": "20260517",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "파크라움 여의도",
+		"addr": "서울특별시 영등포구 여의도동 17-4번지",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "10세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000147&pblancNo=2026000147&houseSecd=01",
+		"in_date": "20260518",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "힐스테이트 구월아트파크",
+		"addr": "인천광역시 남동구 구월동 1455번지",
+		"short_addr": "인천광역시 남동구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "남동구",
+		"apply_nums": "496세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000174&pblancNo=2026000174&houseSecd=01",
 		"in_date": "20260518",
 		"hsecd": "01",
@@ -1361,5 +1496,57 @@
 		"addr_lv1": "대구광역시",
 		"addr_lv2": "중구",
 		"apply_nums": "299세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950037&pblancNo=2026950037&houseSecd=02",
+		"in_date": "20260518",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "파크라움 여의도",
+		"addr": "서울특별시 영등포구 여의도동 17-4번지",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "10세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000147&pblancNo=2026000147&houseSecd=01",
+		"in_date": "20260519",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "힐스테이트 구월아트파크",
+		"addr": "인천광역시 남동구 구월동 1455번지",
+		"short_addr": "인천광역시 남동구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "남동구",
+		"apply_nums": "496세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950037&pblancNo=2026950037&houseSecd=02",
+		"in_date": "20260519",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "파크라움 여의도",
+		"addr": "서울특별시 영등포구 여의도동 17-4번지",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "10세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000147&pblancNo=2026000147&houseSecd=01",
+		"in_date": "20260520",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "힐스테이트 구월아트파크",
+		"addr": "인천광역시 남동구 구월동 1455번지",
+		"short_addr": "인천광역시 남동구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "남동구",
+		"apply_nums": "496세대"
 	}
 ]
