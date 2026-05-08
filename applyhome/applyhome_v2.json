@@ -1,57 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000090&pblancNo=2026000090&houseSecd=01",
-		"in_date": "20260505",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "소제지구 A3BL 중흥S-클래스 우미린",
-		"addr": "전라남도 여수시 소호동 828번지 일원 여수소제지구 A3블록",
-		"short_addr": "전라남도 여수시",
-		"addr_lv1": "전라남도",
-		"addr_lv2": "여수시",
-		"apply_nums": "1095세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000091&pblancNo=2026000091&houseSecd=01",
-		"in_date": "20260505",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "소제지구 A4BL 중흥S-클래스 우미린",
-		"addr": "전라남도 여수시 소호동 828번지 일원 여수소제지구 A4블록",
-		"short_addr": "전라남도 여수시",
-		"addr_lv1": "전라남도",
-		"addr_lv2": "여수시",
-		"apply_nums": "584세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950036&pblancNo=2026950036&houseSecd=02",
-		"in_date": "20260505",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "광명 퍼스트 스위첸",
-		"addr": "경기도 광명시 광명동 344번지",
-		"short_addr": "경기도 광명시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "광명시",
-		"apply_nums": "5세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910100&pblancNo=2026910100&houseSecd=04",
-		"in_date": "20260505",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "해링턴플레이스 노원 센트럴",
-		"addr": "서울특별시 노원구 노원로 495 (상계동 690)",
-		"short_addr": "서울특별시 노원구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "노원구",
-		"apply_nums": "58세대"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000129&pblancNo=2026000129&houseSecd=01",
 		"in_date": "20260506",
 		"hsecd": "01",
@@ -1303,6 +1251,32 @@
 		"apply_nums": "288세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000178&pblancNo=2026000178&houseSecd=01",
+		"in_date": "20260518",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "중앙하이츠 원종역",
+		"addr": "경기도 부천시 오정구 원종동 276-2",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "78세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000132&pblancNo=2026000132&houseSecd=01",
+		"in_date": "20260518",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "청주 한양립스 더 벨루체",
+		"addr": "충청북도 청주시 상당구 지북동 247번지 외 83필지",
+		"short_addr": "충청북도 청주시",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "청주시",
+		"apply_nums": "417세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000147&pblancNo=2026000147&houseSecd=01",
 		"in_date": "20260518",
 		"hsecd": "01",
@@ -1433,6 +1407,32 @@
 		"apply_nums": "288세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000178&pblancNo=2026000178&houseSecd=01",
+		"in_date": "20260519",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "중앙하이츠 원종역",
+		"addr": "경기도 부천시 오정구 원종동 276-2",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "78세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000132&pblancNo=2026000132&houseSecd=01",
+		"in_date": "20260519",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "청주 한양립스 더 벨루체",
+		"addr": "충청북도 청주시 상당구 지북동 247번지 외 83필지",
+		"short_addr": "충청북도 청주시",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "청주시",
+		"apply_nums": "417세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000147&pblancNo=2026000147&houseSecd=01",
 		"in_date": "20260519",
 		"hsecd": "01",
@@ -1548,6 +1548,32 @@
 		"addr_lv1": "부산광역시",
 		"addr_lv2": "북구",
 		"apply_nums": "288세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000178&pblancNo=2026000178&houseSecd=01",
+		"in_date": "20260520",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "중앙하이츠 원종역",
+		"addr": "경기도 부천시 오정구 원종동 276-2",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "78세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000132&pblancNo=2026000132&houseSecd=01",
+		"in_date": "20260520",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "청주 한양립스 더 벨루체",
+		"addr": "충청북도 청주시 상당구 지북동 247번지 외 83필지",
+		"short_addr": "충청북도 청주시",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "청주시",
+		"apply_nums": "417세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000147&pblancNo=2026000147&houseSecd=01",
