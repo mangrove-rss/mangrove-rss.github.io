@@ -1,146 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000133&pblancNo=2026000133&houseSecd=01",
-		"in_date": "20260508",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "더샵 시에르네(조합원 취소분)",
-		"addr": "울산광역시 중구 학성동 397-1번지 일원",
-		"short_addr": "울산광역시 중구",
-		"addr_lv1": "울산광역시",
-		"addr_lv2": "중구",
-		"apply_nums": "36세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000156&pblancNo=2026000156&houseSecd=01",
-		"in_date": "20260508",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "더 리치먼드 미아",
-		"addr": "서울특별시 강북구 미아동 703-13번지",
-		"short_addr": "서울특별시 강북구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강북구",
-		"apply_nums": "99세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000129&pblancNo=2026000129&houseSecd=01",
-		"in_date": "20260508",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "더샵 관저아르테",
-		"addr": "대전광역시 서구 관저동 1988번지",
-		"short_addr": "대전광역시 서구",
-		"addr_lv1": "대전광역시",
-		"addr_lv2": "서구",
-		"apply_nums": "951세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000090&pblancNo=2026000090&houseSecd=01",
-		"in_date": "20260508",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "소제지구 A3BL 중흥S-클래스 우미린",
-		"addr": "전라남도 여수시 소호동 828번지 일원 여수소제지구 A3블록",
-		"short_addr": "전라남도 여수시",
-		"addr_lv1": "전라남도",
-		"addr_lv2": "여수시",
-		"apply_nums": "1095세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000091&pblancNo=2026000091&houseSecd=01",
-		"in_date": "20260508",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "소제지구 A4BL 중흥S-클래스 우미린",
-		"addr": "전라남도 여수시 소호동 828번지 일원 여수소제지구 A4블록",
-		"short_addr": "전라남도 여수시",
-		"addr_lv1": "전라남도",
-		"addr_lv2": "여수시",
-		"apply_nums": "584세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000149&pblancNo=2026000149&houseSecd=01",
-		"in_date": "20260508",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "엘리프 성성호수공원 1BL",
-		"addr": "충청남도 천안시 서북구 업성동 업성2구역 1BL",
-		"short_addr": "충청남도 천안시",
-		"addr_lv1": "충청남도",
-		"addr_lv2": "천안시",
-		"apply_nums": "546세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000150&pblancNo=2026000150&houseSecd=01",
-		"in_date": "20260508",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "엘리프 성성호수공원 2BL",
-		"addr": "충청남도 천안시 서북구 업성동 업성2구역 2BL",
-		"short_addr": "충청남도 천안시",
-		"addr_lv1": "충청남도",
-		"addr_lv2": "천안시",
-		"apply_nums": "560세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000088&pblancNo=2026000088&houseSecd=01",
-		"in_date": "20260508",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "용인 양지 서희스타힐스 하이뷰",
-		"addr": "경기도 용인시 처인구 양지읍 양지리 산105-8번지 일원",
-		"short_addr": "경기도 용인시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "용인시",
-		"apply_nums": "547세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000102&pblancNo=2026000102&houseSecd=01",
-		"in_date": "20260508",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "울산신복역 비스타 메트로",
-		"addr": "울산광역시 남구 무거동 822-1번지 일원",
-		"short_addr": "울산광역시 남구",
-		"addr_lv1": "울산광역시",
-		"addr_lv2": "남구",
-		"apply_nums": "481세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940087&pblancNo=2026940087&houseSecd=11",
-		"in_date": "20260508",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "더샵 분당센트로"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940088&pblancNo=2026940088&houseSecd=11",
-		"in_date": "20260508",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "송도 한내들 센트럴리버"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940090&pblancNo=2026940090&houseSecd=11",
-		"in_date": "20260508",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "힐스테이트 용인마크밸리(8차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940087&pblancNo=2026940087&houseSecd=11",
 		"in_date": "20260509",
 		"hsecd": "11",
@@ -819,6 +678,19 @@
 		"apply_nums": "299세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950050&pblancNo=2026950050&houseSecd=02",
+		"in_date": "20260515",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "영통역 우미 린",
+		"addr": "경기도 수원시 영통구 영통동 999-2",
+		"short_addr": "경기도 수원시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "수원시",
+		"apply_nums": "82세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950037&pblancNo=2026950037&houseSecd=02",
 		"in_date": "20260515",
 		"hsecd": "02",
@@ -840,6 +712,19 @@
 		"name": "용인 푸르지오 원클러스터파크(3차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950050&pblancNo=2026950050&houseSecd=02",
+		"in_date": "20260516",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "영통역 우미 린",
+		"addr": "경기도 수원시 영통구 영통동 999-2",
+		"short_addr": "경기도 수원시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "수원시",
+		"apply_nums": "82세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950037&pblancNo=2026950037&houseSecd=02",
 		"in_date": "20260516",
 		"hsecd": "02",
@@ -859,6 +744,19 @@
 		"rse": "11",
 		"type": "",
 		"name": "용인 푸르지오 원클러스터파크(3차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950050&pblancNo=2026950050&houseSecd=02",
+		"in_date": "20260517",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "영통역 우미 린",
+		"addr": "경기도 수원시 영통구 영통동 999-2",
+		"short_addr": "경기도 수원시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "수원시",
+		"apply_nums": "82세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950037&pblancNo=2026950037&houseSecd=02",
@@ -947,6 +845,27 @@
 		"apply_nums": "299세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850028&pblancNo=2026850028&houseSecd=03",
+		"in_date": "20260518",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "부경경마공원역 대방 디에트르 더리버(AP1BL)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950050&pblancNo=2026950050&houseSecd=02",
+		"in_date": "20260518",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "영통역 우미 린",
+		"addr": "경기도 수원시 영통구 영통동 999-2",
+		"short_addr": "경기도 수원시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "수원시",
+		"apply_nums": "82세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950037&pblancNo=2026950037&houseSecd=02",
 		"in_date": "20260518",
 		"hsecd": "02",
@@ -971,6 +890,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "영등포구",
 		"apply_nums": "6세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910109&pblancNo=2026910109&houseSecd=04",
+		"in_date": "20260518",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "르네오션 고성 퍼스트뷰",
+		"addr": "강원특별자치도 고성군 토성면 청간리 1번지 외 16필지",
+		"short_addr": "강원특별자치도 고성군",
+		"addr_lv1": "강원특별자치도",
+		"addr_lv2": "고성군",
+		"apply_nums": "63세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026930018&pblancNo=2026930018&houseSecd=06",
@@ -1124,6 +1056,27 @@
 		"apply_nums": "496세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850028&pblancNo=2026850028&houseSecd=03",
+		"in_date": "20260519",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "부경경마공원역 대방 디에트르 더리버(AP1BL)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950050&pblancNo=2026950050&houseSecd=02",
+		"in_date": "20260519",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "영통역 우미 린",
+		"addr": "경기도 수원시 영통구 영통동 999-2",
+		"short_addr": "경기도 수원시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "수원시",
+		"apply_nums": "82세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950037&pblancNo=2026950037&houseSecd=02",
 		"in_date": "20260519",
 		"hsecd": "02",
@@ -1148,6 +1101,14 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "영등포구",
 		"apply_nums": "6세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940095&pblancNo=2026940095&houseSecd=11",
+		"in_date": "20260519",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "왕길역 아테라(4차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940091&pblancNo=2026940091&houseSecd=11",
@@ -1288,6 +1249,27 @@
 		"apply_nums": "496세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940095&pblancNo=2026940095&houseSecd=11",
+		"in_date": "20260520",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "왕길역 아테라(4차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000098&pblancNo=2026000098&houseSecd=01",
+		"in_date": "20260521",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "식사 푸르지오 파크센트(조합원 취소분)",
+		"addr": "경기도 고양시 일산동구 식사동 1126번지 일대",
+		"short_addr": "경기도 고양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "고양시",
+		"apply_nums": "23세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000169&pblancNo=2026000169&houseSecd=01",
 		"in_date": "20260521",
 		"hsecd": "01",
@@ -1364,5 +1346,31 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "연수구",
 		"apply_nums": "100세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000098&pblancNo=2026000098&houseSecd=01",
+		"in_date": "20260522",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "식사 푸르지오 파크센트(조합원 취소분)",
+		"addr": "경기도 고양시 일산동구 식사동 1126번지 일대",
+		"short_addr": "경기도 고양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "고양시",
+		"apply_nums": "23세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000098&pblancNo=2026000098&houseSecd=01",
+		"in_date": "20260526",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "식사 푸르지오 파크센트(조합원 취소분)",
+		"addr": "경기도 고양시 일산동구 식사동 1126번지 일대",
+		"short_addr": "경기도 고양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "고양시",
+		"apply_nums": "23세대"
 	}
 ]
