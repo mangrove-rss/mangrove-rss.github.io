@@ -1,234 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000154&pblancNo=2026000154&houseSecd=01",
-		"in_date": "20260512",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "고덕국제신도시 수자인풍경채 1단지",
-		"addr": "경기도 평택시 고덕국제화계획지구 Abc-14블록",
-		"short_addr": "경기도 평택시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "평택시",
-		"apply_nums": "670세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000155&pblancNo=2026000155&houseSecd=01",
-		"in_date": "20260512",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "고덕국제신도시 수자인풍경채 2단지",
-		"addr": "경기도 평택시 고덕국제화계획지구 Abc-61블록",
-		"short_addr": "경기도 평택시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "평택시",
-		"apply_nums": "456세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000053&pblancNo=2026000053&houseSecd=01",
-		"in_date": "20260512",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "공주월송 진아레히",
-		"addr": "충청남도 공주시 금흥2지구 A1블럭(금흥동 39-4번지 일원)",
-		"short_addr": "충청남도 공주시",
-		"addr_lv1": "충청남도",
-		"addr_lv2": "공주시",
-		"apply_nums": "811세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000111&pblancNo=2026000111&houseSecd=01",
-		"in_date": "20260512",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "더 플래티넘 파인애비뉴",
-		"addr": "경기도 평택시 팽성읍 송화리 123번지 일원",
-		"short_addr": "경기도 평택시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "평택시",
-		"apply_nums": "321세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000163&pblancNo=2026000163&houseSecd=01",
-		"in_date": "20260512",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "메트로시티 자산 데시앙",
-		"addr": "경상남도 창원시 마산합포구 자산동 83-2번지 일원",
-		"short_addr": "경상남도 창원시",
-		"addr_lv1": "경상남도",
-		"addr_lv2": "창원시",
-		"apply_nums": "739세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000170&pblancNo=2026000170&houseSecd=01",
-		"in_date": "20260512",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "상주북천 하늘채 파크원",
-		"addr": "경상북도 상주시 냉림동 53번지 일원",
-		"short_addr": "경상북도 상주시",
-		"addr_lv1": "경상북도",
-		"addr_lv2": "상주시",
-		"apply_nums": "466세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000125&pblancNo=2026000125&houseSecd=01",
-		"in_date": "20260512",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "안양 에버포레 자연앤 e편한세상(A1BL)",
-		"addr": "경기도 안양시 동안구 관양동 521번지 일원 (안양 관양고 주변 도시개발사업 내 A1BL)",
-		"short_addr": "경기도 안양시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "안양시",
-		"apply_nums": "60세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000126&pblancNo=2026000126&houseSecd=01",
-		"in_date": "20260512",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "안양 에버포레 자연앤 e편한세상(A2BL)",
-		"addr": "경기도 안양시 동안구 관양동 521번지 일원 (안양 관양고 주변 도시개발사업 내 A2BL)",
-		"short_addr": "경기도 안양시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "안양시",
-		"apply_nums": "344세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000156&pblancNo=2026000156&houseSecd=01",
-		"in_date": "20260512",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "더 리치먼드 미아",
-		"addr": "서울특별시 강북구 미아동 703-13번지",
-		"short_addr": "서울특별시 강북구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강북구",
-		"apply_nums": "99세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000133&pblancNo=2026000133&houseSecd=01",
-		"in_date": "20260512",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "더샵 시에르네(조합원 취소분)",
-		"addr": "울산광역시 중구 학성동 397-1번지 일원",
-		"short_addr": "울산광역시 중구",
-		"addr_lv1": "울산광역시",
-		"addr_lv2": "중구",
-		"apply_nums": "36세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000185&pblancNo=2026000185&houseSecd=01",
-		"in_date": "20260512",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "덕진 거제의 봄 우선분양전환 후 공가세대",
-		"addr": "경상남도 거제시 아주2로 110 (아주동, 덕진 거제의봄 프리미엄 아파트)",
-		"short_addr": "경상남도 거제시",
-		"addr_lv1": "경상남도",
-		"addr_lv2": "거제시",
-		"apply_nums": "376세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950039&pblancNo=2026950039&houseSecd=02",
-		"in_date": "20260512",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "강동 리버스시티",
-		"addr": "서울특별시 강동구 천호동 557번지",
-		"short_addr": "서울특별시 강동구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강동구",
-		"apply_nums": "18세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950047&pblancNo=2026950047&houseSecd=02",
-		"in_date": "20260512",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "동탄2신도시 대방 엘리움 레이크파크",
-		"addr": "경기도 화성시 송동 725-9번지",
-		"short_addr": "경기도 화성시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "화성시",
-		"apply_nums": "6세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950046&pblancNo=2026950046&houseSecd=02",
-		"in_date": "20260512",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "동탄2신도시 동탄역 디에트르 퍼스티지",
-		"addr": "경기도 화성시 여울동 979번지",
-		"short_addr": "경기도 화성시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "화성시",
-		"apply_nums": "5세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950045&pblancNo=2026950045&houseSecd=02",
-		"in_date": "20260512",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "해링턴 스퀘어 과천",
-		"addr": "경기도 과천시 과천지식정보타운 공공주택지구 일반상업 5BL",
-		"short_addr": "경기도 과천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "과천시",
-		"apply_nums": "51세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910105&pblancNo=2026910105&houseSecd=04",
-		"in_date": "20260512",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "엄궁역 트라비스 하늘채",
-		"addr": "부산광역시 사상구 엄궁동 412번지 일원",
-		"short_addr": "부산광역시 사상구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "사상구",
-		"apply_nums": "272세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026930015&pblancNo=2026930015&houseSecd=06",
-		"in_date": "20260512",
-		"hsecd": "06",
-		"rse": "07",
-		"type": "",
-		"name": "래미안 라그란데",
-		"addr": "서울특별시 동대문구 이문로35길 12, 래미안 라그란데",
-		"short_addr": "서울특별시 동대문구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "동대문구",
-		"apply_nums": "2세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940090&pblancNo=2026940090&houseSecd=11",
-		"in_date": "20260512",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "힐스테이트 용인마크밸리(8차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000125&pblancNo=2026000125&houseSecd=01",
 		"in_date": "20260513",
 		"hsecd": "01",
@@ -1411,6 +1182,32 @@
 		"apply_nums": "601세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000217&pblancNo=2026000217&houseSecd=01",
+		"in_date": "20260526",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "동래사적공원 오네뜨",
+		"addr": "부산광역시 동래구 명륜동 115-8번지 일원",
+		"short_addr": "부산광역시 동래구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "동래구",
+		"apply_nums": "110세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000120&pblancNo=2026000120&houseSecd=01",
+		"in_date": "20260526",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "써밋 더힐",
+		"addr": "서울특별시 동작구 흑석동 304번지 일원",
+		"short_addr": "서울특별시 동작구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "동작구",
+		"apply_nums": "432세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000116&pblancNo=2026000116&houseSecd=01",
 		"in_date": "20260526",
 		"hsecd": "01",
@@ -1476,6 +1273,19 @@
 		"apply_nums": "23세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000138&pblancNo=2026000138&houseSecd=01",
+		"in_date": "20260527",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "힐스테이트 시흥더클래스",
+		"addr": "경기도 시흥시 대야동 140-5번지 일원",
+		"short_addr": "경기도 시흥시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "시흥시",
+		"apply_nums": "430세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000162&pblancNo=2026000162&houseSecd=01",
 		"in_date": "20260527",
 		"hsecd": "01",
@@ -1487,6 +1297,32 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "서구",
 		"apply_nums": "601세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000217&pblancNo=2026000217&houseSecd=01",
+		"in_date": "20260527",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "동래사적공원 오네뜨",
+		"addr": "부산광역시 동래구 명륜동 115-8번지 일원",
+		"short_addr": "부산광역시 동래구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "동래구",
+		"apply_nums": "110세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000120&pblancNo=2026000120&houseSecd=01",
+		"in_date": "20260527",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "써밋 더힐",
+		"addr": "서울특별시 동작구 흑석동 304번지 일원",
+		"short_addr": "서울특별시 동작구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "동작구",
+		"apply_nums": "432세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000116&pblancNo=2026000116&houseSecd=01",
@@ -1541,6 +1377,19 @@
 		"apply_nums": "99세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000120&pblancNo=2026000120&houseSecd=01",
+		"in_date": "20260528",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "써밋 더힐",
+		"addr": "서울특별시 동작구 흑석동 304번지 일원",
+		"short_addr": "서울특별시 동작구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "동작구",
+		"apply_nums": "432세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000116&pblancNo=2026000116&houseSecd=01",
 		"in_date": "20260528",
 		"hsecd": "01",
@@ -1554,6 +1403,19 @@
 		"apply_nums": "285세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000138&pblancNo=2026000138&houseSecd=01",
+		"in_date": "20260528",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "힐스테이트 시흥더클래스",
+		"addr": "경기도 시흥시 대야동 140-5번지 일원",
+		"short_addr": "경기도 시흥시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "시흥시",
+		"apply_nums": "430세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000162&pblancNo=2026000162&houseSecd=01",
 		"in_date": "20260528",
 		"hsecd": "01",
@@ -1565,6 +1427,19 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "서구",
 		"apply_nums": "601세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000217&pblancNo=2026000217&houseSecd=01",
+		"in_date": "20260528",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "동래사적공원 오네뜨",
+		"addr": "부산광역시 동래구 명륜동 115-8번지 일원",
+		"short_addr": "부산광역시 동래구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "동래구",
+		"apply_nums": "110세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000187&pblancNo=2026000187&houseSecd=01",
@@ -1604,6 +1479,19 @@
 		"addr_lv1": "부산광역시",
 		"addr_lv2": "해운대구",
 		"apply_nums": "99세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000120&pblancNo=2026000120&houseSecd=01",
+		"in_date": "20260529",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "써밋 더힐",
+		"addr": "서울특별시 동작구 흑석동 304번지 일원",
+		"short_addr": "서울특별시 동작구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "동작구",
+		"apply_nums": "432세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000116&pblancNo=2026000116&houseSecd=01",
@@ -1617,5 +1505,18 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "동작구",
 		"apply_nums": "285세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000138&pblancNo=2026000138&houseSecd=01",
+		"in_date": "20260529",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "힐스테이트 시흥더클래스",
+		"addr": "경기도 시흥시 대야동 140-5번지 일원",
+		"short_addr": "경기도 시흥시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "시흥시",
+		"apply_nums": "430세대"
 	}
 ]
