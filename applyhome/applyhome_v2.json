@@ -1,53 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000174&pblancNo=2026000174&houseSecd=01",
-		"in_date": "20260514",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "더샵 중앙로역센터폴",
-		"addr": "대구광역시 중구 사일동 15-1 일원",
-		"short_addr": "대구광역시 중구",
-		"addr_lv1": "대구광역시",
-		"addr_lv2": "중구",
-		"apply_nums": "299세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000125&pblancNo=2026000125&houseSecd=01",
-		"in_date": "20260514",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "안양 에버포레 자연앤 e편한세상(A1BL)",
-		"addr": "경기도 안양시 동안구 관양동 521번지 일원 (안양 관양고 주변 도시개발사업 내 A1BL)",
-		"short_addr": "경기도 안양시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "안양시",
-		"apply_nums": "60세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000126&pblancNo=2026000126&houseSecd=01",
-		"in_date": "20260514",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "안양 에버포레 자연앤 e편한세상(A2BL)",
-		"addr": "경기도 안양시 동안구 관양동 521번지 일원 (안양 관양고 주변 도시개발사업 내 A2BL)",
-		"short_addr": "경기도 안양시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "안양시",
-		"apply_nums": "344세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850025&pblancNo=2026850025&houseSecd=03",
-		"in_date": "20260514",
-		"hsecd": "03",
-		"rse": "04",
-		"type": "",
-		"name": "서면 지원 더뷰 드림아파트(공공지원민간임대)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000174&pblancNo=2026000174&houseSecd=01",
 		"in_date": "20260515",
 		"hsecd": "01",
 		"rse": "02",
@@ -950,6 +903,19 @@
 		"apply_nums": "24세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910115&pblancNo=2026910115&houseSecd=04",
+		"in_date": "20260521",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "옥정중앙역 대방 디에트르(중상1, 복합1BL)",
+		"addr": "경기도 양주시 옥정동 962-9, 962-8번지(옥정지구 중상1, 복합1블럭)",
+		"short_addr": "경기도 양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "양주시",
+		"apply_nums": "379세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910112&pblancNo=2026910112&houseSecd=04",
 		"in_date": "20260521",
 		"hsecd": "04",
@@ -969,6 +935,14 @@
 		"rse": "11",
 		"type": "",
 		"name": "리아츠 더 인천(19차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940097&pblancNo=2026940097&houseSecd=11",
+		"in_date": "20260521",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "파주 운정신도시 A2블록 호반써밋 이스트파크(4차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000098&pblancNo=2026000098&houseSecd=01",
