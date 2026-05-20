@@ -1,39 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950050&pblancNo=2026950050&houseSecd=02",
-		"in_date": "20260517",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "영통역 우미 린",
-		"addr": "경기도 수원시 영통구 영통동 999-2",
-		"short_addr": "경기도 수원시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "수원시",
-		"apply_nums": "82세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950037&pblancNo=2026950037&houseSecd=02",
-		"in_date": "20260517",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "파크라움 여의도",
-		"addr": "서울특별시 영등포구 여의도동 17-4번지",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "10세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940091&pblancNo=2026940091&houseSecd=11",
-		"in_date": "20260517",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "용인 푸르지오 원클러스터파크(3차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000172&pblancNo=2026000172&houseSecd=01",
 		"in_date": "20260518",
 		"hsecd": "01",
@@ -1008,6 +974,45 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "안양시",
 		"apply_nums": "85세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910116&pblancNo=2026910116&houseSecd=04",
+		"in_date": "20260526",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "더샵 안동더퍼스트",
+		"addr": "경상북도 안동시 옥동 1069번지 일원",
+		"short_addr": "경상북도 안동시",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "안동시",
+		"apply_nums": "70세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910117&pblancNo=2026910117&houseSecd=04",
+		"in_date": "20260526",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "도안자이 센텀리체 1단지",
+		"addr": "대전광역시 유성구 도안 2-8지구 26블록(유성구 용계동 267-3번지 일원)",
+		"short_addr": "대전광역시 유성구",
+		"addr_lv1": "대전광역시",
+		"addr_lv2": "유성구",
+		"apply_nums": "660세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910118&pblancNo=2026910118&houseSecd=04",
+		"in_date": "20260526",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "도안자이 센텀리체 2단지",
+		"addr": "대전광역시 유성구 도안 2-6지구 30블록(유성구 용계동 299-7번지 일원)",
+		"short_addr": "대전광역시 유성구",
+		"addr_lv1": "대전광역시",
+		"addr_lv2": "유성구",
+		"apply_nums": "657세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910121&pblancNo=2026910121&houseSecd=04",
