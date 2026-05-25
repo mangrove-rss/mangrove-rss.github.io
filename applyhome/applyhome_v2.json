@@ -1,26 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000098&pblancNo=2026000098&houseSecd=01",
-		"in_date": "20260522",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "식사 푸르지오 파크센트(조합원 취소분)",
-		"addr": "경기도 고양시 일산동구 식사동 1126번지 일대",
-		"short_addr": "경기도 고양시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "고양시",
-		"apply_nums": "23세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940094&pblancNo=2026940094&houseSecd=11",
-		"in_date": "20260522",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "중흥S-클래스 힐더포레(4차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000162&pblancNo=2026000162&houseSecd=01",
 		"in_date": "20260526",
 		"hsecd": "01",
@@ -476,6 +455,14 @@
 		"apply_nums": "99세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940105&pblancNo=2026940105&houseSecd=11",
+		"in_date": "20260528",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "용인 푸르지오 원클러스터파크(4차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000122&pblancNo=2026000122&houseSecd=01",
 		"in_date": "20260529",
 		"hsecd": "01",
@@ -526,6 +513,30 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "시흥시",
 		"apply_nums": "430세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940105&pblancNo=2026940105&houseSecd=11",
+		"in_date": "20260529",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "용인 푸르지오 원클러스터파크(4차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940105&pblancNo=2026940105&houseSecd=11",
+		"in_date": "20260530",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "용인 푸르지오 원클러스터파크(4차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940105&pblancNo=2026940105&houseSecd=11",
+		"in_date": "20260531",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "용인 푸르지오 원클러스터파크(4차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000173&pblancNo=2026000173&houseSecd=01",
@@ -604,6 +615,14 @@
 		"addr_lv1": "부산광역시",
 		"addr_lv2": "연제구",
 		"apply_nums": "3세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940105&pblancNo=2026940105&houseSecd=11",
+		"in_date": "20260601",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "용인 푸르지오 원클러스터파크(4차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000173&pblancNo=2026000173&houseSecd=01",
