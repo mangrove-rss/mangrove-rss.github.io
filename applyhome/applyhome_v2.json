@@ -779,6 +779,19 @@
 		"apply_nums": "98세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910132&pblancNo=2026910132&houseSecd=04",
+		"in_date": "20260602",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "인천 영종하늘도시 A25블록 대성베르힐(3차)",
+		"addr": "인천광역시 중구 운남동 1709-1번지(영종 A25블록)",
+		"short_addr": "인천광역시 중구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "5세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950051&pblancNo=2026950051&houseSecd=02",
 		"in_date": "20260603",
 		"hsecd": "02",
@@ -842,5 +855,44 @@
 		"addr_lv1": "김포",
 		"addr_lv2": "풍무역세권",
 		"apply_nums": "98세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000097&pblancNo=2026000097&houseSecd=01",
+		"in_date": "20260608",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "강릉 성보필리오 더센트럴힐즈",
+		"addr": "강원특별자치도 강릉시 홍제동 265-18번지 외 45필지",
+		"short_addr": "강원특별자치도 강릉시",
+		"addr_lv1": "강원특별자치도",
+		"addr_lv2": "강릉시",
+		"apply_nums": "148세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000097&pblancNo=2026000097&houseSecd=01",
+		"in_date": "20260609",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "강릉 성보필리오 더센트럴힐즈",
+		"addr": "강원특별자치도 강릉시 홍제동 265-18번지 외 45필지",
+		"short_addr": "강원특별자치도 강릉시",
+		"addr_lv1": "강원특별자치도",
+		"addr_lv2": "강릉시",
+		"apply_nums": "148세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000097&pblancNo=2026000097&houseSecd=01",
+		"in_date": "20260610",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "강릉 성보필리오 더센트럴힐즈",
+		"addr": "강원특별자치도 강릉시 홍제동 265-18번지 외 45필지",
+		"short_addr": "강원특별자치도 강릉시",
+		"addr_lv1": "강원특별자치도",
+		"addr_lv2": "강릉시",
+		"apply_nums": "148세대"
 	}
 ]
