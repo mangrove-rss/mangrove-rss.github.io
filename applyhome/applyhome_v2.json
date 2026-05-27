@@ -463,6 +463,14 @@
 		"name": "용인 푸르지오 원클러스터파크(4차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940104&pblancNo=2026940104&houseSecd=11",
+		"in_date": "20260528",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "풍무역 롯데캐슬 시그니처"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000122&pblancNo=2026000122&houseSecd=01",
 		"in_date": "20260529",
 		"hsecd": "01",
@@ -591,6 +599,40 @@
 		"apply_nums": "48세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850029&pblancNo=2026850029&houseSecd=03",
+		"in_date": "20260601",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "여수의 봄 더퍼스트 아파트(공공지원민간임대)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950053&pblancNo=2026950053&houseSecd=02",
+		"in_date": "20260601",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "동탄2신도시 대방 엘리움 레이크파크",
+		"addr": "경기도 화성시 송동 725-9번지",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "6세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950054&pblancNo=2026950054&houseSecd=02",
+		"in_date": "20260601",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "동탄2신도시 동탄역 디에트르 퍼스티지",
+		"addr": "경기도 화성시 여울동 979번지",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "5세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950051&pblancNo=2026950051&houseSecd=02",
 		"in_date": "20260601",
 		"hsecd": "02",
@@ -602,6 +644,19 @@
 		"addr_lv1": "김포",
 		"addr_lv2": "풍무역세권",
 		"apply_nums": "98세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910126&pblancNo=2026910126&houseSecd=04",
+		"in_date": "20260601",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "두산위브더제니스 구미(조합원취소분)",
+		"addr": "경상북도 구미시 광평동 227번지 일원",
+		"short_addr": "경상북도 구미시",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "구미시",
+		"apply_nums": "3세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026930017&pblancNo=2026930017&houseSecd=06",
@@ -675,6 +730,40 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "부천시",
 		"apply_nums": "48세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850029&pblancNo=2026850029&houseSecd=03",
+		"in_date": "20260602",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "여수의 봄 더퍼스트 아파트(공공지원민간임대)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950053&pblancNo=2026950053&houseSecd=02",
+		"in_date": "20260602",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "동탄2신도시 대방 엘리움 레이크파크",
+		"addr": "경기도 화성시 송동 725-9번지",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "6세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950054&pblancNo=2026950054&houseSecd=02",
+		"in_date": "20260602",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "동탄2신도시 동탄역 디에트르 퍼스티지",
+		"addr": "경기도 화성시 여울동 979번지",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "5세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950051&pblancNo=2026950051&houseSecd=02",
