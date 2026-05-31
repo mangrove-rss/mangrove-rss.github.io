@@ -1,201 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000120&pblancNo=2026000120&houseSecd=01",
-		"in_date": "20260528",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "써밋 더힐",
-		"addr": "서울특별시 동작구 흑석동 304번지 일원",
-		"short_addr": "서울특별시 동작구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "동작구",
-		"apply_nums": "432세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000116&pblancNo=2026000116&houseSecd=01",
-		"in_date": "20260528",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "아크로 리버스카이",
-		"addr": "서울특별시 동작구 대방동 23-61번지 일대",
-		"short_addr": "서울특별시 동작구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "동작구",
-		"apply_nums": "285세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000138&pblancNo=2026000138&houseSecd=01",
-		"in_date": "20260528",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "힐스테이트 시흥더클래스",
-		"addr": "경기도 시흥시 대야동 140-5번지 일원",
-		"short_addr": "경기도 시흥시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "시흥시",
-		"apply_nums": "430세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000162&pblancNo=2026000162&houseSecd=01",
-		"in_date": "20260528",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "검암역자이르네",
-		"addr": "인천광역시 서구 경서동 4-8번지 일원 (검암역세권 B-2블록)",
-		"short_addr": "인천광역시 서구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "서구",
-		"apply_nums": "601세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000217&pblancNo=2026000217&houseSecd=01",
-		"in_date": "20260528",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "동래사적공원 오네뜨",
-		"addr": "부산광역시 동래구 명륜동 115-8번지 일원",
-		"short_addr": "부산광역시 동래구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "동래구",
-		"apply_nums": "110세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000187&pblancNo=2026000187&houseSecd=01",
-		"in_date": "20260528",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "엘리프 역곡",
-		"addr": "경기도 부천시 소사구 괴안동 106-1번지 일원",
-		"short_addr": "경기도 부천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "부천시",
-		"apply_nums": "44세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2025000422&pblancNo=2025000422&houseSecd=01",
-		"in_date": "20260528",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "오남역 서희스타힐스 여의재 3단지",
-		"addr": "경기도 남양주시 오남읍 양지리 186-10번지 일원",
-		"short_addr": "경기도 남양주시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "남양주시",
-		"apply_nums": "117세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000188&pblancNo=2026000188&houseSecd=01",
-		"in_date": "20260528",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "해운대 마티안 디 에디션",
-		"addr": "부산광역시 해운대구 중동 1615번지 일원",
-		"short_addr": "부산광역시 해운대구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "해운대구",
-		"apply_nums": "99세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940105&pblancNo=2026940105&houseSecd=11",
-		"in_date": "20260528",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "용인 푸르지오 원클러스터파크(4차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940104&pblancNo=2026940104&houseSecd=11",
-		"in_date": "20260528",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "풍무역 롯데캐슬 시그니처"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000122&pblancNo=2026000122&houseSecd=01",
-		"in_date": "20260529",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "오정 해모로 스마트시티(조합원 취소분)",
-		"addr": "경기도 부천시 오정구 오정동 613번지 일원",
-		"short_addr": "경기도 부천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "부천시",
-		"apply_nums": "48세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000120&pblancNo=2026000120&houseSecd=01",
-		"in_date": "20260529",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "써밋 더힐",
-		"addr": "서울특별시 동작구 흑석동 304번지 일원",
-		"short_addr": "서울특별시 동작구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "동작구",
-		"apply_nums": "432세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000116&pblancNo=2026000116&houseSecd=01",
-		"in_date": "20260529",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "아크로 리버스카이",
-		"addr": "서울특별시 동작구 대방동 23-61번지 일대",
-		"short_addr": "서울특별시 동작구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "동작구",
-		"apply_nums": "285세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000138&pblancNo=2026000138&houseSecd=01",
-		"in_date": "20260529",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "힐스테이트 시흥더클래스",
-		"addr": "경기도 시흥시 대야동 140-5번지 일원",
-		"short_addr": "경기도 시흥시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "시흥시",
-		"apply_nums": "430세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940105&pblancNo=2026940105&houseSecd=11",
-		"in_date": "20260529",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "용인 푸르지오 원클러스터파크(4차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940105&pblancNo=2026940105&houseSecd=11",
-		"in_date": "20260530",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "용인 푸르지오 원클러스터파크(4차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940105&pblancNo=2026940105&houseSecd=11",
-		"in_date": "20260531",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "용인 푸르지오 원클러스터파크(4차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000173&pblancNo=2026000173&houseSecd=01",
 		"in_date": "20260601",
 		"hsecd": "01",
@@ -532,6 +336,46 @@
 		"apply_nums": "54세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940103&pblancNo=2026940103&houseSecd=11",
+		"in_date": "20260604",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "고촌센트럴자이(11차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940106&pblancNo=2026940106&houseSecd=11",
+		"in_date": "20260604",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "수원이목지구 대방 디에트르 더 리체Ⅱ(A3BL) (16차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940103&pblancNo=2026940103&houseSecd=11",
+		"in_date": "20260605",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "고촌센트럴자이(11차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940106&pblancNo=2026940106&houseSecd=11",
+		"in_date": "20260605",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "수원이목지구 대방 디에트르 더 리체Ⅱ(A3BL) (16차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940109&pblancNo=2026940109&houseSecd=11",
+		"in_date": "20260605",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "옥정중앙역 대방 디에트르(중상1, 복합1BL)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000097&pblancNo=2026000097&houseSecd=01",
 		"in_date": "20260608",
 		"hsecd": "01",
@@ -558,6 +402,32 @@
 		"apply_nums": "572세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950052&pblancNo=2026950052&houseSecd=02",
+		"in_date": "20260608",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "풍무역 푸르지오 시티",
+		"addr": "경기도 김포시 풍무동 880번지",
+		"short_addr": "경기도 김포시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "김포시",
+		"apply_nums": "5세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910133&pblancNo=2026910133&houseSecd=04",
+		"in_date": "20260608",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "청주 푸르지오 씨엘리체",
+		"addr": "충청북도 청주시 서원구 미평동 54-3번지 일원",
+		"short_addr": "충청북도 청주시",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "청주시",
+		"apply_nums": "270세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000097&pblancNo=2026000097&houseSecd=01",
 		"in_date": "20260609",
 		"hsecd": "01",
@@ -582,6 +452,19 @@
 		"addr_lv1": "전북특별자치도",
 		"addr_lv2": "익산시",
 		"apply_nums": "572세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950052&pblancNo=2026950052&houseSecd=02",
+		"in_date": "20260609",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "풍무역 푸르지오 시티",
+		"addr": "경기도 김포시 풍무동 880번지",
+		"short_addr": "경기도 김포시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "김포시",
+		"apply_nums": "5세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000097&pblancNo=2026000097&houseSecd=01",
