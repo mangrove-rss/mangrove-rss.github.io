@@ -1,11 +1,11 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000173&pblancNo=2026000173&houseSecd=01",
 		"in_date": "20260601",
 		"hsecd": "01",
 		"rse": "01",
 		"type": "APT 특별공급",
 		"name": "더 리치먼드 리버센트 소양",
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000173&pblancNo=2026000173&houseSecd=01",
 		"addr": "강원특별자치도 춘천시 소양로1가 102-5, 102-6, 102-25",
 		"short_addr": "강원특별자치도 춘천시",
 		"addr_lv1": "강원특별자치도",
@@ -13,12 +13,12 @@
 		"apply_nums": "178세대"
 	},
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000205&pblancNo=2026000205&houseSecd=01",
 		"in_date": "20260601",
 		"hsecd": "01",
 		"rse": "01",
 		"type": "APT 특별공급",
 		"name": "수원역 아너스빌 타임원",
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000205&pblancNo=2026000205&houseSecd=01",
 		"addr": "경기도 수원시 권선구 평동 135-1번지 일원",
 		"short_addr": "경기도 수원시",
 		"addr_lv1": "경기도",
@@ -26,12 +26,12 @@
 		"apply_nums": "114세대"
 	},
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000219&pblancNo=2026000219&houseSecd=01",
 		"in_date": "20260601",
 		"hsecd": "01",
 		"rse": "01",
 		"type": "APT 특별공급",
 		"name": "호반써밋 풍무Ⅱ",
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000219&pblancNo=2026000219&houseSecd=01",
 		"addr": "김포 풍무역세권 C5블록 (경기도 김포시 사우동 527-1 일원)",
 		"short_addr": "김포 풍무역세권",
 		"addr_lv1": "김포",
@@ -39,12 +39,12 @@
 		"apply_nums": "961세대"
 	},
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000122&pblancNo=2026000122&houseSecd=01",
 		"in_date": "20260601",
 		"hsecd": "01",
 		"rse": "02",
 		"type": "APT 1순위",
 		"name": "오정 해모로 스마트시티(조합원 취소분)",
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000122&pblancNo=2026000122&houseSecd=01",
 		"addr": "경기도 부천시 오정구 오정동 613번지 일원",
 		"short_addr": "경기도 부천시",
 		"addr_lv1": "경기도",
@@ -52,20 +52,20 @@
 		"apply_nums": "48세대"
 	},
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850029&pblancNo=2026850029&houseSecd=03",
 		"in_date": "20260601",
 		"hsecd": "03",
 		"rse": "04",
 		"type": "",
-		"name": "여수의 봄 더퍼스트 아파트(공공지원민간임대)"
+		"name": "여수의 봄 더퍼스트 아파트(공공지원민간임대)",
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850029&pblancNo=2026850029&houseSecd=03"
 	},
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950053&pblancNo=2026950053&houseSecd=02",
 		"in_date": "20260601",
 		"hsecd": "02",
 		"rse": "05",
 		"type": "오피스텔/도시형생활주택/민간임대",
 		"name": "동탄2신도시 대방 엘리움 레이크파크",
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950053&pblancNo=2026950053&houseSecd=02",
 		"addr": "경기도 화성시 송동 725-9번지",
 		"short_addr": "경기도 화성시",
 		"addr_lv1": "경기도",
@@ -73,12 +73,12 @@
 		"apply_nums": "6세대"
 	},
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950054&pblancNo=2026950054&houseSecd=02",
 		"in_date": "20260601",
 		"hsecd": "02",
 		"rse": "05",
 		"type": "오피스텔/도시형생활주택/민간임대",
 		"name": "동탄2신도시 동탄역 디에트르 퍼스티지",
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950054&pblancNo=2026950054&houseSecd=02",
 		"addr": "경기도 화성시 여울동 979번지",
 		"short_addr": "경기도 화성시",
 		"addr_lv1": "경기도",
@@ -86,12 +86,12 @@
 		"apply_nums": "5세대"
 	},
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950051&pblancNo=2026950051&houseSecd=02",
 		"in_date": "20260601",
 		"hsecd": "02",
 		"rse": "05",
 		"type": "오피스텔/도시형생활주택/민간임대",
 		"name": "호반써밋 풍무Ⅱ",
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950051&pblancNo=2026950051&houseSecd=02",
 		"addr": "김포 풍무역세권 C5블록 (경기도 김포시 사우동 527-1 일원)",
 		"short_addr": "김포 풍무역세권",
 		"addr_lv1": "김포",
@@ -99,12 +99,12 @@
 		"apply_nums": "98세대"
 	},
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910126&pblancNo=2026910126&houseSecd=04",
 		"in_date": "20260601",
 		"hsecd": "04",
 		"rse": "06",
 		"type": "무순위/취소후재공급",
 		"name": "두산위브더제니스 구미(조합원취소분)",
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910126&pblancNo=2026910126&houseSecd=04",
 		"addr": "경상북도 구미시 광평동 227번지 일원",
 		"short_addr": "경상북도 구미시",
 		"addr_lv1": "경상북도",
@@ -112,12 +112,12 @@
 		"apply_nums": "3세대"
 	},
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026930017&pblancNo=2026930017&houseSecd=06",
 		"in_date": "20260601",
 		"hsecd": "06",
 		"rse": "07",
 		"type": "",
 		"name": "레이카운티",
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026930017&pblancNo=2026930017&houseSecd=06",
 		"addr": "부산광역시 연제구 아시아드대로 39 레이카운티(연제구 거제동 802번지 일원)",
 		"short_addr": "부산광역시 연제구",
 		"addr_lv1": "부산광역시",
@@ -125,20 +125,20 @@
 		"apply_nums": "3세대"
 	},
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940105&pblancNo=2026940105&houseSecd=11",
 		"in_date": "20260601",
 		"hsecd": "11",
 		"rse": "11",
 		"type": "",
-		"name": "용인 푸르지오 원클러스터파크(4차)"
+		"name": "용인 푸르지오 원클러스터파크(4차)",
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940105&pblancNo=2026940105&houseSecd=11"
 	},
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000173&pblancNo=2026000173&houseSecd=01",
 		"in_date": "20260602",
 		"hsecd": "01",
 		"rse": "02",
 		"type": "APT 1순위",
 		"name": "더 리치먼드 리버센트 소양",
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000173&pblancNo=2026000173&houseSecd=01",
 		"addr": "강원특별자치도 춘천시 소양로1가 102-5, 102-6, 102-25",
 		"short_addr": "강원특별자치도 춘천시",
 		"addr_lv1": "강원특별자치도",
@@ -146,12 +146,12 @@
 		"apply_nums": "178세대"
 	},
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000205&pblancNo=2026000205&houseSecd=01",
 		"in_date": "20260602",
 		"hsecd": "01",
 		"rse": "02",
 		"type": "APT 1순위",
 		"name": "수원역 아너스빌 타임원",
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000205&pblancNo=2026000205&houseSecd=01",
 		"addr": "경기도 수원시 권선구 평동 135-1번지 일원",
 		"short_addr": "경기도 수원시",
 		"addr_lv1": "경기도",
@@ -159,12 +159,12 @@
 		"apply_nums": "114세대"
 	},
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000219&pblancNo=2026000219&houseSecd=01",
 		"in_date": "20260602",
 		"hsecd": "01",
 		"rse": "02",
 		"type": "APT 1순위",
 		"name": "호반써밋 풍무Ⅱ",
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000219&pblancNo=2026000219&houseSecd=01",
 		"addr": "김포 풍무역세권 C5블록 (경기도 김포시 사우동 527-1 일원)",
 		"short_addr": "김포 풍무역세권",
 		"addr_lv1": "김포",
@@ -172,12 +172,12 @@
 		"apply_nums": "961세대"
 	},
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000122&pblancNo=2026000122&houseSecd=01",
 		"in_date": "20260602",
 		"hsecd": "01",
 		"rse": "03",
 		"type": "APT 2순위",
 		"name": "오정 해모로 스마트시티(조합원 취소분)",
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000122&pblancNo=2026000122&houseSecd=01",
 		"addr": "경기도 부천시 오정구 오정동 613번지 일원",
 		"short_addr": "경기도 부천시",
 		"addr_lv1": "경기도",
@@ -185,20 +185,20 @@
 		"apply_nums": "48세대"
 	},
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850029&pblancNo=2026850029&houseSecd=03",
 		"in_date": "20260602",
 		"hsecd": "03",
 		"rse": "04",
 		"type": "",
-		"name": "여수의 봄 더퍼스트 아파트(공공지원민간임대)"
+		"name": "여수의 봄 더퍼스트 아파트(공공지원민간임대)",
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850029&pblancNo=2026850029&houseSecd=03"
 	},
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950053&pblancNo=2026950053&houseSecd=02",
 		"in_date": "20260602",
 		"hsecd": "02",
 		"rse": "05",
 		"type": "오피스텔/도시형생활주택/민간임대",
 		"name": "동탄2신도시 대방 엘리움 레이크파크",
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950053&pblancNo=2026950053&houseSecd=02",
 		"addr": "경기도 화성시 송동 725-9번지",
 		"short_addr": "경기도 화성시",
 		"addr_lv1": "경기도",
@@ -206,12 +206,12 @@
 		"apply_nums": "6세대"
 	},
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950054&pblancNo=2026950054&houseSecd=02",
 		"in_date": "20260602",
 		"hsecd": "02",
 		"rse": "05",
 		"type": "오피스텔/도시형생활주택/민간임대",
 		"name": "동탄2신도시 동탄역 디에트르 퍼스티지",
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950054&pblancNo=2026950054&houseSecd=02",
 		"addr": "경기도 화성시 여울동 979번지",
 		"short_addr": "경기도 화성시",
 		"addr_lv1": "경기도",
@@ -219,12 +219,12 @@
 		"apply_nums": "5세대"
 	},
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950051&pblancNo=2026950051&houseSecd=02",
 		"in_date": "20260602",
 		"hsecd": "02",
 		"rse": "05",
 		"type": "오피스텔/도시형생활주택/민간임대",
 		"name": "호반써밋 풍무Ⅱ",
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950051&pblancNo=2026950051&houseSecd=02",
 		"addr": "김포 풍무역세권 C5블록 (경기도 김포시 사우동 527-1 일원)",
 		"short_addr": "김포 풍무역세권",
 		"addr_lv1": "김포",
@@ -232,12 +232,12 @@
 		"apply_nums": "98세대"
 	},
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910132&pblancNo=2026910132&houseSecd=04",
 		"in_date": "20260602",
 		"hsecd": "04",
 		"rse": "06",
 		"type": "무순위/취소후재공급",
 		"name": "인천 영종하늘도시 A25블록 대성베르힐(3차)",
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910132&pblancNo=2026910132&houseSecd=04",
 		"addr": "인천광역시 중구 운남동 1709-1번지(영종 A25블록)",
 		"short_addr": "인천광역시 중구",
 		"addr_lv1": "인천광역시",
@@ -245,12 +245,12 @@
 		"apply_nums": "5세대"
 	},
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910125&pblancNo=2026910125&houseSecd=04",
 		"in_date": "20260602",
 		"hsecd": "04",
 		"rse": "06",
 		"type": "무순위/취소후재공급",
 		"name": "힐스테이트 평거 센트럴",
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910125&pblancNo=2026910125&houseSecd=04",
 		"addr": "경상남도 진주시 평거동 148번지 외 4필지",
 		"short_addr": "경상남도 진주시",
 		"addr_lv1": "경상남도",
@@ -258,12 +258,12 @@
 		"apply_nums": "129세대"
 	},
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950051&pblancNo=2026950051&houseSecd=02",
 		"in_date": "20260603",
 		"hsecd": "02",
 		"rse": "05",
 		"type": "오피스텔/도시형생활주택/민간임대",
 		"name": "호반써밋 풍무Ⅱ",
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950051&pblancNo=2026950051&houseSecd=02",
 		"addr": "김포 풍무역세권 C5블록 (경기도 김포시 사우동 527-1 일원)",
 		"short_addr": "김포 풍무역세권",
 		"addr_lv1": "김포",
@@ -271,12 +271,12 @@
 		"apply_nums": "98세대"
 	},
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000173&pblancNo=2026000173&houseSecd=01",
 		"in_date": "20260604",
 		"hsecd": "01",
 		"rse": "03",
 		"type": "APT 2순위",
 		"name": "더 리치먼드 리버센트 소양",
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000173&pblancNo=2026000173&houseSecd=01",
 		"addr": "강원특별자치도 춘천시 소양로1가 102-5, 102-6, 102-25",
 		"short_addr": "강원특별자치도 춘천시",
 		"addr_lv1": "강원특별자치도",
@@ -284,12 +284,12 @@
 		"apply_nums": "178세대"
 	},
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000205&pblancNo=2026000205&houseSecd=01",
 		"in_date": "20260604",
 		"hsecd": "01",
 		"rse": "03",
 		"type": "APT 2순위",
 		"name": "수원역 아너스빌 타임원",
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000205&pblancNo=2026000205&houseSecd=01",
 		"addr": "경기도 수원시 권선구 평동 135-1번지 일원",
 		"short_addr": "경기도 수원시",
 		"addr_lv1": "경기도",
@@ -297,12 +297,12 @@
 		"apply_nums": "114세대"
 	},
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000219&pblancNo=2026000219&houseSecd=01",
 		"in_date": "20260604",
 		"hsecd": "01",
 		"rse": "03",
 		"type": "APT 2순위",
 		"name": "호반써밋 풍무Ⅱ",
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000219&pblancNo=2026000219&houseSecd=01",
 		"addr": "김포 풍무역세권 C5블록 (경기도 김포시 사우동 527-1 일원)",
 		"short_addr": "김포 풍무역세권",
 		"addr_lv1": "김포",
@@ -310,12 +310,12 @@
 		"apply_nums": "961세대"
 	},
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950051&pblancNo=2026950051&houseSecd=02",
 		"in_date": "20260604",
 		"hsecd": "02",
 		"rse": "05",
 		"type": "오피스텔/도시형생활주택/민간임대",
 		"name": "호반써밋 풍무Ⅱ",
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950051&pblancNo=2026950051&houseSecd=02",
 		"addr": "김포 풍무역세권 C5블록 (경기도 김포시 사우동 527-1 일원)",
 		"short_addr": "김포 풍무역세권",
 		"addr_lv1": "김포",
@@ -323,12 +323,12 @@
 		"apply_nums": "98세대"
 	},
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910141&pblancNo=2026910141&houseSecd=04",
 		"in_date": "20260604",
 		"hsecd": "04",
 		"rse": "06",
 		"type": "무순위/취소후재공급",
 		"name": "힐스테이트 안양펠루스",
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910141&pblancNo=2026910141&houseSecd=04",
 		"addr": "경기도 안양시 만안구 안양동 395-1번지",
 		"short_addr": "경기도 안양시",
 		"addr_lv1": "경기도",
@@ -336,68 +336,68 @@
 		"apply_nums": "54세대"
 	},
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940103&pblancNo=2026940103&houseSecd=11",
 		"in_date": "20260604",
 		"hsecd": "11",
 		"rse": "11",
 		"type": "",
-		"name": "고촌센트럴자이(11차)"
+		"name": "고촌센트럴자이(11차)",
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940103&pblancNo=2026940103&houseSecd=11"
 	},
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940106&pblancNo=2026940106&houseSecd=11",
 		"in_date": "20260604",
 		"hsecd": "11",
 		"rse": "11",
 		"type": "",
-		"name": "수원이목지구 대방 디에트르 더 리체Ⅱ(A3BL) (16차)"
+		"name": "수원이목지구 대방 디에트르 더 리체Ⅱ(A3BL) (16차)",
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940106&pblancNo=2026940106&houseSecd=11"
 	},
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940111&pblancNo=2026940111&houseSecd=11",
 		"in_date": "20260605",
 		"hsecd": "11",
 		"rse": "11",
 		"type": "",
-		"name": "고덕 자연앤 하우스디(A4BL)(민영)(3차)"
+		"name": "고덕 자연앤 하우스디(A4BL)(민영)(3차)",
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940111&pblancNo=2026940111&houseSecd=11"
 	},
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940103&pblancNo=2026940103&houseSecd=11",
 		"in_date": "20260605",
 		"hsecd": "11",
 		"rse": "11",
 		"type": "",
-		"name": "고촌센트럴자이(11차)"
+		"name": "고촌센트럴자이(11차)",
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940103&pblancNo=2026940103&houseSecd=11"
 	},
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940102&pblancNo=2026940102&houseSecd=11",
 		"in_date": "20260605",
 		"hsecd": "11",
 		"rse": "11",
 		"type": "",
-		"name": "대야미역 금강펜테리움 레이크포레(B1BL)(2차)"
+		"name": "대야미역 금강펜테리움 레이크포레(B1BL)(2차)",
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940102&pblancNo=2026940102&houseSecd=11"
 	},
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940106&pblancNo=2026940106&houseSecd=11",
 		"in_date": "20260605",
 		"hsecd": "11",
 		"rse": "11",
 		"type": "",
-		"name": "수원이목지구 대방 디에트르 더 리체Ⅱ(A3BL) (16차)"
+		"name": "수원이목지구 대방 디에트르 더 리체Ⅱ(A3BL) (16차)",
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940106&pblancNo=2026940106&houseSecd=11"
 	},
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940109&pblancNo=2026940109&houseSecd=11",
 		"in_date": "20260605",
 		"hsecd": "11",
 		"rse": "11",
 		"type": "",
-		"name": "옥정중앙역 대방 디에트르(중상1, 복합1BL)"
+		"name": "옥정중앙역 대방 디에트르(중상1, 복합1BL)",
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940109&pblancNo=2026940109&houseSecd=11"
 	},
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000097&pblancNo=2026000097&houseSecd=01",
 		"in_date": "20260608",
 		"hsecd": "01",
 		"rse": "01",
 		"type": "APT 특별공급",
 		"name": "강릉 성보필리오 더센트럴힐즈",
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000097&pblancNo=2026000097&houseSecd=01",
 		"addr": "강원특별자치도 강릉시 홍제동 265-18번지 외 45필지",
 		"short_addr": "강원특별자치도 강릉시",
 		"addr_lv1": "강원특별자치도",
@@ -405,12 +405,12 @@
 		"apply_nums": "148세대"
 	},
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000184&pblancNo=2026000184&houseSecd=01",
 		"in_date": "20260608",
 		"hsecd": "01",
 		"rse": "01",
 		"type": "APT 특별공급",
 		"name": "익산 펠리피아",
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000184&pblancNo=2026000184&houseSecd=01",
 		"addr": "전북특별자치도 익산시 팔봉동 180 외 31필지",
 		"short_addr": "전북특별자치도 익산시",
 		"addr_lv1": "전북특별자치도",
@@ -418,20 +418,20 @@
 		"apply_nums": "572세대"
 	},
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850030&pblancNo=2026850030&houseSecd=03",
 		"in_date": "20260608",
 		"hsecd": "03",
 		"rse": "04",
 		"type": "",
-		"name": "부경경마공원역 대방 디에트르 더리버(AP1BL)"
+		"name": "부경경마공원역 대방 디에트르 더리버(AP1BL)",
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850030&pblancNo=2026850030&houseSecd=03"
 	},
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950052&pblancNo=2026950052&houseSecd=02",
 		"in_date": "20260608",
 		"hsecd": "02",
 		"rse": "05",
 		"type": "오피스텔/도시형생활주택/민간임대",
 		"name": "풍무역 푸르지오 시티",
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950052&pblancNo=2026950052&houseSecd=02",
 		"addr": "경기도 김포시 풍무동 880번지",
 		"short_addr": "경기도 김포시",
 		"addr_lv1": "경기도",
@@ -439,12 +439,12 @@
 		"apply_nums": "5세대"
 	},
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910130&pblancNo=2026910130&houseSecd=04",
 		"in_date": "20260608",
 		"hsecd": "04",
 		"rse": "06",
 		"type": "무순위/취소후재공급",
 		"name": "경기광주역 롯데캐슬 시그니처 1단지",
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910130&pblancNo=2026910130&houseSecd=04",
 		"addr": "경기도 광주시 양벌동 산54-3번지",
 		"short_addr": "경기도 광주시",
 		"addr_lv1": "경기도",
@@ -452,12 +452,12 @@
 		"apply_nums": "83세대"
 	},
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910146&pblancNo=2026910146&houseSecd=04",
 		"in_date": "20260608",
 		"hsecd": "04",
 		"rse": "06",
 		"type": "무순위/취소후재공급",
 		"name": "동탄 그웬 160 (동탄2 B11BL)",
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910146&pblancNo=2026910146&houseSecd=04",
 		"addr": "경기도 화성특례시 동탄2 택지개발지구 B11BL (신동 720)",
 		"short_addr": "경기도 화성특례시",
 		"addr_lv1": "경기도",
@@ -465,12 +465,12 @@
 		"apply_nums": "78세대"
 	},
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910134&pblancNo=2026910134&houseSecd=04",
 		"in_date": "20260608",
 		"hsecd": "04",
 		"rse": "06",
 		"type": "무순위/취소후재공급",
 		"name": "소제지구 A3BL 중흥S-클래스 우미린",
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910134&pblancNo=2026910134&houseSecd=04",
 		"addr": "전라남도 여수시 소호동 828번지 일원 여수소제지구 A3블록",
 		"short_addr": "전라남도 여수시",
 		"addr_lv1": "전라남도",
@@ -478,12 +478,12 @@
 		"apply_nums": "41세대"
 	},
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910135&pblancNo=2026910135&houseSecd=04",
 		"in_date": "20260608",
 		"hsecd": "04",
 		"rse": "06",
 		"type": "무순위/취소후재공급",
 		"name": "소제지구 A4BL 중흥S-클래스 우미린",
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910135&pblancNo=2026910135&houseSecd=04",
 		"addr": "전라남도 여수시 소호동 828번지 일원 여수소제지구 A4블록",
 		"short_addr": "전라남도 여수시",
 		"addr_lv1": "전라남도",
@@ -491,12 +491,12 @@
 		"apply_nums": "274세대"
 	},
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910133&pblancNo=2026910133&houseSecd=04",
 		"in_date": "20260608",
 		"hsecd": "04",
 		"rse": "06",
 		"type": "무순위/취소후재공급",
 		"name": "청주 푸르지오 씨엘리체",
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910133&pblancNo=2026910133&houseSecd=04",
 		"addr": "충청북도 청주시 서원구 미평동 54-3번지 일원",
 		"short_addr": "충청북도 청주시",
 		"addr_lv1": "충청북도",
@@ -504,12 +504,28 @@
 		"apply_nums": "270세대"
 	},
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000097&pblancNo=2026000097&houseSecd=01",
+		"in_date": "20260608",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "연수 월드메르디앙 어반포레(2차)",
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940108&pblancNo=2026940108&houseSecd=11"
+	},
+	{
+		"in_date": "20260608",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "화곡더리브스카이(3차)",
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940110&pblancNo=2026940110&houseSecd=11"
+	},
+	{
 		"in_date": "20260609",
 		"hsecd": "01",
 		"rse": "02",
 		"type": "APT 1순위",
 		"name": "강릉 성보필리오 더센트럴힐즈",
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000097&pblancNo=2026000097&houseSecd=01",
 		"addr": "강원특별자치도 강릉시 홍제동 265-18번지 외 45필지",
 		"short_addr": "강원특별자치도 강릉시",
 		"addr_lv1": "강원특별자치도",
@@ -517,12 +533,12 @@
 		"apply_nums": "148세대"
 	},
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000184&pblancNo=2026000184&houseSecd=01",
 		"in_date": "20260609",
 		"hsecd": "01",
 		"rse": "02",
 		"type": "APT 1순위",
 		"name": "익산 펠리피아",
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000184&pblancNo=2026000184&houseSecd=01",
 		"addr": "전북특별자치도 익산시 팔봉동 180 외 31필지",
 		"short_addr": "전북특별자치도 익산시",
 		"addr_lv1": "전북특별자치도",
@@ -530,20 +546,20 @@
 		"apply_nums": "572세대"
 	},
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850030&pblancNo=2026850030&houseSecd=03",
 		"in_date": "20260609",
 		"hsecd": "03",
 		"rse": "04",
 		"type": "",
-		"name": "부경경마공원역 대방 디에트르 더리버(AP1BL)"
+		"name": "부경경마공원역 대방 디에트르 더리버(AP1BL)",
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850030&pblancNo=2026850030&houseSecd=03"
 	},
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950052&pblancNo=2026950052&houseSecd=02",
 		"in_date": "20260609",
 		"hsecd": "02",
 		"rse": "05",
 		"type": "오피스텔/도시형생활주택/민간임대",
 		"name": "풍무역 푸르지오 시티",
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950052&pblancNo=2026950052&houseSecd=02",
 		"addr": "경기도 김포시 풍무동 880번지",
 		"short_addr": "경기도 김포시",
 		"addr_lv1": "경기도",
@@ -551,12 +567,59 @@
 		"apply_nums": "5세대"
 	},
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000097&pblancNo=2026000097&houseSecd=01",
+		"in_date": "20260609",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "신검단중앙역 금강펜테리움 센트럴파크(3차)",
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910139&pblancNo=2026910139&houseSecd=04",
+		"addr": "인천광역시 서구 불로동 971 신검단중앙역 금강펜테리움 센트럴파크",
+		"short_addr": "인천광역시 서구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "1세대"
+	},
+	{
+		"in_date": "20260609",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "엘리프 성성호수공원 1BL",
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910144&pblancNo=2026910144&houseSecd=04",
+		"addr": "충청남도 천안시 서북구 업성동 업성2구역 1BL",
+		"short_addr": "충청남도 천안시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "천안시",
+		"apply_nums": "126세대"
+	},
+	{
+		"in_date": "20260609",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "엘리프 성성호수공원 2BL",
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910145&pblancNo=2026910145&houseSecd=04",
+		"addr": "충청남도 천안시 서북구 업성동 업성2구역 2BL",
+		"short_addr": "충청남도 천안시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "천안시",
+		"apply_nums": "485세대"
+	},
+	{
+		"in_date": "20260609",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "화곡더리브스카이(3차)",
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940110&pblancNo=2026940110&houseSecd=11"
+	},
+	{
 		"in_date": "20260610",
 		"hsecd": "01",
 		"rse": "03",
 		"type": "APT 2순위",
 		"name": "강릉 성보필리오 더센트럴힐즈",
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000097&pblancNo=2026000097&houseSecd=01",
 		"addr": "강원특별자치도 강릉시 홍제동 265-18번지 외 45필지",
 		"short_addr": "강원특별자치도 강릉시",
 		"addr_lv1": "강원특별자치도",
@@ -564,16 +627,42 @@
 		"apply_nums": "148세대"
 	},
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000184&pblancNo=2026000184&houseSecd=01",
 		"in_date": "20260610",
 		"hsecd": "01",
 		"rse": "03",
 		"type": "APT 2순위",
 		"name": "익산 펠리피아",
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000184&pblancNo=2026000184&houseSecd=01",
 		"addr": "전북특별자치도 익산시 팔봉동 180 외 31필지",
 		"short_addr": "전북특별자치도 익산시",
 		"addr_lv1": "전북특별자치도",
 		"addr_lv2": "익산시",
 		"apply_nums": "572세대"
+	},
+	{
+		"in_date": "20260611",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "청계 노르웨이숲(9차)",
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910138&pblancNo=2026910138&houseSecd=04",
+		"addr": "서울특별시 중구 황학동 1756번지 일원",
+		"short_addr": "서울특별시 중구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "중구",
+		"apply_nums": "23세대"
+	},
+	{
+		"in_date": "20260612",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "청계 노르웨이숲(9차)",
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910138&pblancNo=2026910138&houseSecd=04",
+		"addr": "서울특별시 중구 황학동 1756번지 일원",
+		"short_addr": "서울특별시 중구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "중구",
+		"apply_nums": "23세대"
 	}
 ]
