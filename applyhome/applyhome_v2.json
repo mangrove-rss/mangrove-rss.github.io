@@ -1,86 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000173&pblancNo=2026000173&houseSecd=01",
-		"in_date": "20260604",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "더 리치먼드 리버센트 소양",
-		"addr": "강원특별자치도 춘천시 소양로1가 102-5, 102-6, 102-25",
-		"short_addr": "강원특별자치도 춘천시",
-		"addr_lv1": "강원특별자치도",
-		"addr_lv2": "춘천시",
-		"apply_nums": "178세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000205&pblancNo=2026000205&houseSecd=01",
-		"in_date": "20260604",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "수원역 아너스빌 타임원",
-		"addr": "경기도 수원시 권선구 평동 135-1번지 일원",
-		"short_addr": "경기도 수원시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "수원시",
-		"apply_nums": "114세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000219&pblancNo=2026000219&houseSecd=01",
-		"in_date": "20260604",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "호반써밋 풍무Ⅱ",
-		"addr": "김포 풍무역세권 C5블록 (경기도 김포시 사우동 527-1 일원)",
-		"short_addr": "김포 풍무역세권",
-		"addr_lv1": "김포",
-		"addr_lv2": "풍무역세권",
-		"apply_nums": "961세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950051&pblancNo=2026950051&houseSecd=02",
-		"in_date": "20260604",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "호반써밋 풍무Ⅱ",
-		"addr": "김포 풍무역세권 C5블록 (경기도 김포시 사우동 527-1 일원)",
-		"short_addr": "김포 풍무역세권",
-		"addr_lv1": "김포",
-		"addr_lv2": "풍무역세권",
-		"apply_nums": "98세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910141&pblancNo=2026910141&houseSecd=04",
-		"in_date": "20260604",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "힐스테이트 안양펠루스",
-		"addr": "경기도 안양시 만안구 안양동 395-1번지",
-		"short_addr": "경기도 안양시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "안양시",
-		"apply_nums": "54세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940103&pblancNo=2026940103&houseSecd=11",
-		"in_date": "20260604",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "고촌센트럴자이(11차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940106&pblancNo=2026940106&houseSecd=11",
-		"in_date": "20260604",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "수원이목지구 대방 디에트르 더 리체Ⅱ(A3BL) (16차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940111&pblancNo=2026940111&houseSecd=11",
 		"in_date": "20260605",
 		"hsecd": "11",
@@ -437,6 +356,19 @@
 		"name": "더샵 분당센트로(2차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950056&pblancNo=2026950056&houseSecd=02",
+		"in_date": "20260611",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "영통역 우미 린",
+		"addr": "경기도 수원시 영통구 영통동 999-2",
+		"short_addr": "경기도 수원시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "수원시",
+		"apply_nums": "12세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910138&pblancNo=2026910138&houseSecd=04",
 		"in_date": "20260611",
 		"hsecd": "04",
@@ -456,6 +388,19 @@
 		"rse": "11",
 		"type": "",
 		"name": "더샵 분당센트로(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950056&pblancNo=2026950056&houseSecd=02",
+		"in_date": "20260612",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "영통역 우미 린",
+		"addr": "경기도 수원시 영통구 영통동 999-2",
+		"short_addr": "경기도 수원시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "수원시",
+		"apply_nums": "12세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910138&pblancNo=2026910138&houseSecd=04",
@@ -573,6 +518,45 @@
 		"apply_nums": "449세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910149&pblancNo=2026910149&houseSecd=04",
+		"in_date": "20260615",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "선운지구다사로움 공가세대 일반공급",
+		"addr": "광주광역시 광산구 선운로 34 (선운지구다사로움아파트)",
+		"short_addr": "광주광역시 광산구",
+		"addr_lv1": "광주광역시",
+		"addr_lv2": "광산구",
+		"apply_nums": "20세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910124&pblancNo=2026910124&houseSecd=04",
+		"in_date": "20260615",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "의왕고천지구 대방 디에트르 센트럴(B1BL)(2차)",
+		"addr": "경기도 의왕시 고천동 공공주택지구 B1블록(경기도 의왕시 고천동 190-1일원)",
+		"short_addr": "경기도 의왕시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "의왕시",
+		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910147&pblancNo=2026910147&houseSecd=04",
+		"in_date": "20260615",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "해링턴플레이스 노원 센트럴(2차)",
+		"addr": "서울특별시 노원구 노원로 495 (상계동 690)",
+		"short_addr": "서울특별시 노원구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "노원구",
+		"apply_nums": "58세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940112&pblancNo=2026940112&houseSecd=11",
 		"in_date": "20260615",
 		"hsecd": "11",
@@ -670,6 +654,45 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "평택시",
 		"apply_nums": "743세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910149&pblancNo=2026910149&houseSecd=04",
+		"in_date": "20260616",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "선운지구다사로움 공가세대 일반공급",
+		"addr": "광주광역시 광산구 선운로 34 (선운지구다사로움아파트)",
+		"short_addr": "광주광역시 광산구",
+		"addr_lv1": "광주광역시",
+		"addr_lv2": "광산구",
+		"apply_nums": "20세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910124&pblancNo=2026910124&houseSecd=04",
+		"in_date": "20260616",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "의왕고천지구 대방 디에트르 센트럴(B1BL)(2차)",
+		"addr": "경기도 의왕시 고천동 공공주택지구 B1블록(경기도 의왕시 고천동 190-1일원)",
+		"short_addr": "경기도 의왕시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "의왕시",
+		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910147&pblancNo=2026910147&houseSecd=04",
+		"in_date": "20260616",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "해링턴플레이스 노원 센트럴(2차)",
+		"addr": "서울특별시 노원구 노원로 495 (상계동 690)",
+		"short_addr": "서울특별시 노원구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "노원구",
+		"apply_nums": "58세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940112&pblancNo=2026940112&houseSecd=11",
