@@ -1,45 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940111&pblancNo=2026940111&houseSecd=11",
-		"in_date": "20260605",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "고덕 자연앤 하우스디(A4BL)(민영)(3차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940103&pblancNo=2026940103&houseSecd=11",
-		"in_date": "20260605",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "고촌센트럴자이(11차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940102&pblancNo=2026940102&houseSecd=11",
-		"in_date": "20260605",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "대야미역 금강펜테리움 레이크포레(B1BL)(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940106&pblancNo=2026940106&houseSecd=11",
-		"in_date": "20260605",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "수원이목지구 대방 디에트르 더 리체Ⅱ(A3BL) (16차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940109&pblancNo=2026940109&houseSecd=11",
-		"in_date": "20260605",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "옥정중앙역 대방 디에트르(중상1, 복합1BL)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000097&pblancNo=2026000097&houseSecd=01",
 		"in_date": "20260608",
 		"hsecd": "01",
@@ -390,6 +350,14 @@
 		"name": "더샵 분당센트로(2차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940113&pblancNo=2026940113&houseSecd=11",
+		"in_date": "20260611",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "용인 푸르지오 클루센트(3차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950056&pblancNo=2026950056&houseSecd=02",
 		"in_date": "20260612",
 		"hsecd": "02",
@@ -424,6 +392,14 @@
 		"name": "더샵 분당센트로(2차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940113&pblancNo=2026940113&houseSecd=11",
+		"in_date": "20260612",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "용인 푸르지오 클루센트(3차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940112&pblancNo=2026940112&houseSecd=11",
 		"in_date": "20260613",
 		"hsecd": "11",
@@ -432,12 +408,28 @@
 		"name": "더샵 분당센트로(2차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940113&pblancNo=2026940113&houseSecd=11",
+		"in_date": "20260613",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "용인 푸르지오 클루센트(3차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940112&pblancNo=2026940112&houseSecd=11",
 		"in_date": "20260614",
 		"hsecd": "11",
 		"rse": "11",
 		"type": "",
 		"name": "더샵 분당센트로(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940113&pblancNo=2026940113&houseSecd=11",
+		"in_date": "20260614",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "용인 푸르지오 클루센트(3차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000225&pblancNo=2026000225&houseSecd=01",
@@ -518,6 +510,19 @@
 		"apply_nums": "449세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910152&pblancNo=2026910152&houseSecd=04",
+		"in_date": "20260615",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "e편한세상 부천 어반스퀘어",
+		"addr": "경기도 부천시 원미구 소사동 48-21 일대(소사3구역 재개발정비사업)",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "485세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910149&pblancNo=2026910149&houseSecd=04",
 		"in_date": "20260615",
 		"hsecd": "04",
@@ -563,6 +568,14 @@
 		"rse": "11",
 		"type": "",
 		"name": "더샵 분당센트로(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940113&pblancNo=2026940113&houseSecd=11",
+		"in_date": "20260615",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "용인 푸르지오 클루센트(3차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000242&pblancNo=2026000242&houseSecd=01",
