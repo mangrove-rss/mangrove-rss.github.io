@@ -384,6 +384,14 @@
 		"apply_nums": "23세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940116&pblancNo=2026940116&houseSecd=11",
+		"in_date": "20260612",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "김포 칸타빌 에디션(2차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940112&pblancNo=2026940112&houseSecd=11",
 		"in_date": "20260612",
 		"hsecd": "11",
@@ -400,6 +408,22 @@
 		"name": "용인 푸르지오 클루센트(3차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940115&pblancNo=2026940115&houseSecd=11",
+		"in_date": "20260612",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "이안 센트럴 제기동역(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940116&pblancNo=2026940116&houseSecd=11",
+		"in_date": "20260613",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "김포 칸타빌 에디션(2차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940112&pblancNo=2026940112&houseSecd=11",
 		"in_date": "20260613",
 		"hsecd": "11",
@@ -414,6 +438,14 @@
 		"rse": "11",
 		"type": "",
 		"name": "용인 푸르지오 클루센트(3차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940116&pblancNo=2026940116&houseSecd=11",
+		"in_date": "20260614",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "김포 칸타빌 에디션(2차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940112&pblancNo=2026940112&houseSecd=11",
@@ -523,6 +555,58 @@
 		"apply_nums": "485세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910136&pblancNo=2026910136&houseSecd=04",
+		"in_date": "20260615",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "고덕국제신도시 수자인풍경채 1단지",
+		"addr": "경기도 평택시 고덕국제화계획지구 Abc-14블록",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "126세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910137&pblancNo=2026910137&houseSecd=04",
+		"in_date": "20260615",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "고덕국제신도시 수자인풍경채 2단지",
+		"addr": "경기도 평택시 고덕국제화계획지구 Abc-61블록",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "116세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910150&pblancNo=2026910150&houseSecd=04",
+		"in_date": "20260615",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "공주월송 진아레히",
+		"addr": "충청남도 공주시 금흥2지구 A1블럭(금흥동 39-4번지 일원)",
+		"short_addr": "충청남도 공주시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "공주시",
+		"apply_nums": "230세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910143&pblancNo=2026910143&houseSecd=04",
+		"in_date": "20260615",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "상주북천 하늘채 파크원",
+		"addr": "경상북도 상주시 냉림동 53번지 일원",
+		"short_addr": "경상북도 상주시",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "상주시",
+		"apply_nums": "42세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910149&pblancNo=2026910149&houseSecd=04",
 		"in_date": "20260615",
 		"hsecd": "04",
@@ -534,6 +618,19 @@
 		"addr_lv1": "광주광역시",
 		"addr_lv2": "광산구",
 		"apply_nums": "20세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910151&pblancNo=2026910151&houseSecd=04",
+		"in_date": "20260615",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "에스아이팰리스 올림픽공원 (9차)",
+		"addr": "서울특별시 강동구 성내동 459-3",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "9세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910124&pblancNo=2026910124&houseSecd=04",
@@ -560,6 +657,27 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "노원구",
 		"apply_nums": "58세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026930022&pblancNo=2026930022&houseSecd=06",
+		"in_date": "20260615",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "순천금호어울림더파크2차",
+		"addr": "전라남도 순천시 서면 선평리 613번지 일원",
+		"short_addr": "전라남도 순천시",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "순천시",
+		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940116&pblancNo=2026940116&houseSecd=11",
+		"in_date": "20260615",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "김포 칸타빌 에디션(2차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940112&pblancNo=2026940112&houseSecd=11",
@@ -680,6 +798,19 @@
 		"addr_lv1": "광주광역시",
 		"addr_lv2": "광산구",
 		"apply_nums": "20세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910151&pblancNo=2026910151&houseSecd=04",
+		"in_date": "20260616",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "에스아이팰리스 올림픽공원 (9차)",
+		"addr": "서울특별시 강동구 성내동 459-3",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "9세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910124&pblancNo=2026910124&houseSecd=04",
