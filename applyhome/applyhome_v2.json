@@ -1,63 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950056&pblancNo=2026950056&houseSecd=02",
-		"in_date": "20260612",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "영통역 우미 린",
-		"addr": "경기도 수원시 영통구 영통동 999-2",
-		"short_addr": "경기도 수원시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "수원시",
-		"apply_nums": "12세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910138&pblancNo=2026910138&houseSecd=04",
-		"in_date": "20260612",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "청계 노르웨이숲(9차)",
-		"addr": "서울특별시 중구 황학동 1756번지 일원",
-		"short_addr": "서울특별시 중구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "중구",
-		"apply_nums": "23세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940116&pblancNo=2026940116&houseSecd=11",
-		"in_date": "20260612",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "김포 칸타빌 에디션(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940112&pblancNo=2026940112&houseSecd=11",
-		"in_date": "20260612",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "더샵 분당센트로(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940113&pblancNo=2026940113&houseSecd=11",
-		"in_date": "20260612",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "용인 푸르지오 클루센트(3차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940115&pblancNo=2026940115&houseSecd=11",
-		"in_date": "20260612",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "이안 센트럴 제기동역(2차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940116&pblancNo=2026940116&houseSecd=11",
 		"in_date": "20260613",
 		"hsecd": "11",
@@ -646,6 +588,14 @@
 		"name": "리아츠 더 인천(20차) "
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940120&pblancNo=2026940120&houseSecd=11",
+		"in_date": "20260617",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "힐스테이트 용인마크밸리(9차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000242&pblancNo=2026000242&houseSecd=01",
 		"in_date": "20260618",
 		"hsecd": "01",
@@ -714,6 +664,14 @@
 		"name": "리아츠 더 인천(20차) "
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940120&pblancNo=2026940120&houseSecd=11",
+		"in_date": "20260618",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "힐스테이트 용인마크밸리(9차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950058&pblancNo=2026950058&houseSecd=02",
 		"in_date": "20260619",
 		"hsecd": "02",
@@ -748,6 +706,14 @@
 		"name": "리아츠 더 인천(20차) "
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940120&pblancNo=2026940120&houseSecd=11",
+		"in_date": "20260619",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "힐스테이트 용인마크밸리(9차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950055&pblancNo=2026950055&houseSecd=02",
 		"in_date": "20260620",
 		"hsecd": "02",
@@ -769,6 +735,14 @@
 		"name": "리아츠 더 인천(20차) "
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940120&pblancNo=2026940120&houseSecd=11",
+		"in_date": "20260620",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "힐스테이트 용인마크밸리(9차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950055&pblancNo=2026950055&houseSecd=02",
 		"in_date": "20260621",
 		"hsecd": "02",
@@ -788,6 +762,14 @@
 		"rse": "11",
 		"type": "",
 		"name": "리아츠 더 인천(20차) "
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940120&pblancNo=2026940120&houseSecd=11",
+		"in_date": "20260621",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "힐스테이트 용인마크밸리(9차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000258&pblancNo=2026000258&houseSecd=01",
@@ -879,6 +861,32 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "성동구",
 		"apply_nums": "21세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950057&pblancNo=2026950057&houseSecd=02",
+		"in_date": "20260622",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "힐스테이트 장안 라보니타",
+		"addr": "서울특별시 동대문구 장안동 364-1,2,8",
+		"short_addr": "서울특별시 동대문구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "동대문구",
+		"apply_nums": "10세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910158&pblancNo=2026910158&houseSecd=04",
+		"in_date": "20260622",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "파주금촌 금호어울림(조합원 취소분)",
+		"addr": "경기도 파주시 금촌동 337-15번지(금촌2동제2지구주택재개발정비사업)",
+		"short_addr": "경기도 파주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "파주시",
+		"apply_nums": "10세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026930019&pblancNo=2026930019&houseSecd=06",
@@ -902,6 +910,14 @@
 		"name": "리아츠 더 인천(20차) "
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940120&pblancNo=2026940120&houseSecd=11",
+		"in_date": "20260622",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "힐스테이트 용인마크밸리(9차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000258&pblancNo=2026000258&houseSecd=01",
 		"in_date": "20260623",
 		"hsecd": "01",
@@ -991,6 +1007,14 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "성동구",
 		"apply_nums": "21세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940120&pblancNo=2026940120&houseSecd=11",
+		"in_date": "20260623",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "힐스테이트 용인마크밸리(9차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000194&pblancNo=2026000194&houseSecd=01",
