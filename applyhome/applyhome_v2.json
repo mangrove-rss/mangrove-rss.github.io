@@ -1,131 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000242&pblancNo=2026000242&houseSecd=01",
-		"in_date": "20260618",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "호반써밋 첨단3지구(A7BL)",
-		"addr": "광주연구개발특구 첨단3지구 A7블록(광주광역시 북구 월출동) ",
-		"short_addr": "광주연구개발특구 첨단3지구",
-		"addr_lv1": "광주연구개발특구",
-		"addr_lv2": "첨단3지구",
-		"apply_nums": "356세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000243&pblancNo=2026000243&houseSecd=01",
-		"in_date": "20260618",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "호반써밋 첨단3지구(A8BL)",
-		"addr": "광주연구개발특구 첨단3지구 A8블록(전라남도 장성군 진원면) ",
-		"short_addr": "광주연구개발특구 첨단3지구",
-		"addr_lv1": "광주연구개발특구",
-		"addr_lv2": "첨단3지구",
-		"apply_nums": "449세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850032&pblancNo=2026850032&houseSecd=03",
-		"in_date": "20260618",
-		"hsecd": "03",
-		"rse": "04",
-		"type": "",
-		"name": "서면 지원 더뷰 드림아파트(공공지원민간임대)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950058&pblancNo=2026950058&houseSecd=02",
-		"in_date": "20260618",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "선유 노블레르",
-		"addr": "서울특별시 영등포구 양평동6가 2-1",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "18세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950055&pblancNo=2026950055&houseSecd=02",
-		"in_date": "20260618",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "왕십리역 어반홈스 A동",
-		"addr": "서울특별시 성동구 도선동 114, 115번지",
-		"short_addr": "서울특별시 성동구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "성동구",
-		"apply_nums": "21세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940118&pblancNo=2026940118&houseSecd=11",
-		"in_date": "20260618",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "리아츠 더 인천(20차) "
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940120&pblancNo=2026940120&houseSecd=11",
-		"in_date": "20260618",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "힐스테이트 용인마크밸리(9차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950058&pblancNo=2026950058&houseSecd=02",
-		"in_date": "20260619",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "선유 노블레르",
-		"addr": "서울특별시 영등포구 양평동6가 2-1",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "18세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950055&pblancNo=2026950055&houseSecd=02",
-		"in_date": "20260619",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "왕십리역 어반홈스 A동",
-		"addr": "서울특별시 성동구 도선동 114, 115번지",
-		"short_addr": "서울특별시 성동구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "성동구",
-		"apply_nums": "21세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940118&pblancNo=2026940118&houseSecd=11",
-		"in_date": "20260619",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "리아츠 더 인천(20차) "
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940122&pblancNo=2026940122&houseSecd=11",
-		"in_date": "20260619",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "석남역 센트럴파크 그랑베르(4차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940120&pblancNo=2026940120&houseSecd=11",
-		"in_date": "20260619",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "힐스테이트 용인마크밸리(9차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950055&pblancNo=2026950055&houseSecd=02",
 		"in_date": "20260620",
 		"hsecd": "02",
@@ -635,6 +509,38 @@
 		"apply_nums": "28세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940128&pblancNo=2026940128&houseSecd=11",
+		"in_date": "20260624",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "구리역 하이니티 리버파크"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940130&pblancNo=2026940130&houseSecd=11",
+		"in_date": "20260624",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "안양역 센트럴 아이파크 수자인"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940123&pblancNo=2026940123&houseSecd=11",
+		"in_date": "20260624",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "의정부역 센트럴 아이파크"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940126&pblancNo=2026940126&houseSecd=11",
+		"in_date": "20260624",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "청계백상앨리츠(2차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000194&pblancNo=2026000194&houseSecd=01",
 		"in_date": "20260625",
 		"hsecd": "01",
@@ -682,6 +588,14 @@
 		"apply_nums": "6세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940126&pblancNo=2026940126&houseSecd=11",
+		"in_date": "20260625",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "청계백상앨리츠(2차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000194&pblancNo=2026000194&houseSecd=01",
 		"in_date": "20260626",
 		"hsecd": "01",
@@ -719,6 +633,14 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "영등포구",
 		"apply_nums": "6세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940126&pblancNo=2026940126&houseSecd=11",
+		"in_date": "20260626",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "청계백상앨리츠(2차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950062&pblancNo=2026950062&houseSecd=02",
@@ -864,6 +786,14 @@
 		"apply_nums": "6세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940124&pblancNo=2026940124&houseSecd=11",
+		"in_date": "20260629",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "옥정중앙역 대방 디에트르(중상1, 복합1BL) (2차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000270&pblancNo=2026000270&houseSecd=01",
 		"in_date": "20260630",
 		"hsecd": "01",
@@ -981,6 +911,14 @@
 		"apply_nums": "6세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940124&pblancNo=2026940124&houseSecd=11",
+		"in_date": "20260630",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "옥정중앙역 대방 디에트르(중상1, 복합1BL) (2차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000241&pblancNo=2026000241&houseSecd=01",
 		"in_date": "20260701",
 		"hsecd": "01",
@@ -1085,6 +1023,45 @@
 		"apply_nums": "1712세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000278&pblancNo=2026000278&houseSecd=01",
+		"in_date": "20260702",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "양주 회천지구 A-8BL 로제비앙 엘가",
+		"addr": "경기도 양주시 회정동 양주신도시 회천지구 A8블록",
+		"short_addr": "경기도 양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "양주시",
+		"apply_nums": "361세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000272&pblancNo=2026000272&houseSecd=01",
+		"in_date": "20260702",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "함안가야 휴니온아르떼",
+		"addr": "경상남도 함안군 가야읍 말산리 58-1외 4필지",
+		"short_addr": "경상남도 함안군",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "함안군",
+		"apply_nums": "92세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000281&pblancNo=2026000281&houseSecd=01",
+		"in_date": "20260702",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "이천 서희스타힐스 SKY(조합원 취소분)",
+		"addr": "경기도 이천시 안흥동 279-1번지 일원",
+		"short_addr": "경기도 이천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "이천시",
+		"apply_nums": "8세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000241&pblancNo=2026000241&houseSecd=01",
 		"in_date": "20260702",
 		"hsecd": "01",
@@ -1109,5 +1086,70 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "성북구",
 		"apply_nums": "1032세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000278&pblancNo=2026000278&houseSecd=01",
+		"in_date": "20260703",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "양주 회천지구 A-8BL 로제비앙 엘가",
+		"addr": "경기도 양주시 회정동 양주신도시 회천지구 A8블록",
+		"short_addr": "경기도 양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "양주시",
+		"apply_nums": "361세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000272&pblancNo=2026000272&houseSecd=01",
+		"in_date": "20260703",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "함안가야 휴니온아르떼",
+		"addr": "경상남도 함안군 가야읍 말산리 58-1외 4필지",
+		"short_addr": "경상남도 함안군",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "함안군",
+		"apply_nums": "92세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000281&pblancNo=2026000281&houseSecd=01",
+		"in_date": "20260703",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "이천 서희스타힐스 SKY(조합원 취소분)",
+		"addr": "경기도 이천시 안흥동 279-1번지 일원",
+		"short_addr": "경기도 이천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "이천시",
+		"apply_nums": "8세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000278&pblancNo=2026000278&houseSecd=01",
+		"in_date": "20260706",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "양주 회천지구 A-8BL 로제비앙 엘가",
+		"addr": "경기도 양주시 회정동 양주신도시 회천지구 A8블록",
+		"short_addr": "경기도 양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "양주시",
+		"apply_nums": "361세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000272&pblancNo=2026000272&houseSecd=01",
+		"in_date": "20260706",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "함안가야 휴니온아르떼",
+		"addr": "경상남도 함안군 가야읍 말산리 58-1외 4필지",
+		"short_addr": "경상남도 함안군",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "함안군",
+		"apply_nums": "92세대"
 	}
 ]
