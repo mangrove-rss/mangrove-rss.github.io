@@ -1,35 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950055&pblancNo=2026950055&houseSecd=02",
-		"in_date": "20260620",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "왕십리역 어반홈스 A동",
-		"addr": "서울특별시 성동구 도선동 114, 115번지",
-		"short_addr": "서울특별시 성동구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "성동구",
-		"apply_nums": "21세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940118&pblancNo=2026940118&houseSecd=11",
-		"in_date": "20260620",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "리아츠 더 인천(20차) "
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940120&pblancNo=2026940120&houseSecd=11",
-		"in_date": "20260620",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "힐스테이트 용인마크밸리(9차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950055&pblancNo=2026950055&houseSecd=02",
 		"in_date": "20260621",
 		"hsecd": "02",
 		"rse": "05",
@@ -635,6 +606,30 @@
 		"apply_nums": "6세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940131&pblancNo=2026940131&houseSecd=11",
+		"in_date": "20260626",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "고덕 자연앤 하우스디(A4BL)(민영)(4차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940132&pblancNo=2026940132&houseSecd=11",
+		"in_date": "20260626",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "숭의역 라온프라이빗 스카이브"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940127&pblancNo=2026940127&houseSecd=11",
+		"in_date": "20260626",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "용인 푸르지오 클루센트(4차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940126&pblancNo=2026940126&houseSecd=11",
 		"in_date": "20260626",
 		"hsecd": "11",
@@ -656,6 +651,22 @@
 		"apply_nums": "6세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940132&pblancNo=2026940132&houseSecd=11",
+		"in_date": "20260627",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "숭의역 라온프라이빗 스카이브"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940127&pblancNo=2026940127&houseSecd=11",
+		"in_date": "20260627",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "용인 푸르지오 클루센트(4차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950062&pblancNo=2026950062&houseSecd=02",
 		"in_date": "20260628",
 		"hsecd": "02",
@@ -669,6 +680,22 @@
 		"apply_nums": "6세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940132&pblancNo=2026940132&houseSecd=11",
+		"in_date": "20260628",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "숭의역 라온프라이빗 스카이브"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940127&pblancNo=2026940127&houseSecd=11",
+		"in_date": "20260628",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "용인 푸르지오 클루센트(4차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000270&pblancNo=2026000270&houseSecd=01",
 		"in_date": "20260629",
 		"hsecd": "01",
@@ -786,12 +813,67 @@
 		"apply_nums": "6세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950061&pblancNo=2026950061&houseSecd=02",
+		"in_date": "20260629",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "잠실 테라412",
+		"addr": "서울특별시 송파구 방이동 41-2",
+		"short_addr": "서울특별시 송파구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "송파구",
+		"apply_nums": "5세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910160&pblancNo=2026910160&houseSecd=04",
+		"in_date": "20260629",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "식사 푸르지오 파크센트(조합원 취소분)",
+		"addr": "경기도 고양시 일산동구 식사동 1126번지 일대",
+		"short_addr": "경기도 고양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "고양시",
+		"apply_nums": "20세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910162&pblancNo=2026910162&houseSecd=04",
+		"in_date": "20260629",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "엘리프 역곡",
+		"addr": "경기도 부천시 소사구 괴안동 106-1번지 일원",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "36세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940132&pblancNo=2026940132&houseSecd=11",
+		"in_date": "20260629",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "숭의역 라온프라이빗 스카이브"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940124&pblancNo=2026940124&houseSecd=11",
 		"in_date": "20260629",
 		"hsecd": "11",
 		"rse": "11",
 		"type": "",
 		"name": "옥정중앙역 대방 디에트르(중상1, 복합1BL) (2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940127&pblancNo=2026940127&houseSecd=11",
+		"in_date": "20260629",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "용인 푸르지오 클루센트(4차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000270&pblancNo=2026000270&houseSecd=01",
@@ -911,12 +993,54 @@
 		"apply_nums": "6세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950061&pblancNo=2026950061&houseSecd=02",
+		"in_date": "20260630",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "잠실 테라412",
+		"addr": "서울특별시 송파구 방이동 41-2",
+		"short_addr": "서울특별시 송파구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "송파구",
+		"apply_nums": "5세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910162&pblancNo=2026910162&houseSecd=04",
+		"in_date": "20260630",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "엘리프 역곡",
+		"addr": "경기도 부천시 소사구 괴안동 106-1번지 일원",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "36세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940132&pblancNo=2026940132&houseSecd=11",
+		"in_date": "20260630",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "숭의역 라온프라이빗 스카이브"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940124&pblancNo=2026940124&houseSecd=11",
 		"in_date": "20260630",
 		"hsecd": "11",
 		"rse": "11",
 		"type": "",
 		"name": "옥정중앙역 대방 디에트르(중상1, 복합1BL) (2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940127&pblancNo=2026940127&houseSecd=11",
+		"in_date": "20260630",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "용인 푸르지오 클루센트(4차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000241&pblancNo=2026000241&houseSecd=01",
@@ -1023,6 +1147,19 @@
 		"apply_nums": "1712세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910162&pblancNo=2026910162&houseSecd=04",
+		"in_date": "20260701",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "엘리프 역곡",
+		"addr": "경기도 부천시 소사구 괴안동 106-1번지 일원",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "36세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000278&pblancNo=2026000278&houseSecd=01",
 		"in_date": "20260702",
 		"hsecd": "01",
@@ -1088,6 +1225,32 @@
 		"apply_nums": "1032세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000288&pblancNo=2026000288&houseSecd=01",
+		"in_date": "20260703",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "신제주 동문디이스트 시그니처원Ⅰ",
+		"addr": "제주특별자치도 제주시 연동 274-12번지외 4필지",
+		"short_addr": "제주특별자치도 제주시",
+		"addr_lv1": "제주특별자치도",
+		"addr_lv2": "제주시",
+		"apply_nums": "182세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000289&pblancNo=2026000289&houseSecd=01",
+		"in_date": "20260703",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "신제주 동문디이스트 시그니처원Ⅱ",
+		"addr": "제주특별자치도 제주시 연동 274-25번지외 5필지",
+		"short_addr": "제주특별자치도 제주시",
+		"addr_lv1": "제주특별자치도",
+		"addr_lv2": "제주시",
+		"apply_nums": "196세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000278&pblancNo=2026000278&houseSecd=01",
 		"in_date": "20260703",
 		"hsecd": "01",
@@ -1125,6 +1288,32 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "이천시",
 		"apply_nums": "8세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000288&pblancNo=2026000288&houseSecd=01",
+		"in_date": "20260706",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "신제주 동문디이스트 시그니처원Ⅰ",
+		"addr": "제주특별자치도 제주시 연동 274-12번지외 4필지",
+		"short_addr": "제주특별자치도 제주시",
+		"addr_lv1": "제주특별자치도",
+		"addr_lv2": "제주시",
+		"apply_nums": "182세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000289&pblancNo=2026000289&houseSecd=01",
+		"in_date": "20260706",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "신제주 동문디이스트 시그니처원Ⅱ",
+		"addr": "제주특별자치도 제주시 연동 274-25번지외 5필지",
+		"short_addr": "제주특별자치도 제주시",
+		"addr_lv1": "제주특별자치도",
+		"addr_lv2": "제주시",
+		"apply_nums": "196세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000278&pblancNo=2026000278&houseSecd=01",
