@@ -1,34 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950055&pblancNo=2026950055&houseSecd=02",
-		"in_date": "20260621",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "왕십리역 어반홈스 A동",
-		"addr": "서울특별시 성동구 도선동 114, 115번지",
-		"short_addr": "서울특별시 성동구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "성동구",
-		"apply_nums": "21세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940118&pblancNo=2026940118&houseSecd=11",
-		"in_date": "20260621",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "리아츠 더 인천(20차) "
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940120&pblancNo=2026940120&houseSecd=11",
-		"in_date": "20260621",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "힐스테이트 용인마크밸리(9차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000258&pblancNo=2026000258&houseSecd=01",
 		"in_date": "20260622",
 		"hsecd": "01",
@@ -638,6 +609,14 @@
 		"name": "청계백상앨리츠(2차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940117&pblancNo=2026940117&houseSecd=11",
+		"in_date": "20260626",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "춘천 동문 디 이스트 어반포레"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950062&pblancNo=2026950062&houseSecd=02",
 		"in_date": "20260627",
 		"hsecd": "02",
@@ -824,6 +803,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "송파구",
 		"apply_nums": "5세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910161&pblancNo=2026910161&houseSecd=04",
+		"in_date": "20260629",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "동래사적공원 오네뜨",
+		"addr": "부산광역시 동래구 명륜동 115-8번지 일원",
+		"short_addr": "부산광역시 동래구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "동래구",
+		"apply_nums": "2세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910160&pblancNo=2026910160&houseSecd=04",
@@ -852,6 +844,14 @@
 		"apply_nums": "36세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940129&pblancNo=2026940129&houseSecd=11",
+		"in_date": "20260629",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "수원이목지구 대방 디에트르 더 리체Ⅱ(A3BL) (17차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940132&pblancNo=2026940132&houseSecd=11",
 		"in_date": "20260629",
 		"hsecd": "11",
@@ -993,6 +993,19 @@
 		"apply_nums": "6세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950063&pblancNo=2026950063&houseSecd=02",
+		"in_date": "20260630",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "여의도 하이앤드63st",
+		"addr": "서울특별시 영등포구 영등포동4가 63번지",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "18세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950061&pblancNo=2026950061&houseSecd=02",
 		"in_date": "20260630",
 		"hsecd": "02",
@@ -1006,6 +1019,19 @@
 		"apply_nums": "5세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910159&pblancNo=2026910159&houseSecd=04",
+		"in_date": "20260630",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "검암역자이르네",
+		"addr": "인천광역시 서구 경서동 4-8번지 일원 (검암역세권 B-2블록)",
+		"short_addr": "인천광역시 서구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "서구",
+		"apply_nums": "150세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910162&pblancNo=2026910162&houseSecd=04",
 		"in_date": "20260630",
 		"hsecd": "04",
@@ -1017,6 +1043,14 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "부천시",
 		"apply_nums": "36세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940129&pblancNo=2026940129&houseSecd=11",
+		"in_date": "20260630",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "수원이목지구 대방 디에트르 더 리체Ⅱ(A3BL) (17차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940132&pblancNo=2026940132&houseSecd=11",
@@ -1290,6 +1324,19 @@
 		"apply_nums": "8세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000274&pblancNo=2026000274&houseSecd=01",
+		"in_date": "20260706",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "군산 세경아파트 우선분양전환 후 잔여세대 ",
+		"addr": "전북특별자치도 군산시 양안로 123 (조촌동, 세경아파트)",
+		"short_addr": "전북특별자치도 군산시",
+		"addr_lv1": "전북특별자치도",
+		"addr_lv2": "군산시",
+		"apply_nums": "153세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000288&pblancNo=2026000288&houseSecd=01",
 		"in_date": "20260706",
 		"hsecd": "01",
@@ -1340,5 +1387,31 @@
 		"addr_lv1": "경상남도",
 		"addr_lv2": "함안군",
 		"apply_nums": "92세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000274&pblancNo=2026000274&houseSecd=01",
+		"in_date": "20260707",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "군산 세경아파트 우선분양전환 후 잔여세대 ",
+		"addr": "전북특별자치도 군산시 양안로 123 (조촌동, 세경아파트)",
+		"short_addr": "전북특별자치도 군산시",
+		"addr_lv1": "전북특별자치도",
+		"addr_lv2": "군산시",
+		"apply_nums": "153세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000274&pblancNo=2026000274&houseSecd=01",
+		"in_date": "20260708",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "군산 세경아파트 우선분양전환 후 잔여세대 ",
+		"addr": "전북특별자치도 군산시 양안로 123 (조촌동, 세경아파트)",
+		"short_addr": "전북특별자치도 군산시",
+		"addr_lv1": "전북특별자치도",
+		"addr_lv2": "군산시",
+		"apply_nums": "153세대"
 	}
 ]
