@@ -1,165 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000258&pblancNo=2026000258&houseSecd=01",
-		"in_date": "20260622",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "고덕국제신도시 수자인하우스디",
-		"addr": "경기도 평택시 고덕국제화계획지구 A-67블록",
-		"short_addr": "경기도 평택시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "평택시",
-		"apply_nums": "403세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000248&pblancNo=2026000248&houseSecd=01",
-		"in_date": "20260622",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "북오산자이 드포레",
-		"addr": "경기도 오산시 내삼미동 288번지 일원",
-		"short_addr": "경기도 오산시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "오산시",
-		"apply_nums": "1517세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000223&pblancNo=2026000223&houseSecd=01",
-		"in_date": "20260622",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "힐스테이트 양산더스카이 1단지",
-		"addr": "경상남도 양산시 물금읍 가촌리 971번지 일원",
-		"short_addr": "경상남도 양산시",
-		"addr_lv1": "경상남도",
-		"addr_lv2": "양산시",
-		"apply_nums": "299세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000224&pblancNo=2026000224&houseSecd=01",
-		"in_date": "20260622",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "힐스테이트 양산더스카이 2단지",
-		"addr": "경상남도 양산시 물금읍 범어리 940-2번지 일원",
-		"short_addr": "경상남도 양산시",
-		"addr_lv1": "경상남도",
-		"addr_lv2": "양산시",
-		"apply_nums": "299세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000235&pblancNo=2026000235&houseSecd=01",
-		"in_date": "20260622",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "북서울자이 폴라리스(보류지)",
-		"addr": "서울특별시 강북구 미아동 791-364번지 일대 (미아 3구역 주택재개발 정비사업)",
-		"short_addr": "서울특별시 강북구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강북구",
-		"apply_nums": "6세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950060&pblancNo=2026950060&houseSecd=02",
-		"in_date": "20260622",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "신대방역 더하이브퍼스트",
-		"addr": "서울특별시 관악구 신림동 505-1",
-		"short_addr": "서울특별시 관악구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "관악구",
-		"apply_nums": "10세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950055&pblancNo=2026950055&houseSecd=02",
-		"in_date": "20260622",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "왕십리역 어반홈스 A동",
-		"addr": "서울특별시 성동구 도선동 114, 115번지",
-		"short_addr": "서울특별시 성동구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "성동구",
-		"apply_nums": "21세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950057&pblancNo=2026950057&houseSecd=02",
-		"in_date": "20260622",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "힐스테이트 장안 라보니타",
-		"addr": "서울특별시 동대문구 장안동 364-1,2,8",
-		"short_addr": "서울특별시 동대문구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "동대문구",
-		"apply_nums": "10세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910154&pblancNo=2026910154&houseSecd=04",
-		"in_date": "20260622",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "인천시청역 한신더휴",
-		"addr": "인천광역시 남동구 석산로62번길 35",
-		"short_addr": "인천광역시 남동구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "남동구",
-		"apply_nums": "3세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910158&pblancNo=2026910158&houseSecd=04",
-		"in_date": "20260622",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "파주금촌 금호어울림(조합원 취소분)",
-		"addr": "경기도 파주시 금촌동 337-15번지(금촌2동제2지구주택재개발정비사업)",
-		"short_addr": "경기도 파주시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "파주시",
-		"apply_nums": "10세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026930019&pblancNo=2026930019&houseSecd=06",
-		"in_date": "20260622",
-		"hsecd": "06",
-		"rse": "07",
-		"type": "",
-		"name": "강변역 센트럴 아이파크",
-		"addr": "서울특별시 광진구 구의동 592-39번지 일원",
-		"short_addr": "서울특별시 광진구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "광진구",
-		"apply_nums": "2세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940118&pblancNo=2026940118&houseSecd=11",
-		"in_date": "20260622",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "리아츠 더 인천(20차) "
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940120&pblancNo=2026940120&houseSecd=11",
-		"in_date": "20260622",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "힐스테이트 용인마크밸리(9차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000258&pblancNo=2026000258&houseSecd=01",
 		"in_date": "20260623",
 		"hsecd": "01",
 		"rse": "02",
@@ -1181,6 +1022,14 @@
 		"apply_nums": "1712세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850033&pblancNo=2026850033&houseSecd=03",
+		"in_date": "20260701",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "의왕 백운밸리 리젠시빌 란트"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910162&pblancNo=2026910162&houseSecd=04",
 		"in_date": "20260701",
 		"hsecd": "04",
@@ -1257,6 +1106,14 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "성북구",
 		"apply_nums": "1032세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850033&pblancNo=2026850033&houseSecd=03",
+		"in_date": "20260702",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "의왕 백운밸리 리젠시빌 란트"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000288&pblancNo=2026000288&houseSecd=01",
