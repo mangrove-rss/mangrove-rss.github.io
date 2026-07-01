@@ -446,6 +446,19 @@
 		"apply_nums": "3세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910167&pblancNo=2026910167&houseSecd=04",
+		"in_date": "20260706",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "오남역 서희스타힐스 여의재 3단지",
+		"addr": "경기도 남양주시 오남읍 양지리 186-10 일원",
+		"short_addr": "경기도 남양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "남양주시",
+		"apply_nums": "58세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910156&pblancNo=2026910156&houseSecd=04",
 		"in_date": "20260706",
 		"hsecd": "04",
@@ -470,6 +483,14 @@
 		"addr_lv1": "부산광역시",
 		"addr_lv2": "해운대구",
 		"apply_nums": "26세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940133&pblancNo=2026940133&houseSecd=11",
+		"in_date": "20260706",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "대전 하늘채 루시에르(2회차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000274&pblancNo=2026000274&houseSecd=01",
@@ -522,6 +543,35 @@
 		"addr_lv1": "",
 		"addr_lv2": "서울특별시",
 		"apply_nums": "5세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950065&pblancNo=2026950065&houseSecd=02",
+		"in_date": "20260707",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "더샵 일산엘로이 펜트하우스 1단지",
+		"addr": "경기도 고양시 일산동구 풍동 1183번지 일원",
+		"short_addr": "경기도 고양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "고양시",
+		"apply_nums": "5세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940133&pblancNo=2026940133&houseSecd=11",
+		"in_date": "20260707",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "대전 하늘채 루시에르(2회차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940136&pblancNo=2026940136&houseSecd=11",
+		"in_date": "20260707",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "에비뉴 청계 II(3차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000274&pblancNo=2026000274&houseSecd=01",
