@@ -1,78 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000288&pblancNo=2026000288&houseSecd=01",
-		"in_date": "20260703",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "신제주 동문디이스트 시그니처원Ⅰ",
-		"addr": "제주특별자치도 제주시 연동 274-12번지외 4필지",
-		"short_addr": "제주특별자치도 제주시",
-		"addr_lv1": "제주특별자치도",
-		"addr_lv2": "제주시",
-		"apply_nums": "182세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000289&pblancNo=2026000289&houseSecd=01",
-		"in_date": "20260703",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "신제주 동문디이스트 시그니처원Ⅱ",
-		"addr": "제주특별자치도 제주시 연동 274-25번지외 5필지",
-		"short_addr": "제주특별자치도 제주시",
-		"addr_lv1": "제주특별자치도",
-		"addr_lv2": "제주시",
-		"apply_nums": "196세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000278&pblancNo=2026000278&houseSecd=01",
-		"in_date": "20260703",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "양주 회천지구 A-8BL 로제비앙 엘가",
-		"addr": "경기도 양주시 회정동 양주신도시 회천지구 A8블록",
-		"short_addr": "경기도 양주시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "양주시",
-		"apply_nums": "361세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000272&pblancNo=2026000272&houseSecd=01",
-		"in_date": "20260703",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "함안가야 휴니온아르떼",
-		"addr": "경상남도 함안군 가야읍 말산리 58-1외 4필지",
-		"short_addr": "경상남도 함안군",
-		"addr_lv1": "경상남도",
-		"addr_lv2": "함안군",
-		"apply_nums": "92세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000281&pblancNo=2026000281&houseSecd=01",
-		"in_date": "20260703",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "이천 서희스타힐스 SKY(조합원 취소분)",
-		"addr": "경기도 이천시 안흥동 279-1번지 일원",
-		"short_addr": "경기도 이천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "이천시",
-		"apply_nums": "8세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940135&pblancNo=2026940135&houseSecd=11",
-		"in_date": "20260703",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "시흥 은계 에피트(7차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000274&pblancNo=2026000274&houseSecd=01",
 		"in_date": "20260706",
 		"hsecd": "01",
@@ -643,6 +570,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "중구",
 		"apply_nums": "19세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910174&pblancNo=2026910174&houseSecd=04",
+		"in_date": "20260713",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "힐스테이트 시흥더클래스",
+		"addr": "경기도 시흥시 대야동 140-5번지 일원",
+		"short_addr": "경기도 시흥시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "시흥시",
+		"apply_nums": "51세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940140&pblancNo=2026940140&houseSecd=11",
