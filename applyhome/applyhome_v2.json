@@ -533,6 +533,14 @@
 		"apply_nums": "83세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850038&pblancNo=2026850038&houseSecd=03",
+		"in_date": "20260713",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "부경경마공원역 대방 디에트르 더리버(AP1BL)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910166&pblancNo=2026910166&houseSecd=04",
 		"in_date": "20260713",
 		"hsecd": "04",
@@ -585,6 +593,19 @@
 		"apply_nums": "51세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026930023&pblancNo=2026930023&houseSecd=06",
+		"in_date": "20260713",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "루원시티 SK 리더스뷰",
+		"addr": "인천광역시 서해구 가정로 437(루원시티 SK 리더스뷰)",
+		"short_addr": "인천광역시 서해구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "서해구",
+		"apply_nums": "9세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940140&pblancNo=2026940140&houseSecd=11",
 		"in_date": "20260713",
 		"hsecd": "11",
@@ -632,6 +653,14 @@
 		"apply_nums": "83세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850038&pblancNo=2026850038&houseSecd=03",
+		"in_date": "20260714",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "부경경마공원역 대방 디에트르 더리버(AP1BL)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910175&pblancNo=2026910175&houseSecd=04",
 		"in_date": "20260714",
 		"hsecd": "04",
@@ -643,6 +672,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "중구",
 		"apply_nums": "19세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026930023&pblancNo=2026930023&houseSecd=06",
+		"in_date": "20260714",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "루원시티 SK 리더스뷰",
+		"addr": "인천광역시 서해구 가정로 437(루원시티 SK 리더스뷰)",
+		"short_addr": "인천광역시 서해구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "서해구",
+		"apply_nums": "9세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000153&pblancNo=2026000153&houseSecd=01",
@@ -695,5 +737,44 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "동작구",
 		"apply_nums": "72세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000253&pblancNo=2026000253&houseSecd=01",
+		"in_date": "20260720",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "거제 푸르지오 마린피스",
+		"addr": "경상남도 거제시 장평동 1번지 외 6필지",
+		"short_addr": "경상남도 거제시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "거제시",
+		"apply_nums": "423세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000253&pblancNo=2026000253&houseSecd=01",
+		"in_date": "20260721",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "거제 푸르지오 마린피스",
+		"addr": "경상남도 거제시 장평동 1번지 외 6필지",
+		"short_addr": "경상남도 거제시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "거제시",
+		"apply_nums": "423세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000253&pblancNo=2026000253&houseSecd=01",
+		"in_date": "20260722",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "거제 푸르지오 마린피스",
+		"addr": "경상남도 거제시 장평동 1번지 외 6필지",
+		"short_addr": "경상남도 거제시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "거제시",
+		"apply_nums": "423세대"
 	}
 ]
