@@ -567,6 +567,19 @@
 		"apply_nums": "53세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910176&pblancNo=2026910176&houseSecd=04",
+		"in_date": "20260713",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "오정 해모로 스마트시티(조합원 취소분)",
+		"addr": "경기도 부천시 오정구 오정동 613번지 일원",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "10세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910175&pblancNo=2026910175&houseSecd=04",
 		"in_date": "20260713",
 		"hsecd": "04",
@@ -591,6 +604,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "시흥시",
 		"apply_nums": "51세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910173&pblancNo=2026910173&houseSecd=04",
+		"in_date": "20260713",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "힐스테이트 앞산 센트럴(6차)",
+		"addr": "대구광역시 남구 대덕로 162",
+		"short_addr": "대구광역시 남구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "7세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026930023&pblancNo=2026930023&houseSecd=06",
@@ -674,6 +700,19 @@
 		"apply_nums": "19세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910177&pblancNo=2026910177&houseSecd=04",
+		"in_date": "20260714",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "호반써밋 풍무Ⅱ",
+		"addr": "김포 풍무역세권 C5블록 (경기도 김포시 사우동 527-1 일원)",
+		"short_addr": "김포 풍무역세권",
+		"addr_lv1": "김포",
+		"addr_lv2": "풍무역세권",
+		"apply_nums": "8세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026930023&pblancNo=2026930023&houseSecd=06",
 		"in_date": "20260714",
 		"hsecd": "06",
@@ -752,6 +791,32 @@
 		"apply_nums": "423세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000336&pblancNo=2026000336&houseSecd=01",
+		"in_date": "20260720",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "평택역 더센트럴45",
+		"addr": "경기도 평택시 평택동 45-1",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "99세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000329&pblancNo=2026000329&houseSecd=01",
+		"in_date": "20260720",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "호반써밋 풍무Ⅲ",
+		"addr": "김포 풍무역세권 B4블록 (경기도 김포시 사우동 458번지 일원)",
+		"short_addr": "김포 풍무역세권",
+		"addr_lv1": "김포",
+		"addr_lv2": "풍무역세권",
+		"apply_nums": "660세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000253&pblancNo=2026000253&houseSecd=01",
 		"in_date": "20260721",
 		"hsecd": "01",
@@ -765,6 +830,32 @@
 		"apply_nums": "423세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000336&pblancNo=2026000336&houseSecd=01",
+		"in_date": "20260721",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "평택역 더센트럴45",
+		"addr": "경기도 평택시 평택동 45-1",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "99세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000329&pblancNo=2026000329&houseSecd=01",
+		"in_date": "20260721",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "호반써밋 풍무Ⅲ",
+		"addr": "김포 풍무역세권 B4블록 (경기도 김포시 사우동 458번지 일원)",
+		"short_addr": "김포 풍무역세권",
+		"addr_lv1": "김포",
+		"addr_lv2": "풍무역세권",
+		"apply_nums": "660세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000253&pblancNo=2026000253&houseSecd=01",
 		"in_date": "20260722",
 		"hsecd": "01",
@@ -776,5 +867,31 @@
 		"addr_lv1": "경상남도",
 		"addr_lv2": "거제시",
 		"apply_nums": "423세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000336&pblancNo=2026000336&houseSecd=01",
+		"in_date": "20260722",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "평택역 더센트럴45",
+		"addr": "경기도 평택시 평택동 45-1",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "99세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000329&pblancNo=2026000329&houseSecd=01",
+		"in_date": "20260722",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "호반써밋 풍무Ⅲ",
+		"addr": "김포 풍무역세권 B4블록 (경기도 김포시 사우동 458번지 일원)",
+		"short_addr": "김포 풍무역세권",
+		"addr_lv1": "김포",
+		"addr_lv2": "풍무역세권",
+		"apply_nums": "660세대"
 	}
 ]
