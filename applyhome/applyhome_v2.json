@@ -1,196 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000274&pblancNo=2026000274&houseSecd=01",
-		"in_date": "20260706",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "군산 세경아파트 우선분양전환 후 잔여세대 ",
-		"addr": "전북특별자치도 군산시 양안로 123 (조촌동, 세경아파트)",
-		"short_addr": "전북특별자치도 군산시",
-		"addr_lv1": "전북특별자치도",
-		"addr_lv2": "군산시",
-		"apply_nums": "153세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000300&pblancNo=2026000300&houseSecd=01",
-		"in_date": "20260706",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "천안 아이파크 시티 1단지(2회차)",
-		"addr": "충청남도 천안시 서북구 성성동 34-4번지 일원",
-		"short_addr": "충청남도 천안시",
-		"addr_lv1": "충청남도",
-		"addr_lv2": "천안시",
-		"apply_nums": "234세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000271&pblancNo=2026000271&houseSecd=01",
-		"in_date": "20260706",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "트리븐 김해",
-		"addr": "경상남도 김해시 내동 243-1번지 일원",
-		"short_addr": "경상남도 김해시",
-		"addr_lv1": "경상남도",
-		"addr_lv2": "김해시",
-		"apply_nums": "398세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000288&pblancNo=2026000288&houseSecd=01",
-		"in_date": "20260706",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "신제주 동문디이스트 시그니처원Ⅰ",
-		"addr": "제주특별자치도 제주시 연동 274-12번지외 4필지",
-		"short_addr": "제주특별자치도 제주시",
-		"addr_lv1": "제주특별자치도",
-		"addr_lv2": "제주시",
-		"apply_nums": "182세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000289&pblancNo=2026000289&houseSecd=01",
-		"in_date": "20260706",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "신제주 동문디이스트 시그니처원Ⅱ",
-		"addr": "제주특별자치도 제주시 연동 274-25번지외 5필지",
-		"short_addr": "제주특별자치도 제주시",
-		"addr_lv1": "제주특별자치도",
-		"addr_lv2": "제주시",
-		"apply_nums": "196세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000278&pblancNo=2026000278&houseSecd=01",
-		"in_date": "20260706",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "양주 회천지구 A-8BL 로제비앙 엘가",
-		"addr": "경기도 양주시 회정동 양주신도시 회천지구 A8블록",
-		"short_addr": "경기도 양주시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "양주시",
-		"apply_nums": "361세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000272&pblancNo=2026000272&houseSecd=01",
-		"in_date": "20260706",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "함안가야 휴니온아르떼",
-		"addr": "경상남도 함안군 가야읍 말산리 58-1외 4필지",
-		"short_addr": "경상남도 함안군",
-		"addr_lv1": "경상남도",
-		"addr_lv2": "함안군",
-		"apply_nums": "92세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950064&pblancNo=2026950064&houseSecd=02",
-		"in_date": "20260706",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "당산역 더클래스 한강",
-		"addr": " 서울특별시 영등포구 당산동6가 341-1번지",
-		"short_addr": " 서울특별시",
-		"addr_lv1": "",
-		"addr_lv2": "서울특별시",
-		"apply_nums": "5세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910163&pblancNo=2026910163&houseSecd=04",
-		"in_date": "20260706",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "더샵 관저아르테",
-		"addr": "대전광역시 서구 관저동 1988번지",
-		"short_addr": "대전광역시 서구",
-		"addr_lv1": "대전광역시",
-		"addr_lv2": "서구",
-		"apply_nums": "223세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910171&pblancNo=2026910171&houseSecd=04",
-		"in_date": "20260706",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "메트로시티 자산 데시앙",
-		"addr": "경상남도 창원시 마산합포구 자산동 83-2번지 일원",
-		"short_addr": "경상남도 창원시",
-		"addr_lv1": "경상남도",
-		"addr_lv2": "창원시",
-		"apply_nums": "9세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910169&pblancNo=2026910169&houseSecd=04",
-		"in_date": "20260706",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "써밋 더힐",
-		"addr": "서울특별시 동작구 흑석동 304번지 일원",
-		"short_addr": "서울특별시 동작구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "동작구",
-		"apply_nums": "3세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910167&pblancNo=2026910167&houseSecd=04",
-		"in_date": "20260706",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "오남역 서희스타힐스 여의재 3단지",
-		"addr": "경기도 남양주시 오남읍 양지리 186-10 일원",
-		"short_addr": "경기도 남양주시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "남양주시",
-		"apply_nums": "58세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910156&pblancNo=2026910156&houseSecd=04",
-		"in_date": "20260706",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "오션포레베네스트하우스(미단시티 공동8BL)",
-		"addr": "인천광역시 중구 자연대로 667(오션포레베네스트하우스)",
-		"short_addr": "인천광역시 중구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "중구",
-		"apply_nums": "3세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910168&pblancNo=2026910168&houseSecd=04",
-		"in_date": "20260706",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "해운대 마티안 디 에디션",
-		"addr": "부산광역시 해운대구 중동 1615번지 일원",
-		"short_addr": "부산광역시 해운대구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "해운대구",
-		"apply_nums": "26세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940133&pblancNo=2026940133&houseSecd=11",
-		"in_date": "20260706",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "대전 하늘채 루시에르(2회차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000274&pblancNo=2026000274&houseSecd=01",
 		"in_date": "20260707",
 		"hsecd": "01",
 		"rse": "02",
@@ -726,6 +536,14 @@
 		"apply_nums": "9세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940143&pblancNo=2026940143&houseSecd=11",
+		"in_date": "20260714",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "해링턴플레이스 오룡역"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000153&pblancNo=2026000153&houseSecd=01",
 		"in_date": "20260715",
 		"hsecd": "01",
@@ -765,6 +583,14 @@
 		"apply_nums": "83세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850037&pblancNo=2026850037&houseSecd=03",
+		"in_date": "20260715",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "의왕청계역 시티프라디움 디하모니"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000153&pblancNo=2026000153&houseSecd=01",
 		"in_date": "20260716",
 		"hsecd": "01",
@@ -791,6 +617,32 @@
 		"apply_nums": "423세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000310&pblancNo=2026000310&houseSecd=01",
+		"in_date": "20260720",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "남양주 진접 서한이다음(S1BL)",
+		"addr": "경기도 남양주시 진접2 공공주택지구 S1BL",
+		"short_addr": "경기도 남양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "남양주시",
+		"apply_nums": "361세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000301&pblancNo=2026000301&houseSecd=01",
+		"in_date": "20260720",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "의왕역 SK VIEW",
+		"addr": "경기도 의왕시 삼동 192-244번지 일원",
+		"short_addr": "경기도 의왕시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "의왕시",
+		"apply_nums": "820세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000336&pblancNo=2026000336&houseSecd=01",
 		"in_date": "20260720",
 		"hsecd": "01",
@@ -830,6 +682,32 @@
 		"apply_nums": "423세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000310&pblancNo=2026000310&houseSecd=01",
+		"in_date": "20260721",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "남양주 진접 서한이다음(S1BL)",
+		"addr": "경기도 남양주시 진접2 공공주택지구 S1BL",
+		"short_addr": "경기도 남양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "남양주시",
+		"apply_nums": "361세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000301&pblancNo=2026000301&houseSecd=01",
+		"in_date": "20260721",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "의왕역 SK VIEW",
+		"addr": "경기도 의왕시 삼동 192-244번지 일원",
+		"short_addr": "경기도 의왕시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "의왕시",
+		"apply_nums": "820세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000336&pblancNo=2026000336&houseSecd=01",
 		"in_date": "20260721",
 		"hsecd": "01",
@@ -854,6 +732,19 @@
 		"addr_lv1": "김포",
 		"addr_lv2": "풍무역세권",
 		"apply_nums": "660세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000301&pblancNo=2026000301&houseSecd=01",
+		"in_date": "20260722",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "의왕역 SK VIEW",
+		"addr": "경기도 의왕시 삼동 192-244번지 일원",
+		"short_addr": "경기도 의왕시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "의왕시",
+		"apply_nums": "820세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000253&pblancNo=2026000253&houseSecd=01",
@@ -869,6 +760,19 @@
 		"apply_nums": "423세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000310&pblancNo=2026000310&houseSecd=01",
+		"in_date": "20260722",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "남양주 진접 서한이다음(S1BL)",
+		"addr": "경기도 남양주시 진접2 공공주택지구 S1BL",
+		"short_addr": "경기도 남양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "남양주시",
+		"apply_nums": "361세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000336&pblancNo=2026000336&houseSecd=01",
 		"in_date": "20260722",
 		"hsecd": "01",
@@ -893,5 +797,18 @@
 		"addr_lv1": "김포",
 		"addr_lv2": "풍무역세권",
 		"apply_nums": "660세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000301&pblancNo=2026000301&houseSecd=01",
+		"in_date": "20260723",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "의왕역 SK VIEW",
+		"addr": "경기도 의왕시 삼동 192-244번지 일원",
+		"short_addr": "경기도 의왕시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "의왕시",
+		"apply_nums": "820세대"
 	}
 ]
