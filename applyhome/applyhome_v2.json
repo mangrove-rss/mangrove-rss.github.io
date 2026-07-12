@@ -1,42 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850010&pblancNo=2026850010&houseSecd=03",
-		"in_date": "20260709",
-		"hsecd": "03",
-		"rse": "04",
-		"type": "",
-		"name": "한화포레나 유성 1단지"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910166&pblancNo=2026910166&houseSecd=04",
-		"in_date": "20260709",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "대방역 여의도 더로드캐슬(4차)",
-		"addr": "서울특별시 영등포구 신길동 449-11",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "5세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940140&pblancNo=2026940140&houseSecd=11",
-		"in_date": "20260709",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "더샵 분당센트로(3차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940142&pblancNo=2026940142&houseSecd=11",
-		"in_date": "20260709",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "인천영종국제도시 디에트르 라 메르Ⅰ(RC4-1,2BL)(3차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910166&pblancNo=2026910166&houseSecd=04",
 		"in_date": "20260710",
 		"hsecd": "04",
@@ -398,6 +361,14 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "동작구",
 		"apply_nums": "72세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940145&pblancNo=2026940145&houseSecd=11",
+		"in_date": "20260716",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "서수원 에피트 센트럴마크(M2BL)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000253&pblancNo=2026000253&houseSecd=01",
