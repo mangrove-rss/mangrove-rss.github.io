@@ -1,27 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910166&pblancNo=2026910166&houseSecd=04",
-		"in_date": "20260710",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "대방역 여의도 더로드캐슬(4차)",
-		"addr": "서울특별시 영등포구 신길동 449-11",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "5세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940140&pblancNo=2026940140&houseSecd=11",
-		"in_date": "20260710",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "더샵 분당센트로(3차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910166&pblancNo=2026910166&houseSecd=04",
 		"in_date": "20260711",
 		"hsecd": "04",
 		"rse": "06",
@@ -363,6 +342,14 @@
 		"apply_nums": "72세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940146&pblancNo=2026940146&houseSecd=11",
+		"in_date": "20260716",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "부천역 에피트 어바닉(2차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940145&pblancNo=2026940145&houseSecd=11",
 		"in_date": "20260716",
 		"hsecd": "11",
@@ -371,6 +358,54 @@
 		"name": "서수원 에피트 센트럴마크(M2BL)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940144&pblancNo=2026940144&houseSecd=11",
+		"in_date": "20260716",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "용인 푸르지오 클루센트(5차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940149&pblancNo=2026940149&houseSecd=11",
+		"in_date": "20260716",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "의정부역 센트럴 아이파크 (2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940148&pblancNo=2026940148&houseSecd=11",
+		"in_date": "20260716",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "풍무역 롯데캐슬 시그니처(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940144&pblancNo=2026940144&houseSecd=11",
+		"in_date": "20260717",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "용인 푸르지오 클루센트(5차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940144&pblancNo=2026940144&houseSecd=11",
+		"in_date": "20260718",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "용인 푸르지오 클루센트(5차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940144&pblancNo=2026940144&houseSecd=11",
+		"in_date": "20260719",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "용인 푸르지오 클루센트(5차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000253&pblancNo=2026000253&houseSecd=01",
 		"in_date": "20260720",
 		"hsecd": "01",
@@ -501,6 +536,14 @@
 		"apply_nums": "660세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940144&pblancNo=2026940144&houseSecd=11",
+		"in_date": "20260720",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "용인 푸르지오 클루센트(5차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000253&pblancNo=2026000253&houseSecd=01",
 		"in_date": "20260721",
 		"hsecd": "01",
@@ -629,6 +672,14 @@
 		"addr_lv1": "김포",
 		"addr_lv2": "풍무역세권",
 		"apply_nums": "660세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940144&pblancNo=2026940144&houseSecd=11",
+		"in_date": "20260721",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "용인 푸르지오 클루센트(5차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000301&pblancNo=2026000301&houseSecd=01",
