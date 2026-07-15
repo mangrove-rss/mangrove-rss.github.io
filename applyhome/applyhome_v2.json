@@ -1,26 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910166&pblancNo=2026910166&houseSecd=04",
-		"in_date": "20260712",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "대방역 여의도 더로드캐슬(4차)",
-		"addr": "서울특별시 영등포구 신길동 449-11",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "5세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940140&pblancNo=2026940140&houseSecd=11",
-		"in_date": "20260712",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "더샵 분당센트로(3차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000153&pblancNo=2026000153&houseSecd=01",
 		"in_date": "20260713",
 		"hsecd": "01",
@@ -515,6 +494,19 @@
 		"apply_nums": "660세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910179&pblancNo=2026910179&houseSecd=04",
+		"in_date": "20260720",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "동대구역 더샵 센터시티",
+		"addr": "대구광역시 동구 동부로 19길 18 ",
+		"short_addr": "대구광역시 동구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "동구",
+		"apply_nums": "1세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910182&pblancNo=2026910182&houseSecd=04",
 		"in_date": "20260720",
 		"hsecd": "04",
@@ -552,6 +544,19 @@
 		"addr_lv1": "충청남도",
 		"addr_lv2": "천안시",
 		"apply_nums": "261세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910183&pblancNo=2026910183&houseSecd=04",
+		"in_date": "20260720",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "순천금호어울림더파크2차",
+		"addr": "전라남도 순천시 서면 선평리 613번지 일원",
+		"short_addr": "전라남도 순천시",
+		"addr_lv1": "전라남도",
+		"addr_lv2": "순천시",
+		"apply_nums": "1세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940144&pblancNo=2026940144&houseSecd=11",
@@ -692,12 +697,85 @@
 		"apply_nums": "660세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910184&pblancNo=2026910184&houseSecd=04",
+		"in_date": "20260721",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "알티에로 광안",
+		"addr": "부산광역시 수영구 민락동 316-2번지 일원",
+		"short_addr": "부산광역시 수영구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "수영구",
+		"apply_nums": "12세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910180&pblancNo=2026910180&houseSecd=04",
+		"in_date": "20260721",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "평택 고덕 우미 린 프레스티지(Abc-36BL)",
+		"addr": "경기도 평택시 고덕 국제화계획지구 내 Abc-36블록",
+		"short_addr": "경기도 평택시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "평택시",
+		"apply_nums": "192세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910185&pblancNo=2026910185&houseSecd=04",
+		"in_date": "20260721",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "포레나더샵 인천시청역(2차)",
+		"addr": "인천광역시 남동구 간석1동 311-1번지 일원",
+		"short_addr": "인천광역시 남동구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "남동구",
+		"apply_nums": "10세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910189&pblancNo=2026910189&houseSecd=04",
+		"in_date": "20260721",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "호반써밋 첨단3지구(A7BL)",
+		"addr": "광주연구개발특구 첨단3지구 A7블록(전남광주통합특별시 북구 월출동) ",
+		"short_addr": "광주연구개발특구 첨단3지구",
+		"addr_lv1": "광주연구개발특구",
+		"addr_lv2": "첨단3지구",
+		"apply_nums": "154세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910190&pblancNo=2026910190&houseSecd=04",
+		"in_date": "20260721",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "호반써밋 첨단3지구(A8BL)",
+		"addr": "광주연구개발특구 첨단3지구 A8블록(전남광주통합특별시 장성군 진원면) ",
+		"short_addr": "광주연구개발특구 첨단3지구",
+		"addr_lv1": "광주연구개발특구",
+		"addr_lv2": "첨단3지구",
+		"apply_nums": "113세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940144&pblancNo=2026940144&houseSecd=11",
 		"in_date": "20260721",
 		"hsecd": "11",
 		"rse": "11",
 		"type": "",
 		"name": "용인 푸르지오 클루센트(5차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940150&pblancNo=2026940150&houseSecd=11",
+		"in_date": "20260721",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "힐스테이트 회룡역파크뷰(2차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000301&pblancNo=2026000301&houseSecd=01",
