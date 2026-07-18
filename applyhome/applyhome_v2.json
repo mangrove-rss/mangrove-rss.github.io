@@ -1,53 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000153&pblancNo=2026000153&houseSecd=01",
-		"in_date": "20260715",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "동작 센트럴 동문 디 이스트",
-		"addr": "서울특별시 동작구 상도동 363-10번지 일원",
-		"short_addr": "서울특별시 동작구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "동작구",
-		"apply_nums": "72세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000328&pblancNo=2026000328&houseSecd=01",
-		"in_date": "20260715",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "센텀 엘카사",
-		"addr": "울산광역시 울주군 온양읍 화산발리로 706",
-		"short_addr": "울산광역시 울주군",
-		"addr_lv1": "울산광역시",
-		"addr_lv2": "울주군",
-		"apply_nums": "74세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000290&pblancNo=2026000290&houseSecd=01",
-		"in_date": "20260715",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "야목역 서희스타힐스 그랜드힐(조합원 취소분)",
-		"addr": "경기도 화성시 효행구 비봉면 구포리 614-18번지 일원",
-		"short_addr": "경기도 화성시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "화성시",
-		"apply_nums": "83세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850037&pblancNo=2026850037&houseSecd=03",
-		"in_date": "20260715",
-		"hsecd": "03",
-		"rse": "04",
-		"type": "",
-		"name": "의왕청계역 시티프라디움 디하모니"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000153&pblancNo=2026000153&houseSecd=01",
 		"in_date": "20260716",
 		"hsecd": "01",
 		"rse": "03",
