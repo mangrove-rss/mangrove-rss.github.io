@@ -1,58 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000153&pblancNo=2026000153&houseSecd=01",
-		"in_date": "20260716",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "동작 센트럴 동문 디 이스트",
-		"addr": "서울특별시 동작구 상도동 363-10번지 일원",
-		"short_addr": "서울특별시 동작구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "동작구",
-		"apply_nums": "72세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940146&pblancNo=2026940146&houseSecd=11",
-		"in_date": "20260716",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "부천역 에피트 어바닉(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940145&pblancNo=2026940145&houseSecd=11",
-		"in_date": "20260716",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "서수원 에피트 센트럴마크(M2BL)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940144&pblancNo=2026940144&houseSecd=11",
-		"in_date": "20260716",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "용인 푸르지오 클루센트(5차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940149&pblancNo=2026940149&houseSecd=11",
-		"in_date": "20260716",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "의정부역 센트럴 아이파크 (2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940148&pblancNo=2026940148&houseSecd=11",
-		"in_date": "20260716",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "풍무역 롯데캐슬 시그니처(2차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940144&pblancNo=2026940144&houseSecd=11",
 		"in_date": "20260717",
 		"hsecd": "11",
@@ -621,6 +568,22 @@
 		"apply_nums": "660세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940147&pblancNo=2026940147&houseSecd=11",
+		"in_date": "20260722",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "고촌센트럴자이(12차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940152&pblancNo=2026940152&houseSecd=11",
+		"in_date": "20260722",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(21차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000301&pblancNo=2026000301&houseSecd=01",
 		"in_date": "20260723",
 		"hsecd": "01",
@@ -634,6 +597,46 @@
 		"apply_nums": "820세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940147&pblancNo=2026940147&houseSecd=11",
+		"in_date": "20260723",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "고촌센트럴자이(12차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940152&pblancNo=2026940152&houseSecd=11",
+		"in_date": "20260723",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(21차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940152&pblancNo=2026940152&houseSecd=11",
+		"in_date": "20260724",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(21차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940152&pblancNo=2026940152&houseSecd=11",
+		"in_date": "20260725",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(21차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940152&pblancNo=2026940152&houseSecd=11",
+		"in_date": "20260726",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(21차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000355&pblancNo=2026000355&houseSecd=01",
 		"in_date": "20260727",
 		"hsecd": "01",
@@ -684,6 +687,14 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "용인시",
 		"apply_nums": "5세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940152&pblancNo=2026940152&houseSecd=11",
+		"in_date": "20260727",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(21차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000355&pblancNo=2026000355&houseSecd=01",
@@ -736,6 +747,14 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "용인시",
 		"apply_nums": "5세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940152&pblancNo=2026940152&houseSecd=11",
+		"in_date": "20260728",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(21차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000355&pblancNo=2026000355&houseSecd=01",
