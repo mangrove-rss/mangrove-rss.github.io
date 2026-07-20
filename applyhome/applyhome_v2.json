@@ -1,14 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940144&pblancNo=2026940144&houseSecd=11",
-		"in_date": "20260717",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "용인 푸르지오 클루센트(5차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940144&pblancNo=2026940144&houseSecd=11",
 		"in_date": "20260718",
 		"hsecd": "11",
 		"rse": "11",
@@ -613,12 +605,28 @@
 		"name": "리아츠 더 인천(21차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940154&pblancNo=2026940154&houseSecd=11",
+		"in_date": "20260723",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "인천영종국제도시 디에트르 라 메르Ⅰ(RC4-1,2BL)(4차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940152&pblancNo=2026940152&houseSecd=11",
 		"in_date": "20260724",
 		"hsecd": "11",
 		"rse": "11",
 		"type": "",
 		"name": "리아츠 더 인천(21차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940154&pblancNo=2026940154&houseSecd=11",
+		"in_date": "20260724",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "인천영종국제도시 디에트르 라 메르Ⅰ(RC4-1,2BL)(4차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940152&pblancNo=2026940152&houseSecd=11",
