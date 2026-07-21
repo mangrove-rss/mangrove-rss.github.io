@@ -1,14 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940144&pblancNo=2026940144&houseSecd=11",
-		"in_date": "20260718",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "용인 푸르지오 클루센트(5차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940144&pblancNo=2026940144&houseSecd=11",
 		"in_date": "20260719",
 		"hsecd": "11",
 		"rse": "11",
@@ -629,6 +621,14 @@
 		"name": "인천영종국제도시 디에트르 라 메르Ⅰ(RC4-1,2BL)(4차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940155&pblancNo=2026940155&houseSecd=11",
+		"in_date": "20260724",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "풍무역세권 수자인 그라센트 2차"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940152&pblancNo=2026940152&houseSecd=11",
 		"in_date": "20260725",
 		"hsecd": "11",
@@ -695,6 +695,58 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "용인시",
 		"apply_nums": "5세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910198&pblancNo=2026910198&houseSecd=04",
+		"in_date": "20260727",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "판교TH212",
+		"addr": "경기도 성남시 분당구 대장동 B2, B3BL ",
+		"short_addr": "경기도 성남시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "성남시",
+		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910191&pblancNo=2026910191&houseSecd=04",
+		"in_date": "20260727",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "힐스테이트 양산더스카이 1단지",
+		"addr": "경상남도 양산시 물금읍 가촌리 971번지 일원",
+		"short_addr": "경상남도 양산시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "양산시",
+		"apply_nums": "239세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910192&pblancNo=2026910192&houseSecd=04",
+		"in_date": "20260727",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "힐스테이트 양산더스카이 2단지",
+		"addr": "경상남도 양산시 물금읍 범어리 940-2번지 일원",
+		"short_addr": "경상남도 양산시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "양산시",
+		"apply_nums": "37세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026930024&pblancNo=2026930024&houseSecd=06",
+		"in_date": "20260727",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "e편한세상 강동 프레스티지원",
+		"addr": "서울특별시 강동구 올림픽로78길 37 e편한세상 강동 프레스티지원",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "1세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940152&pblancNo=2026940152&houseSecd=11",
