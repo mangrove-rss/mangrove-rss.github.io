@@ -1,13 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940144&pblancNo=2026940144&houseSecd=11",
-		"in_date": "20260719",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "용인 푸르지오 클루센트(5차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000253&pblancNo=2026000253&houseSecd=01",
 		"in_date": "20260720",
 		"hsecd": "01",
@@ -697,6 +689,19 @@
 		"apply_nums": "5세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910195&pblancNo=2026910195&houseSecd=04",
+		"in_date": "20260727",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "아산배방(2-A13BL) 금강펜테리움 센트럴파크",
+		"addr": "충청남도 아산시 배방읍 세교리 1562(충청남도 아산시 배방읍 세교리 아산탕정지구 2-A13BL)",
+		"short_addr": "충청남도 아산시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "아산시",
+		"apply_nums": "1세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910198&pblancNo=2026910198&houseSecd=04",
 		"in_date": "20260727",
 		"hsecd": "04",
@@ -757,6 +762,22 @@
 		"name": "리아츠 더 인천(21차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940153&pblancNo=2026940153&houseSecd=11",
+		"in_date": "20260727",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "수원이목지구 대방 디에트르 더 리체Ⅱ(A3BL) (18차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940157&pblancNo=2026940157&houseSecd=11",
+		"in_date": "20260727",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "해링턴 플레이스 노원 센트럴"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000355&pblancNo=2026000355&houseSecd=01",
 		"in_date": "20260728",
 		"hsecd": "01",
@@ -809,12 +830,33 @@
 		"apply_nums": "5세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910194&pblancNo=2026910194&houseSecd=04",
+		"in_date": "20260728",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "아크로 리버스카이",
+		"addr": "서울특별시 동작구 대방동 23-61번지 일대",
+		"short_addr": "서울특별시 동작구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "동작구",
+		"apply_nums": "3세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940152&pblancNo=2026940152&houseSecd=11",
 		"in_date": "20260728",
 		"hsecd": "11",
 		"rse": "11",
 		"type": "",
 		"name": "리아츠 더 인천(21차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940153&pblancNo=2026940153&houseSecd=11",
+		"in_date": "20260728",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "수원이목지구 대방 디에트르 더 리체Ⅱ(A3BL) (18차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000355&pblancNo=2026000355&houseSecd=01",
