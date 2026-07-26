@@ -1,42 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000301&pblancNo=2026000301&houseSecd=01",
-		"in_date": "20260723",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "의왕역 SK VIEW",
-		"addr": "경기도 의왕시 삼동 192-244번지 일원",
-		"short_addr": "경기도 의왕시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "의왕시",
-		"apply_nums": "820세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940147&pblancNo=2026940147&houseSecd=11",
-		"in_date": "20260723",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "고촌센트럴자이(12차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940152&pblancNo=2026940152&houseSecd=11",
-		"in_date": "20260723",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "리아츠 더 인천(21차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940154&pblancNo=2026940154&houseSecd=11",
-		"in_date": "20260723",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "인천영종국제도시 디에트르 라 메르Ⅰ(RC4-1,2BL)(4차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940152&pblancNo=2026940152&houseSecd=11",
 		"in_date": "20260724",
 		"hsecd": "11",
@@ -492,6 +455,19 @@
 		"apply_nums": "1307세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000295&pblancNo=2026000295&houseSecd=01",
+		"in_date": "20260803",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "아산테크노밸리 더원 7차 (Ab4BL)",
+		"addr": "충청남도 아산시 둔포면 아산테크노밸리 Ab4BL (아산시 둔포면 석곡리 1818번지 일원)",
+		"short_addr": "충청남도 아산시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "아산시",
+		"apply_nums": "622세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000318&pblancNo=2026000318&houseSecd=01",
 		"in_date": "20260804",
 		"hsecd": "01",
@@ -531,6 +507,19 @@
 		"apply_nums": "1307세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000295&pblancNo=2026000295&houseSecd=01",
+		"in_date": "20260804",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "아산테크노밸리 더원 7차 (Ab4BL)",
+		"addr": "충청남도 아산시 둔포면 아산테크노밸리 Ab4BL (아산시 둔포면 석곡리 1818번지 일원)",
+		"short_addr": "충청남도 아산시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "아산시",
+		"apply_nums": "622세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000318&pblancNo=2026000318&houseSecd=01",
 		"in_date": "20260805",
 		"hsecd": "01",
@@ -568,5 +557,18 @@
 		"addr_lv1": "경상남도",
 		"addr_lv2": "거제시",
 		"apply_nums": "1307세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000295&pblancNo=2026000295&houseSecd=01",
+		"in_date": "20260805",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "아산테크노밸리 더원 7차 (Ab4BL)",
+		"addr": "충청남도 아산시 둔포면 아산테크노밸리 Ab4BL (아산시 둔포면 석곡리 1818번지 일원)",
+		"short_addr": "충청남도 아산시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "아산시",
+		"apply_nums": "622세대"
 	}
 ]
