@@ -1,13 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940152&pblancNo=2026940152&houseSecd=11",
-		"in_date": "20260726",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "리아츠 더 인천(21차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000355&pblancNo=2026000355&houseSecd=01",
 		"in_date": "20260727",
 		"hsecd": "01",
@@ -504,6 +496,22 @@
 		"apply_nums": "2세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940162&pblancNo=2026940162&houseSecd=11",
+		"in_date": "20260803",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "대전 에테르 스위첸(5차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940163&pblancNo=2026940163&houseSecd=11",
+		"in_date": "20260803",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "서수원 에피트 센트럴마크(M1BL)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000318&pblancNo=2026000318&houseSecd=01",
 		"in_date": "20260804",
 		"hsecd": "01",
@@ -562,6 +570,87 @@
 		"rse": "04",
 		"type": "",
 		"name": "부경경마공원역 대방 디에트르 더리버(AP1BL)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910207&pblancNo=2026910207&houseSecd=04",
+		"in_date": "20260804",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "더샵 송도그란테르 G5-11블록",
+		"addr": "인천광역시 연수구 송도동 32-15 (G5-11BL)",
+		"short_addr": "인천광역시 연수구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "연수구",
+		"apply_nums": "45세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910203&pblancNo=2026910203&houseSecd=04",
+		"in_date": "20260804",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "더샵 송도그란테르 G5-1블록",
+		"addr": "인천광역시 연수구 송도동 32-1,-4 (G5-1BL)",
+		"short_addr": "인천광역시 연수구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "연수구",
+		"apply_nums": "35세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910204&pblancNo=2026910204&houseSecd=04",
+		"in_date": "20260804",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "더샵 송도그란테르 G5-3블록",
+		"addr": "인천광역시 연수구 송도동 32-12 (G5-3BL)",
+		"short_addr": "인천광역시 연수구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "연수구",
+		"apply_nums": "22세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910205&pblancNo=2026910205&houseSecd=04",
+		"in_date": "20260804",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "더샵 송도그란테르 G5-4블록",
+		"addr": "인천광역시 연수구 송도동 32-10 (G5-4BL)",
+		"short_addr": "인천광역시 연수구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "연수구",
+		"apply_nums": "36세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910206&pblancNo=2026910206&houseSecd=04",
+		"in_date": "20260804",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "더샵 송도그란테르 G5-5블록",
+		"addr": "인천광역시 연수구 송도동 32-8 (G5-5BL)",
+		"short_addr": "인천광역시 연수구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "연수구",
+		"apply_nums": "12세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940162&pblancNo=2026940162&houseSecd=11",
+		"in_date": "20260804",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "대전 에테르 스위첸(5차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940163&pblancNo=2026940163&houseSecd=11",
+		"in_date": "20260804",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "서수원 에피트 센트럴마크(M1BL)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000318&pblancNo=2026000318&houseSecd=01",
@@ -655,6 +744,19 @@
 		"apply_nums": "8세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000356&pblancNo=2026000356&houseSecd=01",
+		"in_date": "20260810",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "두산위브더제니스 대연",
+		"addr": "부산광역시 남구 대연동 1756-9번지",
+		"short_addr": "부산광역시 남구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "176세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950067&pblancNo=2026950067&houseSecd=02",
 		"in_date": "20260810",
 		"hsecd": "02",
@@ -668,6 +770,19 @@
 		"apply_nums": "8세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000356&pblancNo=2026000356&houseSecd=01",
+		"in_date": "20260811",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "두산위브더제니스 대연",
+		"addr": "부산광역시 남구 대연동 1756-9번지",
+		"short_addr": "부산광역시 남구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "176세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950067&pblancNo=2026950067&houseSecd=02",
 		"in_date": "20260811",
 		"hsecd": "02",
@@ -679,5 +794,18 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "관악구",
 		"apply_nums": "8세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000356&pblancNo=2026000356&houseSecd=01",
+		"in_date": "20260812",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "두산위브더제니스 대연",
+		"addr": "부산광역시 남구 대연동 1756-9번지",
+		"short_addr": "부산광역시 남구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "176세대"
 	}
 ]
