@@ -523,6 +523,45 @@
 		"apply_nums": "1세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910170&pblancNo=2026910170&houseSecd=04",
+		"in_date": "20260810",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "용현자이 크레스트(2차)",
+		"addr": "인천광역시 미추홀구 용현동 535-1번지 일원",
+		"short_addr": "인천광역시 미추홀구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "미추홀구",
+		"apply_nums": "6세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910212&pblancNo=2026910212&houseSecd=04",
+		"in_date": "20260810",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "장위 푸르지오 마크원",
+		"addr": "서울특별시 성북구 장위동 68-37 일대",
+		"short_addr": "서울특별시 성북구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "성북구",
+		"apply_nums": "39세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910209&pblancNo=2026910209&houseSecd=04",
+		"in_date": "20260810",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "천안 아이파크 시티 1단지(2회차)",
+		"addr": "충청남도 천안시 서북구 성성동 34-4번지 일원",
+		"short_addr": "충청남도 천안시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "천안시",
+		"apply_nums": "86세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940161&pblancNo=2026940161&houseSecd=11",
 		"in_date": "20260810",
 		"hsecd": "11",
