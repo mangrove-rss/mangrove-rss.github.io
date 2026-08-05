@@ -669,6 +669,30 @@
 		"apply_nums": "2432세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850039&pblancNo=2026850039&houseSecd=03",
+		"in_date": "20260812",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "성동스페이스"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850039&pblancNo=2026850039&houseSecd=03",
+		"in_date": "20260813",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "성동스페이스"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850039&pblancNo=2026850039&houseSecd=03",
+		"in_date": "20260814",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "성동스페이스"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940119&pblancNo=2026940119&houseSecd=11",
 		"in_date": "20260818",
 		"hsecd": "11",
