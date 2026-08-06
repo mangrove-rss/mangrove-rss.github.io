@@ -1,134 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000318&pblancNo=2026000318&houseSecd=01",
-		"in_date": "20260803",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "더샵 트리센트",
-		"addr": "부산광역시 남구 문현동 334번지 일원",
-		"short_addr": "부산광역시 남구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "남구",
-		"apply_nums": "156세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000293&pblancNo=2026000293&houseSecd=01",
-		"in_date": "20260803",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "리쉐스302",
-		"addr": "강원특별자치도 강릉시 교동 156-35번지 일원",
-		"short_addr": "강원특별자치도 강릉시",
-		"addr_lv1": "강원특별자치도",
-		"addr_lv2": "강릉시",
-		"apply_nums": "302세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000331&pblancNo=2026000331&houseSecd=01",
-		"in_date": "20260803",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "센트레빌 아스테리움 거제",
-		"addr": "경상남도 거제시 상동동 681-2번지 일원",
-		"short_addr": "경상남도 거제시",
-		"addr_lv1": "경상남도",
-		"addr_lv2": "거제시",
-		"apply_nums": "1307세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000295&pblancNo=2026000295&houseSecd=01",
-		"in_date": "20260803",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "아산테크노밸리 더원 7차 (Ab4BL)",
-		"addr": "충청남도 아산시 둔포면 아산테크노밸리 Ab4BL (아산시 둔포면 석곡리 1818번지 일원)",
-		"short_addr": "충청남도 아산시",
-		"addr_lv1": "충청남도",
-		"addr_lv2": "아산시",
-		"apply_nums": "622세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850041&pblancNo=2026850041&houseSecd=03",
-		"in_date": "20260803",
-		"hsecd": "03",
-		"rse": "04",
-		"type": "",
-		"name": "부경경마공원역 대방 디에트르 더리버(AP1BL)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910193&pblancNo=2026910193&houseSecd=04",
-		"in_date": "20260803",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "김해 신문 센트럴 아이파크",
-		"addr": "경상남도 김해시 신문동 장유신문지구 A34-1블럭 일원",
-		"short_addr": "경상남도 김해시",
-		"addr_lv1": "경상남도",
-		"addr_lv2": "김해시",
-		"apply_nums": "865세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910201&pblancNo=2026910201&houseSecd=04",
-		"in_date": "20260803",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "동탄신도시 금강펜테리움 6차 센트럴파크(A59BL) (3차)",
-		"addr": "경기도 화성시 동탄구 동탄신리천로8길 46, 동탄신도시 금강펜테리움 6차 센트럴파크",
-		"short_addr": "경기도 화성시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "화성시",
-		"apply_nums": "3세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910199&pblancNo=2026910199&houseSecd=04",
-		"in_date": "20260803",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "펜타힐즈 더블유 1단지",
-		"addr": "경상북도 경산시 중산동 일원 A2-1블럭",
-		"short_addr": "경상북도 경산시",
-		"addr_lv1": "경상북도",
-		"addr_lv2": "경산시",
-		"apply_nums": "486세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910200&pblancNo=2026910200&houseSecd=04",
-		"in_date": "20260803",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "한화포레나 안산고잔2차",
-		"addr": "경기도 안산시 단원구 고잔동 648번지 일원",
-		"short_addr": "경기도 안산시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "안산시",
-		"apply_nums": "2세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940162&pblancNo=2026940162&houseSecd=11",
-		"in_date": "20260803",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "대전 에테르 스위첸(5차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940163&pblancNo=2026940163&houseSecd=11",
-		"in_date": "20260803",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "서수원 에피트 센트럴마크(M1BL)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000318&pblancNo=2026000318&houseSecd=01",
 		"in_date": "20260804",
 		"hsecd": "01",
 		"rse": "02",
@@ -609,6 +481,19 @@
 		"apply_nums": "2432세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950071&pblancNo=2026950071&houseSecd=02",
+		"in_date": "20260811",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "동탄2신도시 동탄역 디에트르 퍼스티지",
+		"addr": "경기도 화성시 여울동 979번지",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "20세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950067&pblancNo=2026950067&houseSecd=02",
 		"in_date": "20260811",
 		"hsecd": "02",
@@ -677,12 +562,85 @@
 		"name": "성동스페이스"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850040&pblancNo=2026850040&houseSecd=03",
+		"in_date": "20260812",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "의왕 백운밸리 리젠시빌 란트"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950071&pblancNo=2026950071&houseSecd=02",
+		"in_date": "20260812",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "동탄2신도시 동탄역 디에트르 퍼스티지",
+		"addr": "경기도 화성시 여울동 979번지",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "20세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910214&pblancNo=2026910214&houseSecd=04",
+		"in_date": "20260812",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "드파인 아르티아",
+		"addr": "서울특별시 동작구 노량진동 312-75번지 일대",
+		"short_addr": "서울특별시 동작구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "동작구",
+		"apply_nums": "15세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910210&pblancNo=2026910210&houseSecd=04",
+		"in_date": "20260812",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "오산세교2지구 A-13블록 호반써밋(2차)",
+		"addr": "경기도 오산시 오산세교2지구 A-13블록 호반써밋 라프리미어(경기도 오산시 초평중앙로 65)",
+		"short_addr": "경기도 오산시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "오산시",
+		"apply_nums": "2세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910213&pblancNo=2026910213&houseSecd=04",
+		"in_date": "20260812",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "청계 노르웨이숲(11차)",
+		"addr": "서울특별시 중구 황학동 1756번지 일원",
+		"short_addr": "서울특별시 중구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "중구",
+		"apply_nums": "13세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850039&pblancNo=2026850039&houseSecd=03",
 		"in_date": "20260813",
 		"hsecd": "03",
 		"rse": "04",
 		"type": "",
 		"name": "성동스페이스"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910213&pblancNo=2026910213&houseSecd=04",
+		"in_date": "20260813",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "청계 노르웨이숲(11차)",
+		"addr": "서울특별시 중구 황학동 1756번지 일원",
+		"short_addr": "서울특별시 중구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "중구",
+		"apply_nums": "13세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850039&pblancNo=2026850039&houseSecd=03",
@@ -693,11 +651,50 @@
 		"name": "성동스페이스"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000376&pblancNo=2026000376&houseSecd=01",
+		"in_date": "20260818",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "달서자이 제니크",
+		"addr": "대구광역시 달서구 본리동 661-9번지 일원",
+		"short_addr": "대구광역시 달서구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "달서구",
+		"apply_nums": "360세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940119&pblancNo=2026940119&houseSecd=11",
 		"in_date": "20260818",
 		"hsecd": "11",
 		"rse": "11",
 		"type": "",
 		"name": "광명 소하 파크타워(4차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000376&pblancNo=2026000376&houseSecd=01",
+		"in_date": "20260819",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "달서자이 제니크",
+		"addr": "대구광역시 달서구 본리동 661-9번지 일원",
+		"short_addr": "대구광역시 달서구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "달서구",
+		"apply_nums": "360세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000376&pblancNo=2026000376&houseSecd=01",
+		"in_date": "20260820",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "달서자이 제니크",
+		"addr": "대구광역시 달서구 본리동 661-9번지 일원",
+		"short_addr": "대구광역시 달서구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "달서구",
+		"apply_nums": "360세대"
 	}
 ]
