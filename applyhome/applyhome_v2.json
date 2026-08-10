@@ -1,43 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950067&pblancNo=2026950067&houseSecd=02",
-		"in_date": "20260807",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "신대방역 더하이브퍼스트",
-		"addr": "서울특별시 관악구 신림동 505-1",
-		"short_addr": "서울특별시 관악구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "관악구",
-		"apply_nums": "8세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940161&pblancNo=2026940161&houseSecd=11",
-		"in_date": "20260807",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "더샵 분당센트로(4차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940139&pblancNo=2026940139&houseSecd=11",
-		"in_date": "20260807",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "옥정중앙역 대방 디에트르(중상1, 복합1BL) (3차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940165&pblancNo=2026940165&houseSecd=11",
-		"in_date": "20260807",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "인천영종국제도시 디에트르 라 메르Ⅰ(RC4-1,2BL)(5차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950067&pblancNo=2026950067&houseSecd=02",
 		"in_date": "20260808",
 		"hsecd": "02",
 		"rse": "05",
@@ -439,12 +402,36 @@
 		"apply_nums": "13세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940167&pblancNo=2026940167&houseSecd=11",
+		"in_date": "20260813",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "부천역 에피트 어바닉(3차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940169&pblancNo=2026940169&houseSecd=11",
+		"in_date": "20260813",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "풍무역 롯데캐슬 시그니처(3차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940170&pblancNo=2026940170&houseSecd=11",
 		"in_date": "20260813",
 		"hsecd": "11",
 		"rse": "11",
 		"type": "",
 		"name": "풍무역세권 수자인 그라센트 2차(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940171&pblancNo=2026940171&houseSecd=11",
+		"in_date": "20260813",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "화성 조암 스위트엠"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850039&pblancNo=2026850039&houseSecd=03",
@@ -518,6 +505,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "중구",
 		"apply_nums": "186세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026930025&pblancNo=2026930025&houseSecd=06",
+		"in_date": "20260818",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "송파 시그니처 롯데캐슬 ",
+		"addr": "서울특별시 송파구 거여동 181, 202번지 일원",
+		"short_addr": "서울특별시 송파구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "송파구",
+		"apply_nums": "1세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026930026&pblancNo=2026930026&houseSecd=06",
