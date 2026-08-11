@@ -1,27 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950067&pblancNo=2026950067&houseSecd=02",
-		"in_date": "20260808",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "신대방역 더하이브퍼스트",
-		"addr": "서울특별시 관악구 신림동 505-1",
-		"short_addr": "서울특별시 관악구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "관악구",
-		"apply_nums": "8세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940161&pblancNo=2026940161&houseSecd=11",
-		"in_date": "20260808",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "더샵 분당센트로(4차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950067&pblancNo=2026950067&houseSecd=02",
 		"in_date": "20260809",
 		"hsecd": "02",
 		"rse": "05",
@@ -442,6 +421,38 @@
 		"name": "성동스페이스"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940168&pblancNo=2026940168&houseSecd=11",
+		"in_date": "20260814",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "대전 하늘채 루시에르(2회차)(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940168&pblancNo=2026940168&houseSecd=11",
+		"in_date": "20260815",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "대전 하늘채 루시에르(2회차)(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940168&pblancNo=2026940168&houseSecd=11",
+		"in_date": "20260816",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "대전 하늘채 루시에르(2회차)(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940168&pblancNo=2026940168&houseSecd=11",
+		"in_date": "20260817",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "대전 하늘채 루시에르(2회차)(2차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000376&pblancNo=2026000376&houseSecd=01",
 		"in_date": "20260818",
 		"hsecd": "01",
@@ -539,6 +550,14 @@
 		"rse": "11",
 		"type": "",
 		"name": "광명 소하 파크타워(4차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940168&pblancNo=2026940168&houseSecd=11",
+		"in_date": "20260818",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "대전 하늘채 루시에르(2회차)(2차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000371&pblancNo=2026000371&houseSecd=01",
