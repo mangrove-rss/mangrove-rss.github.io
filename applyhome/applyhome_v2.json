@@ -1,59 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850039&pblancNo=2026850039&houseSecd=03",
-		"in_date": "20260813",
-		"hsecd": "03",
-		"rse": "04",
-		"type": "",
-		"name": "성동스페이스"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910213&pblancNo=2026910213&houseSecd=04",
-		"in_date": "20260813",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "청계 노르웨이숲(11차)",
-		"addr": "서울특별시 중구 황학동 1756번지 일원",
-		"short_addr": "서울특별시 중구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "중구",
-		"apply_nums": "13세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940167&pblancNo=2026940167&houseSecd=11",
-		"in_date": "20260813",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "부천역 에피트 어바닉(3차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940169&pblancNo=2026940169&houseSecd=11",
-		"in_date": "20260813",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "풍무역 롯데캐슬 시그니처(3차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940170&pblancNo=2026940170&houseSecd=11",
-		"in_date": "20260813",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "풍무역세권 수자인 그라센트 2차(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940171&pblancNo=2026940171&houseSecd=11",
-		"in_date": "20260813",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "화성 조암 스위트엠"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850039&pblancNo=2026850039&houseSecd=03",
 		"in_date": "20260814",
 		"hsecd": "03",
 		"rse": "04",
