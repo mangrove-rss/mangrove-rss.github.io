@@ -1,14 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940168&pblancNo=2026940168&houseSecd=11",
-		"in_date": "20260815",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "대전 하늘채 루시에르(2회차)(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940168&pblancNo=2026940168&houseSecd=11",
 		"in_date": "20260816",
 		"hsecd": "11",
 		"rse": "11",
@@ -633,6 +625,27 @@
 		"apply_nums": "398세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850045&pblancNo=2026850045&houseSecd=03",
+		"in_date": "20260824",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "의왕청계역 시티프라디움 디하모니"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950073&pblancNo=2026950073&houseSecd=02",
+		"in_date": "20260824",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "강동 리버스시티",
+		"addr": "서울특별시 강동구 천호동 557번지",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "18세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950072&pblancNo=2026950072&houseSecd=02",
 		"in_date": "20260824",
 		"hsecd": "02",
@@ -769,6 +782,19 @@
 		"addr_lv1": "경상남도",
 		"addr_lv2": "진주시",
 		"apply_nums": "398세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950073&pblancNo=2026950073&houseSecd=02",
+		"in_date": "20260825",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "강동 리버스시티",
+		"addr": "서울특별시 강동구 천호동 557번지",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "18세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950070&pblancNo=2026950070&houseSecd=02",
