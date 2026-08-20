@@ -1,13 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940168&pblancNo=2026940168&houseSecd=11",
-		"in_date": "20260817",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "대전 하늘채 루시에르(2회차)(2차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000376&pblancNo=2026000376&houseSecd=01",
 		"in_date": "20260818",
 		"hsecd": "01",
@@ -860,6 +852,22 @@
 		"name": "검암역자이르네"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940181&pblancNo=2026940181&houseSecd=11",
+		"in_date": "20260825",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(22차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940178&pblancNo=2026940178&houseSecd=11",
+		"in_date": "20260825",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "인천영종국제도시 디에트르 라 메르Ⅰ(RC4-1,2BL)(6차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000372&pblancNo=2026000372&houseSecd=01",
 		"in_date": "20260826",
 		"hsecd": "01",
@@ -951,6 +959,35 @@
 		"apply_nums": "398세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950075&pblancNo=2026950075&houseSecd=02",
+		"in_date": "20260826",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "왕십리역 어반홈스 B동",
+		"addr": "서울특별시 성동구 도선동 116, 117번지",
+		"short_addr": "서울특별시 성동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "성동구",
+		"apply_nums": "14세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940181&pblancNo=2026940181&houseSecd=11",
+		"in_date": "20260826",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(22차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940178&pblancNo=2026940178&houseSecd=11",
+		"in_date": "20260826",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "인천영종국제도시 디에트르 라 메르Ⅰ(RC4-1,2BL)(6차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000372&pblancNo=2026000372&houseSecd=01",
 		"in_date": "20260827",
 		"hsecd": "01",
@@ -975,5 +1012,123 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "의왕시",
 		"apply_nums": "108세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950075&pblancNo=2026950075&houseSecd=02",
+		"in_date": "20260827",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "왕십리역 어반홈스 B동",
+		"addr": "서울특별시 성동구 도선동 116, 117번지",
+		"short_addr": "서울특별시 성동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "성동구",
+		"apply_nums": "14세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940181&pblancNo=2026940181&houseSecd=11",
+		"in_date": "20260827",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(22차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950075&pblancNo=2026950075&houseSecd=02",
+		"in_date": "20260828",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "왕십리역 어반홈스 B동",
+		"addr": "서울특별시 성동구 도선동 116, 117번지",
+		"short_addr": "서울특별시 성동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "성동구",
+		"apply_nums": "14세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940181&pblancNo=2026940181&houseSecd=11",
+		"in_date": "20260828",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(22차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950075&pblancNo=2026950075&houseSecd=02",
+		"in_date": "20260829",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "왕십리역 어반홈스 B동",
+		"addr": "서울특별시 성동구 도선동 116, 117번지",
+		"short_addr": "서울특별시 성동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "성동구",
+		"apply_nums": "14세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940181&pblancNo=2026940181&houseSecd=11",
+		"in_date": "20260829",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(22차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950075&pblancNo=2026950075&houseSecd=02",
+		"in_date": "20260830",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "왕십리역 어반홈스 B동",
+		"addr": "서울특별시 성동구 도선동 116, 117번지",
+		"short_addr": "서울특별시 성동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "성동구",
+		"apply_nums": "14세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940181&pblancNo=2026940181&houseSecd=11",
+		"in_date": "20260830",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(22차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950075&pblancNo=2026950075&houseSecd=02",
+		"in_date": "20260831",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "왕십리역 어반홈스 B동",
+		"addr": "서울특별시 성동구 도선동 116, 117번지",
+		"short_addr": "서울특별시 성동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "성동구",
+		"apply_nums": "14세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940181&pblancNo=2026940181&houseSecd=11",
+		"in_date": "20260831",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(22차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950075&pblancNo=2026950075&houseSecd=02",
+		"in_date": "20260901",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "왕십리역 어반홈스 B동",
+		"addr": "서울특별시 성동구 도선동 116, 117번지",
+		"short_addr": "서울특별시 성동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "성동구",
+		"apply_nums": "14세대"
 	}
 ]
