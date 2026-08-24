@@ -1,107 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000374&pblancNo=2026000374&houseSecd=01",
-		"in_date": "20260821",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "더샵 신길센트럴시티(조합원 취소분)",
-		"addr": "서울특별시 영등포구 신길동 413-8번지 일원",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "67세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000382&pblancNo=2026000382&houseSecd=01",
-		"in_date": "20260821",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "두산위브더제니스 부천",
-		"addr": "경기도 부천시 소사구 소사본동 88-39번지 일대",
-		"short_addr": "경기도 부천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "부천시",
-		"apply_nums": "1158세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000364&pblancNo=2026000364&houseSecd=01",
-		"in_date": "20260821",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "써밋 클라비온",
-		"addr": "서울특별시 영등포구 신길동 3590번지 일원",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "176세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000371&pblancNo=2026000371&houseSecd=01",
-		"in_date": "20260821",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "용인반도체클러스터 동일하이빌 파크밸리(D1-1블록)",
-		"addr": "경기도 용인시 처인구 원삼면 용인 반도체 클러스터 일반산업단지 D1-1BL",
-		"short_addr": "경기도 용인시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "용인시",
-		"apply_nums": "589세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000358&pblancNo=2026000358&houseSecd=01",
-		"in_date": "20260821",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "충정로역자이르네",
-		"addr": "서울특별시 중구 중림동 157-2번지 일원",
-		"short_addr": "서울특별시 중구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "중구",
-		"apply_nums": "186세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950070&pblancNo=2026950070&houseSecd=02",
-		"in_date": "20260821",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "선유 노블레르",
-		"addr": "서울특별시 영등포구 양평동6가 2-1",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "6세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940174&pblancNo=2026940174&houseSecd=11",
-		"in_date": "20260821",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "서수원 에피트 센트럴마크(M2BL)(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940173&pblancNo=2026940173&houseSecd=11",
-		"in_date": "20260821",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "엘리프 검단 포레듀(AA32블록)(3차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940172&pblancNo=2026940172&houseSecd=11",
-		"in_date": "20260821",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "의정부역 센트럴 아이파크 (3차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950070&pblancNo=2026950070&houseSecd=02",
 		"in_date": "20260822",
 		"hsecd": "02",
@@ -774,6 +672,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "성동구",
 		"apply_nums": "14세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910222&pblancNo=2026910222&houseSecd=04",
+		"in_date": "20260831",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "오산헤리티지자이 1단지",
+		"addr": "경기도 오산시 양산동 223번지 일원",
+		"short_addr": "경기도 오산시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "오산시",
+		"apply_nums": "256세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940181&pblancNo=2026940181&houseSecd=11",
