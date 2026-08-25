@@ -1,27 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950070&pblancNo=2026950070&houseSecd=02",
-		"in_date": "20260822",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "선유 노블레르",
-		"addr": "서울특별시 영등포구 양평동6가 2-1",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "6세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940173&pblancNo=2026940173&houseSecd=11",
-		"in_date": "20260822",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "엘리프 검단 포레듀(AA32블록)(3차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950070&pblancNo=2026950070&houseSecd=02",
 		"in_date": "20260823",
 		"hsecd": "02",
 		"rse": "05",
@@ -695,6 +674,14 @@
 		"name": "리아츠 더 인천(22차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940179&pblancNo=2026940179&houseSecd=11",
+		"in_date": "20260831",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "해링턴플레이스 노원 센트럴(2차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000404&pblancNo=2026000404&houseSecd=01",
 		"in_date": "20260901",
 		"hsecd": "01",
@@ -732,6 +719,14 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "성동구",
 		"apply_nums": "14세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940179&pblancNo=2026940179&houseSecd=11",
+		"in_date": "20260901",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "해링턴플레이스 노원 센트럴(2차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000404&pblancNo=2026000404&houseSecd=01",
