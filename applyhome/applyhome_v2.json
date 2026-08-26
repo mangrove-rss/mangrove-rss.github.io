@@ -1,26 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950070&pblancNo=2026950070&houseSecd=02",
-		"in_date": "20260823",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "선유 노블레르",
-		"addr": "서울특별시 영등포구 양평동6가 2-1",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "6세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940173&pblancNo=2026940173&houseSecd=11",
-		"in_date": "20260823",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "엘리프 검단 포레듀(AA32블록)(3차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000354&pblancNo=2026000354&houseSecd=01",
 		"in_date": "20260824",
 		"hsecd": "01",
@@ -666,6 +645,19 @@
 		"apply_nums": "256세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910229&pblancNo=2026910229&houseSecd=04",
+		"in_date": "20260831",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "호반써밋 풍무Ⅲ",
+		"addr": "김포 풍무역세권 B4블록 (경기도 김포시 사우동 458번지 일원)",
+		"short_addr": "김포 풍무역세권",
+		"addr_lv1": "김포",
+		"addr_lv2": "풍무역세권",
+		"apply_nums": "4세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940181&pblancNo=2026940181&houseSecd=11",
 		"in_date": "20260831",
 		"hsecd": "11",
@@ -721,6 +713,32 @@
 		"apply_nums": "14세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910221&pblancNo=2026910221&houseSecd=04",
+		"in_date": "20260901",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "대방역 여의도 더로드캐슬(5차)",
+		"addr": "서울특별시 영등포구 신길동 449-11",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "3세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910224&pblancNo=2026910224&houseSecd=04",
+		"in_date": "20260901",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "장위 푸르지오 마크원(2차)",
+		"addr": "서울특별시 성북구 장위동 68-37 일대",
+		"short_addr": "서울특별시 성북구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "성북구",
+		"apply_nums": "4세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940179&pblancNo=2026940179&houseSecd=11",
 		"in_date": "20260901",
 		"hsecd": "11",
@@ -753,5 +771,125 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "미추홀구",
 		"apply_nums": "1949세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910221&pblancNo=2026910221&houseSecd=04",
+		"in_date": "20260902",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "대방역 여의도 더로드캐슬(5차)",
+		"addr": "서울특별시 영등포구 신길동 449-11",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "3세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910221&pblancNo=2026910221&houseSecd=04",
+		"in_date": "20260903",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "대방역 여의도 더로드캐슬(5차)",
+		"addr": "서울특별시 영등포구 신길동 449-11",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "3세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910226&pblancNo=2026910226&houseSecd=04",
+		"in_date": "20260903",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "에스아이팰리스 강동 센텀Ⅱ(4차)",
+		"addr": "서울특별시 강동구 길동 386-4 (길동,에스아이팰리스 강동 센텀II)",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "7세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940182&pblancNo=2026940182&houseSecd=11",
+		"in_date": "20260903",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "서수원 에피트 센트럴마크(M1BL)(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910221&pblancNo=2026910221&houseSecd=04",
+		"in_date": "20260904",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "대방역 여의도 더로드캐슬(5차)",
+		"addr": "서울특별시 영등포구 신길동 449-11",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "3세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910226&pblancNo=2026910226&houseSecd=04",
+		"in_date": "20260904",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "에스아이팰리스 강동 센텀Ⅱ(4차)",
+		"addr": "서울특별시 강동구 길동 386-4 (길동,에스아이팰리스 강동 센텀II)",
+		"short_addr": "서울특별시 강동구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강동구",
+		"apply_nums": "7세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940182&pblancNo=2026940182&houseSecd=11",
+		"in_date": "20260904",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "서수원 에피트 센트럴마크(M1BL)(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910221&pblancNo=2026910221&houseSecd=04",
+		"in_date": "20260905",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "대방역 여의도 더로드캐슬(5차)",
+		"addr": "서울특별시 영등포구 신길동 449-11",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "3세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910221&pblancNo=2026910221&houseSecd=04",
+		"in_date": "20260906",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "대방역 여의도 더로드캐슬(5차)",
+		"addr": "서울특별시 영등포구 신길동 449-11",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "3세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910221&pblancNo=2026910221&houseSecd=04",
+		"in_date": "20260907",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "대방역 여의도 더로드캐슬(5차)",
+		"addr": "서울특별시 영등포구 신길동 449-11",
+		"short_addr": "서울특별시 영등포구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "영등포구",
+		"apply_nums": "3세대"
 	}
 ]
