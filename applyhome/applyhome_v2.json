@@ -1,202 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000354&pblancNo=2026000354&houseSecd=01",
-		"in_date": "20260824",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "상동역 롯데캐슬 시그니처",
-		"addr": "경기도 부천시 원미구 상동 540-1번지",
-		"short_addr": "경기도 부천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "부천시",
-		"apply_nums": "1859세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000372&pblancNo=2026000372&houseSecd=01",
-		"in_date": "20260824",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "쌍용 더 플래티넘 서대문",
-		"addr": "서울특별시 서대문구 홍은동 355번지 일원",
-		"short_addr": "서울특별시 서대문구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "서대문구",
-		"apply_nums": "62세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000368&pblancNo=2026000368&houseSecd=01",
-		"in_date": "20260824",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "아르티엠 라 테라스",
-		"addr": "전북특별자치도 전주시 덕진구 우아동3가 752-41 일원",
-		"short_addr": "전북특별자치도 전주시",
-		"addr_lv1": "전북특별자치도",
-		"addr_lv2": "전주시",
-		"apply_nums": "300세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000365&pblancNo=2026000365&houseSecd=01",
-		"in_date": "20260824",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "오남역 서희스타힐스 여의재 1단지",
-		"addr": "경기도 남양주시 오남읍 양지리 101번지 일원",
-		"short_addr": "경기도 남양주시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "남양주시",
-		"apply_nums": "180세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000377&pblancNo=2026000377&houseSecd=01",
-		"in_date": "20260824",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "의왕역 한신더휴",
-		"addr": "경기도 의왕시 삼동 244-1번지 일원",
-		"short_addr": "경기도 의왕시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "의왕시",
-		"apply_nums": "108세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000342&pblancNo=2026000342&houseSecd=01",
-		"in_date": "20260824",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "제일풍경채 첨단3지구(A6BL)",
-		"addr": "광주연구개발특구 첨단3지구 A6블록(전남광주통합특별시 북구 월출동) ",
-		"short_addr": "광주연구개발특구 첨단3지구",
-		"addr_lv1": "광주연구개발특구",
-		"addr_lv2": "첨단3지구",
-		"apply_nums": "638세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000383&pblancNo=2026000383&houseSecd=01",
-		"in_date": "20260824",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "포레나힐스테이트 진주",
-		"addr": "경상남도 진주시 이현동 10-1번지 외 13필지",
-		"short_addr": "경상남도 진주시",
-		"addr_lv1": "경상남도",
-		"addr_lv2": "진주시",
-		"apply_nums": "398세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850045&pblancNo=2026850045&houseSecd=03",
-		"in_date": "20260824",
-		"hsecd": "03",
-		"rse": "04",
-		"type": "",
-		"name": "의왕청계역 시티프라디움 디하모니"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950073&pblancNo=2026950073&houseSecd=02",
-		"in_date": "20260824",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "강동 리버스시티",
-		"addr": "서울특별시 강동구 천호동 557번지",
-		"short_addr": "서울특별시 강동구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강동구",
-		"apply_nums": "18세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950072&pblancNo=2026950072&houseSecd=02",
-		"in_date": "20260824",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "덕은 DMC에일린의뜰 센트럴 1차",
-		"addr": "경기도 고양시 덕양구 덕은동 691",
-		"short_addr": "경기도 고양시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "고양시",
-		"apply_nums": "5세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950074&pblancNo=2026950074&houseSecd=02",
-		"in_date": "20260824",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "둔촌 월드메르디앙 올림픽파크",
-		"addr": "서울특별시 강동구 천호대로 1156 (둔촌동, 월드메르디앙올림픽파크)",
-		"short_addr": "서울특별시 강동구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "강동구",
-		"apply_nums": "5세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950070&pblancNo=2026950070&houseSecd=02",
-		"in_date": "20260824",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "선유 노블레르",
-		"addr": "서울특별시 영등포구 양평동6가 2-1",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "6세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910217&pblancNo=2026910217&houseSecd=04",
-		"in_date": "20260824",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "춘천 리버뷰 아이파크",
-		"addr": "강원특별자치도 춘천시 동면 장학리 883번지 일원",
-		"short_addr": "강원특별자치도 춘천시",
-		"addr_lv1": "강원특별자치도",
-		"addr_lv2": "춘천시",
-		"apply_nums": "180세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940177&pblancNo=2026940177&houseSecd=11",
-		"in_date": "20260824",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "검암역자이르네"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940173&pblancNo=2026940173&houseSecd=11",
-		"in_date": "20260824",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "엘리프 검단 포레듀(AA32블록)(3차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940175&pblancNo=2026940175&houseSecd=11",
-		"in_date": "20260824",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "인하대역 수자인 로이센트(3차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940176&pblancNo=2026940176&houseSecd=11",
-		"in_date": "20260824",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "파주 운정신도시 A2블록 호반써밋 이스트파크(5차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000354&pblancNo=2026000354&houseSecd=01",
 		"in_date": "20260825",
 		"hsecd": "01",
 		"rse": "02",
@@ -700,6 +504,19 @@
 		"apply_nums": "1949세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950079&pblancNo=2026950079&houseSecd=02",
+		"in_date": "20260901",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "동탄2신도시 동탄역 디에트르 퍼스티지",
+		"addr": "경기도 화성시 여울동 979번지",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "5세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950075&pblancNo=2026950075&houseSecd=02",
 		"in_date": "20260901",
 		"hsecd": "02",
@@ -739,6 +556,19 @@
 		"apply_nums": "4세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910223&pblancNo=2026910223&houseSecd=04",
+		"in_date": "20260901",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "창원 한신더휴 메가센텀",
+		"addr": "경상남도 창원시 마산회원구 회원동 480-31번지 일대",
+		"short_addr": "경상남도 창원시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "창원시",
+		"apply_nums": "430세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940179&pblancNo=2026940179&houseSecd=11",
 		"in_date": "20260901",
 		"hsecd": "11",
@@ -773,6 +603,19 @@
 		"apply_nums": "1949세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950079&pblancNo=2026950079&houseSecd=02",
+		"in_date": "20260902",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "동탄2신도시 동탄역 디에트르 퍼스티지",
+		"addr": "경기도 화성시 여울동 979번지",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "5세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910221&pblancNo=2026910221&houseSecd=04",
 		"in_date": "20260902",
 		"hsecd": "04",
@@ -784,6 +627,53 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "영등포구",
 		"apply_nums": "3세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910225&pblancNo=2026910225&houseSecd=04",
+		"in_date": "20260902",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "의왕역 SK VIEW",
+		"addr": "경기도 의왕시 삼동 192-244번지 일원",
+		"short_addr": "경기도 의왕시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "의왕시",
+		"apply_nums": "17세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026930029&pblancNo=2026930029&houseSecd=06",
+		"in_date": "20260902",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "세종 한신더휴 리저브Ⅱ(행정중심복합도시 1-5생활권 H5블록) [한뜰마을4단지]",
+		"addr": "세종특별자치시 다솜1로 9",
+		"short_addr": "세종특별자치시 다솜1로",
+		"addr_lv1": "세종특별자치시",
+		"addr_lv2": "다솜1로",
+		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026930030&pblancNo=2026930030&houseSecd=06",
+		"in_date": "20260902",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "제일풍경채 검단Ⅳ",
+		"addr": "인천광역시 검단구 불로동 검단신도시 AA22블록",
+		"short_addr": "인천광역시 검단구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "검단구",
+		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940184&pblancNo=2026940184&houseSecd=11",
+		"in_date": "20260902",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "더샵 분당센트로(5차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910221&pblancNo=2026910221&houseSecd=04",
@@ -810,6 +700,14 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "강동구",
 		"apply_nums": "7세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940184&pblancNo=2026940184&houseSecd=11",
+		"in_date": "20260903",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "더샵 분당센트로(5차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940182&pblancNo=2026940182&houseSecd=11",
@@ -844,6 +742,14 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "강동구",
 		"apply_nums": "7세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940184&pblancNo=2026940184&houseSecd=11",
+		"in_date": "20260904",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "더샵 분당센트로(5차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940182&pblancNo=2026940182&houseSecd=11",
@@ -867,6 +773,14 @@
 		"apply_nums": "3세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940184&pblancNo=2026940184&houseSecd=11",
+		"in_date": "20260905",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "더샵 분당센트로(5차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910221&pblancNo=2026910221&houseSecd=04",
 		"in_date": "20260906",
 		"hsecd": "04",
@@ -880,6 +794,40 @@
 		"apply_nums": "3세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940184&pblancNo=2026940184&houseSecd=11",
+		"in_date": "20260906",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "더샵 분당센트로(5차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000399&pblancNo=2026000399&houseSecd=01",
+		"in_date": "20260907",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "브라운스톤 월곡 센트럴",
+		"addr": "서울특별시 성북구 하월곡동 70-4번지 일원",
+		"short_addr": "서울특별시 성북구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "성북구",
+		"apply_nums": "62세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000401&pblancNo=2026000401&houseSecd=01",
+		"in_date": "20260907",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "문수데시앙2단지 공가세대 일반공급",
+		"addr": "울산광역시 울주군 청량읍 율리영해2길 7 (문수데시앙 2단지 아파트) ",
+		"short_addr": "울산광역시 울주군",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "울주군",
+		"apply_nums": "22세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910221&pblancNo=2026910221&houseSecd=04",
 		"in_date": "20260907",
 		"hsecd": "04",
@@ -891,5 +839,73 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "영등포구",
 		"apply_nums": "3세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940184&pblancNo=2026940184&houseSecd=11",
+		"in_date": "20260907",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "더샵 분당센트로(5차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000399&pblancNo=2026000399&houseSecd=01",
+		"in_date": "20260908",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "브라운스톤 월곡 센트럴",
+		"addr": "서울특별시 성북구 하월곡동 70-4번지 일원",
+		"short_addr": "서울특별시 성북구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "성북구",
+		"apply_nums": "62세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000401&pblancNo=2026000401&houseSecd=01",
+		"in_date": "20260908",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "문수데시앙2단지 공가세대 일반공급",
+		"addr": "울산광역시 울주군 청량읍 율리영해2길 7 (문수데시앙 2단지 아파트) ",
+		"short_addr": "울산광역시 울주군",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "울주군",
+		"apply_nums": "22세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940184&pblancNo=2026940184&houseSecd=11",
+		"in_date": "20260908",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "더샵 분당센트로(5차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000399&pblancNo=2026000399&houseSecd=01",
+		"in_date": "20260909",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "브라운스톤 월곡 센트럴",
+		"addr": "서울특별시 성북구 하월곡동 70-4번지 일원",
+		"short_addr": "서울특별시 성북구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "성북구",
+		"apply_nums": "62세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000399&pblancNo=2026000399&houseSecd=01",
+		"in_date": "20260910",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "브라운스톤 월곡 센트럴",
+		"addr": "서울특별시 성북구 하월곡동 70-4번지 일원",
+		"short_addr": "서울특별시 성북구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "성북구",
+		"apply_nums": "62세대"
 	}
 ]
