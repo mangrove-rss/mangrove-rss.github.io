@@ -1,149 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950075&pblancNo=2026950075&houseSecd=02",
-		"in_date": "20260828",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "왕십리역 어반홈스 B동",
-		"addr": "서울특별시 성동구 도선동 116, 117번지",
-		"short_addr": "서울특별시 성동구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "성동구",
-		"apply_nums": "14세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940181&pblancNo=2026940181&houseSecd=11",
-		"in_date": "20260828",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "리아츠 더 인천(22차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950075&pblancNo=2026950075&houseSecd=02",
-		"in_date": "20260829",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "왕십리역 어반홈스 B동",
-		"addr": "서울특별시 성동구 도선동 116, 117번지",
-		"short_addr": "서울특별시 성동구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "성동구",
-		"apply_nums": "14세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940181&pblancNo=2026940181&houseSecd=11",
-		"in_date": "20260829",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "리아츠 더 인천(22차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950075&pblancNo=2026950075&houseSecd=02",
-		"in_date": "20260830",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "왕십리역 어반홈스 B동",
-		"addr": "서울특별시 성동구 도선동 116, 117번지",
-		"short_addr": "서울특별시 성동구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "성동구",
-		"apply_nums": "14세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940181&pblancNo=2026940181&houseSecd=11",
-		"in_date": "20260830",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "리아츠 더 인천(22차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000404&pblancNo=2026000404&houseSecd=01",
-		"in_date": "20260831",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "검암역 푸르지오 프라베뉴 (B-1BL) 공공분양주택",
-		"addr": "인천광역시 서해구 인천검암역세권 공공주택지구 내 B-1BL",
-		"short_addr": "인천광역시 서해구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "서해구",
-		"apply_nums": "441세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000388&pblancNo=2026000388&houseSecd=01",
-		"in_date": "20260831",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "시티오씨엘 9단지 오션파크뷰",
-		"addr": "인천광역시 미추홀구 학익동 인천 용현·학익 1블록 도시개발구역 공동3BL",
-		"short_addr": "인천광역시 미추홀구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "미추홀구",
-		"apply_nums": "1949세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950075&pblancNo=2026950075&houseSecd=02",
-		"in_date": "20260831",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "왕십리역 어반홈스 B동",
-		"addr": "서울특별시 성동구 도선동 116, 117번지",
-		"short_addr": "서울특별시 성동구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "성동구",
-		"apply_nums": "14세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910222&pblancNo=2026910222&houseSecd=04",
-		"in_date": "20260831",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "오산헤리티지자이 1단지",
-		"addr": "경기도 오산시 양산동 223번지 일원",
-		"short_addr": "경기도 오산시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "오산시",
-		"apply_nums": "256세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910229&pblancNo=2026910229&houseSecd=04",
-		"in_date": "20260831",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "호반써밋 풍무Ⅲ",
-		"addr": "김포 풍무역세권 B4블록 (경기도 김포시 사우동 458번지 일원)",
-		"short_addr": "김포 풍무역세권",
-		"addr_lv1": "김포",
-		"addr_lv2": "풍무역세권",
-		"apply_nums": "4세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940181&pblancNo=2026940181&houseSecd=11",
-		"in_date": "20260831",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "리아츠 더 인천(22차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940179&pblancNo=2026940179&houseSecd=11",
-		"in_date": "20260831",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "해링턴플레이스 노원 센트럴(2차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000404&pblancNo=2026000404&houseSecd=01",
 		"in_date": "20260901",
 		"hsecd": "01",
@@ -374,6 +230,14 @@
 		"rse": "11",
 		"type": "",
 		"name": "더샵 분당센트로(5차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940183&pblancNo=2026940183&houseSecd=11",
+		"in_date": "20260903",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "브라운스톤 목동"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940182&pblancNo=2026940182&houseSecd=11",
