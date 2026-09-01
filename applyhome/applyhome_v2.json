@@ -358,6 +358,14 @@
 		"apply_nums": "22세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850046&pblancNo=2026850046&houseSecd=03",
+		"in_date": "20260907",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "부경경마공원역 대방 디에트르 더리버(AP1BL)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910221&pblancNo=2026910221&houseSecd=04",
 		"in_date": "20260907",
 		"hsecd": "04",
@@ -418,6 +426,14 @@
 		"apply_nums": "22세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850046&pblancNo=2026850046&houseSecd=03",
+		"in_date": "20260908",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "부경경마공원역 대방 디에트르 더리버(AP1BL)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940184&pblancNo=2026940184&houseSecd=11",
 		"in_date": "20260908",
 		"hsecd": "11",
@@ -450,5 +466,44 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "성북구",
 		"apply_nums": "62세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000403&pblancNo=2026000403&houseSecd=01",
+		"in_date": "20260914",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "그랑라크 에일린의 뜰",
+		"addr": "울산광역시 남구 야음동 350-5번지 일원 ",
+		"short_addr": "울산광역시 남구",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "1153세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000403&pblancNo=2026000403&houseSecd=01",
+		"in_date": "20260915",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "그랑라크 에일린의 뜰",
+		"addr": "울산광역시 남구 야음동 350-5번지 일원 ",
+		"short_addr": "울산광역시 남구",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "1153세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000403&pblancNo=2026000403&houseSecd=01",
+		"in_date": "20260916",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "그랑라크 에일린의 뜰",
+		"addr": "울산광역시 남구 야음동 350-5번지 일원 ",
+		"short_addr": "울산광역시 남구",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "1153세대"
 	}
 ]
