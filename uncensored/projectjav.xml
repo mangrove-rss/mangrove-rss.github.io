@@ -53,6 +53,12 @@
 			<showrss:showname><![CDATA[ Heyzo-3926 ]]></showrss:showname>
 		</item>
 		<item>
+			<title><![CDATA[ 082826-001-Carib ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih:9860df0f3f19f9f534836e0655adf46ac26f0648 ]]></link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ 082826-001-Carib ]]></showrss:showname>
+		</item>
+		<item>
 			<title><![CDATA[ Xb-5140 ]]></title>
 			<link><![CDATA[ magnet:?xt=urn:btih:eae0d518a899cf6a0e74f213af0570ac81092745 ]]></link>
 			<showrss:showid></showrss:showid>
@@ -65,16 +71,34 @@
 			<showrss:showname><![CDATA[ 082726-001-Carib ]]></showrss:showname>
 		</item>
 		<item>
-			<title><![CDATA[ Xb-5266 ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:c6b8ec8ef37243073839e4aabfb23582f6fb1d01 ]]></link>
+			<title><![CDATA[ 082726_001-1pondo ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih:d178d1cb8e02d039cca94f263405ab664120f2c4 ]]></link>
 			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ Xb-5266 ]]></showrss:showname>
+			<showrss:showname><![CDATA[ 082726_001-1pondo ]]></showrss:showname>
 		</item>
 		<item>
-			<title><![CDATA[ Xb-5265 ]]></title>
-			<link><![CDATA[ magnet:?xt=urn:btih:f216919a9d0241f51324eb9bede0f8ad2754868e ]]></link>
+			<title><![CDATA[ Heyzo-3948 ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih:bee1e1cae8880ea0766db07a1816f5957609d91c ]]></link>
 			<showrss:showid></showrss:showid>
-			<showrss:showname><![CDATA[ Xb-5265 ]]></showrss:showname>
+			<showrss:showname><![CDATA[ Heyzo-3948 ]]></showrss:showname>
+		</item>
+		<item>
+			<title><![CDATA[ Xb-4927 ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih:b231670bc853e206bcd1e42f07f63433cc7426e2 ]]></link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ Xb-4927 ]]></showrss:showname>
+		</item>
+		<item>
+			<title><![CDATA[ Xb-5220 ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih:16775368c856160f2bb5794a70fe5b0d81bfdcf9 ]]></link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ Xb-5220 ]]></showrss:showname>
+		</item>
+		<item>
+			<title><![CDATA[ Xb-5279 ]]></title>
+			<link><![CDATA[ magnet:?xt=urn:btih:e6e38fda93f9050d7b71b9520f0e4fcce80eed2e ]]></link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname><![CDATA[ Xb-5279 ]]></showrss:showname>
 		</item>
 	</channel>
 </rss>
