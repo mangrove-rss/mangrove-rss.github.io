@@ -392,12 +392,28 @@
 		"apply_nums": "5세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940185&pblancNo=2026940185&houseSecd=11",
+		"in_date": "20260907",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "고촌센트럴자이(13차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940184&pblancNo=2026940184&houseSecd=11",
 		"in_date": "20260907",
 		"hsecd": "11",
 		"rse": "11",
 		"type": "",
 		"name": "더샵 분당센트로(5차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940192&pblancNo=2026940192&houseSecd=11",
+		"in_date": "20260907",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "엘리프 한신더휴 수원 D3블록 (2차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000399&pblancNo=2026000399&houseSecd=01",
@@ -434,12 +450,67 @@
 		"name": "부경경마공원역 대방 디에트르 더리버(AP1BL)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950076&pblancNo=2026950076&houseSecd=02",
+		"in_date": "20260908",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "목동윤슬자이",
+		"addr": "서울특별시 양천구 목동 924, 924-3, 924-5",
+		"short_addr": "서울특별시 양천구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "양천구",
+		"apply_nums": "651세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950078&pblancNo=2026950078&houseSecd=02",
+		"in_date": "20260908",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "해링턴 스퀘어 과천",
+		"addr": "경기도 과천시 과천지식정보타운 공공주택지구 일반상업 5BL",
+		"short_addr": "경기도 과천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "과천시",
+		"apply_nums": "20세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910228&pblancNo=2026910228&houseSecd=04",
+		"in_date": "20260908",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "남양주 진접 서한이다음(S1BL)",
+		"addr": "경기도 남양주시 진접2 공공주택지구 S1BL",
+		"short_addr": "경기도 남양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "남양주시",
+		"apply_nums": "141세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940185&pblancNo=2026940185&houseSecd=11",
+		"in_date": "20260908",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "고촌센트럴자이(13차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940184&pblancNo=2026940184&houseSecd=11",
 		"in_date": "20260908",
 		"hsecd": "11",
 		"rse": "11",
 		"type": "",
 		"name": "더샵 분당센트로(5차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940192&pblancNo=2026940192&houseSecd=11",
+		"in_date": "20260908",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "엘리프 한신더휴 수원 D3블록 (2차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000399&pblancNo=2026000399&houseSecd=01",
@@ -481,6 +552,19 @@
 		"apply_nums": "1153세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000419&pblancNo=2026000419&houseSecd=01",
+		"in_date": "20260914",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "올 뉴 챔피언스시티 1차",
+		"addr": "전남광주통합특별시 북구 임동 100-1 일원",
+		"short_addr": "전남광주통합특별시 북구",
+		"addr_lv1": "전남광주통합특별시",
+		"addr_lv2": "북구",
+		"apply_nums": "3216세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000403&pblancNo=2026000403&houseSecd=01",
 		"in_date": "20260915",
 		"hsecd": "01",
@@ -494,6 +578,19 @@
 		"apply_nums": "1153세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000419&pblancNo=2026000419&houseSecd=01",
+		"in_date": "20260915",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "올 뉴 챔피언스시티 1차",
+		"addr": "전남광주통합특별시 북구 임동 100-1 일원",
+		"short_addr": "전남광주통합특별시 북구",
+		"addr_lv1": "전남광주통합특별시",
+		"addr_lv2": "북구",
+		"apply_nums": "3216세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000403&pblancNo=2026000403&houseSecd=01",
 		"in_date": "20260916",
 		"hsecd": "01",
@@ -505,5 +602,18 @@
 		"addr_lv1": "울산광역시",
 		"addr_lv2": "남구",
 		"apply_nums": "1153세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000419&pblancNo=2026000419&houseSecd=01",
+		"in_date": "20260916",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "올 뉴 챔피언스시티 1차",
+		"addr": "전남광주통합특별시 북구 임동 100-1 일원",
+		"short_addr": "전남광주통합특별시 북구",
+		"addr_lv1": "전남광주통합특별시",
+		"addr_lv2": "북구",
+		"apply_nums": "3216세대"
 	}
 ]
