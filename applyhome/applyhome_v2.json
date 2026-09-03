@@ -416,6 +416,19 @@
 		"name": "엘리프 한신더휴 수원 D3블록 (2차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000202&pblancNo=2026000202&houseSecd=01",
+		"in_date": "20260908",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "대전 경남아너스빌 센텀스카이",
+		"addr": "대전광역시 중구 대흥동 38-17번지 일원",
+		"short_addr": "대전광역시 중구",
+		"addr_lv1": "대전광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "142세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000399&pblancNo=2026000399&houseSecd=01",
 		"in_date": "20260908",
 		"hsecd": "01",
@@ -513,6 +526,27 @@
 		"name": "엘리프 한신더휴 수원 D3블록 (2차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940194&pblancNo=2026940194&houseSecd=11",
+		"in_date": "20260908",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "인천영종국제도시 디에트르 라 메르Ⅰ(RC4-1,2BL)(7차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000202&pblancNo=2026000202&houseSecd=01",
+		"in_date": "20260909",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "대전 경남아너스빌 센텀스카이",
+		"addr": "대전광역시 중구 대흥동 38-17번지 일원",
+		"short_addr": "대전광역시 중구",
+		"addr_lv1": "대전광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "142세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000399&pblancNo=2026000399&houseSecd=01",
 		"in_date": "20260909",
 		"hsecd": "01",
@@ -524,6 +558,27 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "성북구",
 		"apply_nums": "62세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940194&pblancNo=2026940194&houseSecd=11",
+		"in_date": "20260909",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "인천영종국제도시 디에트르 라 메르Ⅰ(RC4-1,2BL)(7차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000202&pblancNo=2026000202&houseSecd=01",
+		"in_date": "20260910",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "대전 경남아너스빌 센텀스카이",
+		"addr": "대전광역시 중구 대흥동 38-17번지 일원",
+		"short_addr": "대전광역시 중구",
+		"addr_lv1": "대전광역시",
+		"addr_lv2": "중구",
+		"apply_nums": "142세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000399&pblancNo=2026000399&houseSecd=01",
@@ -552,6 +607,19 @@
 		"apply_nums": "1153세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000394&pblancNo=2026000394&houseSecd=01",
+		"in_date": "20260914",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "더샵 여주역더퍼스트",
+		"addr": "경기도 여주시 홍문동 332-2번지 일원",
+		"short_addr": "경기도 여주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "여주시",
+		"apply_nums": "696세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000419&pblancNo=2026000419&houseSecd=01",
 		"in_date": "20260914",
 		"hsecd": "01",
@@ -578,6 +646,19 @@
 		"apply_nums": "1153세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000394&pblancNo=2026000394&houseSecd=01",
+		"in_date": "20260915",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "더샵 여주역더퍼스트",
+		"addr": "경기도 여주시 홍문동 332-2번지 일원",
+		"short_addr": "경기도 여주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "여주시",
+		"apply_nums": "696세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000419&pblancNo=2026000419&houseSecd=01",
 		"in_date": "20260915",
 		"hsecd": "01",
@@ -602,6 +683,19 @@
 		"addr_lv1": "울산광역시",
 		"addr_lv2": "남구",
 		"apply_nums": "1153세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000394&pblancNo=2026000394&houseSecd=01",
+		"in_date": "20260916",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "더샵 여주역더퍼스트",
+		"addr": "경기도 여주시 홍문동 332-2번지 일원",
+		"short_addr": "경기도 여주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "여주시",
+		"apply_nums": "696세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000419&pblancNo=2026000419&houseSecd=01",
