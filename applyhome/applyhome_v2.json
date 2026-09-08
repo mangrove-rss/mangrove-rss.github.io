@@ -1,27 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910221&pblancNo=2026910221&houseSecd=04",
-		"in_date": "20260905",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "대방역 여의도 더로드캐슬(5차)",
-		"addr": "서울특별시 영등포구 신길동 449-11",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "3세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940184&pblancNo=2026940184&houseSecd=11",
-		"in_date": "20260905",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "더샵 분당센트로(5차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910221&pblancNo=2026910221&houseSecd=04",
 		"in_date": "20260906",
 		"hsecd": "04",
 		"rse": "06",
@@ -373,12 +352,28 @@
 		"name": "고덕신도시 아테라 A-63블록 공공분양주택"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940195&pblancNo=2026940195&houseSecd=11",
+		"in_date": "20260911",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "더 리치먼드 미아"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940197&pblancNo=2026940197&houseSecd=11",
 		"in_date": "20260911",
 		"hsecd": "11",
 		"rse": "11",
 		"type": "",
 		"name": "수원역 아너스빌 타임원"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940198&pblancNo=2026940198&houseSecd=11",
+		"in_date": "20260911",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "신월동 한양립스(2차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940186&pblancNo=2026940186&houseSecd=11",
@@ -520,6 +515,40 @@
 		"apply_nums": "777세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850047&pblancNo=2026850047&houseSecd=03",
+		"in_date": "20260914",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "오산세교2지구 A5BL 우미 린 포레아시티"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950081&pblancNo=2026950081&houseSecd=02",
+		"in_date": "20260914",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "테라스99 동탄",
+		"addr": "경기도 화성시 동탄구 여울동 968-1",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "15세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910234&pblancNo=2026910234&houseSecd=04",
+		"in_date": "20260914",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "두산위브더제니스 대연",
+		"addr": "부산광역시 남구 대연동 1756-9번지",
+		"short_addr": "부산광역시 남구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "107세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910233&pblancNo=2026910233&houseSecd=04",
 		"in_date": "20260914",
 		"hsecd": "04",
@@ -531,6 +560,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "동작구",
 		"apply_nums": "7세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910232&pblancNo=2026910232&houseSecd=04",
+		"in_date": "20260914",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "역북 서희스타힐스 프라임시티(조합원 취소분)",
+		"addr": "경기도 용인시 처인구 역북동 89-25번지 일원",
+		"short_addr": "경기도 용인시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "용인시",
+		"apply_nums": "4세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910237&pblancNo=2026910237&houseSecd=04",
@@ -679,6 +721,27 @@
 		"apply_nums": "777세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850047&pblancNo=2026850047&houseSecd=03",
+		"in_date": "20260915",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "오산세교2지구 A5BL 우미 린 포레아시티"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950081&pblancNo=2026950081&houseSecd=02",
+		"in_date": "20260915",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "테라스99 동탄",
+		"addr": "경기도 화성시 동탄구 여울동 968-1",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "15세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940186&pblancNo=2026940186&houseSecd=11",
 		"in_date": "20260915",
 		"hsecd": "11",
@@ -802,5 +865,83 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "시흥시",
 		"apply_nums": "24세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000431&pblancNo=2026000431&houseSecd=01",
+		"in_date": "20260921",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "오남역 서희스타힐스 여의재 3단지 (조합원 취소분)",
+		"addr": "경기도 남양주시 오남읍 양지리 186-10번지 일원",
+		"short_addr": "경기도 남양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "남양주시",
+		"apply_nums": "133세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950082&pblancNo=2026950082&houseSecd=02",
+		"in_date": "20260921",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "신대방역 더하이브퍼스트",
+		"addr": "서울특별시 관악구 신림동 505-1",
+		"short_addr": "서울특별시 관악구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "관악구",
+		"apply_nums": "11세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000431&pblancNo=2026000431&houseSecd=01",
+		"in_date": "20260922",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "오남역 서희스타힐스 여의재 3단지 (조합원 취소분)",
+		"addr": "경기도 남양주시 오남읍 양지리 186-10번지 일원",
+		"short_addr": "경기도 남양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "남양주시",
+		"apply_nums": "133세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950082&pblancNo=2026950082&houseSecd=02",
+		"in_date": "20260922",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "신대방역 더하이브퍼스트",
+		"addr": "서울특별시 관악구 신림동 505-1",
+		"short_addr": "서울특별시 관악구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "관악구",
+		"apply_nums": "11세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000431&pblancNo=2026000431&houseSecd=01",
+		"in_date": "20260923",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "오남역 서희스타힐스 여의재 3단지 (조합원 취소분)",
+		"addr": "경기도 남양주시 오남읍 양지리 186-10번지 일원",
+		"short_addr": "경기도 남양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "남양주시",
+		"apply_nums": "133세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950082&pblancNo=2026950082&houseSecd=02",
+		"in_date": "20260923",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "신대방역 더하이브퍼스트",
+		"addr": "서울특별시 관악구 신림동 505-1",
+		"short_addr": "서울특별시 관악구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "관악구",
+		"apply_nums": "11세대"
 	}
 ]
