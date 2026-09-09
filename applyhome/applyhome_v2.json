@@ -1,26 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910221&pblancNo=2026910221&houseSecd=04",
-		"in_date": "20260906",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "대방역 여의도 더로드캐슬(5차)",
-		"addr": "서울특별시 영등포구 신길동 449-11",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "3세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940184&pblancNo=2026940184&houseSecd=11",
-		"in_date": "20260906",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "더샵 분당센트로(5차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000399&pblancNo=2026000399&houseSecd=01",
 		"in_date": "20260907",
 		"hsecd": "01",
@@ -384,6 +363,14 @@
 		"name": "야목역 서희스타힐스 그랜드힐(조합원 취소분)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940188&pblancNo=2026940188&houseSecd=11",
+		"in_date": "20260911",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "양산자이 파크팰리체"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940196&pblancNo=2026940196&houseSecd=11",
 		"in_date": "20260911",
 		"hsecd": "11",
@@ -536,6 +523,19 @@
 		"apply_nums": "15세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950080&pblancNo=2026950080&houseSecd=02",
+		"in_date": "20260914",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "힐스테이트 송파더그리드",
+		"addr": "서울특별시 송파구 장지동 909",
+		"short_addr": "서울특별시 송파구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "송파구",
+		"apply_nums": "1393세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910234&pblancNo=2026910234&houseSecd=04",
 		"in_date": "20260914",
 		"hsecd": "04",
@@ -601,12 +601,33 @@
 		"apply_nums": "13세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910227&pblancNo=2026910227&houseSecd=04",
+		"in_date": "20260914",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "한강 푸르지오 리버프론트",
+		"addr": "경기도 김포시 고촌읍 향산리 588-45번지 일원",
+		"short_addr": "경기도 김포시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "김포시",
+		"apply_nums": "832세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940191&pblancNo=2026940191&houseSecd=11",
 		"in_date": "20260914",
 		"hsecd": "11",
 		"rse": "11",
 		"type": "",
 		"name": "고덕신도시 아테라 A-63블록 공공분양주택"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940190&pblancNo=2026940190&houseSecd=11",
+		"in_date": "20260914",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "아산자이 그랜드파크 2단지(2차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940186&pblancNo=2026940186&houseSecd=11",
@@ -740,6 +761,40 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "화성시",
 		"apply_nums": "15세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910242&pblancNo=2026910242&houseSecd=04",
+		"in_date": "20260915",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "더샵 송도마리나베이(조합원 자격상실세대 3회차)",
+		"addr": "인천광역시 연수구 송도동 308-1번지(송도국제도시 송도랜드마크시티 6,8공구 A1블록)",
+		"short_addr": "인천광역시 연수구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "연수구",
+		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910238&pblancNo=2026910238&houseSecd=04",
+		"in_date": "20260915",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "북오산자이 드포레",
+		"addr": "경기도 오산시 내삼미동 288번지 일원",
+		"short_addr": "경기도 오산시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "오산시",
+		"apply_nums": "2세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940190&pblancNo=2026940190&houseSecd=11",
+		"in_date": "20260915",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "아산자이 그랜드파크 2단지(2차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940186&pblancNo=2026940186&houseSecd=11",
@@ -880,6 +935,19 @@
 		"apply_nums": "133세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000314&pblancNo=2026000314&houseSecd=01",
+		"in_date": "20260921",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "중동역 다채로움 더원",
+		"addr": "경기도 부천시 소사구 송내동 365-1번지 일원",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "39세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950082&pblancNo=2026950082&houseSecd=02",
 		"in_date": "20260921",
 		"hsecd": "02",
@@ -906,6 +974,19 @@
 		"apply_nums": "133세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000314&pblancNo=2026000314&houseSecd=01",
+		"in_date": "20260922",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "중동역 다채로움 더원",
+		"addr": "경기도 부천시 소사구 송내동 365-1번지 일원",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "39세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950082&pblancNo=2026950082&houseSecd=02",
 		"in_date": "20260922",
 		"hsecd": "02",
@@ -930,6 +1011,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "남양주시",
 		"apply_nums": "133세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000314&pblancNo=2026000314&houseSecd=01",
+		"in_date": "20260923",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "중동역 다채로움 더원",
+		"addr": "경기도 부천시 소사구 송내동 365-1번지 일원",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "39세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950082&pblancNo=2026950082&houseSecd=02",
