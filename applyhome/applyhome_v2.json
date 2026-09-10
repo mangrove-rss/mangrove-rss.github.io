@@ -1,89 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000399&pblancNo=2026000399&houseSecd=01",
-		"in_date": "20260907",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "브라운스톤 월곡 센트럴",
-		"addr": "서울특별시 성북구 하월곡동 70-4번지 일원",
-		"short_addr": "서울특별시 성북구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "성북구",
-		"apply_nums": "62세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000401&pblancNo=2026000401&houseSecd=01",
-		"in_date": "20260907",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "문수데시앙2단지 공가세대 일반공급",
-		"addr": "울산광역시 울주군 청량읍 율리영해2길 7 (문수데시앙 2단지 아파트) ",
-		"short_addr": "울산광역시 울주군",
-		"addr_lv1": "울산광역시",
-		"addr_lv2": "울주군",
-		"apply_nums": "22세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850046&pblancNo=2026850046&houseSecd=03",
-		"in_date": "20260907",
-		"hsecd": "03",
-		"rse": "04",
-		"type": "",
-		"name": "부경경마공원역 대방 디에트르 더리버(AP1BL)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910221&pblancNo=2026910221&houseSecd=04",
-		"in_date": "20260907",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "대방역 여의도 더로드캐슬(5차)",
-		"addr": "서울특별시 영등포구 신길동 449-11",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "3세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910230&pblancNo=2026910230&houseSecd=04",
-		"in_date": "20260907",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "포레나더샵 인천시청역(3차)",
-		"addr": "인천광역시 남동구 간석1동 311-1번지 일원",
-		"short_addr": "인천광역시 남동구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "남동구",
-		"apply_nums": "5세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940185&pblancNo=2026940185&houseSecd=11",
-		"in_date": "20260907",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "고촌센트럴자이(13차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940184&pblancNo=2026940184&houseSecd=11",
-		"in_date": "20260907",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "더샵 분당센트로(5차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940192&pblancNo=2026940192&houseSecd=11",
-		"in_date": "20260907",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "엘리프 한신더휴 수원 D3블록 (2차)"
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000202&pblancNo=2026000202&houseSecd=01",
 		"in_date": "20260908",
 		"hsecd": "01",
@@ -202,6 +118,14 @@
 		"name": "인천영종국제도시 디에트르 라 메르Ⅰ(RC4-1,2BL)(7차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
+		"in_date": "20260908",
+		"hsecd": null,
+		"rse": "12",
+		"type": "",
+		"name": null
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000202&pblancNo=2026000202&houseSecd=01",
 		"in_date": "20260909",
 		"hsecd": "01",
@@ -265,6 +189,14 @@
 		"name": "풍무역세권 수자인 그라센트 2차(3차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
+		"in_date": "20260909",
+		"hsecd": null,
+		"rse": "12",
+		"type": "",
+		"name": null
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000202&pblancNo=2026000202&houseSecd=01",
 		"in_date": "20260910",
 		"hsecd": "01",
@@ -323,6 +255,14 @@
 		"name": "풍무역세권 수자인 그라센트 2차(3차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
+		"in_date": "20260910",
+		"hsecd": null,
+		"rse": "12",
+		"type": "",
+		"name": null
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940191&pblancNo=2026940191&houseSecd=11",
 		"in_date": "20260911",
 		"hsecd": "11",
@@ -379,6 +319,14 @@
 		"name": "의정부역 센트럴 아이파크 (4차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
+		"in_date": "20260911",
+		"hsecd": null,
+		"rse": "12",
+		"type": "",
+		"name": null
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940191&pblancNo=2026940191&houseSecd=11",
 		"in_date": "20260912",
 		"hsecd": "11",
@@ -395,6 +343,14 @@
 		"name": "야목역 서희스타힐스 그랜드힐(조합원 취소분)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
+		"in_date": "20260912",
+		"hsecd": null,
+		"rse": "12",
+		"type": "",
+		"name": null
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940191&pblancNo=2026940191&houseSecd=11",
 		"in_date": "20260913",
 		"hsecd": "11",
@@ -409,6 +365,14 @@
 		"rse": "11",
 		"type": "",
 		"name": "야목역 서희스타힐스 그랜드힐(조합원 취소분)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
+		"in_date": "20260913",
+		"hsecd": null,
+		"rse": "12",
+		"type": "",
+		"name": null
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000403&pblancNo=2026000403&houseSecd=01",
@@ -638,6 +602,14 @@
 		"name": "야목역 서희스타힐스 그랜드힐(조합원 취소분)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
+		"in_date": "20260914",
+		"hsecd": null,
+		"rse": "12",
+		"type": "",
+		"name": null
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000393&pblancNo=2026000393&houseSecd=01",
 		"in_date": "20260915",
 		"hsecd": "01",
@@ -776,6 +748,19 @@
 		"apply_nums": "1세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910239&pblancNo=2026910239&houseSecd=04",
+		"in_date": "20260915",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "더샵 트리센트",
+		"addr": "부산광역시 남구 문현동 334번지 일원",
+		"short_addr": "부산광역시 남구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "28세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910238&pblancNo=2026910238&houseSecd=04",
 		"in_date": "20260915",
 		"hsecd": "04",
@@ -803,6 +788,30 @@
 		"rse": "11",
 		"type": "",
 		"name": "야목역 서희스타힐스 그랜드힐(조합원 취소분)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940189&pblancNo=2026940189&houseSecd=11",
+		"in_date": "20260915",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "이천 휴먼빌 클래스원"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940199&pblancNo=2026940199&houseSecd=11",
+		"in_date": "20260915",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "인하대역 수자인 로이센트(4차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
+		"in_date": "20260915",
+		"hsecd": null,
+		"rse": "12",
+		"type": "",
+		"name": null
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000393&pblancNo=2026000393&houseSecd=01",
@@ -909,6 +918,14 @@
 		"apply_nums": "777세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
+		"in_date": "20260916",
+		"hsecd": null,
+		"rse": "12",
+		"type": "",
+		"name": null
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000393&pblancNo=2026000393&houseSecd=01",
 		"in_date": "20260917",
 		"hsecd": "01",
@@ -922,6 +939,38 @@
 		"apply_nums": "24세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
+		"in_date": "20260917",
+		"hsecd": null,
+		"rse": "12",
+		"type": "",
+		"name": null
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
+		"in_date": "20260918",
+		"hsecd": null,
+		"rse": "12",
+		"type": "",
+		"name": null
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
+		"in_date": "20260919",
+		"hsecd": null,
+		"rse": "12",
+		"type": "",
+		"name": null
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
+		"in_date": "20260920",
+		"hsecd": null,
+		"rse": "12",
+		"type": "",
+		"name": null
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000431&pblancNo=2026000431&houseSecd=01",
 		"in_date": "20260921",
 		"hsecd": "01",
@@ -959,6 +1008,14 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "관악구",
 		"apply_nums": "11세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
+		"in_date": "20260921",
+		"hsecd": null,
+		"rse": "12",
+		"type": "",
+		"name": null
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000431&pblancNo=2026000431&houseSecd=01",
@@ -1000,6 +1057,14 @@
 		"apply_nums": "11세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
+		"in_date": "20260922",
+		"hsecd": null,
+		"rse": "12",
+		"type": "",
+		"name": null
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000431&pblancNo=2026000431&houseSecd=01",
 		"in_date": "20260923",
 		"hsecd": "01",
@@ -1037,5 +1102,317 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "관악구",
 		"apply_nums": "11세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
+		"in_date": "20260923",
+		"hsecd": null,
+		"rse": "12",
+		"type": "",
+		"name": null
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
+		"in_date": "20260924",
+		"hsecd": null,
+		"rse": "12",
+		"type": "",
+		"name": null
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
+		"in_date": "20260925",
+		"hsecd": null,
+		"rse": "12",
+		"type": "",
+		"name": null
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
+		"in_date": "20260926",
+		"hsecd": null,
+		"rse": "12",
+		"type": "",
+		"name": null
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
+		"in_date": "20260927",
+		"hsecd": null,
+		"rse": "12",
+		"type": "",
+		"name": null
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
+		"in_date": "20260928",
+		"hsecd": null,
+		"rse": "12",
+		"type": "",
+		"name": null
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
+		"in_date": "20260929",
+		"hsecd": null,
+		"rse": "12",
+		"type": "",
+		"name": null
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
+		"in_date": "20260930",
+		"hsecd": null,
+		"rse": "12",
+		"type": "",
+		"name": null
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
+		"in_date": "20261001",
+		"hsecd": null,
+		"rse": "12",
+		"type": "",
+		"name": null
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
+		"in_date": "20261002",
+		"hsecd": null,
+		"rse": "12",
+		"type": "",
+		"name": null
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
+		"in_date": "20261003",
+		"hsecd": null,
+		"rse": "12",
+		"type": "",
+		"name": null
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
+		"in_date": "20261004",
+		"hsecd": null,
+		"rse": "12",
+		"type": "",
+		"name": null
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
+		"in_date": "20261005",
+		"hsecd": null,
+		"rse": "12",
+		"type": "",
+		"name": null
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
+		"in_date": "20261006",
+		"hsecd": null,
+		"rse": "12",
+		"type": "",
+		"name": null
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
+		"in_date": "20261007",
+		"hsecd": null,
+		"rse": "12",
+		"type": "",
+		"name": null
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
+		"in_date": "20261008",
+		"hsecd": null,
+		"rse": "12",
+		"type": "",
+		"name": null
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
+		"in_date": "20261009",
+		"hsecd": null,
+		"rse": "12",
+		"type": "",
+		"name": null
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
+		"in_date": "20261010",
+		"hsecd": null,
+		"rse": "12",
+		"type": "",
+		"name": null
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
+		"in_date": "20261011",
+		"hsecd": null,
+		"rse": "12",
+		"type": "",
+		"name": null
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
+		"in_date": "20261012",
+		"hsecd": null,
+		"rse": "12",
+		"type": "",
+		"name": null
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
+		"in_date": "20261013",
+		"hsecd": null,
+		"rse": "12",
+		"type": "",
+		"name": null
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
+		"in_date": "20261014",
+		"hsecd": null,
+		"rse": "12",
+		"type": "",
+		"name": null
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
+		"in_date": "20261015",
+		"hsecd": null,
+		"rse": "12",
+		"type": "",
+		"name": null
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
+		"in_date": "20261016",
+		"hsecd": null,
+		"rse": "12",
+		"type": "",
+		"name": null
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
+		"in_date": "20261017",
+		"hsecd": null,
+		"rse": "12",
+		"type": "",
+		"name": null
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
+		"in_date": "20261018",
+		"hsecd": null,
+		"rse": "12",
+		"type": "",
+		"name": null
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
+		"in_date": "20261019",
+		"hsecd": null,
+		"rse": "12",
+		"type": "",
+		"name": null
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
+		"in_date": "20261020",
+		"hsecd": null,
+		"rse": "12",
+		"type": "",
+		"name": null
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
+		"in_date": "20261021",
+		"hsecd": null,
+		"rse": "12",
+		"type": "",
+		"name": null
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
+		"in_date": "20261022",
+		"hsecd": null,
+		"rse": "12",
+		"type": "",
+		"name": null
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
+		"in_date": "20261023",
+		"hsecd": null,
+		"rse": "12",
+		"type": "",
+		"name": null
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
+		"in_date": "20261024",
+		"hsecd": null,
+		"rse": "12",
+		"type": "",
+		"name": null
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
+		"in_date": "20261025",
+		"hsecd": null,
+		"rse": "12",
+		"type": "",
+		"name": null
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
+		"in_date": "20261026",
+		"hsecd": null,
+		"rse": "12",
+		"type": "",
+		"name": null
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
+		"in_date": "20261027",
+		"hsecd": null,
+		"rse": "12",
+		"type": "",
+		"name": null
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
+		"in_date": "20261028",
+		"hsecd": null,
+		"rse": "12",
+		"type": "",
+		"name": null
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
+		"in_date": "20261029",
+		"hsecd": null,
+		"rse": "12",
+		"type": "",
+		"name": null
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
+		"in_date": "20261030",
+		"hsecd": null,
+		"rse": "12",
+		"type": "",
+		"name": null
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
+		"in_date": "20261031",
+		"hsecd": null,
+		"rse": "12",
+		"type": "",
+		"name": null
 	}
 ]
