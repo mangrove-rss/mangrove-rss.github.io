@@ -1,70 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940191&pblancNo=2026940191&houseSecd=11",
-		"in_date": "20260911",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "고덕신도시 아테라 A-63블록 공공분양주택"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940195&pblancNo=2026940195&houseSecd=11",
-		"in_date": "20260911",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "더 리치먼드 미아"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940197&pblancNo=2026940197&houseSecd=11",
-		"in_date": "20260911",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "수원역 아너스빌 타임원"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940198&pblancNo=2026940198&houseSecd=11",
-		"in_date": "20260911",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "신월동 한양립스(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940186&pblancNo=2026940186&houseSecd=11",
-		"in_date": "20260911",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "야목역 서희스타힐스 그랜드힐(조합원 취소분)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940188&pblancNo=2026940188&houseSecd=11",
-		"in_date": "20260911",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "양산자이 파크팰리체"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940196&pblancNo=2026940196&houseSecd=11",
-		"in_date": "20260911",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "의정부역 센트럴 아이파크 (4차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
-		"in_date": "20260911",
-		"hsecd": null,
-		"rse": "12",
-		"type": "",
-		"name": null
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940191&pblancNo=2026940191&houseSecd=11",
 		"in_date": "20260912",
 		"hsecd": "11",
 		"rse": "11",
@@ -684,12 +620,44 @@
 		"apply_nums": "24세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940193&pblancNo=2026940193&houseSecd=11",
+		"in_date": "20260917",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "밀양 수자인 더퍼스트 2단지 공공분양주택"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940201&pblancNo=2026940201&houseSecd=11",
+		"in_date": "20260917",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "이천 중리지구 B3블록 금성백조 예미지"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940206&pblancNo=2026940206&houseSecd=11",
+		"in_date": "20260917",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "청계백상앨리츠(3차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
 		"in_date": "20260917",
 		"hsecd": null,
 		"rse": "12",
 		"type": "",
 		"name": null
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940206&pblancNo=2026940206&houseSecd=11",
+		"in_date": "20260918",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "청계백상앨리츠(3차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
@@ -828,6 +796,19 @@
 		"apply_nums": "11세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910240&pblancNo=2026910240&houseSecd=04",
+		"in_date": "20260921",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "아야진 라메르 데시앙",
+		"addr": "강원특별자치도 고성군 토성면 아야진길 24-10, 아야진 라메르 데시앙",
+		"short_addr": "강원특별자치도 고성군",
+		"addr_lv1": "강원특별자치도",
+		"addr_lv2": "고성군",
+		"apply_nums": "3세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
 		"in_date": "20260921",
 		"hsecd": null,
@@ -938,6 +919,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "관악구",
 		"apply_nums": "11세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910244&pblancNo=2026910244&houseSecd=04",
+		"in_date": "20260922",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "더 리치먼드 미아(3차)",
+		"addr": "서울특별시 강북구 미아동 703-13번지",
+		"short_addr": "서울특별시 강북구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "강북구",
+		"apply_nums": "14세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
@@ -1103,6 +1097,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "성남시",
 		"apply_nums": "143세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026930032&pblancNo=2026930032&houseSecd=06",
+		"in_date": "20260928",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "태화강 에피트",
+		"addr": "울산광역시 울주군 범서읍 굴화리 일원 공공주택지구 내 S1블럭",
+		"short_addr": "울산광역시 울주군",
+		"addr_lv1": "울산광역시",
+		"addr_lv2": "울주군",
+		"apply_nums": "1세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
