@@ -1,30 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940191&pblancNo=2026940191&houseSecd=11",
-		"in_date": "20260912",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "고덕신도시 아테라 A-63블록 공공분양주택"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940186&pblancNo=2026940186&houseSecd=11",
-		"in_date": "20260912",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "야목역 서희스타힐스 그랜드힐(조합원 취소분)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
-		"in_date": "20260912",
-		"hsecd": null,
-		"rse": "12",
-		"type": "",
-		"name": null
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940191&pblancNo=2026940191&houseSecd=11",
 		"in_date": "20260913",
 		"hsecd": "11",
 		"rse": "11",
@@ -652,6 +628,22 @@
 		"name": null
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940205&pblancNo=2026940205&houseSecd=11",
+		"in_date": "20260918",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "수지자이 에디시온"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940204&pblancNo=2026940204&houseSecd=11",
+		"in_date": "20260918",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "월드메르디앙 역곡"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940206&pblancNo=2026940206&houseSecd=11",
 		"in_date": "20260918",
 		"hsecd": "11",
@@ -796,6 +788,19 @@
 		"apply_nums": "11세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910241&pblancNo=2026910241&houseSecd=04",
+		"in_date": "20260921",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "두산위브더제니스 부천",
+		"addr": "경기도 부천시 소사구 소사본동 88-39번지 일대",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "229세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910240&pblancNo=2026910240&houseSecd=04",
 		"in_date": "20260921",
 		"hsecd": "04",
@@ -807,6 +812,19 @@
 		"addr_lv1": "강원특별자치도",
 		"addr_lv2": "고성군",
 		"apply_nums": "3세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910246&pblancNo=2026910246&houseSecd=04",
+		"in_date": "20260921",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "용인반도체클러스터 동일하이빌 파크밸리(D1-1블록)",
+		"addr": "경기도 용인시 처인구 원삼면 용인 반도체 클러스터 일반산업단지 D1-1BL",
+		"short_addr": "경기도 용인시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "용인시",
+		"apply_nums": "126세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
