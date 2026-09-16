@@ -1,29 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940191&pblancNo=2026940191&houseSecd=11",
-		"in_date": "20260913",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "고덕신도시 아테라 A-63블록 공공분양주택"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940186&pblancNo=2026940186&houseSecd=11",
-		"in_date": "20260913",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "야목역 서희스타힐스 그랜드힐(조합원 취소분)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
-		"in_date": "20260913",
-		"hsecd": null,
-		"rse": "12",
-		"type": "",
-		"name": null
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000403&pblancNo=2026000403&houseSecd=01",
 		"in_date": "20260914",
 		"hsecd": "01",
@@ -939,6 +915,19 @@
 		"apply_nums": "11세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950084&pblancNo=2026950084&houseSecd=02",
+		"in_date": "20260922",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "호반써밋 풍무Ⅱ",
+		"addr": "김포 풍무역세권 C5블록 (경기도 김포시 사우동 527-1 일원)",
+		"short_addr": "김포 풍무역세권",
+		"addr_lv1": "김포",
+		"addr_lv2": "풍무역세권",
+		"apply_nums": "14세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910244&pblancNo=2026910244&houseSecd=04",
 		"in_date": "20260922",
 		"hsecd": "04",
@@ -1104,6 +1093,19 @@
 		"name": null
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000454&pblancNo=2026000454&houseSecd=01",
+		"in_date": "20260928",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "천안 용곡 두산위브(조합원 취소분)",
+		"addr": "충청남도 천안시 동남구 풍세로 801(용곡동 617번지)",
+		"short_addr": "충청남도 천안시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "천안시",
+		"apply_nums": "7세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000103&pblancNo=2026000103&houseSecd=01",
 		"in_date": "20260928",
 		"hsecd": "01",
@@ -1136,6 +1138,19 @@
 		"rse": "12",
 		"type": "",
 		"name": null
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000454&pblancNo=2026000454&houseSecd=01",
+		"in_date": "20260929",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "천안 용곡 두산위브(조합원 취소분)",
+		"addr": "충청남도 천안시 동남구 풍세로 801(용곡동 617번지)",
+		"short_addr": "충청남도 천안시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "천안시",
+		"apply_nums": "7세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
