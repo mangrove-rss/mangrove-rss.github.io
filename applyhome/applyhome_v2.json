@@ -1,210 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000393&pblancNo=2026000393&houseSecd=01",
-		"in_date": "20260915",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "시흥 은계 에피트(조합원 취소분)",
-		"addr": "경기도 시흥시 은행동 289-31번지 일원",
-		"short_addr": "경기도 시흥시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "시흥시",
-		"apply_nums": "24세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000403&pblancNo=2026000403&houseSecd=01",
-		"in_date": "20260915",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "그랑라크 에일린의 뜰",
-		"addr": "울산광역시 남구 야음동 350-5번지 일원 ",
-		"short_addr": "울산광역시 남구",
-		"addr_lv1": "울산광역시",
-		"addr_lv2": "남구",
-		"apply_nums": "1153세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000420&pblancNo=2026000420&houseSecd=01",
-		"in_date": "20260915",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "남울산 노르웨이숲(조합원 취소분)(2회차)",
-		"addr": "울산광역시 울주군 온양읍 발리동상로 34",
-		"short_addr": "울산광역시 울주군",
-		"addr_lv1": "울산광역시",
-		"addr_lv2": "울주군",
-		"apply_nums": "52세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000394&pblancNo=2026000394&houseSecd=01",
-		"in_date": "20260915",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "더샵 여주역더퍼스트",
-		"addr": "경기도 여주시 홍문동 332-2번지 일원",
-		"short_addr": "경기도 여주시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "여주시",
-		"apply_nums": "696세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000423&pblancNo=2026000423&houseSecd=01",
-		"in_date": "20260915",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "두정역 푸르지오 그랑피크",
-		"addr": "충청남도 천안시 서북구 성정동 511번지",
-		"short_addr": "충청남도 천안시",
-		"addr_lv1": "충청남도",
-		"addr_lv2": "천안시",
-		"apply_nums": "1438세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000419&pblancNo=2026000419&houseSecd=01",
-		"in_date": "20260915",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "올 뉴 챔피언스시티 1차",
-		"addr": "전남광주통합특별시 북구 임동 100-1 일원",
-		"short_addr": "전남광주통합특별시 북구",
-		"addr_lv1": "전남광주통합특별시",
-		"addr_lv2": "북구",
-		"apply_nums": "3216세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000422&pblancNo=2026000422&houseSecd=01",
-		"in_date": "20260915",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "천안 아이파크 시티 3단지",
-		"addr": "충청남도 천안시 서북구 부대동 394-2번지 일원",
-		"short_addr": "충청남도 천안시",
-		"addr_lv1": "충청남도",
-		"addr_lv2": "천안시",
-		"apply_nums": "851세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000426&pblancNo=2026000426&houseSecd=01",
-		"in_date": "20260915",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "천안 아이파크 시티 4단지",
-		"addr": "충청남도 천안시 서북구 부대동 384-20번지 일원",
-		"short_addr": "충청남도 천안시",
-		"addr_lv1": "충청남도",
-		"addr_lv2": "천안시",
-		"apply_nums": "777세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850047&pblancNo=2026850047&houseSecd=03",
-		"in_date": "20260915",
-		"hsecd": "03",
-		"rse": "04",
-		"type": "",
-		"name": "오산세교2지구 A5BL 우미 린 포레아시티"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950081&pblancNo=2026950081&houseSecd=02",
-		"in_date": "20260915",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "테라스99 동탄",
-		"addr": "경기도 화성시 동탄구 여울동 968-1",
-		"short_addr": "경기도 화성시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "화성시",
-		"apply_nums": "15세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910242&pblancNo=2026910242&houseSecd=04",
-		"in_date": "20260915",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "더샵 송도마리나베이(조합원 자격상실세대 3회차)",
-		"addr": "인천광역시 연수구 송도동 308-1번지(송도국제도시 송도랜드마크시티 6,8공구 A1블록)",
-		"short_addr": "인천광역시 연수구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "연수구",
-		"apply_nums": "1세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910239&pblancNo=2026910239&houseSecd=04",
-		"in_date": "20260915",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "더샵 트리센트",
-		"addr": "부산광역시 남구 문현동 334번지 일원",
-		"short_addr": "부산광역시 남구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "남구",
-		"apply_nums": "28세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910238&pblancNo=2026910238&houseSecd=04",
-		"in_date": "20260915",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "북오산자이 드포레",
-		"addr": "경기도 오산시 내삼미동 288번지 일원",
-		"short_addr": "경기도 오산시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "오산시",
-		"apply_nums": "2세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940190&pblancNo=2026940190&houseSecd=11",
-		"in_date": "20260915",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "아산자이 그랜드파크 2단지(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940186&pblancNo=2026940186&houseSecd=11",
-		"in_date": "20260915",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "야목역 서희스타힐스 그랜드힐(조합원 취소분)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940189&pblancNo=2026940189&houseSecd=11",
-		"in_date": "20260915",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "이천 휴먼빌 클래스원"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940199&pblancNo=2026940199&houseSecd=11",
-		"in_date": "20260915",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "인하대역 수자인 로이센트(4차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
-		"in_date": "20260915",
-		"hsecd": null,
-		"rse": "12",
-		"type": "",
-		"name": null
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000393&pblancNo=2026000393&houseSecd=01",
 		"in_date": "20260916",
 		"hsecd": "01",
 		"rse": "02",
@@ -1003,6 +799,19 @@
 		"apply_nums": "29세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000445&pblancNo=2026000445&houseSecd=01",
+		"in_date": "20260928",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "삼천 하늘채 라비엘",
+		"addr": "전북특별자치도 전주시 완산구 삼천동1가 585-4번지 일원",
+		"short_addr": "전북특별자치도 전주시",
+		"addr_lv1": "전북특별자치도",
+		"addr_lv2": "전주시",
+		"apply_nums": "116세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000448&pblancNo=2026000448&houseSecd=01",
 		"in_date": "20260928",
 		"hsecd": "01",
@@ -1014,6 +823,45 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "미추홀구",
 		"apply_nums": "35세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000424&pblancNo=2026000424&houseSecd=01",
+		"in_date": "20260928",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "쌍용 더 플래티넘 센텀",
+		"addr": "부산광역시 수영구 망미동 253-1번지 일원",
+		"short_addr": "부산광역시 수영구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "수영구",
+		"apply_nums": "53세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000443&pblancNo=2026000443&houseSecd=01",
+		"in_date": "20260928",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "에코델타시티 금강펜테리움 에코리버",
+		"addr": "부산광역시 강서구 강동동 5048-5번지 일원 에코델타시티 공동6BL",
+		"short_addr": "부산광역시 강서구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "강서구",
+		"apply_nums": "358세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000446&pblancNo=2026000446&houseSecd=01",
+		"in_date": "20260928",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "진주 판문지구 레이크써밋 웰가",
+		"addr": "경상남도 진주시 판문동 241-1번지 일원",
+		"short_addr": "경상남도 진주시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "진주시",
+		"apply_nums": "690세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000454&pblancNo=2026000454&houseSecd=01",
@@ -1097,6 +945,19 @@
 		"apply_nums": "29세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000445&pblancNo=2026000445&houseSecd=01",
+		"in_date": "20260929",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "삼천 하늘채 라비엘",
+		"addr": "전북특별자치도 전주시 완산구 삼천동1가 585-4번지 일원",
+		"short_addr": "전북특별자치도 전주시",
+		"addr_lv1": "전북특별자치도",
+		"addr_lv2": "전주시",
+		"apply_nums": "116세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000448&pblancNo=2026000448&houseSecd=01",
 		"in_date": "20260929",
 		"hsecd": "01",
@@ -1108,6 +969,45 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "미추홀구",
 		"apply_nums": "35세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000424&pblancNo=2026000424&houseSecd=01",
+		"in_date": "20260929",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "쌍용 더 플래티넘 센텀",
+		"addr": "부산광역시 수영구 망미동 253-1번지 일원",
+		"short_addr": "부산광역시 수영구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "수영구",
+		"apply_nums": "53세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000443&pblancNo=2026000443&houseSecd=01",
+		"in_date": "20260929",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "에코델타시티 금강펜테리움 에코리버",
+		"addr": "부산광역시 강서구 강동동 5048-5번지 일원 에코델타시티 공동6BL",
+		"short_addr": "부산광역시 강서구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "강서구",
+		"apply_nums": "358세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000446&pblancNo=2026000446&houseSecd=01",
+		"in_date": "20260929",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "진주 판문지구 레이크써밋 웰가",
+		"addr": "경상남도 진주시 판문동 241-1번지 일원",
+		"short_addr": "경상남도 진주시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "진주시",
+		"apply_nums": "690세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000454&pblancNo=2026000454&houseSecd=01",
@@ -1157,6 +1057,19 @@
 		"apply_nums": "29세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000445&pblancNo=2026000445&houseSecd=01",
+		"in_date": "20260930",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "삼천 하늘채 라비엘",
+		"addr": "전북특별자치도 전주시 완산구 삼천동1가 585-4번지 일원",
+		"short_addr": "전북특별자치도 전주시",
+		"addr_lv1": "전북특별자치도",
+		"addr_lv2": "전주시",
+		"apply_nums": "116세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000448&pblancNo=2026000448&houseSecd=01",
 		"in_date": "20260930",
 		"hsecd": "01",
@@ -1168,6 +1081,45 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "미추홀구",
 		"apply_nums": "35세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000424&pblancNo=2026000424&houseSecd=01",
+		"in_date": "20260930",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "쌍용 더 플래티넘 센텀",
+		"addr": "부산광역시 수영구 망미동 253-1번지 일원",
+		"short_addr": "부산광역시 수영구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "수영구",
+		"apply_nums": "53세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000443&pblancNo=2026000443&houseSecd=01",
+		"in_date": "20260930",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "에코델타시티 금강펜테리움 에코리버",
+		"addr": "부산광역시 강서구 강동동 5048-5번지 일원 에코델타시티 공동6BL",
+		"short_addr": "부산광역시 강서구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "강서구",
+		"apply_nums": "358세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000446&pblancNo=2026000446&houseSecd=01",
+		"in_date": "20260930",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "진주 판문지구 레이크써밋 웰가",
+		"addr": "경상남도 진주시 판문동 241-1번지 일원",
+		"short_addr": "경상남도 진주시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "진주시",
+		"apply_nums": "690세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
