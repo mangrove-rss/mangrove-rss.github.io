@@ -1,50 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000393&pblancNo=2026000393&houseSecd=01",
-		"in_date": "20260917",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "시흥 은계 에피트(조합원 취소분)",
-		"addr": "경기도 시흥시 은행동 289-31번지 일원",
-		"short_addr": "경기도 시흥시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "시흥시",
-		"apply_nums": "24세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940193&pblancNo=2026940193&houseSecd=11",
-		"in_date": "20260917",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "밀양 수자인 더퍼스트 2단지 공공분양주택"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940201&pblancNo=2026940201&houseSecd=11",
-		"in_date": "20260917",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "이천 중리지구 B3블록 금성백조 예미지"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940206&pblancNo=2026940206&houseSecd=11",
-		"in_date": "20260917",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "청계백상앨리츠(3차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
-		"in_date": "20260917",
-		"hsecd": null,
-		"rse": "12",
-		"type": "",
-		"name": null
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940205&pblancNo=2026940205&houseSecd=11",
 		"in_date": "20260918",
 		"hsecd": "11",
@@ -570,6 +525,22 @@
 		"apply_nums": "2세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940212&pblancNo=2026940212&houseSecd=11",
+		"in_date": "20260923",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(23차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940208&pblancNo=2026940208&houseSecd=11",
+		"in_date": "20260923",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "부천역 에피트 어바닉(4차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940202&pblancNo=2026940202&houseSecd=11",
 		"in_date": "20260923",
 		"hsecd": "11",
@@ -586,6 +557,14 @@
 		"name": "인천영종국제도시 디에트르 라 메르Ⅰ(RC4-1,2BL)(8차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940209&pblancNo=2026940209&houseSecd=11",
+		"in_date": "20260923",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "중앙하이츠 갈산역 센트럴"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940207&pblancNo=2026940207&houseSecd=11",
 		"in_date": "20260923",
 		"hsecd": "11",
@@ -600,6 +579,22 @@
 		"rse": "12",
 		"type": "",
 		"name": null
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940212&pblancNo=2026940212&houseSecd=11",
+		"in_date": "20260924",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(23차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940209&pblancNo=2026940209&houseSecd=11",
+		"in_date": "20260924",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "중앙하이츠 갈산역 센트럴"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940207&pblancNo=2026940207&houseSecd=11",
@@ -618,6 +613,22 @@
 		"name": null
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940212&pblancNo=2026940212&houseSecd=11",
+		"in_date": "20260925",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(23차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940209&pblancNo=2026940209&houseSecd=11",
+		"in_date": "20260925",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "중앙하이츠 갈산역 센트럴"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940207&pblancNo=2026940207&houseSecd=11",
 		"in_date": "20260925",
 		"hsecd": "11",
@@ -634,6 +645,22 @@
 		"name": null
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940212&pblancNo=2026940212&houseSecd=11",
+		"in_date": "20260926",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(23차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940209&pblancNo=2026940209&houseSecd=11",
+		"in_date": "20260926",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "중앙하이츠 갈산역 센트럴"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940207&pblancNo=2026940207&houseSecd=11",
 		"in_date": "20260926",
 		"hsecd": "11",
@@ -648,6 +675,22 @@
 		"rse": "12",
 		"type": "",
 		"name": null
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940212&pblancNo=2026940212&houseSecd=11",
+		"in_date": "20260927",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(23차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940209&pblancNo=2026940209&houseSecd=11",
+		"in_date": "20260927",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "중앙하이츠 갈산역 센트럴"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940207&pblancNo=2026940207&houseSecd=11",
@@ -770,6 +813,32 @@
 		"apply_nums": "143세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910243&pblancNo=2026910243&houseSecd=04",
+		"in_date": "20260928",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "더샵 청주그리니티",
+		"addr": "충청북도 청주시 서원구 개신동 767번지",
+		"short_addr": "충청북도 청주시",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "청주시",
+		"apply_nums": "2세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026930035&pblancNo=2026930035&houseSecd=06",
+		"in_date": "20260928",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "더샵 청주그리니티",
+		"addr": "충청북도 청주시 서원구 개신동 767번지",
+		"short_addr": "충청북도 청주시",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "청주시",
+		"apply_nums": "2세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026930032&pblancNo=2026930032&houseSecd=06",
 		"in_date": "20260928",
 		"hsecd": "06",
@@ -781,6 +850,22 @@
 		"addr_lv1": "울산광역시",
 		"addr_lv2": "울주군",
 		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940212&pblancNo=2026940212&houseSecd=11",
+		"in_date": "20260928",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(23차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940209&pblancNo=2026940209&houseSecd=11",
+		"in_date": "20260928",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "중앙하이츠 갈산역 센트럴"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940207&pblancNo=2026940207&houseSecd=11",
@@ -903,6 +988,22 @@
 		"apply_nums": "7세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940212&pblancNo=2026940212&houseSecd=11",
+		"in_date": "20260929",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(23차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940203&pblancNo=2026940203&houseSecd=11",
+		"in_date": "20260929",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "회천중앙역 파라곤"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
 		"in_date": "20260929",
 		"hsecd": null,
@@ -1002,6 +1103,22 @@
 		"apply_nums": "690세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940212&pblancNo=2026940212&houseSecd=11",
+		"in_date": "20260930",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(23차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940203&pblancNo=2026940203&houseSecd=11",
+		"in_date": "20260930",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "회천중앙역 파라곤"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
 		"in_date": "20260930",
 		"hsecd": null,
@@ -1021,6 +1138,14 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "광명시",
 		"apply_nums": "426세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940212&pblancNo=2026940212&houseSecd=11",
+		"in_date": "20261001",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "리아츠 더 인천(23차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
