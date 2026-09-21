@@ -1,37 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940205&pblancNo=2026940205&houseSecd=11",
-		"in_date": "20260918",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "수지자이 에디시온"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940204&pblancNo=2026940204&houseSecd=11",
-		"in_date": "20260918",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "월드메르디앙 역곡"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940206&pblancNo=2026940206&houseSecd=11",
-		"in_date": "20260918",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "청계백상앨리츠(3차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
-		"in_date": "20260918",
-		"hsecd": null,
-		"rse": "12",
-		"type": "",
-		"name": null
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
 		"in_date": "20260919",
 		"hsecd": null,
@@ -813,6 +781,14 @@
 		"apply_nums": "143세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850049&pblancNo=2026850049&houseSecd=03",
+		"in_date": "20260928",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "부경경마공원역 대방 디에트르 더리버(AP1BL)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910243&pblancNo=2026910243&houseSecd=04",
 		"in_date": "20260928",
 		"hsecd": "04",
@@ -824,6 +800,19 @@
 		"addr_lv1": "충청북도",
 		"addr_lv2": "청주시",
 		"apply_nums": "2세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910248&pblancNo=2026910248&houseSecd=04",
+		"in_date": "20260928",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "제일풍경채 첨단3지구(A6BL)",
+		"addr": "광주연구개발특구 첨단3지구 A6블록(전남광주통합특별시 북구 월출동) ",
+		"short_addr": "광주연구개발특구 첨단3지구",
+		"addr_lv1": "광주연구개발특구",
+		"addr_lv2": "첨단3지구",
+		"apply_nums": "187세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026930035&pblancNo=2026930035&houseSecd=06",
@@ -986,6 +975,14 @@
 		"addr_lv1": "충청남도",
 		"addr_lv2": "천안시",
 		"apply_nums": "7세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850049&pblancNo=2026850049&houseSecd=03",
+		"in_date": "20260929",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "부경경마공원역 대방 디에트르 더리버(AP1BL)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940212&pblancNo=2026940212&houseSecd=11",
