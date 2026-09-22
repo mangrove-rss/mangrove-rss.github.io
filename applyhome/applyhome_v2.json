@@ -1,14 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
-		"in_date": "20260919",
-		"hsecd": null,
-		"rse": "12",
-		"type": "",
-		"name": null
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
 		"in_date": "20260920",
 		"hsecd": null,
 		"rse": "12",
@@ -789,6 +781,19 @@
 		"name": "부경경마공원역 대방 디에트르 더리버(AP1BL)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950083&pblancNo=2026950083&houseSecd=02",
+		"in_date": "20260928",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "숭의역 노르웨이숲 더 스카이",
+		"addr": "인천광역시 미추홀구 숭의동 350-1번지 일원",
+		"short_addr": "인천광역시 미추홀구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "미추홀구",
+		"apply_nums": "108세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910243&pblancNo=2026910243&houseSecd=04",
 		"in_date": "20260928",
 		"hsecd": "04",
@@ -802,6 +807,19 @@
 		"apply_nums": "2세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910220&pblancNo=2026910220&houseSecd=04",
+		"in_date": "20260928",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "아크로 리버스카이(2차)",
+		"addr": "서울특별시 동작구 대방동 23-61번지 일대",
+		"short_addr": "서울특별시 동작구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "동작구",
+		"apply_nums": "3세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910248&pblancNo=2026910248&houseSecd=04",
 		"in_date": "20260928",
 		"hsecd": "04",
@@ -813,6 +831,32 @@
 		"addr_lv1": "광주연구개발특구",
 		"addr_lv2": "첨단3지구",
 		"apply_nums": "187세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026930036&pblancNo=2026930036&houseSecd=06",
+		"in_date": "20260928",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "과천 푸르지오 라비엔오",
+		"addr": "경기도 과천시 과천지식정보타운 공공주택지구 S4BL (과천대로8길 15, 과천푸르지오라비엔오)",
+		"short_addr": "경기도 과천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "과천시",
+		"apply_nums": "2세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026930037&pblancNo=2026930037&houseSecd=06",
+		"in_date": "20260928",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "과천 푸르지오 벨라르테",
+		"addr": "경기도 과천시 과천지식정보타운 공공주택지구 S6BL (과천대로8길 65, 과천푸르지오벨라르테)",
+		"short_addr": "경기도 과천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "과천시",
+		"apply_nums": "1세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026930035&pblancNo=2026930035&houseSecd=06",
@@ -1196,6 +1240,19 @@
 		"rse": "12",
 		"type": "",
 		"name": null
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026930040&pblancNo=2026930040&houseSecd=06",
+		"in_date": "20261006",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "강변역 센트럴 아이파크",
+		"addr": "서울특별시 광진구 구의동 592-39번지 일원",
+		"short_addr": "서울특별시 광진구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "광진구",
+		"apply_nums": "1세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
