@@ -1,38 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940212&pblancNo=2026940212&houseSecd=11",
-		"in_date": "20260924",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "리아츠 더 인천(23차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940209&pblancNo=2026940209&houseSecd=11",
-		"in_date": "20260924",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "중앙하이츠 갈산역 센트럴"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940207&pblancNo=2026940207&houseSecd=11",
-		"in_date": "20260924",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "중앙하이츠 원종역(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
-		"in_date": "20260924",
-		"hsecd": null,
-		"rse": "12",
-		"type": "",
-		"name": null
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940212&pblancNo=2026940212&houseSecd=11",
 		"in_date": "20260925",
 		"hsecd": "11",
 		"rse": "11",
@@ -699,6 +667,19 @@
 		"rse": "12",
 		"type": "",
 		"name": null
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910251&pblancNo=2026910251&houseSecd=04",
+		"in_date": "20261006",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "충정로역자이르네",
+		"addr": "서울특별시 중구 중림동 157-2번지 일원",
+		"short_addr": "서울특별시 중구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "중구",
+		"apply_nums": "35세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026930040&pblancNo=2026930040&houseSecd=06",
