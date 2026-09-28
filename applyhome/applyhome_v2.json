@@ -1,38 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940212&pblancNo=2026940212&houseSecd=11",
-		"in_date": "20260925",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "리아츠 더 인천(23차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940209&pblancNo=2026940209&houseSecd=11",
-		"in_date": "20260925",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "중앙하이츠 갈산역 센트럴"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940207&pblancNo=2026940207&houseSecd=11",
-		"in_date": "20260925",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "중앙하이츠 원종역(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
-		"in_date": "20260925",
-		"hsecd": null,
-		"rse": "12",
-		"type": "",
-		"name": null
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940212&pblancNo=2026940212&houseSecd=11",
 		"in_date": "20260926",
 		"hsecd": "11",
 		"rse": "11",
@@ -669,6 +637,14 @@
 		"name": null
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850050&pblancNo=2026850050&houseSecd=03",
+		"in_date": "20261006",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "서면 지원 더뷰 드림아파트(공공지원민간임대)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910251&pblancNo=2026910251&houseSecd=04",
 		"in_date": "20261006",
 		"hsecd": "04",
@@ -701,6 +677,14 @@
 		"rse": "12",
 		"type": "",
 		"name": null
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850050&pblancNo=2026850050&houseSecd=03",
+		"in_date": "20261007",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "서면 지원 더뷰 드림아파트(공공지원민간임대)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
