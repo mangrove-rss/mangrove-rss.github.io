@@ -1,38 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940212&pblancNo=2026940212&houseSecd=11",
-		"in_date": "20260926",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "리아츠 더 인천(23차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940209&pblancNo=2026940209&houseSecd=11",
-		"in_date": "20260926",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "중앙하이츠 갈산역 센트럴"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940207&pblancNo=2026940207&houseSecd=11",
-		"in_date": "20260926",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "중앙하이츠 원종역(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
-		"in_date": "20260926",
-		"hsecd": null,
-		"rse": "12",
-		"type": "",
-		"name": null
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940212&pblancNo=2026940212&houseSecd=11",
 		"in_date": "20260927",
 		"hsecd": "11",
 		"rse": "11",
@@ -605,6 +573,14 @@
 		"apply_nums": "426세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940215&pblancNo=2026940215&houseSecd=11",
+		"in_date": "20261002",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "힐스테이트 안양펠루스"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
 		"in_date": "20261002",
 		"hsecd": null,
@@ -687,12 +663,38 @@
 		"name": "서면 지원 더뷰 드림아파트(공공지원민간임대)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950085&pblancNo=2026950085&houseSecd=02",
+		"in_date": "20261007",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "잠실에떼르넬비욘드",
+		"addr": "서울특별시 송파구 방이동 34-1번지 일대",
+		"short_addr": "서울특별시 송파구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "송파구",
+		"apply_nums": "9세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
 		"in_date": "20261007",
 		"hsecd": null,
 		"rse": "12",
 		"type": "",
 		"name": null
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950085&pblancNo=2026950085&houseSecd=02",
+		"in_date": "20261008",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "잠실에떼르넬비욘드",
+		"addr": "서울특별시 송파구 방이동 34-1번지 일대",
+		"short_addr": "서울특별시 송파구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "송파구",
+		"apply_nums": "9세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
