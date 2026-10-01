@@ -116,6 +116,19 @@
 		"apply_nums": "4세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910253&pblancNo=2026910253&houseSecd=04",
+		"in_date": "20261006",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "오남역 서희스타힐스 여의재 1단지",
+		"addr": "경기도 남양주시 오남읍 양지리 101번지 일원",
+		"short_addr": "경기도 남양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "남양주시",
+		"apply_nums": "12세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910251&pblancNo=2026910251&houseSecd=04",
 		"in_date": "20261006",
 		"hsecd": "04",
@@ -171,12 +184,46 @@
 		"apply_nums": "9세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026930038&pblancNo=2026930038&houseSecd=06",
+		"in_date": "20261007",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "고양 장항 아테라",
+		"addr": "경기도 고양시 일산동구 장항동 529-26번지 일원",
+		"short_addr": "경기도 고양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "고양시",
+		"apply_nums": "6세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026930039&pblancNo=2026930039&houseSecd=06",
+		"in_date": "20261007",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "탕정 푸르지오 리버파크",
+		"addr": "충청남도 아산시 탕정면 갈산리 977번지",
+		"short_addr": "충청남도 아산시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "아산시",
+		"apply_nums": "3세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940211&pblancNo=2026940211&houseSecd=11",
 		"in_date": "20261007",
 		"hsecd": "11",
 		"rse": "11",
 		"type": "",
 		"name": "더샵 분당센트로(6차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940213&pblancNo=2026940213&houseSecd=11",
+		"in_date": "20261007",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "힐스테이트 금오 더퍼스트"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
@@ -200,6 +247,19 @@
 		"apply_nums": "9세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026930038&pblancNo=2026930038&houseSecd=06",
+		"in_date": "20261008",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "고양 장항 아테라",
+		"addr": "경기도 고양시 일산동구 장항동 529-26번지 일원",
+		"short_addr": "경기도 고양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "고양시",
+		"apply_nums": "6세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940211&pblancNo=2026940211&houseSecd=11",
 		"in_date": "20261008",
 		"hsecd": "11",
@@ -264,6 +324,19 @@
 		"name": null
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000444&pblancNo=2026000444&houseSecd=01",
+		"in_date": "20261012",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "제주시 이도이동 아이린8차 아파트",
+		"addr": "제주특별자치도 제주시 이도이동 1045-3번지",
+		"short_addr": "제주특별자치도 제주시",
+		"addr_lv1": "제주특별자치도",
+		"addr_lv2": "제주시",
+		"apply_nums": "45세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940211&pblancNo=2026940211&houseSecd=11",
 		"in_date": "20261012",
 		"hsecd": "11",
@@ -278,6 +351,19 @@
 		"rse": "12",
 		"type": "",
 		"name": null
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000444&pblancNo=2026000444&houseSecd=01",
+		"in_date": "20261013",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "제주시 이도이동 아이린8차 아파트",
+		"addr": "제주특별자치도 제주시 이도이동 1045-3번지",
+		"short_addr": "제주특별자치도 제주시",
+		"addr_lv1": "제주특별자치도",
+		"addr_lv2": "제주시",
+		"apply_nums": "45세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940211&pblancNo=2026940211&houseSecd=11",
