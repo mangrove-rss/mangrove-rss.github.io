@@ -1,14 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
-		"in_date": "20261003",
-		"hsecd": null,
-		"rse": "12",
-		"type": "",
-		"name": null
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
 		"in_date": "20261004",
 		"hsecd": null,
 		"rse": "12",
@@ -208,6 +200,22 @@
 		"rse": "11",
 		"type": "",
 		"name": "더샵 분당센트로(6차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940216&pblancNo=2026940216&houseSecd=11",
+		"in_date": "20261008",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "도안자이 센텀리체 1단지"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940217&pblancNo=2026940217&houseSecd=11",
+		"in_date": "20261008",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "도안자이 센텀리체 2단지"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940214&pblancNo=2026940214&houseSecd=11",
