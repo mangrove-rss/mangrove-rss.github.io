@@ -1,14 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
-		"in_date": "20261004",
-		"hsecd": null,
-		"rse": "12",
-		"type": "",
-		"name": null
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
 		"in_date": "20261005",
 		"hsecd": null,
 		"rse": "12",
@@ -368,6 +360,19 @@
 		"apply_nums": "45세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950086&pblancNo=2026950086&houseSecd=02",
+		"in_date": "20261012",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "더샵 오산역아크시티 오피스텔",
+		"addr": "경기도 오산시 가수동 453번지 (오산 세교2지구 M1블록)",
+		"short_addr": "경기도 오산시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "오산시",
+		"apply_nums": "90세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910256&pblancNo=2026910256&houseSecd=04",
 		"in_date": "20261012",
 		"hsecd": "04",
@@ -405,6 +410,19 @@
 		"addr_lv1": "대전광역시",
 		"addr_lv2": "유성구",
 		"apply_nums": "4세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026930041&pblancNo=2026930041&houseSecd=06",
+		"in_date": "20261012",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "세종 리더스포레 나릿재마을 1단지",
+		"addr": "세종특별자치시 나성동 835",
+		"short_addr": "세종특별자치시 나성동",
+		"addr_lv1": "세종특별자치시",
+		"addr_lv2": "나성동",
+		"apply_nums": "1세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940211&pblancNo=2026940211&houseSecd=11",
@@ -548,6 +566,22 @@
 		"name": "더샵 분당센트로(6차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940223&pblancNo=2026940223&houseSecd=11",
+		"in_date": "20261013",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "서수원 에피트 센트럴마크(M1BL)(3차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940219&pblancNo=2026940219&houseSecd=11",
+		"in_date": "20261013",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "수원역 아너스빌 타임원(2차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
 		"in_date": "20261013",
 		"hsecd": null,
@@ -726,6 +760,32 @@
 		"name": null
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000458&pblancNo=2026000458&houseSecd=01",
+		"in_date": "20261019",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "산곡역자이힐스테이트앤하늘채",
+		"addr": "인천광역시 부평구 산곡동 10번지 일원(산곡6 주택재개발정비사업)",
+		"short_addr": "인천광역시 부평구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "부평구",
+		"apply_nums": "1289세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000267&pblancNo=2026000267&houseSecd=01",
+		"in_date": "20261019",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "아산 그랑시티필하우스",
+		"addr": "충청남도 아산시 배방읍 휴대리 143번지 일원 (휴대지구 도시개발사업구역 내 공동주택 1블럭)",
+		"short_addr": "충청남도 아산시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "아산시",
+		"apply_nums": "1380세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950087&pblancNo=2026950087&houseSecd=02",
 		"in_date": "20261019",
 		"hsecd": "02",
@@ -747,6 +807,32 @@
 		"name": null
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000458&pblancNo=2026000458&houseSecd=01",
+		"in_date": "20261020",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "산곡역자이힐스테이트앤하늘채",
+		"addr": "인천광역시 부평구 산곡동 10번지 일원(산곡6 주택재개발정비사업)",
+		"short_addr": "인천광역시 부평구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "부평구",
+		"apply_nums": "1289세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000267&pblancNo=2026000267&houseSecd=01",
+		"in_date": "20261020",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "아산 그랑시티필하우스",
+		"addr": "충청남도 아산시 배방읍 휴대리 143번지 일원 (휴대지구 도시개발사업구역 내 공동주택 1블럭)",
+		"short_addr": "충청남도 아산시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "아산시",
+		"apply_nums": "1380세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950087&pblancNo=2026950087&houseSecd=02",
 		"in_date": "20261020",
 		"hsecd": "02",
@@ -766,6 +852,32 @@
 		"rse": "12",
 		"type": "",
 		"name": null
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000458&pblancNo=2026000458&houseSecd=01",
+		"in_date": "20261021",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "산곡역자이힐스테이트앤하늘채",
+		"addr": "인천광역시 부평구 산곡동 10번지 일원(산곡6 주택재개발정비사업)",
+		"short_addr": "인천광역시 부평구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "부평구",
+		"apply_nums": "1289세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000267&pblancNo=2026000267&houseSecd=01",
+		"in_date": "20261021",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "아산 그랑시티필하우스",
+		"addr": "충청남도 아산시 배방읍 휴대리 143번지 일원 (휴대지구 도시개발사업구역 내 공동주택 1블럭)",
+		"short_addr": "충청남도 아산시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "아산시",
+		"apply_nums": "1380세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
