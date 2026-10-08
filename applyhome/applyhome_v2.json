@@ -1,13 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
-		"in_date": "20261005",
-		"hsecd": null,
-		"rse": "12",
-		"type": "",
-		"name": null
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850050&pblancNo=2026850050&houseSecd=03",
 		"in_date": "20261006",
 		"hsecd": "03",
@@ -441,6 +433,19 @@
 		"name": null
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000466&pblancNo=2026000466&houseSecd=01",
+		"in_date": "20261013",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "진도 승원팰리체 더 테라스",
+		"addr": "전남광주통합특별시 진도군 진도읍 교동리 618번지 일원",
+		"short_addr": "전남광주통합특별시 진도군",
+		"addr_lv1": "전남광주통합특별시",
+		"addr_lv2": "진도군",
+		"apply_nums": "58세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000494&pblancNo=2026000494&houseSecd=01",
 		"in_date": "20261013",
 		"hsecd": "01",
@@ -590,6 +595,19 @@
 		"name": null
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000466&pblancNo=2026000466&houseSecd=01",
+		"in_date": "20261014",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "진도 승원팰리체 더 테라스",
+		"addr": "전남광주통합특별시 진도군 진도읍 교동리 618번지 일원",
+		"short_addr": "전남광주통합특별시 진도군",
+		"addr_lv1": "전남광주통합특별시",
+		"addr_lv2": "진도군",
+		"apply_nums": "58세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000494&pblancNo=2026000494&houseSecd=01",
 		"in_date": "20261014",
 		"hsecd": "01",
@@ -676,6 +694,19 @@
 		"name": null
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000466&pblancNo=2026000466&houseSecd=01",
+		"in_date": "20261015",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "진도 승원팰리체 더 테라스",
+		"addr": "전남광주통합특별시 진도군 진도읍 교동리 618번지 일원",
+		"short_addr": "전남광주통합특별시 진도군",
+		"addr_lv1": "전남광주통합특별시",
+		"addr_lv2": "진도군",
+		"apply_nums": "58세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950087&pblancNo=2026950087&houseSecd=02",
 		"in_date": "20261015",
 		"hsecd": "02",
@@ -786,6 +817,71 @@
 		"apply_nums": "1380세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000469&pblancNo=2026000469&houseSecd=01",
+		"in_date": "20261019",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "연제갤러리자이",
+		"addr": "부산광역시 연제구 연산동 1123-1번지",
+		"short_addr": "부산광역시 연제구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "연제구",
+		"apply_nums": "459세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000491&pblancNo=2026000491&houseSecd=01",
+		"in_date": "20261019",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "청주 가경 아이파크 7단지",
+		"addr": "충청북도 청주시 흥덕구 가경동 309번지 일원",
+		"short_addr": "충청북도 청주시",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "청주시",
+		"apply_nums": "543세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000492&pblancNo=2026000492&houseSecd=01",
+		"in_date": "20261019",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "청주 가경 아이파크 8단지",
+		"addr": "충청북도 청주시 흥덕구 가경동 701번지 일원",
+		"short_addr": "충청북도 청주시",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "청주시",
+		"apply_nums": "1128세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000464&pblancNo=2026000464&houseSecd=01",
+		"in_date": "20261019",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "힐스테이트 거제시그니처(1회차)",
+		"addr": "경상남도 거제시 옥포동 1670번지 일원",
+		"short_addr": "경상남도 거제시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "거제시",
+		"apply_nums": "356세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000471&pblancNo=2026000471&houseSecd=01",
+		"in_date": "20261019",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "한양립스 에듀포레(조합원 취소분)",
+		"addr": "전남광주통합특별시 광산구 하산동 269번지 일원",
+		"short_addr": "전남광주통합특별시 광산구",
+		"addr_lv1": "전남광주통합특별시",
+		"addr_lv2": "광산구",
+		"apply_nums": "19세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950087&pblancNo=2026950087&houseSecd=02",
 		"in_date": "20261019",
 		"hsecd": "02",
@@ -797,6 +893,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "영등포구",
 		"apply_nums": "5세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950077&pblancNo=2026950077&houseSecd=02",
+		"in_date": "20261019",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "옥정중앙역 대방 디에트르Ⅱ",
+		"addr": "경기도 양주시 옥정동 962-9, 962-8번지(옥정지구 중상1, 복합1블록)",
+		"short_addr": "경기도 양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "양주시",
+		"apply_nums": "853세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
@@ -833,6 +942,71 @@
 		"apply_nums": "1380세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000469&pblancNo=2026000469&houseSecd=01",
+		"in_date": "20261020",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "연제갤러리자이",
+		"addr": "부산광역시 연제구 연산동 1123-1번지",
+		"short_addr": "부산광역시 연제구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "연제구",
+		"apply_nums": "459세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000491&pblancNo=2026000491&houseSecd=01",
+		"in_date": "20261020",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "청주 가경 아이파크 7단지",
+		"addr": "충청북도 청주시 흥덕구 가경동 309번지 일원",
+		"short_addr": "충청북도 청주시",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "청주시",
+		"apply_nums": "543세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000492&pblancNo=2026000492&houseSecd=01",
+		"in_date": "20261020",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "청주 가경 아이파크 8단지",
+		"addr": "충청북도 청주시 흥덕구 가경동 701번지 일원",
+		"short_addr": "충청북도 청주시",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "청주시",
+		"apply_nums": "1128세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000464&pblancNo=2026000464&houseSecd=01",
+		"in_date": "20261020",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "힐스테이트 거제시그니처(1회차)",
+		"addr": "경상남도 거제시 옥포동 1670번지 일원",
+		"short_addr": "경상남도 거제시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "거제시",
+		"apply_nums": "356세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000471&pblancNo=2026000471&houseSecd=01",
+		"in_date": "20261020",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "한양립스 에듀포레(조합원 취소분)",
+		"addr": "전남광주통합특별시 광산구 하산동 269번지 일원",
+		"short_addr": "전남광주통합특별시 광산구",
+		"addr_lv1": "전남광주통합특별시",
+		"addr_lv2": "광산구",
+		"apply_nums": "19세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950087&pblancNo=2026950087&houseSecd=02",
 		"in_date": "20261020",
 		"hsecd": "02",
@@ -844,6 +1018,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "영등포구",
 		"apply_nums": "5세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950077&pblancNo=2026950077&houseSecd=02",
+		"in_date": "20261020",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "옥정중앙역 대방 디에트르Ⅱ",
+		"addr": "경기도 양주시 옥정동 962-9, 962-8번지(옥정지구 중상1, 복합1블록)",
+		"short_addr": "경기도 양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "양주시",
+		"apply_nums": "853세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
@@ -880,12 +1067,77 @@
 		"apply_nums": "1380세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000469&pblancNo=2026000469&houseSecd=01",
+		"in_date": "20261021",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "연제갤러리자이",
+		"addr": "부산광역시 연제구 연산동 1123-1번지",
+		"short_addr": "부산광역시 연제구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "연제구",
+		"apply_nums": "459세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000491&pblancNo=2026000491&houseSecd=01",
+		"in_date": "20261021",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "청주 가경 아이파크 7단지",
+		"addr": "충청북도 청주시 흥덕구 가경동 309번지 일원",
+		"short_addr": "충청북도 청주시",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "청주시",
+		"apply_nums": "543세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000492&pblancNo=2026000492&houseSecd=01",
+		"in_date": "20261021",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "청주 가경 아이파크 8단지",
+		"addr": "충청북도 청주시 흥덕구 가경동 701번지 일원",
+		"short_addr": "충청북도 청주시",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "청주시",
+		"apply_nums": "1128세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000464&pblancNo=2026000464&houseSecd=01",
+		"in_date": "20261021",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "힐스테이트 거제시그니처(1회차)",
+		"addr": "경상남도 거제시 옥포동 1670번지 일원",
+		"short_addr": "경상남도 거제시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "거제시",
+		"apply_nums": "356세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
 		"in_date": "20261021",
 		"hsecd": null,
 		"rse": "12",
 		"type": "",
 		"name": null
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000402&pblancNo=2026000402&houseSecd=01",
+		"in_date": "20261022",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "익산 부송에코르 10년 공공임대주택",
+		"addr": "전북특별자치도 익산시 부송동 1421(익산 부송4지구 A블록)",
+		"short_addr": "전북특별자치도 익산시",
+		"addr_lv1": "전북특별자치도",
+		"addr_lv2": "익산시",
+		"apply_nums": "300세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
@@ -894,6 +1146,19 @@
 		"rse": "12",
 		"type": "",
 		"name": null
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000402&pblancNo=2026000402&houseSecd=01",
+		"in_date": "20261023",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "익산 부송에코르 10년 공공임대주택",
+		"addr": "전북특별자치도 익산시 부송동 1421(익산 부송4지구 A블록)",
+		"short_addr": "전북특별자치도 익산시",
+		"addr_lv1": "전북특별자치도",
+		"addr_lv2": "익산시",
+		"apply_nums": "300세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
@@ -918,6 +1183,19 @@
 		"rse": "12",
 		"type": "",
 		"name": null
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000402&pblancNo=2026000402&houseSecd=01",
+		"in_date": "20261026",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "익산 부송에코르 10년 공공임대주택",
+		"addr": "전북특별자치도 익산시 부송동 1421(익산 부송4지구 A블록)",
+		"short_addr": "전북특별자치도 익산시",
+		"addr_lv1": "전북특별자치도",
+		"addr_lv2": "익산시",
+		"apply_nums": "300세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
