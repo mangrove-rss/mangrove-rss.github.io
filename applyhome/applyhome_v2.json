@@ -1,79 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950085&pblancNo=2026950085&houseSecd=02",
-		"in_date": "20261008",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "잠실에떼르넬비욘드",
-		"addr": "서울특별시 송파구 방이동 34-1번지 일대",
-		"short_addr": "서울특별시 송파구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "송파구",
-		"apply_nums": "9세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026930038&pblancNo=2026930038&houseSecd=06",
-		"in_date": "20261008",
-		"hsecd": "06",
-		"rse": "07",
-		"type": "",
-		"name": "고양 장항 아테라",
-		"addr": "경기도 고양시 일산동구 장항동 529-26번지 일원",
-		"short_addr": "경기도 고양시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "고양시",
-		"apply_nums": "6세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940211&pblancNo=2026940211&houseSecd=11",
-		"in_date": "20261008",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "더샵 분당센트로(6차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940216&pblancNo=2026940216&houseSecd=11",
-		"in_date": "20261008",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "도안자이 센텀리체 1단지"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940217&pblancNo=2026940217&houseSecd=11",
-		"in_date": "20261008",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "도안자이 센텀리체 2단지"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940214&pblancNo=2026940214&houseSecd=11",
-		"in_date": "20261008",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "브라운스톤 목동(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940220&pblancNo=2026940220&houseSecd=11",
-		"in_date": "20261008",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "이천 중리지구 B3블록 금성백조 예미지(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
-		"in_date": "20261008",
-		"hsecd": null,
-		"rse": "12",
-		"type": "",
-		"name": null
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940211&pblancNo=2026940211&houseSecd=11",
 		"in_date": "20261009",
 		"hsecd": "11",
@@ -534,6 +460,22 @@
 		"apply_nums": "5세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940218&pblancNo=2026940218&houseSecd=11",
+		"in_date": "20261014",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "고덕신도시 아테라 A-63블록 공공분양주택(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940221&pblancNo=2026940221&houseSecd=11",
+		"in_date": "20261014",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "풍무역세권 수자인 그라센트 2차(4차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
 		"in_date": "20261014",
 		"hsecd": null,
@@ -568,6 +510,22 @@
 		"apply_nums": "5세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940218&pblancNo=2026940218&houseSecd=11",
+		"in_date": "20261015",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "고덕신도시 아테라 A-63블록 공공분양주택(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940221&pblancNo=2026940221&houseSecd=11",
+		"in_date": "20261015",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "풍무역세권 수자인 그라센트 2차(4차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
 		"in_date": "20261015",
 		"hsecd": null,
@@ -589,6 +547,14 @@
 		"apply_nums": "5세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940218&pblancNo=2026940218&houseSecd=11",
+		"in_date": "20261016",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "고덕신도시 아테라 A-63블록 공공분양주택(2차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
 		"in_date": "20261016",
 		"hsecd": null,
@@ -610,6 +576,14 @@
 		"apply_nums": "5세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940218&pblancNo=2026940218&houseSecd=11",
+		"in_date": "20261017",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "고덕신도시 아테라 A-63블록 공공분양주택(2차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
 		"in_date": "20261017",
 		"hsecd": null,
@@ -629,6 +603,14 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "영등포구",
 		"apply_nums": "5세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940218&pblancNo=2026940218&houseSecd=11",
+		"in_date": "20261018",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "고덕신도시 아테라 A-63블록 공공분양주택(2차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
@@ -730,6 +712,14 @@
 		"apply_nums": "19세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850051&pblancNo=2026850051&houseSecd=03",
+		"in_date": "20261019",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "부경경마공원역 대방 디에트르 더리버(AP1BL)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950087&pblancNo=2026950087&houseSecd=02",
 		"in_date": "20261019",
 		"hsecd": "02",
@@ -754,6 +744,79 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "양주시",
 		"apply_nums": "853세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910255&pblancNo=2026910255&houseSecd=04",
+		"in_date": "20261019",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "e편한세상 에코델타 센터포인트(19BL)",
+		"addr": "부산광역시 강서구 강동동 에코델타시티 내 공동 19BL",
+		"short_addr": "부산광역시 강서구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "강서구",
+		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910259&pblancNo=2026910259&houseSecd=04",
+		"in_date": "20261019",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "시티오씨엘 9단지 오션파크뷰",
+		"addr": "인천광역시 미추홀구 학익동 인천 용현·학익 1블록 도시개발구역 공동3BL",
+		"short_addr": "인천광역시 미추홀구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "미추홀구",
+		"apply_nums": "68세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910254&pblancNo=2026910254&houseSecd=04",
+		"in_date": "20261019",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "에코델타시티 푸르지오 센터파크(18BL)",
+		"addr": "부산광역시 강서구 강동동 에코델타시티 내 공동 18BL",
+		"short_addr": "부산광역시 강서구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "강서구",
+		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910260&pblancNo=2026910260&houseSecd=04",
+		"in_date": "20261019",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "의왕역 한신더휴",
+		"addr": "경기도 의왕시 삼동 244-1번지 일원",
+		"short_addr": "경기도 의왕시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "의왕시",
+		"apply_nums": "8세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910263&pblancNo=2026910263&houseSecd=04",
+		"in_date": "20261019",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "청계 노르웨이숲(13차)",
+		"addr": "서울특별시 중구 황학동 1756번지 일원",
+		"short_addr": "서울특별시 중구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "중구",
+		"apply_nums": "10세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940218&pblancNo=2026940218&houseSecd=11",
+		"in_date": "20261019",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "고덕신도시 아테라 A-63블록 공공분양주택(2차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
@@ -855,6 +918,14 @@
 		"apply_nums": "19세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850051&pblancNo=2026850051&houseSecd=03",
+		"in_date": "20261020",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "부경경마공원역 대방 디에트르 더리버(AP1BL)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950087&pblancNo=2026950087&houseSecd=02",
 		"in_date": "20261020",
 		"hsecd": "02",
@@ -879,6 +950,14 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "양주시",
 		"apply_nums": "853세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940218&pblancNo=2026940218&houseSecd=11",
+		"in_date": "20261020",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "고덕신도시 아테라 A-63블록 공공분양주택(2차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
