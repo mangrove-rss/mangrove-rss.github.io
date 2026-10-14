@@ -1,21 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940211&pblancNo=2026940211&houseSecd=11",
-		"in_date": "20261011",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "더샵 분당센트로(6차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
-		"in_date": "20261011",
-		"hsecd": null,
-		"rse": "12",
-		"type": "",
-		"name": null
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000494&pblancNo=2026000494&houseSecd=01",
 		"in_date": "20261012",
 		"hsecd": "01",
@@ -855,6 +839,22 @@
 		"name": "고덕신도시 아테라 A-63블록 공공분양주택(2차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940224&pblancNo=2026940224&houseSecd=11",
+		"in_date": "20261019",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "더 리치먼드 미아(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940222&pblancNo=2026940222&houseSecd=11",
+		"in_date": "20261019",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "해링턴플레이스 노원 센트럴(3차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
 		"in_date": "20261019",
 		"hsecd": null,
@@ -962,6 +962,14 @@
 		"name": "부경경마공원역 대방 디에트르 더리버(AP1BL)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850052&pblancNo=2026850052&houseSecd=03",
+		"in_date": "20261020",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "울산반구 수자인 더센트럴"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950087&pblancNo=2026950087&houseSecd=02",
 		"in_date": "20261020",
 		"hsecd": "02",
@@ -1001,12 +1009,33 @@
 		"apply_nums": "853세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910264&pblancNo=2026910264&houseSecd=04",
+		"in_date": "20261020",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "시흥 은계 에피트(조합원 취소분)",
+		"addr": "경기도 시흥시 은행동 289-31번지 일원",
+		"short_addr": "경기도 시흥시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "시흥시",
+		"apply_nums": "16세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940218&pblancNo=2026940218&houseSecd=11",
 		"in_date": "20261020",
 		"hsecd": "11",
 		"rse": "11",
 		"type": "",
 		"name": "고덕신도시 아테라 A-63블록 공공분양주택(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940222&pblancNo=2026940222&houseSecd=11",
+		"in_date": "20261020",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "해링턴플레이스 노원 센트럴(3차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
@@ -1095,6 +1124,14 @@
 		"apply_nums": "356세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850052&pblancNo=2026850052&houseSecd=03",
+		"in_date": "20261021",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "울산반구 수자인 더센트럴"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
 		"in_date": "20261021",
 		"hsecd": null,
@@ -1174,6 +1211,14 @@
 		"apply_nums": "300세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940228&pblancNo=2026940228&houseSecd=11",
+		"in_date": "20261026",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "마곡스카이온"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
 		"in_date": "20261026",
 		"hsecd": null,
@@ -1182,12 +1227,28 @@
 		"name": null
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940228&pblancNo=2026940228&houseSecd=11",
+		"in_date": "20261027",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "마곡스카이온"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
 		"in_date": "20261027",
 		"hsecd": null,
 		"rse": "12",
 		"type": "",
 		"name": null
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940228&pblancNo=2026940228&houseSecd=11",
+		"in_date": "20261028",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "마곡스카이온"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
