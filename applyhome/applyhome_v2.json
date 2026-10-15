@@ -1,164 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000494&pblancNo=2026000494&houseSecd=01",
-		"in_date": "20261012",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "더샵 동인센트리체",
-		"addr": "대구광역시 중구 동인동1가 9 일원",
-		"short_addr": "대구광역시 중구",
-		"addr_lv1": "대구광역시",
-		"addr_lv2": "중구",
-		"apply_nums": "314세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000468&pblancNo=2026000468&houseSecd=01",
-		"in_date": "20261012",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "쌍용 더 플래티넘 한강",
-		"addr": "경기도 양평군 양서면 용담리 212-3번지 일원",
-		"short_addr": "경기도 양평군",
-		"addr_lv1": "경기도",
-		"addr_lv2": "양평군",
-		"apply_nums": "333세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000386&pblancNo=2026000386&houseSecd=01",
-		"in_date": "20261012",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "용인 양지 서희스타힐스 하이뷰 (조합원 취소분)",
-		"addr": "경기도 용인시 처인구 양지읍 양지리 산105-8번지 일원",
-		"short_addr": "경기도 용인시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "용인시",
-		"apply_nums": "48세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000498&pblancNo=2026000498&houseSecd=01",
-		"in_date": "20261012",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "천안 아이파크 시티 2단지(2회차)",
-		"addr": "충청남도 천안시 서북구 부대동 409-1 외 46필지",
-		"short_addr": "충청남도 천안시",
-		"addr_lv1": "충청남도",
-		"addr_lv2": "천안시",
-		"apply_nums": "61세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000463&pblancNo=2026000463&houseSecd=01",
-		"in_date": "20261012",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "향남역 그로브 스위첸",
-		"addr": "경기도 화성특례시 만세구 향남읍 하길리 404-2번지 일원",
-		"short_addr": "경기도 화성특례시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "화성특례시",
-		"apply_nums": "933세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000444&pblancNo=2026000444&houseSecd=01",
-		"in_date": "20261012",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "제주시 이도이동 아이린8차 아파트",
-		"addr": "제주특별자치도 제주시 이도이동 1045-3번지",
-		"short_addr": "제주특별자치도 제주시",
-		"addr_lv1": "제주특별자치도",
-		"addr_lv2": "제주시",
-		"apply_nums": "45세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950086&pblancNo=2026950086&houseSecd=02",
-		"in_date": "20261012",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "더샵 오산역아크시티 오피스텔",
-		"addr": "경기도 오산시 가수동 453번지 (오산 세교2지구 M1블록)",
-		"short_addr": "경기도 오산시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "오산시",
-		"apply_nums": "90세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910256&pblancNo=2026910256&houseSecd=04",
-		"in_date": "20261012",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "상동역 롯데캐슬 시그니처",
-		"addr": "경기도 부천시 원미구 상동 540-1번지",
-		"short_addr": "경기도 부천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "부천시",
-		"apply_nums": "785세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026930033&pblancNo=2026930033&houseSecd=06",
-		"in_date": "20261012",
-		"hsecd": "06",
-		"rse": "07",
-		"type": "",
-		"name": "도안 푸르지오 디아델 29블록",
-		"addr": "대전광역시 유성구 용계동 70대 일원",
-		"short_addr": "대전광역시 유성구",
-		"addr_lv1": "대전광역시",
-		"addr_lv2": "유성구",
-		"apply_nums": "3세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026930034&pblancNo=2026930034&houseSecd=06",
-		"in_date": "20261012",
-		"hsecd": "06",
-		"rse": "07",
-		"type": "",
-		"name": "도안 푸르지오 디아델 31블록",
-		"addr": "대전광역시 유성구 용계동 73-48번지 일원",
-		"short_addr": "대전광역시 유성구",
-		"addr_lv1": "대전광역시",
-		"addr_lv2": "유성구",
-		"apply_nums": "4세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026930041&pblancNo=2026930041&houseSecd=06",
-		"in_date": "20261012",
-		"hsecd": "06",
-		"rse": "07",
-		"type": "",
-		"name": "세종 리더스포레 나릿재마을 1단지",
-		"addr": "세종특별자치시 나성동 835",
-		"short_addr": "세종특별자치시 나성동",
-		"addr_lv1": "세종특별자치시",
-		"addr_lv2": "나성동",
-		"apply_nums": "1세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940211&pblancNo=2026940211&houseSecd=11",
-		"in_date": "20261012",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "더샵 분당센트로(6차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
-		"in_date": "20261012",
-		"hsecd": null,
-		"rse": "12",
-		"type": "",
-		"name": null
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000466&pblancNo=2026000466&houseSecd=01",
 		"in_date": "20261013",
 		"hsecd": "01",
@@ -1022,6 +863,19 @@
 		"apply_nums": "16세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910261&pblancNo=2026910261&houseSecd=04",
+		"in_date": "20261020",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "올 뉴 챔피언스시티 1차",
+		"addr": "전남광주통합특별시 북구 임동 100-1 일원 (구)전방·일신방직 부지 지구단위계획구역 A2BL)",
+		"short_addr": "전남광주통합특별시 북구",
+		"addr_lv1": "전남광주통합특별시",
+		"addr_lv2": "북구",
+		"apply_nums": "729세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940218&pblancNo=2026940218&houseSecd=11",
 		"in_date": "20261020",
 		"hsecd": "11",
@@ -1227,6 +1081,19 @@
 		"name": null
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000455&pblancNo=2026000455&houseSecd=01",
+		"in_date": "20261027",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "신분평 에피트 더웨이시티",
+		"addr": "충청북도 청주시 서원구 장성동 135번지 일원(장성지구 A2블럭)",
+		"short_addr": "충청북도 청주시",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "청주시",
+		"apply_nums": "992세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940228&pblancNo=2026940228&houseSecd=11",
 		"in_date": "20261027",
 		"hsecd": "11",
@@ -1243,6 +1110,19 @@
 		"name": null
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000455&pblancNo=2026000455&houseSecd=01",
+		"in_date": "20261028",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "신분평 에피트 더웨이시티",
+		"addr": "충청북도 청주시 서원구 장성동 135번지 일원(장성지구 A2블럭)",
+		"short_addr": "충청북도 청주시",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "청주시",
+		"apply_nums": "992세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940228&pblancNo=2026940228&houseSecd=11",
 		"in_date": "20261028",
 		"hsecd": "11",
@@ -1257,6 +1137,19 @@
 		"rse": "12",
 		"type": "",
 		"name": null
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000455&pblancNo=2026000455&houseSecd=01",
+		"in_date": "20261029",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "신분평 에피트 더웨이시티",
+		"addr": "충청북도 청주시 서원구 장성동 135번지 일원(장성지구 A2블럭)",
+		"short_addr": "충청북도 청주시",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "청주시",
+		"apply_nums": "992세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
