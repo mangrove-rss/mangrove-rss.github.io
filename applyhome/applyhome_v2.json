@@ -1,55 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000466&pblancNo=2026000466&houseSecd=01",
-		"in_date": "20261015",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "진도 승원팰리체 더 테라스",
-		"addr": "전남광주통합특별시 진도군 진도읍 교동리 618번지 일원",
-		"short_addr": "전남광주통합특별시 진도군",
-		"addr_lv1": "전남광주통합특별시",
-		"addr_lv2": "진도군",
-		"apply_nums": "58세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950087&pblancNo=2026950087&houseSecd=02",
-		"in_date": "20261015",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "당산역 더클래스 한강",
-		"addr": "서울특별시 영등포구 당산동6가 341-1번지",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "5세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940218&pblancNo=2026940218&houseSecd=11",
-		"in_date": "20261015",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "고덕신도시 아테라 A-63블록 공공분양주택(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940221&pblancNo=2026940221&houseSecd=11",
-		"in_date": "20261015",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "풍무역세권 수자인 그라센트 2차(4차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
-		"in_date": "20261015",
-		"hsecd": null,
-		"rse": "12",
-		"type": "",
-		"name": null
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950087&pblancNo=2026950087&houseSecd=02",
 		"in_date": "20261016",
 		"hsecd": "02",
@@ -709,6 +659,14 @@
 		"name": "울산반구 수자인 더센트럴"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940225&pblancNo=2026940225&houseSecd=11",
+		"in_date": "20261021",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "엘리프 검단 포레듀(AA32블록)(4차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
 		"in_date": "20261021",
 		"hsecd": null,
@@ -728,6 +686,22 @@
 		"addr_lv1": "전북특별자치도",
 		"addr_lv2": "익산시",
 		"apply_nums": "300세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940156&pblancNo=2026940156&houseSecd=11",
+		"in_date": "20261022",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "방배 더 유엘 포레(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940225&pblancNo=2026940225&houseSecd=11",
+		"in_date": "20261022",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "엘리프 검단 포레듀(AA32블록)(4차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
@@ -751,6 +725,22 @@
 		"apply_nums": "300세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940156&pblancNo=2026940156&houseSecd=11",
+		"in_date": "20261023",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "방배 더 유엘 포레(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940225&pblancNo=2026940225&houseSecd=11",
+		"in_date": "20261023",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "엘리프 검단 포레듀(AA32블록)(4차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
 		"in_date": "20261023",
 		"hsecd": null,
@@ -759,12 +749,28 @@
 		"name": null
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940225&pblancNo=2026940225&houseSecd=11",
+		"in_date": "20261024",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "엘리프 검단 포레듀(AA32블록)(4차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
 		"in_date": "20261024",
 		"hsecd": null,
 		"rse": "12",
 		"type": "",
 		"name": null
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940225&pblancNo=2026940225&houseSecd=11",
+		"in_date": "20261025",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "엘리프 검단 포레듀(AA32블록)(4차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
@@ -872,6 +878,14 @@
 		"rse": "11",
 		"type": "",
 		"name": "마곡스카이온"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940225&pblancNo=2026940225&houseSecd=11",
+		"in_date": "20261026",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "엘리프 검단 포레듀(AA32블록)(4차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
