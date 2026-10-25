@@ -1,43 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000402&pblancNo=2026000402&houseSecd=01",
-		"in_date": "20261022",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "익산 부송에코르 10년 공공임대주택",
-		"addr": "전북특별자치도 익산시 부송동 1421(익산 부송4지구 A블록)",
-		"short_addr": "전북특별자치도 익산시",
-		"addr_lv1": "전북특별자치도",
-		"addr_lv2": "익산시",
-		"apply_nums": "300세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940156&pblancNo=2026940156&houseSecd=11",
-		"in_date": "20261022",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "방배 더 유엘 포레(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940225&pblancNo=2026940225&houseSecd=11",
-		"in_date": "20261022",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "엘리프 검단 포레듀(AA32블록)(4차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
-		"in_date": "20261022",
-		"hsecd": null,
-		"rse": "12",
-		"type": "",
-		"name": null
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000402&pblancNo=2026000402&houseSecd=01",
 		"in_date": "20261023",
 		"hsecd": "01",
 		"rse": "02",
@@ -650,6 +613,22 @@
 		"name": "마곡스카이온"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940236&pblancNo=2026940236&houseSecd=11",
+		"in_date": "20261028",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "부천역 에피트 어바닉(5차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940238&pblancNo=2026940238&houseSecd=11",
+		"in_date": "20261028",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "안성 아양지구 B-2블록 금성백조 예미지(2차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
 		"in_date": "20261028",
 		"hsecd": null,
@@ -844,6 +823,45 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "영등포구",
 		"apply_nums": "4세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910257&pblancNo=2026910257&houseSecd=04",
+		"in_date": "20261102",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "파주 운정신도시 우미 린 더 센텀",
+		"addr": "경기도 파주시 물향기1로 45(동패동) 운정중앙역 우미 린 더 센텀",
+		"short_addr": "경기도 파주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "파주시",
+		"apply_nums": "2세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910269&pblancNo=2026910269&houseSecd=04",
+		"in_date": "20261102",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "화서역 호수공원 아너스빌",
+		"addr": "경기도 수원시 권선구 서둔동 212-1번지 일원",
+		"short_addr": "경기도 수원시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "수원시",
+		"apply_nums": "169세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026930042&pblancNo=2026930042&houseSecd=06",
+		"in_date": "20261102",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "파주 운정신도시 우미 린 더 센텀",
+		"addr": "경기도 파주시 물향기1로 45(동패동) 운정중앙역 우미 린 더 센텀",
+		"short_addr": "경기도 파주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "파주시",
+		"apply_nums": "1세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
