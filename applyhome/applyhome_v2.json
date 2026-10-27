@@ -1,30 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940225&pblancNo=2026940225&houseSecd=11",
-		"in_date": "20261024",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "엘리프 검단 포레듀(AA32블록)(4차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940233&pblancNo=2026940233&houseSecd=11",
-		"in_date": "20261024",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "중앙하이츠 원종역(3차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
-		"in_date": "20261024",
-		"hsecd": null,
-		"rse": "12",
-		"type": "",
-		"name": null
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940225&pblancNo=2026940225&houseSecd=11",
 		"in_date": "20261025",
 		"hsecd": "11",
 		"rse": "11",
@@ -631,6 +607,22 @@
 		"apply_nums": "4세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940234&pblancNo=2026940234&houseSecd=11",
+		"in_date": "20261030",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "엘리프 성성호수공원 1BL"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940241&pblancNo=2026940241&houseSecd=11",
+		"in_date": "20261030",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "풍무역세권 수자인 그라센트 2차(5차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
 		"in_date": "20261030",
 		"hsecd": null,
@@ -772,6 +764,32 @@
 		"apply_nums": "4세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910275&pblancNo=2026910275&houseSecd=04",
+		"in_date": "20261102",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "더샵 분당하이스트",
+		"addr": "경기도 성남시 분당구 정자동 90번지",
+		"short_addr": "경기도 성남시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "성남시",
+		"apply_nums": "58세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910278&pblancNo=2026910278&houseSecd=04",
+		"in_date": "20261102",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "숭의역 노르웨이숲 더 스카이",
+		"addr": "인천광역시 미추홀구 숭의동 350-1번지 일원",
+		"short_addr": "인천광역시 미추홀구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "미추홀구",
+		"apply_nums": "13세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910257&pblancNo=2026910257&houseSecd=04",
 		"in_date": "20261102",
 		"hsecd": "04",
@@ -796,6 +814,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "수원시",
 		"apply_nums": "169세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026930043&pblancNo=2026930043&houseSecd=06",
+		"in_date": "20261102",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "과천 디에트르 퍼스티지(S2BL)",
+		"addr": "경기도 과천시 지식정보타운 공공주택지구 S2BL",
+		"short_addr": "경기도 과천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "과천시",
+		"apply_nums": "2세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026930042&pblancNo=2026930042&houseSecd=06",
@@ -1092,6 +1123,32 @@
 		"name": null
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000434&pblancNo=2026000434&houseSecd=01",
+		"in_date": "20261116",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "삼도이동 1지구 토지임대부 공공분양주택",
+		"addr": "제주특별자치도 제주시 삼도이동 1244-1 ",
+		"short_addr": "제주특별자치도 제주시",
+		"addr_lv1": "제주특별자치도",
+		"addr_lv2": "제주시",
+		"apply_nums": "32세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000435&pblancNo=2026000435&houseSecd=01",
+		"in_date": "20261116",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "삼도이동 2지구 토지임대부 공공분양주택",
+		"addr": "제주특별자치도 제주시 삼도이동 1246-1 외 4필지",
+		"short_addr": "제주특별자치도 제주시",
+		"addr_lv1": "제주특별자치도",
+		"addr_lv2": "제주시",
+		"apply_nums": "40세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
 		"in_date": "20261116",
 		"hsecd": null,
@@ -1100,12 +1157,64 @@
 		"name": null
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000434&pblancNo=2026000434&houseSecd=01",
+		"in_date": "20261117",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "삼도이동 1지구 토지임대부 공공분양주택",
+		"addr": "제주특별자치도 제주시 삼도이동 1244-1 ",
+		"short_addr": "제주특별자치도 제주시",
+		"addr_lv1": "제주특별자치도",
+		"addr_lv2": "제주시",
+		"apply_nums": "32세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000435&pblancNo=2026000435&houseSecd=01",
+		"in_date": "20261117",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "삼도이동 2지구 토지임대부 공공분양주택",
+		"addr": "제주특별자치도 제주시 삼도이동 1246-1 외 4필지",
+		"short_addr": "제주특별자치도 제주시",
+		"addr_lv1": "제주특별자치도",
+		"addr_lv2": "제주시",
+		"apply_nums": "40세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
 		"in_date": "20261117",
 		"hsecd": null,
 		"rse": "12",
 		"type": "",
 		"name": null
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000434&pblancNo=2026000434&houseSecd=01",
+		"in_date": "20261118",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "삼도이동 1지구 토지임대부 공공분양주택",
+		"addr": "제주특별자치도 제주시 삼도이동 1244-1 ",
+		"short_addr": "제주특별자치도 제주시",
+		"addr_lv1": "제주특별자치도",
+		"addr_lv2": "제주시",
+		"apply_nums": "32세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000435&pblancNo=2026000435&houseSecd=01",
+		"in_date": "20261118",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "삼도이동 2지구 토지임대부 공공분양주택",
+		"addr": "제주특별자치도 제주시 삼도이동 1246-1 외 4필지",
+		"short_addr": "제주특별자치도 제주시",
+		"addr_lv1": "제주특별자치도",
+		"addr_lv2": "제주시",
+		"apply_nums": "40세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
