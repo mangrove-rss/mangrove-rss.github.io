@@ -404,12 +404,44 @@
 		"apply_nums": "1542세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940245&pblancNo=2026940245&houseSecd=11",
+		"in_date": "20261104",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "고강휴먼빌"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940246&pblancNo=2026940246&houseSecd=11",
+		"in_date": "20261104",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "고촌센트럴자이(14차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
 		"in_date": "20261104",
 		"hsecd": null,
 		"rse": "12",
 		"type": "",
 		"name": null
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940245&pblancNo=2026940245&houseSecd=11",
+		"in_date": "20261105",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "고강휴먼빌"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940246&pblancNo=2026940246&houseSecd=11",
+		"in_date": "20261105",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "고촌센트럴자이(14차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
@@ -561,6 +593,27 @@
 		"apply_nums": "135세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850054&pblancNo=2026850054&houseSecd=03",
+		"in_date": "20261109",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "부경경마공원역 대방 디에트르 더리버(AP1BL)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910281&pblancNo=2026910281&houseSecd=04",
+		"in_date": "20261109",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "빌리브센트하이(2차)",
+		"addr": "경기도 남양주시 화도읍 마석우리 295-32번지 일원",
+		"short_addr": "경기도 남양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "남양주시",
+		"apply_nums": "5세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
 		"in_date": "20261109",
 		"hsecd": null,
@@ -684,6 +737,14 @@
 		"addr_lv1": "경상북도",
 		"addr_lv2": "구미시",
 		"apply_nums": "135세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850054&pblancNo=2026850054&houseSecd=03",
+		"in_date": "20261110",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "부경경마공원역 대방 디에트르 더리버(AP1BL)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
