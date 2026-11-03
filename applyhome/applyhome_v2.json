@@ -601,6 +601,32 @@
 		"name": "부경경마공원역 대방 디에트르 더리버(AP1BL)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950096&pblancNo=2026950096&houseSecd=02",
+		"in_date": "20261109",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "옥정중앙역 대방 디에트르Ⅱ",
+		"addr": "경기도 양주시 옥정동 962-9,8번지(옥정지구 중상1, 복합1블록)",
+		"short_addr": "경기도 양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "양주시",
+		"apply_nums": "279세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910285&pblancNo=2026910285&houseSecd=04",
+		"in_date": "20261109",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "더샵 송도그란테르 G5-6블록",
+		"addr": "인천광역시 연수구 송도동 32-3,-6 (G5-6BL)",
+		"short_addr": "인천광역시 연수구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "연수구",
+		"apply_nums": "1세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910281&pblancNo=2026910281&houseSecd=04",
 		"in_date": "20261109",
 		"hsecd": "04",
@@ -612,6 +638,32 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "남양주시",
 		"apply_nums": "5세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910286&pblancNo=2026910286&houseSecd=04",
+		"in_date": "20261109",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "삼천 하늘채 라비엘",
+		"addr": "전북특별자치도 전주시 완산구 삼천동1가 585-4번지 일원",
+		"short_addr": "전북특별자치도 전주시",
+		"addr_lv1": "전북특별자치도",
+		"addr_lv2": "전주시",
+		"apply_nums": "5세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910277&pblancNo=2026910277&houseSecd=04",
+		"in_date": "20261109",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "쌍용 더 플래티넘 센텀",
+		"addr": "부산광역시 수영구 망미동 253-1번지 일원",
+		"short_addr": "부산광역시 수영구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "수영구",
+		"apply_nums": "53세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910274&pblancNo=2026910274&houseSecd=04",
