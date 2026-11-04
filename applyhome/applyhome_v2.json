@@ -1,26 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950094&pblancNo=2026950094&houseSecd=02",
-		"in_date": "20261101",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "대방역 여의도 더로드캐슬",
-		"addr": "서울특별시 영등포구 신길동 449-11",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "4세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
-		"in_date": "20261101",
-		"hsecd": null,
-		"rse": "12",
-		"type": "",
-		"name": null
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000517&pblancNo=2026000517&houseSecd=01",
 		"in_date": "20261102",
 		"hsecd": "01",
@@ -705,6 +684,22 @@
 		"apply_nums": "1세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940242&pblancNo=2026940242&houseSecd=11",
+		"in_date": "20261109",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "도안자이 센텀리체 1단지(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940243&pblancNo=2026940243&houseSecd=11",
+		"in_date": "20261109",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "도안자이 센텀리체 2단지(2차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
 		"in_date": "20261109",
 		"hsecd": null,
@@ -836,6 +831,48 @@
 		"rse": "04",
 		"type": "",
 		"name": "부경경마공원역 대방 디에트르 더리버(AP1BL)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910282&pblancNo=2026910282&houseSecd=04",
+		"in_date": "20261110",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "광명 시티프라디움 에듀하임",
+		"addr": "경기도 광명시 소하동 광명 구름산지구 도시개발사업지구 A6BL",
+		"short_addr": "경기도 광명시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "광명시",
+		"apply_nums": "21세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910279&pblancNo=2026910279&houseSecd=04",
+		"in_date": "20261110",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "봉담자이 프라이드시티",
+		"addr": "경기도 화성특례시 효행구 봉담읍 삼봉안길 30 (봉담내리지구 A1블록 봉담자이 프라이드시티)",
+		"short_addr": "경기도 화성특례시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성특례시",
+		"apply_nums": "2세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940242&pblancNo=2026940242&houseSecd=11",
+		"in_date": "20261110",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "도안자이 센텀리체 1단지(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940243&pblancNo=2026940243&houseSecd=11",
+		"in_date": "20261110",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "도안자이 센텀리체 2단지(2차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
