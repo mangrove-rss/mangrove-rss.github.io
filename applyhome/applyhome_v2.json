@@ -1,191 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000517&pblancNo=2026000517&houseSecd=01",
-		"in_date": "20261102",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "GTX운정중앙역 시티프라디움 3단지(후속사업)",
-		"addr": "경기도 파주시 파주운정3지구 주상복합 3블록(경기도 파주시 동패동 1673번지 일원)",
-		"short_addr": "경기도 파주시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "파주시",
-		"apply_nums": "337세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000518&pblancNo=2026000518&houseSecd=01",
-		"in_date": "20261102",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "GTX운정중앙역 시티프라디움 4단지(후속사업)",
-		"addr": "경기도 파주시 파주운정3지구 주상복합 4블록(경기도 파주시 동패동 400-7번지 일원)",
-		"short_addr": "경기도 파주시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "파주시",
-		"apply_nums": "358세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000530&pblancNo=2026000530&houseSecd=01",
-		"in_date": "20261102",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "계양신도시 카이브 유보라(AC3BL)",
-		"addr": "인천광역시 계양구 동양동 458-3번지 일원 (인천계양 테크노밸리 공공주택지구 AC3블록)",
-		"short_addr": "인천광역시 계양구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "계양구",
-		"apply_nums": "614세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000532&pblancNo=2026000532&houseSecd=01",
-		"in_date": "20261102",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "계양신도시 카이브 유보라(AC4BL)",
-		"addr": "인천광역시 계양구 동양동 420-3번지 일원 (인천계양 테크노밸리 공공주택지구 AC4블록)",
-		"short_addr": "인천광역시 계양구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "계양구",
-		"apply_nums": "496세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000496&pblancNo=2026000496&houseSecd=01",
-		"in_date": "20261102",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "청라 아크원 푸르지오",
-		"addr": "인천광역시 서해구 청라동 86-1번지 (청라국제업무단지 M5BL)",
-		"short_addr": "인천광역시 서해구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "서해구",
-		"apply_nums": "868세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000502&pblancNo=2026000502&houseSecd=01",
-		"in_date": "20261102",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "화성 향남 롯데캐슬 시그니처",
-		"addr": "경기도 화성시 만세구 향남읍 상신리 산 13-13 일원",
-		"short_addr": "경기도 화성시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "화성시",
-		"apply_nums": "1542세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950094&pblancNo=2026950094&houseSecd=02",
-		"in_date": "20261102",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "대방역 여의도 더로드캐슬",
-		"addr": "서울특별시 영등포구 신길동 449-11",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "4세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910275&pblancNo=2026910275&houseSecd=04",
-		"in_date": "20261102",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "더샵 분당하이스트",
-		"addr": "경기도 성남시 분당구 정자동 90번지",
-		"short_addr": "경기도 성남시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "성남시",
-		"apply_nums": "58세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910278&pblancNo=2026910278&houseSecd=04",
-		"in_date": "20261102",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "숭의역 노르웨이숲 더 스카이",
-		"addr": "인천광역시 미추홀구 숭의동 350-1번지 일원",
-		"short_addr": "인천광역시 미추홀구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "미추홀구",
-		"apply_nums": "13세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910257&pblancNo=2026910257&houseSecd=04",
-		"in_date": "20261102",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "파주 운정신도시 우미 린 더 센텀",
-		"addr": "경기도 파주시 물향기1로 45(동패동) 운정중앙역 우미 린 더 센텀",
-		"short_addr": "경기도 파주시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "파주시",
-		"apply_nums": "2세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910269&pblancNo=2026910269&houseSecd=04",
-		"in_date": "20261102",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "화서역 호수공원 아너스빌",
-		"addr": "경기도 수원시 권선구 서둔동 212-1번지 일원",
-		"short_addr": "경기도 수원시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "수원시",
-		"apply_nums": "169세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026930043&pblancNo=2026930043&houseSecd=06",
-		"in_date": "20261102",
-		"hsecd": "06",
-		"rse": "07",
-		"type": "",
-		"name": "과천 디에트르 퍼스티지(S2BL)",
-		"addr": "경기도 과천시 지식정보타운 공공주택지구 S2BL",
-		"short_addr": "경기도 과천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "과천시",
-		"apply_nums": "2세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026930042&pblancNo=2026930042&houseSecd=06",
-		"in_date": "20261102",
-		"hsecd": "06",
-		"rse": "07",
-		"type": "",
-		"name": "파주 운정신도시 우미 린 더 센텀",
-		"addr": "경기도 파주시 물향기1로 45(동패동) 운정중앙역 우미 린 더 센텀",
-		"short_addr": "경기도 파주시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "파주시",
-		"apply_nums": "1세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940237&pblancNo=2026940237&houseSecd=11",
-		"in_date": "20261102",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "엘리프 한신더휴 수원 C3블록(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
-		"in_date": "20261102",
-		"hsecd": null,
-		"rse": "12",
-		"type": "",
-		"name": null
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000517&pblancNo=2026000517&houseSecd=01",
 		"in_date": "20261103",
 		"hsecd": "01",
 		"rse": "02",
@@ -833,6 +648,14 @@
 		"name": "부경경마공원역 대방 디에트르 더리버(AP1BL)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850055&pblancNo=2026850055&houseSecd=03",
+		"in_date": "20261110",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "힐스테이트 회룡역파크뷰"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910282&pblancNo=2026910282&houseSecd=04",
 		"in_date": "20261110",
 		"hsecd": "04",
@@ -873,6 +696,14 @@
 		"rse": "11",
 		"type": "",
 		"name": "도안자이 센텀리체 2단지(2차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940244&pblancNo=2026940244&houseSecd=11",
+		"in_date": "20261110",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "해링턴플레이스 오룡역 (2차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
@@ -1000,6 +831,45 @@
 		"apply_nums": "135세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910280&pblancNo=2026910280&houseSecd=04",
+		"in_date": "20261111",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "오남역 서희스타힐스 여의재 3단지 (조합원 취소분)",
+		"addr": "경기도 남양주시 오남읍 양지리 186-10번지 일원",
+		"short_addr": "경기도 남양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "남양주시",
+		"apply_nums": "6세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910276&pblancNo=2026910276&houseSecd=04",
+		"in_date": "20261111",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "인천 검단신도시 AB20-2블록 중흥S-클래스 에듀파크",
+		"addr": "인천광역시 검단지구 공동주택용지 AB20-2BL",
+		"short_addr": "인천광역시 검단지구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "검단지구",
+		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910283&pblancNo=2026910283&houseSecd=04",
+		"in_date": "20261111",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "인천 영종하늘도시 A25블록 대성베르힐(5차)",
+		"addr": "인천광역시 영종구 운남동 1709-1번지(영종 A25블록)",
+		"short_addr": "인천광역시 영종구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "영종구",
+		"apply_nums": "1세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
 		"in_date": "20261111",
 		"hsecd": null,
@@ -1105,6 +975,19 @@
 		"apply_nums": "201세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950095&pblancNo=2026950095&houseSecd=02",
+		"in_date": "20261116",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "신대방역 더하이브퍼스트",
+		"addr": "서울특별시 관악구 신림동 505-1",
+		"short_addr": "서울특별시 관악구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "관악구",
+		"apply_nums": "12세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
 		"in_date": "20261116",
 		"hsecd": null,
@@ -1152,6 +1035,19 @@
 		"apply_nums": "201세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950095&pblancNo=2026950095&houseSecd=02",
+		"in_date": "20261117",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "신대방역 더하이브퍼스트",
+		"addr": "서울특별시 관악구 신림동 505-1",
+		"short_addr": "서울특별시 관악구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "관악구",
+		"apply_nums": "12세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
 		"in_date": "20261117",
 		"hsecd": null,
@@ -1184,6 +1080,19 @@
 		"addr_lv1": "제주특별자치도",
 		"addr_lv2": "제주시",
 		"apply_nums": "40세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950095&pblancNo=2026950095&houseSecd=02",
+		"in_date": "20261118",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "신대방역 더하이브퍼스트",
+		"addr": "서울특별시 관악구 신림동 505-1",
+		"short_addr": "서울특별시 관악구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "관악구",
+		"apply_nums": "12세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
