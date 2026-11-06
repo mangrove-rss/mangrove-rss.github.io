@@ -1,126 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000517&pblancNo=2026000517&houseSecd=01",
-		"in_date": "20261103",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "GTX운정중앙역 시티프라디움 3단지(후속사업)",
-		"addr": "경기도 파주시 파주운정3지구 주상복합 3블록(경기도 파주시 동패동 1673번지 일원)",
-		"short_addr": "경기도 파주시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "파주시",
-		"apply_nums": "337세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000518&pblancNo=2026000518&houseSecd=01",
-		"in_date": "20261103",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "GTX운정중앙역 시티프라디움 4단지(후속사업)",
-		"addr": "경기도 파주시 파주운정3지구 주상복합 4블록(경기도 파주시 동패동 400-7번지 일원)",
-		"short_addr": "경기도 파주시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "파주시",
-		"apply_nums": "358세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000530&pblancNo=2026000530&houseSecd=01",
-		"in_date": "20261103",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "계양신도시 카이브 유보라(AC3BL)",
-		"addr": "인천광역시 계양구 동양동 458-3번지 일원 (인천계양 테크노밸리 공공주택지구 AC3블록)",
-		"short_addr": "인천광역시 계양구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "계양구",
-		"apply_nums": "614세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000532&pblancNo=2026000532&houseSecd=01",
-		"in_date": "20261103",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "계양신도시 카이브 유보라(AC4BL)",
-		"addr": "인천광역시 계양구 동양동 420-3번지 일원 (인천계양 테크노밸리 공공주택지구 AC4블록)",
-		"short_addr": "인천광역시 계양구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "계양구",
-		"apply_nums": "496세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000496&pblancNo=2026000496&houseSecd=01",
-		"in_date": "20261103",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "청라 아크원 푸르지오",
-		"addr": "인천광역시 서해구 청라동 86-1번지 (청라국제업무단지 M5BL)",
-		"short_addr": "인천광역시 서해구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "서해구",
-		"apply_nums": "868세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000502&pblancNo=2026000502&houseSecd=01",
-		"in_date": "20261103",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "화성 향남 롯데캐슬 시그니처",
-		"addr": "경기도 화성시 만세구 향남읍 상신리 산 13-13 일원",
-		"short_addr": "경기도 화성시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "화성시",
-		"apply_nums": "1542세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950094&pblancNo=2026950094&houseSecd=02",
-		"in_date": "20261103",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "대방역 여의도 더로드캐슬",
-		"addr": "서울특별시 영등포구 신길동 449-11",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "4세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910267&pblancNo=2026910267&houseSecd=04",
-		"in_date": "20261103",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "교대역 모아엘가 그랑데",
-		"addr": "전남광주통합특별시 동구 무등로 373",
-		"short_addr": "전남광주통합특별시 동구",
-		"addr_lv1": "전남광주통합특별시",
-		"addr_lv2": "동구",
-		"apply_nums": "1세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940237&pblancNo=2026940237&houseSecd=11",
-		"in_date": "20261103",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "엘리프 한신더휴 수원 C3블록(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
-		"in_date": "20261103",
-		"hsecd": null,
-		"rse": "12",
-		"type": "",
-		"name": null
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000517&pblancNo=2026000517&houseSecd=01",
 		"in_date": "20261104",
 		"hsecd": "01",
 		"rse": "03",
@@ -962,6 +842,45 @@
 		"apply_nums": "40세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000553&pblancNo=2026000553&houseSecd=01",
+		"in_date": "20261116",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "의정부역 펠리스타워 양우내안애",
+		"addr": "경기도 의정부시 의정부동 424번지 일원 ",
+		"short_addr": "경기도 의정부시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "의정부시",
+		"apply_nums": "414세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000557&pblancNo=2026000557&houseSecd=01",
+		"in_date": "20261116",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "제일풍경채 광주 포에듀",
+		"addr": "경기도 광주시 탄벌동 203-4번지 일원 (탄벌A지구 A5블럭)",
+		"short_addr": "경기도 광주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "광주시",
+		"apply_nums": "572세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000497&pblancNo=2026000497&houseSecd=01",
+		"in_date": "20261116",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "중화역 라온프라이빗 센트로",
+		"addr": "서울특별시 중랑구 중화동 303-9번지 일원",
+		"short_addr": "서울특별시 중랑구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "중랑구",
+		"apply_nums": "113세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000554&pblancNo=2026000554&houseSecd=01",
 		"in_date": "20261116",
 		"hsecd": "01",
@@ -1022,6 +941,45 @@
 		"apply_nums": "40세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000553&pblancNo=2026000553&houseSecd=01",
+		"in_date": "20261117",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "의정부역 펠리스타워 양우내안애",
+		"addr": "경기도 의정부시 의정부동 424번지 일원 ",
+		"short_addr": "경기도 의정부시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "의정부시",
+		"apply_nums": "414세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000557&pblancNo=2026000557&houseSecd=01",
+		"in_date": "20261117",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "제일풍경채 광주 포에듀",
+		"addr": "경기도 광주시 탄벌동 203-4번지 일원 (탄벌A지구 A5블럭)",
+		"short_addr": "경기도 광주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "광주시",
+		"apply_nums": "572세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000497&pblancNo=2026000497&houseSecd=01",
+		"in_date": "20261117",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "중화역 라온프라이빗 센트로",
+		"addr": "서울특별시 중랑구 중화동 303-9번지 일원",
+		"short_addr": "서울특별시 중랑구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "중랑구",
+		"apply_nums": "113세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000554&pblancNo=2026000554&houseSecd=01",
 		"in_date": "20261117",
 		"hsecd": "01",
@@ -1056,6 +1014,19 @@
 		"name": null
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000497&pblancNo=2026000497&houseSecd=01",
+		"in_date": "20261118",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "중화역 라온프라이빗 센트로",
+		"addr": "서울특별시 중랑구 중화동 303-9번지 일원",
+		"short_addr": "서울특별시 중랑구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "중랑구",
+		"apply_nums": "113세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000434&pblancNo=2026000434&houseSecd=01",
 		"in_date": "20261118",
 		"hsecd": "01",
@@ -1082,6 +1053,32 @@
 		"apply_nums": "40세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000553&pblancNo=2026000553&houseSecd=01",
+		"in_date": "20261118",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "의정부역 펠리스타워 양우내안애",
+		"addr": "경기도 의정부시 의정부동 424번지 일원 ",
+		"short_addr": "경기도 의정부시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "의정부시",
+		"apply_nums": "414세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000557&pblancNo=2026000557&houseSecd=01",
+		"in_date": "20261118",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "제일풍경채 광주 포에듀",
+		"addr": "경기도 광주시 탄벌동 203-4번지 일원 (탄벌A지구 A5블럭)",
+		"short_addr": "경기도 광주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "광주시",
+		"apply_nums": "572세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950095&pblancNo=2026950095&houseSecd=02",
 		"in_date": "20261118",
 		"hsecd": "02",
@@ -1101,6 +1098,19 @@
 		"rse": "12",
 		"type": "",
 		"name": null
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000497&pblancNo=2026000497&houseSecd=01",
+		"in_date": "20261119",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "중화역 라온프라이빗 센트로",
+		"addr": "서울특별시 중랑구 중화동 303-9번지 일원",
+		"short_addr": "서울특별시 중랑구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "중랑구",
+		"apply_nums": "113세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
