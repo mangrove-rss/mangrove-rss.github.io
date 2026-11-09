@@ -1,14 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
-		"in_date": "20261106",
-		"hsecd": null,
-		"rse": "12",
-		"type": "",
-		"name": null
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
 		"in_date": "20261107",
 		"hsecd": null,
 		"rse": "12",
@@ -653,12 +645,28 @@
 		"apply_nums": "76세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940247&pblancNo=2026940247&houseSecd=11",
+		"in_date": "20261112",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "수원이목지구 대방 디에트르 더 리체Ⅰ(A4BL)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940252&pblancNo=2026940252&houseSecd=11",
 		"in_date": "20261112",
 		"hsecd": "11",
 		"rse": "11",
 		"type": "",
 		"name": "신월동 한양립스(3차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940251&pblancNo=2026940251&houseSecd=11",
+		"in_date": "20261112",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "해링턴플레이스 노원 센트럴(4차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
@@ -680,6 +688,22 @@
 		"addr_lv1": "경상북도",
 		"addr_lv2": "경산시",
 		"apply_nums": "201세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940247&pblancNo=2026940247&houseSecd=11",
+		"in_date": "20261113",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "수원이목지구 대방 디에트르 더 리체Ⅰ(A4BL)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940251&pblancNo=2026940251&houseSecd=11",
+		"in_date": "20261113",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "해링턴플레이스 노원 센트럴(4차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
@@ -795,6 +819,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "관악구",
 		"apply_nums": "12세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910284&pblancNo=2026910284&houseSecd=04",
+		"in_date": "20261116",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "중동역 다채로움 더원",
+		"addr": "경기도 부천시 소사구 송내동 365-1번지 일원",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "23세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910290&pblancNo=2026910290&houseSecd=04",
