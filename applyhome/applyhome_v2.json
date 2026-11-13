@@ -1,196 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000528&pblancNo=2026000528&houseSecd=01",
-		"in_date": "20261110",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "광교 자연앤 센트레빌(A17BL) 공공분양주택",
-		"addr": "경기도 수원시 영통구 원천동 633번지 일원",
-		"short_addr": "경기도 수원시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "수원시",
-		"apply_nums": "360세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000527&pblancNo=2026000527&houseSecd=01",
-		"in_date": "20261110",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "광교 자연앤 센트레빌(A17BL) 지분적립형 분양주택",
-		"addr": "경기도 수원시 영통구 원천동 633번지 일원",
-		"short_addr": "경기도 수원시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "수원시",
-		"apply_nums": "240세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000472&pblancNo=2026000472&houseSecd=01",
-		"in_date": "20261110",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "구리갈매역세권 B-1블록 신안인스빌 디센트",
-		"addr": "경기도 구리시 구리갈매역세권 B-1블록",
-		"short_addr": "경기도 구리시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "구리시",
-		"apply_nums": "213세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000539&pblancNo=2026000539&houseSecd=01",
-		"in_date": "20261110",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "남춘천 센트레빌",
-		"addr": "강원특별자치도 춘천시 효자동 681-12 일원",
-		"short_addr": "강원특별자치도 춘천시",
-		"addr_lv1": "강원특별자치도",
-		"addr_lv2": "춘천시",
-		"apply_nums": "264세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000525&pblancNo=2026000525&houseSecd=01",
-		"in_date": "20261110",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "엘리프 시흥 더프라임",
-		"addr": "경기도 시흥시 거모동 시흥거모지구 B-5블록",
-		"short_addr": "경기도 시흥시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "시흥시",
-		"apply_nums": "304세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000535&pblancNo=2026000535&houseSecd=01",
-		"in_date": "20261110",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "중앙하이츠 구성 플랫폼시티",
-		"addr": "경기도 용인시 기흥구 마북동 298-1번지 일원",
-		"short_addr": "경기도 용인시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "용인시",
-		"apply_nums": "76세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000515&pblancNo=2026000515&houseSecd=01",
-		"in_date": "20261110",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "평택 고덕 우미 린 더 프리미어",
-		"addr": "경기도 평택시 고덕 국제화계획지구 내 Abc-33블록",
-		"short_addr": "경기도 평택시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "평택시",
-		"apply_nums": "623세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000499&pblancNo=2026000499&houseSecd=01",
-		"in_date": "20261110",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "한화포레나 지제역",
-		"addr": "경기도 평택시 세교동 725번지 일원",
-		"short_addr": "경기도 평택시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "평택시",
-		"apply_nums": "1098세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000523&pblancNo=2026000523&houseSecd=01",
-		"in_date": "20261110",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "형곡 센트럴 아테라",
-		"addr": "경상북도 구미시 형곡동 141-11번지 외 3필지",
-		"short_addr": "경상북도 구미시",
-		"addr_lv1": "경상북도",
-		"addr_lv2": "구미시",
-		"apply_nums": "135세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850054&pblancNo=2026850054&houseSecd=03",
-		"in_date": "20261110",
-		"hsecd": "03",
-		"rse": "04",
-		"type": "",
-		"name": "부경경마공원역 대방 디에트르 더리버(AP1BL)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850055&pblancNo=2026850055&houseSecd=03",
-		"in_date": "20261110",
-		"hsecd": "03",
-		"rse": "04",
-		"type": "",
-		"name": "힐스테이트 회룡역파크뷰"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910282&pblancNo=2026910282&houseSecd=04",
-		"in_date": "20261110",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "광명 시티프라디움 에듀하임",
-		"addr": "경기도 광명시 소하동 광명 구름산지구 도시개발사업지구 A6BL",
-		"short_addr": "경기도 광명시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "광명시",
-		"apply_nums": "21세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910279&pblancNo=2026910279&houseSecd=04",
-		"in_date": "20261110",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "봉담자이 프라이드시티",
-		"addr": "경기도 화성특례시 효행구 봉담읍 삼봉안길 30 (봉담내리지구 A1블록 봉담자이 프라이드시티)",
-		"short_addr": "경기도 화성특례시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "화성특례시",
-		"apply_nums": "2세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940242&pblancNo=2026940242&houseSecd=11",
-		"in_date": "20261110",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "도안자이 센텀리체 1단지(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940243&pblancNo=2026940243&houseSecd=11",
-		"in_date": "20261110",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "도안자이 센텀리체 2단지(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940244&pblancNo=2026940244&houseSecd=11",
-		"in_date": "20261110",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "해링턴플레이스 오룡역 (2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
-		"in_date": "20261110",
-		"hsecd": null,
-		"rse": "12",
-		"type": "",
-		"name": null
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000535&pblancNo=2026000535&houseSecd=01",
 		"in_date": "20261111",
 		"hsecd": "01",
@@ -905,6 +714,19 @@
 		"apply_nums": "12세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910299&pblancNo=2026910299&houseSecd=04",
+		"in_date": "20261118",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "용인 양지 서희스타힐스 하이뷰 (조합원 취소분)",
+		"addr": "경기도 용인시 처인구 양지읍 양지리 산105-8번지 일원",
+		"short_addr": "경기도 용인시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "용인시",
+		"apply_nums": "19세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940249&pblancNo=2026940249&houseSecd=11",
 		"in_date": "20261118",
 		"hsecd": "11",
@@ -998,6 +820,19 @@
 		"name": null
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000563&pblancNo=2026000563&houseSecd=01",
+		"in_date": "20261123",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "더샵 트리센트(조합원 자격상실 세대분)",
+		"addr": "부산광역시 남구 문현동 334번지 일원",
+		"short_addr": "부산광역시 남구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "103세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000457&pblancNo=2026000457&houseSecd=01",
 		"in_date": "20261123",
 		"hsecd": "01",
@@ -1048,6 +883,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "영등포구",
 		"apply_nums": "218세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000566&pblancNo=2026000566&houseSecd=01",
+		"in_date": "20261123",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "호반써밋 초량",
+		"addr": "부산광역시 동구 초량3동 659번지 일원",
+		"short_addr": "부산광역시 동구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "동구",
+		"apply_nums": "236세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000558&pblancNo=2026000558&houseSecd=01",
@@ -1079,6 +927,19 @@
 		"name": null
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000563&pblancNo=2026000563&houseSecd=01",
+		"in_date": "20261124",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "더샵 트리센트(조합원 자격상실 세대분)",
+		"addr": "부산광역시 남구 문현동 334번지 일원",
+		"short_addr": "부산광역시 남구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "103세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000457&pblancNo=2026000457&houseSecd=01",
 		"in_date": "20261124",
 		"hsecd": "01",
@@ -1131,6 +992,19 @@
 		"apply_nums": "218세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000566&pblancNo=2026000566&houseSecd=01",
+		"in_date": "20261124",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "호반써밋 초량",
+		"addr": "부산광역시 동구 초량3동 659번지 일원",
+		"short_addr": "부산광역시 동구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "동구",
+		"apply_nums": "236세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000558&pblancNo=2026000558&houseSecd=01",
 		"in_date": "20261124",
 		"hsecd": "01",
@@ -1152,6 +1026,19 @@
 		"name": null
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000505&pblancNo=2026000505&houseSecd=01",
+		"in_date": "20261125",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "경희궁 에피트",
+		"addr": "서울특별시 종로구 교남동 28번지 일원",
+		"short_addr": "서울특별시 종로구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "종로구",
+		"apply_nums": "134세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000560&pblancNo=2026000560&houseSecd=01",
 		"in_date": "20261125",
 		"hsecd": "01",
@@ -1163,6 +1050,19 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "영등포구",
 		"apply_nums": "218세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000563&pblancNo=2026000563&houseSecd=01",
+		"in_date": "20261125",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "더샵 트리센트(조합원 자격상실 세대분)",
+		"addr": "부산광역시 남구 문현동 334번지 일원",
+		"short_addr": "부산광역시 남구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "남구",
+		"apply_nums": "103세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000457&pblancNo=2026000457&houseSecd=01",
@@ -1204,6 +1104,19 @@
 		"apply_nums": "499세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000566&pblancNo=2026000566&houseSecd=01",
+		"in_date": "20261125",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "호반써밋 초량",
+		"addr": "부산광역시 동구 초량3동 659번지 일원",
+		"short_addr": "부산광역시 동구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "동구",
+		"apply_nums": "236세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000558&pblancNo=2026000558&houseSecd=01",
 		"in_date": "20261125",
 		"hsecd": "01",
@@ -1238,6 +1151,19 @@
 		"name": null
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000505&pblancNo=2026000505&houseSecd=01",
+		"in_date": "20261126",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "경희궁 에피트",
+		"addr": "서울특별시 종로구 교남동 28번지 일원",
+		"short_addr": "서울특별시 종로구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "종로구",
+		"apply_nums": "134세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000560&pblancNo=2026000560&houseSecd=01",
 		"in_date": "20261126",
 		"hsecd": "01",
@@ -1270,6 +1196,19 @@
 		"rse": "12",
 		"type": "",
 		"name": null
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000505&pblancNo=2026000505&houseSecd=01",
+		"in_date": "20261127",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "경희궁 에피트",
+		"addr": "서울특별시 종로구 교남동 28번지 일원",
+		"short_addr": "서울특별시 종로구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "종로구",
+		"apply_nums": "134세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
@@ -1294,6 +1233,19 @@
 		"rse": "12",
 		"type": "",
 		"name": null
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000505&pblancNo=2026000505&houseSecd=01",
+		"in_date": "20261130",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "경희궁 에피트",
+		"addr": "서울특별시 종로구 교남동 28번지 일원",
+		"short_addr": "서울특별시 종로구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "종로구",
+		"apply_nums": "134세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
