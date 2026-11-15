@@ -1,50 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000535&pblancNo=2026000535&houseSecd=01",
-		"in_date": "20261112",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "중앙하이츠 구성 플랫폼시티",
-		"addr": "경기도 용인시 기흥구 마북동 298-1번지 일원",
-		"short_addr": "경기도 용인시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "용인시",
-		"apply_nums": "76세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940247&pblancNo=2026940247&houseSecd=11",
-		"in_date": "20261112",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "수원이목지구 대방 디에트르 더 리체Ⅰ(A4BL)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940252&pblancNo=2026940252&houseSecd=11",
-		"in_date": "20261112",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "신월동 한양립스(3차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940251&pblancNo=2026940251&houseSecd=11",
-		"in_date": "20261112",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "해링턴플레이스 노원 센트럴(4차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
-		"in_date": "20261112",
-		"hsecd": null,
-		"rse": "12",
-		"type": "",
-		"name": null
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000554&pblancNo=2026000554&houseSecd=01",
 		"in_date": "20261113",
 		"hsecd": "01",
@@ -555,6 +510,14 @@
 		"apply_nums": "19세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940256&pblancNo=2026940256&houseSecd=11",
+		"in_date": "20261118",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "디에이치 신반포에스테라"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940249&pblancNo=2026940249&houseSecd=11",
 		"in_date": "20261118",
 		"hsecd": "11",
@@ -582,6 +545,14 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "중랑구",
 		"apply_nums": "113세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940256&pblancNo=2026940256&houseSecd=11",
+		"in_date": "20261119",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "디에이치 신반포에스테라"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940249&pblancNo=2026940249&houseSecd=11",
@@ -737,6 +708,19 @@
 		"addr_lv1": "울산광역시",
 		"addr_lv2": "동구",
 		"apply_nums": "802세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910296&pblancNo=2026910296&houseSecd=04",
+		"in_date": "20261123",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "힐스테이트 거제시그니처(1회차)",
+		"addr": "경상남도 거제시 옥포동 1670번지 일원",
+		"short_addr": "경상남도 거제시",
+		"addr_lv1": "경상남도",
+		"addr_lv2": "거제시",
+		"apply_nums": "129세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940249&pblancNo=2026940249&houseSecd=11",
