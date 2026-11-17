@@ -1,22 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940250&pblancNo=2026940250&houseSecd=11",
-		"in_date": "20261114",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "고덕신도시 아테라 A-63블록 공공분양주택(3차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
-		"in_date": "20261114",
-		"hsecd": null,
-		"rse": "12",
-		"type": "",
-		"name": null
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940250&pblancNo=2026940250&houseSecd=11",
 		"in_date": "20261115",
 		"hsecd": "11",
 		"rse": "11",
@@ -550,6 +534,14 @@
 		"name": "야목역 서희스타힐스 그랜드힐(조합원 취소분)(2차)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940263&pblancNo=2026940263&houseSecd=11",
+		"in_date": "20261120",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "이천역 예미지 센트럴파크(4차)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
 		"in_date": "20261120",
 		"hsecd": null,
@@ -697,6 +689,32 @@
 		"apply_nums": "802세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910292&pblancNo=2026910292&houseSecd=04",
+		"in_date": "20261123",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "검암역 푸르지오 프라베뉴 (B-1BL) 공공분양주택",
+		"addr": "인천광역시 서해구 인천검암역세권 공공주택지구 내 B-1BL",
+		"short_addr": "인천광역시 서해구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "서해구",
+		"apply_nums": "9세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910295&pblancNo=2026910295&houseSecd=04",
+		"in_date": "20261123",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "연제갤러리자이",
+		"addr": "부산광역시 연제구 연산동 1123-1번지",
+		"short_addr": "부산광역시 연제구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "연제구",
+		"apply_nums": "315세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910296&pblancNo=2026910296&houseSecd=04",
 		"in_date": "20261123",
 		"hsecd": "04",
@@ -708,6 +726,27 @@
 		"addr_lv1": "경상남도",
 		"addr_lv2": "거제시",
 		"apply_nums": "129세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026930045&pblancNo=2026930045&houseSecd=06",
+		"in_date": "20261123",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "잠실 래미안아이파크",
+		"addr": "서울특별시 송파구 신천동 20-4번지 일대(잠실진주주택재건축정비사업)",
+		"short_addr": "서울특별시 송파구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "송파구",
+		"apply_nums": "3세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940255&pblancNo=2026940255&houseSecd=11",
+		"in_date": "20261123",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "광명 시티프라디움 에듀하임"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940260&pblancNo=2026940260&houseSecd=11",
@@ -831,6 +870,19 @@
 		"rse": "04",
 		"type": "",
 		"name": "서면 지원 더뷰 드림아파트(공공지원민간임대)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026930045&pblancNo=2026930045&houseSecd=06",
+		"in_date": "20261124",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "잠실 래미안아이파크",
+		"addr": "서울특별시 송파구 신천동 20-4번지 일대(잠실진주주택재건축정비사업)",
+		"short_addr": "서울특별시 송파구",
+		"addr_lv1": "서울특별시",
+		"addr_lv2": "송파구",
+		"apply_nums": "3세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940260&pblancNo=2026940260&houseSecd=11",
