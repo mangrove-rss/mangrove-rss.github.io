@@ -1,21 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940250&pblancNo=2026940250&houseSecd=11",
-		"in_date": "20261115",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "고덕신도시 아테라 A-63블록 공공분양주택(3차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
-		"in_date": "20261115",
-		"hsecd": null,
-		"rse": "12",
-		"type": "",
-		"name": null
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000434&pblancNo=2026000434&houseSecd=01",
 		"in_date": "20261116",
 		"hsecd": "01",
@@ -598,6 +582,19 @@
 		"name": null
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000536&pblancNo=2026000536&houseSecd=01",
+		"in_date": "20261123",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "구미 파크원 데시앙",
+		"addr": "경상북도 구미시 도량동 산40-4번지 일원",
+		"short_addr": "경상북도 구미시",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "구미시",
+		"apply_nums": "1355세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000563&pblancNo=2026000563&houseSecd=01",
 		"in_date": "20261123",
 		"hsecd": "01",
@@ -609,6 +606,19 @@
 		"addr_lv1": "부산광역시",
 		"addr_lv2": "남구",
 		"apply_nums": "103세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000559&pblancNo=2026000559&houseSecd=01",
+		"in_date": "20261123",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "두산위브 트레지움 익산",
+		"addr": "전북특별자치도 익산시 동산동 1057번지 일원",
+		"short_addr": "전북특별자치도 익산시",
+		"addr_lv1": "전북특별자치도",
+		"addr_lv2": "익산시",
+		"apply_nums": "251세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000457&pblancNo=2026000457&houseSecd=01",
@@ -728,6 +738,19 @@
 		"apply_nums": "129세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026930046&pblancNo=2026930046&houseSecd=06",
+		"in_date": "20261123",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "광주 송정 중흥S-클래스 파크뷰",
+		"addr": "경기도 광주시 광주대로 142 ",
+		"short_addr": "경기도 광주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "광주시",
+		"apply_nums": "2세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026930045&pblancNo=2026930045&houseSecd=06",
 		"in_date": "20261123",
 		"hsecd": "06",
@@ -739,6 +762,14 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "송파구",
 		"apply_nums": "3세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940261&pblancNo=2026940261&houseSecd=11",
+		"in_date": "20261123",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "e편한세상 헤이리"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940255&pblancNo=2026940255&houseSecd=11",
@@ -773,6 +804,19 @@
 		"name": null
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000536&pblancNo=2026000536&houseSecd=01",
+		"in_date": "20261124",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "구미 파크원 데시앙",
+		"addr": "경상북도 구미시 도량동 산40-4번지 일원",
+		"short_addr": "경상북도 구미시",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "구미시",
+		"apply_nums": "1355세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000563&pblancNo=2026000563&houseSecd=01",
 		"in_date": "20261124",
 		"hsecd": "01",
@@ -784,6 +828,19 @@
 		"addr_lv1": "부산광역시",
 		"addr_lv2": "남구",
 		"apply_nums": "103세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000559&pblancNo=2026000559&houseSecd=01",
+		"in_date": "20261124",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "두산위브 트레지움 익산",
+		"addr": "전북특별자치도 익산시 동산동 1057번지 일원",
+		"short_addr": "전북특별자치도 익산시",
+		"addr_lv1": "전북특별자치도",
+		"addr_lv2": "익산시",
+		"apply_nums": "251세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000457&pblancNo=2026000457&houseSecd=01",
@@ -872,6 +929,19 @@
 		"name": "서면 지원 더뷰 드림아파트(공공지원민간임대)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910307&pblancNo=2026910307&houseSecd=04",
+		"in_date": "20261124",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "인천 검단신도시 AB13블록 호반써밋Ⅲ",
+		"addr": "인천 검단신도시 AB13블록 호반써밋 아라 (인천광역시 검단구 이음4로 101)",
+		"short_addr": "인천 검단신도시",
+		"addr_lv1": "인천",
+		"addr_lv2": "검단신도시",
+		"apply_nums": "1세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026930045&pblancNo=2026930045&houseSecd=06",
 		"in_date": "20261124",
 		"hsecd": "06",
@@ -883,6 +953,14 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "송파구",
 		"apply_nums": "3세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940257&pblancNo=2026940257&houseSecd=11",
+		"in_date": "20261124",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "강동한강 디에트르"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940260&pblancNo=2026940260&houseSecd=11",
@@ -927,6 +1005,19 @@
 		"apply_nums": "218세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000536&pblancNo=2026000536&houseSecd=01",
+		"in_date": "20261125",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "구미 파크원 데시앙",
+		"addr": "경상북도 구미시 도량동 산40-4번지 일원",
+		"short_addr": "경상북도 구미시",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "구미시",
+		"apply_nums": "1355세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000563&pblancNo=2026000563&houseSecd=01",
 		"in_date": "20261125",
 		"hsecd": "01",
@@ -938,6 +1029,19 @@
 		"addr_lv1": "부산광역시",
 		"addr_lv2": "남구",
 		"apply_nums": "103세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000559&pblancNo=2026000559&houseSecd=01",
+		"in_date": "20261125",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "두산위브 트레지움 익산",
+		"addr": "전북특별자치도 익산시 동산동 1057번지 일원",
+		"short_addr": "전북특별자치도 익산시",
+		"addr_lv1": "전북특별자치도",
+		"addr_lv2": "익산시",
+		"apply_nums": "251세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000457&pblancNo=2026000457&houseSecd=01",
@@ -1024,6 +1128,14 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "중랑구",
 		"apply_nums": "74세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940257&pblancNo=2026940257&houseSecd=11",
+		"in_date": "20261125",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "강동한강 디에트르"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
@@ -1118,6 +1230,19 @@
 		"name": null
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000585&pblancNo=2026000585&houseSecd=01",
+		"in_date": "20261130",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "고양 한신더휴 퍼스트원",
+		"addr": "경기도 고양시 덕양구 행신동 173-1번지 일원",
+		"short_addr": "경기도 고양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "고양시",
+		"apply_nums": "102세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000505&pblancNo=2026000505&houseSecd=01",
 		"in_date": "20261130",
 		"hsecd": "01",
@@ -1139,12 +1264,38 @@
 		"name": null
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000585&pblancNo=2026000585&houseSecd=01",
+		"in_date": "20261201",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "고양 한신더휴 퍼스트원",
+		"addr": "경기도 고양시 덕양구 행신동 173-1번지 일원",
+		"short_addr": "경기도 고양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "고양시",
+		"apply_nums": "102세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
 		"in_date": "20261201",
 		"hsecd": null,
 		"rse": "12",
 		"type": "",
 		"name": null
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000585&pblancNo=2026000585&houseSecd=01",
+		"in_date": "20261202",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "고양 한신더휴 퍼스트원",
+		"addr": "경기도 고양시 덕양구 행신동 173-1번지 일원",
+		"short_addr": "경기도 고양시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "고양시",
+		"apply_nums": "102세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
