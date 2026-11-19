@@ -1,191 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000434&pblancNo=2026000434&houseSecd=01",
-		"in_date": "20261116",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "삼도이동 1지구 토지임대부 공공분양주택",
-		"addr": "제주특별자치도 제주시 삼도이동 1244-1 ",
-		"short_addr": "제주특별자치도 제주시",
-		"addr_lv1": "제주특별자치도",
-		"addr_lv2": "제주시",
-		"apply_nums": "32세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000435&pblancNo=2026000435&houseSecd=01",
-		"in_date": "20261116",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "삼도이동 2지구 토지임대부 공공분양주택",
-		"addr": "제주특별자치도 제주시 삼도이동 1246-1 외 4필지",
-		"short_addr": "제주특별자치도 제주시",
-		"addr_lv1": "제주특별자치도",
-		"addr_lv2": "제주시",
-		"apply_nums": "40세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000553&pblancNo=2026000553&houseSecd=01",
-		"in_date": "20261116",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "의정부역 펠리스타워 양우내안애",
-		"addr": "경기도 의정부시 의정부동 424번지 일원 ",
-		"short_addr": "경기도 의정부시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "의정부시",
-		"apply_nums": "414세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000557&pblancNo=2026000557&houseSecd=01",
-		"in_date": "20261116",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "제일풍경채 광주 포에듀",
-		"addr": "경기도 광주시 탄벌동 203-4번지 일원 (탄벌A지구 A5블럭)",
-		"short_addr": "경기도 광주시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "광주시",
-		"apply_nums": "572세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000497&pblancNo=2026000497&houseSecd=01",
-		"in_date": "20261116",
-		"hsecd": "01",
-		"rse": "01",
-		"type": "APT 특별공급",
-		"name": "중화역 라온프라이빗 센트로",
-		"addr": "서울특별시 중랑구 중화동 303-9번지 일원",
-		"short_addr": "서울특별시 중랑구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "중랑구",
-		"apply_nums": "113세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000554&pblancNo=2026000554&houseSecd=01",
-		"in_date": "20261116",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "리첼 에듀포레 경산역",
-		"addr": "경상북도 경산시 사정동 301-22번지 일원",
-		"short_addr": "경상북도 경산시",
-		"addr_lv1": "경상북도",
-		"addr_lv2": "경산시",
-		"apply_nums": "201세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950095&pblancNo=2026950095&houseSecd=02",
-		"in_date": "20261116",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "신대방역 더하이브퍼스트",
-		"addr": "서울특별시 관악구 신림동 505-1",
-		"short_addr": "서울특별시 관악구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "관악구",
-		"apply_nums": "12세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910291&pblancNo=2026910291&houseSecd=04",
-		"in_date": "20261116",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "송도자이 더 스타(3차)",
-		"addr": "인천광역시 연수구 송도동 396-11 (A17블록)",
-		"short_addr": "인천광역시 연수구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "연수구",
-		"apply_nums": "1세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910288&pblancNo=2026910288&houseSecd=04",
-		"in_date": "20261116",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "안양자이 더 포레스트",
-		"addr": "경기도 안양시 만안구 석수2동 38번지 일대",
-		"short_addr": "경기도 안양시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "안양시",
-		"apply_nums": "1세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910293&pblancNo=2026910293&houseSecd=04",
-		"in_date": "20261116",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "이천자이 더 리체",
-		"addr": "경기도 이천시 증포동 502번지",
-		"short_addr": "경기도 이천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "이천시",
-		"apply_nums": "3세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910284&pblancNo=2026910284&houseSecd=04",
-		"in_date": "20261116",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "중동역 다채로움 더원",
-		"addr": "경기도 부천시 소사구 송내동 365-1번지 일원",
-		"short_addr": "경기도 부천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "부천시",
-		"apply_nums": "23세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910290&pblancNo=2026910290&houseSecd=04",
-		"in_date": "20261116",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "청계 노르웨이숲(14차)",
-		"addr": "서울특별시 중구 황학동 1756번지 일원",
-		"short_addr": "서울특별시 중구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "중구",
-		"apply_nums": "6세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910297&pblancNo=2026910297&houseSecd=04",
-		"in_date": "20261116",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "평택 고덕 국제신도시 A-55 대광로제비앙 모아엘가(4차)",
-		"addr": "경기도 평택시 고덕국제8로 10(고덕동 2705-1)",
-		"short_addr": "경기도 평택시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "평택시",
-		"apply_nums": "3세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940250&pblancNo=2026940250&houseSecd=11",
-		"in_date": "20261116",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "고덕신도시 아테라 A-63블록 공공분양주택(3차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
-		"in_date": "20261116",
-		"hsecd": null,
-		"rse": "12",
-		"type": "",
-		"name": null
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000434&pblancNo=2026000434&houseSecd=01",
 		"in_date": "20261117",
 		"hsecd": "01",
 		"rse": "02",
@@ -929,6 +744,32 @@
 		"name": "서면 지원 더뷰 드림아파트(공공지원민간임대)"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950098&pblancNo=2026950098&houseSecd=02",
+		"in_date": "20261124",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "아르뮤제자이",
+		"addr": "경기도 안산시 상록구 성포동 586번지",
+		"short_addr": "경기도 안산시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "안산시",
+		"apply_nums": "370세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910300&pblancNo=2026910300&houseSecd=04",
+		"in_date": "20261124",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "산곡역자이힐스테이트앤하늘채",
+		"addr": "인천광역시 부평구 산곡동 10번지 일원(산곡6 주택재개발정비사업)",
+		"short_addr": "인천광역시 부평구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "부평구",
+		"apply_nums": "550세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910307&pblancNo=2026910307&houseSecd=04",
 		"in_date": "20261124",
 		"hsecd": "04",
@@ -969,6 +810,30 @@
 		"rse": "11",
 		"type": "",
 		"name": "더샵 분당센트로(7차)"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940264&pblancNo=2026940264&houseSecd=11",
+		"in_date": "20261124",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "용인 고림 동문 디 이스트"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940259&pblancNo=2026940259&houseSecd=11",
+		"in_date": "20261124",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "음성자이 센트럴시티"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940258&pblancNo=2026940258&houseSecd=11",
+		"in_date": "20261124",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "중앙하이츠 원종역(4차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
@@ -1130,12 +995,54 @@
 		"apply_nums": "74세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910306&pblancNo=2026910306&houseSecd=04",
+		"in_date": "20261125",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "광안센텀 비스타동원(조합원 취소분)",
+		"addr": "부산광역시 수영구 광안동 971",
+		"short_addr": "부산광역시 수영구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "수영구",
+		"apply_nums": "39세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910298&pblancNo=2026910298&houseSecd=04",
+		"in_date": "20261125",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "한양립스 에듀포레(조합원 취소분)",
+		"addr": "전남광주통합특별시 광산구 하산동 269번지 일원",
+		"short_addr": "전남광주통합특별시 광산구",
+		"addr_lv1": "전남광주통합특별시",
+		"addr_lv2": "광산구",
+		"apply_nums": "4세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940257&pblancNo=2026940257&houseSecd=11",
 		"in_date": "20261125",
 		"hsecd": "11",
 		"rse": "11",
 		"type": "",
 		"name": "강동한강 디에트르"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940259&pblancNo=2026940259&houseSecd=11",
+		"in_date": "20261125",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "음성자이 센트럴시티"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940258&pblancNo=2026940258&houseSecd=11",
+		"in_date": "20261125",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "중앙하이츠 원종역(4차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
@@ -1183,6 +1090,14 @@
 		"addr_lv1": "서울특별시",
 		"addr_lv2": "중랑구",
 		"apply_nums": "74세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940258&pblancNo=2026940258&houseSecd=11",
+		"in_date": "20261126",
+		"hsecd": "11",
+		"rse": "11",
+		"type": "",
+		"name": "중앙하이츠 원종역(4차)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
@@ -1243,6 +1158,45 @@
 		"apply_nums": "102세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000521&pblancNo=2026000521&houseSecd=01",
+		"in_date": "20261130",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "더샵 천안라크원",
+		"addr": "충청남도 천안시 서북구 부대동 354번지 일원",
+		"short_addr": "충청남도 천안시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "천안시",
+		"apply_nums": "1032세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000591&pblancNo=2026000591&houseSecd=01",
+		"in_date": "20261130",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "소사 휴먼빌",
+		"addr": "경기도 부천시 소사구 소사본동 277-30번지 일원",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "45세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000575&pblancNo=2026000575&houseSecd=01",
+		"in_date": "20261130",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "왕숙 한신더휴 센텀(남양주 왕숙 A-17BL) 공공분양주택",
+		"addr": "경기도 남양주시 진건읍 진관리 일원 남양주 왕숙 공공주택지구 A-17BL",
+		"short_addr": "경기도 남양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "남양주시",
+		"apply_nums": "379세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000505&pblancNo=2026000505&houseSecd=01",
 		"in_date": "20261130",
 		"hsecd": "01",
@@ -1277,6 +1231,45 @@
 		"apply_nums": "102세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000521&pblancNo=2026000521&houseSecd=01",
+		"in_date": "20261201",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "더샵 천안라크원",
+		"addr": "충청남도 천안시 서북구 부대동 354번지 일원",
+		"short_addr": "충청남도 천안시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "천안시",
+		"apply_nums": "1032세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000591&pblancNo=2026000591&houseSecd=01",
+		"in_date": "20261201",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "소사 휴먼빌",
+		"addr": "경기도 부천시 소사구 소사본동 277-30번지 일원",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "45세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000575&pblancNo=2026000575&houseSecd=01",
+		"in_date": "20261201",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "왕숙 한신더휴 센텀(남양주 왕숙 A-17BL) 공공분양주택",
+		"addr": "경기도 남양주시 진건읍 진관리 일원 남양주 왕숙 공공주택지구 A-17BL",
+		"short_addr": "경기도 남양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "남양주시",
+		"apply_nums": "379세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
 		"in_date": "20261201",
 		"hsecd": null,
@@ -1296,6 +1289,45 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "고양시",
 		"apply_nums": "102세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000521&pblancNo=2026000521&houseSecd=01",
+		"in_date": "20261202",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "더샵 천안라크원",
+		"addr": "충청남도 천안시 서북구 부대동 354번지 일원",
+		"short_addr": "충청남도 천안시",
+		"addr_lv1": "충청남도",
+		"addr_lv2": "천안시",
+		"apply_nums": "1032세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000591&pblancNo=2026000591&houseSecd=01",
+		"in_date": "20261202",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "소사 휴먼빌",
+		"addr": "경기도 부천시 소사구 소사본동 277-30번지 일원",
+		"short_addr": "경기도 부천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "부천시",
+		"apply_nums": "45세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000575&pblancNo=2026000575&houseSecd=01",
+		"in_date": "20261202",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "왕숙 한신더휴 센텀(남양주 왕숙 A-17BL) 공공분양주택",
+		"addr": "경기도 남양주시 진건읍 진관리 일원 남양주 왕숙 공공주택지구 A-17BL",
+		"short_addr": "경기도 남양주시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "남양주시",
+		"apply_nums": "379세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
