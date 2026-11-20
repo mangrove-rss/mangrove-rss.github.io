@@ -1,146 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000434&pblancNo=2026000434&houseSecd=01",
-		"in_date": "20261117",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "삼도이동 1지구 토지임대부 공공분양주택",
-		"addr": "제주특별자치도 제주시 삼도이동 1244-1 ",
-		"short_addr": "제주특별자치도 제주시",
-		"addr_lv1": "제주특별자치도",
-		"addr_lv2": "제주시",
-		"apply_nums": "32세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000435&pblancNo=2026000435&houseSecd=01",
-		"in_date": "20261117",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "삼도이동 2지구 토지임대부 공공분양주택",
-		"addr": "제주특별자치도 제주시 삼도이동 1246-1 외 4필지",
-		"short_addr": "제주특별자치도 제주시",
-		"addr_lv1": "제주특별자치도",
-		"addr_lv2": "제주시",
-		"apply_nums": "40세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000553&pblancNo=2026000553&houseSecd=01",
-		"in_date": "20261117",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "의정부역 펠리스타워 양우내안애",
-		"addr": "경기도 의정부시 의정부동 424번지 일원 ",
-		"short_addr": "경기도 의정부시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "의정부시",
-		"apply_nums": "414세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000557&pblancNo=2026000557&houseSecd=01",
-		"in_date": "20261117",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "제일풍경채 광주 포에듀",
-		"addr": "경기도 광주시 탄벌동 203-4번지 일원 (탄벌A지구 A5블럭)",
-		"short_addr": "경기도 광주시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "광주시",
-		"apply_nums": "572세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000497&pblancNo=2026000497&houseSecd=01",
-		"in_date": "20261117",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "중화역 라온프라이빗 센트로",
-		"addr": "서울특별시 중랑구 중화동 303-9번지 일원",
-		"short_addr": "서울특별시 중랑구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "중랑구",
-		"apply_nums": "113세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000554&pblancNo=2026000554&houseSecd=01",
-		"in_date": "20261117",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "리첼 에듀포레 경산역",
-		"addr": "경상북도 경산시 사정동 301-22번지 일원",
-		"short_addr": "경상북도 경산시",
-		"addr_lv1": "경상북도",
-		"addr_lv2": "경산시",
-		"apply_nums": "201세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950095&pblancNo=2026950095&houseSecd=02",
-		"in_date": "20261117",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "신대방역 더하이브퍼스트",
-		"addr": "서울특별시 관악구 신림동 505-1",
-		"short_addr": "서울특별시 관악구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "관악구",
-		"apply_nums": "12세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910287&pblancNo=2026910287&houseSecd=04",
-		"in_date": "20261117",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "더샵 청주그리니티(2차)",
-		"addr": "충청북도 청주시 서원구 개신동 767번지",
-		"short_addr": "충청북도 청주시",
-		"addr_lv1": "충청북도",
-		"addr_lv2": "청주시",
-		"apply_nums": "1세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910290&pblancNo=2026910290&houseSecd=04",
-		"in_date": "20261117",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "청계 노르웨이숲(14차)",
-		"addr": "서울특별시 중구 황학동 1756번지 일원",
-		"short_addr": "서울특별시 중구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "중구",
-		"apply_nums": "6세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940250&pblancNo=2026940250&houseSecd=11",
-		"in_date": "20261117",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "고덕신도시 아테라 A-63블록 공공분양주택(3차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940249&pblancNo=2026940249&houseSecd=11",
-		"in_date": "20261117",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "야목역 서희스타힐스 그랜드힐(조합원 취소분)(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
-		"in_date": "20261117",
-		"hsecd": null,
-		"rse": "12",
-		"type": "",
-		"name": null
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000497&pblancNo=2026000497&houseSecd=01",
 		"in_date": "20261118",
 		"hsecd": "01",
@@ -995,6 +854,19 @@
 		"apply_nums": "74세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950097&pblancNo=2026950097&houseSecd=02",
+		"in_date": "20261125",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "힐스테이트 오송레이크센트럴",
+		"addr": "충청북도 청주시 흥덕구 오송읍 연제리 664-8",
+		"short_addr": "충청북도 청주시",
+		"addr_lv1": "충청북도",
+		"addr_lv2": "청주시",
+		"apply_nums": "703세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910306&pblancNo=2026910306&houseSecd=04",
 		"in_date": "20261125",
 		"hsecd": "04",
@@ -1158,6 +1030,45 @@
 		"apply_nums": "102세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000598&pblancNo=2026000598&houseSecd=01",
+		"in_date": "20261130",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "고창 데시앙 2블록(공공분양)",
+		"addr": "전북특별자치도 고창군 덕산지구 도시개발구역 내 공동주택 BL2",
+		"short_addr": "전북특별자치도 고창군",
+		"addr_lv1": "전북특별자치도",
+		"addr_lv2": "고창군",
+		"apply_nums": "180세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000596&pblancNo=2026000596&houseSecd=01",
+		"in_date": "20261130",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "고창 데시앙 2블록(민영)",
+		"addr": "전북특별자치도 고창군 덕산지구 도시개발구역 내 공동주택 BL2",
+		"short_addr": "전북특별자치도 고창군",
+		"addr_lv1": "전북특별자치도",
+		"addr_lv2": "고창군",
+		"apply_nums": "177세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000597&pblancNo=2026000597&houseSecd=01",
+		"in_date": "20261130",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "고창 데시앙 3블록(공공분양)",
+		"addr": "전북특별자치도 고창군 덕산지구 도시개발구역 내 공동주택 BL3",
+		"short_addr": "전북특별자치도 고창군",
+		"addr_lv1": "전북특별자치도",
+		"addr_lv2": "고창군",
+		"apply_nums": "531세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000521&pblancNo=2026000521&houseSecd=01",
 		"in_date": "20261130",
 		"hsecd": "01",
@@ -1171,6 +1082,19 @@
 		"apply_nums": "1032세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000590&pblancNo=2026000590&houseSecd=01",
+		"in_date": "20261130",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "두산위브 시그니처 광양",
+		"addr": "전남광주통합특별시 광양시 중동 1294, 1294-1번지",
+		"short_addr": "전남광주통합특별시 광양시",
+		"addr_lv1": "전남광주통합특별시",
+		"addr_lv2": "광양시",
+		"apply_nums": "120세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000591&pblancNo=2026000591&houseSecd=01",
 		"in_date": "20261130",
 		"hsecd": "01",
@@ -1182,6 +1106,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "부천시",
 		"apply_nums": "45세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000510&pblancNo=2026000510&houseSecd=01",
+		"in_date": "20261130",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "연산역 수자인 센트리오",
+		"addr": "부산광역시 연제구 연산동 580-4번지 일원",
+		"short_addr": "부산광역시 연제구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "연제구",
+		"apply_nums": "139세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000575&pblancNo=2026000575&houseSecd=01",
@@ -1231,6 +1168,45 @@
 		"apply_nums": "102세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000598&pblancNo=2026000598&houseSecd=01",
+		"in_date": "20261201",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "고창 데시앙 2블록(공공분양)",
+		"addr": "전북특별자치도 고창군 덕산지구 도시개발구역 내 공동주택 BL2",
+		"short_addr": "전북특별자치도 고창군",
+		"addr_lv1": "전북특별자치도",
+		"addr_lv2": "고창군",
+		"apply_nums": "180세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000596&pblancNo=2026000596&houseSecd=01",
+		"in_date": "20261201",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "고창 데시앙 2블록(민영)",
+		"addr": "전북특별자치도 고창군 덕산지구 도시개발구역 내 공동주택 BL2",
+		"short_addr": "전북특별자치도 고창군",
+		"addr_lv1": "전북특별자치도",
+		"addr_lv2": "고창군",
+		"apply_nums": "177세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000597&pblancNo=2026000597&houseSecd=01",
+		"in_date": "20261201",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "고창 데시앙 3블록(공공분양)",
+		"addr": "전북특별자치도 고창군 덕산지구 도시개발구역 내 공동주택 BL3",
+		"short_addr": "전북특별자치도 고창군",
+		"addr_lv1": "전북특별자치도",
+		"addr_lv2": "고창군",
+		"apply_nums": "531세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000521&pblancNo=2026000521&houseSecd=01",
 		"in_date": "20261201",
 		"hsecd": "01",
@@ -1244,6 +1220,19 @@
 		"apply_nums": "1032세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000590&pblancNo=2026000590&houseSecd=01",
+		"in_date": "20261201",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "두산위브 시그니처 광양",
+		"addr": "전남광주통합특별시 광양시 중동 1294, 1294-1번지",
+		"short_addr": "전남광주통합특별시 광양시",
+		"addr_lv1": "전남광주통합특별시",
+		"addr_lv2": "광양시",
+		"apply_nums": "120세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000591&pblancNo=2026000591&houseSecd=01",
 		"in_date": "20261201",
 		"hsecd": "01",
@@ -1255,6 +1244,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "부천시",
 		"apply_nums": "45세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000510&pblancNo=2026000510&houseSecd=01",
+		"in_date": "20261201",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "연산역 수자인 센트리오",
+		"addr": "부산광역시 연제구 연산동 580-4번지 일원",
+		"short_addr": "부산광역시 연제구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "연제구",
+		"apply_nums": "139세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000575&pblancNo=2026000575&houseSecd=01",
@@ -1291,6 +1293,45 @@
 		"apply_nums": "102세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000598&pblancNo=2026000598&houseSecd=01",
+		"in_date": "20261202",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "고창 데시앙 2블록(공공분양)",
+		"addr": "전북특별자치도 고창군 덕산지구 도시개발구역 내 공동주택 BL2",
+		"short_addr": "전북특별자치도 고창군",
+		"addr_lv1": "전북특별자치도",
+		"addr_lv2": "고창군",
+		"apply_nums": "180세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000596&pblancNo=2026000596&houseSecd=01",
+		"in_date": "20261202",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "고창 데시앙 2블록(민영)",
+		"addr": "전북특별자치도 고창군 덕산지구 도시개발구역 내 공동주택 BL2",
+		"short_addr": "전북특별자치도 고창군",
+		"addr_lv1": "전북특별자치도",
+		"addr_lv2": "고창군",
+		"apply_nums": "177세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000597&pblancNo=2026000597&houseSecd=01",
+		"in_date": "20261202",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "고창 데시앙 3블록(공공분양)",
+		"addr": "전북특별자치도 고창군 덕산지구 도시개발구역 내 공동주택 BL3",
+		"short_addr": "전북특별자치도 고창군",
+		"addr_lv1": "전북특별자치도",
+		"addr_lv2": "고창군",
+		"apply_nums": "531세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000521&pblancNo=2026000521&houseSecd=01",
 		"in_date": "20261202",
 		"hsecd": "01",
@@ -1304,6 +1345,19 @@
 		"apply_nums": "1032세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000590&pblancNo=2026000590&houseSecd=01",
+		"in_date": "20261202",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "두산위브 시그니처 광양",
+		"addr": "전남광주통합특별시 광양시 중동 1294, 1294-1번지",
+		"short_addr": "전남광주통합특별시 광양시",
+		"addr_lv1": "전남광주통합특별시",
+		"addr_lv2": "광양시",
+		"apply_nums": "120세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000591&pblancNo=2026000591&houseSecd=01",
 		"in_date": "20261202",
 		"hsecd": "01",
@@ -1315,6 +1369,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "부천시",
 		"apply_nums": "45세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000510&pblancNo=2026000510&houseSecd=01",
+		"in_date": "20261202",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "연산역 수자인 센트리오",
+		"addr": "부산광역시 연제구 연산동 580-4번지 일원",
+		"short_addr": "부산광역시 연제구",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "연제구",
+		"apply_nums": "139세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000575&pblancNo=2026000575&houseSecd=01",
@@ -1368,6 +1435,19 @@
 		"rse": "12",
 		"type": "",
 		"name": null
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950089&pblancNo=2026950089&houseSecd=02",
+		"in_date": "20261207",
+		"hsecd": "02",
+		"rse": "05",
+		"type": "오피스텔/도시형생활주택/민간임대",
+		"name": "청라 아크원 푸르지오",
+		"addr": "인천광역시 서해구 청라동 86-1번지(인천경제자유구역 청라국제도시 M5BL)",
+		"short_addr": "인천광역시 서해구",
+		"addr_lv1": "인천광역시",
+		"addr_lv2": "서해구",
+		"apply_nums": "987세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
