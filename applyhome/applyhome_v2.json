@@ -1,50 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000497&pblancNo=2026000497&houseSecd=01",
-		"in_date": "20261119",
-		"hsecd": "01",
-		"rse": "03",
-		"type": "APT 2순위",
-		"name": "중화역 라온프라이빗 센트로",
-		"addr": "서울특별시 중랑구 중화동 303-9번지 일원",
-		"short_addr": "서울특별시 중랑구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "중랑구",
-		"apply_nums": "113세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940256&pblancNo=2026940256&houseSecd=11",
-		"in_date": "20261119",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "디에이치 신반포에스테라"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940262&pblancNo=2026940262&houseSecd=11",
-		"in_date": "20261119",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "리아츠 더 인천(24차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940249&pblancNo=2026940249&houseSecd=11",
-		"in_date": "20261119",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "야목역 서희스타힐스 그랜드힐(조합원 취소분)(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
-		"in_date": "20261119",
-		"hsecd": null,
-		"rse": "12",
-		"type": "",
-		"name": null
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940260&pblancNo=2026940260&houseSecd=11",
 		"in_date": "20261120",
 		"hsecd": "11",
@@ -1024,6 +979,66 @@
 		"apply_nums": "134세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850057&pblancNo=2026850057&houseSecd=03",
+		"in_date": "20261130",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "의왕 백운밸리 리젠시빌 란트"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910304&pblancNo=2026910304&houseSecd=04",
+		"in_date": "20261130",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "더샵 분당하이스트(2차)",
+		"addr": "경기도 성남시 분당구 정자동 90번지",
+		"short_addr": "경기도 성남시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "성남시",
+		"apply_nums": "34세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910303&pblancNo=2026910303&houseSecd=04",
+		"in_date": "20261130",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "동탄신도시 금강펜테리움 7차 센트럴파크(2차)",
+		"addr": "경기도 화성시 동탄구 동탄신리천로8길 17, 동탄신도시 금강펜테리움 7차 센트럴파크",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
+		"apply_nums": "4세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910289&pblancNo=2026910289&houseSecd=04",
+		"in_date": "20261130",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "이안 엑소디움 에이펙스",
+		"addr": "대구광역시 달서구 감삼동 599-51 (도로명주소 : 대구광역시 달서구 달구벌대로 1514)",
+		"short_addr": "대구광역시 달서구",
+		"addr_lv1": "대구광역시",
+		"addr_lv2": "달서구",
+		"apply_nums": "6세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910305&pblancNo=2026910305&houseSecd=04",
+		"in_date": "20261130",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "판교TH212(2차)",
+		"addr": "경기도 성남시 분당구 판교대장지구 B2, B3BL",
+		"short_addr": "경기도 성남시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "성남시",
+		"apply_nums": "1세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
 		"in_date": "20261130",
 		"hsecd": null,
@@ -1147,6 +1162,32 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "남양주시",
 		"apply_nums": "379세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910301&pblancNo=2026910301&houseSecd=04",
+		"in_date": "20261201",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "이천 서희스타힐스 SKY (조합원 취소분)",
+		"addr": "경기도 이천시 안흥동 279-1번지 일원",
+		"short_addr": "경기도 이천시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "이천시",
+		"apply_nums": "3세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910302&pblancNo=2026910302&houseSecd=04",
+		"in_date": "20261201",
+		"hsecd": "04",
+		"rse": "06",
+		"type": "무순위/취소후재공급",
+		"name": "한화포레나 영흥숲(4차)",
+		"addr": "경기도 수원시 영통구 원천동 333-1번지 일원",
+		"short_addr": "경기도 수원시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "수원시",
+		"apply_nums": "2세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
