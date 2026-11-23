@@ -1,46 +1,6 @@
 [
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940260&pblancNo=2026940260&houseSecd=11",
-		"in_date": "20261120",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "더샵 분당센트로(7차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940262&pblancNo=2026940262&houseSecd=11",
-		"in_date": "20261120",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "리아츠 더 인천(24차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940249&pblancNo=2026940249&houseSecd=11",
-		"in_date": "20261120",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "야목역 서희스타힐스 그랜드힐(조합원 취소분)(2차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940263&pblancNo=2026940263&houseSecd=11",
-		"in_date": "20261120",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "이천역 예미지 센트럴파크(4차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
-		"in_date": "20261120",
-		"hsecd": null,
-		"rse": "12",
-		"type": "",
-		"name": null
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940260&pblancNo=2026940260&houseSecd=11",
 		"in_date": "20261121",
 		"hsecd": "11",
 		"rse": "11",
@@ -979,6 +939,14 @@
 		"apply_nums": "134세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850058&pblancNo=2026850058&houseSecd=03",
+		"in_date": "20261130",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "부경경마공원역 대방 디에트르 더리버(AP1BL)"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850057&pblancNo=2026850057&houseSecd=03",
 		"in_date": "20261130",
 		"hsecd": "03",
@@ -1036,6 +1004,19 @@
 		"short_addr": "경기도 성남시",
 		"addr_lv1": "경기도",
 		"addr_lv2": "성남시",
+		"apply_nums": "1세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026930048&pblancNo=2026930048&houseSecd=06",
+		"in_date": "20261130",
+		"hsecd": "06",
+		"rse": "07",
+		"type": "",
+		"name": "동탄신도시 금강펜테리움 7차 센트럴파크 불법행위재공급",
+		"addr": "경기도 화성시 신동 동탄2택지개발지구(A57-2블럭)",
+		"short_addr": "경기도 화성시",
+		"addr_lv1": "경기도",
+		"addr_lv2": "화성시",
 		"apply_nums": "1세대"
 	},
 	{
@@ -1162,6 +1143,14 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "남양주시",
 		"apply_nums": "379세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850058&pblancNo=2026850058&houseSecd=03",
+		"in_date": "20261201",
+		"hsecd": "03",
+		"rse": "04",
+		"type": "",
+		"name": "부경경마공원역 대방 디에트르 더리버(AP1BL)"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910301&pblancNo=2026910301&houseSecd=04",
