@@ -1,230 +1,5 @@
 [
 	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000536&pblancNo=2026000536&houseSecd=01",
-		"in_date": "20261124",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "구미 파크원 데시앙",
-		"addr": "경상북도 구미시 도량동 산40-4번지 일원",
-		"short_addr": "경상북도 구미시",
-		"addr_lv1": "경상북도",
-		"addr_lv2": "구미시",
-		"apply_nums": "1355세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000563&pblancNo=2026000563&houseSecd=01",
-		"in_date": "20261124",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "더샵 트리센트(조합원 자격상실 세대분)",
-		"addr": "부산광역시 남구 문현동 334번지 일원",
-		"short_addr": "부산광역시 남구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "남구",
-		"apply_nums": "103세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000559&pblancNo=2026000559&houseSecd=01",
-		"in_date": "20261124",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "두산위브 트레지움 익산",
-		"addr": "전북특별자치도 익산시 동산동 1057번지 일원",
-		"short_addr": "전북특별자치도 익산시",
-		"addr_lv1": "전북특별자치도",
-		"addr_lv2": "익산시",
-		"apply_nums": "251세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000457&pblancNo=2026000457&houseSecd=01",
-		"in_date": "20261124",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "부천대장 하우스토리 디센트(부천대장지구 A2BL) 공공분양주택",
-		"addr": "경기도 부천시 오정구 대장동, 오정동, 원종동, 삼정동 일원 부천대장 공공주택지구 내 A2블록",
-		"short_addr": "경기도 부천시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "부천시",
-		"apply_nums": "548세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000576&pblancNo=2026000576&houseSecd=01",
-		"in_date": "20261124",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "아르뮤제자이",
-		"addr": "경기도 안산시 상록구 성포동 586번지 일원",
-		"short_addr": "경기도 안산시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "안산시",
-		"apply_nums": "984세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000540&pblancNo=2026000540&houseSecd=01",
-		"in_date": "20261124",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "엘리프 논산 디에디션",
-		"addr": "충청남도 논산시 내동3지구 도시개발구역 7블록 1로트 (내동 495번지 외) ",
-		"short_addr": "충청남도 논산시",
-		"addr_lv1": "충청남도",
-		"addr_lv2": "논산시",
-		"apply_nums": "499세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000560&pblancNo=2026000560&houseSecd=01",
-		"in_date": "20261124",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "해링턴 플레이스 문래",
-		"addr": "서울특별시 영등포구 문래동3가 27-1번지 일원",
-		"short_addr": "서울특별시 영등포구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "영등포구",
-		"apply_nums": "218세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000566&pblancNo=2026000566&houseSecd=01",
-		"in_date": "20261124",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "호반써밋 초량",
-		"addr": "부산광역시 동구 초량3동 659번지 일원",
-		"short_addr": "부산광역시 동구",
-		"addr_lv1": "부산광역시",
-		"addr_lv2": "동구",
-		"apply_nums": "236세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000558&pblancNo=2026000558&houseSecd=01",
-		"in_date": "20261124",
-		"hsecd": "01",
-		"rse": "02",
-		"type": "APT 1순위",
-		"name": "화정1지구 아르엘",
-		"addr": "울산광역시 동구 화정동 12-6번지 일원",
-		"short_addr": "울산광역시 동구",
-		"addr_lv1": "울산광역시",
-		"addr_lv2": "동구",
-		"apply_nums": "802세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026850056&pblancNo=2026850056&houseSecd=03",
-		"in_date": "20261124",
-		"hsecd": "03",
-		"rse": "04",
-		"type": "",
-		"name": "서면 지원 더뷰 드림아파트(공공지원민간임대)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950098&pblancNo=2026950098&houseSecd=02",
-		"in_date": "20261124",
-		"hsecd": "02",
-		"rse": "05",
-		"type": "오피스텔/도시형생활주택/민간임대",
-		"name": "아르뮤제자이",
-		"addr": "경기도 안산시 상록구 성포동 586번지",
-		"short_addr": "경기도 안산시",
-		"addr_lv1": "경기도",
-		"addr_lv2": "안산시",
-		"apply_nums": "370세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910300&pblancNo=2026910300&houseSecd=04",
-		"in_date": "20261124",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "산곡역자이힐스테이트앤하늘채",
-		"addr": "인천광역시 부평구 산곡동 10번지 일원(산곡6 주택재개발정비사업)",
-		"short_addr": "인천광역시 부평구",
-		"addr_lv1": "인천광역시",
-		"addr_lv2": "부평구",
-		"apply_nums": "550세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTRemndrLttotPblancDetailView.do?houseManageNo=2026910307&pblancNo=2026910307&houseSecd=04",
-		"in_date": "20261124",
-		"hsecd": "04",
-		"rse": "06",
-		"type": "무순위/취소후재공급",
-		"name": "인천 검단신도시 AB13블록 호반써밋Ⅲ",
-		"addr": "인천 검단신도시 AB13블록 호반써밋 아라 (인천광역시 검단구 이음4로 101)",
-		"short_addr": "인천 검단신도시",
-		"addr_lv1": "인천",
-		"addr_lv2": "검단신도시",
-		"apply_nums": "1세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026930045&pblancNo=2026930045&houseSecd=06",
-		"in_date": "20261124",
-		"hsecd": "06",
-		"rse": "07",
-		"type": "",
-		"name": "잠실 래미안아이파크",
-		"addr": "서울특별시 송파구 신천동 20-4번지 일대(잠실진주주택재건축정비사업)",
-		"short_addr": "서울특별시 송파구",
-		"addr_lv1": "서울특별시",
-		"addr_lv2": "송파구",
-		"apply_nums": "3세대"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940257&pblancNo=2026940257&houseSecd=11",
-		"in_date": "20261124",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "강동한강 디에트르"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940260&pblancNo=2026940260&houseSecd=11",
-		"in_date": "20261124",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "더샵 분당센트로(7차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940264&pblancNo=2026940264&houseSecd=11",
-		"in_date": "20261124",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "용인 고림 동문 디 이스트"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940259&pblancNo=2026940259&houseSecd=11",
-		"in_date": "20261124",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "음성자이 센트럴시티"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026940258&pblancNo=2026940258&houseSecd=11",
-		"in_date": "20261124",
-		"hsecd": "11",
-		"rse": "11",
-		"type": "",
-		"name": "중앙하이츠 원종역(4차)"
-	},
-	{
-		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
-		"in_date": "20261124",
-		"hsecd": null,
-		"rse": "12",
-		"type": "",
-		"name": null
-	},
-	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000505&pblancNo=2026000505&houseSecd=01",
 		"in_date": "20261125",
 		"hsecd": "01",
@@ -956,6 +731,19 @@
 		"name": null
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000589&pblancNo=2026000589&houseSecd=01",
+		"in_date": "20261202",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "트리븐 가흥",
+		"addr": "경상북도 영주시 가흥동 1059-10 일원",
+		"short_addr": "경상북도 영주시",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "영주시",
+		"apply_nums": "765세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000585&pblancNo=2026000585&houseSecd=01",
 		"in_date": "20261202",
 		"hsecd": "01",
@@ -1094,12 +882,38 @@
 		"name": null
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000589&pblancNo=2026000589&houseSecd=01",
+		"in_date": "20261203",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "트리븐 가흥",
+		"addr": "경상북도 영주시 가흥동 1059-10 일원",
+		"short_addr": "경상북도 영주시",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "영주시",
+		"apply_nums": "765세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
 		"in_date": "20261203",
 		"hsecd": null,
 		"rse": "12",
 		"type": "",
 		"name": null
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000589&pblancNo=2026000589&houseSecd=01",
+		"in_date": "20261204",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "트리븐 가흥",
+		"addr": "경상북도 영주시 가흥동 1059-10 일원",
+		"short_addr": "경상북도 영주시",
+		"addr_lv1": "경상북도",
+		"addr_lv2": "영주시",
+		"apply_nums": "765세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
@@ -1152,6 +966,58 @@
 		"apply_nums": "562세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000573&pblancNo=2026000573&houseSecd=01",
+		"in_date": "20261207",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "세종스마트시티 엘 수자인(행정중심복합도시 5-1생활권 L11블록, 꽃나루마을 28단지)",
+		"addr": "세종특별자치시 합강동 40번지 일원(행정중심복합도시 5-1생활권 L11BL)",
+		"short_addr": "세종특별자치시 합강동",
+		"addr_lv1": "세종특별자치시",
+		"addr_lv2": "합강동",
+		"apply_nums": "507세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000570&pblancNo=2026000570&houseSecd=01",
+		"in_date": "20261207",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "세종스마트시티 엘 수자인(행정중심복합도시 5-1생활권 L6블록, 꽃나루마을 16단지)",
+		"addr": "세종특별자치시 합강동 171-3번지 일원 (행정중심복합도시 5-1생활권 L6BL)",
+		"short_addr": "세종특별자치시 합강동",
+		"addr_lv1": "세종특별자치시",
+		"addr_lv2": "합강동",
+		"apply_nums": "818세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000571&pblancNo=2026000571&houseSecd=01",
+		"in_date": "20261207",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "세종스마트시티 엘 수자인(행정중심복합도시 5-1생활권 L7블록, 꽃나루마을 24단지)",
+		"addr": "세종특별자치시 합강동 산74-1번지 일원(행정중심복합도시 5-1생활권 L7BL)",
+		"short_addr": "세종특별자치시 합강동",
+		"addr_lv1": "세종특별자치시",
+		"addr_lv2": "합강동",
+		"apply_nums": "648세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000572&pblancNo=2026000572&houseSecd=01",
+		"in_date": "20261207",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "세종스마트시티 엘 수자인(행정중심복합도시 5-1생활권 L8블록, 꽃나루마을 26단지)",
+		"addr": "세종특별자치시 합강동 산74-1번지 일원(행정중심복합도시 5-1생활권 L8BL)",
+		"short_addr": "세종특별자치시 합강동",
+		"addr_lv1": "세종특별자치시",
+		"addr_lv2": "합강동",
+		"apply_nums": "218세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000574&pblancNo=2026000574&houseSecd=01",
 		"in_date": "20261207",
 		"hsecd": "01",
@@ -1176,6 +1042,19 @@
 		"addr_lv1": "경기도",
 		"addr_lv2": "용인시",
 		"apply_nums": "661세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000588&pblancNo=2026000588&houseSecd=01",
+		"in_date": "20261207",
+		"hsecd": "01",
+		"rse": "01",
+		"type": "APT 특별공급",
+		"name": "일광 THE S",
+		"addr": "부산광역시 기장군 일광읍 이천리 345-1번지 일원",
+		"short_addr": "부산광역시 기장군",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "기장군",
+		"apply_nums": "1968세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectPRMOLttotPblancDetailView.do?houseManageNo=2026950089&pblancNo=2026950089&houseSecd=02",
@@ -1238,6 +1117,58 @@
 		"apply_nums": "562세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000573&pblancNo=2026000573&houseSecd=01",
+		"in_date": "20261208",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "세종스마트시티 엘 수자인(행정중심복합도시 5-1생활권 L11블록, 꽃나루마을 28단지)",
+		"addr": "세종특별자치시 합강동 40번지 일원(행정중심복합도시 5-1생활권 L11BL)",
+		"short_addr": "세종특별자치시 합강동",
+		"addr_lv1": "세종특별자치시",
+		"addr_lv2": "합강동",
+		"apply_nums": "507세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000570&pblancNo=2026000570&houseSecd=01",
+		"in_date": "20261208",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "세종스마트시티 엘 수자인(행정중심복합도시 5-1생활권 L6블록, 꽃나루마을 16단지)",
+		"addr": "세종특별자치시 합강동 171-3번지 일원 (행정중심복합도시 5-1생활권 L6BL)",
+		"short_addr": "세종특별자치시 합강동",
+		"addr_lv1": "세종특별자치시",
+		"addr_lv2": "합강동",
+		"apply_nums": "818세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000571&pblancNo=2026000571&houseSecd=01",
+		"in_date": "20261208",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "세종스마트시티 엘 수자인(행정중심복합도시 5-1생활권 L7블록, 꽃나루마을 24단지)",
+		"addr": "세종특별자치시 합강동 산74-1번지 일원(행정중심복합도시 5-1생활권 L7BL)",
+		"short_addr": "세종특별자치시 합강동",
+		"addr_lv1": "세종특별자치시",
+		"addr_lv2": "합강동",
+		"apply_nums": "648세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000572&pblancNo=2026000572&houseSecd=01",
+		"in_date": "20261208",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "세종스마트시티 엘 수자인(행정중심복합도시 5-1생활권 L8블록, 꽃나루마을 26단지)",
+		"addr": "세종특별자치시 합강동 산74-1번지 일원(행정중심복합도시 5-1생활권 L8BL)",
+		"short_addr": "세종특별자치시 합강동",
+		"addr_lv1": "세종특별자치시",
+		"addr_lv2": "합강동",
+		"apply_nums": "218세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000574&pblancNo=2026000574&houseSecd=01",
 		"in_date": "20261208",
 		"hsecd": "01",
@@ -1249,6 +1180,19 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "연수구",
 		"apply_nums": "592세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000588&pblancNo=2026000588&houseSecd=01",
+		"in_date": "20261208",
+		"hsecd": "01",
+		"rse": "02",
+		"type": "APT 1순위",
+		"name": "일광 THE S",
+		"addr": "부산광역시 기장군 일광읍 이천리 345-1번지 일원",
+		"short_addr": "부산광역시 기장군",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "기장군",
+		"apply_nums": "1968세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
@@ -1298,6 +1242,58 @@
 		"apply_nums": "562세대"
 	},
 	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000573&pblancNo=2026000573&houseSecd=01",
+		"in_date": "20261209",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "세종스마트시티 엘 수자인(행정중심복합도시 5-1생활권 L11블록, 꽃나루마을 28단지)",
+		"addr": "세종특별자치시 합강동 40번지 일원(행정중심복합도시 5-1생활권 L11BL)",
+		"short_addr": "세종특별자치시 합강동",
+		"addr_lv1": "세종특별자치시",
+		"addr_lv2": "합강동",
+		"apply_nums": "507세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000570&pblancNo=2026000570&houseSecd=01",
+		"in_date": "20261209",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "세종스마트시티 엘 수자인(행정중심복합도시 5-1생활권 L6블록, 꽃나루마을 16단지)",
+		"addr": "세종특별자치시 합강동 171-3번지 일원 (행정중심복합도시 5-1생활권 L6BL)",
+		"short_addr": "세종특별자치시 합강동",
+		"addr_lv1": "세종특별자치시",
+		"addr_lv2": "합강동",
+		"apply_nums": "818세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000571&pblancNo=2026000571&houseSecd=01",
+		"in_date": "20261209",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "세종스마트시티 엘 수자인(행정중심복합도시 5-1생활권 L7블록, 꽃나루마을 24단지)",
+		"addr": "세종특별자치시 합강동 산74-1번지 일원(행정중심복합도시 5-1생활권 L7BL)",
+		"short_addr": "세종특별자치시 합강동",
+		"addr_lv1": "세종특별자치시",
+		"addr_lv2": "합강동",
+		"apply_nums": "648세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000572&pblancNo=2026000572&houseSecd=01",
+		"in_date": "20261209",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "세종스마트시티 엘 수자인(행정중심복합도시 5-1생활권 L8블록, 꽃나루마을 26단지)",
+		"addr": "세종특별자치시 합강동 산74-1번지 일원(행정중심복합도시 5-1생활권 L8BL)",
+		"short_addr": "세종특별자치시 합강동",
+		"addr_lv1": "세종특별자치시",
+		"addr_lv2": "합강동",
+		"apply_nums": "218세대"
+	},
+	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000574&pblancNo=2026000574&houseSecd=01",
 		"in_date": "20261209",
 		"hsecd": "01",
@@ -1309,6 +1305,19 @@
 		"addr_lv1": "인천광역시",
 		"addr_lv2": "연수구",
 		"apply_nums": "592세대"
+	},
+	{
+		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000588&pblancNo=2026000588&houseSecd=01",
+		"in_date": "20261209",
+		"hsecd": "01",
+		"rse": "03",
+		"type": "APT 2순위",
+		"name": "일광 THE S",
+		"addr": "부산광역시 기장군 일광읍 이천리 345-1번지 일원",
+		"short_addr": "부산광역시 기장군",
+		"addr_lv1": "부산광역시",
+		"addr_lv2": "기장군",
+		"apply_nums": "1968세대"
 	},
 	{
 		"link": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=None&pblancNo=None&houseSecd=None",
